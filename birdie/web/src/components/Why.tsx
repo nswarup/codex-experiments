@@ -47,19 +47,19 @@ export function WhySheet({
   }, [open, missing, onClose]);
   if (!profile || !topic) return null;
   const ex = explain(profile, topic);
-  // Nothing learned yet: every niche is still neutral and nothing has been read.
-  const learning = profile.seen.length < 2 && ex.tags.every((t) => Math.abs(t.score - 0.5) < 0.01);
+  // Nothing learned about these subjects yet: meters at neutral would only add noise.
+  const learning = ex.tags.every((t) => Math.abs(t.score - 0.5) < 0.05);
   const sentence =
     data.reason === "wildcard"
-      ? `A wildcard from ${topic.category}. About one in five topics comes from outside your picks, so Birdie can find interests you didn't know you had.`
+      ? `Something different, from ${topic.category}. About one topic in five comes from outside your picks, so you can find interests you didn't know you had.`
       : data.reason === "opened"
-        ? `You opened this one yourself. Birdie counts that as a strong signal for ${topic.category} and the niches below.`
+        ? `You opened this one yourself. Birdie takes that as a sign you like ${topic.category} and the subjects below.`
         : learning
           ? ex.picked
             ? `You picked ${topic.category}. Birdie is still learning what you like, from how long you read and what you tap.`
             : `Birdie is still learning what you like. This one scored well on what it knows so far.`
           : ex.picked
-            ? `You picked ${topic.category}, and its niches match what you've been reading.`
+            ? `You picked ${topic.category}, and it covers subjects you've been spending time on.`
             : `Your reading has pulled ${topic.category} up the list, even though you didn't pick it at the start.`;
   const ranked = [...CATEGORY_LIST].sort((a, b) => catScore(profile, b) - catScore(profile, a));
   const cats = ranked.slice(0, 5).includes(topic.category) ? ranked.slice(0, 5) : [...ranked.slice(0, 5), topic.category];

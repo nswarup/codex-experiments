@@ -15,8 +15,11 @@ export function SearchOverlay({ open, onClose }: { open: boolean; onClose: () =>
   const [q, setQ] = useState("");
   const input = useRef<HTMLInputElement>(null);
 
+  // Put focus back on whatever opened search (the icon, or the page for "/").
+  const opener = useRef<HTMLElement | null>(null);
   useEffect(() => {
     if (!open) return;
+    opener.current = document.activeElement instanceof HTMLElement && document.activeElement !== document.body ? document.activeElement : null;
     setQ("");
     const t = window.setTimeout(() => input.current?.focus(), 60);
     const onKey = (e: KeyboardEvent) => e.key === "Escape" && onClose();
@@ -24,6 +27,8 @@ export function SearchOverlay({ open, onClose }: { open: boolean; onClose: () =>
     return () => {
       window.clearTimeout(t);
       window.removeEventListener("keydown", onKey);
+      const o = opener.current;
+      if (o?.isConnected) window.setTimeout(() => o.focus({ preventScroll: true }), 0);
     };
   }, [open, onClose]);
 
@@ -97,7 +102,7 @@ export function SearchOverlay({ open, onClose }: { open: boolean; onClose: () =>
                       animate={{ opacity: 1, transform: "scale(1)" }}
                       exit={{ opacity: 0, transform: "scale(0.9)" }}
                       transition={{ duration: 0.15, ease: [0.23, 1, 0.32, 1] }}
-                      className="press flex h-9 w-9 items-center justify-center rounded-full bg-accent text-accent-fg"
+                      className="press -mr-1 flex h-11 w-11 items-center justify-center rounded-full bg-accent text-accent-fg"
                     >
                       <ArrowRight size={18} strokeWidth={2} />
                     </motion.button>

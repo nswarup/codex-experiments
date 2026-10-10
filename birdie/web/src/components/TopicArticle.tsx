@@ -65,6 +65,8 @@ export const TopicArticle = forwardRef<HTMLElement, { view: ArticleView; reason?
         data-article-title={view.title}
         className="article mx-auto max-w-[34em] px-6 pt-8"
         aria-busy={view.writing || undefined}
+        // While writing, hold about a screen of space so whatever sits below doesn't move as lines arrive.
+        style={view.writing ? { minHeight: "calc(100dvh - 120px)" } : undefined}
       >
         <h1 className="font-serif text-[1.9em] leading-[1.15] font-medium tracking-[-0.005em] text-strong text-balance">{view.title}</h1>
         {view.hook || (view.writing && view.category) ? (
@@ -119,9 +121,9 @@ export const TopicArticle = forwardRef<HTMLElement, { view: ArticleView; reason?
             })}
           </ul>
         )}
-        {view.writing && view.lede && (!view.bullets.length || view.bullets.length < 4) && (
-          <SkeletonLines lines={3} className="mt-6 pl-[18px]" />
-        )}
+        {/* Only before the first bullet: after that the caret shows progress, and a skeleton
+            pushed down line by line would make the whole page jump. */}
+        {view.writing && view.lede && !view.bullets.length && <SkeletonLines lines={3} className="mt-6 pl-[18px]" />}
 
         {actions && !view.writing && (
           <div className="mt-8 -mr-3 -ml-3 flex flex-wrap items-center gap-x-1 text-muted">

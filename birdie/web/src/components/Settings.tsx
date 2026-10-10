@@ -44,6 +44,12 @@ function switchTheme(theme: Theme) {
   else apply();
 }
 
+/**
+ * The Design lab is for reviewing open design calls, not for readers. It shows in this
+ * prototype; a production build sets VITE_LAB=off to remove it.
+ */
+const SHOW_LAB = import.meta.env.VITE_LAB !== "off";
+
 const CAN_VIBRATE = typeof navigator !== "undefined" && "vibrate" in navigator;
 
 export function SettingsSheet({ open, onClose }: { open: boolean; onClose: () => void }) {
@@ -107,7 +113,7 @@ export function SettingsSheet({ open, onClose }: { open: boolean; onClose: () =>
                       cue("select", { direction: i > prefs.size ? "forward" : "back", emphasis: "subtle" });
                       updatePrefs({ size: i });
                     }}
-                    className="flex h-11 w-9 items-center justify-center"
+                    className="flex h-11 w-11 items-center justify-center"
                   >
                     <span
                       className={cn(
@@ -194,6 +200,7 @@ export function SettingsSheet({ open, onClose }: { open: boolean; onClose: () =>
             </div>
           </Section>
 
+          {SHOW_LAB && (
           <section className="rounded-xl border border-dashed border-dot">
             <button
               type="button"
@@ -201,7 +208,7 @@ export function SettingsSheet({ open, onClose }: { open: boolean; onClose: () =>
               aria-expanded={labOpen}
               className="press flex h-12 w-full items-center justify-between px-4 text-left"
             >
-              <span className="font-mono text-[12px] font-medium tracking-[0.1em] text-muted uppercase">Design lab</span>
+              <span className="font-mono text-[11.5px] font-medium tracking-[0.1em] text-muted uppercase">Design lab · for review</span>
               <ChevronDown size={17} strokeWidth={1.7} className={cn("text-muted transition-transform duration-200", labOpen && "rotate-180")} />
             </button>
             <AnimatePresence initial={false}>
@@ -268,6 +275,7 @@ export function SettingsSheet({ open, onClose }: { open: boolean; onClose: () =>
               )}
             </AnimatePresence>
           </section>
+          )}
         </div>
       </div>
     </Sheet>

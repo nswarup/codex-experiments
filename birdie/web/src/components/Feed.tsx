@@ -7,7 +7,7 @@ import type { Topic } from "@/lib/types";
 import { allTopics, getState, getTopic, useApp } from "@/lib/store";
 import { FEED_WILDCARD_RATE, pickNext } from "@/lib/ranking";
 import { useEngagement } from "@/hooks/useEngagement";
-import { COVERING, getUi, pushTopic, useUi } from "@/lib/ui";
+import { COVERING, getUi, openOverlay, pushTopic, useUi } from "@/lib/ui";
 import { TopicArticle, viewOf } from "./TopicArticle";
 import { Nudges } from "./Nudges";
 import { TopBar } from "./TopBar";
@@ -165,6 +165,20 @@ export function Feed() {
     >
       <TopBar scroller={scroller} />
       <main className="pb-[calc(env(safe-area-inset-bottom,0px)+48px)]">
+        {!visible.length && (
+          // Only reachable if interests were lost somehow: one clear way forward.
+          <div className="mx-auto mt-24 flex max-w-[34em] flex-col items-start gap-4 px-6">
+            <BirdMark size={30} className="text-muted" />
+            <p className="font-serif text-[19px] leading-snug text-strong">Pick a few interests and Birdie will find something worth reading.</p>
+            <button
+              type="button"
+              onClick={() => openOverlay({ kind: "interests" })}
+              className="press h-12 rounded-full bg-accent px-6 font-serif text-[16px] font-semibold text-accent-fg"
+            >
+              Choose interests
+            </button>
+          </div>
+        )}
         {visible.map((item, i) => (
           <FeedEntry
             key={item.key}

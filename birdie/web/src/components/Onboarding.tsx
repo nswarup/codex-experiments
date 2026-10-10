@@ -40,8 +40,9 @@ export function InterestPicker({ mode = "onboard", onDone }: { mode?: "onboard" 
 
   return (
     <div className={cn("flex flex-col", mode === "onboard" ? "min-h-dvh" : "h-full")}>
-      <div className={cn("flex-1 px-6", mode === "onboard" ? "pt-[calc(env(safe-area-inset-top,0px)+20px)]" : "pt-4")}>
+      <div className={cn("flex-1 px-6", mode === "onboard" ? "pt-[calc(env(safe-area-inset-top,0px)+20px)]" : "pt-2")}>
         {mode === "onboard" && <Wordmark />}
+        {mode === "onboard" && (
         <motion.h1
           initial={{ opacity: 0, transform: "translateY(6px)" }}
           animate={{ opacity: 1, transform: "translateY(0px)" }}
@@ -50,7 +51,8 @@ export function InterestPicker({ mode = "onboard", onDone }: { mode?: "onboard" 
         >
           What are you curious about?
         </motion.h1>
-        <div className="mt-6 flex flex-wrap gap-2.5 pb-48" role="group" aria-label="Interests">
+        )}
+        <div className={cn("flex flex-wrap gap-2.5 pb-48", mode === "onboard" ? "mt-6" : "mt-1")} role="group" aria-label="Interests">
           {CATEGORY_LIST.map((c, i) => {
             const on = picked.includes(c);
             return (
@@ -79,8 +81,9 @@ export function InterestPicker({ mode = "onboard", onDone }: { mode?: "onboard" 
       <div
         className={cn(
           // A soft fade instead of a hard rule, so the last chips read as "more below".
-          "inset-x-0 bottom-0 bg-gradient-to-t from-bg from-75% to-transparent px-6 pt-8",
-          mode === "onboard" ? "fixed pb-[calc(env(safe-area-inset-bottom,0px)+28px)]" : "sticky pb-[calc(env(safe-area-inset-bottom,0px)+20px)]",
+          "inset-x-0 bottom-0 bg-gradient-to-t from-75% to-transparent px-6 pt-8",
+          // Fade into whatever surface the picker sits on: the page, or a sheet.
+          mode === "onboard" ? "fixed from-bg pb-[calc(env(safe-area-inset-bottom,0px)+28px)]" : "sticky from-sheet pb-[calc(env(safe-area-inset-bottom,0px)+20px)]",
         )}
       >
         <div className="mx-auto flex max-w-[640px] flex-col gap-3.5">

@@ -1,5 +1,5 @@
 /* Small shared primitives: shadcn-style, themed through CSS variables. */
-import { forwardRef, type ButtonHTMLAttributes, type ReactNode } from "react";
+import { forwardRef, useEffect, useRef, type ButtonHTMLAttributes, type ReactNode } from "react";
 import { Drawer } from "vaul";
 import { cn } from "@/lib/cn";
 
@@ -43,7 +43,7 @@ export const Button = forwardRef<HTMLButtonElement, ButtonHTMLAttributes<HTMLBut
           size === "md" && "h-12 px-5 text-[16px]",
           size === "sm" && "h-10 px-4 text-[15px]",
           variant === "primary" && "bg-accent text-accent-fg disabled:bg-line disabled:text-muted",
-          variant === "secondary" && "border border-chip bg-transparent text-text",
+          variant === "secondary" && "border border-chip bg-transparent text-text disabled:border-line disabled:text-muted disabled:opacity-60",
           variant === "ghost" && "bg-transparent text-text",
           className,
         )}
@@ -76,6 +76,18 @@ export function Kicker({ children, className }: { children: ReactNode; className
   );
 }
 
+let keyboardMode = false;
+if (typeof window !== "undefined") {
+  window.addEventListener("keydown", (e) => {
+    if (e.key === "Tab" || e.key === "Enter" || e.key === " " || e.key === "/" || e.key === "Escape") keyboardMode = true;
+  }, true);
+  window.addEventListener("pointerdown", () => (keyboardMode = false), true);
+}
+/** True when the reader is driving with the keyboard rather than touch or a mouse. */
+export function usingKeyboard() {
+  return keyboardMode;
+}
+
 /** A themed bottom sheet built on Vaul (drag to dismiss, momentum, iOS curve). */
 export function Sheet({
   open,
@@ -94,8 +106,27 @@ export function Sheet({
   tall?: boolean;
   describedBy?: string;
 }) {
+  // Return focus to whatever opened the sheet once it closes.
+  const opener = useRef<HTMLElement | null>(null);
+  useEffect(() => {
+    if (open) {
+      const a = document.activeElement;
+      if (a instanceof HTMLElement && a !== document.body && !a.closest("[role=dialog]")) opener.current = a;
+      return;
+    }
+    const o = opener.current;
+    opener.current = null;
+    if (!o) return;
+    const t = window.setTimeout(() => {
+      const a = document.activeElement;
+      if (o.isConnected && (!a || a === document.body || !!a.closest("[role=dialog]"))) o.focus({ preventScroll: true });
+    }, 320);
+    return () => window.clearTimeout(t);
+  }, [open]);
   return (
-    <Drawer.Root open={open} onOpenChange={(o) => !o && onClose()} repositionInputs>
+    // Keyboard users get focus moved into (and trapped in) the sheet; on touch that would pop the
+    // on-screen keyboard or a focus ring for no reason.
+    <Drawer.Root open={open} onOpenChange={(o) => !o && onClose()} repositionInputs autoFocus={open && usingKeyboard()}>
       <Drawer.Portal>
         <Drawer.Overlay className="fixed inset-0 z-40" />
         <Drawer.Content
@@ -168,7 +199,7 @@ export function Segmented<T extends string | number>({
             aria-label={o.ariaLabel}
             onClick={() => onChange(o.value)}
             className={cn(
-              "press h-10 rounded-[9px] font-serif text-[15px] whitespace-nowrap transition-colors duration-150",
+              "press h-11 rounded-[9px] font-serif text-[15px] whitespace-nowrap transition-colors duration-150",
               on ? "bg-[var(--seg-on)] font-semibold text-strong shadow-[0_1px_3px_rgba(0,0,0,0.18)]" : "text-muted",
             )}
           >

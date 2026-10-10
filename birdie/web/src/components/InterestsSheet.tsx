@@ -1,6 +1,6 @@
 import { useEffect, useRef } from "react";
 import { toast } from "sonner";
-import { Sheet } from "./ui";
+import { Sheet, SheetHeader } from "./ui";
 import { InterestPicker } from "./Onboarding";
 import { closeOverlay } from "@/lib/ui";
 import { getState, updateInterests } from "@/lib/store";
@@ -15,7 +15,8 @@ export function InterestsSheet({ open, onClose }: { open: boolean; onClose: () =
 
   return (
     <Sheet open={open} onClose={onClose} title="Edit interests" tall>
-      <div className="no-scrollbar flex-1 overflow-y-auto" data-vaul-no-drag>
+      <SheetHeader title="What are you curious about?" onClose={onClose} />
+      <div className="no-scrollbar min-h-0 flex-1 overflow-y-auto" data-vaul-no-drag>
         {open && (
           <InterestPicker
             mode="edit"

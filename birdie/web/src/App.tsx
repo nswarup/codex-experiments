@@ -43,6 +43,8 @@ export function App() {
       <Toaster
         position="top-center"
         offset={{ top: "calc(env(safe-area-inset-top, 0px) + 64px)" }}
+        // Phones use their own offset in Sonner; keep toasts clear of the top bar and search field there too.
+        mobileOffset={{ top: "calc(env(safe-area-inset-top, 0px) + 72px)", left: "16px", right: "16px" }}
         toastOptions={{
           style: {
             background: "var(--strong)",
@@ -54,7 +56,7 @@ export function App() {
             minHeight: "52px",
           },
           actionButtonStyle: {
-            height: "36px",
+            height: "44px",
             padding: "0 14px",
             borderRadius: "999px",
             fontSize: "14px",

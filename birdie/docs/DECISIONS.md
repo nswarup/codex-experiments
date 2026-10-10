@@ -54,6 +54,17 @@ Two independent reviews: a visual and interaction review (about 120 screenshots 
   - Share links open the topic directly.
   - Haptics only appear where the device can vibrate.
 
+- **Verification pass** (a third, independent review of the finished build):
+  - Keyboard: sheets now take focus, keep Tab inside, and hand focus back on close. Search does the same.
+  - Toasts clear the top bar on phones.
+  - Disabled buttons look disabled.
+  - A failed chat reply gets a dashed note and "Try again".
+  - Every remaining target is at least 44px.
+  - The "Why this?" meters hide until Birdie has actually learned something.
+  - Streaming articles hold their space, so the page doesn't jump.
+  - Mono text uses two sizes only: 11.5px and 13px.
+  - The Design lab is labelled "for review" and disappears from builds made with `VITE_LAB=off`.
+
 Kept as-is despite review suggestions, because they were your explicit calls in the mockup rounds: the mono hook (serif is in the Design lab), the dashed wildcard border, the "Pick at least 3 (n/3)" button copy, the helper line sitting by the button, and dark as the first-run theme.
 
 ## Content notes from the fact-check passes

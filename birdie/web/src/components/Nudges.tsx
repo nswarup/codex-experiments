@@ -44,7 +44,7 @@ export function Nudges({ topic, exclude }: { topic: Topic; exclude?: string[] })
               )}
             >
               {wild && wildLabel && (
-                <span className="font-mono text-[11px] tracking-[0.1em] text-muted uppercase">Something different</span>
+                <span className="font-mono text-[11.5px] tracking-[0.1em] text-muted uppercase">Something different</span>
               )}
               <span className="font-serif text-[17px] leading-snug font-semibold text-strong">{t.title}</span>
               <span className="line-clamp-2 font-mono text-[13px] leading-[1.45] text-muted">
@@ -61,7 +61,7 @@ export function Nudges({ topic, exclude }: { topic: Topic; exclude?: string[] })
               <span className="flex min-w-0 flex-1 flex-col gap-0.5">
                 <span className="font-serif text-[17px] leading-snug font-semibold text-strong">
                   {t.title}
-                  {wild && wildLabel && <span className="ml-2 font-mono text-[11px] font-normal text-muted uppercase">· wildcard</span>}
+                  {wild && wildLabel && <span className="ml-2 font-mono text-[11.5px] font-normal text-muted uppercase">· wildcard</span>}
                 </span>
                 <span className="truncate font-mono text-[13px] text-muted">
                   <span className="font-medium tracking-[0.08em] text-text">{t.category.toUpperCase()}</span> · {t.hook}

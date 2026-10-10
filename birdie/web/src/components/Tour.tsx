@@ -245,7 +245,7 @@ export function Tour() {
                   <button
                     type="button"
                     onClick={step === 1 ? skip : back}
-                    className="press -ml-1 h-11 px-1 font-serif text-[15px] underline underline-offset-4 opacity-75"
+                    className="press -ml-2 h-11 px-2 font-serif text-[15px] underline underline-offset-4 opacity-75"
                   >
                     {step === 1 ? "Skip tour" : "Back"}
                   </button>

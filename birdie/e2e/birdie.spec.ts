@@ -179,6 +179,20 @@ test("Ask under an article opens chat without selecting text", async ({ page }) 
   await expect(page.getByText("READ NEXT")).toBeVisible({ timeout: 15_000 });
 });
 
+test("keyboard: sheets take focus, keep it, and give it back", async ({ page }) => {
+  await onboard(page);
+  await page.getByRole("button", { name: "Skip tour" }).click();
+  const trigger = page.getByRole("button", { name: "Reading settings" }).first();
+  await trigger.focus();
+  await page.keyboard.press("Enter");
+  const inDialog = () => page.evaluate(() => !!document.activeElement?.closest("[role=dialog]"));
+  await expect.poll(inDialog).toBe(true);
+  for (let i = 0; i < 8; i++) await page.keyboard.press("Tab");
+  expect(await inDialog()).toBe(true);
+  await page.keyboard.press("Escape");
+  await expect(trigger).toBeFocused();
+});
+
 test("no WCAG A/AA violations on the feed in all three themes", async ({ page }) => {
   await onboard(page);
   await page.getByRole("button", { name: "Skip tour" }).click();

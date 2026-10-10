@@ -52,7 +52,7 @@ export function TopicPage({ id }: { id: string }) {
 
   return (
     <div ref={scroller} className="no-scrollbar absolute inset-0 overflow-y-auto overscroll-contain bg-bg">
-      <TopBar scroller={scroller} back title={view?.title} kicker={view?.category} />
+      <TopBar scroller={scroller} back title={view?.title} kicker={view?.category ?? (job ? "Birdie" : undefined)} />
       <main className="pb-[calc(env(safe-area-inset-bottom,0px)+56px)]">
         {view && <TopicArticle ref={ref} view={view} reason="opened" actions={!!topic} />}
         {job?.status === "writing" && !view?.lede && <WritingStatus />}

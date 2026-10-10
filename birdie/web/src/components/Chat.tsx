@@ -1,6 +1,6 @@
 import { smooth } from "@/lib/motion";
 import { useEffect, useRef, useState } from "react";
-import { ArrowRight, ArrowUp, Square } from "lucide-react";
+import { ArrowRight, ArrowUp, RotateCw, Square } from "lucide-react";
 import { AnimatePresence, motion } from "motion/react";
 import { streamChat, StreamError, type ChatTurn } from "@/lib/api";
 import { parseChat } from "@/lib/parse";
@@ -59,7 +59,7 @@ export function ChatSheet({
 
   useEffect(() => () => ctrl.current?.abort(), []);
 
-  async function send(text: string) {
+  async function send(text: string, base: Msg[] = messages) {
     const q = text.trim();
     if (!q || streaming) return;
     if (!asked.current && topic) {
@@ -68,7 +68,7 @@ export function ChatSheet({
     }
     cue("tap");
     buzz(5);
-    const history: Msg[] = [...messages.filter((m) => !m.error && m.content.trim()), { role: "user", content: q }];
+    const history: Msg[] = [...base.filter((m) => !m.error && m.content.trim()), { role: "user", content: q }];
     setMessages([...history, { role: "assistant", content: "" }]);
     setDraft("");
     setStreaming(true);
@@ -104,6 +104,13 @@ export function ChatSheet({
       if (ctrl.current === c) setStreaming(false);
     }
   }
+
+  // After a failed reply: ask the same question again, without retyping it.
+  const retry = () => {
+    const at = messages.map((m) => m.role).lastIndexOf("user");
+    if (at < 0) return;
+    send(messages[at].content, messages.slice(0, at));
+  };
 
   const stop = () => {
     ctrl.current?.abort();
@@ -158,6 +165,7 @@ export function ChatSheet({
                 key={i}
                 text={m.content}
                 error={m.error}
+                onRetry={m.error && i === messages.length - 1 && !streaming ? retry : undefined}
                 live={streaming && i === messages.length - 1}
                 onReadNext={openReadNext}
               />
@@ -234,23 +242,40 @@ function AssistantMessage({
   text,
   live,
   error,
+  onRetry,
   onReadNext,
 }: {
   text: string;
   live: boolean;
   error?: boolean;
+  onRetry?: () => void;
   onReadNext: (title: string) => void;
 }) {
   const parsed = parseChat(text);
   const paragraphs = parsed.body.split(/\n{2,}/).filter(Boolean);
   if (!text && live) return <TypingDots />;
   return (
-    <div className={cn("flex flex-col gap-2.5 font-serif text-[16.5px] leading-[1.6]", error ? "text-muted" : "text-text")}>
+    <div
+      role={error ? "alert" : undefined}
+      className={cn(
+        "flex flex-col gap-2.5 font-serif text-[16.5px] leading-[1.6]",
+        error ? "rounded-xl border border-dashed border-dot px-4 py-3 text-[15.5px] text-muted" : "text-text",
+      )}
+    >
       {paragraphs.map((p, i) => (
         <p key={i} className={cn(live && !parsed.readNext && i === paragraphs.length - 1 && "caret")}>
           {p}
         </p>
       ))}
+      {onRetry && (
+        <button
+          type="button"
+          onClick={onRetry}
+          className="press -ml-1 flex h-11 items-center gap-2 self-start rounded-full px-1 font-serif text-[15px] font-semibold text-strong"
+        >
+          <RotateCw size={15} strokeWidth={1.9} aria-hidden="true" /> Try again
+        </button>
+      )}
       {parsed.readNext && (
         <motion.button
           type="button"
@@ -261,7 +286,7 @@ function AssistantMessage({
           className="press card-hover mt-1.5 flex items-center gap-3 rounded-xl border border-sheet-line bg-inset px-3.5 py-3 text-left"
         >
           <span className="flex min-w-0 flex-1 flex-col gap-0.5">
-            <span className="font-mono text-[11px] font-medium tracking-[0.1em] text-muted">READ NEXT</span>
+            <span className="font-mono text-[11.5px] font-medium tracking-[0.1em] text-muted">READ NEXT</span>
             <span className="font-serif text-[17px] leading-snug font-semibold text-strong">{parsed.readNext.title}</span>
             {parsed.readNext.hook && <span className="font-mono text-[13px] leading-[1.45] text-muted">{parsed.readNext.hook}</span>}
           </span>
