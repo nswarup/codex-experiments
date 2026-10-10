@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { AnimatePresence, motion } from "motion/react";
+import { motion } from "motion/react";
 import { CATEGORY_BLURB, CATEGORY_LIST } from "@/content";
 import { finishOnboarding, updateInterests, useApp } from "@/lib/store";
 import type { Category } from "@/lib/types";
@@ -25,7 +25,7 @@ export function InterestPicker({ mode = "onboard", onDone }: { mode?: "onboard" 
   const toggle = (c: Category) => {
     const on = !picked.includes(c);
     setPicked((p) => (on ? [...p, c] : p.filter((x) => x !== c)));
-    cue("toggle", { direction: on ? "forward" : "back" });
+    cue("toggle", { direction: on ? "forward" : "back", emphasis: "subtle" });
     buzz(5);
   };
 
@@ -38,41 +38,49 @@ export function InterestPicker({ mode = "onboard", onDone }: { mode?: "onboard" 
     onDone?.();
   };
 
+  const status = n >= MIN ? `${n} selected.` : `${n} selected. Pick ${MIN - n} more.`;
+
   return (
-    <div className={cn("flex flex-col", mode === "onboard" ? "min-h-dvh" : "h-full")}>
-      <div className={cn("flex-1 px-6", mode === "onboard" ? "pt-[calc(env(safe-area-inset-top,0px)+20px)]" : "pt-2")}>
-        {mode === "onboard" && <Wordmark />}
+    // One quiet fade for the whole screen; nothing else moves on its own.
+    <motion.div
+      initial={mode === "onboard" ? { opacity: 0 } : false}
+      animate={{ opacity: 1 }}
+      transition={{ duration: 0.2, ease: "easeOut" }}
+      className={cn("flex flex-col font-sans", mode === "onboard" ? "min-h-dvh" : "h-full")}
+    >
+      <div className={cn("flex-1 px-6", mode === "onboard" ? "pt-[calc(env(safe-area-inset-top,0px)+20px)]" : "pt-1")}>
         {mode === "onboard" && (
-        <motion.h1
-          initial={{ opacity: 0, transform: "translateY(6px)" }}
-          animate={{ opacity: 1, transform: "translateY(0px)" }}
-          transition={{ duration: 0.4, ease: [0.23, 1, 0.32, 1] }}
-          className={cn("font-serif font-medium text-strong", mode === "onboard" ? "mt-10 text-[30px] leading-[1.2]" : "text-[24px]")}
-        >
-          What are you curious about?
-        </motion.h1>
+          <>
+            <Wordmark />
+            {/* Serif headline bridges to the reading experience; everything you touch is sans. */}
+            <h1 className="mt-10 font-serif text-[28px] leading-[1.15] font-medium tracking-[-0.01em] text-balance text-strong">
+              What are you curious about?
+            </h1>
+          </>
         )}
-        <div className={cn("flex flex-wrap gap-2.5 pb-48", mode === "onboard" ? "mt-6" : "mt-1")} role="group" aria-label="Interests">
-          {CATEGORY_LIST.map((c, i) => {
+        <p className={cn("text-[15px] leading-snug text-muted", mode === "onboard" ? "mt-2.5" : "mt-0")}>
+          Pick at least {MIN}.
+          <br />
+          Birdie mixes in a few surprises too.
+        </p>
+        <div className={cn("flex flex-wrap gap-2", mode === "onboard" ? "mt-7 pb-32" : "mt-5 pb-28")} role="group" aria-label="Interests">
+          {CATEGORY_LIST.map((c) => {
             const on = picked.includes(c);
             return (
-              <motion.button
+              <button
                 key={c}
                 type="button"
                 aria-pressed={on}
                 title={CATEGORY_BLURB[c]}
                 onClick={() => toggle(c)}
-                initial={{ opacity: 0, transform: "translateY(8px)" }}
-                animate={{ opacity: 1, transform: "translateY(0px)" }}
-                transition={{ duration: 0.3, delay: 0.08 + i * 0.025, ease: [0.23, 1, 0.32, 1] }}
                 className={cn(
-                  // Filled means picked, like X's topic chips: no icon, so labels stay centred and rows never reflow.
-                  "press flex h-[46px] items-center rounded-full border px-5 font-serif text-[16px] font-medium transition-colors duration-150",
+                  // Compact, fixed-size pills: filled means picked, so nothing reflows and only colour changes.
+                  "press chip-hit flex h-9 items-center rounded-full border px-3.5 text-[15px] font-medium tracking-[-0.005em] transition-[background-color,border-color,color] duration-[120ms] ease-out",
                   on ? "border-accent bg-accent text-accent-fg" : "border-chip bg-transparent text-text",
                 )}
               >
                 {c}
-              </motion.button>
+              </button>
             );
           })}
         </div>
@@ -80,46 +88,38 @@ export function InterestPicker({ mode = "onboard", onDone }: { mode?: "onboard" 
 
       <div
         className={cn(
-          // A soft fade instead of a hard rule, so the last chips read as "more below".
-          "inset-x-0 bottom-0 bg-gradient-to-t from-75% to-transparent px-6 pt-8",
+          // A soft fade instead of a hard rule, so the last pills read as "more below".
+          "inset-x-0 bottom-0 bg-gradient-to-t from-70% to-transparent px-6 pt-6",
           // Fade into whatever surface the picker sits on: the page, or a sheet.
-          mode === "onboard" ? "fixed from-bg pb-[calc(env(safe-area-inset-bottom,0px)+28px)]" : "sticky from-sheet pb-[calc(env(safe-area-inset-bottom,0px)+20px)]",
+          mode === "onboard" ? "fixed from-bg pb-[calc(env(safe-area-inset-bottom,0px)+24px)]" : "sticky from-sheet pb-[calc(env(safe-area-inset-bottom,0px)+20px)]",
         )}
       >
-        <div className="mx-auto flex max-w-[640px] flex-col gap-3.5">
-          <p className="text-center font-serif text-[15px] text-muted">Birdie mixes in a few surprises too.</p>
+        {/* 560px column minus its 24px gutters, so the button lines up with the pills. */}
+        <div className="mx-auto max-w-[512px]">
+          {/* The label never changes; the button simply becomes available. */}
           <button
             type="button"
             onClick={submit}
             disabled={!ready}
-            aria-live="polite"
             className={cn(
-              "press relative h-[54px] overflow-hidden rounded-full font-serif text-[17px] font-semibold",
-              ready ? "bg-accent text-accent-fg" : "bg-line text-muted",
+              "press h-[52px] w-full rounded-full text-[16px] font-semibold tracking-[-0.005em] transition-[background-color,color] duration-150 ease-out",
+              ready ? "bg-accent text-accent-fg" : "bg-inset text-muted",
             )}
           >
-            <AnimatePresence mode="popLayout" initial={false}>
-              <motion.span
-                key={ready ? "next" : unchanged ? "same" : `pick-${n}`}
-                initial={{ opacity: 0, filter: "blur(4px)", transform: "translateY(6px)" }}
-                animate={{ opacity: 1, filter: "blur(0px)", transform: "translateY(0px)" }}
-                exit={{ opacity: 0, filter: "blur(4px)", transform: "translateY(-6px)" }}
-                transition={{ duration: 0.2, ease: [0.23, 1, 0.32, 1] }}
-                className="inline-block"
-              >
-                {ready ? (mode === "onboard" ? "Next" : "Save interests") : unchanged ? "No changes yet" : `Pick at least ${MIN} (${n}/${MIN})`}
-              </motion.span>
-            </AnimatePresence>
+            {mode === "onboard" ? "Continue" : "Save"}
           </button>
+          <p className="sr-only" aria-live="polite">
+            {status}
+          </p>
         </div>
       </div>
-    </div>
+    </motion.div>
   );
 }
 
 export function Onboarding() {
   return (
-    <main className="mx-auto max-w-[640px] bg-bg">
+    <main className="mx-auto max-w-[560px] bg-bg">
       <InterestPicker mode="onboard" />
     </main>
   );

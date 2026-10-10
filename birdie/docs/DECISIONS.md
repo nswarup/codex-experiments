@@ -71,7 +71,17 @@ Two independent reviews: a visual and interaction review (about 120 screenshots 
   - Mono text uses two sizes only: 11.5px and 13px.
   - The Design lab is labelled "for review" and disappears from builds made with `VITE_LAB=off`.
 
-Kept as-is despite review suggestions, because they were your explicit calls in the mockup rounds: the mono hook (serif is in the Design lab), the dashed wildcard border, the "Pick at least 3 (n/3)" button copy, the helper line sitting by the button, and dark as the first-run theme.
+Kept as-is despite review suggestions, because they were your explicit calls in the mockup rounds: the mono hook (serif is in the Design lab), the dashed wildcard border, and dark as the first-run theme.
+
+## Onboarding redesign
+
+Your note: reading should stay Kindle-like, but onboarding should feel more modern. The pills were too padded, and the pick animation and the self-rewriting button were distracting.
+
+- **Type:** the serif headline bridges to the reading experience. Everything you touch (pills, helper line, button) is now in the phone's own sans, SF Pro on iPhone.
+- **Pills:** 36px tall and compact (15px text), with an invisible area that keeps 44px touch targets. Filled means picked. There's no icon, and the width never changes, so rows never reflow.
+- **Motion:** the screen fades in once. A pick is a 120ms colour change and nothing else, with no staggered entrance and no label animation.
+- **Button:** always reads "Continue" ("Save" in Edit interests) and simply becomes available at 3 picks. Screen readers hear the count, for example "1 selected. Pick 2 more.".
+- **Copy:** the helper copy moved from beside the button to under the headline, in two short lines: "Pick at least 3." / "Birdie mixes in a few surprises too." This changes your round-2 mockup call, which put the helper line next to the button. With the count gone from the button, it's the one place that explains the rule.
 
 ## Content notes from the fact-check passes
 

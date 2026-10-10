@@ -3,20 +3,22 @@ import AxeBuilder from "@axe-core/playwright";
 
 async function onboard(page: Page, picks = ["Music", "Math", "Food"]) {
   await page.goto("/");
-  const next = page.getByRole("button", { name: /Pick at least 3/ });
+  const next = page.getByRole("button", { name: "Continue" });
   await expect(next).toBeDisabled();
   for (const c of picks) await page.getByRole("button", { name: c, exact: true }).click();
-  await page.getByRole("button", { name: "Next" }).click();
+  await next.click();
 }
 
 test("onboarding needs three interests, then the tour walks through three steps", async ({ page }) => {
   await page.goto("/");
   await expect(page.getByRole("heading", { name: "What are you curious about?" })).toBeVisible();
+  await expect(page.getByText(/Pick at least 3\.\s*Birdie mixes in a few surprises too\./)).toBeVisible();
   await page.getByRole("button", { name: "Music", exact: true }).click();
-  await expect(page.getByRole("button", { name: "Pick at least 3 (1/3)" })).toBeDisabled();
+  await expect(page.getByRole("button", { name: "Continue" })).toBeDisabled();
+  await expect(page.getByText("1 selected. Pick 2 more.")).toBeAttached();
   await page.getByRole("button", { name: "Math", exact: true }).click();
   await page.getByRole("button", { name: "Food", exact: true }).click();
-  await page.getByRole("button", { name: "Next" }).click();
+  await page.getByRole("button", { name: "Continue" }).click();
 
   await expect(page.getByText("Tap an underlined phrase to read about it.")).toBeVisible();
   await page.getByRole("button", { name: "Next" }).click();
