@@ -1,0 +1,43 @@
+{
+  "id": "golf-ball-dimples",
+  "title": "Why golf balls have dimples",
+  "category": "Sports",
+  "hook": "A dimpled golf ball can fly about twice as far as a perfectly smooth one.",
+  "peek": "The dimples on a golf ball are there to reduce drag. They make the thin layer of air around the ball turbulent, which lets it cling on longer and shrinks the wake behind. A smooth ball of the same size would fall far shorter.",
+  "lede": "Early golf balls were smooth. In the mid-1800s players switched to balls made of gutta-percha, a hard tree sap, and noticed something odd: old balls covered in nicks and cuts flew farther than new ones. Makers began hammering patterns into the surface on purpose. The physics took longer to explain, and it turned out the bumps were doing real work on the air.",
+  "bullets": [
+    {
+      "opening": "Turbulence that helps",
+      "linkId": null,
+      "text": "Air flowing over a smooth ball breaks away early, leaving a wide, low-pressure wake that drags it back. Dimples stir the layer next to the surface into turbulence, which hugs the ball longer, so the wake is narrower and the drag much lower."
+    },
+    {
+      "opening": "Backspin and lift",
+      "linkId": null,
+      "text": "A well-struck golf ball spins backwards thousands of times a minute. The spin pushes air downward behind the ball and lifts it, and the dimples help the spinning surface grip the air, keeping the ball up longer."
+    },
+    {
+      "opening": "The 1905 dimple patent",
+      "linkId": null,
+      "text": "In 1905 the English engineer William Taylor patented a pattern of small round dents, the ancestor of modern dimples. Earlier balls had raised bramble bumps, like a blackberry, or hand-cut grooves."
+    },
+    {
+      "opening": "Three hundred to five hundred",
+      "linkId": null,
+      "text": "Most modern golf balls carry somewhere between about 300 and 500 dimples, arranged in carefully tested patterns. The rules of golf limit a ball's size and weight, so makers compete on dimple shape, depth and layout instead."
+    }
+  ],
+  "tags": [
+    "golf",
+    "physics",
+    "design",
+    "history-of-things"
+  ],
+  "related": [
+    "velcro",
+    "bubble-wrap",
+    "slinky",
+    "levis-rivet",
+    "post-it"
+  ]
+}

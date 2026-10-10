@@ -1,0 +1,43 @@
+{
+  "id": "roberto-carlos-free-kick",
+  "title": "Roberto Carlos's banana free kick",
+  "category": "Sports",
+  "hook": "A free kick in 1997 bent so far that physicists later explained it as a spiral.",
+  "peek": "In 1997 Roberto Carlos hit a free kick for Brazil that seemed to be flying wide, then swerved back into the net. In 2010, French physicists showed that a fast, spinning ball can curve more and more tightly as it slows, tracing part of a spiral.",
+  "lede": "On 3 June 1997, Brazil played France in a warm-up tournament in Lyon. Roberto Carlos placed the ball roughly 35 metres from goal, took a long run-up and struck it with the outside of his left foot. It flew well to the right of the wall, looking as if it would miss, then hooked sharply left and went in off the post.",
+  "bullets": [
+    {
+      "opening": "The ball boy who ducked",
+      "linkId": null,
+      "text": "Footage shows the ball heading so far wide that a ball boy standing beside the goal ducks out of the way. The French goalkeeper, Fabien Barthez, barely moved, sure it was going off target."
+    },
+    {
+      "opening": "The Magnus effect",
+      "linkId": null,
+      "text": "A spinning ball drags the air around it on one side and pushes against it on the other. The air is deflected one way and the ball is pushed the other, which is why spin makes a football curve."
+    },
+    {
+      "opening": "The spinning ball spiral",
+      "linkId": null,
+      "text": "In a 2010 paper, physicists led by Christophe Clanet showed that drag slows a ball faster than it loses spin. As the ball slows, the spin wins out and its path bends ever more tightly, like a spiral."
+    },
+    {
+      "opening": "Plastic balls in water",
+      "linkId": null,
+      "text": "The team tested the idea by firing small spinning plastic balls into a tank of water, where the spiral appears over a short distance. On a pitch the effect needs a long, very hard and heavily spun shot, which is why it is so rare."
+    }
+  ],
+  "tags": [
+    "football",
+    "physics",
+    "records",
+    "myths-busted"
+  ],
+  "related": [
+    "shepard-tone",
+    "singing-dunes",
+    "rainbow-circles",
+    "murmurations",
+    "slinky"
+  ]
+}

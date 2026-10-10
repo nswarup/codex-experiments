@@ -1,0 +1,43 @@
+{
+  "id": "hat-trick",
+  "title": "The cricket hat behind the hat-trick",
+  "category": "Sports",
+  "hook": "The hat-trick is named after a real hat, given to a bowler in 1858.",
+  "peek": "Football, hockey and many other sports call three goals by one player a hat-trick. The word comes from cricket, where it means taking three wickets with three balls in a row, and the usual story says it began with a real hat bought for a bowler in Sheffield in 1858.",
+  "lede": "In 1858 the professional cricketer H. H. Stephenson was playing for an All-England Eleven against a local Hallam side at Hyde Park in Sheffield. He took three wickets with three consecutive balls, a rare feat. According to the usual account, spectators passed round a collection and used the money to buy him a hat, and the phrase hat-trick grew from there.",
+  "bullets": [
+    {
+      "opening": "Three balls in a row",
+      "linkId": null,
+      "text": "In cricket the three wickets must come from consecutive deliveries by the same bowler. They can be spread across two overs, or even two innings of the same match, which makes the feat both rare and oddly tricky to track."
+    },
+    {
+      "opening": "A reward custom",
+      "linkId": null,
+      "text": "Cricket clubs of the period sometimes gave a cap or hat to reward outstanding play, so the gift fitted a wider habit. Historians note the Sheffield story is the commonly cited origin rather than a fully documented first use."
+    },
+    {
+      "opening": "Spreading to football",
+      "linkId": null,
+      "text": "By the late 1800s the phrase had jumped to other sports. In football it now means three goals by one player in a match, and a perfect hat-trick is one goal with the left foot, one with the right and one header."
+    },
+    {
+      "opening": "Hats on the ice",
+      "linkId": null,
+      "text": "Ice hockey fans keep the hat in the hat-trick literally. When a player scores three times in a game, fans throw caps onto the rink, and arena staff gather them up before play restarts."
+    }
+  ],
+  "tags": [
+    "cricket",
+    "etymology",
+    "names",
+    "records"
+  ],
+  "related": [
+    "ok-origin",
+    "tuxedo-park",
+    "sandwich-earl",
+    "cravat-tie",
+    "dord"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "pot-black",
+  "title": "Snooker and the arrival of colour TV",
+  "category": "Sports",
+  "hook": "Snooker became a television hit because the BBC needed a show to sell colour TV.",
+  "peek": "When BBC2 began broadcasting in colour, it wanted programmes that showed off the new sets. Snooker, a game about coloured balls, was ideal. The result was Pot Black, first shown in 1969, which turned a quiet club game into one of Britain's most watched sports.",
+  "lede": "In 1967 BBC2 became the first channel in Europe to broadcast regularly in colour. Its controller at the time was David Attenborough, later famous for his nature films. He was looking for programmes that would look much better in colour than in black and white, and snooker, with its green cloth and red, yellow, green, brown, blue, pink and black balls, was an obvious choice.",
+  "bullets": [
+    {
+      "opening": "Pot Black's short frames",
+      "linkId": null,
+      "text": "The show began in 1969 and ran until 1986. Matches were usually a single frame, short enough for half an hour of television, and leading players were invited to a small studio tournament."
+    },
+    {
+      "opening": "The pink next to the green",
+      "linkId": null,
+      "text": "A line credited to the commentator Ted Lowe sums up the era: for those of you watching in black and white, the pink is next to the green. Many viewers still had black and white sets for years."
+    },
+    {
+      "opening": "Whispering Ted",
+      "linkId": null,
+      "text": "Lowe spoke softly so as not to disturb the players in the quiet room, and the hushed style became his trademark. It set the tone for how snooker is still commentated on British television."
+    },
+    {
+      "opening": "The 1985 final",
+      "linkId": null,
+      "text": "Snooker's boom peaked when Dennis Taylor beat Steve Davis on the very last black ball of the World Championship final. About 18.5 million people watched on BBC2 as it finished after midnight, a record for the channel."
+    }
+  ],
+  "tags": [
+    "color",
+    "television",
+    "records",
+    "games"
+  ],
+  "related": [
+    "klein-blue",
+    "perkin-mauve",
+    "the-dress",
+    "bob-ross",
+    "shannon-number"
+  ]
+}

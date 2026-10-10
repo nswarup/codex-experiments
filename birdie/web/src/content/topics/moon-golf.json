@@ -1,0 +1,48 @@
+{
+  "id": "moon-golf",
+  "title": "Alan Shepard's golf shots on the Moon",
+  "category": "Sports",
+  "hook": "In 1971 an astronaut hit two golf balls on the Moon, and they are still there.",
+  "peek": "On Apollo 14 in 1971, Alan Shepard pulled out a homemade club and hit two golf balls on the Moon. He joked that they flew for miles. Fifty years later, careful study of the footage showed they went a few dozen yards.",
+  "lede": "At the end of his second moonwalk in February 1971, Apollo 14 commander Alan Shepard told Mission Control he had something in his hand. It was the head of a six-iron, which he had fixed to the long handle of a tool meant for scooping up lunar soil. He dropped two golf balls onto the dusty ground and swung.",
+  "bullets": [
+    {
+      "opening": "A club made from a sampler",
+      "linkId": null,
+      "text": "The club head clipped onto the aluminium handle of the sample collector, and Shepard brought it and the balls along tucked in his kit. NASA had agreed to the stunt as long as it came at the very end of the moonwalk."
+    },
+    {
+      "opening": "Swinging one-handed",
+      "linkId": null,
+      "text": "His stiff, pressurised spacesuit stopped him turning or bending properly, so he swung with one arm. The first attempts mostly threw up dust, and one ball dribbled into a nearby crater."
+    },
+    {
+      "opening": "Miles and miles and miles",
+      "linkId": null,
+      "text": "After connecting with the last ball, Shepard said it went miles and miles and miles. With gravity a sixth of Earth's and no air to slow it, the boast sounded believable to many people for decades."
+    },
+    {
+      "opening": "The 2021 re-measurement",
+      "linkId": null,
+      "text": "For the 50th anniversary, the imaging specialist Andy Saunders worked with the US Golf Association to restore the footage and photos. He estimated the two shots went about 24 yards and about 40 yards."
+    },
+    {
+      "opening": "Edgar Mitchell's javelin",
+      "linkId": null,
+      "text": "Shepard's crewmate Edgar Mitchell joined in by throwing a long pole like a javelin. The club itself came home and is on display at the US Golf Association museum, while both balls stayed on the Moon."
+    }
+  ],
+  "tags": [
+    "space-exploration",
+    "records",
+    "myths-busted",
+    "golf"
+  ],
+  "related": [
+    "moon-drifting",
+    "overview-effect",
+    "pale-blue-dot",
+    "golden-record",
+    "point-nemo"
+  ]
+}

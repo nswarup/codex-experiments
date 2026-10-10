@@ -1,0 +1,43 @@
+{
+  "id": "racehorse-birthday",
+  "title": "Every racehorse turns a year older on 1 January",
+  "category": "Sports",
+  "hook": "Thoroughbred racehorses in the north all share one official birthday: 1 January.",
+  "peek": "Whatever day a thoroughbred is actually born, the racing world counts it a year older on the same date. In the Northern Hemisphere that date is 1 January, and in much of the Southern Hemisphere it is 1 August. A foal born late on 31 December officially turns one the next morning.",
+  "lede": "Thoroughbred racing is organised by age. There are races only for two-year-olds, and the famous classics, such as the Epsom Derby and the Kentucky Derby, are for three-year-olds. To keep those groups simple, the industry gives every horse the same official birthday. In the Northern Hemisphere it is 1 January, no matter when in the year the foal arrived.",
+  "bullets": [
+    {
+      "opening": "The Southern Hemisphere date",
+      "linkId": null,
+      "text": "In Australia, New Zealand and South Africa, where the seasons are flipped, racehorses take their official birthday on 1 August instead. That keeps the date close to the start of the local breeding season."
+    },
+    {
+      "opening": "The unlucky New Year foal",
+      "linkId": null,
+      "text": "A foal born on 31 December becomes a yearling the next day and will race against horses nearly a year older. Breeders treat a winter birth as a serious disadvantage for a racing career."
+    },
+    {
+      "opening": "Timing the breeding season",
+      "linkId": null,
+      "text": "Mares carry a foal for about 11 months, so breeders try to arrange births early in the year, not too close to the official birthday. Many stud farms keep mares under artificial light in winter to bring them into season sooner."
+    },
+    {
+      "opening": "Ages on paper",
+      "linkId": null,
+      "text": "Because the date is shared, a horse described as two years old may in fact be only 21 or 22 months. Racing ages are an administrative label, not a count of days since birth."
+    }
+  ],
+  "tags": [
+    "horses",
+    "calendars",
+    "time",
+    "records"
+  ],
+  "related": [
+    "eleven-days-1752",
+    "birthday-paradox",
+    "harrison-clocks",
+    "heels-for-men",
+    "dogs-smell"
+  ]
+}

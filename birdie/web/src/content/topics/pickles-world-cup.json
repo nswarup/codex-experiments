@@ -1,0 +1,43 @@
+{
+  "id": "pickles-world-cup",
+  "title": "Pickles and the stolen World Cup",
+  "category": "Sports",
+  "hook": "In 1966 the World Cup trophy went missing, and a dog out for a walk found it.",
+  "peek": "A week after the World Cup trophy was stolen from a London exhibition in 1966, a collie called Pickles found it wrapped in newspaper under a garden hedge. He became a national celebrity just as England went on to win the tournament.",
+  "lede": "In March 1966, four months before England hosted the World Cup, the gold Jules Rimet trophy was stolen from a stamp exhibition at Central Hall in Westminster. Police searched for a week with no luck. Then, on 27 March, a black and white collie named Pickles, out walking with his owner David Corbett in south London, stopped to nose at a parcel under a hedge.",
+  "bullets": [
+    {
+      "opening": "The parcel in the hedge",
+      "linkId": null,
+      "text": "Corbett unwrapped the newspaper and found a gold figure of a winged woman holding a cup, with the names of past winners on its base. He took it straight to the local police station."
+    },
+    {
+      "opening": "A reward and a film role",
+      "linkId": null,
+      "text": "Corbett received a reward reported at about 6,000 pounds. Pickles became a star, appearing on television and in a 1966 comedy film, The Spy with a Cold Nose."
+    },
+    {
+      "opening": "The secret replica",
+      "linkId": null,
+      "text": "While the original was missing, the Football Association quietly had a copy made by a silversmith. The replica stood in for the real trophy at some public events and was later sold at auction, where FIFA bought it."
+    },
+    {
+      "opening": "The trophy's second disappearance",
+      "linkId": null,
+      "text": "Brazil kept the Jules Rimet trophy for good after winning a third title in 1970. It was stolen again in Rio de Janeiro in 1983 and has never been found, so the one Pickles rescued is lost after all."
+    }
+  ],
+  "tags": [
+    "dogs",
+    "records",
+    "history-of-things",
+    "accidents"
+  ],
+  "related": [
+    "dogs-smell",
+    "mona-lisa-theft",
+    "larry-the-cat",
+    "napoleon-height",
+    "crows-faces"
+  ]
+}

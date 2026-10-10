@@ -498,5 +498,40 @@
   "id": "napoleon-height",
   "title": "Napoleon wasn't short",
   "category": "History"
+ },
+ {
+  "id": "pickles-world-cup",
+  "title": "Pickles and the stolen World Cup",
+  "category": "Sports"
+ },
+ {
+  "id": "moon-golf",
+  "title": "Alan Shepard's golf shots on the Moon",
+  "category": "Sports"
+ },
+ {
+  "id": "roberto-carlos-free-kick",
+  "title": "Roberto Carlos's banana free kick",
+  "category": "Sports"
+ },
+ {
+  "id": "golf-ball-dimples",
+  "title": "Why golf balls have dimples",
+  "category": "Sports"
+ },
+ {
+  "id": "racehorse-birthday",
+  "title": "Every racehorse turns a year older on 1 January",
+  "category": "Sports"
+ },
+ {
+  "id": "pot-black",
+  "title": "Snooker and the arrival of colour TV",
+  "category": "Sports"
+ },
+ {
+  "id": "hat-trick",
+  "title": "The cricket hat behind the hat-trick",
+  "category": "Sports"
  }
 ]
