@@ -3,13 +3,14 @@ import { useEffect, useLayoutEffect, useRef, useState } from "react";
 import { AnimatePresence, motion } from "motion/react";
 import { MessageSquare } from "lucide-react";
 import { setTour, useApp } from "@/lib/store";
+import { useUi } from "@/lib/ui";
 import { cue, buzz } from "@/lib/feedback";
 
 const STEPS = [
   {
     target: "opening",
     title: "Tap an underlined phrase to read about it.",
-    body: "You get a short preview first. Tap Read to open the full topic.",
+    body: "Try it now. You get a short preview first, then Read opens the full topic.",
   },
   {
     target: "lede",
@@ -19,7 +20,7 @@ const STEPS = [
   {
     target: "search",
     title: "Tap the search icon to read about anything.",
-    body: "Type a few words, like “dogs’ sense of smell”, and Birdie writes a short piece on exactly that.",
+    body: "Type a topic, like “dogs’ sense of smell”, and Birdie will write a short piece with fun facts related to it.",
   },
 ] as const;
 
@@ -35,6 +36,38 @@ interface Box {
   height: number;
   /** Where the arrow should point, in viewport x. */
   pointX: number;
+  /** Step 2 only: where the sample Ask Birdie pill sits, under the highlighted sentence. */
+  pill?: { left: number; top: number };
+}
+
+const PILL_W = 132;
+const PILL_H = 42;
+
+/** The lede's first sentence, and the part of it shown as highlighted. */
+function sentenceRanges(el: HTMLElement): { sentence: Range; highlight: Range } | null {
+  const node = [...el.childNodes].find((n): n is Text => n.nodeType === Node.TEXT_NODE && !!(n as Text).data.trim());
+  if (!node) return null;
+  const text = node.data;
+  const m = /[.?!](?=\s|$)/g;
+  let end = -1;
+  for (let x = m.exec(text); x; x = m.exec(text)) {
+    if (x.index > 30) {
+      end = x.index + 1;
+      break;
+    }
+  }
+  if (end < 0) end = Math.min(text.length, 140);
+  // Highlight the back half of the sentence, starting on a word, like a real drag would.
+  let start = Math.floor(end * 0.42);
+  while (start < end && text[start] !== " ") start++;
+  start = Math.min(end - 1, start + 1);
+  const sentence = document.createRange();
+  sentence.setStart(node, 0);
+  sentence.setEnd(node, end);
+  const highlight = document.createRange();
+  highlight.setStart(node, start);
+  highlight.setEnd(node, end);
+  return { sentence, highlight };
 }
 
 function find(target: string): HTMLElement | null {
@@ -50,12 +83,28 @@ function measureTarget(target: string): Box | null {
   const r = area.getBoundingClientRect();
   const first = el.getClientRects()[0] ?? el.getBoundingClientRect();
   const pad = target === "search" ? 4 : 8;
-  // A long lede would leave no room for the tooltip: spotlight its first three lines.
-  let height = r.height;
+  // Step 2 spotlights one sentence (not the whole lede), with a sample pill under it.
   if (target === "lede") {
-    const lh = parseFloat(getComputedStyle(el).lineHeight) || 28;
-    height = Math.min(r.height, lh * 3);
+    const ranges = sentenceRanges(el);
+    if (ranges) {
+      const sr = ranges.sentence.getBoundingClientRect();
+      const lines = ranges.highlight.getClientRects();
+      const endLine = lines[lines.length - 1] ?? sr;
+      const boxTop = sr.top - 10;
+      const boxH = sr.height + 20;
+      const pillLeft = Math.min(window.innerWidth - PILL_W - 16, Math.max(16, endLine.left + endLine.width / 2 - PILL_W / 2));
+      const pillTop = boxTop + boxH + 12;
+      return {
+        top: boxTop,
+        left: r.left - 14,
+        width: r.width + 28,
+        height: boxH,
+        pointX: pillLeft + PILL_W / 2,
+        pill: { left: pillLeft, top: pillTop },
+      };
+    }
   }
+  const height = r.height;
   return {
     top: r.top - pad,
     left: r.left - pad,
@@ -71,9 +120,31 @@ const same = (a: Box | null, b: Box | null) =>
 export function Tour() {
   const step = useApp((s) => s.tour);
   const [box, setBox] = useState<Box | null>(null);
+  const tryIt = () => {
+    const el = find("opening");
+    if (!el) return;
+    buzz(6);
+    sawCover.current = false;
+    setPaused(true);
+    el.click();
+  };
   const [tip, setTip] = useState<{ w: number; h: number; left: number } | null>(null);
   const tipRef = useRef<HTMLDivElement>(null);
-  const active = step >= 1 && step <= STEPS.length;
+  // Step 1 can be done for real: tapping the phrase opens its preview. The tour steps aside
+  // while the preview (or the topic, after Read) is open, and returns at step 2.
+  const [paused, setPaused] = useState(false);
+  const covered = useUi((u) => !!u.overlay || u.stack.length > 1);
+  const sawCover = useRef(false);
+  useEffect(() => {
+    if (!paused) return;
+    if (covered) sawCover.current = true;
+    else if (sawCover.current) {
+      sawCover.current = false;
+      setPaused(false);
+      setTour(2);
+    }
+  }, [paused, covered]);
+  const active = step >= 1 && step <= STEPS.length && !paused;
   const s = active ? STEPS[step - 1] : null;
 
   useLayoutEffect(() => {
@@ -136,9 +207,27 @@ export function Tour() {
     if (!active) setBox(null);
   }, [active]);
 
+  // Step 2 shows a sample highlight on the real sentence (CSS Custom Highlight; skipped where unsupported).
+  useEffect(() => {
+    if (!active || s?.target !== "lede") return;
+    const reg = (CSS as unknown as { highlights?: Map<string, unknown> }).highlights;
+    const HighlightCtor = (window as unknown as { Highlight?: new (...r: Range[]) => unknown }).Highlight;
+    const el = find("lede");
+    const ranges = el && sentenceRanges(el);
+    if (!reg || !HighlightCtor || !ranges) return;
+    reg.set("birdie-tour", new HighlightCtor(ranges.highlight));
+    return () => void reg.delete("birdie-tour");
+  }, [active, s, box?.top]);
+
+  // Escape skips the tour, but not the same Escape that just closed the step-1 preview
+  // (the tour comes back mid-keypress, so that key event would reach us too).
+  const shownAt = useRef(0);
+  useEffect(() => {
+    if (active) shownAt.current = performance.now();
+  }, [active, step]);
   useEffect(() => {
     if (!active) return;
-    const onKey = (e: KeyboardEvent) => e.key === "Escape" && skip();
+    const onKey = (e: KeyboardEvent) => e.key === "Escape" && performance.now() - shownAt.current > 300 && skip();
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
   });
@@ -173,12 +262,13 @@ export function Tour() {
   let placement: "below" | "above" | "clamped" = "below";
   let top = 0;
   if (box) {
-    const fitsBelow = box.top + box.height + GAP + tipH + EDGE <= vh;
+    const bottom = box.pill ? box.pill.top + PILL_H : box.top + box.height;
+    const fitsBelow = bottom + GAP + tipH + EDGE <= vh;
     const fitsAbove = box.top - GAP - tipH >= EDGE;
     const lowerHalf = box.top + box.height / 2 > vh / 2;
     if (fitsBelow && (step === 1 || !(lowerHalf && fitsAbove))) {
       placement = "below";
-      top = box.top + box.height + GAP;
+      top = bottom + GAP;
     } else if (fitsAbove) {
       placement = "above";
       top = box.top - GAP - tipH;
@@ -214,6 +304,27 @@ export function Tour() {
             style={{ boxShadow: "0 0 0 9999px var(--tour-scrim), 0 0 0 2px var(--text)" }}
           />
           <div className="absolute inset-0" onClick={(e) => e.stopPropagation()} />
+          {s.target === "opening" && (
+            <button
+              type="button"
+              aria-label="Try it: open the preview"
+              onClick={tryIt}
+              className="absolute cursor-pointer rounded-2xl"
+              style={{ top: box.top, left: box.left, width: box.width, height: box.height }}
+            />
+          )}
+          {box.pill && (
+            <motion.div
+              aria-hidden="true"
+              initial={{ opacity: 0, transform: "translateY(-4px) scale(0.96)" }}
+              animate={{ opacity: 1, transform: "translateY(0px) scale(1)" }}
+              transition={{ duration: 0.2, delay: 0.12, ease: EASE }}
+              className="glass-heavy glass-ink pointer-events-none absolute flex items-center justify-center gap-2 rounded-full bg-strong font-serif text-[15px] font-semibold text-bg shadow-[var(--shadow)]"
+              style={{ left: box.pill.left, top: box.pill.top, width: PILL_W, height: PILL_H }}
+            >
+              <MessageSquare size={16} strokeWidth={1.9} /> Ask Birdie
+            </motion.div>
+          )}
 
           <AnimatePresence mode="wait">
             <motion.div
@@ -233,21 +344,13 @@ export function Tour() {
                 </div>
                 <p className="mt-2 font-serif text-[19px] leading-[1.35] font-semibold text-balance">{s.title}</p>
                 <p className="mt-2 font-serif text-[16px] leading-[1.5] text-pretty opacity-85">{s.body}</p>
-                {s.target === "lede" && (
-                  <div className="mt-3 flex items-center gap-2" aria-hidden="true">
-                    <span className="rounded bg-hl px-1 font-serif text-[15px] text-[var(--hl-text)]">a sentence</span>
-                    <span className="flex h-8 items-center gap-1.5 rounded-full bg-bg px-3 font-serif text-[13.5px] font-semibold text-strong">
-                      <MessageSquare size={14} strokeWidth={2} /> Ask Birdie
-                    </span>
-                  </div>
-                )}
                 <div className="mt-3 flex items-center justify-between">
                   <button
                     type="button"
-                    onClick={step === 1 ? skip : back}
+                    onClick={step < STEPS.length ? skip : back}
                     className="press -ml-2 h-11 px-2 font-serif text-[15px] underline underline-offset-4 opacity-75"
                   >
-                    {step === 1 ? "Skip tour" : "Back"}
+                    {step < STEPS.length ? "Skip tour" : "Back"}
                   </button>
                   <button
                     type="button"

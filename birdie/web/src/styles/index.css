@@ -397,3 +397,9 @@ a,
     }
   }
 }
+
+/* The tour's sample highlight on the real sentence (step 2). */
+::highlight(birdie-tour) {
+  background-color: var(--hl);
+  color: var(--hl-text);
+}

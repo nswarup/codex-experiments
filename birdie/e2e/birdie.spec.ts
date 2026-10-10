@@ -34,6 +34,18 @@ test("onboarding needs three interests, then the tour walks through three steps"
   await expect(page.getByRole("heading", { name: "What are you curious about?" })).toHaveCount(0);
 });
 
+test("tour step 1 lets you tap the phrase for real, then continues at step 2", async ({ page }) => {
+  await onboard(page);
+  await expect(page.getByText("Tap an underlined phrase to read about it.")).toBeVisible();
+  await page.getByRole("button", { name: "Try it: open the preview" }).click();
+  const peek = page.getByRole("dialog").filter({ has: page.getByRole("button", { name: "Read", exact: true }) });
+  await expect(peek).toBeVisible();
+  await expect(page.getByText("Tap an underlined phrase to read about it.")).toHaveCount(0);
+  await page.keyboard.press("Escape");
+  await expect(page.getByText("Highlight any text to ask Birdie about it.")).toBeVisible();
+  await expect(page.getByRole("button", { name: "Skip tour" })).toBeVisible();
+});
+
 test("feed article has dotted openings, a peek, and Next, maybe nudges", async ({ page }) => {
   await onboard(page);
   await page.getByRole("button", { name: "Skip tour" }).click();
