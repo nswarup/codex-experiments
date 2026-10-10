@@ -1,0 +1,53 @@
+{
+  "id": "mondrian-upside-down",
+  "title": "The Mondrian hung upside down",
+  "category": "Art",
+  "hook": "A Mondrian has probably hung upside down for over 75 years, and it will stay that way.",
+  "peek": "Piet Mondrian's New York City I, made of colored tape, was probably shown upside down from its first exhibition in 1945. A curator spotted the clue in 2022. The museum decided to leave it, because turning it could damage it.",
+  "lede": "In 2022 the curator Susanne Meyer-Büser, preparing a show in Düsseldorf, realised that Piet Mondrian's New York City I had probably been hanging upside down since it was first exhibited in 1945. The work is a grid of colored paper tape. Its lines bunch together at one edge, and that edge was likely meant to be the top.",
+  "bullets": [
+    {
+      "opening": "A photo in the studio",
+      "linkId": null,
+      "text": "The key clue was a photograph of Mondrian's studio, taken shortly after his death in 1944. It shows the work on an easel with the crowded lines at the top, the opposite of how museums had shown it."
+    },
+    {
+      "opening": "A skyline of tape",
+      "linkId": null,
+      "text": "The dense band reads like a city skyline, which fits the title. A related oil painting by Mondrian also has its lines thickest at the top."
+    },
+    {
+      "opening": "Why it stays upside down",
+      "linkId": null,
+      "text": "The tape is old and the glue is fragile. Turning the work around could make strips sag or come loose, so the museum decided to leave it as it is, with a label explaining the story."
+    },
+    {
+      "opening": "Matisse's Le Bateau",
+      "linkId": null,
+      "text": "Mondrian is not alone. In 1961 Henri Matisse's paper cut-out Le Bateau hung upside down at the Museum of Modern Art in New York for about 47 days before a visitor pointed it out."
+    },
+    {
+      "opening": "Modernist grids",
+      "linkId": "helvetica",
+      "text": "Mondrian's straight lines and blocks of primary color shaped later graphic design, including the clean Swiss style that gave the world Helvetica."
+    },
+    {
+      "opening": "A museum's bad day",
+      "linkId": "mona-lisa-theft",
+      "text": "Even the most watched art can go astray. In 1911 the Mona Lisa vanished from the Louvre for over two years before turning up in Florence."
+    }
+  ],
+  "tags": [
+    "museums",
+    "design",
+    "myths-busted",
+    "painting"
+  ],
+  "related": [
+    "helvetica",
+    "mona-lisa-theft",
+    "klein-blue",
+    "the-dress",
+    "bob-ross"
+  ]
+}

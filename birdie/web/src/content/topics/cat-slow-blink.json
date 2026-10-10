@@ -1,0 +1,48 @@
+{
+  "id": "cat-slow-blink",
+  "title": "The cat slow blink",
+  "category": "Animals",
+  "hook": "Narrow your eyes slowly at a cat, and it may well do the same back.",
+  "peek": "A slow, half-closed blink is one of the friendliest things a cat can do. A 2020 study found that cats often return the gesture when people do it first, and warm up to strangers who try it.",
+  "lede": "Cat owners have long noticed that a relaxed cat will look at them, half close its eyes and blink slowly. Behaviourists call it the slow blink, and some nickname it the cat smile. In 2020, psychologists at the Universities of Sussex and Portsmouth tested it properly and found that cats really do answer a human slow blink with one of their own.",
+  "bullets": [
+    {
+      "opening": "The 2020 Sussex study",
+      "linkId": null,
+      "text": "Tasmin Humphrey, Karen McComb and colleagues had owners slow-blink at their cats at home. The cats blinked back more often than when the owners sat with a neutral face."
+    },
+    {
+      "opening": "Winning over a stranger",
+      "linkId": null,
+      "text": "In a second experiment, a researcher the cats had never met tried it. Cats were more likely to approach her hand after she slow-blinked than after she kept a neutral expression."
+    },
+    {
+      "opening": "Why staring feels rude",
+      "linkId": "crows-faces",
+      "text": "Among cats, a fixed stare can signal a challenge. Softening and closing the eyes signals the opposite. Many animals read faces closely, and crows can pick out a single human face for years."
+    },
+    {
+      "opening": "Why cats purr",
+      "linkId": "cats-purr",
+      "text": "Like the purr, the slow blink may have started between cats and been adapted for life with people. Karen McComb, who led the slow blink work, also studied how cats purr for attention."
+    },
+    {
+      "opening": "Larry at Downing Street",
+      "linkId": "larry-the-cat",
+      "text": "Larry, the cat at 10 Downing Street, spends much of his day on the doorstep in front of photographers. To a cat, a row of lenses is probably just a lot of strangers staring."
+    }
+  ],
+  "tags": [
+    "cats",
+    "animal-minds",
+    "communication",
+    "perception"
+  ],
+  "related": [
+    "cats-purr",
+    "larry-the-cat",
+    "crows-faces",
+    "elephant-mirror",
+    "dogs-smell"
+  ]
+}

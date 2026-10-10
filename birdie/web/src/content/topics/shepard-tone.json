@@ -1,0 +1,53 @@
+{
+  "id": "shepard-tone",
+  "title": "The Shepard tone",
+  "category": "Music",
+  "hook": "A sound that rises forever and never gets any higher.",
+  "peek": "An audio illusion from Bell Labs in 1964: a tone that seems to climb a staircase with no top. Loop it and your brain insists the pitch keeps going up, while the waveform goes nowhere at all.",
+  "lede": "In 1964, Roger Shepard, a psychologist at Bell Labs, built a sound that seems to climb a staircase with no top. Play it on a loop and your brain insists the pitch keeps going up. Look at the waveform and nothing is going anywhere at all.",
+  "bullets": [
+    {
+      "opening": "Auditory illusions",
+      "linkId": "mcgurk-effect",
+      "text": "The trick stacks several tones an octave apart. As they climb, the top one fades out and a new low one fades in, so something is always rising and nothing ever arrives."
+    },
+    {
+      "opening": "Penrose stairs",
+      "linkId": null,
+      "text": "It is the sound version of the impossible staircase that M.C. Escher drew in Ascending and Descending, four flights that loop back on themselves."
+    },
+    {
+      "opening": "Super Mario 64",
+      "linkId": null,
+      "text": "In the 1996 game, the endless staircase to Bowser plays a Shepard tone while you climb steps that never seem to end, until you have collected 70 stars."
+    },
+    {
+      "opening": "Hans Zimmer's Dunkirk score",
+      "linkId": null,
+      "text": "Zimmer leans on the effect so the tension in Christopher Nolan's 2017 film never resolves. Nolan has said he built the script around the idea, braiding together stories on land, at sea and in the air."
+    },
+    {
+      "opening": "The tritone paradox",
+      "linkId": "perfect-pitch",
+      "text": "Play two Shepard tones half an octave apart and some people hear them rise while others hear them fall. Which one you hear seems to track the speech you grew up around."
+    },
+    {
+      "opening": "Risset's endless glissando",
+      "linkId": null,
+      "text": "The composer Jean-Claude Risset later made a smooth, sliding version of the illusion. Electronic musicians still use the idea for risers that seem to build forever without ever quite arriving."
+    }
+  ],
+  "tags": [
+    "acoustics",
+    "illusions",
+    "perception",
+    "music-tech"
+  ],
+  "related": [
+    "mcgurk-effect",
+    "perfect-pitch",
+    "theremin",
+    "amen-break",
+    "tetris-effect"
+  ]
+}

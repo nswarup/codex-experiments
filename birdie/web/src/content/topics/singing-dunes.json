@@ -1,0 +1,48 @@
+{
+  "id": "singing-dunes",
+  "title": "Singing sand dunes",
+  "category": "Nature",
+  "hook": "Some sand dunes hum a low note loud enough to hear from far away.",
+  "peek": "In a few dozen deserts around the world, sand sliding down a dune makes a deep, steady hum that can last for minutes. Travellers once blamed spirits. Physicists are still arguing about exactly how it works.",
+  "lede": "When dry sand avalanches down the steep face of certain dunes, it can produce a deep hum, like a low note on a cello or a distant propeller plane. The sound can last for minutes and carry for kilometres. Only a few dozen dunes around the world are known to do it, and the grains need to be dry, rounded and of similar size.",
+  "bullets": [
+    {
+      "opening": "Marco Polo's desert spirits",
+      "linkId": null,
+      "text": "In his account of crossing the desert near Lop Nur, Marco Polo described sounds like musical instruments and drums, which travellers attributed to spirits. Many researchers think he was describing singing sand."
+    },
+    {
+      "opening": "Mingsha Shan",
+      "linkId": null,
+      "text": "Near Dunhuang in western China, on the old Silk Road, the name of the dunes means Echoing-Sand Mountain. Visitors slide down the slopes to set off the sound, as people have for centuries."
+    },
+    {
+      "opening": "Kelso Dunes",
+      "linkId": null,
+      "text": "In California's Mojave Desert, the Kelso Dunes boom when hikers push sand down the slopes in dry weather. After rain the dunes go quiet until the sand dries out."
+    },
+    {
+      "opening": "Grains that resonate",
+      "linkId": "stradivarius",
+      "text": "Scientists disagree on what sets the pitch. One group links it to grain size, another to layers inside the dune that act like a sounding body, a little like the wooden box of a violin."
+    },
+    {
+      "opening": "Listening to the world",
+      "linkId": "cage-433",
+      "text": "Field recordists travel to capture the dunes, and the sound has been used in music and installations. It fits John Cage's idea that any sound, carefully listened to, can be music."
+    }
+  ],
+  "tags": [
+    "acoustics",
+    "deserts",
+    "sound",
+    "myths-busted"
+  ],
+  "related": [
+    "stradivarius",
+    "cage-433",
+    "shepard-tone",
+    "morning-glory-clouds",
+    "petrichor"
+  ]
+}

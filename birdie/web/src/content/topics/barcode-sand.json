@@ -1,0 +1,48 @@
+{
+  "id": "barcode-sand",
+  "title": "The barcode drawn in sand",
+  "category": "Inventions",
+  "hook": "The barcode began as Morse code dragged through the sand on a Florida beach.",
+  "peek": "In the late 1940s an engineering student sat on Miami Beach wondering how a grocery store could read prices by machine. He pushed his fingers through the sand, and the dots and dashes of Morse code stretched into lines.",
+  "lede": "Around 1948, Norman Joseph Woodland, a graduate student at Drexel in Philadelphia, was puzzling over how shops could record purchases automatically. Sitting on Miami Beach, he pushed his fingers into the sand to draw Morse code, then pulled them toward himself. The dots and dashes became thin and thick lines, and the idea of the barcode was born, at least as he later told it.",
+  "bullets": [
+    {
+      "opening": "Morse code and the keyboard",
+      "linkId": "qwerty",
+      "text": "Woodland had learned Morse code as a Boy Scout. Telegraph codes shaped other technology too: some researchers think telegraph operators helped settle the QWERTY layout."
+    },
+    {
+      "opening": "The bullseye barcode",
+      "linkId": null,
+      "text": "Woodland and his friend Bernard Silver patented a circular version in 1952, made of rings so a scanner could read it from any direction. The equipment of the day struggled to make it work."
+    },
+    {
+      "opening": "A patent that ran out early",
+      "linkId": "happy-birthday-copyright",
+      "text": "The pair sold their patent in 1962, and it expired in 1969, before barcodes reached shops. Who owns an idea and who profits from it do not always line up, as the long fight over 'Happy Birthday' showed."
+    },
+    {
+      "opening": "George Laurer and the UPC",
+      "linkId": null,
+      "text": "At IBM in the early 1970s, Laurer designed the rectangular Universal Product Code that grocery chains adopted in 1973. Woodland worked at IBM on the project too."
+    },
+    {
+      "opening": "A pack of Juicy Fruit gum",
+      "linkId": null,
+      "text": "On 26 June 1974, at a Marsh supermarket in Troy, Ohio, a pack of Wrigley's Juicy Fruit became the first product sold with a scanned UPC. It now sits in a Smithsonian collection."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "history-of-things",
+    "patterns",
+    "design"
+  ],
+  "related": [
+    "qwerty",
+    "post-it",
+    "happy-birthday-copyright",
+    "velcro",
+    "helvetica"
+  ]
+}

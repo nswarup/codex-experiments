@@ -1,0 +1,53 @@
+{
+  "id": "microwave-chocolate",
+  "title": "The microwave and the melted chocolate bar",
+  "category": "Inventions",
+  "hook": "A radar engineer noticed his snack had melted, and the microwave oven followed.",
+  "peek": "Around 1945, a Raytheon engineer working near a radar tube found the snack bar in his pocket had melted. He tried popcorn next. Within a couple of years his company was selling a microwave oven taller than a person.",
+  "lede": "Around 1945, Percy Spencer, an engineer at Raytheon, was working with magnetrons, the tubes that powered wartime radar. He noticed that a snack bar in his pocket had melted. Versions of the story differ: some say chocolate, some say a peanut bar, and others at the time may have noticed the effect first. Spencer was the one who saw a product in it.",
+  "bullets": [
+    {
+      "opening": "The magnetron",
+      "linkId": null,
+      "text": "This tube produces microwaves, short radio waves that make water molecules in food jiggle and heat up. Britain shared its improved design with the US during the war, and Raytheon became a major maker of it."
+    },
+    {
+      "opening": "Popcorn and an egg",
+      "linkId": null,
+      "text": "Spencer reportedly tried popcorn next, which popped. A popular telling adds an egg that heated so fast it burst. Raytheon filed a patent on cooking with microwaves in 1945."
+    },
+    {
+      "opening": "The Radarange",
+      "linkId": null,
+      "text": "Raytheon's first commercial microwave oven came out in 1947. It stood about as tall as a person, weighed hundreds of kilograms and was sold to restaurants, ships and railways."
+    },
+    {
+      "opening": "The countertop microwave",
+      "linkId": null,
+      "text": "In 1967 Amana, by then owned by Raytheon, sold a countertop Radarange for home kitchens. By the late 1990s, most American homes had one."
+    },
+    {
+      "opening": "Accidents in chemistry",
+      "linkId": "perkin-mauve",
+      "text": "In 1856 a teenage chemist trying to make quinine instead made the first synthetic dye. Like Spencer, he was paying attention when an experiment went sideways."
+    },
+    {
+      "opening": "Inventions by mistake",
+      "linkId": "post-it",
+      "text": "Spencer's melted snack sits alongside a weak glue at 3M as one of the best-known accidental inventions, with the same caveat: the tidy version leaves out years of work."
+    }
+  ],
+  "tags": [
+    "accidents",
+    "inventors",
+    "food-history",
+    "history-of-things"
+  ],
+  "related": [
+    "perkin-mauve",
+    "post-it",
+    "bubble-wrap",
+    "umami",
+    "slinky"
+  ]
+}

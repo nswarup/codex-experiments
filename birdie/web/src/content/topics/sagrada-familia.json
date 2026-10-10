@@ -1,0 +1,53 @@
+{
+  "id": "sagrada-familia",
+  "title": "The Sagrada Família's long build",
+  "category": "Places",
+  "hook": "A church in Barcelona that has been under construction since 1882.",
+  "peek": "Barcelona's Sagrada Família has been a building site for more than 140 years. Antoni Gaudí knew he would never see it finished, and it has been paid for largely by donations and, more recently, visitors' tickets.",
+  "lede": "Work on the Sagrada Família began in 1882, and Antoni Gaudí took over the project a year later. He spent the rest of his life on it and saw only a small part built before he died in 1926. Construction has carried on ever since, funded mostly by private donations and, in recent decades, by the millions of people who buy tickets to walk inside.",
+  "bullets": [
+    {
+      "opening": "Gaudí's patient client",
+      "linkId": null,
+      "text": "Gaudí is often quoted as saying his client was not in a hurry, meaning God. The line may be polished in the retelling, but it fits how he worked: he left plaster models and rules for others to follow."
+    },
+    {
+      "opening": "Geometry borrowed from nature",
+      "linkId": "fibonacci-sunflowers",
+      "text": "The columns inside branch like trees, and many surfaces are hyperboloids and other shapes made from straight lines. That geometry made the stones easier to cut than the curves suggest."
+    },
+    {
+      "opening": "Software from aircraft design",
+      "linkId": null,
+      "text": "Many of Gaudí's models were broken in 1936. Later architects pieced the fragments back together and, from the 1990s, used 3D design software developed for aircraft engineering to work out the complex stonework."
+    },
+    {
+      "opening": "A building permit, at last",
+      "linkId": null,
+      "text": "In 2018 Barcelona's city council and the church reached an agreement over a building licence the project had never formally held, with the foundation agreeing to pay the city about 36 million euros over ten years."
+    },
+    {
+      "opening": "The tallest tower",
+      "linkId": null,
+      "text": "The central Tower of Jesus Christ is designed to make the basilica the tallest church building in the world. Builders have aimed to finish the main towers around 2026, the centenary of Gaudí's death, though decorative work is expected to continue for years after."
+    },
+    {
+      "opening": "Buildings made to be rebuilt",
+      "linkId": "ise-shrine",
+      "text": "The Sagrada Família is one way to build across generations. In Japan, the shrine at Ise takes the opposite approach and is deliberately rebuilt from scratch on a regular cycle."
+    }
+  ],
+  "tags": [
+    "architecture",
+    "time",
+    "design",
+    "history-of-things"
+  ],
+  "related": [
+    "ise-shrine",
+    "hallstatt-china",
+    "fibonacci-sunflowers",
+    "oxford-aztecs",
+    "helvetica"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "klein-blue",
+  "title": "International Klein Blue",
+  "category": "Art",
+  "hook": "An artist found a way to keep blue pigment as bright on canvas as in the jar.",
+  "peek": "Yves Klein loved the glowing blue of raw ultramarine powder, which turned dull once mixed into paint. With a Paris paint supplier he found a clear binder that kept the glow, registered the formula in 1960, and made it his signature.",
+  "lede": "The French artist Yves Klein loved how loose ultramarine pigment glowed, and disliked how ordinary binders dulled it. Working with the Paris paint dealer Édouard Adam, he found a synthetic resin that held the powder in place while keeping its brightness. He registered the formula in 1960, and the result became International Klein Blue.",
+  "bullets": [
+    {
+      "opening": "A registered formula",
+      "linkId": "vantablack-feud",
+      "text": "Klein did not own the color. He filed a sealed record of the recipe with the French patent office as proof it was his. The fight over who may use Vantablack is a modern echo of that idea."
+    },
+    {
+      "opening": "Eleven blue canvases",
+      "linkId": null,
+      "text": "In a 1957 show in Milan, Klein hung eleven nearly identical blue paintings, each with a different price. He said buyers were paying for something beyond the object itself. From then on, blue became the color most people link with his name."
+    },
+    {
+      "opening": "The Anthropometries",
+      "linkId": null,
+      "text": "In 1960 he staged performances where models coated in his blue pressed their bodies onto paper while musicians played. The prints became some of his best-known works."
+    },
+    {
+      "opening": "Lapis lazuli",
+      "linkId": null,
+      "text": "Ultramarine was once ground from lapis lazuli mined in Afghanistan. In Renaissance Europe it could cost as much as gold, so painters often saved it for the robes of the Virgin Mary."
+    },
+    {
+      "opening": "Synthetic ultramarine",
+      "linkId": "perkin-mauve",
+      "text": "In the 1820s French chemists found a way to make ultramarine cheaply, part of the wave of manufactured colors that William Perkin's mauve would soon turn into an industry."
+    }
+  ],
+  "tags": [
+    "color",
+    "painting",
+    "pigments",
+    "design"
+  ],
+  "related": [
+    "vantablack-feud",
+    "perkin-mauve",
+    "mondrian-upside-down",
+    "bob-ross",
+    "pale-blue-dot"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "bubble-wrap",
+  "title": "Bubble wrap was meant to be wallpaper",
+  "category": "Inventions",
+  "hook": "Before it protected parcels, bubble wrap was supposed to cover your walls.",
+  "peek": "In 1957 two engineers in New Jersey sealed two shower curtains together, hoping to sell a textured, modern wallpaper. Nobody wanted it on their walls. Then they found what the bubbles were really good for.",
+  "lede": "In 1957, two engineers in Hawthorne, New Jersey, Alfred Fielding and Marc Chavannes, sealed two plastic shower curtains together with air trapped between them. They hoped to sell it as a textured, modern wallpaper. It flopped. So did their next idea, greenhouse insulation. The bubbles finally found their calling as packing material.",
+  "bullets": [
+    {
+      "opening": "Sealed Air Corporation",
+      "linkId": null,
+      "text": "Fielding and Chavannes founded the company in 1960 to sell their bubbles. Sealed Air still owns the Bubble Wrap trademark, which is why other firms say bubble cushioning. The company grew into one of the largest packaging firms in the world."
+    },
+    {
+      "opening": "The IBM 1401",
+      "linkId": null,
+      "text": "An early big customer was IBM, which used the wrap to protect its new 1401 computer in shipping. The order showed the stuff could protect delicate electronics on the move. Other electronics makers soon followed IBM's lead."
+    },
+    {
+      "opening": "Bubble Wrap Appreciation Day",
+      "linkId": null,
+      "text": "Since 2001, the last Monday in January has been an unofficial day for celebrating the stuff. It started with a radio station in Indiana."
+    },
+    {
+      "opening": "Second lives for products",
+      "linkId": "slinky",
+      "text": "The Slinky was meant to steady instruments on ships. Many famous products earned their living doing something their makers never planned."
+    },
+    {
+      "opening": "Trademarks that turn generic",
+      "linkId": "velcro",
+      "text": "Bubble Wrap is a registered name, like Velcro, and both firms gently remind people of it. A brand that becomes a common word risks losing its legal protection."
+    },
+    {
+      "opening": "Failures that found a use",
+      "linkId": "post-it",
+      "text": "The Post-it note began as a glue that would not stick properly. Its makers, like Fielding and Chavannes, had to look for the right problem."
+    }
+  ],
+  "tags": [
+    "accidents",
+    "inventors",
+    "history-of-things",
+    "design"
+  ],
+  "related": [
+    "post-it",
+    "velcro",
+    "slinky",
+    "microwave-chocolate",
+    "crocs-boat-shoe"
+  ]
+}

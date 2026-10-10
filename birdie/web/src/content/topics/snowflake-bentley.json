@@ -1,0 +1,48 @@
+{
+  "id": "snowflake-bentley",
+  "title": "Snowflake Bentley",
+  "category": "Nature",
+  "hook": "A Vermont farmer who spent his life photographing single snowflakes.",
+  "peek": "Wilson Bentley, a farmer from Jericho, Vermont, took the first known photograph of a single snowflake in 1885. Over the next 46 years he captured thousands more, and his pictures shaped the idea that no two are alike.",
+  "lede": "Wilson Bentley grew up on a farm in Jericho, Vermont, and fell in love with snow crystals under a small microscope his mother gave him. On 15 January 1885, aged 19, he rigged a bellows camera to a microscope and took the first known photograph of a single snowflake. He kept going for 46 winters and photographed more than 5,000.",
+  "bullets": [
+    {
+      "opening": "Working against the thaw",
+      "linkId": null,
+      "text": "Bentley caught flakes on a black board, lifted them with a thin splint or feather and worked in an unheated shed so nothing melted. Each image had to be made in moments."
+    },
+    {
+      "opening": "No two alike",
+      "linkId": null,
+      "text": "Bentley's pictures helped popularise the idea that no two snowflakes are the same. Each crystal follows its own path through the air, and tiny changes in temperature and humidity shape it differently."
+    },
+    {
+      "opening": "Snow Crystals",
+      "linkId": null,
+      "text": "In 1931, he and the physicist W. J. Humphreys published a book of more than 2,000 of his photographs. It is still in print and still used by artists and designers."
+    },
+    {
+      "opening": "Six-sided symmetry",
+      "linkId": "fibonacci-sunflowers",
+      "text": "Snowflakes have six arms because of how water molecules lock together in ice. Like the spirals in a sunflower, the large, regular pattern comes from simple rules repeated at a very small scale."
+    },
+    {
+      "opening": "Raindrops in flour",
+      "linkId": "petrichor",
+      "text": "Bentley also studied rain. He let drops fall into pans of flour, which set into little pellets he could measure, and he kept size records for hundreds of storms, early work on how raindrops form."
+    }
+  ],
+  "tags": [
+    "weather",
+    "patterns",
+    "photography",
+    "inventors"
+  ],
+  "related": [
+    "fibonacci-sunflowers",
+    "rainbow-circles",
+    "year-without-summer",
+    "petrichor",
+    "bob-ross"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "moon-drifting",
+  "title": "The Moon is drifting away",
+  "category": "Space",
+  "hook": "The Moon moves about 3.8 centimetres farther from Earth every year.",
+  "peek": "Every year the Moon moves about 3.8 centimetres farther away, roughly as fast as fingernails grow. Scientists know this by bouncing lasers off mirrors that Apollo astronauts left on the surface.",
+  "lede": "The Moon is slowly leaving. Each year it moves about 3.8 centimetres farther from Earth, roughly the speed your fingernails grow. The cause is tides. The Moon raises a bulge in Earth's oceans and rock, Earth's spin carries that bulge slightly ahead, and its pull nudges the Moon into a higher orbit. In return, Earth's spin slows down.",
+  "bullets": [
+    {
+      "opening": "Lunar laser ranging",
+      "linkId": null,
+      "text": "Apollo 11, 14 and 15 left reflectors on the Moon, and two Soviet Lunokhod rovers carried more. Observatories fire lasers at them and time the light's round trip to measure the distance very precisely."
+    },
+    {
+      "opening": "Longer days",
+      "linkId": null,
+      "text": "As Earth's rotation slows, the day gets longer, by roughly 2 milliseconds per century. It is tiny for a lifetime but adds up across geological time."
+    },
+    {
+      "opening": "Devonian coral rings",
+      "linkId": null,
+      "text": "In 1963 the palaeontologist John Wells counted daily growth lines in fossil corals about 380 million years old. They suggested a year of roughly 400 shorter days."
+    },
+    {
+      "opening": "The last total eclipse",
+      "linkId": null,
+      "text": "Today the Moon is just the right size in the sky to cover the Sun. As it drifts away, it will one day look too small, and total eclipses will end, though not for hundreds of millions of years."
+    },
+    {
+      "opening": "Venus's strange day",
+      "linkId": "venus-day",
+      "text": "Tides and atmospheres shape other planets' spins too. Venus turns so slowly that its rotation lasts longer than its year."
+    },
+    {
+      "opening": "A piece of the Moon",
+      "linkId": "kamooalewa",
+      "text": "Not all of the Moon stays with the Moon. A small asteroid called Kamoʻoalewa, which loops near Earth, may be a fragment blasted off its surface."
+    }
+  ],
+  "tags": [
+    "space-exploration",
+    "time",
+    "scale"
+  ],
+  "related": [
+    "venus-day",
+    "kamooalewa",
+    "harrison-clocks",
+    "eleven-days-1752",
+    "pale-blue-dot"
+  ]
+}

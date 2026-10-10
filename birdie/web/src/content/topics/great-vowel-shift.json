@@ -1,0 +1,48 @@
+{
+  "id": "great-vowel-shift",
+  "title": "The Great Vowel Shift",
+  "category": "Language",
+  "hook": "Why English spells \"bite\" and \"meet\" so unlike the rest of Europe.",
+  "peek": "Between roughly 1400 and 1700, the long vowels of English slid to new positions. Spelling was settling down at the same time, so English kept the old spellings with the new sounds, which is why its vowels look so odd to other Europeans.",
+  "lede": "In Chaucer's time, \"bite\" sounded close to modern \"beet\", \"meet\" was nearer to \"mate\", and \"house\" was close to \"hoose\". Over about three centuries, from around 1400, the long vowels of English moved, each one pushing into the space of another. Linguists call it the Great Vowel Shift, and it is the main reason English spelling and pronunciation part ways.",
+  "bullets": [
+    {
+      "opening": "Otto Jespersen",
+      "linkId": null,
+      "text": "The Danish linguist Otto Jespersen gave the change its name in the early twentieth century. He described it as a chain: as one vowel moved up, the vowel behind it moved up to fill the gap."
+    },
+    {
+      "opening": "Spelling froze too early",
+      "linkId": "letter-thorn",
+      "text": "Printing arrived in England in the 1470s, and printers began fixing spellings while the shift was still under way. The same era of early printing explains why \"the\" ended up written as \"ye\" on old signs."
+    },
+    {
+      "opening": "Shakespeare's original pronunciation",
+      "linkId": null,
+      "text": "Some of Shakespeare's rhymes look broken today because English vowels have kept moving since his time. Productions in reconstructed pronunciation, including some at London's rebuilt Globe theatre, bring back rhymes and puns that modern speech has lost."
+    },
+    {
+      "opening": "Why the shift happened",
+      "linkId": null,
+      "text": "Nobody knows for sure. Ideas include people moving into London from other regions and the social pull of copying higher-status speech. Linguists still debate both the cause and how orderly it really was."
+    },
+    {
+      "opening": "Older than the shift",
+      "linkId": "oxford-aztecs",
+      "text": "Teaching at Oxford was already a few centuries old when the shift began, so its earliest scholars spoke an English whose vowels would sound foreign to students there now, even when the spelling looks familiar."
+    }
+  ],
+  "tags": [
+    "language-change",
+    "etymology",
+    "history-of-things",
+    "pronunciation"
+  ],
+  "related": [
+    "letter-thorn",
+    "oxford-aztecs",
+    "ok-origin",
+    "dord",
+    "semantic-satiation"
+  ]
+}

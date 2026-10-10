@@ -1,0 +1,53 @@
+{
+  "id": "fibonacci-sunflowers",
+  "title": "Fibonacci spirals in sunflowers",
+  "category": "Math",
+  "hook": "Count the spirals in a sunflower head and you often land on Fibonacci numbers.",
+  "peek": "The seeds in a sunflower head form two sets of spirals, one turning each way. Count them and you often get neighbouring Fibonacci numbers, such as 34 and 55. The pattern falls out of a simple rule for placing each new seed.",
+  "lede": "A sunflower head packs its seeds in two families of spirals, one winding clockwise and one anticlockwise. Count each family and you usually get two neighbouring numbers from the Fibonacci sequence, the list where each number is the sum of the two before: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89. Common pairs are 34 and 55, or 55 and 89.",
+  "bullets": [
+    {
+      "opening": "The golden angle",
+      "linkId": null,
+      "text": "Each new seed forms at the centre, turned about 137.5 degrees from the last. That angle never lines seeds up in neat rows, so they fill the disc evenly, and the Fibonacci spirals appear as a side effect."
+    },
+    {
+      "opening": "Leonardo of Pisa's rabbits",
+      "linkId": null,
+      "text": "The sequence is named after Leonardo of Pisa, known as Fibonacci, who used it in a 1202 book as a puzzle about breeding rabbits. Indian scholars had described the same numbers centuries earlier while studying poetic rhythm."
+    },
+    {
+      "opening": "Pineapple and pine cone spirals",
+      "linkId": "pineapple-status",
+      "text": "The same pattern shows up in pine cones and in the scales of a pineapple, which often run in spirals of 8 and 13. Plants that add new parts at that steady turning angle tend to show it."
+    },
+    {
+      "opening": "Turing's Sunflowers",
+      "linkId": null,
+      "text": "Alan Turing studied plant spirals near the end of his life. In 2012 a Manchester citizen science project grew hundreds of sunflowers in his honour and found that most fit the pattern, though about one in five did not fit neatly."
+    },
+    {
+      "opening": "Golden ratio myths",
+      "linkId": null,
+      "text": "The ratio between neighbouring Fibonacci numbers approaches the golden ratio, about 1.618. Popular claims that it was built into the Mona Lisa or the Parthenon are much shakier, and many historians doubt it was planned."
+    },
+    {
+      "opening": "Benford's law",
+      "linkId": "benfords-law",
+      "text": "Fibonacci numbers also follow Benford's law: roughly 30% of them start with a 1. Simple growth rules keep producing tidy, checkable patterns."
+    }
+  ],
+  "tags": [
+    "patterns",
+    "plants",
+    "spirals",
+    "numbers"
+  ],
+  "related": [
+    "benfords-law",
+    "pineapple-status",
+    "snowflake-bentley",
+    "pando",
+    "four-color-theorem"
+  ]
+}

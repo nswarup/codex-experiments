@@ -1,0 +1,48 @@
+{
+  "id": "semantic-satiation",
+  "title": "Semantic satiation",
+  "category": "Mind",
+  "hook": "Say a word enough times and it turns into a strange, meaningless sound.",
+  "peek": "Repeat a word out loud thirty times, any word, and it starts to sound foreign, then like noise. Psychologists have a name for this, coined in a 1962 doctoral thesis at McGill University.",
+  "lede": "Pick a word, say 'spoon', and repeat it aloud for half a minute. Somewhere along the way it stops feeling like a word. It becomes a strange noise your mouth is making, and you may briefly wonder if it is spelled right. The effect was described in 1907, and the name semantic satiation came from a 1962 thesis by Leon Jakobovits James at McGill.",
+  "bullets": [
+    {
+      "opening": "Neurons getting tired",
+      "linkId": null,
+      "text": "One leading explanation is that the brain's response to a repeated word briefly fades, so its meaning feels weaker. Rest a few moments and the meaning comes back. The effect works with written words too, if you stare at one long enough."
+    },
+    {
+      "opening": "Jamais vu",
+      "linkId": null,
+      "text": "The opposite of déjà vu: something familiar suddenly feels new. Researchers who had people write a word over and over until it looked wrong won an Ig Nobel Prize in 2023."
+    },
+    {
+      "opening": "Buffalo buffalo",
+      "linkId": "buffalo-sentence",
+      "text": "A grammatical English sentence made of one word repeated eight times. Reading it is a good way to bring on satiation and puzzlement at once. It uses the word as a city, an animal and a verb meaning to bully."
+    },
+    {
+      "opening": "The speech-to-song illusion",
+      "linkId": "shepard-tone",
+      "text": "The psychologist Diana Deutsch found that a spoken phrase, looped many times, starts to sound sung. Like the Shepard tone, it shows repetition reshaping what we hear."
+    },
+    {
+      "opening": "Severance and Washburn, 1907",
+      "linkId": null,
+      "text": "Two American psychologists had people stare at a printed word for minutes at a time. Many said it began to look strange and lose its meaning, the same effect seen rather than heard."
+    }
+  ],
+  "tags": [
+    "language-change",
+    "perception",
+    "memory",
+    "illusions"
+  ],
+  "related": [
+    "buffalo-sentence",
+    "shepard-tone",
+    "dord",
+    "baader-meinhof",
+    "mcgurk-effect"
+  ]
+}

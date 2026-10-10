@@ -1,0 +1,53 @@
+{
+  "id": "konigsberg-bridges",
+  "title": "The seven bridges of Königsberg",
+  "category": "Math",
+  "hook": "A Sunday stroll puzzle that Euler turned into a whole new branch of maths.",
+  "peek": "The Prussian city of Königsberg had seven bridges linking two islands and two riverbanks. People wondered if you could cross each bridge exactly once on a single walk. In 1736 Leonhard Euler proved you cannot, and founded graph theory doing it.",
+  "lede": "The city of Königsberg sat on the River Pregel, with two islands and seven bridges joining them to the banks. Residents puzzled over whether a walk could cross every bridge exactly once. In 1736 the Swiss mathematician Leonhard Euler proved it was impossible, and the way he did it mattered more than the answer.",
+  "bullets": [
+    {
+      "opening": "Leonhard Euler's shortcut",
+      "linkId": null,
+      "text": "Euler ignored distances and street shapes. He treated each landmass as a point and each bridge as a line, and saw that only the pattern of connections mattered. That stripped-down picture is what mathematicians now call a graph."
+    },
+    {
+      "opening": "The odd-numbered rule",
+      "linkId": null,
+      "text": "Every time you pass through a place, you use one bridge in and one out. So a place with an odd number of bridges must be where you start or finish. Königsberg had four such places, two too many."
+    },
+    {
+      "opening": "The birth of graph theory",
+      "linkId": "four-color-theorem",
+      "text": "Euler's dots-and-lines picture grew into graph theory, now used for networks, circuits and maps. The four color theorem is one of its most famous problems."
+    },
+    {
+      "opening": "Kaliningrad's bridges today",
+      "linkId": null,
+      "text": "Königsberg is now Kaliningrad, in Russia. Several bridges were lost in the Second World War or later replaced, and with today's layout a walk crossing each bridge once is possible, though it cannot end where it began."
+    },
+    {
+      "opening": "Puzzles as networks",
+      "linkId": "gods-number",
+      "text": "The same habit of thinking in connections helps with puzzles like the Rubik's Cube, where every position is a point and every twist is a line, and the question becomes the shortest route."
+    },
+    {
+      "opening": "The Chinese postman problem",
+      "linkId": null,
+      "text": "A modern cousin asks for the shortest route that walks every street at least once and returns home. Delivery and road-gritting rounds can be planned this way."
+    }
+  ],
+  "tags": [
+    "graph-theory",
+    "maps",
+    "puzzles",
+    "architecture"
+  ],
+  "related": [
+    "four-color-theorem",
+    "gods-number",
+    "hilberts-hotel",
+    "baarle",
+    "harrison-clocks"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "gods-number",
+  "title": "God's number for the Rubik's Cube",
+  "category": "Games",
+  "hook": "Every scrambled Rubik's Cube can be solved in twenty moves or fewer.",
+  "peek": "A Rubik's Cube has about 43 quintillion possible arrangements. In 2010 a team proved that every one of them can be solved in at most 20 face turns. They needed borrowed Google computer time to check them all.",
+  "lede": "God's number is the most moves an all-knowing solver would ever need to solve a Rubik's Cube from any scramble. The cube has about 43 quintillion positions, so the answer stayed open for 30 years. In 2010 Tomas Rokicki, Herbert Kociemba, Morley Davidson and John Dethridge proved it is 20, counting any turn of a face as one move.",
+  "bullets": [
+    {
+      "opening": "Borrowed computer time",
+      "linkId": null,
+      "text": "The team split the positions into billions of groups and used clever symmetry to cut the work. Google donated spare computer time equal to about 35 years on a single processor."
+    },
+    {
+      "opening": "The superflip",
+      "linkId": null,
+      "text": "Some positions really do need all 20 moves. The first one shown to, in 1995, is the superflip, where every edge is flipped in place and everything else looks solved."
+    },
+    {
+      "opening": "Counting quarter turns",
+      "linkId": null,
+      "text": "If a half turn counts as two moves, the answer changes. Under that rule God's number was proved in 2014 to be 26."
+    },
+    {
+      "opening": "Ernő Rubik's puzzle",
+      "linkId": null,
+      "text": "Rubik, a Hungarian architecture lecturer, made the first cube in 1974 to help explain how parts move in space. It is said he took about a month to solve it himself."
+    },
+    {
+      "opening": "Proof by computer",
+      "linkId": "four-color-theorem",
+      "text": "The four colour theorem was one of the first major results proved with a computer's help. God's number followed the same path at a much larger scale."
+    },
+    {
+      "opening": "Counting game positions",
+      "linkId": "shannon-number",
+      "text": "Claude Shannon's estimate for chess dwarfs the cube's 43 quintillion, which is why nobody has come close to finding a God's number for chess."
+    }
+  ],
+  "tags": [
+    "games",
+    "scale",
+    "patterns",
+    "records"
+  ],
+  "related": [
+    "shannon-number",
+    "four-color-theorem",
+    "move-37",
+    "konigsberg-bridges",
+    "tetris-origin"
+  ]
+}

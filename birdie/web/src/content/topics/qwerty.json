@@ -1,0 +1,53 @@
+{
+  "id": "qwerty",
+  "title": "The QWERTY myth",
+  "category": "Inventions",
+  "hook": "The keyboard was not designed to slow you down, whatever you have heard.",
+  "peek": "A popular story says QWERTY was built to slow typists so early typewriters would not jam. Historians think the real story is messier, involving years of tinkering and possibly telegraph operators.",
+  "lede": "A popular story says the QWERTY layout was designed to slow typists down so the keys of early typewriters would not jam. Historians doubt that version. The layout grew out of years of tinkering by Christopher Latham Sholes and his partners in Milwaukee in the 1860s and 1870s, and nobody was trying to make typing slower.",
+  "bullets": [
+    {
+      "opening": "The Sholes and Glidden typewriter",
+      "linkId": null,
+      "text": "Sold by Remington from 1874, it had an almost modern QWERTY layout. Earlier prototypes used an alphabetical arrangement that changed many times before settling."
+    },
+    {
+      "opening": "Typebar clashes",
+      "linkId": null,
+      "text": "There is a grain of truth in the jamming tale. Separating some common letter pairs may have helped stop neighbouring typebars colliding, but that is not the same as slowing the typist."
+    },
+    {
+      "opening": "The telegraph theory",
+      "linkId": "barcode-sand",
+      "text": "Two Japanese researchers, Koichi and Motoko Yasuoka, argued in 2011 that early users were telegraph operators transcribing Morse code, and their needs shaped the layout. The idea is not settled. Morse code later inspired the first barcode too."
+    },
+    {
+      "opening": "The Dvorak keyboard",
+      "linkId": null,
+      "text": "August Dvorak patented a rival layout in 1936 and claimed big speed gains. Later reviews found the evidence for a large advantage weaker than promised, and QWERTY kept its place."
+    },
+    {
+      "opening": "Path dependence",
+      "linkId": null,
+      "text": "Economists use QWERTY as the textbook example of an early choice that sticks because everyone has already learned it, long after the original reasons stopped mattering."
+    },
+    {
+      "opening": "Letters shaped by machines",
+      "linkId": "letter-thorn",
+      "text": "It is not the first time a machine changed how we write. Early English printers lacked a letter for 'th' and used a 'y' instead, which is where 'Ye Olde' comes from."
+    }
+  ],
+  "tags": [
+    "myths-busted",
+    "design",
+    "history-of-things",
+    "inventors"
+  ],
+  "related": [
+    "letter-thorn",
+    "scrabble-letters",
+    "barcode-sand",
+    "helvetica",
+    "ok-origin"
+  ]
+}

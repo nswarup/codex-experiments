@@ -1,0 +1,48 @@
+{
+  "id": "pando",
+  "title": "Pando, the one-tree forest",
+  "category": "Nature",
+  "hook": "A forest in Utah that is really one tree, joined underground.",
+  "peek": "In Utah's Fishlake National Forest stands a grove of tens of thousands of aspen trunks. Genetically they are all the same individual, sharing one root system. It is one of the heaviest living things known.",
+  "lede": "In Fishlake National Forest in Utah, a grove of quaking aspens covers about 43 hectares. It looks like a forest of roughly 47,000 trees. Genetic tests show it is one individual, a male clone whose trunks all rise from a single shared root system. Its name, Pando, is Latin for \"I spread\", and by weight it is among the largest organisms on Earth.",
+  "bullets": [
+    {
+      "opening": "Aspen clones",
+      "linkId": null,
+      "text": "Aspens often reproduce by sending up new shoots from their roots instead of from seed. Each trunk may live a century or so, but the root system keeps sprouting replacements."
+    },
+    {
+      "opening": "Ise Shrine's rebuilding",
+      "linkId": "ise-shrine",
+      "text": "Pando has replaced its trunks many times over while staying the same tree. Japan's Ise Shrine makes a similar bargain on purpose, rebuilding its buildings every 20 years so the shrine itself endures."
+    },
+    {
+      "opening": "Pando and the pyramids",
+      "linkId": "cleopatra-timeline",
+      "text": "Nobody knows exactly how old Pando is. Estimates range from several thousand years to tens of thousands, and if the higher ones are right it was already old when the Great Pyramid went up."
+    },
+    {
+      "opening": "Quaking aspen leaves",
+      "linkId": null,
+      "text": "The species gets its name from leaves on long, flattened stalks that flutter in the lightest breeze. A whole hillside of them shimmers and makes a soft rustling sound, and in autumn the entire clone turns gold at once."
+    },
+    {
+      "opening": "Pando's protective fences",
+      "linkId": null,
+      "text": "Deer and elk browse the young shoots, so in parts of the grove few new trunks reach adulthood. Researchers have fenced sections off, and the protected patches are regrowing."
+    }
+  ],
+  "tags": [
+    "scale",
+    "trees",
+    "time",
+    "records"
+  ],
+  "related": [
+    "ise-shrine",
+    "honey-keeps",
+    "oxford-aztecs",
+    "murmurations",
+    "fibonacci-sunflowers"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "morning-glory-clouds",
+  "title": "Morning Glory clouds",
+  "category": "Nature",
+  "hook": "A single cloud that can stretch for hundreds of kilometres and rolls like a wave.",
+  "peek": "In northern Australia, spring mornings sometimes bring a tube of cloud that runs from horizon to horizon and rolls across the sky. Glider pilots travel there to ride it like surfers on a wave.",
+  "lede": "Most clouds drift. The Morning Glory rolls. Over the Gulf of Carpentaria in northern Australia, usually between September and early November, a tube of cloud can appear at dawn that stretches for hundreds of kilometres. It tumbles forward like a rolling pin, often low over the ground, and the small town of Burketown has become its best-known viewing spot.",
+  "bullets": [
+    {
+      "opening": "Colliding sea breezes",
+      "linkId": null,
+      "text": "The leading explanation is that sea breezes from either side of the Cape York Peninsula meet overnight. The collision sets off a wave in the cool lower air, and the cloud forms along its crest as the air rises and cools."
+    },
+    {
+      "opening": "Solitary waves",
+      "linkId": null,
+      "text": "Physicists treat the Morning Glory as a kind of solitary wave, a single hump that travels without spreading out. Its cousin in water was first described by John Scott Russell, who followed one on horseback along a Scottish canal in 1834."
+    },
+    {
+      "opening": "Cloud surfing",
+      "linkId": null,
+      "text": "Glider pilots fly up the front of the cloud, where the air is rising, and can stay aloft for long stretches without an engine. Locals and visiting pilots treat the season as an informal pilgrimage."
+    },
+    {
+      "opening": "Waves in other skies",
+      "linkId": "saturn-hexagon",
+      "text": "Atmospheres everywhere make waves. On Saturn, a jet stream bent into a wave pattern draws a six-sided shape around the north pole, wider than Earth itself."
+    },
+    {
+      "opening": "Other sky shapes",
+      "linkId": "rainbow-circles",
+      "text": "Weather has a habit of hiding its real geometry from people on the ground. Rainbows look like arches but are full circles, and the Morning Glory's full length is easiest to appreciate from satellite images."
+    }
+  ],
+  "tags": [
+    "weather",
+    "scale",
+    "patterns",
+    "clouds"
+  ],
+  "related": [
+    "rainbow-circles",
+    "murmurations",
+    "saturn-hexagon",
+    "singing-dunes",
+    "petrichor"
+  ]
+}

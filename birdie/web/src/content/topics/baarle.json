@@ -1,0 +1,52 @@
+{
+  "id": "baarle",
+  "title": "Baarle, the town with a border through its cafés",
+  "category": "Places",
+  "hook": "A town where Belgium and the Netherlands are mixed up like a jigsaw.",
+  "peek": "Baarle is one town in two countries. About two dozen tiny patches of Belgium sit inside the Netherlands, some with bits of the Netherlands inside them, and the border runs across streets, shops and even through front rooms.",
+  "lede": "Baarle-Hertog belongs to Belgium and Baarle-Nassau to the Netherlands, but on the ground they form one small town. Belgium's part is split into a couple of dozen separate pieces, most of them surrounded by Dutch land, and several of those pieces contain small Dutch enclaves of their own. The pattern goes back to medieval land deals between local lords and was only fully settled in 1995.",
+  "bullets": [
+    {
+      "opening": "Crosses on the pavement",
+      "linkId": null,
+      "text": "The border is painted on streets and floors as lines of small white crosses, with NL on one side and B on the other, so visitors can stand in two countries at once."
+    },
+    {
+      "opening": "Your front door decides",
+      "linkId": null,
+      "text": "For a house cut by the border, the country is generally set by where the front door is. Some residents have moved their front doors to change which country they officially live in."
+    },
+    {
+      "opening": "Two of everything",
+      "linkId": null,
+      "text": "Baarle has two town halls, two mayors and two sets of local rules. Shops and cafés have at times used the differences in opening hours or regulations between the two sides."
+    },
+    {
+      "opening": "Café table folklore",
+      "linkId": null,
+      "text": "Locals tell stories of diners moving to a table on the other side of the line when one country's closing time arrived. Whatever the truth of each tale, the border inside the cafés is real."
+    },
+    {
+      "opening": "Enclaves and map colours",
+      "linkId": "four-color-theorem",
+      "text": "The four colour theorem says four colours can fill any map so that neighbours never match. It assumes each country is one connected piece, and Baarle shows how quickly real borders break that rule."
+    },
+    {
+      "opening": "Land nobody claims",
+      "linkId": "bir-tawil",
+      "text": "Baarle is crowded with claims. Bir Tawil, between Egypt and Sudan, is the reverse: a stretch of desert that neither neighbour wants on its map."
+    }
+  ],
+  "tags": [
+    "borders",
+    "maps",
+    "history-of-things"
+  ],
+  "related": [
+    "bir-tawil",
+    "four-color-theorem",
+    "whittier-alaska",
+    "konigsberg-bridges",
+    "hallstatt-china"
+  ]
+}

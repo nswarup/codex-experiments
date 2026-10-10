@@ -1,0 +1,53 @@
+{
+  "id": "monty-hall",
+  "title": "The Monty Hall problem",
+  "category": "Math",
+  "hook": "Three doors, one car, and a choice that fooled thousands of clever people.",
+  "peek": "You pick one of three doors. The host, who knows where the car is, opens another to show a goat and offers you a switch. Switching wins two times out of three, an answer that drew thousands of angry letters in 1990.",
+  "lede": "A game show gives you three doors: a car behind one, goats behind the others. You pick a door. The host, who knows where the car is, opens a different door to reveal a goat, then offers you a switch. It feels like a 50-50 choice. It is not. Switching wins the car two times in three.",
+  "bullets": [
+    {
+      "opening": "Why switching wins",
+      "linkId": null,
+      "text": "Your first pick is right only one time in three. The host never opens the car's door, so whenever your first pick was wrong, which is two times in three, the remaining closed door must hide the car."
+    },
+    {
+      "opening": "The hundred-door version",
+      "linkId": null,
+      "text": "Picture 100 doors. You pick one, then the host opens 98 others, all goats. Sticking means betting you guessed right first time, at 1 in 100. Switching suddenly feels obvious."
+    },
+    {
+      "opening": "Marilyn vos Savant's column",
+      "linkId": null,
+      "text": "In 1990 Marilyn vos Savant gave the switching answer in Parade magazine, to a puzzle named after Monty Hall, host of Let's Make a Deal. Thousands of readers wrote to say she was wrong, many with doctorates. She was right."
+    },
+    {
+      "opening": "Paul Erdős and the simulation",
+      "linkId": null,
+      "text": "According to his biographer, the famed mathematician Paul Erdős would not accept the answer until he saw a computer simulation play the game many times."
+    },
+    {
+      "opening": "The birthday paradox",
+      "linkId": "birthday-paradox",
+      "text": "Another puzzle where instinct fails. In a room of just 23 people, the chance that two share a birthday is slightly better than even, because what matters is the number of possible pairs."
+    },
+    {
+      "opening": "The Dress debate",
+      "linkId": "the-dress",
+      "text": "Few problems divide people as fiercely. As with the Dress, smart people look at the same facts and feel sure of opposite answers, which is part of why it still gets argued about."
+    }
+  ],
+  "tags": [
+    "probability",
+    "paradoxes",
+    "games",
+    "myths-busted"
+  ],
+  "related": [
+    "birthday-paradox",
+    "the-dress",
+    "benfords-law",
+    "hilberts-hotel",
+    "move-37"
+  ]
+}

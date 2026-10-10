@@ -1,0 +1,53 @@
+{
+  "id": "cleopatra-timeline",
+  "title": "Cleopatra and the pyramids",
+  "category": "History",
+  "hook": "Cleopatra lived closer in time to the Moon landing than to the Great Pyramid.",
+  "peek": "The Great Pyramid of Giza was already about 2,500 years old when Cleopatra was born. About 2,000 years separate her from the Apollo 11 Moon landing, so she sits nearer to us than to the pyramid builders.",
+  "lede": "We tend to file everything \"ancient Egyptian\" in one drawer. But the Great Pyramid of Giza was built around 2560 BC, and Cleopatra VII lived from 69 to 30 BC. That is a gap of about 2,500 years. From Cleopatra to the Apollo 11 Moon landing in 1969 is about 2,000. To her, the pyramids were already ancient monuments.",
+  "bullets": [
+    {
+      "opening": "Ancient tourists",
+      "linkId": null,
+      "text": "The Greek historian Herodotus visited the pyramids in the 400s BC and wrote down what guides told him about them. By Cleopatra's time they had been sights for travellers for centuries."
+    },
+    {
+      "opening": "The Ptolemies",
+      "linkId": null,
+      "text": "Cleopatra belonged to a Greek-speaking dynasty descended from one of Alexander the Great's generals. Plutarch wrote that she spoke many languages and was the first of her line to learn Egyptian."
+    },
+    {
+      "opening": "Caesar's new calendar",
+      "linkId": "eleven-days-1752",
+      "text": "After his time in Egypt with Cleopatra, Julius Caesar introduced a reformed calendar in 46 BC with help from an Alexandrian astronomer. Its small error built up until Britain had to skip 11 days in 1752."
+    },
+    {
+      "opening": "Woolly mammoths on Wrangel Island",
+      "linkId": null,
+      "text": "A small population of mammoths survived on an Arctic island until roughly 4,000 years ago. That means some were still alive while the Great Pyramid was being built."
+    },
+    {
+      "opening": "Oxford and the Aztecs",
+      "linkId": "oxford-aztecs",
+      "text": "Timelines like this get stranger the more you look. Oxford University was already teaching students more than two centuries before the Aztec city of Tenochtitlan was founded."
+    },
+    {
+      "opening": "The Moon drifting away",
+      "linkId": "moon-drifting",
+      "text": "The Apollo crews left mirrors on the lunar surface. Lasers bounced off them show the Moon edging away from Earth by about 3.8 centimetres a year."
+    }
+  ],
+  "tags": [
+    "time",
+    "history-of-things",
+    "scale",
+    "egypt"
+  ],
+  "related": [
+    "oxford-aztecs",
+    "eleven-days-1752",
+    "moon-drifting",
+    "pando",
+    "golden-record"
+  ]
+}

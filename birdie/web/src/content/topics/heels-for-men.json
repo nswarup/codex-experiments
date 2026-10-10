@@ -1,0 +1,52 @@
+{
+  "id": "heels-for-men",
+  "title": "High heels were made for men",
+  "category": "Clothing",
+  "hook": "High heels were first worn by men, and they started on horseback.",
+  "peek": "Heels began as riding gear for Persian horsemen, helping their feet stay in the stirrups. In the 1600s European aristocrats copied them, and for a while the most fashionable heels in Europe belonged to men.",
+  "lede": "Historians of footwear, notably Elizabeth Semmelhack of Toronto's Bata Shoe Museum, trace the heel to West Asia, especially Persia, where riders wore heeled shoes to keep their feet steady in the stirrups. Around 1600, contact with Persia sparked a fashion for Persian things in Europe, and aristocratic men began wearing heels. They were impractical for walking, which was partly the point.",
+  "bullets": [
+    {
+      "opening": "Louis XIV's red heels",
+      "linkId": null,
+      "text": "The French king wore shoes with red heels, and at his court red heels became a mark of privilege. Paintings of him show them clearly."
+    },
+    {
+      "opening": "Pockets and petticoats",
+      "linkId": "womens-pockets",
+      "text": "As men's dress grew plainer, women's dress changed too. Slim fashions around 1800 squeezed out women's pockets, another feature that quietly shifted between the sexes."
+    },
+    {
+      "opening": "Venetian chopines",
+      "linkId": null,
+      "text": "Before heels, some women in Renaissance Venice wore chopines, platform shoes that could be very tall. They lifted the wearer evenly rather than tilting the foot."
+    },
+    {
+      "opening": "The Great Masculine Renunciation",
+      "linkId": null,
+      "text": "In 1930 the psychologist J. C. Flügel used this phrase for the way European men gave up showy dress around 1800. Men's heels had already faded during the 1700s, and heels became mainly women's wear."
+    },
+    {
+      "opening": "Napoleon's height",
+      "linkId": "napoleon-height",
+      "text": "Height and status have long been tangled together. Napoleon is the famous example of a man remembered as short, though he was roughly average for his time."
+    },
+    {
+      "opening": "The cowboy boot",
+      "linkId": null,
+      "text": "The stirrup idea never fully left. Western riding boots still have a raised heel for the same reason Persian riders did: it stops the foot sliding through."
+    }
+  ],
+  "tags": [
+    "fashion",
+    "history-of-things",
+    "myths-busted"
+  ],
+  "related": [
+    "napoleon-height",
+    "womens-pockets",
+    "buttons-sides",
+    "crocs-boat-shoe",
+    "cravat-tie"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "move-37",
+  "title": "AlphaGo's Move 37",
+  "category": "Games",
+  "hook": "The Go move that experts called a mistake, until it won the game.",
+  "peek": "In 2016, in the second game of its match against Lee Sedol, the program AlphaGo played a move that human experts would almost never consider. Commentators were baffled. It turned out to be the key to the game.",
+  "lede": "In March 2016 DeepMind's AlphaGo played Lee Sedol, one of the strongest Go players in the world, in a five-game match in Seoul. On the 37th move of the second game, it placed a stone on the fifth line from the edge, a spot that convention treats as too loose. Commentators assumed it was an error. By the end, it looked like insight.",
+  "bullets": [
+    {
+      "opening": "One in ten thousand",
+      "linkId": null,
+      "text": "AlphaGo's own estimate was that a human player would choose that move about one time in ten thousand. It played it anyway, because its search rated the move's long-term value highly."
+    },
+    {
+      "opening": "Lee Sedol's long pause",
+      "linkId": null,
+      "text": "Lee took around a quarter of an hour to reply. He went on to lose the game, and AlphaGo won the match four games to one."
+    },
+    {
+      "opening": "God's move",
+      "linkId": "gods-number",
+      "text": "In game four, Lee answered with a rare wedge on move 78 that AlphaGo had not expected, and won. Fans gave it a divine nickname, much as cubers speak of God's number."
+    },
+    {
+      "opening": "The size of Go",
+      "linkId": "shannon-number",
+      "text": "Go has about 10 to the 170 legal positions, far more than chess. That scale is why experts had expected a win like this to be at least a decade away."
+    },
+    {
+      "opening": "The AlphaGo documentary",
+      "linkId": null,
+      "text": "A 2017 film follows the match from both sides, including the DeepMind team and Lee, and shows the reaction in the room when move 37 appeared."
+    },
+    {
+      "opening": "Lee Sedol's retirement",
+      "linkId": null,
+      "text": "Lee retired from professional Go in 2019. He said the rise of programs that could not be beaten had changed what the game meant to him."
+    }
+  ],
+  "tags": [
+    "games",
+    "ai",
+    "patterns"
+  ],
+  "related": [
+    "shannon-number",
+    "gods-number",
+    "tetris-effect",
+    "tetris-origin",
+    "four-color-theorem"
+  ]
+}

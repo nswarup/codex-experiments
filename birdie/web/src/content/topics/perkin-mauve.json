@@ -1,0 +1,48 @@
+{
+  "id": "perkin-mauve",
+  "title": "Mauve, the accidental color",
+  "category": "Art",
+  "hook": "A teenager trying to make medicine at home invented the first synthetic dye instead.",
+  "peek": "In 1856, 18-year-old William Perkin was trying to make quinine from coal tar chemicals in his home lab. He failed, but found a purple that dyed silk beautifully. Mauve became a fashion craze and started the synthetic dye industry.",
+  "lede": "Over the Easter holiday in 1856, an 18-year-old chemistry student named William Henry Perkin was experimenting in a makeshift lab at home in London. He was trying to make quinine, a valuable medicine, from chemicals found in coal tar. It did not work. But one dark leftover dissolved into a vivid purple that dyed silk well and did not wash out.",
+  "bullets": [
+    {
+      "opening": "From lab to factory",
+      "linkId": null,
+      "text": "Perkin patented the dye, left college and, with his father and brother, built a factory near London. He had become a successful industrialist while still a young man."
+    },
+    {
+      "opening": "Queen Victoria's purple",
+      "linkId": null,
+      "text": "The color took off when fashionable women, including Queen Victoria and the French Empress Eugénie, wore it. By the late 1850s the craze was known as mauve mania, after the French name for the mallow flower."
+    },
+    {
+      "opening": "Tyrian purple",
+      "linkId": null,
+      "text": "Before Perkin, purple was costly. The ancient dye called Tyrian purple came from Mediterranean sea snails, and it took vast numbers of them to dye a single robe, which is why purple meant royalty."
+    },
+    {
+      "opening": "The synthetic dye boom",
+      "linkId": "klein-blue",
+      "text": "Within a few decades, chemists had made reds, blues and greens from coal tar, and German chemical firms grew huge on them. Artists gained new colors, and later ones like Yves Klein made a single blue their own."
+    },
+    {
+      "opening": "Happy accidents",
+      "linkId": "post-it",
+      "text": "Mauve sits among the great lab accidents, alongside the weak glue that became the Post-it note. In each case someone noticed that a failure was useful."
+    }
+  ],
+  "tags": [
+    "color",
+    "accidents",
+    "inventors",
+    "fashion"
+  ],
+  "related": [
+    "klein-blue",
+    "post-it",
+    "vantablack-feud",
+    "microwave-chocolate",
+    "bob-ross"
+  ]
+}

@@ -1,0 +1,502 @@
+[
+ {
+  "id": "shepard-tone",
+  "title": "The Shepard tone",
+  "category": "Music"
+ },
+ {
+  "id": "amen-break",
+  "title": "The Amen break",
+  "category": "Music"
+ },
+ {
+  "id": "cage-433",
+  "title": "John Cage's 4′33″",
+  "category": "Music"
+ },
+ {
+  "id": "stradivarius",
+  "title": "Why Stradivarius violins sound the way they do",
+  "category": "Music"
+ },
+ {
+  "id": "perfect-pitch",
+  "title": "Perfect pitch and tonal languages",
+  "category": "Music"
+ },
+ {
+  "id": "happy-birthday-copyright",
+  "title": "The copyright on \"Happy Birthday\"",
+  "category": "Music"
+ },
+ {
+  "id": "theremin",
+  "title": "The theremin",
+  "category": "Music"
+ },
+ {
+  "id": "silbo-gomero",
+  "title": "Silbo Gomero",
+  "category": "Language"
+ },
+ {
+  "id": "great-vowel-shift",
+  "title": "The Great Vowel Shift",
+  "category": "Language"
+ },
+ {
+  "id": "ok-origin",
+  "title": "How \"OK\" was born",
+  "category": "Language"
+ },
+ {
+  "id": "toki-pona",
+  "title": "Toki Pona",
+  "category": "Language"
+ },
+ {
+  "id": "buffalo-sentence",
+  "title": "Buffalo buffalo Buffalo buffalo",
+  "category": "Language"
+ },
+ {
+  "id": "dord",
+  "title": "Dord, the word that never was",
+  "category": "Language"
+ },
+ {
+  "id": "letter-thorn",
+  "title": "Thorn, the lost letter of \"Ye Olde\"",
+  "category": "Language"
+ },
+ {
+  "id": "monty-hall",
+  "title": "The Monty Hall problem",
+  "category": "Math"
+ },
+ {
+  "id": "birthday-paradox",
+  "title": "The birthday paradox",
+  "category": "Math"
+ },
+ {
+  "id": "hilberts-hotel",
+  "title": "Hilbert's Hotel",
+  "category": "Math"
+ },
+ {
+  "id": "fibonacci-sunflowers",
+  "title": "Fibonacci spirals in sunflowers",
+  "category": "Math"
+ },
+ {
+  "id": "benfords-law",
+  "title": "Benford's law",
+  "category": "Math"
+ },
+ {
+  "id": "konigsberg-bridges",
+  "title": "The seven bridges of Königsberg",
+  "category": "Math"
+ },
+ {
+  "id": "four-color-theorem",
+  "title": "The four color theorem",
+  "category": "Math"
+ },
+ {
+  "id": "klein-blue",
+  "title": "International Klein Blue",
+  "category": "Art"
+ },
+ {
+  "id": "mona-lisa-theft",
+  "title": "The 1911 Mona Lisa disappearance",
+  "category": "Art"
+ },
+ {
+  "id": "vantablack-feud",
+  "title": "The Vantablack feud",
+  "category": "Art"
+ },
+ {
+  "id": "helvetica",
+  "title": "Helvetica",
+  "category": "Art"
+ },
+ {
+  "id": "mondrian-upside-down",
+  "title": "The Mondrian hung upside down",
+  "category": "Art"
+ },
+ {
+  "id": "perkin-mauve",
+  "title": "Mauve, the accidental color",
+  "category": "Art"
+ },
+ {
+  "id": "bob-ross",
+  "title": "Bob Ross and The Joy of Painting",
+  "category": "Art"
+ },
+ {
+  "id": "umami",
+  "title": "The discovery of umami",
+  "category": "Food"
+ },
+ {
+  "id": "pineapple-status",
+  "title": "Pineapples as status symbols",
+  "category": "Food"
+ },
+ {
+  "id": "cilantro-gene",
+  "title": "The cilantro \"soap\" gene",
+  "category": "Food"
+ },
+ {
+  "id": "fortune-cookies",
+  "title": "Fortune cookies are Japanese-American",
+  "category": "Food"
+ },
+ {
+  "id": "croissant-origin",
+  "title": "The croissant's Austrian roots",
+  "category": "Food"
+ },
+ {
+  "id": "caesar-salad",
+  "title": "The Caesar salad was born in Tijuana",
+  "category": "Food"
+ },
+ {
+  "id": "sandwich-earl",
+  "title": "The Earl of Sandwich",
+  "category": "Food"
+ },
+ {
+  "id": "honey-keeps",
+  "title": "Why honey keeps for centuries",
+  "category": "Food"
+ },
+ {
+  "id": "cats-purr",
+  "title": "Why cats purr",
+  "category": "Animals"
+ },
+ {
+  "id": "larry-the-cat",
+  "title": "Larry, Chief Mouser to the Cabinet Office",
+  "category": "Animals"
+ },
+ {
+  "id": "dolphin-names",
+  "title": "Dolphins' signature whistles",
+  "category": "Animals"
+ },
+ {
+  "id": "crows-faces",
+  "title": "Crows remember faces",
+  "category": "Animals"
+ },
+ {
+  "id": "sea-otters-hands",
+  "title": "Sea otters holding hands",
+  "category": "Animals"
+ },
+ {
+  "id": "cat-slow-blink",
+  "title": "The cat slow blink",
+  "category": "Animals"
+ },
+ {
+  "id": "dogs-smell",
+  "title": "A dog's sense of smell",
+  "category": "Animals"
+ },
+ {
+  "id": "elephant-mirror",
+  "title": "Elephants know themselves in a mirror",
+  "category": "Animals"
+ },
+ {
+  "id": "buttons-sides",
+  "title": "Why buttons are on opposite sides",
+  "category": "Clothing"
+ },
+ {
+  "id": "levis-rivet",
+  "title": "The rivet that made Levi's jeans",
+  "category": "Clothing"
+ },
+ {
+  "id": "cravat-tie",
+  "title": "The cravat: how Croatian soldiers gave us the tie",
+  "category": "Clothing"
+ },
+ {
+  "id": "womens-pockets",
+  "title": "The pocket that women lost",
+  "category": "Clothing"
+ },
+ {
+  "id": "tuxedo-park",
+  "title": "The tuxedo's name",
+  "category": "Clothing"
+ },
+ {
+  "id": "crocs-boat-shoe",
+  "title": "Crocs began as a boating shoe",
+  "category": "Clothing"
+ },
+ {
+  "id": "heels-for-men",
+  "title": "High heels were made for men",
+  "category": "Clothing"
+ },
+ {
+  "id": "golden-record",
+  "title": "The Voyager Golden Record",
+  "category": "Space"
+ },
+ {
+  "id": "saturn-hexagon",
+  "title": "Saturn's hexagon",
+  "category": "Space"
+ },
+ {
+  "id": "kamooalewa",
+  "title": "Kamoʻoalewa, Earth's quasi-moon",
+  "category": "Space"
+ },
+ {
+  "id": "olbers-paradox",
+  "title": "Why the night sky is dark",
+  "category": "Space"
+ },
+ {
+  "id": "venus-day",
+  "title": "A day on Venus outlasts its year",
+  "category": "Space"
+ },
+ {
+  "id": "moon-drifting",
+  "title": "The Moon is drifting away",
+  "category": "Space"
+ },
+ {
+  "id": "pale-blue-dot",
+  "title": "The Pale Blue Dot",
+  "category": "Space"
+ },
+ {
+  "id": "post-it",
+  "title": "The Post-it accident",
+  "category": "Inventions"
+ },
+ {
+  "id": "qwerty",
+  "title": "The QWERTY myth",
+  "category": "Inventions"
+ },
+ {
+  "id": "barcode-sand",
+  "title": "The barcode drawn in sand",
+  "category": "Inventions"
+ },
+ {
+  "id": "velcro",
+  "title": "Velcro and the burr",
+  "category": "Inventions"
+ },
+ {
+  "id": "bubble-wrap",
+  "title": "Bubble wrap was meant to be wallpaper",
+  "category": "Inventions"
+ },
+ {
+  "id": "microwave-chocolate",
+  "title": "The microwave and the melted chocolate bar",
+  "category": "Inventions"
+ },
+ {
+  "id": "slinky",
+  "title": "The Slinky",
+  "category": "Inventions"
+ },
+ {
+  "id": "the-dress",
+  "title": "The Dress",
+  "category": "Mind"
+ },
+ {
+  "id": "mcgurk-effect",
+  "title": "The McGurk effect",
+  "category": "Mind"
+ },
+ {
+  "id": "baader-meinhof",
+  "title": "The Baader-Meinhof phenomenon",
+  "category": "Mind"
+ },
+ {
+  "id": "tetris-effect",
+  "title": "The Tetris effect",
+  "category": "Mind"
+ },
+ {
+  "id": "semantic-satiation",
+  "title": "Semantic satiation",
+  "category": "Mind"
+ },
+ {
+  "id": "ben-franklin-effect",
+  "title": "The Ben Franklin effect",
+  "category": "Mind"
+ },
+ {
+  "id": "overview-effect",
+  "title": "The overview effect",
+  "category": "Mind"
+ },
+ {
+  "id": "sagrada-familia",
+  "title": "The Sagrada Família's long build",
+  "category": "Places"
+ },
+ {
+  "id": "ise-shrine",
+  "title": "Ise Shrine, rebuilt every 20 years",
+  "category": "Places"
+ },
+ {
+  "id": "bir-tawil",
+  "title": "Bir Tawil, the land no country claims",
+  "category": "Places"
+ },
+ {
+  "id": "hallstatt-china",
+  "title": "Hallstatt's twin in China",
+  "category": "Places"
+ },
+ {
+  "id": "point-nemo",
+  "title": "Point Nemo",
+  "category": "Places"
+ },
+ {
+  "id": "whittier-alaska",
+  "title": "Whittier, the town under one roof",
+  "category": "Places"
+ },
+ {
+  "id": "baarle",
+  "title": "Baarle, the town with a border through its cafés",
+  "category": "Places"
+ },
+ {
+  "id": "landlords-game",
+  "title": "Monopoly began as The Landlord's Game",
+  "category": "Games"
+ },
+ {
+  "id": "tetris-origin",
+  "title": "Tetris's Soviet origin",
+  "category": "Games"
+ },
+ {
+  "id": "shannon-number",
+  "title": "The Shannon number",
+  "category": "Games"
+ },
+ {
+  "id": "move-37",
+  "title": "AlphaGo's Move 37",
+  "category": "Games"
+ },
+ {
+  "id": "gods-number",
+  "title": "God's number for the Rubik's Cube",
+  "category": "Games"
+ },
+ {
+  "id": "scrabble-letters",
+  "title": "How Scrabble got its letter scores",
+  "category": "Games"
+ },
+ {
+  "id": "pac-man-name",
+  "title": "How Pac-Man got his name",
+  "category": "Games"
+ },
+ {
+  "id": "murmurations",
+  "title": "Starling murmurations",
+  "category": "Nature"
+ },
+ {
+  "id": "morning-glory-clouds",
+  "title": "Morning Glory clouds",
+  "category": "Nature"
+ },
+ {
+  "id": "singing-dunes",
+  "title": "Singing sand dunes",
+  "category": "Nature"
+ },
+ {
+  "id": "pando",
+  "title": "Pando, the one-tree forest",
+  "category": "Nature"
+ },
+ {
+  "id": "rainbow-circles",
+  "title": "Rainbows are full circles",
+  "category": "Nature"
+ },
+ {
+  "id": "petrichor",
+  "title": "Petrichor, the smell of rain",
+  "category": "Nature"
+ },
+ {
+  "id": "snowflake-bentley",
+  "title": "Snowflake Bentley",
+  "category": "Nature"
+ },
+ {
+  "id": "tulip-mania",
+  "title": "Tulip mania",
+  "category": "History"
+ },
+ {
+  "id": "year-without-summer",
+  "title": "1816, the year without a summer",
+  "category": "History"
+ },
+ {
+  "id": "harrison-clocks",
+  "title": "Harrison's longitude clocks",
+  "category": "History"
+ },
+ {
+  "id": "eleven-days-1752",
+  "title": "The 11 days Britain skipped in 1752",
+  "category": "History"
+ },
+ {
+  "id": "cleopatra-timeline",
+  "title": "Cleopatra and the pyramids",
+  "category": "History"
+ },
+ {
+  "id": "oxford-aztecs",
+  "title": "Oxford is older than the Aztecs",
+  "category": "History"
+ },
+ {
+  "id": "napoleon-height",
+  "title": "Napoleon wasn't short",
+  "category": "History"
+ }
+]

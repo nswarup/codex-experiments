@@ -1,0 +1,53 @@
+{
+  "id": "crocs-boat-shoe",
+  "title": "Crocs began as a boating shoe",
+  "category": "Clothing",
+  "hook": "The foam clog everyone loves to mock was first sold at a boat show.",
+  "peek": "Crocs started in 2002 as a grippy, waterproof clog for sailing. They debuted at a boat show in Florida, sold out, and went on to become one of the most argued-over shoes in the world.",
+  "lede": "In 2002, three friends from Boulder, Colorado, Scott Seamans, Lyndon Hanson and George Boedecker, set out to sell a clog for boaters. It was light, did not slip on a wet deck, floated, and could be rinsed off. They showed it at the Fort Lauderdale boat show, and their first small batch sold out. The name came from the crocodile, at home on land and in water.",
+  "bullets": [
+    {
+      "opening": "Foam Creations",
+      "linkId": null,
+      "text": "The clog was based on a design from Foam Creations, a Canadian company in Quebec. Crocs later bought it, along with the know-how for making the shoes."
+    },
+    {
+      "opening": "Croslite",
+      "linkId": null,
+      "text": "Crocs are not rubber. They are made from Croslite, the company's own closed-cell foam resin, which is soft, light and comfortable to stand in all day."
+    },
+    {
+      "opening": "Jibbitz charms",
+      "linkId": null,
+      "text": "A mother named Sheri Schmelzer started decorating her family's Crocs by pushing charms into the holes. Her small business, Jibbitz, was bought by Crocs in 2006."
+    },
+    {
+      "opening": "Shoes for long shifts",
+      "linkId": null,
+      "text": "Because they are easy to clean and comfortable for standing, Crocs became common among nurses, chefs and gardeners well before fashion took any interest."
+    },
+    {
+      "opening": "A happy misuse",
+      "linkId": "bubble-wrap",
+      "text": "Like bubble wrap, which was meant to be wallpaper, Crocs found their real market somewhere their makers had not planned. Boaters were the start, not the destination."
+    },
+    {
+      "opening": "Shoes that switched audiences",
+      "linkId": "heels-for-men",
+      "text": "Fashion often adopts footwear made for a practical job. High heels began as riding gear for men, and Crocs went from boat deck to Balenciaga platform."
+    }
+  ],
+  "tags": [
+    "fashion",
+    "design",
+    "accidents",
+    "history-of-things"
+  ],
+  "related": [
+    "bubble-wrap",
+    "heels-for-men",
+    "levis-rivet",
+    "velcro",
+    "post-it"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "venus-day",
+  "title": "A day on Venus outlasts its year",
+  "category": "Space",
+  "hook": "Venus turns so slowly that it orbits the Sun before it spins once.",
+  "peek": "Venus takes about 243 Earth days to spin once but only about 225 to orbit the Sun. It also spins backwards, so on Venus the Sun rises in the west, very slowly.",
+  "lede": "Venus takes about 225 Earth days to go around the Sun and about 243 Earth days to turn once on its axis. So one rotation lasts longer than its year. It also spins in the opposite direction to most planets, so the Sun rises in the west. Because its thick clouds hide the surface, astronomers only measured this with radar in the 1960s.",
+  "bullets": [
+    {
+      "opening": "The solar day on Venus",
+      "linkId": null,
+      "text": "Sunrise to sunrise is a different measure. Because Venus spins backwards while it orbits, the two motions combine, and a Venusian solar day lasts about 117 Earth days."
+    },
+    {
+      "opening": "Super-rotating clouds",
+      "linkId": null,
+      "text": "The surface turns slowly, but the upper atmosphere races around the planet in about four Earth days, far faster than the ground beneath it."
+    },
+    {
+      "opening": "Why Venus spins backwards",
+      "linkId": null,
+      "text": "Nobody knows for sure. Ideas include a giant collision early in its history and the slow drag of its heavy atmosphere and the Sun's tides. Both remain hypotheses."
+    },
+    {
+      "opening": "The hottest planet",
+      "linkId": null,
+      "text": "Its dense carbon dioxide atmosphere traps heat, and the surface is around 460 degrees Celsius, hotter than Mercury, even though Mercury is closer to the Sun."
+    },
+    {
+      "opening": "Earth's slowing spin",
+      "linkId": "moon-drifting",
+      "text": "Days change length on Earth too. Tides raised by the Moon slowly brake our rotation, making the day a tiny bit longer each century while the Moon edges away."
+    },
+    {
+      "opening": "Calendars out of step",
+      "linkId": "eleven-days-1752",
+      "text": "A year that does not divide neatly into days is a familiar problem. Britain had to skip 11 days in 1752 to bring its calendar back in line with the seasons."
+    }
+  ],
+  "tags": [
+    "space-exploration",
+    "time",
+    "calendars",
+    "scale"
+  ],
+  "related": [
+    "moon-drifting",
+    "eleven-days-1752",
+    "kamooalewa",
+    "saturn-hexagon",
+    "harrison-clocks"
+  ]
+}

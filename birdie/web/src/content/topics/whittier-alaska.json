@@ -1,0 +1,52 @@
+{
+  "id": "whittier-alaska",
+  "title": "Whittier, the town under one roof",
+  "category": "Places",
+  "hook": "An Alaskan town where almost everyone lives in one tall building.",
+  "peek": "Whittier, Alaska, has a few hundred residents, and most of them live in a single 14-storey tower. The post office, police station and a shop share the building, and the only road in runs through a one-lane tunnel.",
+  "lede": "Whittier sits at the head of a narrow inlet of Prince William Sound, about 100 kilometres from Anchorage. Fewer than 300 people live there year-round, and most of them have the same address. Begich Towers, a 14-storey block built for the US Army in the 1950s, holds flats, the post office, the police station, a small shop and city offices.",
+  "bullets": [
+    {
+      "opening": "A wartime port",
+      "linkId": null,
+      "text": "Whittier was built by the Army during the Second World War as a hidden supply port, chosen partly because low cloud and mountains made it hard to spot from the air."
+    },
+    {
+      "opening": "The Anton Anderson Tunnel",
+      "linkId": null,
+      "text": "The only road in is a tunnel about 4 kilometres long that cars share with trains. It has one lane, so traffic takes turns in each direction on a timetable, and it closes at night."
+    },
+    {
+      "opening": "The school through a tunnel",
+      "linkId": null,
+      "text": "The school stands across the road from the tower, joined to it by a short underground passage. Children can get to class through the worst of the winter without stepping outside."
+    },
+    {
+      "opening": "Heavy snow",
+      "linkId": "snowflake-bentley",
+      "text": "Whittier gets several metres of snow in a typical winter, along with strong winds off the mountains. Living, shopping and working under one roof is a practical answer to the weather."
+    },
+    {
+      "opening": "The Buckner Building",
+      "linkId": null,
+      "text": "An even larger Army building, once described as a city under one roof, stands empty nearby. It was abandoned in the 1960s and is now a well-known ruin."
+    },
+    {
+      "opening": "Towns split in odd ways",
+      "linkId": "baarle",
+      "text": "Whittier fits a town into one building. Baarle, on the Belgian and Dutch border, does the opposite and splits one town between two countries."
+    }
+  ],
+  "tags": [
+    "architecture",
+    "weather",
+    "design"
+  ],
+  "related": [
+    "baarle",
+    "bir-tawil",
+    "snowflake-bentley",
+    "point-nemo",
+    "hallstatt-china"
+  ]
+}

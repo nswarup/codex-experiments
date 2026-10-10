@@ -1,0 +1,53 @@
+{
+  "id": "the-dress",
+  "title": "The Dress",
+  "category": "Mind",
+  "hook": "One photo of one dress, and the internet could not agree on its colours.",
+  "peek": "In February 2015 a blurry photo of a dress split the internet. Some people saw white and gold, others blue and black, and each side could not believe the other. It was blue and black.",
+  "lede": "In February 2015, a photo of a striped dress, taken by the mother of a bride in Scotland, was posted on Tumblr and spread around the world in hours. Some people saw white and gold. Others saw blue and black. Each group could hardly believe the other. The real dress was blue and black, but that turned out to be the least interesting part.",
+  "bullets": [
+    {
+      "opening": "Colour constancy",
+      "linkId": null,
+      "text": "Your brain constantly adjusts colours for the light it thinks is falling on them. The photo gives few clues about that light, so different brains make different guesses."
+    },
+    {
+      "opening": "Shadow or lamplight",
+      "linkId": null,
+      "text": "If you assume the dress sits in bluish shadow, your brain subtracts blue and you see white and gold. Assume warm indoor light, and it looks blue and black. Studies found people's assumptions predicted what they saw."
+    },
+    {
+      "opening": "Larks and owls",
+      "linkId": null,
+      "text": "One study suggested early risers, who spend more time in daylight, were somewhat more likely to see white and gold. It is a tendency, not a rule."
+    },
+    {
+      "opening": "Hearing it differently",
+      "linkId": "mcgurk-effect",
+      "text": "The dress is a reminder that perception is a best guess. Sound works the same way: what you see a speaker's lips doing can change the syllable you hear."
+    },
+    {
+      "opening": "Yanny or Laurel",
+      "linkId": null,
+      "text": "In 2018 a short audio clip caused a similar split, with listeners hearing one name or the other depending partly on which frequencies they tuned in to."
+    },
+    {
+      "opening": "The colour behind the colour",
+      "linkId": "klein-blue",
+      "text": "Blue is unusually slippery for our eyes. Painters have chased particular blues for centuries, and Yves Klein even registered the formula for his own."
+    }
+  ],
+  "tags": [
+    "color",
+    "perception",
+    "illusions",
+    "light"
+  ],
+  "related": [
+    "mcgurk-effect",
+    "klein-blue",
+    "shepard-tone",
+    "rainbow-circles",
+    "baader-meinhof"
+  ]
+}

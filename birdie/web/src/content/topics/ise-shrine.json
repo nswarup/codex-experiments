@@ -1,0 +1,53 @@
+{
+  "id": "ise-shrine",
+  "title": "Ise Shrine, rebuilt every 20 years",
+  "category": "Places",
+  "hook": "A Japanese shrine that is torn down and rebuilt every twenty years.",
+  "peek": "Every 20 years, Japan's most sacred Shinto shrine at Ise is rebuilt from fresh cypress on a plot right beside the old one. The custom has run, with some long gaps, for around 1,300 years.",
+  "lede": "Ise Jingū in Mie Prefecture is the most important shrine in Shinto. Every 20 years its main buildings are rebuilt, identical in design, on an empty plot next to the current ones. Then the old ones are taken down. The ritual is called Shikinen Sengū, and its first recorded performance was in 690. The 62nd took place in 2013, and the next is due in 2033.",
+  "bullets": [
+    {
+      "opening": "Hinoki cypress",
+      "linkId": null,
+      "text": "The shrines are built from Japanese cypress, a pale, fragrant wood. Each rebuilding needs thousands of logs, and the shrine has run long-term forestry projects to grow more of its own timber."
+    },
+    {
+      "opening": "Skills passed down by doing",
+      "linkId": null,
+      "text": "A 20-year cycle means a carpenter can expect to work on the rebuilding two or three times in a career: once as an apprentice, then as a master. The technique stays alive because it is practised, not written down."
+    },
+    {
+      "opening": "Old timbers, new homes",
+      "linkId": null,
+      "text": "Wood from the dismantled buildings is not thrown away. Pieces are reused for torii gates and for other shrines around Japan, so the old buildings carry on in new places."
+    },
+    {
+      "opening": "A gap of over a century",
+      "linkId": null,
+      "text": "The cycle has not been unbroken. During the long civil wars of the 15th and 16th centuries, the ceremony lapsed for over a hundred years before it was restored."
+    },
+    {
+      "opening": "A church that is never finished",
+      "linkId": "sagrada-familia",
+      "text": "Ise is a real version of the ship of Theseus puzzle: always new, yet one continuous place. Barcelona's Sagrada Família takes the opposite route, one building still under way after more than 140 years."
+    },
+    {
+      "opening": "A forest that renews itself",
+      "linkId": "pando",
+      "text": "Pando, an aspen grove in Utah, works in a similar way: individual trunks come and go, while the single organism underneath carries on for thousands of years."
+    }
+  ],
+  "tags": [
+    "architecture",
+    "time",
+    "history-of-things",
+    "design"
+  ],
+  "related": [
+    "sagrada-familia",
+    "pando",
+    "hallstatt-china",
+    "oxford-aztecs",
+    "eleven-days-1752"
+  ]
+}

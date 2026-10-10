@@ -1,0 +1,53 @@
+{
+  "id": "benfords-law",
+  "title": "Benford's law",
+  "category": "Math",
+  "hook": "In real-world numbers, about 30% start with a 1 and fewer than 5% with a 9.",
+  "peek": "Take town populations, river lengths or company accounts and look only at the first digit. Ones turn up about six times as often as nines, and fraud investigators use that lopsided pattern to spot invented figures.",
+  "lede": "You might expect the first digits of real numbers to be spread evenly, with each of 1 to 9 leading about one time in nine. They are not. In many collections of real data, such as populations, river lengths and stock prices, about 30% of numbers start with a 1, while fewer than 5% start with a 9.",
+  "bullets": [
+    {
+      "opening": "Simon Newcomb's worn pages",
+      "linkId": null,
+      "text": "In 1881 the astronomer Simon Newcomb noticed that the early pages of shared books of logarithm tables were far more worn than the later ones. People were looking up numbers starting with 1 much more often."
+    },
+    {
+      "opening": "Frank Benford's survey",
+      "linkId": null,
+      "text": "In 1938 the physicist Frank Benford rediscovered the pattern and tested it on about 20,000 numbers from sources as different as river areas, street addresses and physics constants. The name stuck to him rather than Newcomb."
+    },
+    {
+      "opening": "Why the ones win",
+      "linkId": null,
+      "text": "Think of a value growing steadily. To get from 1 to 2 it must double, but to get from 8 to 9 it only needs to grow by about an eighth. So numbers spend much longer with a leading 1."
+    },
+    {
+      "opening": "Catching made-up accounts",
+      "linkId": null,
+      "text": "People inventing figures tend to spread first digits too evenly. Forensic accountants check whether expense claims and tax returns follow the curve, as one warning sign among many, not as proof by itself."
+    },
+    {
+      "opening": "Fibonacci numbers follow it",
+      "linkId": "fibonacci-sunflowers",
+      "text": "The Fibonacci sequence, the numbers behind sunflower spirals, obeys the law closely. Powers of 2 do as well, because both grow by multiplying again and again."
+    },
+    {
+      "opening": "Where it fails",
+      "linkId": "birthday-paradox",
+      "text": "The law needs data spread across several orders of magnitude. Adult heights, phone numbers and lottery draws ignore it, a reminder, like the birthday paradox, that probability intuition needs checking against the actual setup."
+    }
+  ],
+  "tags": [
+    "probability",
+    "patterns",
+    "myths-busted",
+    "numbers"
+  ],
+  "related": [
+    "birthday-paradox",
+    "fibonacci-sunflowers",
+    "monty-hall",
+    "shannon-number",
+    "tulip-mania"
+  ]
+}

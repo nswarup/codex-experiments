@@ -1,0 +1,53 @@
+{
+  "id": "shannon-number",
+  "title": "The Shannon number",
+  "category": "Games",
+  "hook": "Chess has more possible games than there are atoms in the observable universe.",
+  "peek": "In 1950 Claude Shannon estimated that chess allows about 10 to the power of 120 different games. That number dwarfs the roughly 10 to the 80 atoms in the observable universe, and it explains why no computer can solve chess by brute force.",
+  "lede": "In 1950 Claude Shannon, the founder of information theory, wrote a paper on how a computer might play chess. To show why it could not simply check every option, he made a rough estimate. Around a thousand possibilities for each pair of moves, over a typical game of 40 moves, gives about 10 to the power of 120 possible games. It became known as the Shannon number.",
+  "bullets": [
+    {
+      "opening": "Atoms in the universe",
+      "linkId": null,
+      "text": "The observable universe is usually estimated to hold around 10 to the 80 atoms. Shannon's number is larger by a factor of 10 to the 40, a gap too big to picture."
+    },
+    {
+      "opening": "Positions versus games",
+      "linkId": null,
+      "text": "The number of legal positions on a chessboard is far smaller, with modern estimates around 10 to the 44. The many games come from the many routes between them."
+    },
+    {
+      "opening": "Finite next to infinity",
+      "linkId": "hilberts-hotel",
+      "text": "Huge as it is, the Shannon number is finite. Hilbert's Hotel shows how infinity plays by quite different rules."
+    },
+    {
+      "opening": "The wheat and chessboard legend",
+      "linkId": null,
+      "text": "An old story, told in many versions, has a ruler paying one grain of wheat on the first square, two on the next, doubling each time. The total over 64 squares would far exceed the world's harvests."
+    },
+    {
+      "opening": "Deep Blue",
+      "linkId": null,
+      "text": "In 1997 IBM's Deep Blue beat the world champion Garry Kasparov. It searched vast numbers of positions per second, but nowhere near all of them."
+    },
+    {
+      "opening": "Go's even larger numbers",
+      "linkId": "move-37",
+      "text": "The board game Go has about 10 to the 170 legal positions, which is one reason a Go program beating a top professional came almost twenty years after Deep Blue."
+    }
+  ],
+  "tags": [
+    "games",
+    "scale",
+    "probability",
+    "ai"
+  ],
+  "related": [
+    "move-37",
+    "gods-number",
+    "hilberts-hotel",
+    "birthday-paradox",
+    "tetris-origin"
+  ]
+}

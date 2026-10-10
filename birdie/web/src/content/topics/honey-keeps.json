@@ -1,0 +1,53 @@
+{
+  "id": "honey-keeps",
+  "title": "Why honey keeps for centuries",
+  "category": "Food",
+  "hook": "Kept sealed, honey can last for decades, and often far longer than that.",
+  "peek": "Honey is one of the few foods that can sit in a cupboard for years and stay good. It is very dry, very sugary and slightly acidic, and bees add a little chemistry of their own.",
+  "lede": "Jars of honey are often reported from ancient Egyptian tombs, still recognisably honey after thousands of years, though few finds are well documented. Kept sealed, honey lasts almost indefinitely, and the reasons are simple. It is mostly sugar and very little water, usually under a fifth by weight. That makes it too dry and too concentrated for almost anything to grow in it.",
+  "bullets": [
+    {
+      "opening": "Bees drying nectar",
+      "linkId": null,
+      "text": "Nectar starts out mostly water. Bees pass it between them and fan their wings over the comb to evaporate it until it becomes thick honey, then seal each cell with a wax cap."
+    },
+    {
+      "opening": "Glucose oxidase",
+      "linkId": null,
+      "text": "Bees add an enzyme called glucose oxidase. When honey is diluted, it slowly makes small amounts of hydrogen peroxide, another layer of protection. Honey is also mildly acidic, which helps."
+    },
+    {
+      "opening": "Honeycomb hexagons",
+      "linkId": "saturn-hexagon",
+      "text": "The comb itself is a feat of geometry: hexagons tile with no gaps and use the least wax for the space they hold. Saturn has a giant hexagon of its own, made by winds."
+    },
+    {
+      "opening": "Crystallised honey",
+      "linkId": "snowflake-bentley",
+      "text": "Honey often turns cloudy and solid over time. That is just sugar forming crystals, like frost on a window, and gentle warming melts them back into liquid honey."
+    },
+    {
+      "opening": "Honey in ancient Egypt",
+      "linkId": "cleopatra-timeline",
+      "text": "Egyptians kept bees, used honey as a sweetener and placed it among grave goods. Cleopatra lived so late that the oldest of those jars were already ancient in her time."
+    },
+    {
+      "opening": "Keeping the lid on",
+      "linkId": null,
+      "text": "Honey's one weakness is water. Leave a jar open in a humid kitchen and it can absorb moisture from the air, so a tight lid is the main rule for keeping it."
+    }
+  ],
+  "tags": [
+    "food-history",
+    "chemistry",
+    "bees",
+    "time"
+  ],
+  "related": [
+    "saturn-hexagon",
+    "snowflake-bentley",
+    "cleopatra-timeline",
+    "pineapple-status",
+    "umami"
+  ]
+}

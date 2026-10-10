@@ -1,0 +1,48 @@
+{
+  "id": "umami",
+  "title": "The discovery of umami",
+  "category": "Food",
+  "hook": "A Tokyo chemist found a fifth taste hiding in a bowl of seaweed broth.",
+  "peek": "In 1908 a Japanese chemist boiled down kelp broth and pulled out the molecule behind its savoury depth. He called the taste umami. Western science took most of a century to agree it was real.",
+  "lede": "In 1908, Kikunae Ikeda, a chemist at Tokyo Imperial University, wondered why dashi, the kelp broth at the heart of Japanese cooking, tasted so deeply savoury. He boiled down large amounts of kombu and isolated glutamate. He named the taste umami, from umai, meaning delicious, and argued it was a basic taste alongside sweet, sour, salty and bitter.",
+  "bullets": [
+    {
+      "opening": "Monosodium glutamate",
+      "linkId": null,
+      "text": "Ikeda patented a way to make glutamate as a seasoning, and the company Ajinomoto began selling it in 1909. It became one of the most widely used seasonings in the world."
+    },
+    {
+      "opening": "Bonito flakes and shiitake",
+      "linkId": null,
+      "text": "Ikeda's student Shintaro Kodama found a second umami molecule, inosinate, in dried bonito in 1913. Decades later, Akira Kuninaka found guanylate in shiitake and showed that these molecules boost glutamate's effect when combined."
+    },
+    {
+      "opening": "Taste receptors on the tongue",
+      "linkId": "cilantro-gene",
+      "text": "For most of the 20th century, many Western researchers treated umami as a flavour enhancer rather than a taste. That changed around 2000, when scientists identified tongue receptors for glutamate. Receptor genes vary, which is also why cilantro tastes soapy to some."
+    },
+    {
+      "opening": "Parmesan and Worcestershire",
+      "linkId": "caesar-salad",
+      "text": "Aged cheese, ripe tomatoes, cured anchovies and soy sauce are all rich in glutamate. A classic Caesar salad stacks several of them in one bowl, which helps explain why it tastes so full."
+    },
+    {
+      "opening": "Taste versus flavour",
+      "linkId": "petrichor",
+      "text": "Taste happens on the tongue, but most of what we call flavour comes from smell. That is why savoury food can taste flat with a blocked nose, the same sense that picks up the smell of rain."
+    }
+  ],
+  "tags": [
+    "taste",
+    "food-history",
+    "inventors",
+    "japan"
+  ],
+  "related": [
+    "cilantro-gene",
+    "caesar-salad",
+    "honey-keeps",
+    "petrichor",
+    "dogs-smell"
+  ]
+}

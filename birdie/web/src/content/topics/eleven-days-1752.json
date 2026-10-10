@@ -1,0 +1,53 @@
+{
+  "id": "eleven-days-1752",
+  "title": "The 11 days Britain skipped in 1752",
+  "category": "History",
+  "hook": "In September 1752, Britain went to bed on the 2nd and woke on the 14th.",
+  "peek": "To catch up with most of Europe, Britain and its colonies dropped 11 days from the calendar in 1752. Wednesday 2 September was followed by Thursday 14 September, and traces of the change survive in the UK tax year.",
+  "lede": "By the 1750s, Britain was still using the Julian calendar while most of Europe had switched to the more accurate Gregorian one. The two had drifted 11 days apart. So Parliament passed the Calendar Act, and in 1752 Britain and its colonies jumped ahead: Wednesday 2 September was followed directly by Thursday 14 September. The days of the week carried on as normal.",
+  "bullets": [
+    {
+      "opening": "Pope Gregory's calendar",
+      "linkId": null,
+      "text": "The Julian year ran about 11 minutes too long, which adds up to a day every 128 years or so. In 1582, Pope Gregory XIII fixed it, and Catholic countries skipped 10 days that October."
+    },
+    {
+      "opening": "Give us our eleven days",
+      "linkId": null,
+      "text": "The story goes that angry crowds demanded their lost days back. Historians have found little evidence of real riots. The slogan does appear on a placard in a William Hogarth painting from 1755, which may be where the legend grew."
+    },
+    {
+      "opening": "The 6 April tax year",
+      "linkId": null,
+      "text": "The British tax year used to start on 25 March, an old New Year's Day. Moving it 11 days later, to keep a full year, gave 5 April, and a further adjustment later settled on 6 April, where it still sits."
+    },
+    {
+      "opening": "A new New Year",
+      "linkId": null,
+      "text": "The same act moved the start of the legal year in England from 25 March to 1 January. Scotland had already made that change in 1600."
+    },
+    {
+      "opening": "Measuring time at sea",
+      "linkId": "harrison-clocks",
+      "text": "The same decades saw Britain thinking hard about time. John Harrison, a self-taught Yorkshire clockmaker, was building the sea clocks that would finally let sailors find their longitude."
+    },
+    {
+      "opening": "Where the gap began",
+      "linkId": "cleopatra-timeline",
+      "text": "The drifting calendar was Julius Caesar's, introduced in 46 BC after his stay in Cleopatra's Egypt, with help from an astronomer from Alexandria."
+    }
+  ],
+  "tags": [
+    "calendars",
+    "time",
+    "myths-busted",
+    "history-of-things"
+  ],
+  "related": [
+    "harrison-clocks",
+    "cleopatra-timeline",
+    "napoleon-height",
+    "venus-day",
+    "tulip-mania"
+  ]
+}

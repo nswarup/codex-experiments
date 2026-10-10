@@ -1,0 +1,53 @@
+{
+  "id": "cats-purr",
+  "title": "Why cats purr",
+  "category": "Animals",
+  "hook": "A cat's purr is a muscle twitching many times a second, in both directions.",
+  "peek": "Purring is made by muscles in a cat's voice box opening and closing many times a second, on both the in-breath and the out-breath. Cats do it when content, but also when nervous, and some add a cry to ask for food.",
+  "lede": "For a sound so familiar, the purr took scientists a long time to pin down. The best-supported explanation is that muscles in a cat's larynx twitch many times a second, opening and closing the vocal folds. Air moving in and out makes the rumble, which is why a purr carries on through both breathing in and breathing out.",
+  "bullets": [
+    {
+      "opening": "Kittens and their mothers",
+      "linkId": null,
+      "text": "Kittens can purr within days of birth, and mother cats purr back. One idea is that the purr began as a quiet way to say all is well while feeding, close to the nest."
+    },
+    {
+      "opening": "The solicitation purr",
+      "linkId": null,
+      "text": "In 2009 Karen McComb's team at the University of Sussex found some cats hide a high cry inside the purr when they want breakfast. People rated it as more urgent and harder to ignore."
+    },
+    {
+      "opening": "The cat slow blink",
+      "linkId": "cat-slow-blink",
+      "text": "Purring is not always happiness. Cats also purr when anxious, perhaps to calm themselves, so the purr reads best alongside other signals such as relaxed eyes and a slow blink."
+    },
+    {
+      "opening": "Healing frequencies",
+      "linkId": null,
+      "text": "Purrs fall roughly between 25 and 150 hertz, and some researchers have speculated that these vibrations help bones and tissue. It is an interesting idea, but it remains unproven."
+    },
+    {
+      "opening": "Cheetahs and pumas",
+      "linkId": null,
+      "text": "Several wild cats, including cheetahs and pumas, purr much like house cats. Lions and tigers can roar but do not purr continuously the same way, and the exact anatomy behind the difference is still debated."
+    },
+    {
+      "opening": "Downing Street's famous cat",
+      "linkId": "larry-the-cat",
+      "text": "Some cats make purring a public role. Larry, the cat at 10 Downing Street, has spent years being photographed on the doorstep by the world's press."
+    }
+  ],
+  "tags": [
+    "cats",
+    "animal-minds",
+    "communication",
+    "acoustics"
+  ],
+  "related": [
+    "cat-slow-blink",
+    "larry-the-cat",
+    "dolphin-names",
+    "shepard-tone",
+    "sea-otters-hands"
+  ]
+}

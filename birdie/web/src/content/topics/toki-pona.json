@@ -1,0 +1,48 @@
+{
+  "id": "toki-pona",
+  "title": "Toki Pona",
+  "category": "Language",
+  "hook": "A complete language with only about 120 words, built to keep thoughts simple.",
+  "peek": "Toki Pona is a small invented language with around 120 core words. Created by the linguist Sonja Lang, it builds everything from simple pieces, so a friend is \"good person\" and the speaker must decide what really matters.",
+  "lede": "In 2001 the Canadian linguist Sonja Lang published a language she had designed during a hard period in her life. Toki Pona, roughly \"good language\", has about 120 core words and a very small set of sounds. Anything more complex has to be built from simple parts, which pushes speakers to say what they mean in the plainest way.",
+  "bullets": [
+    {
+      "opening": "Building words from parts",
+      "linkId": null,
+      "text": "Toki Pona has no separate word for friend; \"jan pona\" means good person. Alcohol can be \"telo nasa\", strange water. Each speaker chooses which description fits, so two people may name the same thing differently."
+    },
+    {
+      "opening": "Fourteen sounds",
+      "linkId": "silbo-gomero",
+      "text": "The language uses just nine consonants and five vowels, chosen to be easy for speakers of many languages. Like whistled Spanish on La Gomera, it shows how much meaning survives with very few sounds."
+    },
+    {
+      "opening": "Sitelen pona",
+      "linkId": null,
+      "text": "Toki Pona has its own writing system of small pictures, one per word, such as a simple human figure for \"jan\", person. Fans also write it in the Latin alphabet, and some invent their own scripts for it."
+    },
+    {
+      "opening": "One word, many meanings",
+      "linkId": "buffalo-sentence",
+      "text": "Because the vocabulary is tiny, a single word has to stretch to cover a lot of ground. \"Pona\" can mean good, simple, fix or thanks, depending on where it sits in the sentence."
+    },
+    {
+      "opening": "An official language code",
+      "linkId": null,
+      "text": "In 2022 Toki Pona received its own international language code, \"tok\", in the ISO 639-3 standard. A community of speakers around the world chats, writes music and translates in it online."
+    }
+  ],
+  "tags": [
+    "language-change",
+    "communication",
+    "constructed-languages",
+    "design"
+  ],
+  "related": [
+    "buffalo-sentence",
+    "silbo-gomero",
+    "semantic-satiation",
+    "ok-origin",
+    "dord"
+  ]
+}

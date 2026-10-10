@@ -1,0 +1,53 @@
+{
+  "id": "napoleon-height",
+  "title": "Napoleon wasn't short",
+  "category": "History",
+  "hook": "Napoleon was about average height. The myth came from a mix-up over inches.",
+  "peek": "Napoleon was recorded as 5 feet 2 inches, but in French units. Converted to English measures that is about 5 feet 7 inches, ordinary or a little tall for a Frenchman of his time. Cartoons did the rest.",
+  "lede": "Napoleon Bonaparte is remembered as tiny, but he probably was not. At his death he was measured at 5 pieds 2 pouces, the old French feet and inches. A French inch was longer than an English one, so in English units he stood about 5 feet 7 inches, around 1.69 metres. That was roughly average, or a little above, for a Frenchman of his era.",
+  "bullets": [
+    {
+      "opening": "Pieds du roi",
+      "linkId": null,
+      "text": "Before the metric system, France measured with the king's foot, about 32.5 centimetres. Read in English units, the same numbers make a man sound several centimetres shorter than he was."
+    },
+    {
+      "opening": "Little Boney",
+      "linkId": null,
+      "text": "British cartoonists, above all James Gillray, drew Napoleon as a small, furious figure in a huge hat. The image stuck in English-speaking countries and outlasted the wars."
+    },
+    {
+      "opening": "Le petit caporal",
+      "linkId": null,
+      "text": "His soldiers called him le petit caporal, the little corporal. It was an affectionate nickname about his closeness to the ranks, not a comment on his size."
+    },
+    {
+      "opening": "Tall guardsmen",
+      "linkId": null,
+      "text": "Napoleon was often seen beside his Imperial Guard, whose soldiers had to meet height requirements. Standing next to them, almost anyone would look short, and the impression travelled."
+    },
+    {
+      "opening": "Heels and height",
+      "linkId": "heels-for-men",
+      "text": "Height and status have long been tangled together. In the century before Napoleon, European men of rank wore heeled shoes, and Louis XIV made red heels a court fashion."
+    },
+    {
+      "opening": "Other famous myths",
+      "linkId": "tulip-mania",
+      "text": "Napoleon's height is one of several history stories that grew in the retelling. Tulip mania, often told as a nation ruined by flowers, is another."
+    }
+  ],
+  "tags": [
+    "myths-busted",
+    "measurement",
+    "history-of-things",
+    "fashion"
+  ],
+  "related": [
+    "heels-for-men",
+    "tulip-mania",
+    "eleven-days-1752",
+    "croissant-origin",
+    "cravat-tie"
+  ]
+}

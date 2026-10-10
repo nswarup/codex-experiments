@@ -1,0 +1,53 @@
+{
+  "id": "mcgurk-effect",
+  "title": "The McGurk effect",
+  "category": "Mind",
+  "hook": "Watching someone's lips can change the sound you are sure you heard.",
+  "peek": "Play the sound 'ba' over a video of a face saying 'ga', and many people hear 'da'. Close your eyes and it is 'ba' again. Knowing the trick does not switch it off.",
+  "lede": "In 1976, the psychologists Harry McGurk and John MacDonald published a short paper with a memorable title, Hearing lips and seeing voices. They had dubbed the sound of someone saying 'ba' over a video of a face saying 'ga'. Many viewers heard a third syllable, 'da'. Close your eyes and it snaps back to 'ba'.",
+  "bullets": [
+    {
+      "opening": "A dubbing accident",
+      "linkId": null,
+      "text": "By most accounts the effect turned up by chance, when the researchers were preparing video for a study on how babies learn speech and noticed something odd."
+    },
+    {
+      "opening": "Knowing does not help",
+      "linkId": null,
+      "text": "Unlike many puzzles, understanding the trick does not stop it. Your brain blends what it sees and hears before you have any say in the matter. Researchers still use the effect to study how hearing and vision combine."
+    },
+    {
+      "opening": "Not everyone hears it",
+      "linkId": null,
+      "text": "The strength of the effect varies a lot from person to person, and some studies have found it weaker among speakers of certain languages, such as Japanese. Results across cultures are mixed."
+    },
+    {
+      "opening": "The Shepard tone",
+      "linkId": "shepard-tone",
+      "text": "Another audio illusion, built at Bell Labs: a tone that seems to rise forever. Both show the brain filling gaps with its best guess."
+    },
+    {
+      "opening": "Ventriloquism",
+      "linkId": null,
+      "text": "The same blending explains why a puppet's voice seems to come from its mouth. Sight pulls the sound to where the moving lips are. Film sound works the same way: speakers sit behind or beside the screen, yet voices seem to come from the actors."
+    },
+    {
+      "opening": "When colour splits the room",
+      "linkId": "the-dress",
+      "text": "The dress photo of 2015 did for colour what McGurk did for speech, showing that people can take in the same input and honestly perceive different things."
+    }
+  ],
+  "tags": [
+    "perception",
+    "illusions",
+    "communication",
+    "acoustics"
+  ],
+  "related": [
+    "shepard-tone",
+    "the-dress",
+    "perfect-pitch",
+    "silbo-gomero",
+    "semantic-satiation"
+  ]
+}

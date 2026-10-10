@@ -1,0 +1,278 @@
+import { useEffect, useRef, useState } from "react";
+import { ArrowRight, ArrowUp, Square, X } from "lucide-react";
+import { AnimatePresence, motion } from "motion/react";
+import { streamChat, StreamError, type ChatTurn } from "@/lib/api";
+import { parseChat } from "@/lib/parse";
+import { getTopic, recordAsk } from "@/lib/store";
+import { readyTopic, requestTopic } from "@/lib/generate";
+import { matchCorpus } from "@/content";
+import { pushTopic, type Overlay } from "@/lib/ui";
+import { cue, buzz } from "@/lib/feedback";
+import { IconButton, Kicker, Sheet } from "./ui";
+import { cn } from "@/lib/cn";
+
+const STARTERS = ["Explain it simpler", "Why?", "Tell me more"];
+
+type Msg = ChatTurn & { error?: boolean };
+
+export function ChatSheet({
+  open,
+  data,
+  onClose,
+}: {
+  open: boolean;
+  data: Extract<Overlay, { kind: "chat" }>;
+  onClose: () => void;
+}) {
+  const topic = getTopic(data.topicId) ?? readyTopic(data.topicId);
+  const [messages, setMessages] = useState<Msg[]>([]);
+  const [draft, setDraft] = useState("");
+  const [streaming, setStreaming] = useState(false);
+  const ctrl = useRef<AbortController | null>(null);
+  const list = useRef<HTMLDivElement>(null);
+  const asked = useRef(false);
+
+  // A new highlight or topic starts a fresh conversation.
+  useEffect(() => {
+    ctrl.current?.abort();
+    setMessages([]);
+    setDraft("");
+    setStreaming(false);
+    asked.current = false;
+  }, [data]);
+
+  useEffect(() => {
+    if (open && data.starter) send(data.starter);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [open, data]);
+
+  useEffect(() => {
+    list.current?.scrollTo({ top: list.current.scrollHeight, behavior: "smooth" });
+  }, [messages]);
+
+  useEffect(() => () => ctrl.current?.abort(), []);
+
+  async function send(text: string) {
+    const q = text.trim();
+    if (!q || streaming) return;
+    if (!asked.current && topic) {
+      asked.current = true;
+      recordAsk(topic);
+    }
+    cue("tap");
+    buzz(5);
+    const history: Msg[] = [...messages.filter((m) => !m.error), { role: "user", content: q }];
+    setMessages([...history, { role: "assistant", content: "" }]);
+    setDraft("");
+    setStreaming(true);
+    const c = new AbortController();
+    ctrl.current = c;
+    let acc = "";
+    try {
+      await streamChat(
+        {
+          topicTitle: topic?.title,
+          topicText: topic ? [topic.lede, ...topic.bullets.map((b) => `${b.opening}: ${b.text}`)].join("\n") : undefined,
+          highlight: data.highlight,
+          messages: history.map(({ role, content }) => ({ role, content })),
+        },
+        {
+          onDelta: (d) => {
+            acc += d;
+            setMessages((m) => [...m.slice(0, -1), { role: "assistant", content: acc }]);
+          },
+        },
+        c.signal,
+      );
+      cue("ready", { emphasis: "subtle" });
+    } catch (e) {
+      if ((e as Error).name === "AbortError") return;
+      setMessages((m) => [
+        ...m.slice(0, -1),
+        { role: "assistant", content: e instanceof StreamError ? e.message : "Birdie lost the thread. Try again?", error: true },
+      ]);
+      cue("error", { emphasis: "subtle" });
+    } finally {
+      setStreaming(false);
+    }
+  }
+
+  const stop = () => {
+    ctrl.current?.abort();
+    setStreaming(false);
+    cue("close", { emphasis: "subtle" });
+  };
+
+  const openReadNext = (title: string) => {
+    const match = matchCorpus(title);
+    const id = match ? match.id : requestTopic(title, topic?.title).id;
+    cue("navigate");
+    pushTopic(id, data.topicId);
+  };
+
+  const empty = messages.length === 0;
+
+  return (
+    <Sheet open={open} onClose={onClose} title="Ask Birdie" tall>
+      <div className="flex items-center justify-between pr-3 pl-6">
+        <h2 className="font-serif text-[17px] font-semibold text-strong">Ask Birdie</h2>
+        <IconButton label="Close" onClick={onClose} className="text-muted">
+          <X size={19} strokeWidth={1.8} />
+        </IconButton>
+      </div>
+
+      <div ref={list} className="no-scrollbar flex-1 overflow-y-auto overscroll-contain px-6 pb-4" data-vaul-no-drag>
+        {(data.highlight || topic) && (
+          <figure className="mt-1 rounded-xl bg-inset px-4 py-3">
+            <Kicker>From {topic?.title ?? "this topic"}</Kicker>
+            {data.highlight && (
+              <blockquote className="mt-1.5 font-serif text-[16px] leading-[1.5] text-text italic">“{data.highlight}”</blockquote>
+            )}
+          </figure>
+        )}
+
+        <div className="mt-5 flex flex-col gap-4">
+          {messages.map((m, i) =>
+            m.role === "user" ? (
+              <motion.div
+                key={i}
+                initial={{ opacity: 0, transform: "translateY(6px)" }}
+                animate={{ opacity: 1, transform: "translateY(0px)" }}
+                transition={{ duration: 0.22, ease: [0.23, 1, 0.32, 1] }}
+                className="max-w-[82%] self-end rounded-[18px] rounded-br-[5px] bg-accent px-4 py-2.5 font-serif text-[16px] leading-[1.5] text-accent-fg"
+              >
+                {m.content}
+              </motion.div>
+            ) : (
+              <AssistantMessage
+                key={i}
+                text={m.content}
+                error={m.error}
+                live={streaming && i === messages.length - 1}
+                onReadNext={openReadNext}
+              />
+            ),
+          )}
+        </div>
+      </div>
+
+      <div className="border-t border-line px-4 pt-3 pb-[calc(env(safe-area-inset-bottom,0px)+14px)]">
+        <AnimatePresence initial={false}>
+          {empty && (
+            <motion.div
+              initial={{ opacity: 0, height: 0 }}
+              animate={{ opacity: 1, height: "auto" }}
+              exit={{ opacity: 0, height: 0 }}
+              transition={{ duration: 0.2, ease: [0.23, 1, 0.32, 1] }}
+              className="overflow-hidden"
+            >
+              <div className="flex flex-wrap gap-2 pb-3">
+                {STARTERS.map((s) => (
+                  <button
+                    key={s}
+                    type="button"
+                    onClick={() => send(s)}
+                    className="press h-9 rounded-full border border-chip px-3.5 font-serif text-[14px] text-text"
+                  >
+                    {s}
+                  </button>
+                ))}
+              </div>
+            </motion.div>
+          )}
+        </AnimatePresence>
+        <form
+          className="flex items-center gap-2"
+          onSubmit={(e) => {
+            e.preventDefault();
+            send(draft);
+          }}
+        >
+          <label htmlFor="ask-input" className="sr-only">
+            Ask a question
+          </label>
+          <input
+            id="ask-input"
+            value={draft}
+            onChange={(e) => setDraft(e.target.value)}
+            placeholder={empty ? "Ask anything about this…" : "Ask a follow-up…"}
+            enterKeyHint="send"
+            autoComplete="off"
+            className="h-12 min-w-0 flex-1 rounded-full border border-sheet-line bg-bg px-5 text-[16px] text-strong outline-none placeholder:text-muted focus:border-chip"
+          />
+          {streaming ? (
+            <IconButton label="Stop" onClick={stop} className="h-12 w-12 bg-inset">
+              <Square size={15} strokeWidth={2} fill="currentColor" />
+            </IconButton>
+          ) : (
+            <button
+              type="submit"
+              aria-label="Send"
+              disabled={!draft.trim()}
+              className="press flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-accent text-accent-fg disabled:bg-line disabled:text-muted"
+            >
+              <ArrowUp size={20} strokeWidth={2} />
+            </button>
+          )}
+        </form>
+      </div>
+    </Sheet>
+  );
+}
+
+function AssistantMessage({
+  text,
+  live,
+  error,
+  onReadNext,
+}: {
+  text: string;
+  live: boolean;
+  error?: boolean;
+  onReadNext: (title: string) => void;
+}) {
+  const parsed = parseChat(text);
+  const paragraphs = parsed.body.split(/\n{2,}/).filter(Boolean);
+  if (!text && live) return <TypingDots />;
+  return (
+    <div className={cn("flex flex-col gap-2.5 font-serif text-[16.5px] leading-[1.6]", error ? "text-muted" : "text-text")}>
+      {paragraphs.map((p, i) => (
+        <p key={i} className={cn(live && !parsed.readNext && i === paragraphs.length - 1 && "caret")}>
+          {p}
+        </p>
+      ))}
+      {parsed.readNext && (
+        <motion.button
+          type="button"
+          initial={{ opacity: 0, transform: "translateY(6px)" }}
+          animate={{ opacity: 1, transform: "translateY(0px)" }}
+          transition={{ duration: 0.25, ease: [0.23, 1, 0.32, 1] }}
+          onClick={() => onReadNext(parsed.readNext!.title)}
+          className="press card-hover mt-1.5 flex items-center gap-3 rounded-xl border border-sheet-line bg-inset px-3.5 py-3 text-left"
+        >
+          <span className="flex min-w-0 flex-1 flex-col gap-0.5">
+            <span className="font-mono text-[11px] font-medium tracking-[0.1em] text-muted">READ NEXT</span>
+            <span className="font-serif text-[17px] leading-snug font-semibold text-strong">{parsed.readNext.title}</span>
+            {parsed.readNext.hook && <span className="font-mono text-[13px] leading-[1.45] text-muted">{parsed.readNext.hook}</span>}
+          </span>
+          <ArrowRight size={19} strokeWidth={1.7} className="shrink-0 text-text" />
+        </motion.button>
+      )}
+    </div>
+  );
+}
+
+function TypingDots() {
+  return (
+    <div className="flex h-7 items-center gap-1.5" role="status" aria-label="Birdie is writing">
+      {[0, 1, 2].map((i) => (
+        <motion.span
+          key={i}
+          className="h-1.5 w-1.5 rounded-full bg-muted"
+          animate={{ opacity: [0.3, 1, 0.3] }}
+          transition={{ duration: 1, repeat: Infinity, delay: i * 0.15, ease: "easeInOut" }}
+        />
+      ))}
+    </div>
+  );
+}

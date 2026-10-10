@@ -1,0 +1,48 @@
+{
+  "id": "dolphin-names",
+  "title": "Dolphins' signature whistles",
+  "category": "Animals",
+  "hook": "Bottlenose dolphins invent a whistle of their own that works like a name.",
+  "peek": "Each bottlenose dolphin develops a personal whistle early in life. Others copy it to get that particular dolphin's attention, and dolphins can remember the whistles of old companions for decades.",
+  "lede": "In their first months of life, bottlenose dolphins settle on a whistle with its own rise and fall of pitch, called a signature whistle. They use it to announce who they are. Dolphins also copy each other's signature whistles, and in 2013 researchers showed that a dolphin responds when it hears its own whistle played back, much as a person turns at their name.",
+  "bullets": [
+    {
+      "opening": "Vincent Janik's playback study",
+      "linkId": null,
+      "text": "Janik and Stephanie King at the University of St Andrews played recorded whistles to wild dolphins in Scotland. Dolphins answered copies of their own signature whistle but largely ignored the whistles of strangers."
+    },
+    {
+      "opening": "Twenty years of memory",
+      "linkId": null,
+      "text": "In 2013 Jason Bruck found that dolphins recognised the signature whistles of former tank mates they had not lived with for as long as 20 years, the longest social memory recorded in a non-human animal at the time."
+    },
+    {
+      "opening": "Elephants calling by name",
+      "linkId": "elephant-mirror",
+      "text": "In 2024 a study of wild African elephants in Kenya reported rumbles that seemed to be aimed at specific individuals, who responded more strongly to calls meant for them. Unlike dolphins, elephants do not seem to imitate the other's sound."
+    },
+    {
+      "opening": "Whistled human languages",
+      "linkId": "silbo-gomero",
+      "text": "People have whistling languages too. On La Gomera in the Canary Islands, Silbo Gomero turns Spanish into whistles that can carry for kilometres across deep valleys, and children learn it at school."
+    },
+    {
+      "opening": "Sleeping with half a brain",
+      "linkId": "sea-otters-hands",
+      "text": "Dolphins rest one half of the brain at a time, keeping the other half alert enough to surface and breathe. Sea otters solve the same problem of sleeping at sea by holding on to each other."
+    }
+  ],
+  "tags": [
+    "animal-minds",
+    "communication",
+    "names",
+    "ocean"
+  ],
+  "related": [
+    "elephant-mirror",
+    "silbo-gomero",
+    "crows-faces",
+    "sea-otters-hands",
+    "cats-purr"
+  ]
+}

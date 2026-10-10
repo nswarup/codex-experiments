@@ -1,0 +1,53 @@
+{
+  "id": "birthday-paradox",
+  "title": "The birthday paradox",
+  "category": "Math",
+  "hook": "Put 23 people in a room and two of them probably share a birthday.",
+  "peek": "With just 23 people, the odds that two share a birthday are slightly better than a coin flip. With 70 people it is close to certain. The trick is that you are not comparing one person with everyone, but every pair.",
+  "lede": "Most people guess you would need well over a hundred people before a shared birthday becomes likely. The real number is 23. In a group that size the chance that at least two people share a birthday is just over 50%. By 70 people it climbs above 99.9%, even though the year has 365 days.",
+  "bullets": [
+    {
+      "opening": "Counting the pairs",
+      "linkId": null,
+      "text": "The surprise comes from pairs, not people. Twenty-three people can form 253 different pairs, and each pair is a fresh chance for a match. The number of pairs grows much faster than the head count."
+    },
+    {
+      "opening": "Sharing your own birthday",
+      "linkId": null,
+      "text": "A different question gives a very different answer. For a coin-flip chance that someone matches your particular birthday, you need about 253 other people. Our gut tends to answer this question instead."
+    },
+    {
+      "opening": "World Cup squads",
+      "linkId": null,
+      "text": "For years World Cup squads had 23 players, which makes them a handy real test. Checks of squad lists have found shared birthdays in roughly half the teams, just as the maths predicts."
+    },
+    {
+      "opening": "Birthday attacks",
+      "linkId": null,
+      "text": "Cryptographers borrow the idea. Digital fingerprints of files can collide far sooner than their size suggests, so designers make them long enough that even the birthday shortcut takes an impossible amount of work."
+    },
+    {
+      "opening": "Puzzles that beat hunches",
+      "linkId": "monty-hall",
+      "text": "Real births are not spread evenly through the year, and that only makes matches slightly more likely. Like the Monty Hall problem, this is a puzzle where careful counting beats a confident hunch."
+    },
+    {
+      "opening": "Benford's first digits",
+      "linkId": "benfords-law",
+      "text": "Benford's law is another case where chance looks lopsided once you count properly. Both show that what feels evenly spread and what is evenly spread can be very different things."
+    }
+  ],
+  "tags": [
+    "probability",
+    "paradoxes",
+    "myths-busted",
+    "games"
+  ],
+  "related": [
+    "monty-hall",
+    "benfords-law",
+    "hilberts-hotel",
+    "shannon-number",
+    "gods-number"
+  ]
+}

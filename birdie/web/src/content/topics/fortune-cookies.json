@@ -1,0 +1,48 @@
+{
+  "id": "fortune-cookies",
+  "title": "Fortune cookies are Japanese-American",
+  "category": "Food",
+  "hook": "The fortune cookie you get in a Chinese restaurant has roots in Japan.",
+  "peek": "Most people link fortune cookies with Chinese food, but they are almost unknown in China. Their ancestor is a Japanese cracker from around Kyoto, and they were first sold in California by Japanese-American bakers.",
+  "lede": "Fortune cookies come with the bill in Chinese restaurants across the United States, yet they are rarely seen in China. Their ancestor appears to be tsujiura senbei, a Japanese cracker with a paper fortune tucked into its fold, made by family bakeries around Kyoto. In the early 1900s, Japanese immigrant bakers in California started making a sweeter version.",
+  "bullets": [
+    {
+      "opening": "Yasuko Nakamachi's research",
+      "linkId": null,
+      "text": "The Japanese researcher Yasuko Nakamachi tracked down bakeries near Kyoto still making the older crackers, and found an 1878 book illustration of a man baking them. The Japanese version is larger, browner and flavoured with sesame and miso."
+    },
+    {
+      "opening": "Makoto Hagiwara's tea garden",
+      "linkId": null,
+      "text": "Hagiwara, who ran the Japanese Tea Garden in San Francisco's Golden Gate Park, is often credited with serving them around 1900. Bakers in Los Angeles have made rival claims, and the true first is unknown."
+    },
+    {
+      "opening": "The Court of Historical Review",
+      "linkId": null,
+      "text": "In 1983 San Francisco held a mock trial over the cookie's birthplace and ruled for its own city. The judge was not a historian, and the case was more civic fun than evidence."
+    },
+    {
+      "opening": "How Chinese restaurants took over",
+      "linkId": "croissant-origin",
+      "text": "During the Second World War, Japanese Americans were forced into internment camps, and Chinese American manufacturers took over the trade. Like the croissant, the cookie ended up credited to a different country."
+    },
+    {
+      "opening": "The 2005 Powerball surprise",
+      "linkId": "birthday-paradox",
+      "text": "In 2005, 110 people won a Powerball second prize at once. Officials found many had played the lucky numbers printed on the same fortune cookie slips, a reminder that coincidences have causes."
+    }
+  ],
+  "tags": [
+    "food-history",
+    "myths-busted",
+    "japan",
+    "immigrant-food"
+  ],
+  "related": [
+    "croissant-origin",
+    "caesar-salad",
+    "umami",
+    "birthday-paradox",
+    "sandwich-earl"
+  ]
+}

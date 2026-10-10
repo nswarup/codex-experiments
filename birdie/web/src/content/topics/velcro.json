@@ -1,0 +1,53 @@
+{
+  "id": "velcro",
+  "title": "Velcro and the burr",
+  "category": "Inventions",
+  "hook": "A walk with a dog, a coat full of burrs and a very patient Swiss engineer.",
+  "peek": "After a walk in the Swiss countryside, an engineer found burrs clinging to his trousers and his dog's fur. Under a microscope he saw tiny hooks, and spent years turning the trick into a fastener.",
+  "lede": "In the 1940s, the Swiss engineer George de Mestral came home from a walk to find burdock burrs stuck all over his trousers and his dog's coat. He looked at one under a microscope and saw hundreds of tiny hooks catching on loops of fabric and fur. It took him years of trial and error to copy that in a material that could be made by the mile.",
+  "bullets": [
+    {
+      "opening": "Burdock burrs",
+      "linkId": null,
+      "text": "Each burr is a seed head covered in stiff spines with hooked tips. The plant uses them to hitch rides on passing animals, which is exactly what happened to de Mestral's dog."
+    },
+    {
+      "opening": "Nylon hooks and loops",
+      "linkId": null,
+      "text": "Cotton wore out too quickly. Nylon, sewn into loops and then cut, held its hooked shape, and de Mestral received a Swiss patent in 1955."
+    },
+    {
+      "opening": "Velours plus crochet",
+      "linkId": null,
+      "text": "The name joins the French words for velvet and hook. De Mestral built a company around it, and early sales were slow until clothing and sports gear makers caught on."
+    },
+    {
+      "opening": "Hook and loop in space",
+      "linkId": "overview-effect",
+      "text": "Apollo crews used it to keep pens, food packets and tools from floating away inside the cabin, which helped make the fastener famous."
+    },
+    {
+      "opening": "When a brand becomes a word",
+      "linkId": "bubble-wrap",
+      "text": "Velcro is a trademark, and in 2017 the company released a jokey music video asking people to say 'hook and loop' instead. Bubble Wrap faces the same problem."
+    },
+    {
+      "opening": "Copying nature",
+      "linkId": "post-it",
+      "text": "Velcro is a standard example of biomimicry, designing from living things. Like the Post-it, it came from noticing something odd and refusing to forget it."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "design",
+    "history-of-things",
+    "names"
+  ],
+  "related": [
+    "post-it",
+    "bubble-wrap",
+    "slinky",
+    "dogs-smell",
+    "overview-effect"
+  ]
+}

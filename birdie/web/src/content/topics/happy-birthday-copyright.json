@@ -1,0 +1,53 @@
+{
+  "id": "happy-birthday-copyright",
+  "title": "The copyright on \"Happy Birthday\"",
+  "category": "Music",
+  "hook": "The world's best-known song was treated as private property until 2016.",
+  "peek": "For decades a music publisher collected fees whenever \"Happy Birthday to You\" was sung in a film or on TV, earning millions. Then a documentary maker challenged the copyright in court, and a judge found the claim did not hold up.",
+  "lede": "The tune of \"Happy Birthday to You\" comes from \"Good Morning to All\", a song for young children published by two Kentucky sisters, Mildred and Patty Hill, in 1893. More than a century later a music publisher was still charging for its use. Films and TV shows paid fees, or wrote around the song to avoid them.",
+  "bullets": [
+    {
+      "opening": "Good Morning to All",
+      "linkId": null,
+      "text": "Patty Hill was a kindergarten teacher, and the original words greeted a class each morning. At some point people began singing new birthday words to the same tune, and the birthday version spread on its own."
+    },
+    {
+      "opening": "Warner/Chappell's royalties",
+      "linkId": null,
+      "text": "A copyright was registered in 1935, and in 1988 the publisher Warner/Chappell bought the company that held it. The song was widely reported to earn around $2 million a year in licensing fees."
+    },
+    {
+      "opening": "The 2015 ruling",
+      "linkId": null,
+      "text": "The filmmaker Jennifer Nelson, who wanted to use the song in a documentary about it, sued in 2013. In 2015 a federal judge ruled that the publisher had never shown it owned the lyrics, and a settlement in 2016 left the song free to use in the United States."
+    },
+    {
+      "opening": "Restaurant birthday songs",
+      "linkId": null,
+      "text": "Many restaurant chains created their own birthday chants for staff to sing at tables. The usual explanation was to avoid any risk of a licensing fee, which is why so many of them sound nothing like the real song."
+    },
+    {
+      "opening": "Sharing a birthday",
+      "linkId": "birthday-paradox",
+      "text": "Shared birthdays turn up more often than people expect, so one office or classroom can need the song twice on the same day. In a group of just 23 people, there is better than an even chance that two share a birthday."
+    },
+    {
+      "opening": "Sampling and permission",
+      "linkId": "amen-break",
+      "text": "The case is one of several famous fights over who owns a piece of music, alongside the drum break on a 1969 B-side that was copied into thousands of records."
+    }
+  ],
+  "tags": [
+    "names",
+    "history-of-things",
+    "myths-busted",
+    "records"
+  ],
+  "related": [
+    "birthday-paradox",
+    "amen-break",
+    "cage-433",
+    "landlords-game",
+    "ok-origin"
+  ]
+}

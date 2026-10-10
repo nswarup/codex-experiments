@@ -1,0 +1,48 @@
+{
+  "id": "baader-meinhof",
+  "title": "The Baader-Meinhof phenomenon",
+  "category": "Mind",
+  "hook": "You learn a new word, and suddenly it seems to be everywhere you look.",
+  "peek": "Learn a new word, notice a car model or hear of a band, and soon it seems to show up everywhere. It was there all along. The odd name for this comes from a newspaper letter in 1994.",
+  "lede": "You learn an unfamiliar word, and within days you meet it three more times. It feels like the world has started using it. In fact it was there all along, and your attention has simply started catching it. Linguists call this the frequency illusion, but many people know it by a stranger name taken from a 1994 newspaper letter.",
+  "bullets": [
+    {
+      "opening": "The St. Paul Pioneer Press letter",
+      "linkId": null,
+      "text": "In 1994 a reader wrote to the Minnesota paper after hearing the name of the Baader-Meinhof group, a 1970s West German militant group, twice in one day. Other readers wrote in with their own examples, and the name stuck."
+    },
+    {
+      "opening": "Arnold Zwicky's frequency illusion",
+      "linkId": null,
+      "text": "The Stanford linguist coined the more descriptive term in the 2000s. He described it as selective attention, noticing what is new to you, plus confirmation bias, counting the hits and ignoring the misses."
+    },
+    {
+      "opening": "The recency illusion",
+      "linkId": null,
+      "text": "Zwicky also named a cousin effect: believing a word or usage is new just because you only recently noticed it, when it may be centuries old. Plenty of words people complain about as modern slang turn out to have long histories."
+    },
+    {
+      "opening": "Coincidences are common",
+      "linkId": "birthday-paradox",
+      "text": "Our sense of what is unlikely is poor. In a room of just 23 people, the odds are better than even that two share a birthday. Repeat sightings of a new word feel like a sign, but they are usually just attention plus ordinary chance."
+    },
+    {
+      "opening": "The Tetris effect",
+      "linkId": "tetris-effect",
+      "text": "Spend long enough on one thing and your brain starts seeing it everywhere, from falling blocks to the car you just bought."
+    }
+  ],
+  "tags": [
+    "perception",
+    "memory",
+    "probability",
+    "names"
+  ],
+  "related": [
+    "birthday-paradox",
+    "tetris-effect",
+    "semantic-satiation",
+    "the-dress",
+    "ben-franklin-effect"
+  ]
+}

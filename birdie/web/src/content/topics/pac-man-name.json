@@ -1,0 +1,53 @@
+{
+  "id": "pac-man-name",
+  "title": "How Pac-Man got his name",
+  "category": "Games",
+  "hook": "Pac-Man was named after a Japanese sound for eating, and nearly something else.",
+  "peek": "Pac-Man's name comes from paku paku, a Japanese word for the sound of a mouth opening and closing. In Japan he launched as Puck Man, a name that was changed before the game reached American arcades.",
+  "lede": "Toru Iwatani designed Pac-Man at Namco, and it reached Japanese arcades in 1980. The name comes from paku paku, a Japanese expression for chomping, opening and closing your mouth as you eat. In Japan the game was released as Puck Man. For the American release the name became Pac-Man, reportedly to stop vandals from scratching the P into an F.",
+  "bullets": [
+    {
+      "opening": "The pizza story",
+      "linkId": null,
+      "text": "Iwatani has said the shape came partly from a pizza with one slice missing, and partly from simplifying the Japanese character for mouth. The pizza half is the version most often retold."
+    },
+    {
+      "opening": "Blinky, Pinky, Inky and Clyde",
+      "linkId": null,
+      "text": "The four ghosts each follow different rules. One chases directly, others aim ahead of Pac-Man or wander, so their combined movement feels more clever than any one of them."
+    },
+    {
+      "opening": "A game for everyone",
+      "linkId": null,
+      "text": "Iwatani wanted a game that would appeal to people who found shooting games off-putting, including women. Eating, not fighting, became the core idea."
+    },
+    {
+      "opening": "Level 256",
+      "linkId": null,
+      "text": "A counting glitch breaks the 256th level: half the screen fills with jumbled symbols and the level cannot be finished. Reaching it with a perfect score was first done in 1999."
+    },
+    {
+      "opening": "Names that travel",
+      "linkId": "ok-origin",
+      "text": "Pac-Man's name was reshaped on its way to a new market. OK started as a joke abbreviation in 1830s Boston and went on to become one of the most widely used words on Earth."
+    },
+    {
+      "opening": "A Soviet puzzle",
+      "linkId": "tetris-origin",
+      "text": "A few years later Tetris made the same leap from a single screen to the whole world, though it came from a Moscow research lab rather than a game company."
+    }
+  ],
+  "tags": [
+    "games",
+    "names",
+    "etymology",
+    "design"
+  ],
+  "related": [
+    "tetris-origin",
+    "ok-origin",
+    "landlords-game",
+    "scrabble-letters",
+    "tetris-effect"
+  ]
+}

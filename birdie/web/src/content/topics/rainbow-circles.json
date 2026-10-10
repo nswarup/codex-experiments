@@ -1,0 +1,48 @@
+{
+  "id": "rainbow-circles",
+  "title": "Rainbows are full circles",
+  "category": "Nature",
+  "hook": "Every rainbow is a full circle; the ground just hides the bottom half.",
+  "peek": "A rainbow is not an arch. It is a ring of light centred on the point directly opposite the sun, and from the ground the horizon cuts it in half. From a plane or a mountaintop you can sometimes see the whole circle.",
+  "lede": "A rainbow forms where sunlight bounces inside raindrops and comes back at an angle of about 42 degrees. Every drop at that angle from the point opposite the sun sends colour your way, and those drops form a cone around you. The rainbow is the rim of that cone, a full circle. From the ground, the horizon simply cuts off the lower half.",
+  "bullets": [
+    {
+      "opening": "Full-circle rainbows",
+      "linkId": null,
+      "text": "Pilots, climbers and people on tall buildings sometimes see the whole ring when there is rain below them. The shadow of the viewer's head sits right at the centre."
+    },
+    {
+      "opening": "Your own rainbow",
+      "linkId": null,
+      "text": "Because the circle is centred on each viewer's eyes, two people side by side see light from different raindrops. In a real sense, everyone sees their own rainbow."
+    },
+    {
+      "opening": "Alexander's band",
+      "linkId": null,
+      "text": "A fainter second bow sits outside the first, with its colours reversed. The sky between them looks darker and is named after Alexander of Aphrodisias, a Greek philosopher who described it around 200 AD."
+    },
+    {
+      "opening": "Newton's seven colours",
+      "linkId": "the-dress",
+      "text": "Isaac Newton named seven colours partly to match the seven notes of a musical scale. The spectrum is continuous, and where one colour ends is partly up to the viewer's brain, as the Dress showed in 2015."
+    },
+    {
+      "opening": "After the shower",
+      "linkId": "petrichor",
+      "text": "The best rainbows come when the sun is low and a shower is moving away from you. That is often the same moment the air fills with the smell of rain on dry ground."
+    }
+  ],
+  "tags": [
+    "light",
+    "color",
+    "weather",
+    "perception"
+  ],
+  "related": [
+    "the-dress",
+    "petrichor",
+    "morning-glory-clouds",
+    "snowflake-bentley",
+    "klein-blue"
+  ]
+}

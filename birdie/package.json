@@ -1,0 +1,19 @@
+{
+  "name": "birdie",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "workspaces": ["web", "server"],
+  "scripts": {
+    "dev": "concurrently -k -n server,web -c yellow,cyan \"npm:dev -w server\" \"npm:dev -w web\"",
+    "build": "npm run build -w web",
+    "start": "npm run build && concurrently -k -n server,web \"npm:start -w server\" \"npm:preview -w web\"",
+    "test": "npm run test -w web && npm run test -w server && python3 scripts/validate_corpus.py",
+    "typecheck": "npm run typecheck -w web && npm run typecheck -w server",
+    "e2e": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.56.1",
+    "concurrently": "^10.0.6"
+  }
+}

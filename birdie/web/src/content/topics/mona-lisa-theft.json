@@ -1,0 +1,53 @@
+{
+  "id": "mona-lisa-theft",
+  "title": "The 1911 Mona Lisa disappearance",
+  "category": "Art",
+  "hook": "The Mona Lisa became the world's most famous painting partly by going missing.",
+  "peek": "In August 1911 the Mona Lisa vanished from the Louvre, carried out by a handyman who had worked there. It was missing for over two years. The headlines turned a respected painting into the most famous picture on Earth.",
+  "lede": "On a Monday in August 1911, when the Louvre was closed, an Italian handyman named Vincenzo Peruggia walked out with the Mona Lisa hidden under his work smock. He had helped fit glass cases in the museum. Nobody raised the alarm until the next day. The painting stayed missing for more than two years, and the world could not stop talking about it.",
+  "bullets": [
+    {
+      "opening": "Crowds for an empty wall",
+      "linkId": null,
+      "text": "When the Louvre reopened, people queued to look at the bare hooks where the painting had hung. Newspapers around the world printed its face, making it famous far beyond art circles."
+    },
+    {
+      "opening": "Picasso questioned",
+      "linkId": null,
+      "text": "The poet Guillaume Apollinaire was briefly held, and Pablo Picasso was questioned, because of an earlier, unrelated affair involving statuettes taken from the Louvre. Both were cleared."
+    },
+    {
+      "opening": "Found in Florence",
+      "linkId": null,
+      "text": "In 1913 Peruggia offered the painting to a Florence art dealer, who called in the director of the Uffizi Gallery. It was shown in Italy before going home to Paris. Peruggia said he wanted it returned to Italy."
+    },
+    {
+      "opening": "The Valfierno forgery tale",
+      "linkId": null,
+      "text": "A popular story says a con man had forgers make copies to sell as the stolen original. It comes from a 1932 magazine article, and historians doubt it happened."
+    },
+    {
+      "opening": "Golden ratio claims",
+      "linkId": "fibonacci-sunflowers",
+      "text": "The painting is often said to be built on the golden ratio linked to Fibonacci numbers. Art historians find little evidence Leonardo planned it, and many such claims fall apart on measurement."
+    },
+    {
+      "opening": "Museums making mistakes",
+      "linkId": "mondrian-upside-down",
+      "text": "Museums are good at guarding art but not perfect. A Mondrian in Düsseldorf hung upside down for decades before anyone looked closely enough."
+    }
+  ],
+  "tags": [
+    "museums",
+    "history-of-things",
+    "myths-busted",
+    "painting"
+  ],
+  "related": [
+    "mondrian-upside-down",
+    "fibonacci-sunflowers",
+    "klein-blue",
+    "napoleon-height",
+    "tulip-mania"
+  ]
+}

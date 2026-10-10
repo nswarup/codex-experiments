@@ -1,0 +1,53 @@
+{
+  "id": "slinky",
+  "title": "The Slinky",
+  "category": "Inventions",
+  "hook": "A spring meant for ships fell off a shelf and walked, so it became a toy.",
+  "peek": "In 1943 a naval engineer in Philadelphia was working on springs to steady delicate instruments at sea. One fell off a shelf and kept moving, coil over coil. His wife found it a name in the dictionary.",
+  "lede": "In 1943, Richard James, a naval engineer at a Philadelphia shipyard, was working with springs meant to steady sensitive instruments on ships. One fell from a shelf and seemed to walk, flipping end over end before settling. He spent the next couple of years finding the right wire and tension to make a spring that would walk down stairs on its own.",
+  "bullets": [
+    {
+      "opening": "Betty James and the name",
+      "linkId": null,
+      "text": "His wife, Betty, searched the dictionary for a word and chose 'slinky', meaning sleek and graceful. She later ran the company for decades and kept the toy cheap and simple."
+    },
+    {
+      "opening": "Gimbels at Christmas 1945",
+      "linkId": null,
+      "text": "Sales stalled until a Philadelphia department store let the Jameses demonstrate it on a ramp. They sold out their stock of 400 in about 90 minutes."
+    },
+    {
+      "opening": "The floating Slinky",
+      "linkId": null,
+      "text": "Hold a Slinky by its top and let go, and the bottom hangs in the air for a moment. It only moves once the collapse, travelling down the coils, reaches it."
+    },
+    {
+      "opening": "Pennsylvania's state toy",
+      "linkId": null,
+      "text": "The Slinky was made official state toy in 2001, and is still produced in Hollidaysburg, Pennsylvania, where the company moved its factory."
+    },
+    {
+      "opening": "Products with a second life",
+      "linkId": "bubble-wrap",
+      "text": "Bubble wrap was meant to be wallpaper and the Slinky was meant for ships. Both found fame doing something else entirely."
+    },
+    {
+      "opening": "A demo that sold it",
+      "linkId": "post-it",
+      "text": "The Slinky needed to be seen walking before people wanted one. Post-it notes had the same problem and only sold once people had a pad in their hands."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "accidents",
+    "history-of-things",
+    "games"
+  ],
+  "related": [
+    "bubble-wrap",
+    "post-it",
+    "velcro",
+    "gods-number",
+    "landlords-game"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "elephant-mirror",
+  "title": "Elephants know themselves in a mirror",
+  "category": "Animals",
+  "hook": "An Asian elephant named Happy looked in a mirror and touched a mark on her head.",
+  "peek": "In 2006, researchers put a giant mirror in an elephant enclosure at the Bronx Zoo. One elephant, Happy, kept touching a painted mark she could only see in her reflection, a classic sign of self-recognition.",
+  "lede": "In 2006, Joshua Plotnik, Frans de Waal and Diana Reiss set up a mirror about 2.5 metres tall in the elephant yard at the Bronx Zoo in New York. Three Asian elephants inspected it, checked behind it and watched themselves move. Next, the researchers painted a large white X on each elephant's head, visible only in the mirror. One elephant, Happy, kept touching it with her trunk.",
+  "bullets": [
+    {
+      "opening": "The mirror test",
+      "linkId": null,
+      "text": "The test was devised by the psychologist Gordon Gallup in 1970 with chimpanzees. An animal that uses a mirror to investigate a mark on its own body seems to understand that the reflection is itself."
+    },
+    {
+      "opening": "Dolphins in the mirror",
+      "linkId": "dolphin-names",
+      "text": "Diana Reiss had earlier shown in 2001 that bottlenose dolphins pass a version of the test, twisting to inspect marks on their bodies. Dolphins also use name-like whistles."
+    },
+    {
+      "opening": "Magpies and corvids",
+      "linkId": "crows-faces",
+      "text": "In 2008, Eurasian magpies became the first birds reported to pass. They belong to the same family as crows, which can recognise individual human faces for years."
+    },
+    {
+      "opening": "Only one of three",
+      "linkId": null,
+      "text": "The other two elephants, Maxine and Patty, did not touch their marks. Failing does not prove an animal lacks self-awareness. It may simply not care about a mark, or may not have noticed it at all."
+    },
+    {
+      "opening": "A dog's sense of smell",
+      "linkId": "dogs-smell",
+      "text": "Dogs usually ignore mirrors, which led some researchers to suggest a sniff test instead. Dogs seem more interested in their own scent when it has been changed."
+    }
+  ],
+  "tags": [
+    "animal-minds",
+    "perception",
+    "memory",
+    "mirrors"
+  ],
+  "related": [
+    "dolphin-names",
+    "crows-faces",
+    "dogs-smell",
+    "cat-slow-blink",
+    "sea-otters-hands"
+  ]
+}

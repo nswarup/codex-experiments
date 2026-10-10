@@ -1,0 +1,52 @@
+{
+  "id": "womens-pockets",
+  "title": "The pocket that women lost",
+  "category": "Clothing",
+  "hook": "Women once carried their pockets separately, tied around the waist.",
+  "peek": "For about two centuries, women's pockets were separate pouches tied on under their skirts. Then slim fashions around 1800 left no room for them, and the handbag stepped in. Women's pockets have been playing catch-up ever since.",
+  "lede": "From the late 1600s, many European women wore a tie-on pocket: a flat pouch on a tape around the waist, hidden under the skirt and reached through a slit. It could hold keys, sewing, money and food. Men's pockets, by contrast, were sewn into their clothes. Around 1800, women's fashion changed shape, and the pocket nearly disappeared.",
+  "bullets": [
+    {
+      "opening": "The Empire silhouette",
+      "linkId": null,
+      "text": "Around 1800, dresses became narrow and high-waisted, inspired by classical statues. A bulging pouch underneath ruined the line, so the tie-on pocket fell out of fashion."
+    },
+    {
+      "opening": "The reticule",
+      "linkId": null,
+      "text": "Women carried small drawstring bags called reticules instead. Some people mocked them as ridicules. The handbag had arrived, and it meant a woman's belongings were in her hand rather than on her body."
+    },
+    {
+      "opening": "Lucy Locket",
+      "linkId": null,
+      "text": "The nursery rhyme about Lucy Locket losing her pocket is often read as being about a tie-on pocket, which could come undone and be lost. The rhyme's real origin is uncertain."
+    },
+    {
+      "opening": "Shallow jeans pockets",
+      "linkId": "levis-rivet",
+      "text": "In 2018 the data journalism site The Pudding measured pockets on popular jeans. Women's front pockets were on average about half as deep as men's, often too small for a phone or a hand."
+    },
+    {
+      "opening": "Opposite buttons",
+      "linkId": "buttons-sides",
+      "text": "Pockets are a case where the reasons for the gap are fairly well documented. The other famous difference, which side the buttons go on, is much harder to explain."
+    },
+    {
+      "opening": "Men in heels",
+      "linkId": "heels-for-men",
+      "text": "Fashion has a long habit of trading features between the sexes. High heels began as men's footwear and only later became mainly a women's thing."
+    }
+  ],
+  "tags": [
+    "fashion",
+    "history-of-things",
+    "design"
+  ],
+  "related": [
+    "buttons-sides",
+    "levis-rivet",
+    "heels-for-men",
+    "cravat-tie",
+    "crocs-boat-shoe"
+  ]
+}

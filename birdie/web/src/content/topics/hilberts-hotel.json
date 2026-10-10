@@ -1,0 +1,53 @@
+{
+  "id": "hilberts-hotel",
+  "title": "Hilbert's Hotel",
+  "category": "Math",
+  "hook": "A hotel with infinitely many rooms can be full and still take new guests.",
+  "peek": "David Hilbert's thought experiment: a hotel with endless rooms, every one occupied. A new guest arrives and gets a room anyway, simply by shuffling everyone along. Infinity does not behave like a very big number.",
+  "lede": "The German mathematician David Hilbert used a thought experiment to show how strange infinity is. Picture a hotel with infinitely many rooms, every one taken. A new guest arrives. The manager asks each guest to move up one room, from 1 to 2, 2 to 3, and so on forever. Nobody is turned out, and room 1 is now free.",
+  "bullets": [
+    {
+      "opening": "An infinite coach party",
+      "linkId": null,
+      "text": "Now infinitely many new guests arrive. The manager asks everyone to move to the room with double their number. All the current guests end up in even rooms, leaving every odd room free for the newcomers."
+    },
+    {
+      "opening": "Galileo's paradox",
+      "linkId": null,
+      "text": "In 1638 Galileo noticed that every whole number has a square, so there are as many squares as whole numbers, even though most numbers are not squares. He concluded that ideas like more and fewer break down with infinity."
+    },
+    {
+      "opening": "Georg Cantor's bigger infinities",
+      "linkId": null,
+      "text": "In the late 1800s Georg Cantor showed that some infinities are larger than others. The points on a line cannot be given room numbers at all: any list of them misses some, so they would overflow even Hilbert's hotel."
+    },
+    {
+      "opening": "George Gamow's book",
+      "linkId": null,
+      "text": "The story spread through the physicist George Gamow's 1947 popular book One Two Three... Infinity. Hilbert had described the idea in a 1924 lecture, but those notes were only published decades later."
+    },
+    {
+      "opening": "Huge but finite",
+      "linkId": "shannon-number",
+      "text": "Some numbers feel infinite but are not. The Shannon number puts the possible games of chess at roughly 10 to the power 120: unimaginably large, yet a big enough ordinary hotel could still hold them all."
+    },
+    {
+      "opening": "An endless universe",
+      "linkId": "olbers-paradox",
+      "text": "Infinity causes trouble in physics too. If space were endless, unchanging and full of stars, the night sky should glow everywhere, a puzzle known as Olbers' paradox."
+    }
+  ],
+  "tags": [
+    "infinity",
+    "paradoxes",
+    "thought-experiments",
+    "scale"
+  ],
+  "related": [
+    "shannon-number",
+    "olbers-paradox",
+    "birthday-paradox",
+    "monty-hall",
+    "gods-number"
+  ]
+}

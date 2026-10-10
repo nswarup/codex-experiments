@@ -1,0 +1,48 @@
+{
+  "id": "petrichor",
+  "title": "Petrichor, the smell of rain",
+  "category": "Nature",
+  "hook": "The smell of rain on dry ground has a name, and it was coined in 1964.",
+  "peek": "The earthy scent after rain on dry ground is called petrichor, a word two Australian scientists invented in 1964. It comes from oils and a soil compound that raindrops fling into the air in tiny bubbles.",
+  "lede": "The smell of rain after a dry spell has a proper name. In 1964, Isabel Joy Bear and Richard Thomas, two scientists at Australia's CSIRO, called it petrichor in a paper in Nature. The word joins Greek petra, stone, with ichor, the fluid said to run in the veins of the gods. They traced the scent to oils that gather on rocks and soil in dry weather.",
+  "bullets": [
+    {
+      "opening": "Geosmin",
+      "linkId": null,
+      "text": "Much of the earthy note comes from a compound called geosmin, which is made in soil. Human noses are very sensitive to it and can pick it up at a few parts per trillion."
+    },
+    {
+      "opening": "A nose for faint traces",
+      "linkId": "dogs-smell",
+      "text": "Our sensitivity to geosmin is unusual for a species with modest noses. Dogs live in a world of scents like this all the time, detecting many odours at concentrations far below what people can manage."
+    },
+    {
+      "opening": "Raindrop bubbles",
+      "linkId": null,
+      "text": "In 2015, MIT researchers filmed raindrops at high speed. Light rain trapped tiny air bubbles that rose and burst into a fizz of aerosols, carrying the scent up into the air, which is why gentle showers smell stronger."
+    },
+    {
+      "opening": "Mitti attar",
+      "linkId": null,
+      "text": "In Kannauj, India, perfumers bake clay and distil its scent into sandalwood oil. The result, mitti attar, bottles the smell of the first monsoon rain."
+    },
+    {
+      "opening": "Smell and genes",
+      "linkId": "cilantro-gene",
+      "text": "Not everyone smells the world the same way. Small differences in the genes for smell receptors help explain why cilantro tastes of soap to some people and fresh herbs to others."
+    }
+  ],
+  "tags": [
+    "etymology",
+    "weather",
+    "smell",
+    "names"
+  ],
+  "related": [
+    "dogs-smell",
+    "cilantro-gene",
+    "rainbow-circles",
+    "umami",
+    "singing-dunes"
+  ]
+}

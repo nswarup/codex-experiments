@@ -1,0 +1,48 @@
+{
+  "id": "stradivarius",
+  "title": "Why Stradivarius violins sound the way they do",
+  "category": "Music",
+  "hook": "Players often cannot tell a Stradivarius from a new violin in blind tests.",
+  "peek": "Stradivari's violins sell for millions and have inspired theories about frozen forests and secret varnishes. Yet when expert players test them blindfolded against good modern violins, many cannot pick them out, and some prefer the new ones.",
+  "lede": "Antonio Stradivari made instruments in Cremona, Italy, until his death in 1737, and around 650 of them are thought to survive. For centuries people have tried to explain why they sound so good. The most surprising finding is recent: in careful blind tests, top violinists struggle to tell them apart from fine modern instruments.",
+  "bullets": [
+    {
+      "opening": "The blindfold experiments",
+      "linkId": "mcgurk-effect",
+      "text": "In tests led by the acoustician Claudia Fritz and the violin maker Joseph Curtin, players wore goggles so they could not see which violin they held. Most could not reliably identify the old Italians, and the instrument chosen most often as a favourite was new. What we see shapes what we think we hear."
+    },
+    {
+      "opening": "The Little Ice Age theory",
+      "linkId": null,
+      "text": "One idea is that a long cold spell in Europe made trees grow slowly, giving denser, more even spruce. It is a hypothesis drawn from tree rings, not a settled answer."
+    },
+    {
+      "opening": "Chemistry in the wood",
+      "linkId": null,
+      "text": "Chemists have found traces of minerals such as borax and zinc in samples of Stradivari's wood, suggesting it was deliberately treated. Whether that changed the tone is still debated."
+    },
+    {
+      "opening": "The forest of violins",
+      "linkId": null,
+      "text": "Makers in Cremona are thought to have used spruce from the Alpine forests around Paneveggio in northern Italy. Violin makers still visit to choose wood there today."
+    },
+    {
+      "opening": "Prices beyond reason",
+      "linkId": "tulip-mania",
+      "text": "In 2011 the \"Lady Blunt\" Stradivarius sold for about £9.8 million, with the money going to relief work in Japan after that year's earthquake. Rarity and history, not only sound, set prices like that."
+    }
+  ],
+  "tags": [
+    "perception",
+    "myths-busted",
+    "acoustics",
+    "history-of-things"
+  ],
+  "related": [
+    "mcgurk-effect",
+    "perfect-pitch",
+    "tulip-mania",
+    "theremin",
+    "the-dress"
+  ]
+}

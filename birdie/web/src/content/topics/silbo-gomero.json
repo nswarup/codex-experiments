@@ -1,0 +1,53 @@
+{
+  "id": "silbo-gomero",
+  "title": "Silbo Gomero",
+  "category": "Language",
+  "hook": "On one Canary Island, people can hold a conversation by whistling Spanish.",
+  "peek": "On La Gomera, a steep island in the Canaries, Spanish can be whistled. Silbo Gomero turns words into rising and falling whistles that carry across deep ravines, and every child on the island learns it at school.",
+  "lede": "La Gomera is a small, steep island in the Canaries, cut by deep ravines. Walking to a neighbour could take an hour, but a whistle crosses the valley in seconds. So islanders developed Silbo Gomero, a way of whistling Spanish. It is not a code of signals: skilled whistlers can say almost anything they could say aloud.",
+  "bullets": [
+    {
+      "opening": "Spanish in two whistles",
+      "linkId": null,
+      "text": "Silbo replaces speech sounds with changes in pitch and with breaks in the whistle. Linguists usually describe it as having two vowel sounds and a handful of consonants, and listeners fill in words from context."
+    },
+    {
+      "opening": "Across the ravines",
+      "linkId": null,
+      "text": "A strong whistle can be understood far beyond the reach of a shout, often said to be a few kilometres in good conditions. Shepherds and farmers used it to pass messages across the island."
+    },
+    {
+      "opening": "Back in the classroom",
+      "linkId": null,
+      "text": "As roads and phones arrived, Silbo nearly faded. Since 1999 it has been taught in La Gomera's schools, and in 2009 UNESCO added it to its list of the Intangible Cultural Heritage of Humanity."
+    },
+    {
+      "opening": "Whistled Turkish of Kuşköy",
+      "linkId": null,
+      "text": "A village in northern Turkey known as Kuşköy, \"bird village\", has its own whistled Turkish. Studies there suggest whistled speech uses both sides of the brain more evenly than spoken language does."
+    },
+    {
+      "opening": "Tonal languages, whistled",
+      "linkId": "perfect-pitch",
+      "text": "Whistled speech also exists for tonal languages, such as some in West Africa and Mexico, where pitch already carries meaning. Whistling simply keeps the melody and drops the rest."
+    },
+    {
+      "opening": "Dolphin names",
+      "linkId": "dolphin-names",
+      "text": "Humans are not the only whistlers with meaning. Bottlenose dolphins each develop a personal signature whistle, and others in their group seem to copy it to call them, much like a name."
+    }
+  ],
+  "tags": [
+    "communication",
+    "language-change",
+    "acoustics",
+    "islands"
+  ],
+  "related": [
+    "perfect-pitch",
+    "dolphin-names",
+    "toki-pona",
+    "great-vowel-shift",
+    "mcgurk-effect"
+  ]
+}

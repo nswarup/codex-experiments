@@ -1,0 +1,52 @@
+{
+  "id": "bir-tawil",
+  "title": "Bir Tawil, the land no country claims",
+  "category": "Places",
+  "hook": "A patch of desert that neither of its neighbours wants to claim.",
+  "peek": "Between Egypt and Sudan lies Bir Tawil, about 2,000 square kilometres of desert that neither country claims. It is not unwanted for its own sake: claiming it would weaken each side's case for a larger, more valuable area nearby.",
+  "lede": "Bir Tawil is a trapezoid of dry, rocky land on the border between Egypt and Sudan, roughly 2,000 square kilometres in size. It has no permanent population and no government. It is one of the very few pieces of land on Earth that no state claims. The reason lies in two different lines drawn on the map more than a century ago.",
+  "bullets": [
+    {
+      "opening": "The 1899 and 1902 lines",
+      "linkId": null,
+      "text": "A border set in 1899 follows the 22nd parallel. An administrative line drawn in 1902 bends away from it in two places. Egypt favours the 1899 line, and Sudan the 1902 line."
+    },
+    {
+      "opening": "The Halaib Triangle",
+      "linkId": null,
+      "text": "Each line hands one area to each country. The other area, the Halaib Triangle on the Red Sea coast, is roughly ten times larger. Claiming Bir Tawil would mean accepting the line that gives Halaib away, so neither side does."
+    },
+    {
+      "opening": "Terra nullius",
+      "linkId": null,
+      "text": "Land that no state claims is called terra nullius. Bir Tawil is often cited as the clearest example on land today, which is why it turns up in geography quizzes and law classes."
+    },
+    {
+      "opening": "Self-declared kingdoms",
+      "linkId": null,
+      "text": "Several people have travelled there, planted flags and announced new countries. None of these claims has been recognised by any government, and they have no legal standing."
+    },
+    {
+      "opening": "Other empty places",
+      "linkId": "point-nemo",
+      "text": "Point Nemo, the spot in the ocean farthest from land, is empty for a simpler reason: distance. Antarctica's Marie Byrd Land is larger and unclaimed too, but there the Antarctic Treaty sets claims aside."
+    },
+    {
+      "opening": "Borders that surprise",
+      "linkId": "baarle",
+      "text": "Bir Tawil is a border with nobody inside it. In the Low Countries, Baarle has the opposite problem: a border so tangled it runs through houses and cafés."
+    }
+  ],
+  "tags": [
+    "borders",
+    "maps",
+    "myths-busted"
+  ],
+  "related": [
+    "baarle",
+    "point-nemo",
+    "four-color-theorem",
+    "whittier-alaska",
+    "konigsberg-bridges"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "harrison-clocks",
+  "title": "Harrison's longitude clocks",
+  "category": "History",
+  "hook": "A self-taught carpenter built the clock that solved the longitude problem.",
+  "peek": "In the 1700s, sailors could not reliably tell how far east or west they were. John Harrison, a carpenter from Yorkshire, spent decades building sea clocks accurate enough to answer the question, then had to fight for his reward.",
+  "lede": "Sailors could long work out their latitude from the sun and stars, but longitude defeated them. The answer was time: compare local noon with the time at home, and the difference gives your position east or west. That needed a clock that kept time on a rolling ship. In 1714, Britain offered a prize of up to £20,000, and John Harrison, a Yorkshire carpenter, set out to win it.",
+  "bullets": [
+    {
+      "opening": "Wooden clockwork",
+      "linkId": null,
+      "text": "Harrison's early clocks used gears made of wood, including lignum vitae, a dense tropical timber that releases its own oil. That meant they needed little lubrication, a common source of trouble in clocks of his day."
+    },
+    {
+      "opening": "H1 to H4",
+      "linkId": null,
+      "text": "He built three large sea clocks over about 30 years, then changed course and made a pocket-watch-sized timekeeper now called H4. On a trial voyage to Jamaica in 1761 it kept time to within seconds."
+    },
+    {
+      "opening": "The Board of Longitude",
+      "linkId": null,
+      "text": "The officials judging the prize were slow to accept a clock as the answer, and some favoured an astronomical method. With help from King George III, Harrison was finally awarded a large sum by Parliament in 1773."
+    },
+    {
+      "opening": "Rupert Gould's restoration",
+      "linkId": null,
+      "text": "The clocks fell into neglect until a naval officer, Rupert Gould, spent years restoring them in the 1920s and 1930s. They are now on display at the Royal Observatory in Greenwich, and some still run."
+    },
+    {
+      "opening": "Far from any coast",
+      "linkId": "point-nemo",
+      "text": "Accurate longitude is what makes it possible to pin down a place like Point Nemo, the spot in the ocean farthest from any land, and to find your way back to it."
+    },
+    {
+      "opening": "A year of lost days",
+      "linkId": "eleven-days-1752",
+      "text": "While Harrison worked on his sea clocks, Britain reformed its calendar and skipped 11 days in September 1752 to catch up with the rest of Europe."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "time",
+    "maps",
+    "navigation"
+  ],
+  "related": [
+    "eleven-days-1752",
+    "point-nemo",
+    "golden-record",
+    "cleopatra-timeline",
+    "qwerty"
+  ]
+}

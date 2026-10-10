@@ -1,0 +1,48 @@
+{
+  "id": "pineapple-status",
+  "title": "Pineapples as status symbols",
+  "category": "Food",
+  "hook": "In Georgian Britain, a single pineapple could be the star of a dinner party.",
+  "peek": "For about two centuries, pineapples were so hard to grow in Europe that owning one marked you as rich. Aristocrats built heated glasshouses for them, and one Scottish earl put a giant stone pineapple on his garden house.",
+  "lede": "Christopher Columbus's crew met the pineapple in the Caribbean in 1493, and Europeans were hooked. The trouble was growing one. A ship could not carry ripe fruit across the Atlantic in good shape, and the plant needed steady tropical warmth. So for about two centuries, a pineapple on the table was a loud sign that its owner had money, land and a gardener.",
+  "bullets": [
+    {
+      "opening": "Georgian pineries",
+      "linkId": null,
+      "text": "Wealthy British families built heated glasshouses called pineries, warmed with stoves and beds of fermenting tanbark. A single fruit could take two or three years of tending to ripen."
+    },
+    {
+      "opening": "The Dunmore Pineapple",
+      "linkId": null,
+      "text": "In 1761 the Earl of Dunmore added a stone dome shaped like a giant pineapple to a garden house at his estate near Falkirk in Scotland. It still stands and can be rented as a holiday home."
+    },
+    {
+      "opening": "Renting a pineapple",
+      "linkId": null,
+      "text": "Historians describe pineapples being hired out for an evening, to sit on display at a party and then be returned to the seller. Accounts are scattered, so treat the details as colourful rather than certain."
+    },
+    {
+      "opening": "Tulip mania",
+      "linkId": "tulip-mania",
+      "text": "Pineapples followed a pattern seen with Dutch tulip bulbs a century earlier: a rare, beautiful thing from far away becomes the most visible way to show off wealth."
+    },
+    {
+      "opening": "Perkin's cheap purple",
+      "linkId": "perkin-mauve",
+      "text": "Purple lost its royal rarity once William Perkin's mauve made it cheap, and the pineapple went the same way. Steamships and plantations in places like Hawaii put it in tins by the early 1900s."
+    }
+  ],
+  "tags": [
+    "food-history",
+    "history-of-things",
+    "design",
+    "status-symbols"
+  ],
+  "related": [
+    "tulip-mania",
+    "perkin-mauve",
+    "sandwich-earl",
+    "croissant-origin",
+    "honey-keeps"
+  ]
+}

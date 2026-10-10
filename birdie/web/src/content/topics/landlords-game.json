@@ -1,0 +1,53 @@
+{
+  "id": "landlords-game",
+  "title": "Monopoly began as The Landlord's Game",
+  "category": "Games",
+  "hook": "Monopoly began as a game designed to warn people about landlords.",
+  "peek": "Before Monopoly, there was The Landlord's Game, patented by Lizzie Magie in 1904 to show how rent makes landowners rich at everyone else's expense. For decades, a man who sold a later version was credited as the inventor.",
+  "lede": "In 1904 Elizabeth Magie, known as Lizzie, received a US patent for The Landlord's Game. She was a follower of the economist Henry George, who argued that land should be taxed so that its rising value benefited everyone. Her board, with properties, rents and a corner marked for jail, was meant to show how landlords pile up wealth while tenants fall behind.",
+  "bullets": [
+    {
+      "opening": "Two sets of rules",
+      "linkId": null,
+      "text": "Magie included rules where players try to bankrupt each other, and an alternative where wealth is shared when land is taxed. She hoped people would notice which version was more fun."
+    },
+    {
+      "opening": "Atlantic City street names",
+      "linkId": null,
+      "text": "The game spread hand to hand, with players drawing their own boards. A group in Atlantic City added the local street names, from Boardwalk to Park Place, that Monopoly still uses."
+    },
+    {
+      "opening": "Charles Darrow",
+      "linkId": null,
+      "text": "Darrow sold a version to Parker Brothers in 1935 and was long credited as its sole inventor. The company also bought Magie's patent, reportedly for 500 dollars."
+    },
+    {
+      "opening": "The Anti-Monopoly case",
+      "linkId": null,
+      "text": "Her role was largely forgotten until the 1970s, when an economist named Ralph Anspach fought a legal battle over his own game, Anti-Monopoly, and dug up the game's earlier history."
+    },
+    {
+      "opening": "Who owns a folk creation",
+      "linkId": "happy-birthday-copyright",
+      "text": "Like the song Happy Birthday, Monopoly grew from something many people shared and changed, then became a valuable property owned by a company."
+    },
+    {
+      "opening": "Depression-era board games",
+      "linkId": "scrabble-letters",
+      "text": "Scrabble also took shape in the 1930s, when an out-of-work architect, Alfred Butts, set out to design a word game."
+    }
+  ],
+  "tags": [
+    "games",
+    "inventors",
+    "history-of-things",
+    "myths-busted"
+  ],
+  "related": [
+    "scrabble-letters",
+    "happy-birthday-copyright",
+    "tetris-origin",
+    "tulip-mania",
+    "pac-man-name"
+  ]
+}

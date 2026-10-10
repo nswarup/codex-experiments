@@ -1,0 +1,53 @@
+{
+  "id": "letter-thorn",
+  "title": "Thorn, the lost letter of \"Ye Olde\"",
+  "category": "Language",
+  "hook": "The \"ye\" in \"Ye Olde\" was never meant to be read with a y sound.",
+  "peek": "\"Ye Olde Tea Shoppe\" was never pronounced with a y. The \"ye\" is \"the\", written with thorn, an old English letter for the th sound. Early printers lacked it and swapped in a y, which looked similar.",
+  "lede": "Old English had a letter for the th sound: þ, called thorn. In handwriting it gradually came to look a lot like a y. When printing reached England in the fifteenth century, type cast for other European languages had no thorn, so printers used y in its place. \"Ye\" in old texts is simply \"the\", and it was said that way.",
+  "bullets": [
+    {
+      "opening": "Ye Olde",
+      "linkId": null,
+      "text": "Fake-archaic shop names such as \"Ye Olde Tea Shoppe\" became popular centuries later, as a playful nod to the past. Most people now say \"yee\", but a fifteenth-century reader seeing that word would have said \"the\"."
+    },
+    {
+      "opening": "Ye, the pronoun",
+      "linkId": null,
+      "text": "There was also a genuine separate word \"ye\", meaning you, as in \"hear ye\". It comes from a different root and was said with a y, which helped the confusion stick."
+    },
+    {
+      "opening": "Icelandic thorn",
+      "linkId": null,
+      "text": "Thorn has not vanished everywhere. Icelandic still uses it in everyday writing, along with its cousin eth, ð, which English also once used for the same th sounds."
+    },
+    {
+      "opening": "Spelling and the vowel shift",
+      "linkId": "great-vowel-shift",
+      "text": "Early printers helped fix English spelling at the same time that the sound of its long vowels was changing. Many oddities of written English date from that period."
+    },
+    {
+      "opening": "Wynn and other lost letters",
+      "linkId": null,
+      "text": "English also dropped wynn, ƿ, for the w sound, which scribes gradually replaced with w, and yogh, ȝ, used for sounds like the old one in \"night\"."
+    },
+    {
+      "opening": "Typefaces shape language",
+      "linkId": "helvetica",
+      "text": "The thorn story is a reminder that the tools of type, from medieval metal sorts to modern fonts like Helvetica, quietly shape how words look."
+    }
+  ],
+  "tags": [
+    "etymology",
+    "language-change",
+    "design",
+    "myths-busted"
+  ],
+  "related": [
+    "great-vowel-shift",
+    "dord",
+    "helvetica",
+    "ok-origin",
+    "oxford-aztecs"
+  ]
+}

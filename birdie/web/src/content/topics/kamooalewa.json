@@ -1,0 +1,52 @@
+{
+  "id": "kamooalewa",
+  "title": "Kamoʻoalewa, Earth's quasi-moon",
+  "category": "Space",
+  "hook": "A small asteroid loops around Earth and may be a chip off the Moon.",
+  "peek": "Kamoʻoalewa is a small asteroid that orbits the Sun in step with Earth, so from here it seems to circle us. Its colour looks like Moon rock, and many scientists now think it is a piece of the Moon.",
+  "lede": "In 2016 the Pan-STARRS telescope on Haleakalā, Hawaii, found a small asteroid, probably somewhere between 40 and 100 metres across. It orbits the Sun, not Earth, but its orbit is so close to ours that it seems to loop around us year after year. Astronomers call this a quasi-satellite. Its Hawaiian name refers to a moving celestial fragment.",
+  "bullets": [
+    {
+      "opening": "A chip off the Moon",
+      "linkId": "moon-drifting",
+      "text": "In 2021 astronomers found its reflected light matched weathered Moon rock better than typical asteroids. A later study suggested it could have been knocked loose by the impact that made the Giordano Bruno crater."
+    },
+    {
+      "opening": "Quasi-satellites",
+      "linkId": null,
+      "text": "A quasi-satellite shares a planet's orbital period, drifting slightly inside and outside its path. Kamoʻoalewa is expected to keep this dance going for centuries before it wanders off."
+    },
+    {
+      "opening": "Tianwen-2",
+      "linkId": null,
+      "text": "China's Tianwen-2 mission, launched in 2025, is designed to collect a sample from Kamoʻoalewa and bring it back to Earth, which could settle where it came from."
+    },
+    {
+      "opening": "3753 Cruithne",
+      "linkId": null,
+      "text": "This asteroid is often called Earth's second moon, but it is not one. It follows a looping path in step with Earth and never orbits our planet."
+    },
+    {
+      "opening": "A name born of a misreading",
+      "linkId": "dord",
+      "text": "Venus has a quasi-satellite too, named Zoozve after a misread label on a solar system poster. The International Astronomical Union made the accidental name official."
+    },
+    {
+      "opening": "Venus's slow spin",
+      "linkId": "venus-day",
+      "text": "Venus is odd in other ways as well. It turns so slowly that a single rotation takes longer than its trip around the Sun."
+    }
+  ],
+  "tags": [
+    "space-exploration",
+    "names",
+    "scale"
+  ],
+  "related": [
+    "moon-drifting",
+    "venus-day",
+    "dord",
+    "pale-blue-dot",
+    "saturn-hexagon"
+  ]
+}

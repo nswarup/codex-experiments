@@ -1,0 +1,53 @@
+{
+  "id": "pale-blue-dot",
+  "title": "The Pale Blue Dot",
+  "category": "Space",
+  "hook": "From six billion kilometres away, Earth is smaller than a single pixel.",
+  "peek": "In 1990 Voyager 1 turned its camera back toward home and photographed Earth from about six billion kilometres away. Our whole planet shows up as a speck caught in a band of scattered sunlight.",
+  "lede": "On 14 February 1990, Voyager 1 was about six billion kilometres from the Sun when it turned its camera around. It took a series of images of the planets, a family portrait of the solar system. In one frame, Earth is a pale speck taking up less than a pixel, sitting in a streak of sunlight scattered inside the camera.",
+  "bullets": [
+    {
+      "opening": "Carl Sagan's campaign",
+      "linkId": null,
+      "text": "Sagan pushed NASA for years to take the photo. Some argued it had little scientific value and that pointing the camera near the Sun risked damaging it. Soon after, Voyager's cameras were switched off for good to save power."
+    },
+    {
+      "opening": "The 1994 book",
+      "linkId": null,
+      "text": "Sagan named his book Pale Blue Dot after the image. Writing about the speck, he said: \"That's here. That's home. That's us.\" The passage is among the most quoted things he ever wrote."
+    },
+    {
+      "opening": "The Golden Record",
+      "linkId": "golden-record",
+      "text": "Voyager 1 also carries a gold-plated record of music, greetings and images from Earth, which Sagan helped assemble. The photo looks back home, while the record carries home outward."
+    },
+    {
+      "opening": "The Earth from orbit",
+      "linkId": "overview-effect",
+      "text": "Astronauts often describe a deep shift in perspective when they see Earth hanging in space. The Pale Blue Dot offers a distant, much smaller version of that view."
+    },
+    {
+      "opening": "Earthrise",
+      "linkId": null,
+      "text": "In 1968 the Apollo 8 crew photographed Earth rising over the Moon's horizon. It is the close-up companion to Voyager's long-distance shot."
+    },
+    {
+      "opening": "The Day the Earth Smiled",
+      "linkId": null,
+      "text": "In 2013 NASA's Cassini spacecraft photographed Earth from behind Saturn, and people were invited to wave at the sky at the moment it was taken."
+    }
+  ],
+  "tags": [
+    "space-exploration",
+    "scale",
+    "light",
+    "perception"
+  ],
+  "related": [
+    "golden-record",
+    "overview-effect",
+    "olbers-paradox",
+    "moon-drifting",
+    "saturn-hexagon"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "tulip-mania",
+  "title": "Tulip mania",
+  "category": "History",
+  "hook": "The 1630s tulip craze was real, but the legend of a ruined nation is not.",
+  "peek": "In the Dutch Republic of the 1630s, rare tulip bulbs changed hands for huge sums before prices collapsed in 1637. The popular story of widespread ruin comes mostly from a book written two centuries later.",
+  "lede": "In the 1630s, tulips were the luxury of the Dutch Republic, and prices for rare bulbs climbed through the winter of 1636 to 1637. Then, in February 1637, buyers stopped turning up and prices collapsed. That much is true. The tale of a whole country gambling its houses on flowers and going broke is much harder to find in the records.",
+  "bullets": [
+    {
+      "opening": "Charles Mackay's Madness of Crowds",
+      "linkId": null,
+      "text": "Most of the famous anecdotes come from Charles Mackay's 1841 book on popular delusions. He drew on moralising pamphlets from the time, and some of his stories, like the sailor who ate a priceless bulb thinking it was an onion, are probably not true."
+    },
+    {
+      "opening": "Anne Goldgar's archive work",
+      "linkId": null,
+      "text": "Modern historians, notably Anne Goldgar, searched Dutch records and found no wave of bankruptcies. The trade involved a fairly small circle of merchants and artisans, and many contracts were simply never paid."
+    },
+    {
+      "opening": "Broken tulips",
+      "linkId": null,
+      "text": "The most prized bulbs had flamed, feathered petals. It was later found that a plant virus caused the pattern, which also weakened the bulbs, making them rarer still."
+    },
+    {
+      "opening": "Clusius's garden in Leiden",
+      "linkId": null,
+      "text": "Tulips came to Europe from the Ottoman Empire. The botanist Carolus Clusius grew them at Leiden's botanical garden from the 1590s and helped make them fashionable."
+    },
+    {
+      "opening": "Luxury on display",
+      "linkId": "pineapple-status",
+      "text": "Tulips are one chapter in a long history of status objects. In 18th-century Britain, pineapples were so prized that, by some accounts, people rented one to show off at a party."
+    },
+    {
+      "opening": "Myths that stick",
+      "linkId": "napoleon-height",
+      "text": "Like the story of Napoleon's height, the tulip legend lasts because it makes a good moral tale, and it keeps being retold even after the evidence has moved on."
+    }
+  ],
+  "tags": [
+    "myths-busted",
+    "flowers",
+    "history-of-things",
+    "money"
+  ],
+  "related": [
+    "pineapple-status",
+    "napoleon-height",
+    "eleven-days-1752",
+    "perkin-mauve",
+    "landlords-game"
+  ]
+}

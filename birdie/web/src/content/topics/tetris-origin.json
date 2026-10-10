@@ -1,0 +1,52 @@
+{
+  "id": "tetris-origin",
+  "title": "Tetris's Soviet origin",
+  "category": "Games",
+  "hook": "The world's best-known puzzle game was written at a Soviet research institute.",
+  "peek": "Tetris was created in 1984 by Alexey Pajitnov, a researcher at a Soviet computing centre in Moscow. It spread on copied floppy disks, sparked a tangled fight over the rights, and earned its inventor nothing for years.",
+  "lede": "In 1984 Alexey Pajitnov was working at the Dorodnitsyn Computing Centre of the Soviet Academy of Sciences in Moscow, testing a computer called the Electronika 60. In his spare time he wrote a puzzle game where falling shapes fill rows that then vanish. The machine had no graphics, so the first pieces were drawn with brackets and other text characters.",
+  "bullets": [
+    {
+      "opening": "Pentominoes",
+      "linkId": null,
+      "text": "Pajitnov was inspired by pentomino puzzles, made from shapes of five squares. He used four-square pieces instead, which gave seven shapes that were simpler to rotate on screen."
+    },
+    {
+      "opening": "Tetra plus tennis",
+      "linkId": null,
+      "text": "The name joins tetra, Greek for four, with tennis, Pajitnov's favourite sport. Pajitnov did not receive royalties until 1996, when he and Henk Rogers set up The Tetris Company."
+    },
+    {
+      "opening": "A rights tangle",
+      "linkId": null,
+      "text": "Copies travelled across the Soviet Union and then to the West. Because software belonged to the state, rights had to be negotiated through a state agency, and several companies ended up believing they owned the same game."
+    },
+    {
+      "opening": "The Game Boy bundle",
+      "linkId": null,
+      "text": "Henk Rogers, a Dutch-born game designer, secured handheld rights for Nintendo. Tetris came packaged with the Game Boy in North America in 1989, along with a Russian folk tune, Korobeiniki, as its music."
+    },
+    {
+      "opening": "The Tetris effect",
+      "linkId": "tetris-effect",
+      "text": "Play long enough and you may see falling blocks when you close your eyes. Psychologists borrowed the game's name for that after-image."
+    },
+    {
+      "opening": "Simple games, wide reach",
+      "linkId": "pac-man-name",
+      "text": "Tetris, like Pac-Man a few years earlier, showed that a game built on one clear idea could reach people who had never thought of themselves as players."
+    }
+  ],
+  "tags": [
+    "games",
+    "inventors",
+    "history-of-things"
+  ],
+  "related": [
+    "tetris-effect",
+    "pac-man-name",
+    "gods-number",
+    "landlords-game",
+    "shannon-number"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "oxford-aztecs",
+  "title": "Oxford is older than the Aztecs",
+  "category": "History",
+  "hook": "Students were studying at Oxford before the Aztecs founded Tenochtitlan.",
+  "peek": "Teaching at Oxford was under way by 1096. The Aztec capital of Tenochtitlan, now Mexico City, was founded in 1325, more than two centuries later. The comparison scrambles our sense of what counts as old.",
+  "lede": "We often picture the Aztecs as ancient and English universities as relatively recent. The dates say otherwise. Teaching was going on at Oxford by 1096, and it grew quickly after 1167. The Aztec capital, Tenochtitlan, was founded in 1325, more than 200 years later, according to the traditional date. The Aztec Empire itself took shape only in 1428.",
+  "bullets": [
+    {
+      "opening": "No founding date",
+      "linkId": null,
+      "text": "Oxford has no single founding moment or charter to point to. Scholars gathered there gradually, and the university itself simply says there was teaching in some form by 1096."
+    },
+    {
+      "opening": "Henry II's ban",
+      "linkId": null,
+      "text": "Oxford grew fast after 1167, when Henry II stopped English students from attending the University of Paris. Many came home and settled in Oxford, turning a scattering of teachers into a proper centre of learning."
+    },
+    {
+      "opening": "Cambridge's breakaway",
+      "linkId": null,
+      "text": "In 1209, after a clash with the townspeople of Oxford, a group of scholars left and set up in Cambridge. That is how England's second university began."
+    },
+    {
+      "opening": "Tenochtitlan on the lake",
+      "linkId": null,
+      "text": "The Mexica founded their city on an island in Lake Texcoco, with causeways and floating gardens called chinampas. Within two centuries it had become one of the largest cities in the world."
+    },
+    {
+      "opening": "Changing English",
+      "linkId": "great-vowel-shift",
+      "text": "Oxford's early scholars wrote mostly in Latin, and the English spoken around them would sound strange today. The Great Vowel Shift changed how English vowels were pronounced over the following centuries."
+    },
+    {
+      "opening": "Timelines that surprise",
+      "linkId": "cleopatra-timeline",
+      "text": "Overlaps like this are everywhere once you start looking. Cleopatra lived closer in time to the Moon landing than to the building of the Great Pyramid."
+    }
+  ],
+  "tags": [
+    "time",
+    "history-of-things",
+    "universities",
+    "scale"
+  ],
+  "related": [
+    "cleopatra-timeline",
+    "great-vowel-shift",
+    "letter-thorn",
+    "eleven-days-1752",
+    "pando"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "golden-record",
+  "title": "The Voyager Golden Record",
+  "category": "Space",
+  "hook": "Two gold records are leaving the solar system with Chuck Berry on board.",
+  "peek": "Each Voyager spacecraft carries a gold-plated record of sounds and images from Earth, with instructions for playing it. They launched in 1977 and are now in interstellar space, a message to anyone who might ever find them.",
+  "lede": "When NASA launched Voyager 1 and 2 in 1977, each carried a 12-inch gold-plated copper phonograph record. A committee chaired by Carl Sagan chose what went on it: greetings in 55 languages, about 90 minutes of music, natural sounds and over a hundred images encoded as audio. The cover explains, in pictures, how to play it and where it came from.",
+  "bullets": [
+    {
+      "opening": "Johnny B. Goode",
+      "linkId": null,
+      "text": "The music ranges from Bach and Beethoven to Javanese gamelan, Navajo chant, Blind Willie Johnson's Dark Was the Night and Chuck Berry. Ann Druyan, the project's creative director, helped choose the tracks."
+    },
+    {
+      "opening": "The pulsar map",
+      "linkId": null,
+      "text": "The cover shows the Sun's position relative to 14 pulsars, each marked with its pulse rate. A finder could, in principle, work out where and roughly when the record came from."
+    },
+    {
+      "opening": "Uranium on the cover",
+      "linkId": null,
+      "text": "A small patch of uranium-238 is plated onto the cover. Because it decays at a known rate, it works as a clock that could reveal how long the record has been travelling."
+    },
+    {
+      "opening": "Whale greetings",
+      "linkId": "dolphin-names",
+      "text": "Among the hellos is a recording of humpback whale song, placed with the human greetings. It is an early nod to the idea that other animals communicate in rich ways too."
+    },
+    {
+      "opening": "Voyager's last look home",
+      "linkId": "pale-blue-dot",
+      "text": "In 1990 Voyager 1, carrying one of the records, turned its camera back and photographed Earth as a tiny dot. Sagan pushed for both projects."
+    },
+    {
+      "opening": "Seeing Earth whole",
+      "linkId": "overview-effect",
+      "text": "The record is a self-portrait of a planet, made by people trying to see Earth from outside. Astronauts describe a similar shift in perspective when they actually do."
+    }
+  ],
+  "tags": [
+    "space-exploration",
+    "records",
+    "communication",
+    "music-tech"
+  ],
+  "related": [
+    "pale-blue-dot",
+    "overview-effect",
+    "dolphin-names",
+    "olbers-paradox",
+    "silbo-gomero"
+  ]
+}

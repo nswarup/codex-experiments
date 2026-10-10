@@ -1,0 +1,53 @@
+{
+  "id": "theremin",
+  "title": "The theremin",
+  "category": "Music",
+  "hook": "An instrument you play without touching, by moving your hands through the air.",
+  "peek": "The theremin, invented in Russia around 1920, makes music from the space between your hands and two metal antennas. It gave old science fiction films their eerie wail and set a teenage Robert Moog on the path to the synthesizer.",
+  "lede": "Around 1920 a young Russian physicist, Lev Termen, was working on a device to measure gases when he noticed that his hand near the circuit changed the pitch of a tone. He turned the effect into an instrument. The player stands in front of it and never touches it: one hand shapes the pitch, the other the volume.",
+  "bullets": [
+    {
+      "opening": "Two antennas",
+      "linkId": null,
+      "text": "A vertical rod controls pitch and a horizontal loop controls loudness. Your body changes the electrical field around each antenna, so moving a hand a few centimetres moves the note. With no frets or keys, playing in tune takes great skill."
+    },
+    {
+      "opening": "Clara Rockmore",
+      "linkId": null,
+      "text": "A violinist turned thereminist, Rockmore became its great virtuoso in the 1930s and 1940s. She worked with Termen on refinements and showed it could play classical music with real precision."
+    },
+    {
+      "opening": "The sound of 1950s sci-fi",
+      "linkId": null,
+      "text": "Film composers used the theremin's gliding, voice-like tone for unease, from Miklós Rózsa's Spellbound to Bernard Herrmann's The Day the Earth Stood Still. It became shorthand for the strange."
+    },
+    {
+      "opening": "Robert Moog's first instruments",
+      "linkId": null,
+      "text": "Before the synthesizer that bears his name, Moog began building theremins as a teenager and later sold them as kits. Ideas from that work fed directly into his later instruments."
+    },
+    {
+      "opening": "Early electronic illusions",
+      "linkId": "shepard-tone",
+      "text": "The theremin was one of the first instruments to make sound from circuits alone. Later experiments with electronic sound, such as the Shepard tone from Bell Labs, grew from the same freedom to shape a tone at will."
+    },
+    {
+      "opening": "A Soviet invention abroad",
+      "linkId": "tetris-origin",
+      "text": "Termen took his instrument to the United States in the late 1920s, and RCA briefly sold a commercial model. Decades later another Soviet creation, Tetris, made a similar journey west."
+    }
+  ],
+  "tags": [
+    "music-tech",
+    "inventors",
+    "acoustics",
+    "accidents"
+  ],
+  "related": [
+    "shepard-tone",
+    "amen-break",
+    "tetris-origin",
+    "golden-record",
+    "stradivarius"
+  ]
+}

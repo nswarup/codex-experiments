@@ -1,0 +1,53 @@
+{
+  "id": "tuxedo-park",
+  "title": "The tuxedo's name",
+  "category": "Clothing",
+  "hook": "The tuxedo is named after a private enclave in the hills of New York.",
+  "peek": "Americans call it a tuxedo, the British a dinner jacket and the French le smoking. The American name comes from Tuxedo Park, a private club community north of New York City, though the story of how is disputed.",
+  "lede": "Tuxedo Park was founded in 1886 by the tobacco heir Pierre Lorillard IV as an exclusive retreat about 40 miles northwest of Manhattan. Around then, some young men there began wearing short black dinner jackets instead of tailcoats to evening events. The style became known as the Tuxedo coat. Exactly who wore it first depends on which story you believe.",
+  "bullets": [
+    {
+      "opening": "Griswold Lorillard",
+      "linkId": null,
+      "text": "One version says Lorillard's son Griswold and his friends wore tailless jackets to the Tuxedo Club's autumn ball in 1886. It is the best-known version, but the details are mostly from later retellings."
+    },
+    {
+      "opening": "James Brown Potter",
+      "linkId": null,
+      "text": "A rival story says Potter, a Tuxedo Park resident, was told what to wear to dinner with the Prince of Wales in England, had a jacket made in London, and brought the idea home."
+    },
+    {
+      "opening": "Henry Poole of Savile Row",
+      "linkId": null,
+      "text": "This London tailor says it made a short evening jacket for the Prince of Wales, later Edward VII, in the 1860s. That would make the style British, with an American name."
+    },
+    {
+      "opening": "The smoking jacket",
+      "linkId": null,
+      "text": "The short jacket descends from the jacket men wore to smoke after dinner, which kept the smell off their tailcoats. That is why French and several other languages simply call a tuxedo a smoking."
+    },
+    {
+      "opening": "Neckwear with a name",
+      "linkId": "cravat-tie",
+      "text": "The bow tie worn with a tuxedo descends from the cravat, which also took its name from a group of people: Croatian soldiers in 17th-century France."
+    },
+    {
+      "opening": "Named after a place",
+      "linkId": "sandwich-earl",
+      "text": "Plenty of everyday words began as names. The sandwich is named after an earl, the tuxedo after a town, and both names stuck long after the people involved were forgotten."
+    }
+  ],
+  "tags": [
+    "fashion",
+    "names",
+    "etymology",
+    "history-of-things"
+  ],
+  "related": [
+    "cravat-tie",
+    "sandwich-earl",
+    "buttons-sides",
+    "heels-for-men",
+    "ok-origin"
+  ]
+}

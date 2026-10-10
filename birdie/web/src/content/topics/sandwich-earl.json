@@ -1,0 +1,53 @@
+{
+  "id": "sandwich-earl",
+  "title": "The Earl of Sandwich",
+  "category": "Food",
+  "hook": "A busy 18th-century earl lent his title to the world's easiest lunch.",
+  "peek": "People had eaten food between slices of bread for ages, but the name comes from John Montagu, the 4th Earl of Sandwich. The famous story about why he wanted one may not be true.",
+  "lede": "People were putting food between slices of bread long before the 1700s. The name came from John Montagu, the 4th Earl of Sandwich, a British politician who lived from 1718 to 1792. The story goes that he asked for meat between bread so he could eat without leaving his work or the table. By the 1760s, other people were ordering a sandwich too.",
+  "bullets": [
+    {
+      "opening": "The card table story",
+      "linkId": null,
+      "text": "The famous version, that he would not leave a long card game, comes from the French writer Pierre-Jean Grosley, who visited London in 1765. The biographer N.A.M. Rodger thought it more likely he ate at his desk."
+    },
+    {
+      "opening": "First Lord of the Admiralty",
+      "linkId": null,
+      "text": "Montagu ran Britain's navy for years and backed Captain James Cook's Pacific voyages. A busy desk job fits the image of a man who needed food he could hold in one hand."
+    },
+    {
+      "opening": "The Sandwich Islands",
+      "linkId": null,
+      "text": "Cook named the Hawaiian islands the Sandwich Islands in 1778 in honour of his patron. The name faded during the 1800s, and Hawaii is used today."
+    },
+    {
+      "opening": "Sandwich in Kent",
+      "linkId": null,
+      "text": "The title comes from a small town in Kent whose name means something like sandy harbour in Old English. So the snack is, in a roundabout way, named after a beach."
+    },
+    {
+      "opening": "Words from people and places",
+      "linkId": "tuxedo-park",
+      "text": "The sandwich joins the tuxedo, named after a New York town, in a long list of everyday things whose names point back to a place or a person almost no one thinks about."
+    },
+    {
+      "opening": "Dishes named after people",
+      "linkId": "caesar-salad",
+      "text": "The Caesar salad is a newer example. Unlike the earl, Caesar Cardini was a working chef who made the dish himself, and his name stuck the same way."
+    }
+  ],
+  "tags": [
+    "food-history",
+    "names",
+    "etymology",
+    "history-of-things"
+  ],
+  "related": [
+    "caesar-salad",
+    "tuxedo-park",
+    "ok-origin",
+    "croissant-origin",
+    "pineapple-status"
+  ]
+}

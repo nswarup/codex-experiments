@@ -1,0 +1,48 @@
+{
+  "id": "amen-break",
+  "title": "The Amen break",
+  "category": "Music",
+  "hook": "Six seconds of drumming from a 1969 B-side that built whole genres.",
+  "peek": "A short drum solo on a 1969 soul B-side became one of the most sampled recordings ever made. It shaped hip hop, then jungle and drum and bass, while the band that recorded it earned almost nothing from it.",
+  "lede": "In 1969 a Washington, D.C. soul group called The Winstons put out a single called \"Color Him Father\". On the B-side was an instrumental, \"Amen, Brother\", and in the middle of it the drummer, Gregory Coleman, played a solo of four bars lasting about six seconds. Those six seconds went on to appear in thousands of other records.",
+  "bullets": [
+    {
+      "opening": "Hip hop breakbeats",
+      "linkId": null,
+      "text": "DJs in the 1980s looped drum breaks from old funk and soul records so rappers had a beat to talk over. Early samplers made the Amen easy to grab, and it turned up on tracks such as N.W.A's \"Straight Outta Compton\"."
+    },
+    {
+      "opening": "Jungle and drum and bass",
+      "linkId": null,
+      "text": "In early-1990s Britain, producers sped the break up, chopped it into single hits and rearranged them into fast, skittering patterns. Whole scenes were built on re-cutting this one recording."
+    },
+    {
+      "opening": "Who gets paid for a sample",
+      "linkId": "happy-birthday-copyright",
+      "text": "The Winstons' leader, Richard L. Spencer, owned the rights but said he never received royalties from the many records that used it. Sampling law was loose for years, and many early uses were never cleared."
+    },
+    {
+      "opening": "A crowdfunded thank-you",
+      "linkId": null,
+      "text": "In 2015 two British DJs started an online fundraiser for Spencer, and it raised about £24,000 from fans and producers. He was grateful, though he had long felt the break was used without permission."
+    },
+    {
+      "opening": "Loops that never end",
+      "linkId": "shepard-tone",
+      "text": "Part of the break's power is how well it loops: the last hit leads cleanly back into the first. Like other looping tricks in electronic music, it can run for minutes without the ear noticing a seam."
+    }
+  ],
+  "tags": [
+    "music-tech",
+    "records",
+    "sampling",
+    "accidents"
+  ],
+  "related": [
+    "happy-birthday-copyright",
+    "shepard-tone",
+    "theremin",
+    "cage-433",
+    "golden-record"
+  ]
+}

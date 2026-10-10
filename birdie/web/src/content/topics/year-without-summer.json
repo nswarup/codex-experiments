@@ -1,0 +1,48 @@
+{
+  "id": "year-without-summer",
+  "title": "1816, the year without a summer",
+  "category": "History",
+  "hook": "A cold, gloomy 1816 gave us Frankenstein, an early bicycle and glowing skies.",
+  "peek": "A volcanic eruption in Indonesia in 1815 cooled much of the northern world the next year. The gloomy summer of 1816 kept Mary Shelley indoors by Lake Geneva, where she began Frankenstein, and set off other surprising inventions.",
+  "lede": "In April 1815, Mount Tambora in Indonesia erupted in the largest volcanic blast in recorded history. Its haze spread around the globe, and in 1816 much of Europe and North America had a cold, wet summer, with failed harvests in many places. That strange year also left a trail of creativity, from a famous novel to an early form of the bicycle.",
+  "bullets": [
+    {
+      "opening": "The Villa Diodati ghost story contest",
+      "linkId": null,
+      "text": "Rain kept Lord Byron, Percy Shelley, Mary Godwin and John Polidori indoors by Lake Geneva in June 1816. Byron suggested they each write a ghost story. Mary's became Frankenstein, published in 1818."
+    },
+    {
+      "opening": "Karl Drais's running machine",
+      "linkId": null,
+      "text": "In 1817, Karl Drais rode a two-wheeled running machine in Mannheim, pushing along with his feet. One theory, debated by historians, is that costly oats for horses in 1816 spurred him on."
+    },
+    {
+      "opening": "Turner's sunsets",
+      "linkId": null,
+      "text": "Volcanic haze makes sunsets redder and more vivid. A 2014 study of paintings found that skies in works from the years after big eruptions, including J. M. W. Turner's, tend to be redder."
+    },
+    {
+      "opening": "Snow in June",
+      "linkId": "snowflake-bentley",
+      "text": "New England saw snow in June 1816, and farmers there called the year Eighteen Hundred and Froze to Death. Vermont, later home to the snowflake photographer Wilson Bentley, was among the places it fell."
+    },
+    {
+      "opening": "Rainbows and red skies",
+      "linkId": "rainbow-circles",
+      "text": "Rainbows come from sunlight bending inside raindrops. The glowing skies of those years came from a different effect: fine volcanic particles high in the air scattered sunlight and left sunsets rich in reds and oranges."
+    }
+  ],
+  "tags": [
+    "weather",
+    "accidents",
+    "inventors",
+    "light"
+  ],
+  "related": [
+    "snowflake-bentley",
+    "rainbow-circles",
+    "eleven-days-1752",
+    "harrison-clocks",
+    "morning-glory-clouds"
+  ]
+}

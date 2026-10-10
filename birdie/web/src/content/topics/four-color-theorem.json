@@ -1,0 +1,53 @@
+{
+  "id": "four-color-theorem",
+  "title": "The four color theorem",
+  "category": "Math",
+  "hook": "Four colors are enough for any map, and proving it took over a century and a computer.",
+  "peek": "Any flat map can be colored with just four colors so that no two neighbouring regions match. The idea was posed in 1852 and only proved in 1976, with a computer checking cases no person could, which made some mathematicians uneasy.",
+  "lede": "In 1852 a young Englishman, Francis Guthrie, was coloring a map of English counties and noticed he never needed more than four colors to keep neighbours different. He wondered if that held for every map. It does, but the proof took until 1976, and it was the first major theorem that relied on a computer to finish the job.",
+  "bullets": [
+    {
+      "opening": "Kempe's false proof",
+      "linkId": null,
+      "text": "In 1879 the barrister Alfred Kempe published a proof that was accepted for 11 years. In 1890 Percy Heawood found a flaw, though Kempe's method still showed that five colors are always enough."
+    },
+    {
+      "opening": "Appel and Haken's computer",
+      "linkId": null,
+      "text": "Kenneth Appel and Wolfgang Haken at the University of Illinois cut the problem down to nearly 2,000 special cases and had a computer check each one, using over 1,000 hours of machine time."
+    },
+    {
+      "opening": "A proof nobody could read",
+      "linkId": null,
+      "text": "Many mathematicians disliked a proof too long to check by hand. Confidence grew as others re-checked it, and in 2005 Georges Gonthier verified it fully with proof-checking software."
+    },
+    {
+      "opening": "The rules of the game",
+      "linkId": "baarle",
+      "text": "Each region must be one connected piece, and touching at a single corner does not count as neighbours. Countries split into scattered pieces, like the patchwork of enclaves at Baarle, break that rule and can need more colors."
+    },
+    {
+      "opening": "Graph theory",
+      "linkId": "konigsberg-bridges",
+      "text": "Mathematicians turn a map into dots for regions and lines for shared borders. This way of thinking goes back to Euler's puzzle about the bridges of Königsberg."
+    },
+    {
+      "opening": "Map coloring in atlases",
+      "linkId": null,
+      "text": "Cartographers rarely cared. Real atlases use many colors for clarity, and the question was always more about the hidden structure of flat surfaces than about saving ink."
+    }
+  ],
+  "tags": [
+    "maps",
+    "borders",
+    "proofs",
+    "graph-theory"
+  ],
+  "related": [
+    "konigsberg-bridges",
+    "baarle",
+    "gods-number",
+    "hilberts-hotel",
+    "bir-tawil"
+  ]
+}

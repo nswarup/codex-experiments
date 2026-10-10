@@ -1,0 +1,249 @@
+@import "tailwindcss";
+@import "@fontsource-variable/literata/opsz.css";
+@import "@fontsource-variable/literata/opsz-italic.css";
+@import "@fontsource/ibm-plex-mono/400.css";
+@import "@fontsource/ibm-plex-mono/500.css";
+
+/* ------------------------------------------------------------------ */
+/* Themes: Kindle-like, warm, never pure white text or blue links.    */
+/* ------------------------------------------------------------------ */
+:root,
+[data-theme="dark"] {
+  --bg: #121212;
+  --text: #cfc8ba;
+  --strong: #e2dbcd;
+  --muted: #9a9284;
+  --dot: #7e7666;
+  --line: #2a2825;
+  --card: #1a1917;
+  --sheet: #1c1b19;
+  --sheet-line: #2e2c28;
+  --inset: #252320;
+  --accent: #cfc8ba;
+  --accent-fg: #121212;
+  --chip: #4a463f;
+  --hl: #4a4232;
+  --hl-text: #f0e9db;
+  --scrim: rgba(0, 0, 0, 0.6);
+  --shadow: 0 10px 30px rgba(0, 0, 0, 0.45), 0 1px 0 rgba(255, 255, 255, 0.03) inset;
+  color-scheme: dark;
+}
+[data-theme="sepia"] {
+  --bg: #f4ecd8;
+  --text: #5b4636;
+  --strong: #3f2f22;
+  --muted: #7a6550;
+  --dot: #a08c72;
+  --line: #e2d6bc;
+  --card: #efe4cc;
+  --sheet: #f8f1e1;
+  --sheet-line: #e2d6bc;
+  --inset: #ebdfc4;
+  --accent: #5b4636;
+  --accent-fg: #f8f1e1;
+  --chip: #cdbb9c;
+  --hl: #e8d3a2;
+  --hl-text: #3f2f22;
+  --scrim: rgba(60, 42, 25, 0.35);
+  --shadow: 0 10px 30px rgba(91, 70, 54, 0.18);
+  color-scheme: light;
+}
+[data-theme="light"] {
+  --bg: #fbfaf7;
+  --text: #1c1c1c;
+  --strong: #111111;
+  --muted: #5f5b55;
+  --dot: #9c968c;
+  --line: #e8e5df;
+  --card: #f4f2ee;
+  --sheet: #ffffff;
+  --sheet-line: #e8e5df;
+  --inset: #f1eee8;
+  --accent: #1c1c1c;
+  --accent-fg: #fbfaf7;
+  --chip: #d6d2ca;
+  --hl: #f2e3b5;
+  --hl-text: #111111;
+  --scrim: rgba(20, 18, 15, 0.3);
+  --shadow: 0 10px 30px rgba(20, 18, 15, 0.12);
+  color-scheme: light;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-text: var(--text);
+  --color-strong: var(--strong);
+  --color-muted: var(--muted);
+  --color-dot: var(--dot);
+  --color-line: var(--line);
+  --color-card: var(--card);
+  --color-sheet: var(--sheet);
+  --color-sheet-line: var(--sheet-line);
+  --color-inset: var(--inset);
+  --color-accent: var(--accent);
+  --color-accent-fg: var(--accent-fg);
+  --color-chip: var(--chip);
+  --color-hl: var(--hl);
+  --font-serif: "Literata Variable", "Literata", Georgia, "Times New Roman", serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+  --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+  --ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
+  --ease-drawer: cubic-bezier(0.32, 0.72, 0, 1);
+}
+
+:root {
+  /* Reading settings, set from JS. */
+  --read-size: 18px;
+  --read-leading: 1.6;
+}
+
+/* ------------------------------------------------------------------ */
+/* Mobile-native baseline (Emil Kowalski's mobile-native checklist).  */
+/* ------------------------------------------------------------------ */
+html {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-text-size-adjust: 100%;
+  overscroll-behavior: none;
+  background: var(--bg);
+}
+html,
+body,
+#root {
+  height: 100%;
+}
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-serif);
+  font-optical-sizing: auto;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  transition: background-color 240ms ease, color 240ms ease;
+}
+input,
+textarea,
+select {
+  font-size: 16px;
+  font-family: inherit;
+}
+button,
+a,
+[role="button"] {
+  touch-action: manipulation;
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+}
+::selection {
+  background: var(--hl);
+  color: var(--hl-text);
+}
+@layer base {
+  :focus-visible {
+    outline: 2px solid var(--muted);
+    outline-offset: 2px;
+  }
+}
+
+/* Pressable feedback: instant on press, eases back on release. */
+.press {
+  transition: transform 160ms var(--ease-out), background-color 160ms ease, color 160ms ease, border-color 160ms ease, opacity 160ms ease;
+}
+.press:active {
+  transform: scale(0.97);
+}
+
+/* The dotted, tappable bullet opening. */
+.opening {
+  display: inline;
+  padding: 0;
+  font-weight: 600;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  color: var(--strong);
+  text-align: left;
+  cursor: pointer;
+  text-decoration: underline dotted;
+  text-decoration-color: var(--dot);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 5px;
+  transition: text-decoration-color 160ms ease, color 160ms ease, background-color 160ms ease;
+  border-radius: 4px;
+  /* openings live inside selectable article text; keep them tappable, not selectable */
+}
+.opening:active {
+  background: color-mix(in oklab, var(--hl) 55%, transparent);
+}
+@media (hover: hover) and (pointer: fine) {
+  .opening:hover {
+    text-decoration-color: var(--strong);
+  }
+  .card-hover:hover {
+    border-color: var(--chip);
+  }
+}
+
+.article {
+  font-size: var(--read-size);
+  line-height: var(--read-leading);
+}
+
+/* Skeleton shimmer for writing state (linear, constant motion). */
+.shimmer {
+  background: linear-gradient(90deg, var(--inset) 0%, color-mix(in oklab, var(--inset) 60%, var(--line)) 50%, var(--inset) 100%);
+  background-size: 200% 100%;
+  animation: shimmer 1.4s linear infinite;
+}
+@keyframes shimmer {
+  from {
+    background-position: 100% 0;
+  }
+  to {
+    background-position: -100% 0;
+  }
+}
+
+.caret::after {
+  content: "";
+  display: inline-block;
+  width: 2px;
+  height: 1.05em;
+  margin-left: 3px;
+  vertical-align: -0.15em;
+  background: currentColor;
+  animation: blink 1s steps(1) infinite;
+}
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
+}
+
+.no-scrollbar {
+  scrollbar-width: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Vaul drawer: themed surface. */
+[data-vaul-drawer] {
+  background: var(--sheet);
+}
+[data-vaul-overlay] {
+  background: var(--scrim) !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 1ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+  }
+  .press:active {
+    transform: none;
+  }
+}

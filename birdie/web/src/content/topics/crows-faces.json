@@ -1,0 +1,48 @@
+{
+  "id": "crows-faces",
+  "title": "Crows remember faces",
+  "category": "Animals",
+  "hook": "Crows can recognise a single human face and tell their friends about it.",
+  "peek": "Researchers in Seattle wore masks while catching crows to band them. Years later, the birds were still scolding anyone in those masks, including young crows that had never been caught at all.",
+  "lede": "In the mid-2000s, the University of Washington biologist John Marzluff and his team wore rubber caveman masks while catching and banding crows on campus, then let them go. Afterwards, crows scolded and mobbed anyone wearing that mask, even years later. People wearing a different, neutral mask got much less attention.",
+  "bullets": [
+    {
+      "opening": "Learning from other crows",
+      "linkId": null,
+      "text": "The striking part was that crows which had never been caught began scolding the masks too. Young birds seemed to learn who to watch out for from their parents and neighbours, so the warning spread."
+    },
+    {
+      "opening": "Crow brain scans",
+      "linkId": null,
+      "text": "A later study by Marzluff's group scanned crows' brains as they looked at masks. Familiar threatening faces lit up regions linked to fear and learning, much as they would in mammals."
+    },
+    {
+      "opening": "New Caledonian crows",
+      "linkId": null,
+      "text": "On the Pacific island of New Caledonia, crows shape twigs and leaves into hooked tools to pull food out of crevices. Some even pass on local styles of tool making."
+    },
+    {
+      "opening": "Elephants and mirrors",
+      "linkId": "elephant-mirror",
+      "text": "Crows belong to the corvids, a family that also includes magpies. Eurasian magpies are among the few birds reported to pass the mirror test, as elephants have done."
+    },
+    {
+      "opening": "Dolphins' signature whistles",
+      "linkId": "dolphin-names",
+      "text": "Crows track individual people, and dolphins track one another by name-like whistles. Both suggest that keeping a detailed social map, of who is friendly and who is not, pays off for clever, long-lived animals that live in groups."
+    }
+  ],
+  "tags": [
+    "animal-minds",
+    "memory",
+    "birds",
+    "perception"
+  ],
+  "related": [
+    "elephant-mirror",
+    "dolphin-names",
+    "murmurations",
+    "dogs-smell",
+    "ben-franklin-effect"
+  ]
+}

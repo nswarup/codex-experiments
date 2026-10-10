@@ -1,0 +1,53 @@
+{
+  "id": "olbers-paradox",
+  "title": "Why the night sky is dark",
+  "category": "Space",
+  "hook": "If space goes on forever and is full of stars, the night should be bright.",
+  "peek": "If the universe were endless, unchanging and full of stars, every line of sight would end on a star and the whole sky would blaze. It does not. That simple puzzle turns out to say something deep about the universe.",
+  "lede": "Look in any direction in an endless forest and your eye eventually hits a trunk. The same logic should apply to stars: in an infinite, eternal, evenly filled universe, every line of sight would end on one, and the night sky would be as bright as the Sun. It is named for the German astronomer Heinrich Olbers, who wrote about it in the 1820s.",
+  "bullets": [
+    {
+      "opening": "Johannes Kepler",
+      "linkId": null,
+      "text": "Olbers was not first. Kepler raised the problem in the early 1600s and used it to argue the universe of stars must be finite, and others returned to it before Olbers."
+    },
+    {
+      "opening": "Edgar Allan Poe's Eureka",
+      "linkId": null,
+      "text": "In this 1848 prose poem, Poe suggested the answer: the universe is not infinitely old, so light from the most distant stars has not had time to reach us yet."
+    },
+    {
+      "opening": "The age of the universe",
+      "linkId": null,
+      "text": "That is close to the modern view. The universe is about 13.8 billion years old, so we can only see a limited distance. Stars also burn out, and expansion stretches distant light."
+    },
+    {
+      "opening": "The cosmic microwave background",
+      "linkId": null,
+      "text": "In a sense the sky does glow everywhere. The hot early universe filled space with light, and expansion has stretched it into microwaves, invisible to us."
+    },
+    {
+      "opening": "Endless rooms",
+      "linkId": "hilberts-hotel",
+      "text": "Infinity breaks intuition in mathematics too. A hotel with infinitely many rooms, all full, can still take new guests, a puzzle David Hilbert used to show how strange infinite sets are."
+    },
+    {
+      "opening": "One tree as a forest",
+      "linkId": "pando",
+      "text": "The forest analogy works better with many trunks. Pando in Utah looks like a forest of aspens but is a single organism, one clone joined by its roots."
+    }
+  ],
+  "tags": [
+    "space-exploration",
+    "light",
+    "infinity",
+    "time"
+  ],
+  "related": [
+    "hilberts-hotel",
+    "pale-blue-dot",
+    "golden-record",
+    "moon-drifting",
+    "rainbow-circles"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "bob-ross",
+  "title": "Bob Ross and The Joy of Painting",
+  "category": "Art",
+  "hook": "A soft-spoken former Air Force sergeant painted a landscape in half an hour on TV.",
+  "peek": "Bob Ross finished a whole landscape in each half-hour episode of The Joy of Painting, which ran on American public television from 1983 to 1994. He spent 20 years in the Air Force before becoming the calmest voice on TV.",
+  "lede": "For more than a decade, Bob Ross painted a full landscape on American public television in under half an hour, talking softly about happy little trees. The Joy of Painting ran from 1983 to 1994, more than 400 episodes. Before that he had spent 20 years in the US Air Force, in a job he said involved a lot of shouting.",
+  "bullets": [
+    {
+      "opening": "Wet-on-wet painting",
+      "linkId": null,
+      "text": "Ross used a fast technique where new oil paint goes on before the last layer dries. He learned it from the German-born TV painter Bill Alexander, and it let him finish a scene in a single session."
+    },
+    {
+      "opening": "Alaska's mountains",
+      "linkId": "whittier-alaska",
+      "text": "Much of his Air Force time was spent in Alaska, and its snowy peaks, lakes and cabins became the scenery he painted again and again."
+    },
+    {
+      "opening": "The famous perm",
+      "linkId": null,
+      "text": "Ross got his curly perm to save money on haircuts. It became his trademark. He is said to have grown tired of it, but by then it was part of the company logo."
+    },
+    {
+      "opening": "Three of every painting",
+      "linkId": null,
+      "text": "Ross reportedly painted each picture about three times: one before the show as a guide, one on camera, and one for his instruction books. Many of the originals were donated to public TV stations."
+    },
+    {
+      "opening": "Synthetic pigments",
+      "linkId": "perkin-mauve",
+      "text": "His small palette leaned on colors like Phthalo Blue and Alizarin Crimson, both made by industrial chemistry, a story that began with William Perkin's accidental mauve dye in 1856."
+    },
+    {
+      "opening": "Counting the trees",
+      "linkId": null,
+      "text": "A 2014 data analysis of his episodes by the website FiveThirtyEight found that most of his paintings include at least one tree, and a large share feature clouds, mountains or a lake."
+    }
+  ],
+  "tags": [
+    "painting",
+    "tv-history",
+    "color",
+    "design"
+  ],
+  "related": [
+    "perkin-mauve",
+    "klein-blue",
+    "whittier-alaska",
+    "mondrian-upside-down",
+    "helvetica"
+  ]
+}
