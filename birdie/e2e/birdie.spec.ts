@@ -68,6 +68,18 @@ test("feed article has dotted openings, a peek, and Next, maybe nudges", async (
   await expect(nudges.getByRole("button")).toHaveCount(3);
 });
 
+test("a topic opened from Next, maybe keeps going as a feed", async ({ page }) => {
+  await onboard(page);
+  await page.getByRole("button", { name: "Skip tour" }).click();
+  const card = page.getByRole("region", { name: "Next, maybe" }).first().getByRole("button").first();
+  await card.scrollIntoViewIfNeeded();
+  await card.click();
+  const pageScroller = page.locator("[data-page-scroller]").last();
+  await expect(pageScroller.locator("[data-article]")).toHaveCount(1);
+  for (let i = 0; i < 4; i++) await pageScroller.evaluate((e) => e.scrollBy(0, 2500));
+  await expect.poll(() => pageScroller.locator("[data-article]").count()).toBeGreaterThan(1);
+});
+
 test("highlighting text offers Ask Birdie and opens a streaming chat", async ({ page }) => {
   await onboard(page);
   await page.getByRole("button", { name: "Skip tour" }).click();

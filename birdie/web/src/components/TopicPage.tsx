@@ -2,12 +2,13 @@ import { useEffect, useRef, useState } from "react";
 import { RotateCw } from "lucide-react";
 import { useApp } from "@/lib/store";
 import { readyTopic, retryTopic, useJob } from "@/lib/generate";
-import { COVERING, popToFeed, useUi } from "@/lib/ui";
+import { COVERING, useUi } from "@/lib/ui";
 import { useEngagement } from "@/hooks/useEngagement";
 import { cue } from "@/lib/feedback";
 import { IS_ARTIFACT } from "@/lib/api";
 import { TopicArticle, viewOf, type ArticleView } from "./TopicArticle";
 import { Nudges } from "./Nudges";
+import { FeedTail } from "./Feed";
 import { TopBar } from "./TopBar";
 import { BirdMark, Button } from "./ui";
 
@@ -19,7 +20,6 @@ export function TopicPage({ id }: { id: string }) {
   useApp((s) => s.generated[id]);
   const job = useJob(id);
   const topic = readyTopic(id);
-  const depth = useUi((s) => s.stack.length);
   const active = useUi(
     (s) => s.stack[s.stack.length - 1]?.kind === "topic" && (s.stack[s.stack.length - 1] as { id: string }).id === id && !(s.overlay && COVERING.includes(s.overlay.kind)),
   );
@@ -74,21 +74,8 @@ export function TopicPage({ id }: { id: string }) {
           </div>
         )}
         {topic && <Nudges topic={topic} />}
-        {topic && depth > 2 && (
-          <div className="mx-auto mt-8 measure px-6">
-            <Button
-              variant="ghost"
-              size="sm"
-              className="-ml-3 text-muted"
-              onClick={() => {
-                cue("navigate", { direction: "back" });
-                popToFeed();
-              }}
-            >
-              Back to your feed
-            </Button>
-          </div>
-        )}
+        {/* The feed keeps going under an opened topic, like the main one. */}
+        {topic && <FeedTail scroller={scroller} after={topic} active={active} />}
       </main>
     </div>
   );

@@ -73,6 +73,14 @@ Two independent reviews: a visual and interaction review (about 120 screenshots 
 
 Kept as-is despite review suggestions, because they were your explicit calls in the mockup rounds: the mono hook (serif is in the Design lab), the dashed wildcard border, and dark as the first-run theme.
 
+## Opened topics keep going
+
+A topic you open from a bullet's Read, a "Next, maybe…" card, search or chat is now a feed of its own. Under its "Next, maybe…", ranked topics keep coming as you scroll, exactly like the main feed. Your taste profile already counts the tap, so the follow-ups lean toward what you just showed interest in.
+- **No repeats:** the continuation skips topics already in your main feed.
+- **One-at-a-time:** it follows the Design lab setting.
+- **Reading time:** counted only while that page is on top.
+- **"Back to your feed":** the link under opened topics is gone, since the page no longer ends. Back and the edge swipe still return you.
+
 ## Liquid glass
 
 Glass follows Apple's rule: it belongs to the controls that float above content, never to the content. The reading page stays Kindle-plain.

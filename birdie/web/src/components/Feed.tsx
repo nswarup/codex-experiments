@@ -84,6 +84,7 @@ export function Feed() {
   const tour = useApp((s) => s.tour);
   const mode = useApp((s) => s.prefs.lab.feed);
   const sentinel = useRef<HTMLDivElement>(null);
+  const feedActive = useUi((u) => u.stack.length === 1 && !(u.overlay && COVERING.includes(u.overlay.kind)));
 
   useEffect(() => {
     sessionFeed = items;
@@ -216,6 +217,8 @@ export function Feed() {
             index={i}
             scroller={scroller}
             exclude={items.map((x) => x.topic.id)}
+            active={feedActive}
+            tourAnchor={i === 0}
           />
         ))}
         {mode === "one" ? (
@@ -241,19 +244,23 @@ function FeedEntry({
   index,
   scroller,
   exclude,
+  active,
+  tourAnchor = false,
 }: {
   item: FeedItem;
   index: number;
   scroller: React.RefObject<HTMLDivElement | null>;
   exclude: string[];
+  /** Reading time only counts while this list's page is the one on screen. */
+  active: boolean;
+  tourAnchor?: boolean;
 }) {
   const ref = useRef<HTMLElement>(null);
-  const active = useUi((s) => s.stack.length === 1 && !(s.overlay && COVERING.includes(s.overlay.kind)));
   useEngagement(ref, item.topic, scroller, active);
   const body = (
     <>
       {index > 0 && <SectionBreak />}
-      <TopicArticle ref={ref} view={viewOf(item.topic)} reason={item.reason} tourAnchor={index === 0} />
+      <TopicArticle ref={ref} view={viewOf(item.topic)} reason={item.reason} tourAnchor={tourAnchor} />
       <Nudges topic={item.topic} exclude={exclude} />
     </>
   );
@@ -287,5 +294,73 @@ function SectionBreak() {
       <BirdMark size={26} />
       <span className="h-px flex-1 bg-line" />
     </div>
+  );
+}
+
+/**
+ * The feed, continued under a topic you opened (from a bullet, a nudge, search or chat):
+ * after its "Next, maybe…", ranked topics keep coming, so a deeper page never dead-ends.
+ * It skips what's already in the main feed, and follows the one-at-a-time setting.
+ */
+export function FeedTail({
+  scroller,
+  after,
+  active,
+}: {
+  scroller: React.RefObject<HTMLDivElement | null>;
+  after: Topic;
+  active: boolean;
+}) {
+  const mode = useApp((s) => s.prefs.lab.feed);
+  const [items, setItems] = useState<FeedItem[]>([]);
+  const sentinel = useRef<HTMLDivElement>(null);
+
+  const append = useCallback(() => {
+    setItems((cur) => {
+      const seen = new Set([after.id, ...cur.map((i) => i.topic.id), ...(sessionFeed ?? []).map((i) => i.topic.id)]);
+      const prev = cur[cur.length - 1];
+      const n = nextItem(seen, prev) ?? nextItem(new Set([after.id, ...cur.slice(-12).map((i) => i.topic.id)]), prev);
+      return n ? [...cur, n] : cur;
+    });
+  }, [after.id]);
+
+  useEffect(() => {
+    const el = sentinel.current;
+    const root = scroller.current;
+    if (!el || !root || mode === "one") return;
+    const io = new IntersectionObserver((e) => e[0]?.isIntersecting && append(), { root, rootMargin: "900px 0px" });
+    io.observe(el);
+    return () => io.disconnect();
+  }, [append, items.length, mode, scroller]);
+
+  const exclude = [after.id, ...items.map((x) => x.topic.id)];
+  return (
+    <>
+      {items.map((item, i) => (
+        <FeedEntry key={item.key} item={item} index={i + 1} scroller={scroller} exclude={exclude} active={active} />
+      ))}
+      {mode === "one" ? (
+        <div className="mx-auto mt-10 measure px-6">
+          <button
+            type="button"
+            onClick={() => {
+              cue("navigate");
+              buzz(6);
+              const before = scroller.current?.querySelectorAll("[data-article]").length ?? 0;
+              append();
+              window.setTimeout(() => {
+                const arts = scroller.current?.querySelectorAll("[data-article]");
+                if (arts && arts.length > before) arts[arts.length - 1].scrollIntoView({ behavior: smooth(), block: "start" });
+              }, 60);
+            }}
+            className="press glass relative flex h-[54px] w-full items-center justify-center gap-2 rounded-full border border-chip font-serif text-[17px] font-semibold text-strong"
+          >
+            Next topic <ArrowDown size={18} strokeWidth={1.8} aria-hidden="true" />
+          </button>
+        </div>
+      ) : (
+        <div ref={sentinel} aria-hidden="true" className="h-px" />
+      )}
+    </>
   );
 }
