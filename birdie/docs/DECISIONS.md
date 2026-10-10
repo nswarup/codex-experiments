@@ -84,6 +84,20 @@ The writing agents and two independent fact-check passes flagged a few items you
 - **Kamoʻoalewa**: describes Tianwen-2 only as launched in 2025 to bring back a sample.
 - Every folklore-style origin story (croissant, Caesar salad, Earl of Sandwich, QWERTY jamming, microwave chocolate bar, tulip mania) is labelled as legend or disputed in the text.
 
+### Relevance rewrite (October 2026)
+
+- **Four editors re-cut all 100 topics** against the relevance-first rules: about 210 off-topic bullets cut and about 60 on-topic ones added.
+- **Two fact-checkers then reviewed every new or reworded sentence.** Fixes:
+  - Sagrada Família: the central tower was completed in 2026, so it is no longer "aiming for 2026".
+  - Pale Blue Dot: Mars was lost to light scattered inside the camera, not to faintness.
+  - The Ptolemies took the title of king around 305 BC.
+  - Bubble wrap's non-popping version links its cells in columns.
+  - The dogs' exhaled-air direction is stated more cautiously.
+  - The perfect-pitch link to tonal languages is reworded to match Deutsch's claim.
+  - An unsourced therapy claim in semantic satiation is replaced.
+- **Checked without a live web search** (a few are still worth a look before anything ships): Fan Hui's exact words on move 37, and how long the crows kept scolding (stated as "more than a decade").
+- **No bullet links to another library topic any more.** Every opening now writes its own short article on demand, so in demo mode (no Claude connection) tapping an opening shows a placeholder. "Next, maybe…" still offers three library topics under every article.
+
 ## Not built (v1 / v2)
 
 Accounts and sync, images, analytics (v1); news-driven topics (v2).

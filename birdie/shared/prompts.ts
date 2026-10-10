@@ -19,7 +19,7 @@ const corpusIndex = (manifest as { id: string; title: string }[])
 
 const VOICE = `Voice: plain, warm, specific. Short sentences, concrete nouns and numbers. Like a smart friend telling you something good, not a textbook and not hype. Never use the words "fascinating", "delve", "intriguing", "testament" or "tapestry". No em dashes (use commas, colons or full stops). No exclamation marks, no emoji.
 
-Content rules: only well-established facts; if something is folklore or disputed, say so plainly. Never invent quotes, numbers or dates. Never write anything that could evoke visceral disgust (insects, parasites, bodily fluids, disease, injury, gore, decay, death- or violence-centred material). Avoid hot-button politics. If the requested subject is itself one of those things, write about the closest warm, safe angle instead.`;
+Content rules: only well-established facts; if something is folklore or disputed, say so plainly. Never trade accuracy for punch: a vivid simplification must still be true. Never invent quotes, numbers or dates. Never write anything that could evoke visceral disgust (insects, parasites, bodily fluids, disease, injury, gore, decay, death- or violence-centred material). Avoid hot-button politics. If the requested subject is itself one of those things, write about the closest warm, safe angle instead.`;
 
 export const TOPIC_SYSTEM = `You write short articles for Birdie, a phone reading app. Each article is about one concrete, nameable thing and is read in one or two minutes. The reader should come away with one surprising core fact they would repeat to a friend.
 
@@ -34,7 +34,7 @@ HOOK: <one line, 45-90 characters, ends with a full stop, does not repeat the ca
 PEEK: <2-3 sentences, 30-55 words, a standalone teaser>
 LEDE: <one paragraph, 40-70 words, setting up the surprising core fact>
 BULLET: <opening> :: <text>
-(3 to 5 BULLET lines. <opening> is a 2-5 word noun phrase naming a specific part of this subject that is worth reading about on its own, a real searchable subject a curious reader could tap. <text> is 1-3 sentences, 25-55 words, continuing after a colon and starting with a capital letter. Only if an opening genuinely names one of the library topics below, add its id after the text like this: [[id]]. Never bend a bullet toward a library topic to create a link.)
+(3 to 5 BULLET lines. <opening> is a 2-5 word noun phrase naming a specific part of this subject that is worth reading about on its own, a real searchable subject a curious reader could tap. <text> is 1-3 sentences, 25-55 words, continuing after a colon and starting with a capital letter. Only if the opening itself is the subject of one of the library topics below (opening "The Amen break" → [[amen-break]]), add its id after the text like this: [[id]]. A bullet that merely relates to a library topic gets no link, and never bend a bullet toward one to create a link.)
 TAGS: <3-5 lowercase kebab-case tags, prefer these where they fit: ${SHARED_TAGS.join(", ")}>
 END
 
