@@ -1,0 +1,48 @@
+{
+  "id": "qr-code-go",
+  "title": "The QR code and the game of Go",
+  "category": "Tech",
+  "hook": "The QR code was inspired by black and white stones on a Go board.",
+  "peek": "The square codes on menus and tickets began in a Japanese car-parts factory in 1994. Their inventor wanted something that held far more than a barcode, and he found the idea in the black and white stones of the board game Go.",
+  "lede": "In 1994 Masahiro Hara, an engineer at Denso Wave, part of the Toyota group, was looking for a better way to track car parts. Ordinary barcodes held only about 20 characters, so workers had to scan box after box of them. Hara's answer was a square grid of dark and light cells, and he has said the idea came to him while playing Go.",
+  "bullets": [
+    {
+      "opening": "The striped barcode",
+      "linkId": "barcode-sand",
+      "text": "A classic barcode stores its data in one direction, as stripes read from side to side. A QR code stores data both across and down, which lets one small square hold up to about 7,000 digits."
+    },
+    {
+      "opening": "Stones on a Go board",
+      "linkId": null,
+      "text": "Go is played by placing black and white stones on the points of a grid. Seeing the stones laid out gave Hara the idea of packing information into a grid of dark and light squares that a camera could read quickly."
+    },
+    {
+      "opening": "Three corner squares",
+      "linkId": null,
+      "text": "The large squares in three corners tell a scanner where the code is and which way up it sits, so it can be read from any angle. Hara's team picked their proportions after studying printed matter for the pattern least likely to turn up by chance."
+    },
+    {
+      "opening": "Built-in damage control",
+      "linkId": null,
+      "text": "QR codes carry extra error-correcting data. At the highest setting a code can still be read with about 30% of it smudged or covered, which is why some designs get away with a logo in the middle."
+    },
+    {
+      "opening": "A patent left open",
+      "linkId": null,
+      "text": "Denso Wave holds the patent but chose not to enforce it for standard codes, so anyone could make and read them for free. That openness helped QR codes spread from factory floors to posters, tickets and restaurant tables."
+    }
+  ],
+  "tags": [
+    "patterns",
+    "design",
+    "inventors",
+    "history-of-things"
+  ],
+  "related": [
+    "barcode-sand",
+    "move-37",
+    "helvetica",
+    "velcro",
+    "post-it"
+  ]
+}

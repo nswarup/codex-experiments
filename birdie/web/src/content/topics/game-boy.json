@@ -1,0 +1,43 @@
+{
+  "id": "game-boy",
+  "title": "The Game Boy's old technology",
+  "category": "Tech",
+  "hook": "The Game Boy beat flashier colour rivals by using deliberately old parts.",
+  "peek": "Nintendo's Game Boy had a small, greenish screen and no backlight, while its rivals glowed in full colour. It outsold them by a huge margin. Its designer believed old, cheap, well-understood parts were the smarter choice, and the batteries proved him right.",
+  "lede": "When Nintendo launched the Game Boy in 1989, its screen was small, had no backlight and showed just four shades of greenish grey. Rivals soon arrived with bright colour screens. The Game Boy beat them easily. Its designer, Gunpei Yokoi, had chosen older, cheaper parts on purpose, and that choice turned out to be its biggest strength.",
+  "bullets": [
+    {
+      "opening": "Lateral thinking with withered technology",
+      "linkId": null,
+      "text": "Yokoi's motto meant using mature, well-understood parts in new ways instead of chasing the newest hardware. Older parts were cheap, sturdy and light on power, which mattered more in a child's backpack than raw speed."
+    },
+    {
+      "opening": "Four AA batteries",
+      "linkId": null,
+      "text": "The Game Boy could play for many hours on four AA batteries. The Atari Lynx and Sega Game Gear had backlit colour screens that needed six AAs and drained them in a few hours, so their owners went through batteries fast."
+    },
+    {
+      "opening": "Tetris in the box",
+      "linkId": "tetris-origin",
+      "text": "In North America the Game Boy came packaged with Tetris. The puzzle suited a small monochrome screen and appealed to adults as much as children. The Game Boy version went on to sell around 35 million copies."
+    },
+    {
+      "opening": "Nearly 120 million sold",
+      "linkId": null,
+      "text": "Counting the later Game Boy Color, Nintendo sold close to 120 million of the machines, far more than any of its colour rivals of the time. A screen many reviewers called dull had won the handheld market."
+    }
+  ],
+  "tags": [
+    "games",
+    "design",
+    "history-of-things",
+    "inventors"
+  ],
+  "related": [
+    "tetris-origin",
+    "tetris-effect",
+    "pac-man-name",
+    "qwerty",
+    "slinky"
+  ]
+}

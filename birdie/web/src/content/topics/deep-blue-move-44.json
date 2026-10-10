@@ -1,0 +1,47 @@
+{
+  "id": "deep-blue-move-44",
+  "title": "Deep Blue's baffling move",
+  "category": "Tech",
+  "hook": "A chess move that rattled Kasparov may have come from a computer glitch.",
+  "peek": "When IBM's Deep Blue beat Garry Kasparov in 1997, one odd move seemed to unsettle the champion. Years later, one of the machine's designers said it was no stroke of genius, just a fault that made it pick a move at random.",
+  "lede": "In May 1997 IBM's Deep Blue beat world champion Garry Kasparov over six games in New York. It was the first time a computer had won a match against a reigning champion under normal tournament rules. One of the moves that most unsettled Kasparov may not have been deep at all. According to one of its designers, it came from a glitch.",
+  "bullets": [
+    {
+      "opening": "The 1996 match",
+      "linkId": null,
+      "text": "A year earlier in Philadelphia, Deep Blue won the opening game, a first for a computer against a reigning champion at classical time controls. Kasparov still took that match 4 to 2, and IBM rebuilt the machine for a rematch."
+    },
+    {
+      "opening": "Move 44 of game one",
+      "linkId": null,
+      "text": "Late in the first game of 1997, which Kasparov went on to win, Deep Blue played a strange rook move. Its designer Murray Campbell later told the writer Nate Silver that a software fault left it unable to choose, so it fell back on a random legal move."
+    },
+    {
+      "opening": "Kasparov's reading of it",
+      "linkId": null,
+      "text": "The story goes that Kasparov took the move as a sign the machine was seeing far deeper than he could. In game two he resigned a position that analysts later showed he could have drawn. How much one rook move shaped his mood is impossible to prove."
+    },
+    {
+      "opening": "200 million positions a second",
+      "linkId": null,
+      "text": "Deep Blue's strength came from custom chess chips working in parallel, which let it check about 200 million positions every second. It had no sense of style, just enormous, fast search guided by rules its team tuned with grandmasters."
+    },
+    {
+      "opening": "No third match",
+      "linkId": null,
+      "text": "Kasparov suspected human help during the games, which IBM denied, and he asked for a rematch. IBM declined and retired the machine. One of its two racks now sits in the Smithsonian in Washington."
+    }
+  ],
+  "tags": [
+    "ai",
+    "games",
+    "chess",
+    "accidents"
+  ],
+  "related": [
+    "shannon-number",
+    "move-37",
+    "gods-number",
+    "tetris-origin"
+  ]
+}

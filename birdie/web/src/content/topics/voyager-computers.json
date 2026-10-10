@@ -1,0 +1,43 @@
+{
+  "id": "voyager-computers",
+  "title": "Voyager's 1970s computers",
+  "category": "Tech",
+  "hook": "The Voyager probes still run on 1970s computers with about 70 kilobytes of memory.",
+  "peek": "Voyager 1 and 2 left Earth in 1977 and are still sending data from more than 20 billion kilometres away. Their computers have less memory than a single phone photo, and engineers still reprogram them across a gap of nearly a day.",
+  "lede": "The two Voyager probes launched in 1977 and are still in touch, from more than 20 billion kilometres away. They run on computers designed in the early 1970s, with roughly 70 kilobytes of memory between their systems, less than one photo on a modern phone. Engineers still send them new code, and in 2024 they repaired one from the edge of interstellar space.",
+  "bullets": [
+    {
+      "opening": "Three computers, each doubled",
+      "linkId": null,
+      "text": "Each probe splits its work between three systems: one handles commands, one keeps the craft pointed the right way, and one gathers and packages the science data. Every system has a backup, because nobody can ever reach them to fix anything."
+    },
+    {
+      "opening": "The 2024 long-distance repair",
+      "linkId": null,
+      "text": "In late 2023 Voyager 1 began sending gibberish. Engineers traced it to one failed memory chip, then split the affected code into pieces and moved them to other spots in memory. Each command took about 22 and a half hours to arrive."
+    },
+    {
+      "opening": "A 23-watt radio",
+      "linkId": null,
+      "text": "Voyager's transmitter puts out about 23 watts, roughly the power of a fridge light. By the time the signal reaches Earth it is so faint that NASA listens with dishes up to 70 metres wide."
+    },
+    {
+      "opening": "The Pale Blue Dot",
+      "linkId": "pale-blue-dot",
+      "text": "In February 1990 Voyager 1 turned its camera back toward home and caught Earth as a tiny speck. Soon afterwards its cameras were switched off for good to save power and memory, so those were the last pictures it ever took."
+    }
+  ],
+  "tags": [
+    "space-exploration",
+    "computers",
+    "scale",
+    "history-of-things"
+  ],
+  "related": [
+    "pale-blue-dot",
+    "golden-record",
+    "overview-effect",
+    "point-nemo",
+    "saturn-hexagon"
+  ]
+}

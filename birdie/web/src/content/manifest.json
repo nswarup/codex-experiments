@@ -673,5 +673,40 @@
   "id": "taller-in-morning",
   "title": "You are taller in the morning",
   "category": "Health"
+ },
+ {
+  "id": "alphazero-chess",
+  "title": "AlphaZero taught itself chess",
+  "category": "Tech"
+ },
+ {
+  "id": "deep-blue-move-44",
+  "title": "Deep Blue's baffling move",
+  "category": "Tech"
+ },
+ {
+  "id": "voyager-computers",
+  "title": "Voyager's 1970s computers",
+  "category": "Tech"
+ },
+ {
+  "id": "game-boy",
+  "title": "The Game Boy's old technology",
+  "category": "Tech"
+ },
+ {
+  "id": "qr-code-go",
+  "title": "The QR code and the game of Go",
+  "category": "Tech"
+ },
+ {
+  "id": "etaoin-shrdlu",
+  "title": "Etaoin shrdlu",
+  "category": "Tech"
+ },
+ {
+  "id": "eliza-chatbot",
+  "title": "ELIZA, the first chatbot",
+  "category": "Tech"
  }
 ]

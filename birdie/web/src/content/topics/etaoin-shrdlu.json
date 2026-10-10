@@ -1,0 +1,48 @@
+{
+  "id": "etaoin-shrdlu",
+  "title": "Etaoin shrdlu",
+  "category": "Tech",
+  "hook": "A nonsense phrase that kept slipping into newspapers, thanks to one keyboard.",
+  "peek": "For decades, readers of English-language newspapers sometimes found the words etaoin shrdlu in the middle of a story. They were not a code. They were what you got by running a finger down the first two columns of a Linotype keyboard.",
+  "lede": "From the 1880s, many newspapers were set on Linotype machines, which cast each line of text as a single bar of hot metal. Their keyboards were not QWERTY. Lowercase letters ran in columns roughly in order of how often they appear in English, so the first two columns read e, t, a, o, i, n and s, h, r, d, l, u.",
+  "bullets": [
+    {
+      "opening": "Finishing a botched line",
+      "linkId": null,
+      "text": "A Linotype line could not be fixed halfway through, because the whole line was cast at once. An operator who made a mistake would fill out the rest quickly by running a finger down the keys, then pull the faulty bar of metal later."
+    },
+    {
+      "opening": "Slipping into print",
+      "linkId": null,
+      "text": "Sometimes nobody pulled it. The bar went into the page, and readers found etaoin shrdlu sitting in the middle of a news story. It happened often enough that the phrase became a running joke among printers."
+    },
+    {
+      "opening": "Hot metal slugs",
+      "linkId": null,
+      "text": "The machine dropped brass moulds for each letter into a row, then poured molten metal into them to cast a solid line called a slug. After printing, the slugs were melted down and the metal used again."
+    },
+    {
+      "opening": "Farewell, Etaoin Shrdlu",
+      "linkId": null,
+      "text": "When The New York Times set its last pages in hot metal in July 1978, before moving to computers, a short documentary recorded the final night. Its title was Farewell, Etaoin Shrdlu."
+    },
+    {
+      "opening": "SHRDLU, the program",
+      "linkId": null,
+      "text": "Around 1970 Terry Winograd at MIT named an early artificial intelligence program SHRDLU after the phrase. It could follow typed English instructions to move coloured blocks around a simulated table and answer questions about what it had done."
+    }
+  ],
+  "tags": [
+    "design",
+    "communication",
+    "history-of-things",
+    "ai"
+  ],
+  "related": [
+    "qwerty",
+    "helvetica",
+    "dord",
+    "letter-thorn",
+    "scrabble-letters"
+  ]
+}

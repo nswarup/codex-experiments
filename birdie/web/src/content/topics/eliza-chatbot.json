@@ -1,0 +1,47 @@
+{
+  "id": "eliza-chatbot",
+  "title": "ELIZA, the first chatbot",
+  "category": "Tech",
+  "hook": "A 1960s chatbot so simple its maker was alarmed by how much people trusted it.",
+  "peek": "In the mid-1960s an MIT professor wrote a short program that chatted like a therapist by turning your words back into questions. It understood nothing. People confided in it anyway, and its creator spent years warning about what that meant.",
+  "lede": "Around 1966 Joseph Weizenbaum, a computer scientist at MIT, wrote ELIZA, a program that held typed conversations. Its best-known script played a therapist who mostly turned your own words back into questions. It had no understanding at all. Yet people who knew exactly how it worked still found themselves opening up to it, and that surprised and worried its creator.",
+  "bullets": [
+    {
+      "opening": "The DOCTOR script",
+      "linkId": null,
+      "text": "ELIZA looked for keywords and swapped pronouns using simple rules. Type that you were unhappy and it might ask why you were unhappy. Weizenbaum chose a therapist's style because that kind of conversation lets the listener say very little."
+    },
+    {
+      "opening": "Named after Eliza Doolittle",
+      "linkId": null,
+      "text": "The program took its name from the flower seller in George Bernard Shaw's play Pygmalion, who is taught to speak more genteelly. Weizenbaum wrote that, like her, ELIZA could be taught to seem ever more refined, without really becoming any wiser."
+    },
+    {
+      "opening": "His secretary's request",
+      "linkId": null,
+      "text": "Weizenbaum later wrote that his secretary, who had watched him build the program, asked him to leave the room after a few exchanges so she could talk to it in private."
+    },
+    {
+      "opening": "The ELIZA effect",
+      "linkId": null,
+      "text": "The habit of reading understanding into a machine's replies came to be called the ELIZA effect. The term is still used in discussions of modern chatbots."
+    },
+    {
+      "opening": "The 1976 book",
+      "linkId": null,
+      "text": "Weizenbaum became one of computing's early critics. In Computer Power and Human Reason, he argued that some decisions should never be handed to machines, however capable they seemed."
+    }
+  ],
+  "tags": [
+    "ai",
+    "communication",
+    "names",
+    "history-of-things"
+  ],
+  "related": [
+    "move-37",
+    "ben-franklin-effect",
+    "toki-pona",
+    "mcgurk-effect"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "alphazero-chess",
+  "title": "AlphaZero taught itself chess",
+  "category": "Tech",
+  "hook": "Given only the rules, AlphaZero became a chess master in a few hours.",
+  "peek": "In 2017 DeepMind gave a program the rules of chess and nothing else: no openings, no grandmaster games, no tips. It played itself over and over, and within hours it could beat the strongest chess engine of the day.",
+  "lede": "In December 2017 DeepMind described AlphaZero, a program that started out knowing only the rules of chess. It had no opening books and had never seen a human game. It simply played against itself, again and again, learning from every result. After about four hours of this training it was already stronger than Stockfish, then the top chess engine in the world.",
+  "bullets": [
+    {
+      "opening": "Learning by self-play",
+      "linkId": null,
+      "text": "It began by making near-random moves. After each game, its neural network was nudged toward the choices that had led to wins, so each new game was against a slightly stronger copy of itself. Over its full training run it played about 44 million games."
+    },
+    {
+      "opening": "The Stockfish match",
+      "linkId": null,
+      "text": "In a 100-game match AlphaZero won 28, drew 72 and lost none. Critics said Stockfish had been set up poorly, so DeepMind ran a 1,000-game match for its 2018 paper. AlphaZero won 155, lost 6 and drew the rest."
+    },
+    {
+      "opening": "Fewer positions, better chosen",
+      "linkId": null,
+      "text": "Stockfish checked about 70 million positions a second. AlphaZero checked about 80,000, roughly a thousand times fewer. It made up the gap with judgement, using its trained network to decide which lines were worth a closer look."
+    },
+    {
+      "opening": "Rediscovering human openings",
+      "linkId": null,
+      "text": "As it trained, it found famous openings such as the Queen's Gambit by itself. It played some heavily for a while, then dropped them as it got stronger, as if racing through centuries of chess fashion."
+    },
+    {
+      "opening": "From AlphaGo to AlphaZero",
+      "linkId": "move-37",
+      "text": "AlphaZero grew out of AlphaGo, the program that beat Lee Sedol at Go in 2016. Unlike the first AlphaGo, it learned with no human games at all, and the same method also taught it Go and the Japanese game shogi."
+    }
+  ],
+  "tags": [
+    "ai",
+    "games",
+    "chess",
+    "machine-learning"
+  ],
+  "related": [
+    "move-37",
+    "shannon-number",
+    "gods-number",
+    "tetris-origin"
+  ]
+}
