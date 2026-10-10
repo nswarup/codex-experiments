@@ -3,7 +3,10 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "workspaces": ["web", "server"],
+  "workspaces": [
+    "web",
+    "server"
+  ],
   "scripts": {
     "dev": "concurrently -k -n server,web -c yellow,cyan \"npm:dev -w server\" \"npm:dev -w web\"",
     "build": "npm run build -w web",
@@ -13,6 +16,7 @@
     "e2e": "playwright test"
   },
   "devDependencies": {
+    "@axe-core/playwright": "^4.13.0",
     "@playwright/test": "1.56.1",
     "concurrently": "^10.0.6"
   }

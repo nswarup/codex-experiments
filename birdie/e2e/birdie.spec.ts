@@ -1,4 +1,5 @@
 import { expect, test, type Page } from "@playwright/test";
+import AxeBuilder from "@axe-core/playwright";
 
 async function onboard(page: Page, picks = ["Music", "Math", "Food"]) {
   await page.goto("/");
@@ -129,4 +130,17 @@ test("the back button closes sheets and pops pages without leaving the app", asy
   await page.getByRole("button", { name: "Back" }).click();
   await expect(page.getByRole("button", { name: "Back" })).toHaveCount(0);
   await expect(page).toHaveURL(/127\.0\.0\.1:5199\/?$/);
+});
+
+test("no WCAG A/AA violations on the feed in all three themes", async ({ page }) => {
+  await onboard(page);
+  await page.getByRole("button", { name: "Skip tour" }).click();
+  for (const theme of ["Dark", "Sepia", "Light"]) {
+    await page.getByRole("button", { name: "Reading settings" }).first().click();
+    await page.getByRole("radio", { name: new RegExp(theme) }).click();
+    await page.keyboard.press("Escape");
+    await page.waitForTimeout(400);
+    const r = await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze();
+    expect(r.violations.map((v) => `${theme}: ${v.id}`)).toEqual([]);
+  }
 });

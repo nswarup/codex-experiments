@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
-import { X } from "lucide-react";
-import { useApp } from "@/lib/store";
+import { BookmarkCheck, X } from "lucide-react";
+import { toast } from "sonner";
+import { toggleSaved, useApp } from "@/lib/store";
 import { readyTopic } from "@/lib/generate";
 import { pushTopic } from "@/lib/ui";
 import { cue } from "@/lib/feedback";
@@ -73,20 +74,36 @@ export function LibrarySheet({ open, tab, onClose }: { open: boolean; tab?: "sav
         ) : (
           <ul role="list">
             {rows.map(({ topic, at }) => (
-              <li key={topic.id + at}>
+              <li key={topic.id + at} className="flex items-center border-b border-line">
                 <button
                   type="button"
                   onClick={() => {
                     cue("navigate");
                     pushTopic(topic.id);
                   }}
-                  className="press flex w-full flex-col gap-0.5 border-b border-line py-3.5 text-left"
+                  className="press flex min-w-0 flex-1 flex-col gap-0.5 py-3.5 text-left"
                 >
                   <span className="font-serif text-[17px] leading-snug font-semibold text-strong">{topic.title}</span>
                   <span className="truncate font-mono text-[12.5px] text-muted">
                     <span className="font-medium tracking-[0.08em] text-text">{topic.category.toUpperCase()}</span> · {timeAgo(at)}
                   </span>
                 </button>
+                {view === "saved" && (
+                  <IconButton
+                    label={`Remove ${topic.title} from saved`}
+                    className="-mr-2 shrink-0 text-muted"
+                    onClick={() => {
+                      toggleSaved(topic.id);
+                      cue("toggle", { direction: "back" });
+                      toast("Removed from saved", {
+                        action: { label: "Undo", onClick: () => toggleSaved(topic.id) },
+                        duration: 2600,
+                      });
+                    }}
+                  >
+                    <BookmarkCheck size={19} strokeWidth={1.7} />
+                  </IconButton>
+                )}
               </li>
             ))}
           </ul>
