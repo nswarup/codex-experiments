@@ -173,7 +173,8 @@ export function setProviderForTests(p: Provider) {
   provider = p;
 }
 
-if (process.env.NODE_ENV !== "test") {
+// On Vercel the app is exported to a Function (api/index.ts); everywhere else it listens itself.
+if (process.env.NODE_ENV !== "test" && !process.env.VERCEL) {
   const port = Number(process.env.PORT ?? 8787);
   // Local only by default: the Vite dev server proxies /api, so phones on your Wi-Fi still work,
   // but your Claude credentials aren't exposed directly to the network.

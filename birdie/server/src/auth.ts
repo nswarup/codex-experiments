@@ -31,9 +31,17 @@ function sameSecret(a: string, b: string): boolean {
   return timingSafeEqual(ha, hb);
 }
 
+/** On Vercel, a missing password means "not set up yet": stay closed rather than open. */
+export const misconfigured = () => !!process.env.VERCEL && !authEnabled();
+
 export function isAuthed(c: Context): boolean {
-  if (!authEnabled()) return true;
-  const raw = getCookie(c, COOKIE);
+  if (!authEnabled()) return !misconfigured();
+  return validSession(getCookie(c, COOKIE));
+}
+
+/** Checks a raw session cookie value (shared with the Vercel middleware). */
+export function validSession(raw: string | undefined): boolean {
+  if (!authEnabled()) return !misconfigured();
   if (!raw) return false;
   const [issued, mac] = raw.split(".");
   if (!issued || !mac || !sameSecret(mac, sign(issued))) return false;
@@ -80,6 +88,7 @@ export function logout(c: Context) {
 
 /** Everything needs a session except the login page itself, logging in, and a bare health check. */
 export const requireAuth: MiddlewareHandler = async (c, next) => {
+  if (misconfigured()) return c.html(setupPage(), 503);
   if (isAuthed(c)) return next();
   const path = new URL(c.req.url).pathname;
   if (path === "/login" || path === "/api/login" || path === "/api/health" || path === "/icon.svg") return next();
@@ -87,6 +96,15 @@ export const requireAuth: MiddlewareHandler = async (c, next) => {
   const nextPath = path === "/" ? "" : `?next=${encodeURIComponent(path)}`;
   return c.redirect(`/login${nextPath}`, 302);
 };
+
+export const SESSION_COOKIE = COOKIE;
+
+/** Shown on a Vercel deploy that has no BIRDIE_PASSWORD yet. */
+export function setupPage(): string {
+  return `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex"><title>Birdie</title>
+<style>body{margin:0;min-height:100vh;display:grid;place-items:center;background:#121212;color:#cfc8ba;font:16px/1.5 ui-sans-serif,system-ui,-apple-system,sans-serif;padding:24px}main{max-width:380px}h1{font:500 26px/1.2 Georgia,serif;color:#e2dbcd;margin:0 0 10px}code{background:#1d1c19;padding:2px 6px;border-radius:6px;color:#e2dbcd}</style></head>
+<body><main><h1>Almost ready</h1><p>This Birdie is locked until a password is set. In Vercel, add <code>BIRDIE_PASSWORD</code> (and <code>ANTHROPIC_API_KEY</code>) under Project Settings → Environment Variables, then redeploy.</p></main></body></html>`;
+}
 
 /** The sign-in page: one field, Birdie's look, the reader's theme. Self-contained, no app code. */
 export function loginPage(): string {
