@@ -12,6 +12,8 @@ npm install
 npm run dev
 ```
 
+**Phone preview on desktop:** http://localhost:5173/viewer.html shows Birdie inside a phone frame (iPhone SE, 13, Pro Max or Pixel 8), scaled to fit your screen, with Reload, Restart onboarding and Open full screen. The published demo opens in the same viewer on desktop and goes full-screen on a phone.
+
 Open http://localhost:5173 on your laptop, or on your phone at `http://<your-laptop-ip>:5173` (same Wi‑Fi). The server prints which writer it is using:
 
 | Writer | When it's used | Notes |

@@ -1,0 +1,337 @@
+@import "@fontsource-variable/literata/opsz-italic.css";
+@import "@fontsource/ibm-plex-mono/500.css";
+
+/* Desk = the surface the phone sits on; app-* = the reader theme, for the drawn status bar. */
+:root,
+[data-desk="dark"] {
+  --desk: #0b0b0a;
+  --desk-glow: #1a1916;
+  --ink: #e2dbcd;
+  --ink-muted: #9a9284;
+  --rule: #2a2825;
+  --chip: #1c1b19;
+  --chip-on: #e2dbcd;
+  --chip-on-fg: #121212;
+  --app-bg: #121212;
+  --app-fg: #e2dbcd;
+  --bezel-color: #1d1d1f;
+  --bezel-edge: #3a3936;
+  color-scheme: dark;
+}
+[data-desk="sepia"] {
+  --desk: #e4d8bd;
+  --desk-glow: #efe5cf;
+  --ink: #3f2f22;
+  --ink-muted: #7a6550;
+  --rule: #d3c4a3;
+  --chip: #ebdfc5;
+  --chip-on: #3f2f22;
+  --chip-on-fg: #f8f1e1;
+  --app-bg: #f4ecd8;
+  --app-fg: #3f2f22;
+  --bezel-color: #2a2420;
+  --bezel-edge: #5a4d42;
+  color-scheme: light;
+}
+[data-desk="light"] {
+  --desk: #e9e7e2;
+  --desk-glow: #f5f4f1;
+  --ink: #111111;
+  --ink-muted: #5f5b55;
+  --rule: #d6d3cc;
+  --chip: #f1efea;
+  --chip-on: #1c1c1c;
+  --chip-on-fg: #fbfaf7;
+  --app-bg: #fbfaf7;
+  --app-fg: #111111;
+  --bezel-color: #1d1d1f;
+  --bezel-edge: #48474a;
+  color-scheme: light;
+}
+
+* {
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+body {
+  background: radial-gradient(ellipse at 50% 35%, var(--desk-glow), var(--desk) 70%) fixed, var(--desk);
+  color: var(--ink);
+  font: 14px/1.4 ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  transition: background-color 0.25s ease;
+}
+
+.viewer {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+/* Controls */
+.bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px 24px;
+  padding: 14px 24px;
+  border-bottom: 1px solid var(--rule);
+}
+.brand {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+}
+.wordmark {
+  font: italic 500 22px/1 "Literata Variable", Georgia, serif;
+  letter-spacing: 0.01em;
+}
+.kicker,
+.size {
+  font: 500 11px/1 "IBM Plex Mono", ui-monospace, monospace;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+}
+.size {
+  font-variant-numeric: tabular-nums;
+  min-width: 9ch;
+}
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px 14px;
+}
+.segmented {
+  display: flex;
+  gap: 2px;
+  padding: 3px;
+  border-radius: 999px;
+  background: var(--chip);
+  border: 1px solid var(--rule);
+}
+.segmented button,
+.controls .text,
+.controls .icon {
+  font: inherit;
+  color: inherit;
+  border: 0;
+  background: none;
+  cursor: pointer;
+}
+.segmented button {
+  height: 30px;
+  padding: 0 13px;
+  border-radius: 999px;
+  color: var(--ink-muted);
+  white-space: nowrap;
+  transition: background-color 0.16s ease, color 0.16s ease;
+}
+.segmented button:hover {
+  color: var(--ink);
+}
+.segmented button[aria-checked="true"] {
+  background: var(--chip-on);
+  color: var(--chip-on-fg);
+  font-weight: 600;
+}
+.controls .icon {
+  display: grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 999px;
+}
+.controls .text {
+  height: 34px;
+  padding: 0 4px;
+  display: inline-flex;
+  align-items: center;
+  text-decoration: underline;
+  text-decoration-color: var(--rule);
+  text-underline-offset: 4px;
+  white-space: nowrap;
+}
+.controls .icon:hover,
+.controls .text:hover {
+  color: var(--ink);
+  text-decoration-color: currentColor;
+}
+.controls .icon:hover {
+  background: var(--chip);
+}
+:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 2px;
+}
+.segmented button:active,
+.controls .icon:active {
+  transform: scale(0.96);
+}
+
+/* Phone */
+.stage {
+  flex: 1;
+  min-height: 0;
+  display: grid;
+  place-items: center;
+  padding: 28px;
+}
+.scaler {
+  position: relative;
+}
+.phone {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: calc(var(--w) + var(--bezel) * 2);
+  height: calc(var(--h) + var(--bezel) * 2);
+  padding: var(--bezel);
+  border-radius: calc(var(--radius) + var(--bezel));
+  background: var(--bezel-color);
+  box-shadow:
+    inset 0 0 0 1px var(--bezel-edge),
+    0 0 0 1px rgba(0, 0, 0, 0.35),
+    0 30px 60px -20px rgba(0, 0, 0, 0.45),
+    0 12px 24px -12px rgba(0, 0, 0, 0.3);
+  transform: scale(var(--k, 1));
+  transform-origin: top left;
+  transition: width 0.26s cubic-bezier(0.23, 1, 0.32, 1), height 0.26s cubic-bezier(0.23, 1, 0.32, 1);
+}
+.screen {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: var(--w);
+  height: var(--h);
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: var(--app-bg);
+  /* Keeps the rounded clip crisp on the iframe in Safari. */
+  isolation: isolate;
+}
+.status {
+  position: relative;
+  flex: 0 0 var(--top);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 26px 0 34px;
+  color: var(--app-fg);
+  font: 600 15px/1 -apple-system, "SF Pro Text", system-ui, sans-serif;
+  letter-spacing: -0.01em;
+}
+[data-device="se"] .status {
+  padding: 0 8px;
+  font-size: 12px;
+}
+[data-device="se"] .status .glyphs svg {
+  transform: scale(0.8);
+}
+[data-device="pixel"] .status {
+  padding: 0 22px;
+  font: 500 13px/1 "Roboto", system-ui, sans-serif;
+}
+.glyphs {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.glyphs svg {
+  fill: currentColor;
+}
+.cutout {
+  position: absolute;
+  left: 50%;
+  top: 11px;
+  transform: translateX(-50%);
+  background: #000;
+}
+[data-cutout="island"] .cutout {
+  width: 122px;
+  height: 35px;
+  border-radius: 20px;
+}
+[data-device="max"] .cutout {
+  top: 12px;
+  width: 126px;
+  height: 37px;
+}
+[data-cutout="hole"] .cutout {
+  top: 10px;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+}
+[data-cutout="none"] .cutout {
+  display: none;
+}
+iframe {
+  display: block;
+  flex: 1;
+  width: 100%;
+  min-height: 0;
+  border: 0;
+  background: var(--app-bg);
+}
+.home {
+  flex: 0 0 var(--bottom);
+  display: grid;
+  place-items: center;
+}
+.home span {
+  width: 134px;
+  height: 5px;
+  border-radius: 3px;
+  background: var(--app-fg);
+  opacity: 0.85;
+}
+[data-device="pixel"] .home span {
+  width: 108px;
+  height: 4px;
+}
+[data-device="se"] .home {
+  display: none;
+}
+
+/* On an actual phone, the viewer gets out of the way. */
+@media (max-width: 600px), (pointer: coarse) {
+  .bar,
+  .status,
+  .home {
+    display: none !important;
+  }
+  .stage {
+    padding: 0;
+    place-items: stretch;
+  }
+  .scaler {
+    width: 100% !important;
+    height: 100% !important;
+  }
+  .phone {
+    position: static;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    border-radius: 0;
+    box-shadow: none;
+    transform: none;
+    background: none;
+  }
+  .screen {
+    width: 100%;
+    height: 100%;
+    border-radius: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition: none !important;
+  }
+}

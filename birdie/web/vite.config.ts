@@ -43,6 +43,11 @@ export default defineConfig({
   resolve: { alias: { "@": path.resolve(import.meta.dirname, "src") } },
   server: { port: 5173, proxy: { "/api": { target: API, changeOrigin: true } } },
   preview: { proxy: { "/api": { target: API, changeOrigin: true } } },
-  build: { chunkSizeWarningLimit: 1200, outDir: ARTIFACT ? "dist-artifact" : "dist" },
+  build: {
+    chunkSizeWarningLimit: 1200,
+    outDir: ARTIFACT ? "dist-artifact" : "dist",
+    // viewer.html = the desktop phone-frame preview around the app.
+    rollupOptions: { input: { index: path.resolve(import.meta.dirname, "index.html"), viewer: path.resolve(import.meta.dirname, "viewer.html") } },
+  },
   test: { environment: "node", include: ["tests/**/*.test.ts"] },
 });

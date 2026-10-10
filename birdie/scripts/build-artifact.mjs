@@ -2,7 +2,8 @@
 /**
  * Build Birdie as a Claude artifact (a phone-friendly demo with no server):
  *   node scripts/build-artifact.mjs
- * Produces web/dist-artifact/page.html (the artifact page body) and
+ * Produces web/dist-artifact/page.html (the artifact page body: the phone-frame viewer),
+ * app.html (the app it frames) and
  * web/dist-artifact/files.json (published path -> local file) for the Artifact tool.
  */
 import { execSync } from "node:child_process";
@@ -15,14 +16,41 @@ const out = path.join(web, "dist-artifact");
 
 execSync("npx vite build", { cwd: web, stdio: "inherit", env: { ...process.env, VITE_TARGET: "artifact" } });
 
-const html = fs.readFileSync(path.join(out, "index.html"), "utf8");
-const css = [...html.matchAll(/<link rel="stylesheet"[^>]*href="([^"]+)"/g)].map((m) => m[1]);
-const js = [...html.matchAll(/<script type="module"[^>]*src="([^"]+)"/g)].map((m) => m[1]);
-if (!css.length || !js.length) throw new Error("Couldn't find the built CSS/JS in index.html");
+/** The CSS and JS a built HTML entry links to. */
+function refs(file) {
+  const html = fs.readFileSync(path.join(out, file), "utf8");
+  const css = [...html.matchAll(/<link rel="stylesheet"[^>]*href="([^"]+)"/g)].map((m) => m[1]);
+  const js = [...html.matchAll(/<script type="module"[^>]*src="([^"]+)"/g)].map((m) => m[1]);
+  if (!js.length) throw new Error(`Couldn't find the built JS in ${file}`);
+  return { css, js };
+}
+const app = refs("index.html");
+const viewer = refs("viewer.html");
+if (!app.css.length) throw new Error("Couldn't find the built CSS in index.html");
+const links = (r) => [...r.css.map((h) => `<link rel="stylesheet" href="${h}">`), ...r.js.map((s) => `<script type="module" src="${s}"></script>`)];
 
-// The artifact wraps this in its own <!doctype><head><body> skeleton.
+// The artifact page is the phone-frame viewer (full-bleed on phones). The artifact wraps it in
+// its own <!doctype><head><body> skeleton.
 const page = `<title>Birdie</title>
-${css.map((h) => `<link rel="stylesheet" href="${h}">`).join("\n")}
+<script>
+  try {
+    var s = JSON.parse(localStorage.getItem("birdie.state.v1") || "{}");
+    document.documentElement.dataset.desk = (s.prefs && s.prefs.theme) || "dark";
+  } catch (e) {}
+</script>
+<div id="viewer" class="viewer"></div>
+${links(viewer).join("\n")}
+`;
+fs.writeFileSync(path.join(out, "page.html"), page);
+
+// The app itself, framed by the viewer. Extra HTML files are served as-is, so it is a full document.
+const appHtml = `<!doctype html>
+<html lang="en" data-reader-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content">
+<meta name="color-scheme" content="dark light">
+<title>Birdie</title>
 <script>
   try {
     var s = JSON.parse(localStorage.getItem("birdie.state.v1") || "{}");
@@ -31,12 +59,18 @@ ${css.map((h) => `<link rel="stylesheet" href="${h}">`).join("\n")}
     document.documentElement.dataset.readerTheme = "dark";
   }
 </script>
+${app.css.map((h) => `<link rel="stylesheet" href="${h}">`).join("\n")}
+</head>
+<body>
 <div id="root"></div>
-${js.map((s) => `<script type="module" src="${s}"></script>`).join("\n")}
+${app.js.map((s) => `<script type="module" src="${s}"></script>`).join("\n")}
+</body>
+</html>
 `;
-fs.writeFileSync(path.join(out, "page.html"), page);
+fs.writeFileSync(path.join(out, "app.html"), appHtml);
+const css = [...app.css, ...viewer.css];
 
-const files = {};
+const files = { "app.html": path.relative(root, path.join(out, "app.html")) };
 for (const f of fs.readdirSync(path.join(out, "assets"))) {
   // Latin subsets only: the corpus is English and every face has a fallback.
   if (/cyrillic|greek|vietnamese/.test(f)) continue;
@@ -52,4 +86,4 @@ for (const c of css) {
   text = text.replace(/,?\s*url\([^)]*\.woff\)\s*format\("woff"\)/g, "");
   fs.writeFileSync(p, text);
 }
-console.log(`page.html + ${Object.keys(files).length} files ready in ${path.relative(root, out)}`);
+console.log(`page.html (viewer) + ${Object.keys(files).length} files ready in ${path.relative(root, out)}`);

@@ -83,6 +83,12 @@ if (typeof window !== "undefined") {
   window.addEventListener("pagehide", flush);
   window.addEventListener("beforeunload", flush);
   document.addEventListener("visibilitychange", () => document.visibilityState === "hidden" && flush());
+  // The desktop phone-frame viewer (viewer.html) can ask for a fresh start.
+  window.addEventListener("message", (e) => {
+    if (e.origin !== location.origin || e.source !== window.parent || e.data?.birdie !== "reset") return;
+    resetEverything();
+    location.reload();
+  });
 }
 
 export function getState() {

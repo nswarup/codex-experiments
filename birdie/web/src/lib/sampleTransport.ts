@@ -25,9 +25,23 @@ type SampleFn = ((
 let samplePromise: Promise<SampleFn | null> | null = null;
 let unavailable = false;
 
+type Host = { claude?: { use?: (n: string) => Promise<unknown> } };
+
+/** The artifact's `claude`, or the phone-frame viewer's when the app runs inside it. */
+function hostClaude(): Host["claude"] {
+  const own = (window as unknown as Host).claude;
+  if (own?.use) return own;
+  try {
+    if (window.parent !== window) return (window.parent as unknown as Host).claude;
+  } catch {
+    // Cross-origin parent: nothing to borrow.
+  }
+  return undefined;
+}
+
 export function getSample(): Promise<SampleFn | null> {
   if (unavailable) return Promise.resolve(null);
-  const c = (window as unknown as { claude?: { use?: (n: string) => Promise<unknown> } }).claude;
+  const c = hostClaude();
   if (!c?.use) return Promise.resolve(null);
   samplePromise ??= c.use("sample").then((s) => (s as SampleFn | null) ?? null).catch(() => null);
   return samplePromise;
