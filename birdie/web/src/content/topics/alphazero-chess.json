@@ -28,7 +28,7 @@
     },
     {
       "opening": "From AlphaGo to AlphaZero",
-      "linkId": "move-37",
+      "linkId": null,
       "text": "AlphaZero grew out of AlphaGo, the program that beat Lee Sedol at Go in 2016. Unlike the first AlphaGo, it learned with no human games at all, and the same method also taught it Go and the Japanese game shogi."
     }
   ],

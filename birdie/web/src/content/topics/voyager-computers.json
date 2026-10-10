@@ -4,7 +4,7 @@
   "category": "Tech",
   "hook": "The Voyager probes still run on 1970s computers with about 70 kilobytes of memory.",
   "peek": "Voyager 1 and 2 left Earth in 1977 and are still sending data from more than 20 billion kilometres away. Their computers have less memory than a single phone photo, and engineers still reprogram them across a gap of nearly a day.",
-  "lede": "The two Voyager probes launched in 1977 and are still in touch, from more than 20 billion kilometres away. They run on computers designed in the early 1970s, with roughly 70 kilobytes of memory between their systems, less than one photo on a modern phone. Engineers still send them new code, and in 2024 they repaired one from the edge of interstellar space.",
+  "lede": "The two Voyager probes launched in 1977 and are still in touch, from more than 20 billion kilometres away. They run on computers designed in the early 1970s, with roughly 70 kilobytes of memory between their systems, less than one photo on a modern phone. Engineers still send them new code, and in 2024 they repaired one in interstellar space.",
   "bullets": [
     {
       "opening": "Three computers, each doubled",
