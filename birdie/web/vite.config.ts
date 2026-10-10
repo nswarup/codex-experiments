@@ -36,7 +36,8 @@ export default defineConfig({
       workbox: {
         globPatterns: ["**/*.{js,css,html,svg,png,woff2}"],
         globIgnores: ["**/*cyrillic*", "**/*greek*", "**/*vietnamese*"],
-        navigateFallbackDenylist: [/^\/api\//],
+        // The sign-in page and API always come from the server, never the offline cache.
+        navigateFallbackDenylist: [/^\/api\//, /^\/login/],
       },
     }),
   ],

@@ -1,4 +1,5 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import { hasPassword, signOut } from "@/lib/api";
 import { flushSync } from "react-dom";
 import { ChevronDown, ChevronRight } from "lucide-react";
 import { AnimatePresence, motion } from "motion/react";
@@ -56,6 +57,10 @@ export function SettingsSheet({ open, onClose }: { open: boolean; onClose: () =>
   const prefs = useApp((s) => s.prefs);
   const [labOpen, setLabOpen] = useState(false);
   const [confirmReset, setConfirmReset] = useState(false);
+  const [canSignOut, setCanSignOut] = useState(false);
+  useEffect(() => {
+    if (open) void hasPassword().then(setCanSignOut);
+  }, [open]);
 
   return (
     <Sheet open={open} onClose={onClose} title="Settings">
@@ -181,6 +186,11 @@ export function SettingsSheet({ open, onClose }: { open: boolean; onClose: () =>
                 }}
               />
               <Row label="Saved and history" onClick={() => openOverlay({ kind: "library", tab: "saved", back: "settings" })} />
+              {canSignOut && (
+                <button type="button" className="press h-12 text-left text-text" onClick={() => void signOut()}>
+                  Sign out
+                </button>
+              )}
               <button
                 type="button"
                 className={cn("press h-12 text-left text-[var(--danger)]", confirmReset && "font-semibold")}

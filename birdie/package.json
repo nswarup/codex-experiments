@@ -13,7 +13,8 @@
     "start": "npm run build && concurrently -k -n server,web \"npm:start -w server\" \"npm:preview -w web\"",
     "test": "npm run test -w web && npm run test -w server && python3 scripts/validate_corpus.py",
     "typecheck": "npm run typecheck -w web && npm run typecheck -w server",
-    "e2e": "playwright test"
+    "e2e": "playwright test",
+    "serve": "npm run build && BIRDIE_HOST=${BIRDIE_HOST:-0.0.0.0} npm run start -w server"
   },
   "devDependencies": {
     "@axe-core/playwright": "^4.13.0",

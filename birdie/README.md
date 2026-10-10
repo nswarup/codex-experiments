@@ -24,6 +24,21 @@ Open http://localhost:5173 on your laptop, or on your phone at `http://<your-lap
 
 Force one with `BIRDIE_PROVIDER=anthropic|claude-cli|mock`. Other knobs: `BIRDIE_MODEL` (API model id), `BIRDIE_CLI_MODEL` (default `sonnet`), `BIRDIE_CLI_EFFORT` (default `low`), `PORT` (API, default 8787).
 
+## Put it online (with a password)
+
+Birdie can run as one private website you open from your phone's browser. The server serves the app and the API together, and everything (pages, files, writer, chat) sits behind a password.
+
+| Setting | What it does |
+| --- | --- |
+| `BIRDIE_PASSWORD` | Turns the password on. Without it the app is open (fine on your laptop, not online). |
+| `ANTHROPIC_API_KEY` | Lets the hosted server write new topics and chat. Without it, new topics are demo placeholders; the 100 built-in topics still work. |
+| `BIRDIE_SECRET` | Optional. Changing it (or the password) signs everyone out. |
+
+- **On any container host** (Render, Railway, Fly.io…): deploy the `Dockerfile` in this folder and set the settings above. It listens on port 8080.
+- **From your own laptop:** `BIRDIE_PASSWORD=… npm run serve` builds the app and serves it on port 8787 on your network. This keeps using your Claude Code login, so no API key is needed. To reach it away from home, put it behind a tunnel such as Tailscale or Cloudflare Tunnel.
+
+Signing in lasts 90 days on a device (a secure, HttpOnly cookie). Password attempts are limited to 8 per 15 minutes. **Aa → Sign out** ends the session and clears the offline copy of the app.
+
 ## What's in the prototype
 
 - **Onboarding**: pick at least 3 interests (X-style chips), then a 3-step tour with spotlight coachmarks. Replay it from **Aa → Replay the tour**.

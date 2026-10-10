@@ -43,6 +43,11 @@ async function stream(path: string, body: unknown, h: StreamHandlers, signal?: A
         : "Birdie can't reach its writer right now. The built-in topics still work.",
     );
   }
+  if (res.status === 401 && !IS_ARTIFACT) {
+    // The session ended (password changed, or 90 days passed): back to the sign-in page.
+    location.assign(`/login?next=${encodeURIComponent(location.pathname)}`);
+    throw new StreamError("Please sign in again.");
+  }
   if (!res.ok || !res.body) {
     throw new StreamError(await friendlyError(res));
   }
@@ -115,4 +120,33 @@ export async function health(): Promise<{ provider: string; label: string } | nu
   } catch {
     return null;
   }
+}
+
+let authProbe: Promise<boolean> | null = null;
+/** Whether this server has a password (so "Sign out" makes sense). Never true in the artifact demo. */
+export function hasPassword(): Promise<boolean> {
+  if (IS_ARTIFACT) return Promise.resolve(false);
+  authProbe ??= fetch("/api/health")
+    .then((r) => r.json())
+    .then((j: { auth?: boolean }) => !!j.auth)
+    .catch(() => false);
+  return authProbe;
+}
+
+/** End the session, drop the offline copy of the app, and go back to the sign-in page. */
+export async function signOut() {
+  try {
+    await fetch("/api/logout", { method: "POST" });
+  } catch {
+    /* offline: still clear locally */
+  }
+  try {
+    const regs = await navigator.serviceWorker?.getRegistrations();
+    await Promise.all((regs ?? []).map((r) => r.unregister()));
+    const keys = await caches?.keys();
+    await Promise.all((keys ?? []).map((k) => caches.delete(k)));
+  } catch {
+    /* no service worker in this browser */
+  }
+  location.replace("/login");
 }

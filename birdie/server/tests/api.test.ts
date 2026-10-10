@@ -2,6 +2,7 @@ import { describe, expect, it } from "vitest";
 
 process.env.NODE_ENV = "test";
 process.env.BIRDIE_PROVIDER = "mock";
+process.env.BIRDIE_STATIC = "off";
 const { app } = await import("../src/index");
 
 async function sse(res: Response) {

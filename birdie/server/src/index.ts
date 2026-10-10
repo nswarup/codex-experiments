@@ -4,6 +4,10 @@ import { streamSSE } from "hono/streaming";
 import { selectProvider, mockProvider, type Provider, type Turn } from "./providers.js";
 import { TOPIC_SYSTEM, CHAT_SYSTEM, topicUserPrompt, chatContextBlock } from "../../shared/prompts.js";
 import { cacheGet, cachePut } from "./cache.js";
+import { authEnabled, isAuthed, login, loginPage, logout, requireAuth } from "./auth.js";
+import { serveStatic } from "@hono/node-server/serve-static";
+import { existsSync, readFileSync } from "node:fs";
+import path from "node:path";
 
 let provider: Provider = selectProvider();
 let providerError: string | null = null;
@@ -11,8 +15,16 @@ console.log(`[birdie] writer: ${provider.label}`);
 
 export const app = new Hono();
 
+// Password gate in front of everything (on when BIRDIE_PASSWORD is set).
+app.use("*", requireAuth);
+app.get("/login", (c) => (isAuthed(c) && authEnabled() ? c.redirect("/", 302) : c.html(loginPage())));
+app.post("/api/login", login);
+app.post("/api/logout", logout);
+
 app.get("/api/health", (c) =>
-  c.json({ ok: true, provider: provider.name, label: provider.label, lastError: providerError }),
+  isAuthed(c)
+    ? c.json({ ok: true, auth: authEnabled(), provider: provider.name, label: provider.label, lastError: providerError })
+    : c.json({ ok: true, auth: true }),
 );
 
 function clean(s: unknown, max: number): string {
@@ -135,6 +147,26 @@ async function* record(src: AsyncIterable<string>, done: (text: string) => void)
     yield d;
   }
   if (/\nEND\s*$/.test(text)) done(text);
+}
+
+/*
+ * The built web app (web/dist), served by this same server so one process (and one
+ * password) covers everything. Hashed assets cache for a year; pages never cache.
+ */
+const DIST = path.resolve(import.meta.dirname, "../../web/dist");
+if (existsSync(path.join(DIST, "index.html")) && process.env.BIRDIE_STATIC !== "off") {
+  const root = path.relative(process.cwd(), DIST) || ".";
+  app.use("/assets/*", async (c, next) => {
+    await next();
+    c.header("Cache-Control", "public, max-age=31536000, immutable");
+  });
+  app.use("*", serveStatic({ root }));
+  const indexHtml = readFileSync(path.join(DIST, "index.html"), "utf8");
+  app.get("*", (c) => {
+    if (c.req.path.startsWith("/api/")) return c.json({ error: "Not found" }, 404);
+    c.header("Cache-Control", "no-cache");
+    return c.html(indexHtml);
+  });
 }
 
 export function setProviderForTests(p: Provider) {
