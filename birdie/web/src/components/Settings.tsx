@@ -26,6 +26,7 @@ function Section({ title, children }: { title: string; children: React.ReactNode
 export function SettingsSheet({ open, onClose }: { open: boolean; onClose: () => void }) {
   const prefs = useApp((s) => s.prefs);
   const [labOpen, setLabOpen] = useState(false);
+  const [confirmReset, setConfirmReset] = useState(false);
 
   return (
     <Sheet open={open} onClose={onClose} title="Reading settings">
@@ -213,16 +214,22 @@ export function SettingsSheet({ open, onClose }: { open: boolean; onClose: () =>
                     />
                     <button
                       type="button"
-                      className="press h-11 self-start font-serif text-[15px] text-muted underline underline-offset-4"
+                      className={cn(
+                        "press h-11 self-start font-serif text-[15px] underline underline-offset-4",
+                        confirmReset ? "font-semibold text-strong" : "text-muted",
+                      )}
                       onClick={() => {
-                        if (confirm("Start over? This clears your interests, saved topics and history on this device.")) {
-                          resetEverything();
-                          // A clean reload also clears in-memory feed, jobs and reading time.
-                          location.replace("/");
+                        // Two taps instead of confirm(): dialogs are blocked in embedded views.
+                        if (!confirmReset) {
+                          setConfirmReset(true);
+                          window.setTimeout(() => setConfirmReset(false), 4000);
+                          return;
                         }
+                        resetEverything();
+                        location.reload();
                       }}
                     >
-                      Start over (reset this device)
+                      {confirmReset ? "Tap again to erase everything on this device" : "Start over (reset this device)"}
                     </button>
                   </div>
                 </motion.div>

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" data-theme="dark">
+<html lang="en" data-reader-theme="dark">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content" />
@@ -17,7 +17,7 @@
       try {
         var s = JSON.parse(localStorage.getItem("birdie.state.v1") || "{}");
         var t = (s.prefs && s.prefs.theme) || "dark";
-        document.documentElement.dataset.theme = t;
+        document.documentElement.dataset.readerTheme = t;
       } catch (e) {}
     </script>
   </head>

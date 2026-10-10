@@ -8,7 +8,7 @@
 /* Themes: Kindle-like, warm, never pure white text or blue links.    */
 /* ------------------------------------------------------------------ */
 :root,
-[data-theme="dark"] {
+[data-reader-theme="dark"] {
   --bg: #121212;
   --text: #cfc8ba;
   --strong: #e2dbcd;
@@ -28,7 +28,7 @@
   --shadow: 0 10px 30px rgba(0, 0, 0, 0.45), 0 1px 0 rgba(255, 255, 255, 0.03) inset;
   color-scheme: dark;
 }
-[data-theme="sepia"] {
+[data-reader-theme="sepia"] {
   --bg: #f4ecd8;
   --text: #5b4636;
   --strong: #3f2f22;
@@ -48,7 +48,7 @@
   --shadow: 0 10px 30px rgba(91, 70, 54, 0.18);
   color-scheme: light;
 }
-[data-theme="light"] {
+[data-reader-theme="light"] {
   --bg: #fbfaf7;
   --text: #1c1c1c;
   --strong: #111111;

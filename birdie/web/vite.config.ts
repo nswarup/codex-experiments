@@ -6,11 +6,16 @@ import path from "node:path";
 
 const API = process.env.BIRDIE_API ?? "http://localhost:8787";
 
+// `VITE_TARGET=artifact` builds the copy published as a Claude artifact: relative paths,
+// no service worker (artifacts can't register one), output in dist-artifact/.
+const ARTIFACT = process.env.VITE_TARGET === "artifact";
+
 export default defineConfig({
+  base: ARTIFACT ? "./" : "/",
   plugins: [
     react(),
     tailwindcss(),
-    VitePWA({
+    !ARTIFACT && VitePWA({
       registerType: "autoUpdate",
       includeAssets: ["icon.svg"],
       manifest: {
@@ -38,6 +43,6 @@ export default defineConfig({
   resolve: { alias: { "@": path.resolve(import.meta.dirname, "src") } },
   server: { port: 5173, proxy: { "/api": { target: API, changeOrigin: true } } },
   preview: { proxy: { "/api": { target: API, changeOrigin: true } } },
-  build: { chunkSizeWarningLimit: 1200 },
+  build: { chunkSizeWarningLimit: 1200, outDir: ARTIFACT ? "dist-artifact" : "dist" },
   test: { environment: "node", include: ["tests/**/*.test.ts"] },
 });

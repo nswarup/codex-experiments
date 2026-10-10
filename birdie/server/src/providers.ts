@@ -1,6 +1,6 @@
 import Anthropic from "@anthropic-ai/sdk";
 import { spawn, spawnSync } from "node:child_process";
-import { mockChat, mockTopic } from "./mock.js";
+import { mockChat, mockTopic } from "../../shared/mock.js";
 
 export type Turn = { role: "user" | "assistant"; content: string };
 

@@ -1,4 +1,4 @@
-import manifest from "../../web/src/content/manifest.json" with { type: "json" };
+import manifest from "../web/src/content/manifest.json" with { type: "json" };
 
 export const CATEGORIES = [
   "Music", "Language", "Math", "Art", "Food", "Animals", "Clothing",

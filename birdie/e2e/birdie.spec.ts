@@ -92,10 +92,10 @@ test("reading settings switch theme and text size, and persist", async ({ page }
   await page.getByRole("button", { name: "Skip tour" }).click();
   await page.getByRole("button", { name: "Reading settings" }).first().click();
   await page.getByRole("radio", { name: /Sepia/ }).click();
-  await expect(page.locator("html")).toHaveAttribute("data-theme", "sepia");
+  await expect(page.locator("html")).toHaveAttribute("data-reader-theme", "sepia");
   await page.getByRole("button", { name: "Larger text" }).click();
   await page.reload();
-  await expect(page.locator("html")).toHaveAttribute("data-theme", "sepia");
+  await expect(page.locator("html")).toHaveAttribute("data-reader-theme", "sepia");
   const size = await page.evaluate(() => getComputedStyle(document.documentElement).getPropertyValue("--read-size"));
   expect(size.trim()).toBe("20px");
 });

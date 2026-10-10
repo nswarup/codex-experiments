@@ -177,18 +177,22 @@ function ActionButton({
 
 async function share(view: ArticleView) {
   const text = `${view.title}: ${view.hook ?? ""}`.trim();
-  const url = typeof location !== "undefined" ? location.origin : "";
   cue("tap");
-  try {
-    if (navigator.share) {
-      await navigator.share({ title: view.title, text, url });
+  if (navigator.share) {
+    try {
+      await navigator.share({ title: view.title, text });
       return;
+    } catch (e) {
+      if ((e as Error).name === "AbortError") return; // the reader cancelled
+      // Refused (e.g. inside an embedded frame): fall through to copying.
     }
-    await navigator.clipboard.writeText(`${text}\n${view.lede ?? ""}`);
+  }
+  try {
+    await navigator.clipboard.writeText(`${text}\n\n${view.lede ?? ""}`);
     cue("success", { emphasis: "subtle" });
     toast("Copied to clipboard", { duration: 2000 });
   } catch {
-    /* cancelled */
+    toast("Couldn't share from here. Long-press the title to copy it.", { duration: 2600 });
   }
 }
 

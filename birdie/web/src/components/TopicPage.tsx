@@ -6,6 +6,7 @@ import { readyTopic, retryTopic, useJob } from "@/lib/generate";
 import { COVERING, popToFeed, useUi } from "@/lib/ui";
 import { useEngagement } from "@/hooks/useEngagement";
 import { cue } from "@/lib/feedback";
+import { IS_ARTIFACT } from "@/lib/api";
 import { TopicArticle, viewOf, type ArticleView } from "./TopicArticle";
 import { Nudges } from "./Nudges";
 import { TopBar } from "./TopBar";
@@ -56,7 +57,9 @@ export function TopicPage({ id }: { id: string }) {
         {job?.demo && (
           <div className="mx-auto mt-4 max-w-[34em] px-6">
             <p className="rounded-xl border border-dashed border-dot px-4 py-3 font-mono text-[12.5px] leading-relaxed text-muted">
-              Demo mode: Birdie's writer isn't connected, so new topics are placeholders. See the README to connect Claude.
+              {IS_ARTIFACT
+                ? "Demo mode: Birdie couldn't use Claude here, so new topics are placeholders. The 100 built-in topics all work."
+                : "Demo mode: Birdie's writer isn't connected, so new topics are placeholders. See the README to connect Claude."}
             </p>
           </div>
         )}
@@ -110,7 +113,7 @@ function WritingStatus() {
       </motion.span>
       <p className="font-mono text-[13px] leading-relaxed text-muted">
         Birdie is writing this one for you…
-        {secs >= 6 && <span className="block opacity-80">New topics usually take 10–20 seconds.</span>}
+        {secs >= 6 && <span className="block opacity-80">New topics usually take under a minute.</span>}
       </p>
     </div>
   );

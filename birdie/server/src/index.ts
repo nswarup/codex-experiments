@@ -2,7 +2,7 @@ import { Hono, type Context } from "hono";
 import { serve } from "@hono/node-server";
 import { streamSSE } from "hono/streaming";
 import { selectProvider, mockProvider, type Provider, type Turn } from "./providers.js";
-import { TOPIC_SYSTEM, CHAT_SYSTEM, topicUserPrompt, chatContextBlock } from "./prompts.js";
+import { TOPIC_SYSTEM, CHAT_SYSTEM, topicUserPrompt, chatContextBlock } from "../../shared/prompts.js";
 
 let provider: Provider = selectProvider();
 let providerError: string | null = null;

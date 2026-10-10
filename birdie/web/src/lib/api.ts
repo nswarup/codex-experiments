@@ -58,7 +58,11 @@ async function stream(path: string, body: unknown, h: StreamHandlers, signal?: A
   if (!finished) throw new StreamError("The connection dropped before Birdie finished. Try again?");
 }
 
-export function streamTopic(query: string, context: string | undefined, h: StreamHandlers, signal?: AbortSignal) {
+/** True in the build published as a Claude artifact (no Birdie server; Claude via `sample`). */
+export const IS_ARTIFACT = import.meta.env.VITE_TARGET === "artifact";
+
+export async function streamTopic(query: string, context: string | undefined, h: StreamHandlers, signal?: AbortSignal) {
+  if (IS_ARTIFACT) return (await import("./sampleTransport")).sampleTopic(query, context, h, signal);
   return stream("/api/topic", { query, context }, h, signal);
 }
 
@@ -67,11 +71,12 @@ export interface ChatTurn {
   content: string;
 }
 
-export function streamChat(
+export async function streamChat(
   body: { topicTitle?: string; topicText?: string; highlight?: string; messages: ChatTurn[] },
   h: StreamHandlers,
   signal?: AbortSignal,
 ) {
+  if (IS_ARTIFACT) return (await import("./sampleTransport")).sampleChat(body, h, signal);
   return stream("/api/chat", body, h, signal);
 }
 

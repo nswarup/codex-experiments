@@ -20,7 +20,7 @@ export function App() {
 
   useEffect(() => {
     const root = document.documentElement;
-    root.dataset.theme = theme;
+    root.dataset.readerTheme = theme;
     document.querySelector('meta[name="theme-color"]')?.setAttribute("content", THEME_COLOR[theme]);
   }, [theme]);
 
