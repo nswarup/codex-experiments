@@ -18,23 +18,13 @@
     },
     {
       "opening": "The birth of graph theory",
-      "linkId": "four-color-theorem",
-      "text": "Euler's dots-and-lines picture grew into graph theory, now used for networks, circuits and maps. The four color theorem is one of its most famous problems."
+      "linkId": null,
+      "text": "Euler's 1736 paper is usually counted as the first in graph theory. His dots-and-lines picture of seven bridges grew into a whole field, now used for networks, circuits and route planning."
     },
     {
       "opening": "Kaliningrad's bridges today",
       "linkId": null,
       "text": "Königsberg is now Kaliningrad, in Russia. Several bridges were lost in the Second World War or later replaced, and with today's layout a walk crossing each bridge once is possible, though it cannot end where it began."
-    },
-    {
-      "opening": "Puzzles as networks",
-      "linkId": "gods-number",
-      "text": "The same habit of thinking in connections helps with puzzles like the Rubik's Cube, where every position is a point and every twist is a line, and the question becomes the shortest route."
-    },
-    {
-      "opening": "The Chinese postman problem",
-      "linkId": null,
-      "text": "A modern cousin asks for the shortest route that walks every street at least once and returns home. Delivery and road-gritting rounds can be planned this way."
     }
   ],
   "tags": [

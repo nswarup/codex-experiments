@@ -7,19 +7,9 @@
   "lede": "In Chaucer's time, \"bite\" sounded close to modern \"beet\", \"meet\" was nearer to \"mate\", and \"house\" was close to \"hoose\". Over about three centuries, from around 1400, the long vowels of English moved, each one pushing into the space of another. Linguists call it the Great Vowel Shift, and it is the main reason English spelling and pronunciation part ways.",
   "bullets": [
     {
-      "opening": "Otto Jespersen",
+      "opening": "Otto Jespersen's chain",
       "linkId": null,
       "text": "The Danish linguist Otto Jespersen gave the change its name in the early twentieth century. He described it as a chain: as one vowel moved up, the vowel behind it moved up to fill the gap."
-    },
-    {
-      "opening": "Spelling froze too early",
-      "linkId": "letter-thorn",
-      "text": "Printing arrived in England in the 1470s, and printers began fixing spellings while the shift was still under way. The same era of early printing explains why \"the\" ended up written as \"ye\" on old signs."
-    },
-    {
-      "opening": "Shakespeare's original pronunciation",
-      "linkId": null,
-      "text": "Some of Shakespeare's rhymes look broken today because English vowels have kept moving since his time. Productions in reconstructed pronunciation, including some at London's rebuilt Globe theatre, bring back rhymes and puns that modern speech has lost."
     },
     {
       "opening": "Why the shift happened",
@@ -27,9 +17,19 @@
       "text": "Nobody knows for sure. Ideas include people moving into London from other regions and the social pull of copying higher-status speech. Linguists still debate both the cause and how orderly it really was."
     },
     {
-      "opening": "Older than the shift",
-      "linkId": "oxford-aztecs",
-      "text": "Teaching at Oxford was already a few centuries old when the shift began, so its earliest scholars spoke an English whose vowels would sound foreign to students there now, even when the spelling looks familiar."
+      "opening": "Spelling froze too early",
+      "linkId": null,
+      "text": "Printing arrived in England in the 1470s, and printers began fixing spellings while the shift was still under way. So English kept writing the old vowels long after people stopped saying them."
+    },
+    {
+      "opening": "Shakespeare's original pronunciation",
+      "linkId": null,
+      "text": "Shakespeare wrote near the end of the shift, and vowels have kept moving since, so some of his rhymes look broken today. Productions in reconstructed pronunciation, including some at London's rebuilt Globe theatre, bring those rhymes back."
+    },
+    {
+      "opening": "Scots hoose and oot",
+      "linkId": null,
+      "text": "The shift did not reach every dialect in the same way. In Scots, the old long vowel of \"house\" and \"out\" never moved, which is why \"hoose\" and \"oot\" still sound the way Chaucer might have said them."
     }
   ],
   "tags": [

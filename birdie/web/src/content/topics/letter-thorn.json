@@ -7,6 +7,11 @@
   "lede": "Old English had a letter for the th sound: þ, called thorn. In handwriting it gradually came to look a lot like a y. When printing reached England in the fifteenth century, type cast for other European languages had no thorn, so printers used y in its place. \"Ye\" in old texts is simply \"the\", and it was said that way.",
   "bullets": [
     {
+      "opening": "The little e above the y",
+      "linkId": null,
+      "text": "Scribes and printers often wrote \"the\" as a y with a small e perched above it, and \"that\" as a y with a small t. These were space-saving shorthand, and the y in each one stood for thorn."
+    },
+    {
       "opening": "Ye Olde",
       "linkId": null,
       "text": "Fake-archaic shop names such as \"Ye Olde Tea Shoppe\" became popular centuries later, as a playful nod to the past. Most people now say \"yee\", but a fifteenth-century reader seeing that word would have said \"the\"."
@@ -20,21 +25,6 @@
       "opening": "Icelandic thorn",
       "linkId": null,
       "text": "Thorn has not vanished everywhere. Icelandic still uses it in everyday writing, along with its cousin eth, ð, which English also once used for the same th sounds."
-    },
-    {
-      "opening": "Spelling and the vowel shift",
-      "linkId": "great-vowel-shift",
-      "text": "Early printers helped fix English spelling at the same time that the sound of its long vowels was changing. Many oddities of written English date from that period."
-    },
-    {
-      "opening": "Wynn and other lost letters",
-      "linkId": null,
-      "text": "English also dropped wynn, ƿ, for the w sound, which scribes gradually replaced with w, and yogh, ȝ, used for sounds like the old one in \"night\"."
-    },
-    {
-      "opening": "Typefaces shape language",
-      "linkId": "helvetica",
-      "text": "The thorn story is a reminder that the tools of type, from medieval metal sorts to modern fonts like Helvetica, quietly shape how words look."
     }
   ],
   "tags": [

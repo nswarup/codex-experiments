@@ -12,29 +12,19 @@
       "text": "Each new seed forms at the centre, turned about 137.5 degrees from the last. That angle never lines seeds up in neat rows, so they fill the disc evenly, and the Fibonacci spirals appear as a side effect."
     },
     {
-      "opening": "Leonardo of Pisa's rabbits",
+      "opening": "Vogel's sunflower model",
       "linkId": null,
-      "text": "The sequence is named after Leonardo of Pisa, known as Fibonacci, who used it in a 1202 book as a puzzle about breeding rabbits. Indian scholars had described the same numbers centuries earlier while studying poetic rhythm."
+      "text": "In 1979 the mathematician Helmut Vogel showed that a simple formula, placing each new seed at that angle, draws a convincing sunflower head. Change the angle by even a fraction of a degree and gaps and straight spokes appear."
     },
     {
-      "opening": "Pineapple and pine cone spirals",
-      "linkId": "pineapple-status",
-      "text": "The same pattern shows up in pine cones and in the scales of a pineapple, which often run in spirals of 8 and 13. Plants that add new parts at that steady turning angle tend to show it."
+      "opening": "Why the plant finds the angle",
+      "linkId": null,
+      "text": "Biologists think each new seed bud forms where a growth hormone is most plentiful, as far as possible from the buds just before it. Following that rule over and over settles naturally on the golden angle."
     },
     {
       "opening": "Turing's Sunflowers",
       "linkId": null,
       "text": "Alan Turing studied plant spirals near the end of his life. In 2012 a Manchester citizen science project grew hundreds of sunflowers in his honour and found that most fit the pattern, though about one in five did not fit neatly."
-    },
-    {
-      "opening": "Golden ratio myths",
-      "linkId": null,
-      "text": "The ratio between neighbouring Fibonacci numbers approaches the golden ratio, about 1.618. Popular claims that it was built into the Mona Lisa or the Parthenon are much shakier, and many historians doubt it was planned."
-    },
-    {
-      "opening": "Benford's law",
-      "linkId": "benfords-law",
-      "text": "Fibonacci numbers also follow Benford's law: roughly 30% of them start with a 1. Simple growth rules keep producing tidy, checkable patterns."
     }
   ],
   "tags": [

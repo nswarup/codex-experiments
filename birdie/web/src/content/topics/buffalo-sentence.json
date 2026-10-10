@@ -12,29 +12,14 @@
       "text": "The philosopher and computer scientist William J. Rapaport of the University at Buffalo devised the sentence in 1972. Steven Pinker later brought it to a wide audience in his 1994 book The Language Instinct."
     },
     {
-      "opening": "Garden-path sentences",
+      "opening": "The missing word \"that\"",
       "linkId": null,
-      "text": "Sentences like \"The horse raced past the barn fell\" lead the reader down one reading, then force a restart. The buffalo sentence is an extreme case, because word order alone has to carry the meaning."
+      "text": "The trick hides in a dropped word. Add it back and you get \"Buffalo buffalo that Buffalo buffalo buffalo, buffalo Buffalo buffalo.\" English lets us leave out that \"that\", as in \"the film I saw\", and here it leaves readers with no signposts at all."
     },
     {
       "opening": "Any number of buffaloes",
       "linkId": null,
-      "text": "Because buffalo works as a noun, adjective and verb, strings of almost any length can be read as grammatical. The eight-word version is simply the one that became famous."
-    },
-    {
-      "opening": "The Lion-Eating Poet",
-      "linkId": null,
-      "text": "The Chinese linguist Yuen Ren Chao wrote a short story in classical Chinese in which every syllable is pronounced \"shi\", with only tone telling them apart. Read aloud, it is close to impossible to follow."
-    },
-    {
-      "opening": "When a word goes strange",
-      "linkId": "semantic-satiation",
-      "text": "Repeating \"buffalo\" eight times can make it stop sounding like a word at all. That loss of meaning through repetition has a name, and it happens with any word."
-    },
-    {
-      "opening": "Tiny vocabularies",
-      "linkId": "toki-pona",
-      "text": "Making one word do many jobs is also the whole design of Toki Pona, an invented language with about 120 words, where context does much of the work."
+      "text": "Because buffalo works as a noun, an adjective-like place name and a verb, strings of almost any length can be read as grammatical. Even a single \"Buffalo.\" works, as a command to go and bully someone. The eight-word version is simply the one that became famous."
     }
   ],
   "tags": [

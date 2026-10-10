@@ -8,27 +8,22 @@
   "bullets": [
     {
       "opening": "The blindfold experiments",
-      "linkId": "mcgurk-effect",
-      "text": "In tests led by the acoustician Claudia Fritz and the violin maker Joseph Curtin, players wore goggles so they could not see which violin they held. Most could not reliably identify the old Italians, and the instrument chosen most often as a favourite was new. What we see shapes what we think we hear."
+      "linkId": null,
+      "text": "In tests led by the acoustician Claudia Fritz and the violin maker Joseph Curtin, players wore goggles so they could not see which violin they held. Most could not reliably identify the old Italians, and the instrument chosen most often as a favourite was new."
     },
     {
       "opening": "The Little Ice Age theory",
       "linkId": null,
-      "text": "One idea is that a long cold spell in Europe made trees grow slowly, giving denser, more even spruce. It is a hypothesis drawn from tree rings, not a settled answer."
+      "text": "One idea is that a long cold spell in Europe made trees grow slowly, giving denser, more even spruce for Stradivari's tops. It is a hypothesis drawn from tree rings, not a settled answer."
     },
     {
-      "opening": "Chemistry in the wood",
+      "opening": "Chemistry in Stradivari's wood",
       "linkId": null,
       "text": "Chemists have found traces of minerals such as borax and zinc in samples of Stradivari's wood, suggesting it was deliberately treated. Whether that changed the tone is still debated."
     },
     {
-      "opening": "The forest of violins",
+      "opening": "The Lady Blunt sale",
       "linkId": null,
-      "text": "Makers in Cremona are thought to have used spruce from the Alpine forests around Paneveggio in northern Italy. Violin makers still visit to choose wood there today."
-    },
-    {
-      "opening": "Prices beyond reason",
-      "linkId": "tulip-mania",
       "text": "In 2011 the \"Lady Blunt\" Stradivarius sold for about £9.8 million, with the money going to relief work in Japan after that year's earthquake. Rarity and history, not only sound, set prices like that."
     }
   ],

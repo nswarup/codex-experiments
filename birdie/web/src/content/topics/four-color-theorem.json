@@ -22,14 +22,9 @@
       "text": "Many mathematicians disliked a proof too long to check by hand. Confidence grew as others re-checked it, and in 2005 Georges Gonthier verified it fully with proof-checking software."
     },
     {
-      "opening": "The rules of the game",
-      "linkId": "baarle",
-      "text": "Each region must be one connected piece, and touching at a single corner does not count as neighbours. Countries split into scattered pieces, like the patchwork of enclaves at Baarle, break that rule and can need more colors."
-    },
-    {
-      "opening": "Graph theory",
-      "linkId": "konigsberg-bridges",
-      "text": "Mathematicians turn a map into dots for regions and lines for shared borders. This way of thinking goes back to Euler's puzzle about the bridges of Königsberg."
+      "opening": "The rules of the map",
+      "linkId": null,
+      "text": "Each region must be one connected piece, and touching at a single corner does not count as neighbours. Countries split into scattered pieces break that rule, and a map of them can need more than four colors."
     },
     {
       "opening": "Map coloring in atlases",

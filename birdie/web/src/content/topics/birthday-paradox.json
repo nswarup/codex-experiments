@@ -25,16 +25,6 @@
       "opening": "Birthday attacks",
       "linkId": null,
       "text": "Cryptographers borrow the idea. Digital fingerprints of files can collide far sooner than their size suggests, so designers make them long enough that even the birthday shortcut takes an impossible amount of work."
-    },
-    {
-      "opening": "Puzzles that beat hunches",
-      "linkId": "monty-hall",
-      "text": "Real births are not spread evenly through the year, and that only makes matches slightly more likely. Like the Monty Hall problem, this is a puzzle where careful counting beats a confident hunch."
-    },
-    {
-      "opening": "Benford's first digits",
-      "linkId": "benfords-law",
-      "text": "Benford's law is another case where chance looks lopsided once you count properly. Both show that what feels evenly spread and what is evenly spread can be very different things."
     }
   ],
   "tags": [

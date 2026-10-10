@@ -30,6 +30,22 @@ def words(s: str) -> int:
     return len(WORD_RE.findall(s))
 
 
+STOP = set("""a an the and or but of in on at to for from by with as is are was were be been it its this that these those
+their there they them he she his her we you your our i not no so than then into over under about after before more most
+some such only also very can could would should will just one two three first new many much all any each other same""".split())
+
+
+def stems(s: str) -> set:
+    """Crude content-word stems, enough to tell whether a bullet shares any subject words."""
+    out = set()
+    for w in WORD_RE.findall(s.lower()):
+        w = w.strip("'’")
+        if len(w) < 4 or w in STOP:
+            continue
+        out.add(w[:5])
+    return out
+
+
 def main(argv):
     manifest = json.loads((CONTENT / "manifest.json").read_text())
     by_id = {m["id"]: m for m in manifest}
@@ -75,8 +91,9 @@ def main(argv):
         if not (32 <= lw <= 80):
             warn(f"lede {lw} words (target 40-70)")
         bullets = t["bullets"]
-        if not (4 <= len(bullets) <= 6):
-            err(f"{len(bullets)} bullets (need 4-6)")
+        if not (3 <= len(bullets) <= 5):
+            err(f"{len(bullets)} bullets (need 3-5)")
+        subject = stems(t["title"] + " " + hook + " " + t["lede"] + " " + t["peek"]) | {g[:5] for tag in t["tags"] for g in tag.split("-")}
         links = 0
         total = lw
         for i, b in enumerate(bullets):
@@ -96,12 +113,13 @@ def main(argv):
                     links += 1
             tw = words(b.get("text", ""))
             total += tw
+            # Relevance: a bullet that shares no subject words with its topic is probably a tangent.
+            if not (stems(op + " " + b.get("text", "")) & subject):
+                warn(f"bullet {i} ({op!r}) shares no key words with the topic: check it is on-subject")
             if not (12 <= tw <= 70):
                 warn(f"bullet {i} text {tw} words")
-        if links < 2:
-            err(f"only {links} in-corpus links (need >= 2)")
-        if not (200 <= total <= 340):
-            warn(f"body {total} words (target 220-320)")
+        if not (130 <= total <= 300):
+            warn(f"body {total} words (target 150-280)")
         tags = t["tags"]
         if not (3 <= len(tags) <= 5) or any(not re.fullmatch(r"[a-z0-9]+(-[a-z0-9]+)*", x) for x in tags):
             err(f"tags invalid: {tags}")

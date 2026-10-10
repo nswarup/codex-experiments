@@ -7,11 +7,6 @@
   "lede": "On 29 August 1952, the pianist David Tudor sat down at a piano in Woodstock, New York, and played nothing. He closed the keyboard lid to mark the start of each of three movements and opened it to mark the end. The piece was John Cage's 4′33″, and its material is the sound already in the room.",
   "bullets": [
     {
-      "opening": "The first audience",
-      "linkId": null,
-      "text": "Accounts of the premiere describe wind in the trees, rain on the roof and, in the last movement, people talking and walking out. Cage later said that was exactly the music he wanted people to notice."
-    },
-    {
       "opening": "The Harvard anechoic chamber",
       "linkId": null,
       "text": "Around 1951 Cage visited a room built to absorb all sound. He still heard two sounds, one high and one low, and was told they came from his own body. He concluded there is no such thing as true silence."
@@ -19,16 +14,21 @@
     {
       "opening": "Rauschenberg's White Paintings",
       "linkId": null,
-      "text": "Cage said his friend Robert Rauschenberg's all-white canvases gave him courage. The paintings are never blank in practice: they catch shadows and shifting light, the way the silent piece catches sound."
+      "text": "Cage said his friend Robert Rauschenberg's all-white canvases gave him the courage to go ahead. The paintings are never blank in practice: they catch shadows and shifting light, the way the silent piece catches sound."
     },
     {
-      "opening": "Klein's silent symphony",
-      "linkId": "klein-blue",
-      "text": "Yves Klein had a related idea: his Monotone-Silence Symphony holds one chord for about twenty minutes, then asks for about twenty minutes of silence. Both artists treated emptiness as the work itself."
+      "opening": "The first audience",
+      "linkId": null,
+      "text": "Accounts of the premiere describe wind in the trees, rain on the roof and, in the last movement, people talking and walking out. Cage later said that was exactly the music he wanted people to notice."
     },
     {
-      "opening": "A dispute over silence",
-      "linkId": "happy-birthday-copyright",
+      "opening": "A score of three tacets",
+      "linkId": null,
+      "text": "The published score marks each movement \"Tacet\", the word orchestral parts use when a player stays silent. A note says the piece may be performed by any instrumentalist or group, and the title can change to match a performance's actual length."
+    },
+    {
+      "opening": "The Batt/Cage dispute",
+      "linkId": null,
       "text": "In 2002 the British musician Mike Batt put a silent track credited to \"Batt/Cage\" on an album, and Cage's publisher objected. The matter was settled out of court, and Batt later described the affair as partly a publicity stunt."
     }
   ],

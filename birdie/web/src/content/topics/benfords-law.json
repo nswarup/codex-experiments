@@ -22,19 +22,14 @@
       "text": "Think of a value growing steadily. To get from 1 to 2 it must double, but to get from 8 to 9 it only needs to grow by about an eighth. So numbers spend much longer with a leading 1."
     },
     {
+      "opening": "Where Benford's law fails",
+      "linkId": null,
+      "text": "The law needs data spread across several orders of magnitude. Adult heights, phone numbers and lottery draws ignore it, so it only helps when the data could plausibly follow it."
+    },
+    {
       "opening": "Catching made-up accounts",
       "linkId": null,
       "text": "People inventing figures tend to spread first digits too evenly. Forensic accountants check whether expense claims and tax returns follow the curve, as one warning sign among many, not as proof by itself."
-    },
-    {
-      "opening": "Fibonacci numbers follow it",
-      "linkId": "fibonacci-sunflowers",
-      "text": "The Fibonacci sequence, the numbers behind sunflower spirals, obeys the law closely. Powers of 2 do as well, because both grow by multiplying again and again."
-    },
-    {
-      "opening": "Where it fails",
-      "linkId": "birthday-paradox",
-      "text": "The law needs data spread across several orders of magnitude. Adult heights, phone numbers and lottery draws ignore it, a reminder, like the birthday paradox, that probability intuition needs checking against the actual setup."
     }
   ],
   "tags": [

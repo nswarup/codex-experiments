@@ -7,9 +7,9 @@
   "lede": "The French artist Yves Klein loved how loose ultramarine pigment glowed, and disliked how ordinary binders dulled it. Working with the Paris paint dealer Édouard Adam, he found a synthetic resin that held the powder in place while keeping its brightness. He registered the formula in 1960, and the result became International Klein Blue.",
   "bullets": [
     {
-      "opening": "A registered formula",
-      "linkId": "vantablack-feud",
-      "text": "Klein did not own the color. He filed a sealed record of the recipe with the French patent office as proof it was his. The fight over who may use Vantablack is a modern echo of that idea."
+      "opening": "The Rhodopas binder",
+      "linkId": null,
+      "text": "The secret was the binder, a clear synthetic resin sold as Rhodopas M60A, thinned with alcohol and other solvents. It holds the grains of pigment without drowning them, so the surface stays matt, powdery and intensely blue."
     },
     {
       "opening": "Eleven blue canvases",
@@ -17,19 +17,14 @@
       "text": "In a 1957 show in Milan, Klein hung eleven nearly identical blue paintings, each with a different price. He said buyers were paying for something beyond the object itself. From then on, blue became the color most people link with his name."
     },
     {
+      "opening": "A registered formula",
+      "linkId": null,
+      "text": "Klein did not own the color. In 1960 he filed a sealed record of the recipe with the French patent office, a way of proving the date of an idea rather than a patent that stops others using it."
+    },
+    {
       "opening": "The Anthropometries",
       "linkId": null,
-      "text": "In 1960 he staged performances where models coated in his blue pressed their bodies onto paper while musicians played. The prints became some of his best-known works."
-    },
-    {
-      "opening": "Lapis lazuli",
-      "linkId": null,
-      "text": "Ultramarine was once ground from lapis lazuli mined in Afghanistan. In Renaissance Europe it could cost as much as gold, so painters often saved it for the robes of the Virgin Mary."
-    },
-    {
-      "opening": "Synthetic ultramarine",
-      "linkId": "perkin-mauve",
-      "text": "In the 1820s French chemists found a way to make ultramarine cheaply, part of the wave of manufactured colors that William Perkin's mauve would soon turn into an industry."
+      "text": "In 1960 he staged performances where models covered in his blue pressed themselves onto large sheets of paper while musicians played. The prints became some of his best-known works."
     }
   ],
   "tags": [
@@ -43,6 +38,7 @@
     "perkin-mauve",
     "mondrian-upside-down",
     "bob-ross",
+    "cage-433",
     "pale-blue-dot"
   ]
 }
