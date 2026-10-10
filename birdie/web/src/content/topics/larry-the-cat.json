@@ -7,34 +7,24 @@
   "lede": "In February 2011, a brown and white tabby from Battersea Dogs and Cats Home moved into 10 Downing Street. Larry was given the title Chief Mouser to the Cabinet Office, the first cat to hold it officially. He belongs to the civil service staff rather than to any prime minister, so when leaders move out, Larry stays.",
   "bullets": [
     {
+      "opening": "Adopted from Battersea",
+      "linkId": null,
+      "text": "Larry came from Battersea Dogs and Cats Home, the London rescue centre founded in the 1860s. Staff there reportedly picked him for his keen hunting instinct, which made his adoption one of the best-known in Britain."
+    },
+    {
+      "opening": "His official job description",
+      "linkId": null,
+      "text": "The government's own website describes his duties as greeting guests, inspecting security defences and testing antique furniture for napping quality. He is said to be wary of strangers, despite spending his days on a doorstep full of cameras."
+    },
+    {
       "opening": "Six prime ministers",
       "linkId": null,
       "text": "Larry arrived under David Cameron and was still in post through Theresa May, Boris Johnson, Liz Truss, Rishi Sunak and, by 2024, Keir Starmer. He has become a fixture of news footage outside the famous black door."
     },
     {
-      "opening": "Battersea Dogs and Cats Home",
+      "opening": "The rivalry with Palmerston",
       "linkId": null,
-      "text": "The London rescue centre, founded in the 1860s, has supplied several government cats. Its rehoming of Larry made it one of the best-known adoptions in Britain."
-    },
-    {
-      "opening": "Palmerston at the Foreign Office",
-      "linkId": null,
-      "text": "From 2016 the Foreign Office had its own Battersea cat, Palmerston. Newspapers covered their standoffs on Downing Street with mock seriousness until Palmerston retired in 2020."
-    },
-    {
-      "opening": "Humphrey the Downing Street cat",
-      "linkId": null,
-      "text": "Before Larry, a black and white stray named Humphrey served from 1989 to 1997, under Margaret Thatcher, John Major and Tony Blair. Cats have lived at Downing Street on and off for about a century."
-    },
-    {
-      "opening": "Why cats purr",
-      "linkId": "cats-purr",
-      "text": "Larry is said to be wary of strangers, which is typical of cats. Most purr and relax around a few trusted people rather than a crowd of photographers."
-    },
-    {
-      "opening": "The cat slow blink",
-      "linkId": "cat-slow-blink",
-      "text": "Photographers have caught him in plenty of half-closed-eye moments on the doorstep. To another cat, that slow blink is a friendly signal, a polite way of saying I mean no harm."
+      "text": "From 2016 the Foreign Office next door had its own Battersea cat, Palmerston. Newspapers covered his standoffs with Larry on Downing Street with mock seriousness until Palmerston retired in 2020."
     }
   ],
   "tags": [

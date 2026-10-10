@@ -7,29 +7,24 @@
   "lede": "On autumn and winter evenings, starlings gather before roosting and fly in vast, shifting clouds called murmurations. Flocks can number in the tens or hundreds of thousands, and the shape ripples and folds as if one mind were steering it. There is no leader. Research suggests each bird is mostly tracking a few of its nearest neighbours.",
   "bullets": [
     {
+      "opening": "A name from the sound",
+      "linkId": null,
+      "text": "The word murmuration has been used for a flock of starlings since at least the 1400s, apparently for the soft rushing murmur of thousands of wings turning together."
+    },
+    {
       "opening": "Seven nearest neighbours",
       "linkId": null,
       "text": "A 2008 study in Rome filmed flocks in 3D and found that each starling responds to about six or seven nearby birds, whatever the distance between them. That keeps the flock together even as it stretches and thins."
     },
     {
-      "opening": "Craig Reynolds' Boids",
+      "opening": "Turns that sweep across",
       "linkId": null,
-      "text": "In 1986, a computer graphics researcher showed that three simple rules, keep apart, match heading, stay close, were enough to make simulated birds flock convincingly. Versions of his method are now used for crowds and swarms in films."
-    },
-    {
-      "opening": "Patterns without a designer",
-      "linkId": "fibonacci-sunflowers",
-      "text": "Like the spirals in a sunflower head, a murmuration is order that nobody plans. Small local rules, repeated many times, produce a large shape that looks deliberate."
+      "text": "Later work on the same Roman flocks found that a change of speed or direction passes from bird to bird across the whole flock with little fading. That is why a turn starting at one edge can sweep the entire cloud."
     },
     {
       "opening": "Safety in numbers",
       "linkId": null,
-      "text": "The leading idea is that the swirling makes it hard for a falcon or hawk to pick out a single bird. Murmurations often grow more dramatic when a predator is nearby."
-    },
-    {
-      "opening": "Clever birds",
-      "linkId": "crows-faces",
-      "text": "Starlings are skilled mimics that can copy other birds, phones and car alarms. Mozart kept a pet starling in the 1780s and noted that it could sing a phrase from one of his piano concertos."
+      "text": "The leading idea is that the swirling makes it hard for a falcon or hawk to pick out a single bird. Murmurations often grow more dramatic when a predator is nearby, before the flock drops into its roost at dusk."
     }
   ],
   "tags": [

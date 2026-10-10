@@ -7,34 +7,24 @@
   "lede": "Levi Strauss did not invent jeans. A tailor named Jacob Davis, working in Reno, Nevada, began reinforcing the stress points of work trousers with copper rivets, the kind used on horse blankets. His customers loved them. He could not afford to patent the idea alone, so he wrote to Strauss, the San Francisco merchant who sold him his cloth.",
   "bullets": [
     {
-      "opening": "The 1873 patent",
-      "linkId": null,
-      "text": "Davis and Levi Strauss & Co. received a US patent for riveted pocket openings on 20 May 1873. That date is now treated as the birthday of blue jeans, and Davis moved to San Francisco to oversee production."
-    },
-    {
       "opening": "A request from a customer's wife",
       "linkId": null,
       "text": "The story goes that a woman asked Davis for trousers that would survive her husband's work. Davis himself described it this way, so it is a better source than most clothing legends, but it is still one man's account."
     },
     {
+      "opening": "The 1873 patent",
+      "linkId": null,
+      "text": "Davis and Levi Strauss & Co. received a US patent for riveted pocket openings on 20 May 1873. That date is now treated as the birthday of blue jeans, and Davis moved to San Francisco to oversee production."
+    },
+    {
+      "opening": "Waist overalls",
+      "linkId": null,
+      "text": "For decades the company did not call them jeans. Its riveted trousers were sold as waist overalls, and Levi Strauss & Co. only adopted the word jeans in its own advertising around 1960."
+    },
+    {
       "opening": "Hidden back-pocket rivets",
       "linkId": null,
       "text": "Rivets on the back pockets scratched saddles, chairs and car seats. In the 1930s the company covered them with fabric, and later it dropped them. The front-pocket rivets stayed."
-    },
-    {
-      "opening": "Denim and Nîmes",
-      "linkId": null,
-      "text": "Denim is usually traced to serge de Nîmes, a cloth from the French city, and jeans to Genoa, whose sailors wore sturdy cotton trousers. Both are standard dictionary explanations, though the early history of the fabrics is murky."
-    },
-    {
-      "opening": "Fasteners that changed clothing",
-      "linkId": "velcro",
-      "text": "The rivet is a simple fastener that turned an ordinary garment into a durable one. Velcro did something similar about eighty years later, starting from a walk in the woods."
-    },
-    {
-      "opening": "Why buttons switch sides",
-      "linkId": "buttons-sides",
-      "text": "Jeans kept the button fly long after zips arrived, and the 501 still uses one. Buttons have their own riddle: why men's and women's garments fasten on opposite sides."
     }
   ],
   "tags": [

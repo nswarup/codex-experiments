@@ -7,34 +7,24 @@
   "lede": "God's number is the most moves an all-knowing solver would ever need to solve a Rubik's Cube from any scramble. The cube has about 43 quintillion positions, so the answer stayed open for 30 years. In 2010 Tomas Rokicki, Herbert Kociemba, Morley Davidson and John Dethridge proved it is 20, counting any turn of a face as one move.",
   "bullets": [
     {
-      "opening": "Borrowed computer time",
+      "opening": "From 52 down to 20",
       "linkId": null,
-      "text": "The team split the positions into billions of groups and used clever symmetry to cut the work. Google donated spare computer time equal to about 35 years on a single processor."
+      "text": "In 1981 Morwen Thistlethwaite showed that 52 moves are always enough. Over the next three decades, mathematicians pushed that ceiling down step by step until it finally met the floor."
     },
     {
       "opening": "The superflip",
       "linkId": null,
-      "text": "Some positions really do need all 20 moves. The first one shown to, in 1995, is the superflip, where every edge is flipped in place and everything else looks solved."
+      "text": "The floor came from positions that really do need 20 moves. The first one shown to, in 1995, is the superflip, where every edge is flipped in place and everything else looks solved."
+    },
+    {
+      "opening": "Borrowed computer time",
+      "linkId": null,
+      "text": "To close the gap, the team split the positions into billions of groups and used symmetry to cut the work. Google donated spare computer time equal to about 35 years on a single processor."
     },
     {
       "opening": "Counting quarter turns",
       "linkId": null,
       "text": "If a half turn counts as two moves, the answer changes. Under that rule God's number was proved in 2014 to be 26."
-    },
-    {
-      "opening": "Ernő Rubik's puzzle",
-      "linkId": null,
-      "text": "Rubik, a Hungarian architecture lecturer, made the first cube in 1974 to help explain how parts move in space. It is said he took about a month to solve it himself."
-    },
-    {
-      "opening": "Proof by computer",
-      "linkId": "four-color-theorem",
-      "text": "The four colour theorem was one of the first major results proved with a computer's help. God's number followed the same path at a much larger scale."
-    },
-    {
-      "opening": "Counting game positions",
-      "linkId": "shannon-number",
-      "text": "Claude Shannon's estimate for chess dwarfs the cube's 43 quintillion, which is why nobody has come close to finding a God's number for chess."
     }
   ],
   "tags": [

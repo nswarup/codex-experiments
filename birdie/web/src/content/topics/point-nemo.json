@@ -4,8 +4,13 @@
   "category": "Places",
   "hook": "The spot in the ocean farthest from any land on Earth.",
   "peek": "Point Nemo is the place in the ocean farthest from land, deep in the South Pacific. The nearest islands are about 2,700 kilometres away, so astronauts passing overhead can be the closest people to anyone standing there.",
-  "lede": "Point Nemo is the oceanic pole of inaccessibility: the point in the sea farthest from any land. It lies in the South Pacific, about 2,700 kilometres from three islands, one near Easter Island, one in the Pitcairn group and one off Antarctica. Its position was worked out in 1992 by the survey engineer Hrvoje Lukatela using computer models of the world's coastlines.",
+  "lede": "Point Nemo is the oceanic pole of inaccessibility: the point in the sea farthest from any land. It lies in the South Pacific, about 2,700 kilometres from the nearest shore in every direction. Its position was worked out in 1992 by the survey engineer Hrvoje Lukatela, using computer models of the world's coastlines.",
   "bullets": [
+    {
+      "opening": "The three nearest islands",
+      "linkId": null,
+      "text": "The closest land is Ducie Island in the Pitcairn group, Motu Nui off Easter Island and Maher Island near Antarctica, each roughly the same distance away. Point Nemo sits at the centre of the circle they make."
+    },
     {
       "opening": "Captain Nemo",
       "linkId": null,
@@ -13,28 +18,13 @@
     },
     {
       "opening": "Closer to astronauts",
-      "linkId": "overview-effect",
+      "linkId": null,
       "text": "The International Space Station orbits about 400 kilometres up. When it passes over Point Nemo, the crew is far nearer to that patch of ocean than anyone on solid ground."
     },
     {
       "opening": "Where spacecraft come down",
       "linkId": null,
-      "text": "Space agencies aim old satellites and supply ships at the empty ocean around Point Nemo, because almost no ships pass by. The Russian space station Mir was brought down in this region in 2001."
-    },
-    {
-      "opening": "The Bloop",
-      "linkId": null,
-      "text": "In 1997 underwater microphones picked up a powerful low sound from the remote South Pacific. It fed years of sea-monster speculation before scientists concluded it was most likely ice cracking off Antarctica."
-    },
-    {
-      "opening": "Lovecraft's sunken city",
-      "linkId": null,
-      "text": "In a 1928 story, H.P. Lovecraft placed the fictional city of R'lyeh in the South Pacific, not far from where Point Nemo would later be calculated. The closeness is a coincidence."
-    },
-    {
-      "opening": "Empty places on the map",
-      "linkId": "bir-tawil",
-      "text": "Point Nemo is empty because it is far from everything. Bir Tawil, on the border of Egypt and Sudan, is empty for a stranger reason: no country claims it."
+      "text": "Space agencies aim old satellites and supply ships at the empty ocean around Point Nemo, because almost no ships pass by. The Russian space station Mir was brought down in this region in 2001, and the ISS is planned to follow."
     }
   ],
   "tags": [

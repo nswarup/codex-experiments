@@ -7,6 +7,11 @@
   "lede": "On most men's shirts the buttons sit on the right and the holes on the left. On most women's blouses it is the other way round. The split has lasted for well over a century, through factories and fast fashion, and yet nobody can say for certain how it started. What we have are theories, some more plausible than others.",
   "bullets": [
     {
+      "opening": "The medieval buttonhole",
+      "linkId": null,
+      "text": "Buttons are ancient, but for a long time they were mostly decoration. Buttons fastened through buttonholes spread in medieval Europe, which is when the question of which side even became possible."
+    },
+    {
       "opening": "Lady's maids",
       "linkId": null,
       "text": "The most repeated theory says wealthy women were dressed by servants. A right-handed maid facing her mistress would find buttons on the left easier to fasten. It sounds neat, but there is little documentary evidence for it."
@@ -17,19 +22,9 @@
       "text": "Another theory points to men drawing a sword with the right hand from the left side. A coat that overlaps left over right would not catch the hilt. Again, plausible and unproven."
     },
     {
-      "opening": "The medieval buttonhole",
+      "opening": "Habit, the dull answer",
       "linkId": null,
-      "text": "Buttons are ancient, but for a long time they were mostly decoration. Buttons fastened through buttonholes spread in medieval Europe, which is when the question of which side even became possible."
-    },
-    {
-      "opening": "The pocket gap",
-      "linkId": "womens-pockets",
-      "text": "Buttons are not the only place where men's and women's clothes quietly split apart. Pockets went the same way, with women's versions shrinking or vanishing for reasons that are much better documented."
-    },
-    {
-      "opening": "Tidy origin stories",
-      "linkId": "qwerty",
-      "text": "Like the story that QWERTY was designed to slow typists down, the sword and servant explanations may have been invented after the fact. The likeliest honest answer is habit: once a convention exists, makers keep it."
+      "text": "Other tidy stories involve riding sidesaddle or holding a baby on the left arm, and none is documented either. The likeliest honest answer is habit: once a convention exists, makers keep it, and buyers expect it."
     }
   ],
   "tags": [

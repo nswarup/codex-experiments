@@ -7,34 +7,19 @@
   "lede": "In the 1930s Alfred Mosher Butts, an architect out of work during the Great Depression, set out to design a word game. To decide how many of each tile to make and what each should score, he counted how often letters appeared in English, studying pages of newspapers including The New York Times. Common letters got many tiles and low scores. Rare ones got few tiles and high scores.",
   "bullets": [
     {
-      "opening": "Lexiko and Criss-Crosswords",
-      "linkId": null,
-      "text": "Butts first called his game Lexiko, then Criss-Crosswords. Game companies turned it down. In 1948 James Brunot bought the rights, tweaked the rules and renamed it Scrabble."
-    },
-    {
       "opening": "Not enough S tiles",
       "linkId": null,
       "text": "Butts deliberately kept S scarce, with only four in the bag, so players could not make easy points by tacking it on to every word."
     },
     {
+      "opening": "Lexiko and Criss-Crosswords",
+      "linkId": null,
+      "text": "Butts first called his game Lexiko, then Criss-Crosswords. Game companies turned it down. In 1948 James Brunot bought the rights, tweaked the rules and renamed it Scrabble, keeping Butts's letter values."
+    },
+    {
       "opening": "Different tiles abroad",
       "linkId": null,
-      "text": "Other languages use different sets, because letter frequencies change. In French, for example, K and W are rare and worth 10 points each."
-    },
-    {
-      "opening": "Nigel Richards",
-      "linkId": null,
-      "text": "The New Zealand player Nigel Richards won the French World Scrabble Championship in 2015 without speaking French. He had memorised the French word list."
-    },
-    {
-      "opening": "Dictionary ghosts",
-      "linkId": "dord",
-      "text": "Scrabble players live by word lists, and dictionaries sometimes slip. Dord appeared in Webster's for years without being a real word, born from a note that meant 'D or d'."
-    },
-    {
-      "opening": "The Landlord's Game",
-      "linkId": "landlords-game",
-      "text": "Monopoly, built from Lizzie Magie's Landlord's Game, was sold to Parker Brothers in 1935, the same decade Butts began work on his tiles. Both games grew out of hard times."
+      "text": "Because letter frequencies change from language to language, other editions use their own counts and scores. In French, for example, K and W are rare and worth 10 points each."
     }
   ],
   "tags": [

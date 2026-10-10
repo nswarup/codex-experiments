@@ -4,32 +4,27 @@
   "category": "Animals",
   "hook": "Sea otters sometimes hold paws while they nap so they do not drift apart.",
   "peek": "Sea otters sleep floating on their backs, out on the open water. To stay put, some wrap themselves in kelp, and pairs have been seen holding paws, which is about as charming as animal behaviour gets.",
-  "lede": "Sea otters spend almost their whole lives in the water, and they sleep there too, floating on their backs. The problem is currents. To avoid drifting off, they often wrap themselves in strands of kelp anchored to the seabed. Otters resting together have also been seen holding paws, which keeps a pair side by side while they doze. Mothers also float with pups resting on their chests.",
+  "lede": "Sea otters spend almost their whole lives in the water, and they sleep there too, floating on their backs. The problem is currents: a nap on the open sea can end a long way from where it began. Otters resting together have been seen holding paws, which keeps a pair side by side while they doze.",
   "bullets": [
+    {
+      "opening": "Kelp as an anchor",
+      "linkId": null,
+      "text": "Where kelp forests grow, a resting otter often rolls itself in a few strands of kelp anchored to the seabed. It works like a mooring line and keeps the otter from drifting while it sleeps."
+    },
+    {
+      "opening": "Pups on mother's chest",
+      "linkId": null,
+      "text": "A young pup spends much of its time floating on its mother's chest while she grooms it and rests. When she dives for food, she may leave the pup bobbing at the surface, sometimes tucked into kelp."
+    },
     {
       "opening": "Otter rafts",
       "linkId": null,
       "text": "Resting sea otters gather in groups called rafts, often sorted by sex. Rafts can hold dozens of animals, and some have been counted in the hundreds."
     },
     {
-      "opening": "The densest fur in nature",
-      "linkId": null,
-      "text": "Sea otters have no thick blubber. Instead they keep warm with the densest fur of any animal, up to about a million hairs per square inch, which traps a layer of air against the skin."
-    },
-    {
       "opening": "Nyac and Milo",
       "linkId": null,
       "text": "In 2007 a video of two otters at the Vancouver Aquarium holding paws while floating went viral, viewed millions of times. It made the behaviour famous well beyond marine biology, and aquariums still get asked about it."
-    },
-    {
-      "opening": "Tool-using animals",
-      "linkId": "crows-faces",
-      "text": "Otters have a loose pouch of skin under each foreleg where they can stash food and often a favourite stone, which they use as a tool at mealtimes. They join crows among the few tool-using animals."
-    },
-    {
-      "opening": "Dolphins' half-brain sleep",
-      "linkId": "dolphin-names",
-      "text": "Other marine mammals solve the same problem differently. Dolphins rest one half of the brain at a time, so they can keep swimming and surfacing while the other half sleeps."
     }
   ],
   "tags": [

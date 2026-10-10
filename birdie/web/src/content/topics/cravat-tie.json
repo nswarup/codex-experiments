@@ -7,9 +7,14 @@
   "lede": "In the 1600s, Croatian mercenaries serving the French crown wore knotted cloths around their necks. Fashionable Parisians copied the style, and the French called it a cravate, from the word for a Croat. That word spread across Europe, and the cravat became the ancestor of the modern necktie. Croatia still marks Cravat Day every year on 18 October.",
   "bullets": [
     {
-      "opening": "Older neckcloths",
+      "opening": "From Hrvat to cravate",
       "linkId": null,
-      "text": "Croatia gets the name, not the invention. Roman soldiers wore a neck scarf called a focale, and some figures in China's Terracotta Army have cloth at the neck too."
+      "text": "The Croatians call themselves Hrvati. In French that became Croate, and the neckcloth worn by the soldiers became a cravate. English borrowed the word as cravat in the mid-1600s."
+    },
+    {
+      "opening": "Louis XIV's cravat",
+      "linkId": null,
+      "text": "The story goes that the young Louis XIV took to the style and made the lace cravat part of court dress. Whether or not he led the way, cravats soon spread to fashionable men across Europe."
     },
     {
       "opening": "Beau Brummell",
@@ -17,24 +22,9 @@
       "text": "In Regency London, the dandy Beau Brummell made tying a starched cravat into an art. Getting the knot exactly right could reportedly take a long time and several spoiled cloths."
     },
     {
-      "opening": "Counting tie knots",
+      "opening": "Older neckcloths",
       "linkId": null,
-      "text": "In 1999 two Cambridge physicists, Thomas Fink and Yong Mao, used mathematics to count the possible tie knots of a reasonable size. They found 85, and later work by others counted far more."
-    },
-    {
-      "opening": "The four-in-hand knot",
-      "linkId": null,
-      "text": "The everyday narrow knot is usually linked to a London club of carriage drivers or to the reins of a four-horse coach. Nobody is sure which, so treat both as likely stories."
-    },
-    {
-      "opening": "Food with a foreign passport",
-      "linkId": "croissant-origin",
-      "text": "The cravat is one of many everyday things named for where they supposedly came from. The croissant has a similar story, with Austrian roots under a French name."
-    },
-    {
-      "opening": "The tuxedo's bow tie",
-      "linkId": "tuxedo-park",
-      "text": "By the late 1800s the cravat had narrowed into the long tie and the bow tie. The bow tie found a permanent home with evening wear, including the jacket named after a town in New York."
+      "text": "Croatia gets the name, not the invention. Roman soldiers wore a neck scarf called a focale, and some figures in China's Terracotta Army have cloth at the neck too."
     }
   ],
   "tags": [
@@ -48,6 +38,7 @@
     "croissant-origin",
     "buttons-sides",
     "heels-for-men",
-    "ok-origin"
+    "ok-origin",
+    "sandwich-earl"
   ]
 }

@@ -7,16 +7,6 @@
   "lede": "The croissant feels as French as anything gets, yet its ancestor is the kipferl, a crescent-shaped bread baked in Austria for centuries. In the late 1830s, a former Austrian army officer named August Zang opened a Viennese bakery in Paris. His kipferl and other Viennese breads caught on, and French bakers made the shape their own.",
   "bullets": [
     {
-      "opening": "The siege of Vienna legend",
-      "linkId": null,
-      "text": "A popular story says Viennese bakers invented the crescent to celebrate beating the Ottoman army in 1683. Historians doubt it: crescent breads existed in Austria well before then, and the tale appears much later."
-    },
-    {
-      "opening": "Marie Antoinette and the croissant",
-      "linkId": null,
-      "text": "Another legend credits the Austrian-born queen with bringing the croissant to France. There is no good evidence for it, and the pastry as we know it came long after her time."
-    },
-    {
       "opening": "Viennoiserie",
       "linkId": null,
       "text": "Zang's bakery gave French a word that is still on bakery signs: viennoiserie, meaning Viennese-style goods. It covers croissants, pains au chocolat and brioche, the rich breads between bread and pastry."
@@ -27,14 +17,14 @@
       "text": "The flaky croissant is a French refinement. Bakers fold butter into the dough again and again to build thin layers, and recipes for this version appear in the early 20th century."
     },
     {
-      "opening": "Food origin legends",
-      "linkId": "fortune-cookies",
-      "text": "Like the fortune cookie, credited to China but rooted in Japan, the croissant shows how a food's passport can change. It also shows how a good story beats a dull fact."
+      "opening": "The siege of Vienna legend",
+      "linkId": null,
+      "text": "A popular story says Viennese bakers invented the crescent to celebrate beating the Ottoman army in 1683. Historians doubt it: crescent breads existed in Austria well before then, and the tale appears much later."
     },
     {
-      "opening": "Myths that stick",
-      "linkId": "napoleon-height",
-      "text": "The Ottoman tale survives for the same reason people still think Napoleon was short: it is neat, memorable and repeated so often it sounds like history."
+      "opening": "Marie Antoinette and the croissant",
+      "linkId": null,
+      "text": "Another legend credits the Austrian-born queen with bringing the croissant to France. There is no good evidence for it, and the pastry as we know it came long after her time."
     }
   ],
   "tags": [

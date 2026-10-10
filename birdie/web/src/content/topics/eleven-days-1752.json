@@ -9,7 +9,12 @@
     {
       "opening": "Pope Gregory's calendar",
       "linkId": null,
-      "text": "The Julian year ran about 11 minutes too long, which adds up to a day every 128 years or so. In 1582, Pope Gregory XIII fixed it, and Catholic countries skipped 10 days that October."
+      "text": "The Julian year ran about 11 minutes too long, which adds up to a day every 128 years or so. In 1582, Pope Gregory XIII fixed it, and Catholic countries skipped 10 days that October. Britain held out for 170 years."
+    },
+    {
+      "opening": "A new New Year",
+      "linkId": null,
+      "text": "The same act moved the start of the legal year in England from 25 March to 1 January. Scotland had already made that change in 1600."
     },
     {
       "opening": "Give us our eleven days",
@@ -20,21 +25,6 @@
       "opening": "The 6 April tax year",
       "linkId": null,
       "text": "The British tax year used to start on 25 March, an old New Year's Day. Moving it 11 days later, to keep a full year, gave 5 April, and a further adjustment later settled on 6 April, where it still sits."
-    },
-    {
-      "opening": "A new New Year",
-      "linkId": null,
-      "text": "The same act moved the start of the legal year in England from 25 March to 1 January. Scotland had already made that change in 1600."
-    },
-    {
-      "opening": "Measuring time at sea",
-      "linkId": "harrison-clocks",
-      "text": "The same decades saw Britain thinking hard about time. John Harrison, a self-taught Yorkshire clockmaker, was building the sea clocks that would finally let sailors find their longitude."
-    },
-    {
-      "opening": "Where the gap began",
-      "linkId": "cleopatra-timeline",
-      "text": "The drifting calendar was Julius Caesar's, introduced in 46 BC after his stay in Cleopatra's Egypt, with help from an astronomer from Alexandria."
     }
   ],
   "tags": [

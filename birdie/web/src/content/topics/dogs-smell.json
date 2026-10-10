@@ -7,6 +7,11 @@
   "lede": "Estimates put a dog's smell receptors at around 300 million, against about 6 million in a person. The design matters as much as the number. When a dog sniffs, a fold of tissue sends part of the air into a separate chamber for smelling. When it breathes out, the air leaves through slits at the sides of the nose, so it does not push the scent away.",
   "bullets": [
     {
+      "opening": "Sniffing in quick bursts",
+      "linkId": null,
+      "text": "A dog on a scent does not take long breaths. It sniffs in short bursts, several times a second, and the air leaving the side slits flows backwards and down, which helps stir up and draw in fresh scent."
+    },
+    {
       "opening": "Smelling in stereo",
       "linkId": null,
       "text": "Each nostril takes in air separately, and dogs can compare the two. That helps them work out which direction a smell is coming from, a little like using two ears to place a sound."
@@ -20,21 +25,6 @@
       "opening": "Truffle dogs",
       "linkId": null,
       "text": "In Italy, breeds like the Lagotto Romagnolo are trained to sniff out truffles growing underground in woodland. They have largely replaced pigs, which tend to want the truffle for themselves."
-    },
-    {
-      "opening": "Elephants and the mirror test",
-      "linkId": "elephant-mirror",
-      "text": "Dogs are not the champions of smell genes. A 2014 study found that African elephants, also known for recognising themselves in mirrors, have roughly twice as many smell receptor genes as dogs, the most of any animal then tested."
-    },
-    {
-      "opening": "The cilantro soap gene",
-      "linkId": "cilantro-gene",
-      "text": "People vary in their smell receptors too. One gene variant may explain why some people find fresh coriander soapy, a small difference a dog would probably not notice."
-    },
-    {
-      "opening": "The smell of rain",
-      "linkId": "petrichor",
-      "text": "Humans are not hopeless sniffers. We are very sensitive to geosmin, the earthy molecule behind the smell of rain on dry ground, and can detect it at tiny concentrations."
     }
   ],
   "tags": [

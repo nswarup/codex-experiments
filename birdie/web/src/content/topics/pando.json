@@ -9,22 +9,17 @@
     {
       "opening": "Aspen clones",
       "linkId": null,
-      "text": "Aspens often reproduce by sending up new shoots from their roots instead of from seed. Each trunk may live a century or so, but the root system keeps sprouting replacements."
+      "text": "Aspens often reproduce by sending up new shoots from their roots instead of from seed. Each of Pando's trunks may live a century or so, but the root system keeps sprouting replacements."
     },
     {
-      "opening": "Ise Shrine's rebuilding",
-      "linkId": "ise-shrine",
-      "text": "Pando has replaced its trunks many times over while staying the same tree. Japan's Ise Shrine makes a similar bargain on purpose, rebuilding its buildings every 20 years so the shrine itself endures."
-    },
-    {
-      "opening": "Pando and the pyramids",
-      "linkId": "cleopatra-timeline",
-      "text": "Nobody knows exactly how old Pando is. Estimates range from several thousand years to tens of thousands, and if the higher ones are right it was already old when the Great Pyramid went up."
-    },
-    {
-      "opening": "Quaking aspen leaves",
+      "opening": "Pando's uncertain age",
       "linkId": null,
-      "text": "The species gets its name from leaves on long, flattened stalks that flutter in the lightest breeze. A whole hillside of them shimmers and makes a soft rustling sound, and in autumn the entire clone turns gold at once."
+      "text": "Nobody knows exactly how old Pando is. Estimates range from several thousand years to tens of thousands, because the roots have outlived every trunk that could be dated."
+    },
+    {
+      "opening": "A hillside that turns at once",
+      "linkId": null,
+      "text": "Because every trunk shares the same genes, the whole clone tends to leaf out together in spring and turn gold together in autumn, so the grove changes colour as a single block."
     },
     {
       "opening": "Pando's protective fences",
@@ -42,6 +37,7 @@
     "ise-shrine",
     "honey-keeps",
     "oxford-aztecs",
+    "cleopatra-timeline",
     "murmurations",
     "fibonacci-sunflowers"
   ]

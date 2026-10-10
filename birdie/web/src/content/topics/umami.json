@@ -18,18 +18,13 @@
     },
     {
       "opening": "Taste receptors on the tongue",
-      "linkId": "cilantro-gene",
-      "text": "For most of the 20th century, many Western researchers treated umami as a flavour enhancer rather than a taste. That changed around 2000, when scientists identified tongue receptors for glutamate. Receptor genes vary, which is also why cilantro tastes soapy to some."
+      "linkId": null,
+      "text": "For most of the 20th century, many Western researchers treated umami as a flavour enhancer rather than a taste. That changed around 2000, when scientists identified receptors on the tongue that respond to glutamate."
     },
     {
-      "opening": "Parmesan and Worcestershire",
-      "linkId": "caesar-salad",
-      "text": "Aged cheese, ripe tomatoes, cured anchovies and soy sauce are all rich in glutamate. A classic Caesar salad stacks several of them in one bowl, which helps explain why it tastes so full."
-    },
-    {
-      "opening": "Taste versus flavour",
-      "linkId": "petrichor",
-      "text": "Taste happens on the tongue, but most of what we call flavour comes from smell. That is why savoury food can taste flat with a blocked nose, the same sense that picks up the smell of rain."
+      "opening": "Glutamate-rich foods",
+      "linkId": null,
+      "text": "Umami is not only a Japanese taste. Aged Parmesan, ripe tomatoes, soy sauce, cured anchovies and dried mushrooms are all rich in glutamate or its partner molecules, which is why cooks everywhere reach for them to deepen a dish."
     }
   ],
   "tags": [

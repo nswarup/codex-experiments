@@ -12,6 +12,11 @@
       "text": "Whittier was built by the Army during the Second World War as a hidden supply port, chosen partly because low cloud and mountains made it hard to spot from the air."
     },
     {
+      "opening": "The Buckner Building",
+      "linkId": null,
+      "text": "An even larger Army building, once described as a city under one roof, stands empty nearby. It was abandoned in the 1960s and is now a well-known ruin."
+    },
+    {
       "opening": "The Anton Anderson Tunnel",
       "linkId": null,
       "text": "The only road in is a tunnel about 4 kilometres long that cars share with trains. It has one lane, so traffic takes turns in each direction on a timetable, and it closes at night."
@@ -22,19 +27,9 @@
       "text": "The school stands across the road from the tower, joined to it by a short underground passage. Children can get to class through the worst of the winter without stepping outside."
     },
     {
-      "opening": "Heavy snow",
-      "linkId": "snowflake-bentley",
-      "text": "Whittier gets several metres of snow in a typical winter, along with strong winds off the mountains. Living, shopping and working under one roof is a practical answer to the weather."
-    },
-    {
-      "opening": "The Buckner Building",
+      "opening": "Winters of deep snow",
       "linkId": null,
-      "text": "An even larger Army building, once described as a city under one roof, stands empty nearby. It was abandoned in the 1960s and is now a well-known ruin."
-    },
-    {
-      "opening": "Towns split in odd ways",
-      "linkId": "baarle",
-      "text": "Whittier fits a town into one building. Baarle, on the Belgian and Dutch border, does the opposite and splits one town between two countries."
+      "text": "Whittier gets several metres of snow in a typical winter, along with strong winds off the mountains. Living, shopping and working under one roof is a practical answer to the weather."
     }
   ],
   "tags": [

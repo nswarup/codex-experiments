@@ -14,27 +14,17 @@
     {
       "opening": "Positions versus games",
       "linkId": null,
-      "text": "The number of legal positions on a chessboard is far smaller, with modern estimates around 10 to the 44. The many games come from the many routes between them."
+      "text": "The number of legal positions on a chessboard is far smaller, with modern estimates around 10 to the 44. The huge count of games comes from the many routes between those positions."
     },
     {
-      "opening": "Finite next to infinity",
-      "linkId": "hilberts-hotel",
-      "text": "Huge as it is, the Shannon number is finite. Hilbert's Hotel shows how infinity plays by quite different rules."
-    },
-    {
-      "opening": "The wheat and chessboard legend",
+      "opening": "Shannon's two strategies",
       "linkId": null,
-      "text": "An old story, told in many versions, has a ruler paying one grain of wheat on the first square, two on the next, doubling each time. The total over 64 squares would far exceed the world's harvests."
+      "text": "Since checking everything was hopeless, Shannon sketched two ways forward: search every move to a limited depth, or look only at promising moves, more like a human. Chess programs still use versions of both ideas."
     },
     {
-      "opening": "Deep Blue",
+      "opening": "Why chess stays unsolved",
       "linkId": null,
-      "text": "In 1997 IBM's Deep Blue beat the world champion Garry Kasparov. It searched vast numbers of positions per second, but nowhere near all of them."
-    },
-    {
-      "opening": "Go's even larger numbers",
-      "linkId": "move-37",
-      "text": "The board game Go has about 10 to the 170 legal positions, which is one reason a Go program beating a top professional came almost twenty years after Deep Blue."
+      "text": "When IBM's Deep Blue beat Garry Kasparov in 1997, it searched huge numbers of positions per second but only a sliver of the whole game. Nobody yet knows whether perfect play ends in a win or a draw."
     }
   ],
   "tags": [
