@@ -4,6 +4,7 @@
  */
 import { CATEGORIES, type Bullet, type Category, type Topic } from "./types";
 import { CORPUS_BY_ID, matchCorpus } from "@/content";
+import { smart } from "./typography";
 
 export interface PartialTopic {
   category?: Category;
@@ -99,7 +100,14 @@ export function parseTopicStream(text: string): PartialTopic {
         break;
     }
   });
-  return out;
+  return {
+    ...out,
+    title: out.title && smart(out.title),
+    hook: out.hook && smart(out.hook),
+    peek: out.peek && smart(out.peek),
+    lede: out.lede && smart(out.lede),
+    bullets: out.bullets.map((b) => ({ ...b, opening: smart(b.opening), text: smart(b.text) })),
+  };
 }
 
 /** Turn a finished partial into a Topic. Related ids are filled in by the caller. */
@@ -131,11 +139,11 @@ export function parseChat(text: string): ParsedChat {
   if (idx < 0) {
     // Hide a READ NEXT line that is still arriving.
     const partial = /\n\s*R(E(A(D( (N(E(X(T)?)?)?)?)?)?)?)?$/.exec(text);
-    return { body: (partial ? text.slice(0, partial.index) : text).trim() };
+    return { body: smart((partial ? text.slice(0, partial.index) : text).trim()) };
   }
-  const body = text.slice(0, idx).trim();
+  const body = smart(text.slice(0, idx).trim());
   const rest = text.slice(idx + "READ NEXT:".length).trim();
-  const [title, hook] = rest.split("::").map((s) => s.trim());
+  const [title, hook] = rest.split("::").map((s) => smart(s.trim()));
   return { body, readNext: title ? { title, hook: hook ?? "" } : undefined };
 }
 

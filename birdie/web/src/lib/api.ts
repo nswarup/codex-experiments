@@ -61,9 +61,15 @@ async function stream(path: string, body: unknown, h: StreamHandlers, signal?: A
 /** True in the build published as a Claude artifact (no Birdie server; Claude via `sample`). */
 export const IS_ARTIFACT = import.meta.env.VITE_TARGET === "artifact";
 
-export async function streamTopic(query: string, context: string | undefined, h: StreamHandlers, signal?: AbortSignal) {
-  if (IS_ARTIFACT) return (await import("./sampleTransport")).sampleTopic(query, context, h, signal);
-  return stream("/api/topic", { query, context }, h, signal);
+export async function streamTopic(
+  query: string,
+  context: string | undefined,
+  h: StreamHandlers,
+  signal?: AbortSignal,
+  category?: string,
+) {
+  if (IS_ARTIFACT) return (await import("./sampleTransport")).sampleTopic(query, context, h, signal, category);
+  return stream("/api/topic", { query, context, category }, h, signal);
 }
 
 export interface ChatTurn {

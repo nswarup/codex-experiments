@@ -1,5 +1,4 @@
 import { useEffect, useRef, useState } from "react";
-import { motion } from "motion/react";
 import { RotateCw } from "lucide-react";
 import { useApp } from "@/lib/store";
 import { readyTopic, retryTopic, useJob } from "@/lib/generate";
@@ -56,10 +55,10 @@ export function TopicPage({ id }: { id: string }) {
       <main className="pb-[calc(env(safe-area-inset-bottom,0px)+56px)]">
         {job?.demo && (
           <div className="mx-auto mt-4 max-w-[34em] px-6">
-            <p className="rounded-xl border border-dashed border-dot px-4 py-3 font-mono text-[12.5px] leading-relaxed text-muted">
+            <p className="rounded-xl border border-dashed border-dot px-4 py-3 font-serif text-[14.5px] leading-relaxed text-muted">
               {IS_ARTIFACT
                 ? "Demo mode: Birdie couldn't use Claude here, so new topics are placeholders. The 100 built-in topics all work."
-                : "Demo mode: Birdie's writer isn't connected, so new topics are placeholders. See the README to connect Claude."}
+                : "Demo mode: new topics are placeholders until Birdie's writer is connected. Set ANTHROPIC_API_KEY or log in to Claude Code, then restart Birdie."}
             </p>
           </div>
         )}
@@ -103,15 +102,10 @@ function WritingStatus() {
   }, []);
   return (
     <div className="mx-auto mt-7 flex max-w-[34em] items-center gap-3 px-6" role="status">
-      <motion.span
-        className="text-dot"
-        animate={{ transform: ["translateY(0px) rotate(0deg)", "translateY(-3px) rotate(-4deg)", "translateY(0px) rotate(0deg)"] }}
-        transition={{ duration: 1.6, repeat: Infinity, ease: "easeInOut" }}
-        aria-hidden="true"
-      >
+      <span className="text-dot" aria-hidden="true">
         <BirdMark size={26} />
-      </motion.span>
-      <p className="font-mono text-[13px] leading-relaxed text-muted">
+      </span>
+      <p className="font-serif text-[15px] leading-relaxed text-muted">
         Birdie is writing this one for you…
         {secs >= 6 && <span className="block opacity-80">New topics usually take under a minute.</span>}
       </p>

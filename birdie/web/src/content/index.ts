@@ -1,9 +1,12 @@
 import type { Category, Topic } from "@/lib/types";
 import { CATEGORIES } from "@/lib/types";
+import { smartTopic } from "@/lib/typography";
 
 const modules = import.meta.glob<Topic>("./topics/*.json", { eager: true, import: "default" });
 
-export const CORPUS: Topic[] = Object.values(modules).sort((a, b) => a.id.localeCompare(b.id));
+export const CORPUS: Topic[] = Object.values(modules)
+  .map((t) => smartTopic(t))
+  .sort((a, b) => a.id.localeCompare(b.id));
 export const CORPUS_BY_ID: Record<string, Topic> = Object.fromEntries(CORPUS.map((t) => [t.id, t]));
 
 export const CATEGORY_LIST: Category[] = [...CATEGORIES];
@@ -43,7 +46,7 @@ export function normTitle(s: string): string {
     .toLowerCase()
     .normalize("NFKD")
     .replace(/[\u0300-\u036f]/g, "")
-    .replace(/['’"“”″′]/g, "")
+    .replace(/['‘’"“”″′]/g, "")
     .replace(/^(the|a|an)\s+/, "")
     .replace(/[^a-z0-9]+/g, " ")
     .trim();

@@ -11,18 +11,17 @@ function titleCase(s: string) {
 
 const SERVER_HOWTO = "Set ANTHROPIC_API_KEY before starting the server, or run it on a machine where Claude Code is installed and logged in. Birdie picks whichever it finds.";
 
-export function mockTopic(query: string, howTo: string = SERVER_HOWTO): string {
+export function mockTopic(query: string, _howTo: string = SERVER_HOWTO, category = "Inventions"): string {
   const title = titleCase(query || "Something new");
   return [
-    "CATEGORY: Inventions",
+    `CATEGORY: ${category}`,
     `TITLE: ${title}`,
-    "HOOK: Birdie's writer is offline, so this one is a placeholder.",
-    `PEEK: In demo mode Birdie can't write a fresh piece about ${title}. Connect Claude (an API key or a Claude Code login) and this card fills in with a real two-minute read.`,
-    `LEDE: This is what a freshly written Birdie topic looks like while the app is in demo mode. When Claude is connected, you'll get a short, true story about ${title}: one surprising core fact, a few threads to pull on, and links into the rest of the library.`,
+    `HOOK: A short, true story about ${title} will appear here.`,
+    `PEEK: A two-minute read about ${title}: one surprising core fact and a few threads to pull on. Birdie writes it fresh when its writer is connected.`,
+    `LEDE: This page is a placeholder for ${title}. Once Birdie's writer is connected, it fills in with a short, true story: one surprising core fact, a few threads to pull on, and links into the rest of the library.`,
     "BULLET: The Post-it accident :: A real topic from the library, so you can see how a tapped opening leads somewhere. The weak glue that made sticky notes possible was a failed experiment first. [[post-it]]",
     "BULLET: The Shepard tone :: Another library topic: a sound that seems to rise forever without ever getting higher. Tap the underlined words to peek at it. [[shepard-tone]]",
-    `BULLET: Connecting Claude :: ${howTo}`,
-    "BULLET: Everything else works :: Saving, the feed, reading settings, highlights and the tour all run without a connection, using the 100 topics built into the app.",
+    "BULLET: The rest of the library :: Saving, the feed, reading settings, highlights and the tour all work without a connection, across the 100 topics built into the app.",
     "TAGS: inventors, accidents, design",
     "END",
   ].join("\n");

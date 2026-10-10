@@ -9,7 +9,7 @@ export interface StreamRequest {
   system: string;
   messages: Turn[];
   /** Used by the mock provider to produce something sensible. */
-  hint: { query?: string; highlight?: string; topicTitle?: string };
+  hint: { query?: string; highlight?: string; topicTitle?: string; category?: string };
   signal?: AbortSignal;
 }
 
@@ -183,7 +183,7 @@ function mockProvider(): Provider {
     name: "mock",
     label: "Demo mode (no Claude connection)",
     async *stream(req) {
-      const text = req.kind === "topic" ? mockTopic(req.hint.query ?? "this") : mockChat(req.hint);
+      const text = req.kind === "topic" ? mockTopic(req.hint.query ?? "this", undefined, req.hint.category || undefined) : mockChat(req.hint);
       // Stream in small word groups so the UI behaves like the real thing.
       const parts = text.match(/\S+\s*/g) ?? [text];
       for (let i = 0; i < parts.length; i += 3) {

@@ -88,11 +88,6 @@ export function Feed() {
     }, 60);
   };
 
-  // While the tour runs, keep the reader on the first topic.
-  useEffect(() => {
-    if (tour > 0) scroller.current?.scrollTo({ top: 0 });
-  }, [tour]);
-
   return (
     <div
       ref={scroller}

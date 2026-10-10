@@ -76,6 +76,7 @@ app.post("/api/topic", async (c) => {
   const body = (await c.req.json().catch(() => null)) ?? {};
   const query = clean(body.query, 120);
   const context = clean(body.context, 200);
+  const category = clean(body.category, 20);
   if (!query) return c.json({ error: "query is required" }, 400);
   const cached = cacheGet(query);
   return pipe(c, (p, signal) =>
@@ -87,7 +88,7 @@ app.post("/api/topic", async (c) => {
             kind: "topic",
             system: TOPIC_SYSTEM,
             messages: [{ role: "user", content: topicUserPrompt(query, context || undefined) }],
-            hint: { query },
+            hint: { query, category },
           }),
           (text) => p.name !== "mock" && cachePut(query, text),
         ),

@@ -51,8 +51,11 @@ export function SelectionAsk() {
       t = window.setTimeout(read, 180);
     };
     document.addEventListener("selectionchange", onChange);
-    // Scrolling moves the text; hide rather than chase it.
-    const onScroll = () => setSel((s) => (s ? null : s));
+    // Scrolling moves the text: hide rather than chase it, then come back once it settles.
+    const onScroll = () => {
+      setSel((s) => (s ? null : s));
+      onChange();
+    };
     window.addEventListener("scroll", onScroll, true);
     return () => {
       document.removeEventListener("selectionchange", onChange);
@@ -84,7 +87,7 @@ export function SelectionAsk() {
           animate={{ opacity: 1, transform: "translateY(0px) scale(1)" }}
           exit={{ opacity: 0, transform: "scale(0.96)", transition: { duration: 0.12 } }}
           transition={{ duration: 0.18, ease: [0.23, 1, 0.32, 1] }}
-          className="press fixed z-40 flex h-[44px] items-center gap-2 rounded-full bg-strong px-4 font-serif text-[15.5px] font-semibold text-bg"
+          className="press fixed z-40 flex h-[44px] items-center justify-center gap-2 rounded-full bg-strong px-4 font-serif text-[15.5px] font-semibold text-bg"
           style={{ left: sel!.x, top: sel!.y, width: PILL_W, boxShadow: "var(--shadow)", transformOrigin: sel!.below ? "top center" : "bottom center" }}
         >
           <MessageSquare size={17} strokeWidth={1.9} aria-hidden="true" />

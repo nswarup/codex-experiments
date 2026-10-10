@@ -77,3 +77,12 @@ describe("parseChat", () => {
     expect(parseChat("Answer here.\nREAD NE").body).toBe("Answer here.");
   });
 });
+
+import { smart } from "../src/lib/typography";
+describe("smart quotes", () => {
+  it("curls apostrophes and quotes", () => {
+    expect(smart(`Benford's law isn't "magic", it's the '90s' favourite`)).toBe("Benford’s law isn’t “magic”, it’s the ’90s’ favourite");
+    expect(smart("dogs' noses")).toBe("dogs’ noses");
+    expect(smart(`He said 'hi'.`)).toBe("He said ‘hi’.");
+  });
+});

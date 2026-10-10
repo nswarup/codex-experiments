@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { ChevronDown, X } from "lucide-react";
+import { ChevronDown, ChevronRight, X } from "lucide-react";
 import { AnimatePresence, motion } from "motion/react";
 import { resetEverything, setTour, updateLab, updatePrefs, useApp } from "@/lib/store";
 import { openOverlay, popToFeed } from "@/lib/ui";
@@ -23,16 +23,25 @@ function Section({ title, children }: { title: string; children: React.ReactNode
   );
 }
 
+function Row({ label, onClick }: { label: string; onClick: () => void }) {
+  return (
+    <button type="button" className="press flex h-12 items-center justify-between text-left text-text" onClick={onClick}>
+      {label}
+      <ChevronRight size={17} strokeWidth={1.7} className="text-muted" aria-hidden="true" />
+    </button>
+  );
+}
+
 export function SettingsSheet({ open, onClose }: { open: boolean; onClose: () => void }) {
   const prefs = useApp((s) => s.prefs);
   const [labOpen, setLabOpen] = useState(false);
   const [confirmReset, setConfirmReset] = useState(false);
 
   return (
-    <Sheet open={open} onClose={onClose} title="Reading settings">
+    <Sheet open={open} onClose={onClose} title="Settings">
       <div className="no-scrollbar overflow-y-auto px-6 pt-1 pb-[calc(env(safe-area-inset-bottom,0px)+28px)]" data-vaul-no-drag>
         <div className="flex h-11 items-center justify-between">
-          <h2 className="font-serif text-[17px] font-semibold text-strong">Reading</h2>
+          <h2 className="font-serif text-[17px] font-semibold text-strong">Settings</h2>
           <IconButton label="Close" onClick={onClose} className="-mr-3 text-muted">
             <X size={19} strokeWidth={1.8} />
           </IconButton>
@@ -53,7 +62,7 @@ export function SettingsSheet({ open, onClose }: { open: boolean; onClose: () =>
                       cue("select", { emphasis: "subtle" });
                       updatePrefs({ theme: t.value });
                     }}
-                    className={cn("press flex h-16 flex-col items-center justify-center rounded-xl font-serif text-[15px]", on ? "ring-2 ring-strong ring-offset-2 ring-offset-sheet" : "ring-1 ring-chip")}
+                    className={cn("press flex h-16 flex-col items-center justify-center rounded-xl font-serif text-[15px] ring-inset", on ? "ring-2 ring-strong" : "ring-1 ring-chip")}
                     style={{ background: t.bg, color: t.fg }}
                   >
                     <span className="text-[20px] leading-none">Aa</span>
@@ -77,15 +86,27 @@ export function SettingsSheet({ open, onClose }: { open: boolean; onClose: () =>
               >
                 A
               </IconButton>
-              <div className="flex items-center gap-3.5" aria-hidden="true">
+              <div className="flex items-center" role="radiogroup" aria-label="Text size">
                 {[0, 1, 2, 3, 4].map((i) => (
-                  <span
+                  <button
                     key={i}
-                    className={cn(
-                      "rounded-full transition-[transform,background-color] duration-200",
-                      i === prefs.size ? "h-3 w-3 bg-strong" : "h-2 w-2 bg-chip",
-                    )}
-                  />
+                    type="button"
+                    role="radio"
+                    aria-checked={i === prefs.size}
+                    aria-label={`Text size ${i + 1} of 5`}
+                    onClick={() => {
+                      cue("select", { direction: i > prefs.size ? "forward" : "back", emphasis: "subtle" });
+                      updatePrefs({ size: i });
+                    }}
+                    className="flex h-11 w-7 items-center justify-center"
+                  >
+                    <span
+                      className={cn(
+                        "rounded-full transition-[transform,background-color] duration-200",
+                        i === prefs.size ? "h-3 w-3 bg-strong" : "h-2 w-2 bg-chip",
+                      )}
+                    />
+                  </button>
                 ))}
               </div>
               <IconButton
@@ -134,22 +155,31 @@ export function SettingsSheet({ open, onClose }: { open: boolean; onClose: () =>
 
           <Section title="You">
             <div className="flex flex-col divide-y divide-line font-serif text-[16px]">
-              <button type="button" className="press h-12 text-left text-text" onClick={() => openOverlay({ kind: "interests" })}>
-                Edit interests
-              </button>
-              <button
-                type="button"
-                className="press h-12 text-left text-text"
+              <Row label="Edit interests" onClick={() => openOverlay({ kind: "interests" })} />
+              <Row
+                label="Replay the tour"
                 onClick={() => {
                   // popToFeed also closes this sheet, in one history step.
                   popToFeed();
                   setTour(1);
                 }}
+              />
+              <Row label="Saved and history" onClick={() => openOverlay({ kind: "library", tab: "saved" })} />
+              <button
+                type="button"
+                className={cn("press h-12 text-left", confirmReset ? "font-semibold text-strong" : "text-muted")}
+                onClick={() => {
+                  // Two taps instead of confirm(): dialogs are blocked in embedded views.
+                  if (!confirmReset) {
+                    setConfirmReset(true);
+                    window.setTimeout(() => setConfirmReset(false), 4000);
+                    return;
+                  }
+                  resetEverything();
+                  location.reload();
+                }}
               >
-                Replay the tour
-              </button>
-              <button type="button" className="press h-12 text-left text-text" onClick={() => openOverlay({ kind: "library", tab: "saved" })}>
-                Saved and history
+                {confirmReset ? "Tap again to erase everything on this device" : "Start over"}
               </button>
             </div>
           </Section>
@@ -161,7 +191,7 @@ export function SettingsSheet({ open, onClose }: { open: boolean; onClose: () =>
               aria-expanded={labOpen}
               className="press flex h-12 w-full items-center justify-between px-4 text-left"
             >
-              <span className="font-mono text-[12px] font-medium tracking-[0.1em] text-muted uppercase">Design lab · compare options</span>
+              <span className="font-mono text-[12px] font-medium tracking-[0.1em] text-muted uppercase">Design lab</span>
               <ChevronDown size={17} strokeWidth={1.7} className={cn("text-muted transition-transform duration-200", labOpen && "rotate-180")} />
             </button>
             <AnimatePresence initial={false}>
@@ -223,25 +253,6 @@ export function SettingsSheet({ open, onClose }: { open: boolean; onClose: () =>
                       checked={prefs.lab.wildcardLabel}
                       onChange={(v) => updateLab({ wildcardLabel: v })}
                     />
-                    <button
-                      type="button"
-                      className={cn(
-                        "press h-11 self-start font-serif text-[15px] underline underline-offset-4",
-                        confirmReset ? "font-semibold text-strong" : "text-muted",
-                      )}
-                      onClick={() => {
-                        // Two taps instead of confirm(): dialogs are blocked in embedded views.
-                        if (!confirmReset) {
-                          setConfirmReset(true);
-                          window.setTimeout(() => setConfirmReset(false), 4000);
-                          return;
-                        }
-                        resetEverything();
-                        location.reload();
-                      }}
-                    >
-                      {confirmReset ? "Tap again to erase everything on this device" : "Start over (reset this device)"}
-                    </button>
                   </div>
                 </motion.div>
               )}

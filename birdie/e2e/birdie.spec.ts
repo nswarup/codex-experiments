@@ -132,6 +132,26 @@ test("the back button closes sheets and pops pages without leaving the app", asy
   await expect(page).toHaveURL(/127\.0\.0\.1:5199\/?$/);
 });
 
+test("rapid close → pop → search push keeps history and the stack in sync", async ({ page }) => {
+  await onboard(page);
+  await page.getByRole("button", { name: "Skip tour" }).click();
+  const article = page.locator("[data-article]").first();
+  await article.locator("a.opening").first().click();
+  await page.getByRole("dialog").getByRole("button", { name: "Read", exact: true }).click();
+  await page.getByRole("button", { name: "Reading settings" }).first().click();
+  // No waits between steps: queued history pops must not swallow the next push.
+  await page.goBack();
+  await page.getByRole("button", { name: "Back" }).click();
+  await page.getByRole("button", { name: "Search" }).first().click();
+  await page.locator("#search-input").fill("Tulip mania");
+  await page.keyboard.press("Enter");
+  await expect(page.getByRole("heading", { name: "Tulip mania", level: 1 })).toBeVisible();
+  await expect(page.getByRole("button", { name: "Back" })).toBeVisible();
+  await page.goBack();
+  await expect(page.getByRole("button", { name: "Back" })).toHaveCount(0);
+  await expect(page.locator("#search-input")).toHaveCount(0);
+});
+
 test("no WCAG A/AA violations on the feed in all three themes", async ({ page }) => {
   await onboard(page);
   await page.getByRole("button", { name: "Skip tour" }).click();

@@ -15,7 +15,7 @@ function Meter({ label, value, highlight }: { label: string; value: number; high
       <span className={cn("w-[7.5em] shrink-0 truncate font-mono text-[12.5px]", highlight ? "font-medium text-strong" : "text-muted")}>
         {label}
       </span>
-      <span className="relative h-1.5 flex-1 overflow-hidden rounded-full bg-inset" aria-hidden="true">
+      <span className="relative h-1.5 flex-1 overflow-hidden rounded-full bg-line" aria-hidden="true">
         <motion.span
           className={cn("absolute inset-0 origin-left rounded-full", highlight ? "bg-strong" : "bg-dot")}
           initial={{ transform: "scaleX(0.02)" }}
@@ -42,15 +42,22 @@ export function WhySheet({
   const topic = readyTopic(data.topicId);
   if (!profile || !topic) return null;
   const ex = explain(profile, topic);
+  // Nothing learned yet: every niche is still neutral and nothing has been read.
+  const learning = profile.seen.length < 2 && ex.tags.every((t) => Math.abs(t.score - 0.5) < 0.01);
   const sentence =
     data.reason === "wildcard"
       ? `A wildcard from ${topic.category}. About one in five topics comes from outside your picks, so Birdie can find interests you didn't know you had.`
       : data.reason === "opened"
         ? `You opened this one yourself. Birdie counts that as a strong signal for ${topic.category} and the niches below.`
-        : ex.picked
-          ? `You picked ${topic.category}, and its niches match what you've been reading.`
-          : `Your reading has pulled ${topic.category} up the list, even though you didn't pick it at the start.`;
-  const cats = [...CATEGORY_LIST].sort((a, b) => catScore(profile, b) - catScore(profile, a));
+        : learning
+          ? ex.picked
+            ? `You picked ${topic.category}. Birdie is still learning what you like, from how long you read and what you tap.`
+            : `Birdie is still learning what you like. This one scored well on what it knows so far.`
+          : ex.picked
+            ? `You picked ${topic.category}, and its niches match what you've been reading.`
+            : `Your reading has pulled ${topic.category} up the list, even though you didn't pick it at the start.`;
+  const ranked = [...CATEGORY_LIST].sort((a, b) => catScore(profile, b) - catScore(profile, a));
+  const cats = ranked.slice(0, 5).includes(topic.category) ? ranked.slice(0, 5) : [...ranked.slice(0, 5), topic.category];
 
   return (
     <Sheet open={open} onClose={onClose} title="Why this topic">
@@ -63,20 +70,24 @@ export function WhySheet({
         </div>
         <p className="mt-1 font-serif text-[17px] leading-[1.55] text-text">{sentence}</p>
 
-        <h3 className="mt-6 font-mono text-[11.5px] font-medium tracking-[0.1em] text-muted uppercase">This topic's niches</h3>
-        <div className="mt-3 flex flex-col gap-2.5">
-          {ex.tags.map((t) => (
-            <Meter key={t.tag} label={t.tag.replace(/-/g, " ")} value={t.score} />
-          ))}
-        </div>
+        {!learning && (
+          <>
+            <h3 className="mt-6 font-mono text-[11.5px] font-medium tracking-[0.1em] text-muted uppercase">This topic’s niches</h3>
+            <div className="mt-3 flex flex-col gap-2.5">
+              {ex.tags.map((t) => (
+                <Meter key={t.tag} label={t.tag.replace(/-/g, " ")} value={t.score} />
+              ))}
+            </div>
+          </>
+        )}
 
-        <h3 className="mt-7 font-mono text-[11.5px] font-medium tracking-[0.1em] text-muted uppercase">Your interests right now</h3>
+        <h3 className="mt-7 font-mono text-[11.5px] font-medium tracking-[0.1em] text-muted uppercase">Your top interests</h3>
         <div className="mt-3 flex flex-col gap-2.5">
           {cats.map((c) => (
             <Meter key={c} label={c} value={catScore(profile, c)} highlight={c === topic.category} />
           ))}
         </div>
-        <p className="mt-6 font-mono text-[12px] leading-relaxed text-muted">
+        <p className="mt-6 font-serif text-[14.5px] leading-relaxed text-muted">
           Birdie learns quietly from how long you read, what you tap and what you ask about. Nothing leaves this device.
         </p>
       </div>

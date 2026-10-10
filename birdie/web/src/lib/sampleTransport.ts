@@ -97,10 +97,10 @@ async function run(
   }
 }
 
-export function sampleTopic(query: string, context: string | undefined, h: StreamHandlers, signal?: AbortSignal) {
+export function sampleTopic(query: string, context: string | undefined, h: StreamHandlers, signal?: AbortSignal, category?: string) {
   const input = `${TOPIC_SYSTEM}\n\n---\n\n${topicUserPrompt(query, context)}`;
   // Same subject → same article for a day, without spending the viewer's usage again.
-  return run(input, "default", { gcTime: 24 * 60 * 60 * 1000 }, h, () => mockTopic(query, ARTIFACT_HOWTO), signal);
+  return run(input, "default", { gcTime: 24 * 60 * 60 * 1000 }, h, () => mockTopic(query, ARTIFACT_HOWTO, category), signal);
 }
 
 export function sampleChat(

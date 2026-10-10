@@ -29,7 +29,7 @@ export function Nudges({ topic, exclude }: { topic: Topic; exclude?: string[] })
   if (!items.length) return null;
 
   return (
-    <section aria-label="Next, maybe" className="mx-auto mt-9 max-w-[34em] border-t border-line px-6 pt-5">
+    <section aria-label="Next, maybe" className="mx-auto mt-10 max-w-[34em] px-6">
       <h2 className="font-serif text-[19px] font-medium italic text-strong">Next, maybe…</h2>
       <div className={cn("mt-2.5 flex flex-col", variant === "cards" ? "gap-2" : "")}>
         {items.map(({ t, wild }) =>

@@ -152,7 +152,7 @@ export function ChatSheet({
         </div>
       </div>
 
-      <div className="border-t border-line px-4 pt-3 pb-[calc(env(safe-area-inset-bottom,0px)+14px)]">
+      <div className="border-t border-line px-6 pt-3 pb-[calc(env(safe-area-inset-bottom,0px)+14px)]">
         <AnimatePresence initial={false}>
           {empty && (
             <motion.div
@@ -168,7 +168,7 @@ export function ChatSheet({
                     key={s}
                     type="button"
                     onClick={() => send(s)}
-                    className="press h-9 rounded-full border border-chip px-3.5 font-serif text-[14px] text-text"
+                    className="press h-11 rounded-full border border-chip px-4 font-serif text-[14.5px] text-text"
                   >
                     {s}
                   </button>
@@ -205,7 +205,7 @@ export function ChatSheet({
               type="submit"
               aria-label="Send"
               disabled={!draft.trim()}
-              className="press flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-accent text-accent-fg disabled:bg-line disabled:text-muted"
+              className="press flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-accent text-accent-fg disabled:border disabled:border-chip disabled:bg-inset disabled:text-muted"
             >
               <ArrowUp size={20} strokeWidth={2} />
             </button>

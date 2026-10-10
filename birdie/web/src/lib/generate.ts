@@ -57,7 +57,7 @@ function relate(t: Topic): Topic {
  * Resolve a subject to a topic id. Corpus matches and finished generations return
  * immediately; anything else starts (or joins) a writing job.
  */
-export function requestTopic(query: string, context?: string): { id: string; existing: boolean } {
+export function requestTopic(query: string, context?: string, category?: string): { id: string; existing: boolean } {
   const q = query.trim();
   const corpus = matchCorpus(q);
   if (corpus) return { id: corpus.id, existing: true };
@@ -96,6 +96,7 @@ export function requestTopic(query: string, context?: string): { id: string; exi
       },
     },
     ctrl.signal,
+    category,
   )
     .then(() => {
       // The server confirmed completion, so treat the article as finished even if

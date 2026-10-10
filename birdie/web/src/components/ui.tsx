@@ -128,7 +128,12 @@ export function Segmented<T extends string | number>({
   label: string;
 }) {
   return (
-    <div role="radiogroup" aria-label={label} className="grid gap-2" style={{ gridTemplateColumns: `repeat(${options.length}, minmax(0, 1fr))` }}>
+    <div
+      role="radiogroup"
+      aria-label={label}
+      className="grid gap-1 rounded-xl bg-inset p-1"
+      style={{ gridTemplateColumns: `repeat(${options.length}, minmax(0, 1fr))` }}
+    >
       {options.map((o) => {
         const on = o.value === value;
         return (
@@ -140,8 +145,8 @@ export function Segmented<T extends string | number>({
             aria-label={o.ariaLabel}
             onClick={() => onChange(o.value)}
             className={cn(
-              "press h-11 rounded-xl border font-serif text-[15px]",
-              on ? "border-strong border-2 font-semibold text-strong" : "border-chip text-text",
+              "press h-10 rounded-[9px] font-serif text-[15px] whitespace-nowrap",
+              on ? "bg-sheet font-semibold text-strong shadow-[0_1px_3px_rgba(0,0,0,0.18)]" : "text-muted",
             )}
           >
             {o.label}

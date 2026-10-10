@@ -7,7 +7,7 @@ import { pushTopic } from "@/lib/ui";
 import { cue, buzz } from "@/lib/feedback";
 import { IconButton } from "./ui";
 
-const IDEAS = ["dogs' sense of smell", "Massachusetts", "why the sky is blue", "the first emoji", "origami"];
+const IDEAS = ["dogs’ sense of smell", "Massachusetts", "why the sky is blue", "the first emoji", "origami"];
 
 /** Search = "write me a Birdie about exactly these words". No results list. */
 export function SearchOverlay({ open, onClose }: { open: boolean; onClose: () => void }) {
@@ -51,13 +51,13 @@ export function SearchOverlay({ open, onClose }: { open: boolean; onClose: () =>
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           exit={{ opacity: 0, transition: { duration: 0.15 } }}
-          transition={{ duration: 0.18, ease: "easeOut" }}
+          transition={{ duration: 0.2, ease: [0.23, 1, 0.32, 1] }}
         >
           <motion.div
             className="mx-auto max-w-[640px]"
             initial={{ transform: "translateY(10px)" }}
             animate={{ transform: "translateY(0px)" }}
-            transition={{ duration: 0.28, ease: [0.23, 1, 0.32, 1] }}
+            transition={{ duration: 0.24, ease: [0.23, 1, 0.32, 1] }}
           >
             <form
               className="flex items-center gap-2 border-b border-line px-4 pt-[calc(env(safe-area-inset-top,0px)+14px)] pb-3"
@@ -112,7 +112,7 @@ export function SearchOverlay({ open, onClose }: { open: boolean; onClose: () =>
                   {recents.length ? "Recent" : "Try"}
                 </h2>
                 {recents.length > 0 && (
-                  <IconButton label="Clear recent searches" onClick={() => clearRecentSearches()} className="-mr-3 h-9 w-9 text-muted">
+                  <IconButton label="Clear recent searches" onClick={() => clearRecentSearches()} className="-mr-3 text-muted">
                     <X size={16} strokeWidth={1.8} />
                   </IconButton>
                 )}
@@ -140,7 +140,7 @@ export function SearchOverlay({ open, onClose }: { open: boolean; onClose: () =>
                   </motion.li>
                 ))}
               </ul>
-              <p className="mt-6 font-mono text-[12.5px] leading-relaxed text-muted">
+              <p className="mt-6 font-serif text-[15px] leading-relaxed text-muted">
                 Birdie writes a short piece on exactly what you type.
               </p>
             </section>

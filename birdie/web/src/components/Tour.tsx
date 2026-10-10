@@ -1,4 +1,4 @@
-import { useEffect, useLayoutEffect, useState } from "react";
+import { useEffect, useLayoutEffect, useRef, useState } from "react";
 import { AnimatePresence, motion } from "motion/react";
 import { MessageSquare } from "lucide-react";
 import { setTour, useApp } from "@/lib/store";
@@ -22,11 +22,17 @@ const STEPS = [
   },
 ] as const;
 
+const GAP = 14;
+const EDGE = 16;
+const EASE = [0.23, 1, 0.32, 1] as const;
+
 interface Box {
   top: number;
   left: number;
   width: number;
   height: number;
+  /** Where the arrow should point, in viewport x. */
+  pointX: number;
 }
 
 function find(target: string): HTMLElement | null {
@@ -34,27 +40,52 @@ function find(target: string): HTMLElement | null {
   return scope.querySelector<HTMLElement>(`[data-tour="${target}"]`);
 }
 
+function measureTarget(target: string): Box | null {
+  const el = find(target);
+  if (!el) return null;
+  // Spotlight the whole bullet for an opening, so the hole never cuts through words.
+  const area = target === "opening" ? (el.closest("li") as HTMLElement | null) ?? el : el;
+  const r = area.getBoundingClientRect();
+  const first = el.getClientRects()[0] ?? el.getBoundingClientRect();
+  const pad = target === "search" ? 4 : 8;
+  return {
+    top: r.top - pad,
+    left: r.left - pad,
+    width: r.width + pad * 2,
+    height: r.height + pad * 2,
+    pointX: target === "opening" ? first.left + Math.min(first.width / 2, 70) : r.left + r.width / 2,
+  };
+}
+
+const same = (a: Box | null, b: Box | null) =>
+  !!a && !!b && Math.abs(a.top - b.top) < 0.5 && Math.abs(a.left - b.left) < 0.5 && Math.abs(a.height - b.height) < 0.5 && Math.abs(a.width - b.width) < 0.5;
+
 export function Tour() {
   const step = useApp((s) => s.tour);
   const [box, setBox] = useState<Box | null>(null);
+  const [tip, setTip] = useState<{ w: number; h: number; left: number } | null>(null);
+  const tipRef = useRef<HTMLDivElement>(null);
   const active = step >= 1 && step <= STEPS.length;
   const s = active ? STEPS[step - 1] : null;
 
   useLayoutEffect(() => {
     if (!s) return;
     let raf = 0;
-    let el: HTMLElement | null = null;
     const started = performance.now();
-    const pad = s.target === "search" ? 4 : 8;
+    // Bring the target on screen the first time it exists (a long title can push the first
+    // linked bullet below the fold, and the article may mount after the tour does).
+    let scrolled = s.target === "search";
+    const reveal = () => {
+      const el = find(s.target);
+      if (scrolled || !el) return;
+      scrolled = true;
+      const r = el.getBoundingClientRect();
+      if (r.top < 80 || r.bottom > window.innerHeight * 0.55) el.scrollIntoView({ block: "center", behavior: "instant" as ScrollBehavior });
+    };
     const measure = () => {
-      el = el?.isConnected ? el : find(s.target);
-      if (el) {
-        const r = el.getBoundingClientRect();
-        setBox((b) => {
-          const next = { top: r.top - pad, left: r.left - pad, width: r.width + pad * 2, height: r.height + pad * 2 };
-          return b && Math.abs(b.top - next.top) < 0.5 && Math.abs(b.left - next.left) < 0.5 && Math.abs(b.height - next.height) < 0.5 ? b : next;
-        });
-      }
+      reveal();
+      const next = measureTarget(s.target);
+      if (next) setBox((b) => (same(b, next) ? b : next));
       // Keep tracking while entry animations, scroll resets and font loading settle.
       if (performance.now() - started < 1200) raf = requestAnimationFrame(measure);
     };
@@ -70,15 +101,36 @@ export function Tour() {
     };
   }, [s]);
 
+  // The tooltip's real size decides where it can go.
+  useLayoutEffect(() => {
+    const el = tipRef.current;
+    if (!el) return;
+    // Layout metrics, not getBoundingClientRect: the entry scale must not feed back into placement.
+    const read = () => {
+      const r = { w: el.offsetWidth, h: el.offsetHeight, left: el.offsetLeft };
+      setTip((t) => (t && t.w === r.w && t.h === r.h && t.left === r.left ? t : r));
+    };
+    read();
+    const ro = new ResizeObserver(read);
+    ro.observe(el);
+    return () => ro.disconnect();
+  });
+
   useEffect(() => {
     if (!active) setBox(null);
   }, [active]);
+
+  // Leave the reader at the top of the first topic, wherever the tour scrolled to.
+  const finish = () => {
+    setTour(0);
+    document.querySelector('[data-scroller="feed"]')?.scrollTo({ top: 0, behavior: "smooth" });
+  };
 
   const next = () => {
     buzz(6);
     if (step >= STEPS.length) {
       cue("success", { emphasis: "subtle" });
-      setTour(0);
+      finish();
     } else {
       cue("navigate", { emphasis: "subtle" });
       setTour(step + 1);
@@ -90,13 +142,30 @@ export function Tour() {
   };
   const skip = () => {
     cue("close", { emphasis: "subtle" });
-    setTour(0);
+    finish();
   };
 
   const vh = typeof window !== "undefined" ? window.innerHeight : 800;
-  const below = box ? box.top + box.height + 240 < vh : true;
-  const tipTop = box ? (below ? box.top + box.height + 14 : Math.max(16, box.top - 14)) : vh / 2;
-  const arrowLeft = box ? Math.min(Math.max(box.left + Math.min(box.width / 2, 60) - 24, 12), (typeof window !== "undefined" ? window.innerWidth : 390) - 72) : 40;
+  const tipH = tip?.h ?? 260;
+  let placement: "below" | "above" | "clamped" = "below";
+  let top = 0;
+  if (box) {
+    const fitsBelow = box.top + box.height + GAP + tipH + EDGE <= vh;
+    const fitsAbove = box.top - GAP - tipH >= EDGE;
+    const lowerHalf = box.top + box.height / 2 > vh / 2;
+    if (fitsBelow && !(lowerHalf && fitsAbove)) {
+      placement = "below";
+      top = box.top + box.height + GAP;
+    } else if (fitsAbove) {
+      placement = "above";
+      top = box.top - GAP - tipH;
+    } else {
+      placement = "clamped";
+      top = Math.max(EDGE, vh - tipH - EDGE);
+    }
+    top = Math.min(Math.max(top, EDGE), Math.max(EDGE, vh - tipH - EDGE));
+  }
+  const arrowX = box && tip ? Math.min(Math.max(box.pointX - tip.left - 9, 18), tip.w - 36) : 24;
 
   return (
     <AnimatePresence>
@@ -106,40 +175,41 @@ export function Tour() {
           className="fixed inset-0 z-[60]"
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
-          exit={{ opacity: 0 }}
-          transition={{ duration: 0.25, ease: "easeOut" }}
+          exit={{ opacity: 0, transition: { duration: 0.15 } }}
+          transition={{ duration: 0.22, ease: EASE }}
           role="dialog"
           aria-modal="true"
           aria-label={`Tour, step ${step} of ${STEPS.length}`}
         >
-          {/* Spotlight: one rounded hole in a dimmed screen. */}
+          {/* Spotlight: one rounded hole in a theme-tinted dim. */}
           <motion.div
             aria-hidden="true"
             className="pointer-events-none absolute rounded-2xl"
             initial={false}
             animate={{ top: box.top, left: box.left, width: box.width, height: box.height }}
-            transition={{ duration: 0.4, ease: [0.77, 0, 0.175, 1] }}
-            style={{ boxShadow: "0 0 0 9999px rgba(0,0,0,0.72), 0 0 0 2px var(--text)" }}
+            transition={{ duration: 0.26, ease: EASE }}
+            style={{ boxShadow: "0 0 0 9999px var(--tour-scrim), 0 0 0 2px var(--text)" }}
           />
           <div className="absolute inset-0" onClick={(e) => e.stopPropagation()} />
 
           <AnimatePresence mode="wait">
             <motion.div
               key={step}
+              ref={tipRef}
               className="absolute inset-x-6 mx-auto max-w-[420px]"
-              style={below ? { top: tipTop } : { bottom: vh - tipTop }}
-              initial={{ opacity: 0, transform: `translateY(${below ? 6 : -6}px) scale(0.98)` }}
+              style={{ top }}
+              initial={{ opacity: 0, transform: `translateY(${placement === "above" ? -6 : 6}px) scale(0.98)` }}
               animate={{ opacity: 1, transform: "translateY(0px) scale(1)" }}
               exit={{ opacity: 0, transform: "scale(0.98)", transition: { duration: 0.12 } }}
-              transition={{ duration: 0.24, ease: [0.23, 1, 0.32, 1] }}
+              transition={{ duration: 0.22, ease: EASE }}
             >
-              {below && <Arrow left={arrowLeft} up />}
+              {placement === "below" && <Arrow x={arrowX} up />}
               <div className="rounded-2xl bg-strong px-5 py-[18px] text-bg" style={{ boxShadow: "var(--shadow)" }}>
                 <div className="font-mono text-[11.5px] font-medium tracking-[0.1em] uppercase opacity-70">
                   {step} of {STEPS.length}
                 </div>
-                <p className="mt-2 font-serif text-[19px] leading-[1.35] font-semibold">{s.title}</p>
-                <p className="mt-2 font-serif text-[16px] leading-[1.5] opacity-85">{s.body}</p>
+                <p className="mt-2 font-serif text-[19px] leading-[1.35] font-semibold text-balance">{s.title}</p>
+                <p className="mt-2 font-serif text-[16px] leading-[1.5] text-pretty opacity-85">{s.body}</p>
                 {s.target === "lede" && (
                   <div className="mt-3 flex items-center gap-2" aria-hidden="true">
                     <span className="rounded bg-hl px-1 font-serif text-[15px] text-[var(--hl-text)]">a sentence</span>
@@ -166,7 +236,7 @@ export function Tour() {
                   </button>
                 </div>
               </div>
-              {!below && <Arrow left={arrowLeft} />}
+              {placement === "above" && <Arrow x={arrowX} />}
             </motion.div>
           </AnimatePresence>
         </motion.div>
@@ -175,7 +245,7 @@ export function Tour() {
   );
 }
 
-function Arrow({ left, up = false }: { left: number; up?: boolean }) {
+function Arrow({ x, up = false }: { x: number; up?: boolean }) {
   return (
     <svg
       width="18"
@@ -183,7 +253,7 @@ function Arrow({ left, up = false }: { left: number; up?: boolean }) {
       viewBox="0 0 18 10"
       aria-hidden="true"
       className="block"
-      style={{ marginLeft: Math.max(14, left - 24), transform: up ? undefined : "rotate(180deg)" }}
+      style={{ marginLeft: x, transform: up ? undefined : "rotate(180deg)" }}
     >
       <path d="M0 10L9 0l9 10z" fill="var(--strong)" />
     </svg>

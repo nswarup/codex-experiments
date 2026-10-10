@@ -31,12 +31,13 @@ export function HookLine({ category, hook, caret, className }: { category?: Cate
     <p
       className={cn(
         "text-muted",
-        style === "mono" ? "font-mono text-[14px] leading-[1.6] tracking-[-0.01em]" : "font-serif text-[18px] leading-[1.45] italic",
+        style === "mono" ? "font-mono text-[0.78em] leading-[1.6] tracking-[-0.01em]" : "font-serif text-[1.02em] leading-[1.45] italic",
+        "text-pretty",
         className,
       )}
     >
       {category && (
-        <span className="font-mono text-[12px] font-medium tracking-[0.1em] text-strong not-italic">{category.toUpperCase()}</span>
+        <span className="font-mono text-[0.86em] font-medium tracking-[0.1em] text-strong not-italic">{category.toUpperCase()}</span>
       )}
       {category && hook ? " · " : null}
       <span className={cn(caret && "caret")}>{hook}</span>
@@ -48,7 +49,7 @@ function openPeek(b: Bullet, fromTopic: ArticleView) {
   cue("open", { emphasis: "subtle" });
   buzz(6);
   let jobId: string | undefined;
-  if (!b.linkId) jobId = requestTopic(b.opening, fromTopic.title).id;
+  if (!b.linkId) jobId = requestTopic(b.opening, fromTopic.title, fromTopic.category).id;
   openOverlay({ kind: "peek", opening: b.opening, linkId: b.linkId, fromTopicId: fromTopic.id, jobId });
 }
 
@@ -63,7 +64,7 @@ export const TopicArticle = forwardRef<HTMLElement, { view: ArticleView; reason?
         className="article mx-auto max-w-[34em] px-6 pt-8"
         aria-busy={view.writing || undefined}
       >
-        <h1 className="font-serif text-[34px] leading-[1.15] font-medium tracking-[-0.005em] text-strong text-balance">{view.title}</h1>
+        <h1 className="font-serif text-[1.9em] leading-[1.15] font-medium tracking-[-0.005em] text-strong text-balance">{view.title}</h1>
         {(view.hook || view.writing) && (
           <HookLine category={view.category} hook={view.hook} caret={view.caret === "hook"} className="mt-3.5" />
         )}
@@ -79,6 +80,8 @@ export const TopicArticle = forwardRef<HTMLElement, { view: ArticleView; reason?
           <ul className="mt-7 flex flex-col gap-5" role="list">
             {view.bullets.map((b, i) => {
               const last = i === view.bullets.length - 1;
+              // The tour points at a bullet that leads to a real library topic.
+              const anchor = tourAnchor && i === Math.max(0, view.bullets.findIndex((x) => x.linkId));
               return (
                 <li key={i} className="flex gap-3">
                   <span aria-hidden="true" className="mt-[0.72em] h-1.5 w-1.5 shrink-0 rounded-full bg-muted" />
@@ -88,7 +91,7 @@ export const TopicArticle = forwardRef<HTMLElement, { view: ArticleView; reason?
                       href={b.linkId ? `#${b.linkId}` : "#"}
                       role="button"
                       className="opening"
-                      data-tour={tourAnchor && i === 0 ? "opening" : undefined}
+                      data-tour={anchor ? "opening" : undefined}
                       onClick={(e) => {
                         e.preventDefault();
                         openPeek(b, view);
@@ -115,7 +118,7 @@ export const TopicArticle = forwardRef<HTMLElement, { view: ArticleView; reason?
         )}
 
         {actions && !view.writing && (
-          <div className="mt-8 flex items-center gap-1 text-muted">
+          <div className="mt-8 -ml-3 flex flex-wrap items-center gap-x-1 text-muted">
             <ActionButton
               label={saved ? "Saved" : "Save"}
               onClick={() => {
@@ -167,7 +170,7 @@ function ActionButton({
       type="button"
       onClick={onClick}
       aria-pressed={pressed}
-      className="press -ml-2 flex h-11 items-center gap-2 rounded-full px-3 font-serif text-[15px] active:bg-inset"
+      className="press flex h-11 items-center gap-2 rounded-full px-3 font-serif text-[15px] whitespace-nowrap active:bg-inset"
     >
       {children}
       <span>{label}</span>

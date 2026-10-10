@@ -64,11 +64,11 @@ export function PeekSheet({
             <p className="text-muted">{job?.error}</p>
           ) : null}
         </div>
-        <div className="mt-6 flex gap-2.5">
-          <Button size="lg" className="flex-1" onClick={read} disabled={failed}>
+        <div className="mt-6 grid grid-cols-[minmax(0,1fr)_auto] gap-2.5">
+          <Button size="lg" onClick={read} disabled={failed}>
             Read
           </Button>
-          <Button size="lg" variant="secondary" onClick={save} aria-pressed={saved} className="px-5 font-normal">
+          <Button size="lg" variant="secondary" onClick={save} aria-pressed={saved} className="px-5 font-normal whitespace-nowrap">
             {saved ? <BookmarkCheck size={18} strokeWidth={1.7} /> : <Bookmark size={18} strokeWidth={1.7} />}
             {saved ? "Saved" : "Save for later"}
           </Button>

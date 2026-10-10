@@ -27,7 +27,7 @@ export function Reader() {
               ? { transform: depth > 1 ? "translateX(-22%)" : "translateX(0%)" }
               : { opacity: depth > 1 ? 0 : 1 }
           }
-          transition={{ duration: 0.42, ease: EASE }}
+          transition={{ duration: 0.32, ease: EASE }}
           aria-hidden={depth > 1 || undefined}
           inert={depth > 1 || undefined}
         >
@@ -54,7 +54,7 @@ function Dim({ on }: { on: boolean }) {
       className="pointer-events-none absolute inset-0 bg-black"
       initial={false}
       animate={{ opacity: on ? 0.28 : 0 }}
-      transition={{ duration: 0.42, ease: EASE }}
+      transition={{ duration: 0.32, ease: EASE }}
     />
   );
 }
@@ -123,7 +123,7 @@ function PageLayer({
           : { opacity: covered ? 0 : 1, transform: "scale(1)" }
       }
       exit={slide ? { transform: "translateX(100%)" } : { opacity: 0, transform: "scale(0.985)" }}
-      transition={{ duration: 0.42, ease: EASE }}
+      transition={{ duration: 0.32, ease: EASE }}
       aria-hidden={!isTop || undefined}
       inert={!isTop || undefined}
     >

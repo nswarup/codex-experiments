@@ -62,12 +62,12 @@ export function TopBar({
   return (
     <header
       className={cn(
-        "sticky top-0 z-20 bg-bg/95 pt-[env(safe-area-inset-top,0px)] backdrop-blur-md transition-[transform,border-color] duration-300 ease-[var(--ease-out)]",
+        "sticky top-0 z-20 bg-bg pt-[env(safe-area-inset-top,0px)] transition-[transform,border-color] duration-200 ease-[var(--ease-out)]",
         scrolled ? "border-b border-line" : "border-b border-transparent",
       )}
       style={{ transform: hidden ? "translateY(-100%)" : "translateY(0)" }}
     >
-      <div className="flex h-14 items-center justify-between pr-2 pl-2">
+      <div className="mx-auto flex h-14 max-w-[34em] items-center justify-between pr-2 pl-2" style={{ fontSize: "var(--read-size)" }}>
         <div className="flex min-w-0 items-center">
           {back ? (
             <>
@@ -107,7 +107,8 @@ export function TopBar({
           >
             <Search size={21} strokeWidth={1.6} />
           </IconButton>
-          {!back && (
+          {/* Same icons on every page, so nothing jumps between the feed and a topic. */}
+          {(
             <IconButton
               label="Saved and history"
               onClick={() => {
