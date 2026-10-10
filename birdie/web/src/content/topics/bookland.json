@@ -1,0 +1,32 @@
+{
+  "id": "bookland",
+  "title": "Bookland, the country on every book",
+  "category": "Books",
+  "hook": "The barcode on the back of a book says it was made in a country that does not exist.",
+  "peek": "Most book barcodes begin with 978. In the retail barcode system, the first digits usually name a country, and 978 belongs to Bookland, an imaginary country created so that every book's ISBN could double as a shop barcode.",
+  "lede": "Shop barcodes in the international EAN system start with a prefix that usually points to a country, such as 50 for the United Kingdom. Books needed a way into that system without new numbers, so the codes 978 and later 979 were set aside for a made-up country called Bookland. Put 978 in front of an old ISBN and it becomes a barcode.",
+  "bullets": [
+    {
+      "opening": "W H Smith's book numbers",
+      "linkId": null,
+      "text": "The idea began in Britain in the mid-1960s, when the bookseller W H Smith wanted to computerise its stock. A nine-digit Standard Book Numbering scheme followed, and in 1970 it became the international ISBN, with ten digits."
+    },
+    {
+      "opening": "The X check digit",
+      "linkId": null,
+      "text": "The last digit of a ten-digit ISBN is a check, worked out from the others to catch typing mistakes. Because the sum can need the value 10, some ISBNs end in the Roman numeral X."
+    },
+    {
+      "opening": "The 2007 switch to 13 digits",
+      "linkId": null,
+      "text": "Since 1 January 2007, ISBNs have been 13 digits long, exactly matching the barcode. Publishers were running short of numbers, so Bookland's second prefix, 979, came into use alongside 978."
+    },
+    {
+      "opening": "The supermarket barcode",
+      "linkId": "barcode-sand",
+      "text": "Bookland exists because books had to scan at the same tills as groceries. The bars under a book's ISBN are the same kind of code that first beeped through a supermarket checkout in 1974."
+    }
+  ],
+  "tags": ["publishing", "barcodes", "history-of-things", "names"],
+  "related": ["barcode-sand", "dord", "bir-tawil", "qwerty", "happy-birthday-copyright"]
+}

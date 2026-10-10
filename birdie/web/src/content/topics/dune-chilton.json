@@ -1,0 +1,27 @@
+{
+  "id": "dune-chilton",
+  "title": "Dune and the car-manual publisher",
+  "category": "Books",
+  "hook": "A science fiction classic was first published by a maker of car repair guides.",
+  "peek": "Frank Herbert's Dune is now one of the best-known science fiction novels ever written. In the early 1960s, though, publisher after publisher turned it down, and it finally found a home with a company famous for car repair manuals.",
+  "lede": "Frank Herbert spent about six years researching and writing Dune. The novel was long, dense and full of invented history, and it was rejected by around 20 publishers. In 1965 it was taken on by Chilton Books of Philadelphia, which was best known for its auto repair manuals. An editor there, Sterling Lanier, believed in it.",
+  "bullets": [
+    {
+      "opening": "The Oregon sand dunes",
+      "linkId": null,
+      "text": "The idea began in 1957, when Herbert visited Florence, Oregon, to write a magazine piece about a government project using grasses to stop sand dunes from swallowing roads. He never finished the article, but he kept thinking about deserts."
+    },
+    {
+      "opening": "Analog magazine serials",
+      "linkId": null,
+      "text": "Before the book, the story ran in two parts in Analog magazine, as Dune World in 1963 and 1964 and The Prophet of Dune in 1965. Chilton then published the full novel."
+    },
+    {
+      "opening": "The first Nebula Award",
+      "linkId": null,
+      "text": "Sales started slowly, but Dune won the first Nebula Award for best novel, for 1965, and shared the Hugo Award the next year. It went on to sell millions of copies and is often called the best-selling science fiction novel."
+    }
+  ],
+  "tags": ["science-fiction", "publishing", "rejections", "deserts"],
+  "related": ["singing-dunes", "happy-birthday-copyright", "tetris-origin", "landlords-game", "post-it"]
+}

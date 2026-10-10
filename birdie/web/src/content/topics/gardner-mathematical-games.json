@@ -1,0 +1,44 @@
+{
+  "id": "gardner-mathematical-games",
+  "title": "Martin Gardner's Mathematical Games",
+  "category": "Books",
+  "hook": "The writer who got a generation hooked on maths never studied it at college.",
+  "peek": "For about 25 years Martin Gardner wrote the Mathematical Games column in Scientific American, later collected into 15 books. Professional mathematicians read him avidly, yet he had studied philosophy and never took a maths course after high school.",
+  "lede": "In December 1956 Scientific American printed an article by Martin Gardner about hexaflexagons, paper hexagons that reveal hidden faces when folded. Readers loved it, and from January 1957 he wrote a monthly column, Mathematical Games, for about a quarter of a century. He had a philosophy degree from the University of Chicago and taught himself the maths as he went.",
+  "bullets": [
+    {
+      "opening": "The three prisoners puzzle",
+      "linkId": null,
+      "text": "In 1959 Gardner set his readers a puzzle about three prisoners and a guard who reveals partial information. It has the same logic as the Monty Hall problem, decades before that version made headlines."
+    },
+    {
+      "opening": "Conway's Game of Life",
+      "linkId": null,
+      "text": "His October 1970 column introduced John Conway's Game of Life, a grid of cells that live or vanish by simple rules. Readers with access to computers began running it, and it became one of the first programs many people played with."
+    },
+    {
+      "opening": "The four color hoax",
+      "linkId": "four-color-theorem",
+      "text": "In April 1975 he announced, as a joke, a map that needed five colors. Many readers missed the date and mailed back copies colored with only four."
+    },
+    {
+      "opening": "Metamagical Themas",
+      "linkId": null,
+      "text": "When Gardner handed over the column, the writer Douglas Hofstadter took up the slot with his own column, named Metamagical Themas. The title is an anagram of Mathematical Games."
+    }
+  ],
+  "tags": [
+    "puzzles",
+    "writers",
+    "games",
+    "magazines"
+  ],
+  "related": [
+    "monty-hall",
+    "four-color-theorem",
+    "hilberts-hotel",
+    "gods-number",
+    "konigsberg-bridges",
+    "birthday-paradox"
+  ]
+}

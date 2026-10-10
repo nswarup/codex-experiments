@@ -1,0 +1,32 @@
+{
+  "id": "frankenstein-1816",
+  "title": "Frankenstein began as a rainy-day game",
+  "category": "Books",
+  "hook": "An 18-year-old started science fiction's founding novel to pass a wet week.",
+  "peek": "In June 1816, stuck indoors by endless rain near Lake Geneva, a group of friends agreed to each write a ghost story. The youngest of them, Mary Godwin, aged 18, came up with Frankenstein.",
+  "lede": "In the summer of 1816, Mary Godwin, soon to be Mary Shelley, was staying near Lake Geneva with Percy Shelley, Lord Byron and Byron's doctor, John Polidori. The weather was so cold and wet that they spent days inside the Villa Diodati reading ghost stories. Byron proposed that each of them write one. Mary's grew into a novel.",
+  "bullets": [
+    {
+      "opening": "The year without a summer",
+      "linkId": "year-without-summer",
+      "text": "The rain had a far-off cause. Ash from the 1815 eruption of Mount Tambora in Indonesia had cooled much of the Northern Hemisphere, giving Europe one of its gloomiest summers on record."
+    },
+    {
+      "opening": "Mary Shelley's waking dream",
+      "linkId": null,
+      "text": "In her introduction to the 1831 edition, she wrote that the idea came to her one night as a vivid waking vision of a student bringing a figure to life, after listening to Byron and Percy talk about science."
+    },
+    {
+      "opening": "An anonymous first edition",
+      "linkId": null,
+      "text": "Frankenstein; or, The Modern Prometheus appeared in January 1818 without the author's name. Percy wrote the preface, and many reviewers assumed he had written the whole book."
+    },
+    {
+      "opening": "The first science fiction novel",
+      "linkId": null,
+      "text": "In his 1973 history of the genre, Billion Year Spree, the writer Brian Aldiss argued that Frankenstein was the first true science fiction novel, because its wonder comes from a scientist's experiment rather than magic. Many critics now agree."
+    }
+  ],
+  "tags": ["science-fiction", "weather", "origins", "writers"],
+  "related": ["year-without-summer", "overview-effect", "point-nemo", "olbers-paradox", "harrison-clocks"]
+}

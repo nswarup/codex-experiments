@@ -1,0 +1,27 @@
+{
+  "id": "green-eggs-and-ham",
+  "title": "Green Eggs and Ham's 50-word bet",
+  "category": "Books",
+  "hook": "One of the best-selling children's books was written to win a 50-dollar bet.",
+  "peek": "Dr. Seuss's publisher bet him 50 dollars that he could not write a whole book using only 50 different words. Seuss won, and the result was Green Eggs and Ham, published in 1960 and still selling in huge numbers.",
+  "lede": "Bennett Cerf, co-founder of Random House, knew Dr. Seuss had just written The Cat in the Hat with a small vocabulary. So he bet him 50 dollars that he could not write a book with just 50 different words. Seuss, whose real name was Theodor Geisel, took the bet. Green Eggs and Ham came out in 1960, with exactly 50.",
+  "bullets": [
+    {
+      "opening": "The Cat in the Hat",
+      "linkId": null,
+      "text": "The earlier challenge came from an educational publisher who wanted a lively reader to replace dull school primers. Seuss had to work from a list of simple words, and The Cat in the Hat, in 1957, used 236 of them."
+    },
+    {
+      "opening": "Anywhere, the longest word",
+      "linkId": null,
+      "text": "Of the 50 words in Green Eggs and Ham, all but one have a single syllable. The exception is \"anywhere\". Repetition does the rest, as Sam-I-Am offers the dish in a box, with a fox, on a train and in the rain."
+    },
+    {
+      "opening": "The unpaid bet",
+      "linkId": null,
+      "text": "The story usually told is that Cerf never actually handed over the 50 dollars. Seuss came out well ahead anyway, since the book became one of the best-selling children's books in English."
+    }
+  ],
+  "tags": ["childrens-books", "writers", "constraints", "words"],
+  "related": ["toki-pona", "buffalo-sentence", "scrabble-letters", "semantic-satiation", "fortune-cookies"]
+}

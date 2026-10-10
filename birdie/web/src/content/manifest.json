@@ -568,5 +568,40 @@
   "id": "smell-receptor-genes",
   "title": "The smell receptor genes",
   "category": "Science"
+ },
+ {
+  "id": "caxton-eggs",
+  "title": "William Caxton and the eggs",
+  "category": "Books"
+ },
+ {
+  "id": "frankenstein-1816",
+  "title": "Frankenstein began as a rainy-day game",
+  "category": "Books"
+ },
+ {
+  "id": "dune-chilton",
+  "title": "Dune and the car-manual publisher",
+  "category": "Books"
+ },
+ {
+  "id": "gardner-mathematical-games",
+  "title": "Martin Gardner's Mathematical Games",
+  "category": "Books"
+ },
+ {
+  "id": "green-eggs-and-ham",
+  "title": "Green Eggs and Ham's 50-word bet",
+  "category": "Books"
+ },
+ {
+  "id": "twenty-thousand-leagues",
+  "title": "Twenty Thousand Leagues is not a depth",
+  "category": "Books"
+ },
+ {
+  "id": "bookland",
+  "title": "Bookland, the country on every book",
+  "category": "Books"
  }
 ]

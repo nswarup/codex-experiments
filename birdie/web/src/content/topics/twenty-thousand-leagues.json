@@ -1,0 +1,32 @@
+{
+  "id": "twenty-thousand-leagues",
+  "title": "Twenty Thousand Leagues is not a depth",
+  "category": "Books",
+  "hook": "Jules Verne's famous title measures a journey across the sea, not a dive down.",
+  "peek": "Many people read Twenty Thousand Leagues Under the Seas as a depth, but no ocean is anywhere near that deep. The number is the distance the submarine Nautilus travels underwater, roughly twice around the world.",
+  "lede": "Jules Verne's novel was serialised in 1869 and 1870. Its title is often taken to mean how deep the Nautilus dives, but 20,000 leagues would be about 80,000 kilometres straight down, far past the centre of the Earth. The deepest ocean is under three leagues deep. The figure is the total distance the submarine covers on its voyage under the seas.",
+  "bullets": [
+    {
+      "opening": "Seas, plural",
+      "linkId": null,
+      "text": "The original French title, Vingt mille lieues sous les mers, makes the plural clear: the leagues are spread across many seas. English editions often drop the s, which helps the depth reading stick."
+    },
+    {
+      "opening": "An electric submarine",
+      "linkId": null,
+      "text": "Verne's Nautilus runs entirely on electricity, which Captain Nemo uses for light, heat and power. Real submarines of the 1860s were small, slow and short-ranged, so the idea was well ahead of its time."
+    },
+    {
+      "opening": "Robert Fulton's Nautilus",
+      "linkId": null,
+      "text": "The name echoes an early real submarine, the Nautilus that the American inventor Robert Fulton built in France around 1800. In 1954 the world's first nuclear-powered submarine, USS Nautilus, carried the name again."
+    },
+    {
+      "opening": "Point Nemo",
+      "linkId": "point-nemo",
+      "text": "The captain's name is Latin for no one. When the spot in the ocean farthest from any land was pinned down in 1992, it was named Point Nemo in his honour."
+    }
+  ],
+  "tags": ["science-fiction", "myths-busted", "oceans", "names"],
+  "related": ["point-nemo", "year-without-summer", "harrison-clocks", "moon-drifting", "dord"]
+}

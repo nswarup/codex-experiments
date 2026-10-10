@@ -1,0 +1,32 @@
+{
+  "id": "caxton-eggs",
+  "title": "William Caxton and the eggs",
+  "category": "Books",
+  "hook": "England's first printer could not decide how to spell the word for eggs.",
+  "peek": "When William Caxton brought printing to England in the 1470s, English had no standard spelling. Even ordinary words changed from county to county, and he told a story about eggs to show how hard his job was.",
+  "lede": "William Caxton, a merchant who learned printing on the Continent, set up the first press in England at Westminster in 1476. Every book forced him to choose how English words should look on the page. In a preface written in 1490 he admitted the problem: the English of one county was barely understood in the next, so whose spelling should win?",
+  "bullets": [
+    {
+      "opening": "Eggys or eyren",
+      "linkId": null,
+      "text": "Caxton told of merchants on the Thames who stopped in Kent and asked a woman for \"eggys\". She replied that she spoke no French. Only when another asked for \"eyren\", an older word, did she understand."
+    },
+    {
+      "opening": "Caxton's Troy book",
+      "linkId": null,
+      "text": "His first book in English, The Recuyell of the Historyes of Troye, was printed in Bruges around 1473, before he moved to England. It is usually counted as the first book ever printed in English."
+    },
+    {
+      "opening": "Thorn becomes y",
+      "linkId": "letter-thorn",
+      "text": "Caxton's type came from Flemish sources and had no letter thorn for the th sound. Printers used y instead, which is how \"the\" ended up looking like \"ye\" in old print."
+    },
+    {
+      "opening": "The Great Vowel Shift",
+      "linkId": "great-vowel-shift",
+      "text": "Caxton and the printers after him settled spellings while English vowels were still moving. The spellings stayed and the sounds kept changing, one reason English words are so often not said the way they are written."
+    }
+  ],
+  "tags": ["printing", "language-change", "history-of-things", "spelling"],
+  "related": ["letter-thorn", "great-vowel-shift", "dord", "ok-origin", "helvetica"]
+}
