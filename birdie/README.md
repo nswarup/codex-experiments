@@ -28,7 +28,7 @@ Force one with `BIRDIE_PROVIDER=anthropic|claude-cli|mock`. Other knobs: `BIRDIE
 
 - **Onboarding**: pick at least 3 interests (X-style chips), then a 3-step tour with spotlight coachmarks. Replay it from **Aa → Replay the tour**.
 - **Cold open**: returning readers land straight on a ranked-random topic.
-- **Topic unit**: title, a mono hook led by its category (`MUSIC · …`), a lede, and 4–6 bullets whose dotted-underlined openings are themselves topics.
+- **Topic unit**: title, a mono hook led by its category (`MUSIC · …`), a lede, and 3–5 bullets that each add a new fact about the subject; their dotted-underlined openings are themselves topics. Related subjects live in "Next, maybe…", not in the bullets.
 - **Peek**: tap an opening for a short preview, then **Read** or **Save for later**. Openings outside the library are written on demand by Claude and cached.
 - **Next, maybe…**: two close topics plus one dashed wildcard from another category. The feed keeps going below.
 - **Ask Birdie**: highlight any text and tap the pill, or tap **Ask** under any article, to chat about it. Replies can end with a **Read next** card, and a conversation survives closing the sheet.

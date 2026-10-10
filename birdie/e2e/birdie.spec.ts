@@ -37,7 +37,7 @@ test("feed article has dotted openings, a peek, and Next, maybe nudges", async (
   await page.getByRole("button", { name: "Skip tour" }).click();
   const article = page.locator("[data-article]").first();
   const openings = article.locator("a.opening");
-  expect(await openings.count()).toBeGreaterThanOrEqual(4);
+  expect(await openings.count()).toBeGreaterThanOrEqual(3);
 
   await openings.first().click();
   const peek = page.getByRole("dialog");

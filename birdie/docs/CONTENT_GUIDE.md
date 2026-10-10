@@ -11,6 +11,16 @@ Birdie is a phone reading app: one short, true, surprising topic at a time, read
 - **Avoid hot-button politics and religion debates.**
 - **True and checkable**: only well-established facts. When something is folklore or disputed, say so plainly ("the story goes", "historians doubt"). Never invent quotes, numbers or dates. Prefer round, defensible numbers ("about 2,000") over false precision.
 
+## Relevance comes first
+
+A Birdie topic is one subject told well, not a subject plus things it reminds us of. Length follows the subject: a tight one-screen piece beats two screens with filler.
+
+- **Every bullet adds a new fact about this exact subject**: the evidence, how it works, a telling detail, a consequence, a person behind it, or a common belief it corrects. Test: hide the title and the bullet should still obviously be about the subject.
+- **No "see also" bullets.** A bullet that is mainly about another subject ("Dolphins also…", "Like the Monty Hall problem…", "Elephants pass the mirror test") does not belong, even if the comparison is true. Connections to other topics go in `related`, which powers the "Next, maybe…" cards under every article.
+- **No drift to the wider field.** In "Crows remember faces", crow tool-making is a different topic. Stay on faces: the mask study, how the warning spread, the brain scans, how long they remember.
+- **Order the bullets as a short story**: what was found, how we know, why it happens, what follows from it.
+- **Fewer, better bullets.** 3 strong bullets are better than 5 with two weak ones. Stop when the subject is covered.
+
 ## Voice
 
 - Plain, warm, specific. Short sentences. Concrete nouns and numbers.
@@ -46,10 +56,10 @@ Field rules:
 - `hook`: one line, 45–90 characters, sentence case, ends with a full stop. Do **not** include the category (the app prefixes it).
 - `peek`: shown when someone taps a bullet opening that points here. It must make sense without the article.
 - `lede`: 40–70 words.
-- `bullets`: **4–6** items. Each `opening` is a 2–5 word noun phrase that is itself a good topic title (the app shows it dotted-underlined, tappable). `text` continues the sentence after a colon, starting with a capital letter.
-  - **At least 2 bullets** must have `linkId` set to another topic id from the manifest (any category). The opening should name or clearly evoke that topic; it does not have to repeat its title word for word.
-  - Other bullets use `linkId: null`; the app generates those topics on demand, so their openings must be real, specific, searchable subjects (e.g. "Penrose stairs", "Hans Zimmer's Dunkirk score"), never vague ("Another thing").
+- `bullets`: **3–5** items, each about this subject (see "Relevance comes first"). Each `opening` is a 2–5 word noun phrase naming a specific part of this subject that is worth reading about on its own (the app shows it dotted-underlined and tappable): "The caveman mask study", "Young crows learning the warning". `text` continues the sentence after a colon, starting with a capital letter.
+  - `linkId` is **optional**. Set it only when the opening genuinely names a library topic that is part of this subject (e.g. "The Amen break" inside an article about sampling). Never bend a bullet toward another topic to create a link; put that topic in `related` instead.
+  - Bullets with `linkId: null` are written on demand when tapped, so their openings must be real, specific, searchable subjects, never vague ("Another thing").
   - Do not link a topic to itself.
-- Total of `lede` + all bullet `text`: **220–320 words**.
+- Total of `lede` + all bullet `text`: **150–280 words**, roughly one to two phone screens. Shorter is fine when the subject is covered.
 - `tags`: 3–5 lowercase kebab-case niche tags. Reuse common ones where they fit so topics connect across categories. Suggested shared tags: `illusions`, `perception`, `acoustics`, `accidents`, `inventors`, `names`, `etymology`, `probability`, `infinity`, `patterns`, `color`, `design`, `cats`, `animal-minds`, `communication`, `fashion`, `history-of-things`, `myths-busted`, `time`, `calendars`, `maps`, `borders`, `architecture`, `weather`, `light`, `space-exploration`, `scale`, `games`, `ai`, `food-history`, `taste`, `memory`, `language-change`, `music-tech`, `records`.
-- `related`: 4–6 ids from the manifest, the topics a curious reader would want next. Mix same-category and cross-category.
+- `related`: 4–6 ids from the manifest, the topics a curious reader would want next. Mix same-category and cross-category. This is where cross-topic connections live.

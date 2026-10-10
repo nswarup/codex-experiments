@@ -11,7 +11,13 @@ What I decided while building v0 overnight, and the calls that are yours. Everyt
 5. **Page transition.** iOS-style slide with edge-swipe back (default) or a quiet fade.
 6. **Sounds on by default.** Interaction sounds (Cuelume, subtle emphasis) are on, and haptics too; both toggle in Aa. A reading app could reasonably default sounds off.
 7. **Writer latency.** Through the Claude Code login, the first words of a new article take about 13 s and the article finishes in about 19 s. With an API key it's faster. If that's too slow for search, options are a faster model for search only, or pre-writing the openings people tap most.
-8. **Content length.** Articles run 220–320 words (about two phone screens at 18px). The original brief said 350–450; that was more like three to four screens.
+8. **Content length and relevance.** After your note about the crows piece, relevance now beats length:
+   - Every bullet must add a new fact about the topic itself.
+   - Comparisons and "see also" tie-ins moved out of the bullets and into the "Next, maybe…" cards.
+   - Articles run 150–280 words with 3–5 bullets, one to two phone screens.
+   - The old rule that forced two links into other library topics is gone; links appear only when a bullet genuinely names a part of the subject.
+   - The same rules apply to the live writer.
+   - If you'd rather keep a consistent two-screen length, raise the floor in `docs/CONTENT_GUIDE.md` and the writer prompt in `shared/prompts.ts`.
 
 ## Decisions I made
 
