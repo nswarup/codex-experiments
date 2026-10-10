@@ -11,8 +11,8 @@ async function onboard(page: Page, picks = ["Music", "Math", "Food"]) {
 
 test("onboarding needs three interests, then the tour walks through three steps", async ({ page }) => {
   await page.goto("/");
-  await expect(page.getByRole("heading", { name: "What are you curious about?" })).toBeVisible();
-  await expect(page.getByText(/Pick at least 3\.\s*Birdie mixes in a few surprises too\./)).toBeVisible();
+  await expect(page.getByRole("heading", { name: "My favorite topics" })).toBeVisible();
+  await expect(page.getByText("Pick 3 or more.")).toBeVisible();
   await page.getByRole("button", { name: "Music", exact: true }).click();
   await expect(page.getByRole("button", { name: "Continue" })).toBeDisabled();
   await expect(page.getByText("1 selected. Pick 2 more.")).toBeAttached();
@@ -31,7 +31,7 @@ test("onboarding needs three interests, then the tour walks through three steps"
   // Returning visit skips onboarding and opens straight onto a topic.
   await page.reload();
   await expect(page.locator("[data-article]").first()).toBeVisible();
-  await expect(page.getByRole("heading", { name: "What are you curious about?" })).toHaveCount(0);
+  await expect(page.getByRole("heading", { name: "My favorite topics" })).toHaveCount(0);
 });
 
 test("tour step 1 lets you tap the phrase for real, then continues at step 2", async ({ page }) => {

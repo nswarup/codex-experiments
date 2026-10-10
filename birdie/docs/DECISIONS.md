@@ -145,6 +145,25 @@ The writing agents and two independent fact-check passes flagged a few items you
 - **Checked without a live web search** (a few are still worth a look before anything ships): Fan Hui's exact words on move 37, and how long the crows kept scolding (stated as "more than a decade").
 - **No bullet links to another library topic any more.** Every opening now writes its own short article on demand, so in demo mode (no Claude connection) tapping an opening shows a placeholder. "Next, maybe…" still offers three library topics under every article.
 
+## Sage brand, first screen D1, 20 topics
+
+- **First screen is D1 from the first-screen canvas:**
+  - A sage sky holding the flock, the bird mark and a bold "My favorite topics".
+  - A cream sheet of topic pills, and a fixed "Continue" button that turns on at three picks.
+- **The flock is only a picture.** It carries no copy. Each pick adds birds and draws them tighter, eased where the browser can animate path data and still when reduce-motion is on. It is hidden from screen readers.
+- **One small line, "Pick 3 or more.", sits at the top of the sheet.** The mockup had none, but without it nothing tells a new reader why Continue is off.
+- **New mark:** a rounded bird with a single leaf-shaped wing. It is original, drawn in the spirit of the reference icon rather than traced from it.
+  - Where it uses `currentColor`, the wing shows as a lighter cut and the eye as a hole, so it works on any reader theme.
+  - The new mark is used for the app icon (cream ground), the wordmark and the sign-in page.
+- **Palette:** sage `#6F8D77`, deep sage `#3F5A48`, leaf `#C8D5CA`, cream `#F1EFE6`, ink `#1E2620`.
+  - The sky sage is a touch darker than the mockup's `#7E9C86`, so cream type on it passes contrast for large text.
+- **Type:** Instrument Sans (self-hosted) for the brand screens. Reading stays Literata.
+- **Sign-in and setup pages** use the same sky and sheet. Continue stays off until something is typed.
+- **20 categories,** ordered by how likely a techy, AI-minded reader is to want each one: Tech, Science, Space, Math, Mind, Inventions, Games, History, Books, Language, Music, Film, Sports, Food, Travel, Nature, Animals, Art, Health, Fashion.
+  - Places became Travel and Clothing became Fashion. Saved profiles and generated topics are migrated, so earlier picks and scores carry over.
+  - Film, Sports, Tech, Science, Books and Health are new, with about seven library topics each.
+- **Edit interests** (in Settings) keeps the reader's own theme inside its sheet. Its title is now "My favorite topics".
+
 ## Not built (v1 / v2)
 
 Accounts and sync, images, analytics (v1); news-driven topics (v2).

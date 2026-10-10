@@ -3,6 +3,7 @@
 @import "@fontsource-variable/literata/opsz-italic.css";
 @import "@fontsource/ibm-plex-mono/400.css";
 @import "@fontsource/ibm-plex-mono/500.css";
+@import "@fontsource-variable/instrument-sans/wght.css";
 
 /* ------------------------------------------------------------------ */
 /* Themes: Kindle-like, warm, never pure white text or blue links.    */
@@ -113,6 +114,18 @@
   --font-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
   /* Interface text outside reading (onboarding): the platform's own sans, SF Pro on iPhone. */
   --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  /* Brand voice for chrome and first-run screens; reading stays Literata. */
+  --font-brand: "Instrument Sans Variable", "Instrument Sans", ui-sans-serif, system-ui, -apple-system, sans-serif;
+  /* The sage brand, fixed across reader themes. */
+  --color-sage: #6f8d77;
+  --color-sage-deep: #3f5a48;
+  --color-sage-ink: #2f4536;
+  --color-leaf: #c8d5ca;
+  --color-cream: #f1efe6;
+  --color-cream-line: #b9c4ba;
+  --color-cream-inset: #e1e2d6;
+  --color-brand-ink: #1e2620;
+  --color-brand-muted: #5e6b62;
   --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
   --ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
   --ease-drawer: cubic-bezier(0.32, 0.72, 0, 1);
@@ -402,4 +415,11 @@ a,
 ::highlight(birdie-tour) {
   background-color: var(--hl);
   color: var(--hl-text);
+}
+
+/* The first-run flock eases into its new shape as picks change (where browsers can animate path data). */
+@media (prefers-reduced-motion: no-preference) {
+  .flock-bird {
+    transition: d 600ms var(--ease-out);
+  }
 }

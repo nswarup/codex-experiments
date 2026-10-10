@@ -13,20 +13,26 @@ export const CATEGORY_LIST: Category[] = [...CATEGORIES];
 
 /** Short descriptors shown on the interest chips' accessible labels. */
 export const CATEGORY_BLURB: Record<Category, string> = {
-  Music: "Sounds, songs and the tricks of the ear",
-  Language: "Words, letters and how we talk",
-  Math: "Puzzles and patterns that bend intuition",
-  Art: "Color, paint, type and design",
-  Food: "Where dishes and flavors come from",
-  Animals: "Cats, dogs, crows and other minds",
-  Clothing: "The stories in what we wear",
+  Tech: "Computers, the internet and the machines we live with",
+  Science: "Experiments, discoveries and how we know things",
   Space: "Moons, planets and the long view",
-  Inventions: "Everyday things and their happy accidents",
+  Math: "Puzzles and patterns that bend intuition",
   Mind: "Perception, memory and quirks of thought",
-  Places: "Strange towns, borders and buildings",
+  Inventions: "Everyday things and their happy accidents",
   Games: "Play, puzzles and the people behind them",
-  Nature: "Clouds, dunes, forests and rain",
   History: "Small moments with long tails",
+  Books: "Stories, writers and the lives of books",
+  Language: "Words, letters and how we talk",
+  Music: "Sounds, songs and the tricks of the ear",
+  Film: "Movies, TV and how they get made",
+  Sports: "Games, records and the rules behind them",
+  Food: "Where dishes and flavors come from",
+  Travel: "Strange towns, borders and buildings",
+  Nature: "Clouds, dunes, forests and rain",
+  Animals: "Cats, dogs, crows and other minds",
+  Art: "Color, paint, type and design",
+  Health: "Sleep, bodies and everyday wellbeing",
+  Fashion: "The stories in what we wear",
 };
 
 const WORD = /[A-Za-z0-9'’]+/g;

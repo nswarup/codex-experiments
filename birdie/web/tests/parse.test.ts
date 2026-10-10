@@ -1,7 +1,7 @@
 import { describe, expect, it } from "vitest";
 import { parseChat, parseTopicStream, slug, toTopic } from "../src/lib/parse";
 
-const FULL = `CATEGORY: Places
+const FULL = `CATEGORY: Travel
 TITLE: Massachusetts
 HOOK: A state name that began as directions to a hill.
 PEEK: The name comes from the Massachusett people. It points at a hill.
@@ -16,7 +16,7 @@ describe("parseTopicStream", () => {
   it("parses a complete article", () => {
     const p = parseTopicStream(FULL);
     expect(p.done).toBe(true);
-    expect(p.category).toBe("Places");
+    expect(p.category).toBe("Travel");
     expect(p.title).toBe("Massachusetts");
     expect(p.bullets).toHaveLength(3);
     expect(p.bullets[1].linkId).toBe("shepard-tone");
@@ -38,7 +38,7 @@ describe("parseTopicStream", () => {
   });
 
   it("rejects unknown categories and joins wrapped lede lines", () => {
-    const p = parseTopicStream("CATEGORY: Sports\nTITLE: X\nLEDE: first line\nsecond line\nBULLET: A :: b");
+    const p = parseTopicStream("CATEGORY: Gardening\nTITLE: X\nLEDE: first line\nsecond line\nBULLET: A :: b");
     expect(p.category).toBeUndefined();
     expect(p.lede).toBe("first line second line");
   });

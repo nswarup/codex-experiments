@@ -15,7 +15,7 @@ export function InterestsSheet({ open, onClose }: { open: boolean; onClose: () =
 
   return (
     <Sheet open={open} onClose={onClose} title="Edit interests" tall>
-      <SheetHeader title="What are you curious about?" onClose={onClose} />
+      <SheetHeader title="My favorite topics" onClose={onClose} />
       <div className="no-scrollbar min-h-0 flex-1 overflow-y-auto" data-vaul-no-drag>
         {open && (
           <InterestPicker

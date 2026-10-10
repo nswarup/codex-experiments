@@ -1,6 +1,6 @@
 export const CATEGORIES = [
-  "Music", "Language", "Math", "Art", "Food", "Animals", "Clothing",
-  "Space", "Inventions", "Mind", "Places", "Games", "Nature", "History",
+  "Tech", "Science", "Space", "Math", "Mind", "Inventions", "Games", "History", "Books", "Language",
+  "Music", "Film", "Sports", "Food", "Travel", "Nature", "Animals", "Art", "Health", "Fashion",
 ] as const;
 
 export type Category = (typeof CATEGORIES)[number];

@@ -1,32 +1,47 @@
 /* Small shared primitives: shadcn-style, themed through CSS variables. */
-import { forwardRef, useEffect, useRef, type ButtonHTMLAttributes, type ReactNode } from "react";
+import { forwardRef, useEffect, useId, useRef, type ButtonHTMLAttributes, type ReactNode } from "react";
 import { Drawer } from "vaul";
 import { cn } from "@/lib/cn";
 
-export function BirdMark({ size = 28, className }: { size?: number; className?: string }) {
+/** The Birdie bird: a rounded body with a single leaf-shaped wing. Paths are in a 64-unit box. */
+export const MARK_BODY =
+  "M45 13a9 9 0 0 1 8.6 6.4L61 21.5l-7 3.2C53 40 41 52 25 52H5l9-8.5C10.5 39 10 33 12.6 28 17 19.5 27 16 35.5 19.2 37.4 15.5 41 13 45 13z";
+export const MARK_WING = "M15 44C17 31 28 24.5 43 27c-3.5 12-14 18-28 17z";
+
+/**
+ * One-colour mark that follows `currentColor`: the wing shows as a lighter cut and the eye as a hole,
+ * so it reads on any surface. Pass `wing`/`eye` colours to paint it in the brand's two tones instead.
+ */
+export function BirdMark({ size = 28, className, wing, eye }: { size?: number; className?: string; wing?: string; eye?: string }) {
+  const id = useId().replace(/[^a-zA-Z0-9_-]/g, "");
+  if (wing || eye) {
+    return (
+      <svg width={size} height={size} viewBox="0 0 64 64" aria-hidden="true" className={className}>
+        <path d={MARK_BODY} fill="currentColor" />
+        {wing && <path d={MARK_WING} fill={wing} />}
+        {eye && <circle cx="47" cy="19.5" r="2.2" fill={eye} />}
+      </svg>
+    );
+  }
   return (
-    <svg
-      width={size}
-      height={size}
-      viewBox="0 0 56 56"
-      fill="none"
-      stroke="currentColor"
-      strokeWidth={1.8}
-      strokeLinecap="round"
-      strokeLinejoin="round"
-      aria-hidden="true"
-      className={className}
-    >
-      <path d="M10 34c4-10 14-15 24-12l9-6-1.5 9c1.5 9-5 16-15 16-7 0-13-3-16.5-7z" />
-      <path d="M22 30c4 0 8-2 10-5" />
-      <circle cx="36" cy="22" r="0.9" fill="currentColor" />
-      <path d="M24 41l-2 6M30 41l1 6" />
+    <svg width={size} height={size} viewBox="0 0 64 64" aria-hidden="true" className={className}>
+      <mask id={`bm${id}`}>
+        <path d={MARK_BODY} fill="#fff" />
+        <path d={MARK_WING} fill="#7a7a7a" />
+        <circle cx="47" cy="19.5" r="2.4" fill="#000" />
+      </mask>
+      <rect width="64" height="64" fill="currentColor" mask={`url(#bm${id})`} />
     </svg>
   );
 }
 
-export function Wordmark({ className }: { className?: string }) {
-  return <span className={cn("font-serif text-[21px] font-medium italic tracking-[0.01em] text-strong", className)}>birdie</span>;
+export function Wordmark({ className, markSize = 22 }: { className?: string; markSize?: number }) {
+  return (
+    <span className={cn("inline-flex items-center gap-1.5 font-brand text-[19px] font-bold tracking-[-0.02em] text-strong", className)}>
+      <BirdMark size={markSize} />
+      birdie
+    </span>
+  );
 }
 
 type Variant = "primary" | "secondary" | "ghost";

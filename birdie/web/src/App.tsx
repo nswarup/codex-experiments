@@ -13,11 +13,11 @@ const THEME_COLOR = { dark: "#121212", sepia: "#f4ecd8", light: "#fbfaf7" } as c
 let sessionStarted = false;
 
 export function App() {
-  const onboarded = useApp((s) => s.onboarded);
   const theme = useApp((s) => s.prefs.theme);
   const size = useApp((s) => s.prefs.size);
   const spacing = useApp((s) => s.prefs.spacing);
   const glassPref = useApp((s) => s.prefs.lab.glass);
+  const onboarded = useApp((s) => s.onboarded);
 
   useEffect(() => {
     document.documentElement.dataset.glass = glassPref ? "on" : "off";
@@ -26,8 +26,9 @@ export function App() {
   useEffect(() => {
     const root = document.documentElement;
     root.dataset.readerTheme = theme;
-    document.querySelector('meta[name="theme-color"]')?.setAttribute("content", THEME_COLOR[theme]);
-  }, [theme]);
+    // First run is the sage brand screen; after that the bar follows the reading theme.
+    document.querySelector('meta[name="theme-color"]')?.setAttribute("content", onboarded ? THEME_COLOR[theme] : "#6f8d77");
+  }, [theme, onboarded]);
 
   useEffect(() => {
     const root = document.documentElement;

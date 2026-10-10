@@ -1,5 +1,5 @@
 import { useSyncExternalStore } from "react";
-import type { Category, Prefs, Profile, Saved, Topic } from "./types";
+import { CATEGORIES, type Category, type Prefs, type Profile, type Saved, type Topic } from "./types";
 import { applyAsk, applyEngagement, applyTap, createProfile, drift, markSeen, repick } from "./ranking";
 import { CORPUS_BY_ID } from "@/content";
 
@@ -18,6 +18,9 @@ export interface AppState {
 }
 
 const KEY = "birdie.state.v1";
+
+/** Categories renamed when the list grew to 20; old saves keep their picks and scores. */
+const RENAMED: Record<string, Category> = { Places: "Travel", Clothing: "Fashion" };
 
 export const DEFAULT_PREFS: Prefs = {
   theme: "dark",
@@ -48,7 +51,8 @@ const clampInt = (v: unknown, lo: number, hi: number, d: number) =>
   typeof v === "number" && Number.isFinite(v) ? Math.min(hi, Math.max(lo, Math.round(v))) : d;
 
 /** Accept only what the app can render: a bad or old save must never crash the reader. */
-function sanitize(parsed: unknown): AppState {
+/** Exported for tests: turns whatever was saved into a valid state. */
+export function sanitize(parsed: unknown): AppState {
   const base = initial();
   if (!isObj(parsed)) return base;
   const p = isObj(parsed.prefs) ? parsed.prefs : {};
@@ -66,11 +70,21 @@ function sanitize(parsed: unknown): AppState {
   let profile: Profile | null = null;
   if (isObj(parsed.profile)) {
     const pr = parsed.profile;
-    const picked = (Array.isArray(pr.picked) ? pr.picked : []).filter((c): c is Category => typeof c === "string");
+    const picked = [
+      ...new Set(
+        (Array.isArray(pr.picked) ? pr.picked : [])
+          .map((c) => (typeof c === "string" ? (RENAMED[c] ?? c) : null))
+          .filter((c): c is Category => !!c && (CATEGORIES as readonly string[]).includes(c)),
+      ),
+    ];
     const fresh = createProfile(picked);
+    const oldCat: Record<string, number> = {};
+    if (isObj(pr.cat)) {
+      for (const [k, v] of Object.entries(pr.cat)) if (typeof v === "number") oldCat[RENAMED[k] ?? k] = v;
+    }
     profile = {
       picked,
-      cat: isObj(pr.cat) ? { ...fresh.cat, ...(pr.cat as Record<string, number>) } : fresh.cat,
+      cat: { ...fresh.cat, ...oldCat },
       tag: isObj(pr.tag) ? (pr.tag as Record<string, number>) : {},
       seen: (Array.isArray(pr.seen) ? pr.seen : []).filter((x): x is Profile["seen"][number] => isObj(x) && typeof x.id === "string"),
       sessions: typeof pr.sessions === "number" ? pr.sessions : 0,
@@ -79,7 +93,10 @@ function sanitize(parsed: unknown): AppState {
   const generated: Record<string, Topic> = {};
   if (isObj(parsed.generated)) {
     for (const [k, v] of Object.entries(parsed.generated)) {
-      if (isObj(v) && typeof v.title === "string" && Array.isArray(v.bullets)) generated[k] = v as unknown as Topic;
+      if (isObj(v) && typeof v.title === "string" && Array.isArray(v.bullets)) {
+        const t = v as unknown as Topic;
+        generated[k] = RENAMED[t.category] ? { ...t, category: RENAMED[t.category] } : t;
+      }
     }
   }
   const onboarded = parsed.onboarded === true && !!profile && profile.picked.length > 0;
