@@ -48,7 +48,7 @@ export function Nudges({ topic, exclude }: { topic: Topic; exclude?: string[] })
               )}
               <span className="font-serif text-[17px] leading-snug font-semibold text-strong">{t.title}</span>
               <span className="line-clamp-2 font-mono text-[13px] leading-[1.45] text-muted">
-                <span className="font-medium tracking-[0.08em] text-text">{t.category.toUpperCase()}</span> · {t.hook}
+                <span className="font-medium tracking-[0.08em]">{t.category.toUpperCase()}</span> · {t.hook}
               </span>
             </button>
           ) : (
@@ -64,7 +64,7 @@ export function Nudges({ topic, exclude }: { topic: Topic; exclude?: string[] })
                   {wild && wildLabel && <span className="ml-2 font-mono text-[11.5px] font-normal text-muted uppercase">· wildcard</span>}
                 </span>
                 <span className="truncate font-mono text-[13px] text-muted">
-                  <span className="font-medium tracking-[0.08em] text-text">{t.category.toUpperCase()}</span> · {t.hook}
+                  <span className="font-medium tracking-[0.08em]">{t.category.toUpperCase()}</span> · {t.hook}
                 </span>
               </span>
               <ArrowRight size={18} strokeWidth={1.6} className={cn("shrink-0 text-muted", wild && "opacity-60")} />

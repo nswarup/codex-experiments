@@ -39,7 +39,7 @@ export function HookLine({ category, hook, caret, className }: { category?: Cate
       )}
     >
       {category && (
-        <span className="font-mono text-[0.86em] font-medium tracking-[0.1em] text-strong not-italic">{category.toUpperCase()}</span>
+        <span className="font-mono text-[0.86em] font-medium tracking-[0.1em] not-italic">{category.toUpperCase()}</span>
       )}
       {category && hook ? " · " : null}
       <span className={cn(caret && "caret")}>{hook}</span>

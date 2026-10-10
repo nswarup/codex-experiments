@@ -81,7 +81,7 @@ export function LibrarySheet({ open, tab, onClose }: { open: boolean; tab?: "sav
                 >
                   <span className="font-serif text-[17px] leading-snug font-semibold text-strong">{topic.title}</span>
                   <span className="truncate font-mono text-[13px] text-muted">
-                    <span className="font-medium tracking-[0.08em] text-text">{topic.category.toUpperCase()}</span> · {timeAgo(at)}
+                    <span className="font-medium tracking-[0.08em]">{topic.category.toUpperCase()}</span> · {timeAgo(at)}
                   </span>
                 </button>
                 {view === "saved" && (
