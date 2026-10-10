@@ -80,6 +80,25 @@ test("a topic opened from Next, maybe keeps going as a feed", async ({ page }) =
   await expect.poll(() => pageScroller.locator("[data-article]").count()).toBeGreaterThan(1);
 });
 
+test("Back says where it goes, and a long press jumps to the feed", async ({ page }) => {
+  await onboard(page);
+  await page.getByRole("button", { name: "Skip tour" }).click();
+  const card = page.getByRole("region", { name: "Next, maybe" }).first().getByRole("button").first();
+  await card.scrollIntoViewIfNeeded();
+  await card.click();
+  await expect(page.getByRole("button", { name: "Back to Feed" })).toBeVisible();
+  const deeper = page.locator("[data-page-scroller]").last().getByRole("region", { name: "Next, maybe" }).first().getByRole("button").first();
+  await deeper.scrollIntoViewIfNeeded();
+  await deeper.click();
+  const back = page.getByRole("button", { name: /^Back to (?!Feed)/ }).last();
+  await expect(back).toBeVisible();
+  await back.hover();
+  await page.mouse.down();
+  await page.waitForTimeout(650);
+  await page.mouse.up();
+  await expect(page.getByRole("button", { name: /^Back to/ })).toHaveCount(0);
+});
+
 test("highlighting text offers Ask Birdie and opens a streaming chat", async ({ page }) => {
   await onboard(page);
   await page.getByRole("button", { name: "Skip tour" }).click();

@@ -3,7 +3,7 @@ import { ChevronLeft, LibraryBig, Search } from "lucide-react";
 import { AnimatePresence, motion } from "motion/react";
 import { useSaveDot } from "@/lib/saveFeedback";
 import { IconButton, Wordmark } from "./ui";
-import { openOverlay, popPage } from "@/lib/ui";
+import { openOverlay, popPage, popToFeed } from "@/lib/ui";
 import { cue, buzz } from "@/lib/feedback";
 import { cn } from "@/lib/cn";
 
@@ -15,13 +15,13 @@ export function TopBar({
   scroller,
   back = false,
   title,
-  kicker,
+  backLabel,
 }: {
   scroller: React.RefObject<HTMLElement | null>;
   back?: boolean;
   title?: string;
-  /** Shown beside Back until the title scrolls away, so a lone chevron never floats. */
-  kicker?: string;
+  /** Where Back goes ("Feed" or the previous topic), shown in the button until you scroll. */
+  backLabel?: string;
 }) {
   const [hidden, setHidden] = useState(false);
   const newSave = useSaveDot();
@@ -81,37 +81,15 @@ export function TopBar({
         <div className="flex min-w-0 items-center">
           {back ? (
             <>
-              <IconButton
-                label="Back"
-                className="glass relative"
-                onClick={() => {
-                  cue("navigate", { direction: "back" });
-                  buzz(5);
-                  popPage();
-                }}
-              >
-                <ChevronLeft size={24} strokeWidth={1.7} />
-              </IconButton>
-              <span className="relative min-w-0 flex-1">
-                {kicker && (
-                  <span
-                    aria-hidden={scrolled && !!title}
-                    className={cn(
-                      "absolute inset-y-0 left-0 flex items-center font-mono text-[11.5px] font-medium tracking-[0.1em] text-muted uppercase transition-opacity duration-200",
-                      scrolled && title ? "opacity-0" : "opacity-100",
-                    )}
-                  >
-                    {kicker}
-                  </span>
+              <BackButton label={backLabel ?? "Back"} collapsed={scrolled && !!title} />
+              <span
+                className={cn(
+                  "ml-1.5 block min-w-0 flex-1 truncate font-sans text-[15px] font-semibold tracking-[-0.01em] text-strong transition-opacity duration-200",
+                  scrolled && title ? "opacity-100" : "opacity-0",
                 )}
-                <span
-                  className={cn(
-                    "block truncate font-serif text-[15px] text-muted transition-opacity duration-200",
-                    scrolled && title ? "opacity-100" : "opacity-0",
-                  )}
-                >
-                  {title}
-                </span>
+                aria-hidden={!(scrolled && title)}
+              >
+                {title}
               </span>
             </>
           ) : (
@@ -178,5 +156,65 @@ export function TopBar({
         style={{ transform: "scaleX(0)", transition: "transform 120ms linear" }}
       />
     </header>
+  );
+}
+
+/**
+ * Back, the modern way: a glass pill that says where it goes ("‹ Feed"), folding into a
+ * chevron circle once you scroll so the page title can take over. The chevron nudges left
+ * on press, and a long press jumps straight to the feed (like iOS's back-button history).
+ */
+function BackButton({ label, collapsed }: { label: string; collapsed: boolean }) {
+  const timer = useRef(0);
+  const longPressed = useRef(false);
+  const start = () => {
+    longPressed.current = false;
+    window.clearTimeout(timer.current);
+    timer.current = window.setTimeout(() => {
+      longPressed.current = true;
+      cue("navigate", { direction: "back" });
+      buzz([8, 30, 8]);
+      popToFeed();
+    }, 480);
+  };
+  const cancel = () => window.clearTimeout(timer.current);
+  useEffect(() => () => window.clearTimeout(timer.current), []);
+  return (
+    <motion.button
+      type="button"
+      layout
+      transition={{ layout: { duration: 0.24, ease: [0.23, 1, 0.32, 1] } }}
+      aria-label={`Back to ${label}`}
+      title="Back · long-press for your feed"
+      onPointerDown={start}
+      onPointerUp={cancel}
+      onPointerLeave={cancel}
+      onPointerCancel={cancel}
+      onContextMenu={(e) => e.preventDefault()}
+      onClick={() => {
+        if (longPressed.current) return;
+        cue("navigate", { direction: "back" });
+        buzz(5);
+        popPage();
+      }}
+      className="press glass group relative flex h-11 shrink-0 items-center overflow-hidden rounded-full text-strong select-none active:bg-inset"
+      style={{ paddingLeft: 10, paddingRight: collapsed ? 10 : 14 }}
+    >
+      <ChevronLeft
+        size={22}
+        strokeWidth={2.2}
+        aria-hidden="true"
+        className="-ml-px shrink-0 transition-transform duration-150 ease-out group-active:-translate-x-0.5"
+      />
+      <motion.span
+        initial={false}
+        animate={{ width: collapsed ? 0 : "auto", opacity: collapsed ? 0 : 1 }}
+        transition={{ duration: 0.22, ease: [0.23, 1, 0.32, 1] }}
+        className="block max-w-[9.5rem] truncate font-sans text-[15px] font-semibold tracking-[-0.01em] whitespace-nowrap"
+        aria-hidden="true"
+      >
+        <span className="pl-0.5">{label}</span>
+      </motion.span>
+    </motion.button>
   );
 }

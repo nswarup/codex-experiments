@@ -73,6 +73,16 @@ Two independent reviews: a visual and interaction review (about 120 screenshots 
 
 Kept as-is despite review suggestions, because they were your explicit calls in the mockup rounds: the mono hook (serif is in the Design lab), the dashed wildcard border, and dark as the first-run theme.
 
+## Back button
+
+- **At the top of a page:** Back is a glass pill that says where it goes: "‹ Feed", or the topic you came from ("‹ The Shepard tone").
+- **As you scroll:** the pill folds into a chevron circle and the page title fades in beside it.
+- **Feel:** the chevron is bolder and optically centred, and it nudges left when pressed.
+- **Long press:** jumps straight to your feed with a haptic tap, like iOS's back-button history.
+- **Solid material:** it's a clean text back link.
+
+The mono category label that used to sit beside Back is gone.
+
 ## Saving without the popup
 
 The "Saved for later" toast on every save is gone. The button is now the feedback, as in Instagram, Threads or Apple Books:

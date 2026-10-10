@@ -19,6 +19,12 @@ export function TopicPage({ id }: { id: string }) {
   // Re-render when a generated topic is saved.
   useApp((s) => s.generated[id]);
   const job = useJob(id);
+  // Back says where it goes: the feed, or the topic this one was opened from.
+  const backLabel = useUi((u) => {
+    const i = u.stack.findIndex((p) => p.kind === "topic" && p.id === id);
+    const prev = i > 0 ? u.stack[i - 1] : undefined;
+    return !prev || prev.kind === "feed" ? "Feed" : (readyTopic(prev.id)?.title ?? "Back");
+  });
   const topic = readyTopic(id);
   const active = useUi(
     (s) => s.stack[s.stack.length - 1]?.kind === "topic" && (s.stack[s.stack.length - 1] as { id: string }).id === id && !(s.overlay && COVERING.includes(s.overlay.kind)),
@@ -52,7 +58,7 @@ export function TopicPage({ id }: { id: string }) {
 
   return (
     <div ref={scroller} data-page-scroller={id} className="no-scrollbar absolute inset-0 overflow-y-auto overscroll-contain bg-bg">
-      <TopBar scroller={scroller} back title={view?.title} kicker={view?.category ?? (job ? "Birdie" : undefined)} />
+      <TopBar scroller={scroller} back title={view?.title} backLabel={backLabel} />
       <main className="pb-[calc(env(safe-area-inset-bottom,0px)+56px)]">
         {view && <TopicArticle ref={ref} view={view} reason="opened" actions={!!topic} />}
         {job?.status === "writing" && !view?.lede && <WritingStatus />}
