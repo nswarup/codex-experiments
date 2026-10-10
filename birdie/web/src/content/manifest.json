@@ -638,5 +638,40 @@
   "id": "fantasia-hp-oscillators",
   "title": "Fantasia and Hewlett-Packard",
   "category": "Film"
+ },
+ {
+  "id": "segmented-sleep",
+  "title": "First sleep and second sleep",
+  "category": "Health"
+ },
+ {
+  "id": "siffre-cave",
+  "title": "Michel Siffre's summer in a cave",
+  "category": "Health"
+ },
+ {
+  "id": "contagious-yawning",
+  "title": "Why yawns are catching",
+  "category": "Health"
+ },
+ {
+  "id": "human-smell",
+  "title": "The human nose is better than its reputation",
+  "category": "Health"
+ },
+ {
+  "id": "pruney-fingers",
+  "title": "Why fingers wrinkle in the bath",
+  "category": "Health"
+ },
+ {
+  "id": "blind-spot",
+  "title": "The blind spot in every eye",
+  "category": "Health"
+ },
+ {
+  "id": "taller-in-morning",
+  "title": "You are taller in the morning",
+  "category": "Health"
  }
 ]

@@ -1,0 +1,43 @@
+{
+  "id": "human-smell",
+  "title": "The human nose is better than its reputation",
+  "category": "Health",
+  "hook": "The idea that humans have a poor sense of smell goes back to one 1800s scientist.",
+  "peek": "Humans are often said to have a weak sense of smell. A 2017 review traced that belief to the 19th-century anatomist Paul Broca and argued it is a myth. People can even follow a scent trail across a field.",
+  "lede": "We like to think of our noses as feeble next to a dog's. In 2017 the neuroscientist John McGann reviewed the evidence in the journal Science and called that a 19th-century myth. Human noses are not as sharp as a dog's for many smells, but they are far better than we assume, and for some smells they rival other mammals.",
+  "bullets": [
+    {
+      "opening": "Paul Broca's brain maps",
+      "linkId": null,
+      "text": "The French anatomist noticed that the smell centres of the human brain are small next to the rest of it. He grouped humans with animals that smell poorly, and the idea stuck for more than a century."
+    },
+    {
+      "opening": "The chocolate scent trail",
+      "linkId": null,
+      "text": "In 2007, researchers at Berkeley laid a trail of chocolate scent through a grassy field. About two-thirds of the blindfolded volunteers, crawling on all fours, followed it to the end, and they got faster with practice."
+    },
+    {
+      "opening": "Petrichor and geosmin",
+      "linkId": "petrichor",
+      "text": "People can pick up geosmin, the earthy molecule behind the smell of rain on dry ground, at just a few parts per trillion, one of the most sensitive responses the human nose has."
+    },
+    {
+      "opening": "The trillion smells claim",
+      "linkId": null,
+      "text": "A 2014 study estimated that people can tell apart at least a trillion smells. Other scientists questioned the maths, so the true number is unsettled, but it is clearly far more than the old guess of 10,000."
+    }
+  ],
+  "tags": [
+    "smell",
+    "perception",
+    "myths-busted",
+    "senses"
+  ],
+  "related": [
+    "dogs-smell",
+    "petrichor",
+    "cilantro-gene",
+    "umami",
+    "honey-keeps"
+  ]
+}

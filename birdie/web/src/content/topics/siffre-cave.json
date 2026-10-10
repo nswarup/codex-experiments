@@ -1,0 +1,43 @@
+{
+  "id": "siffre-cave",
+  "title": "Michel Siffre's summer in a cave",
+  "category": "Health",
+  "hook": "A caver spent two months underground with no clock and lost nearly a month.",
+  "peek": "In 1962 the young French caver Michel Siffre lived alone in an Alpine cave for about two months with no clock or daylight. When his team told him the experiment was over, he believed weeks less time had passed.",
+  "lede": "In the summer of 1962, Michel Siffre, a 23-year-old French geologist and caver, set up camp deep inside a cave in the Alps. He had no watch and no daylight. He slept and woke whenever he felt like it. When his team on the surface called him up in September, he thought it was still August, nearly a month earlier.",
+  "bullets": [
+    {
+      "opening": "Phone calls to the surface",
+      "linkId": null,
+      "text": "Siffre rang his team each time he woke, ate or went to sleep. They never told him the time, but they logged every call, which let researchers chart his days afterwards."
+    },
+    {
+      "opening": "His slow-running body clock",
+      "linkId": null,
+      "text": "His sleep and waking kept a steady rhythm on its own, but the cycle ran a little longer than 24 hours. Each long day counted as one in his mind, so the calendar slipped away from him."
+    },
+    {
+      "opening": "Counting to 120",
+      "linkId": null,
+      "text": "Siffre also tried counting off two minutes at a steady pace. He reported that it took him about five real minutes, a sign of how stretched his sense of time had become."
+    },
+    {
+      "opening": "The Texas cave in 1972",
+      "linkId": null,
+      "text": "Siffre went underground again for about six months in Midnight Cave in Texas, a study that drew interest from NASA. At times his days stretched far beyond 24 hours."
+    }
+  ],
+  "tags": [
+    "time",
+    "sleep",
+    "body-clock",
+    "records"
+  ],
+  "related": [
+    "harrison-clocks",
+    "eleven-days-1752",
+    "venus-day",
+    "moon-drifting",
+    "tetris-effect"
+  ]
+}

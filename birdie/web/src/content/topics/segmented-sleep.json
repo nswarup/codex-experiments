@@ -1,0 +1,48 @@
+{
+  "id": "segmented-sleep",
+  "title": "First sleep and second sleep",
+  "category": "Health",
+  "hook": "People in pre-industrial Europe often slept in two parts, awake in between.",
+  "peek": "Old diaries, court records and prayer books mention a \"first sleep\" and a \"second sleep\", with a quiet hour or so awake around midnight. The historian Roger Ekirch argues this was once a normal night in Europe.",
+  "lede": "Before cheap artificial light, many Europeans seem to have slept in two stretches. They went to bed a couple of hours after dark, woke around midnight for an hour or so, then slept again until morning. The historian Roger Ekirch noticed the phrases \"first sleep\" and \"second sleep\" turning up again and again in old documents, and spent years tracking them down.",
+  "bullets": [
+    {
+      "opening": "Roger Ekirch's archive hunt",
+      "linkId": null,
+      "text": "Ekirch, a historian at Virginia Tech, found hundreds of references in diaries, court testimony, medical books and literature. He set out the case in a 2001 paper and his 2005 book At Day's Close."
+    },
+    {
+      "opening": "The quiet hour at midnight",
+      "linkId": null,
+      "text": "Accounts describe people using the waking spell to pray, tend the fire, chat in bed, visit neighbours or think over their dreams. It was treated as an ordinary part of the night, not a problem to fix."
+    },
+    {
+      "opening": "Thomas Wehr's long nights",
+      "linkId": null,
+      "text": "In the early 1990s the psychiatrist Thomas Wehr gave volunteers 14 hours of darkness each night for weeks. Over time many began sleeping in two blocks, with a calm hour or two awake between them."
+    },
+    {
+      "opening": "How it faded",
+      "linkId": null,
+      "text": "Ekirch links the change to street lighting, later evenings and busier city life from the 1700s on. By the early 1900s the phrase \"first sleep\" had largely dropped out of use."
+    },
+    {
+      "opening": "Not a universal rule",
+      "linkId": null,
+      "text": "Some researchers are cautious. Studies of present-day hunter-gatherer groups have found mostly single, unbroken nights of sleep, so two-part sleep may have depended on long winter nights and local custom."
+    }
+  ],
+  "tags": [
+    "time",
+    "history-of-things",
+    "myths-busted",
+    "sleep"
+  ],
+  "related": [
+    "tetris-effect",
+    "harrison-clocks",
+    "eleven-days-1752",
+    "the-dress",
+    "year-without-summer"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "contagious-yawning",
+  "title": "Why yawns are catching",
+  "category": "Health",
+  "hook": "Seeing, hearing or even reading about a yawn can be enough to start one.",
+  "peek": "Yawns spread from person to person, and you do not even need to see one. Hearing a yawn, or reading about yawning, works too. People catch yawns most easily from family and close friends.",
+  "lede": "Yawning is one of the most catching things people do. Watch someone yawn and there is a good chance you will follow within a few minutes. The psychologist Robert Provine spent years studying it and found the trigger can be surprisingly faint: a sound, a picture, or simply reading the word. Some readers will have yawned already.",
+  "bullets": [
+    {
+      "opening": "Robert Provine's yawn videos",
+      "linkId": null,
+      "text": "Provine, at the University of Maryland, showed people films of a man yawning over and over. Around half of the viewers yawned while watching, far more than those shown a man smiling."
+    },
+    {
+      "opening": "The oxygen myth",
+      "linkId": null,
+      "text": "A common idea says yawns top up oxygen. Provine tested it in the 1980s by having people breathe air with extra oxygen or extra carbon dioxide. Their yawning did not change."
+    },
+    {
+      "opening": "Closest people first",
+      "linkId": null,
+      "text": "In 2011 Italian researchers Ivan Norscia and Elisabetta Palagi watched yawns spread in everyday life. They spread fastest between relatives, then friends, then acquaintances, and least between strangers."
+    },
+    {
+      "opening": "Children learning to catch yawns",
+      "linkId": null,
+      "text": "Young children rarely catch yawns. Studies suggest it starts around the age of four or five, about when children get better at reading other people's feelings."
+    },
+    {
+      "opening": "The brain-cooling idea",
+      "linkId": null,
+      "text": "Why we yawn at all is still debated. One idea, from psychologist Andrew Gallup, is that a deep yawn helps cool the brain, but it remains a hypothesis rather than a settled answer."
+    }
+  ],
+  "tags": [
+    "communication",
+    "myths-busted",
+    "perception",
+    "everyday-quirks"
+  ],
+  "related": [
+    "cat-slow-blink",
+    "mcgurk-effect",
+    "baader-meinhof",
+    "semantic-satiation",
+    "ben-franklin-effect"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "blind-spot",
+  "title": "The blind spot in every eye",
+  "category": "Health",
+  "hook": "Each eye has a hole in its view, and your brain quietly paints over it.",
+  "peek": "Every human eye has a blind spot where the nerve to the brain leaves the back of the eye. It is large enough to hide a face across a room, yet we never notice it because the brain fills in the gap.",
+  "lede": "At the back of each eye there is a patch with no light-sensing cells at all. It is where the optic nerve and its fibres gather and leave for the brain. Anything whose image lands there simply vanishes. The French scientist Edme Mariotte described it in the 1660s, and you can find your own with a dot, a cross and one eye closed.",
+  "bullets": [
+    {
+      "opening": "Edme Mariotte's discovery",
+      "linkId": null,
+      "text": "Mariotte worked out where the gap should be from the anatomy of the eye, then proved it by making a small object vanish from view. His report to scientists in Paris caused a stir, since nobody had suspected the eye had such a gap."
+    },
+    {
+      "opening": "Room for ten Moons",
+      "linkId": null,
+      "text": "The blind spot sits about 15 degrees out from the centre of your view, towards the ear. It is wide enough to swallow about ten full Moons lined up side by side."
+    },
+    {
+      "opening": "Filling in the gap",
+      "linkId": null,
+      "text": "We do not see a black hole because the brain fills the space with whatever surrounds it, such as the colour of a wall or the lines of a pattern. Two eyes also cover each other's gaps."
+    },
+    {
+      "opening": "The back-to-front retina",
+      "linkId": null,
+      "text": "The spot exists because the wiring of our retina sits in front of the light-sensing cells and must pass back through them to leave the eye. Octopus eyes are wired the other way round, and have no blind spot."
+    }
+  ],
+  "tags": [
+    "illusions",
+    "perception",
+    "eyes",
+    "senses"
+  ],
+  "related": [
+    "the-dress",
+    "mcgurk-effect",
+    "shepard-tone",
+    "rainbow-circles",
+    "tetris-effect"
+  ]
+}

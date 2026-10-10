@@ -1,0 +1,43 @@
+{
+  "id": "taller-in-morning",
+  "title": "You are taller in the morning",
+  "category": "Health",
+  "hook": "Most people are about a centimetre taller when they wake than at bedtime.",
+  "peek": "People are usually around a centimetre taller first thing in the morning. The discs that cushion the spine settle a little during the day and recover overnight. In space, astronauts grow taller still.",
+  "lede": "Measure yourself first thing in the morning and again before bed, and the numbers will probably differ by about a centimetre. The cause is the spine. Between its bones sit soft, springy discs that work like cushions. All day, standing and walking press them a little flatter. Lying down at night takes the load off, and they plump back up.",
+  "bullets": [
+    {
+      "opening": "Discs like cushions",
+      "linkId": null,
+      "text": "There are 23 of these discs along the spine. Each one loses only a sliver of height in a day, but together they add up to the difference between your morning and evening height."
+    },
+    {
+      "opening": "Measuring at the same hour",
+      "linkId": null,
+      "text": "Because height changes through the day, careful studies of growth try to measure people at a consistent time. Otherwise a morning reading and an evening reading can look like growth or shrinkage."
+    },
+    {
+      "opening": "Astronauts in orbit",
+      "linkId": null,
+      "text": "Without gravity pressing down, the discs expand further. NASA says astronauts can grow up to about 3 percent taller in space, and suits and seats are designed with room for it."
+    },
+    {
+      "opening": "Scott Kelly's year in space",
+      "linkId": null,
+      "text": "After nearly a year on the International Space Station, astronaut Scott Kelly came home about 5 centimetres taller than his identical twin, Mark. Within days back on Earth he had settled to his usual height."
+    }
+  ],
+  "tags": [
+    "scale",
+    "everyday-quirks",
+    "space-exploration",
+    "myths-busted"
+  ],
+  "related": [
+    "napoleon-height",
+    "heels-for-men",
+    "overview-effect",
+    "pale-blue-dot",
+    "venus-day"
+  ]
+}
