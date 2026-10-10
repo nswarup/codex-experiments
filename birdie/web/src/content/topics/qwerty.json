@@ -18,8 +18,8 @@
     },
     {
       "opening": "The telegraph theory",
-      "linkId": "barcode-sand",
-      "text": "Two Japanese researchers, Koichi and Motoko Yasuoka, argued in 2011 that early users were telegraph operators transcribing Morse code, and their needs shaped the layout. The idea is not settled. Morse code later inspired the first barcode too."
+      "linkId": null,
+      "text": "Two Japanese researchers, Koichi and Motoko Yasuoka, argued in 2011 that early users were telegraph operators transcribing Morse code, and their needs shaped the layout. The idea is not settled."
     },
     {
       "opening": "The Dvorak keyboard",
@@ -30,11 +30,6 @@
       "opening": "Path dependence",
       "linkId": null,
       "text": "Economists use QWERTY as the textbook example of an early choice that sticks because everyone has already learned it, long after the original reasons stopped mattering."
-    },
-    {
-      "opening": "Letters shaped by machines",
-      "linkId": "letter-thorn",
-      "text": "It is not the first time a machine changed how we write. Early English printers lacked a letter for 'th' and used a 'y' instead, which is where 'Ye Olde' comes from."
     }
   ],
   "tags": [

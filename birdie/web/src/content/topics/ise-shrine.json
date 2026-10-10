@@ -12,6 +12,11 @@
       "text": "The shrines are built from Japanese cypress, a pale, fragrant wood. Each rebuilding needs thousands of logs, and the shrine has run long-term forestry projects to grow more of its own timber."
     },
     {
+      "opening": "A gap of over a century",
+      "linkId": null,
+      "text": "The cycle has not been unbroken. During the long civil wars of the 15th and 16th centuries, the ceremony lapsed for over a hundred years before it was restored."
+    },
+    {
       "opening": "Skills passed down by doing",
       "linkId": null,
       "text": "A 20-year cycle means a carpenter can expect to work on the rebuilding two or three times in a career: once as an apprentice, then as a master. The technique stays alive because it is practised, not written down."
@@ -20,21 +25,6 @@
       "opening": "Old timbers, new homes",
       "linkId": null,
       "text": "Wood from the dismantled buildings is not thrown away. Pieces are reused for torii gates and for other shrines around Japan, so the old buildings carry on in new places."
-    },
-    {
-      "opening": "A gap of over a century",
-      "linkId": null,
-      "text": "The cycle has not been unbroken. During the long civil wars of the 15th and 16th centuries, the ceremony lapsed for over a hundred years before it was restored."
-    },
-    {
-      "opening": "A church that is never finished",
-      "linkId": "sagrada-familia",
-      "text": "Ise is a real version of the ship of Theseus puzzle: always new, yet one continuous place. Barcelona's Sagrada Família takes the opposite route, one building still under way after more than 140 years."
-    },
-    {
-      "opening": "A forest that renews itself",
-      "linkId": "pando",
-      "text": "Pando, an aspen grove in Utah, works in a similar way: individual trunks come and go, while the single organism underneath carries on for thousands of years."
     }
   ],
   "tags": [

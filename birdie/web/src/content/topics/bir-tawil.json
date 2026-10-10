@@ -19,22 +19,12 @@
     {
       "opening": "Terra nullius",
       "linkId": null,
-      "text": "Land that no state claims is called terra nullius. Bir Tawil is often cited as the clearest example on land today, which is why it turns up in geography quizzes and law classes."
+      "text": "Land that no state claims is called terra nullius. Bir Tawil is often cited as the clearest example on land today, since the larger unclaimed part of Antarctica sits under a treaty that sets claims aside."
     },
     {
       "opening": "Self-declared kingdoms",
       "linkId": null,
       "text": "Several people have travelled there, planted flags and announced new countries. None of these claims has been recognised by any government, and they have no legal standing."
-    },
-    {
-      "opening": "Other empty places",
-      "linkId": "point-nemo",
-      "text": "Point Nemo, the spot in the ocean farthest from land, is empty for a simpler reason: distance. Antarctica's Marie Byrd Land is larger and unclaimed too, but there the Antarctic Treaty sets claims aside."
-    },
-    {
-      "opening": "Borders that surprise",
-      "linkId": "baarle",
-      "text": "Bir Tawil is a border with nobody inside it. In the Low Countries, Baarle has the opposite problem: a border so tangled it runs through houses and cafés."
     }
   ],
   "tags": [

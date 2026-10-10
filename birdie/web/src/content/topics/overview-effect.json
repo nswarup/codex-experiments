@@ -7,34 +7,24 @@
   "lede": "Astronauts often come back describing something the training did not cover. Seeing the whole planet hanging in black space, with no borders visible and an atmosphere that looks thin as a skin, many report a lasting sense that Earth is small, fragile and shared. In 1987 the writer Frank White gave it a name in his book The Overview Effect.",
   "bullets": [
     {
-      "opening": "Earthrise",
+      "opening": "Frank White's airplane window",
       "linkId": null,
-      "text": "On 24 December 1968, Apollo 8 astronaut Bill Anders photographed Earth rising over the Moon's horizon. The picture became one of the most famous ever taken."
+      "text": "White has said the idea came to him on a cross-country flight, looking down and imagining how much stronger the view would be from space. He then interviewed astronauts about what they had felt."
     },
     {
-      "opening": "The Pale Blue Dot",
-      "linkId": "pale-blue-dot",
-      "text": "In 1990 Voyager 1 looked back from about six billion kilometres and caught Earth as a single faint pixel. Carl Sagan made it a lesson in humility."
-    },
-    {
-      "opening": "Bir Tawil's unclaimed desert",
-      "linkId": "bir-tawil",
-      "text": "From orbit, most borders are invisible. On the ground, some are odd enough that one patch of desert between Egypt and Sudan is claimed by no country at all."
+      "opening": "Edgar Mitchell's journey home",
+      "linkId": null,
+      "text": "Returning from the Moon on Apollo 14 in 1971, Mitchell described an overwhelming sense of connection as he watched Earth through the window. He later founded an institute to study consciousness."
     },
     {
       "opening": "A thin blue line",
       "linkId": null,
-      "text": "Many astronauts say the atmosphere surprised them most. Seen edge-on, it looks like a thin band of blue around the planet. It is the layer that holds all the weather and air anyone has ever breathed."
+      "text": "Many astronauts say the atmosphere surprised them most. Seen edge-on, it looks like a thin band of blue around the planet, the layer that holds all the air anyone has ever breathed."
     },
     {
       "opening": "Studying the feeling",
       "linkId": null,
       "text": "Researchers have interviewed astronauts and found the shift is commonly reported and sometimes long-lasting, though it is hard to measure and not everyone feels it. Some groups now try to recreate a taste of it with virtual reality."
-    },
-    {
-      "opening": "The Voyager Golden Record",
-      "linkId": "golden-record",
-      "text": "The Voyager probes carry a golden record of sounds and images from Earth, another attempt to see our planet as a whole."
     }
   ],
   "tags": [

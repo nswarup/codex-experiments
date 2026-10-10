@@ -7,34 +7,24 @@
   "lede": "Play Tetris for hours and something odd can happen. You close your eyes at night and the pieces keep falling. Walking down the street, you notice how the buildings would slot together. The name was popularised by a 1994 Wired article, and scientists have since used the game to study how the brain replays what it has been practising.",
   "bullets": [
     {
-      "opening": "A Soviet puzzle",
-      "linkId": "tetris-origin",
-      "text": "Tetris was created by Alexey Pajitnov in Moscow in 1984. Its simple, repetitive shapes make it ideal for this kind of mental echo. It spread from computer to computer before reaching the West."
+      "opening": "The 1994 Wired article",
+      "linkId": null,
+      "text": "The journalist Jeffrey Goldsmith wrote about players who kept seeing blocks after long sessions, in dreams and in the shapes of the world around them. The name caught on from there."
     },
     {
       "opening": "Robert Stickgold's study",
       "linkId": null,
-      "text": "In 2000, the Harvard sleep researcher had people play Tetris for several days. Many reported seeing pieces as they fell asleep, including a few people with amnesia who could not remember playing."
+      "text": "In 2000, the Harvard sleep researcher had people play Tetris for several days. Many reported seeing falling pieces as they drifted off, and some experienced players saw pieces from older versions they had played years before."
+    },
+    {
+      "opening": "Players who forgot playing",
+      "linkId": null,
+      "text": "The study also included a few people with amnesia. They could not remember playing the game, yet some of them still described falling, rotating blocks as they fell asleep."
     },
     {
       "opening": "Hypnagogic images",
       "linkId": null,
-      "text": "These pictures on the edge of sleep are common. Stickgold's work suggested the brain may be replaying recent experience while memories settle."
-    },
-    {
-      "opening": "Game transfer phenomena",
-      "linkId": null,
-      "text": "Researchers have collected similar reports from many games: players hearing sound effects or seeing health bars in daily life. Most are brief and harmless."
-    },
-    {
-      "opening": "Seeing it everywhere",
-      "linkId": "baader-meinhof",
-      "text": "Once something is on your mind, you notice it more. The frequency illusion is a waking cousin of the Tetris effect."
-    },
-    {
-      "opening": "Ski slopes and boats",
-      "linkId": null,
-      "text": "People who spend a long day skiing, rowing or on a boat often feel the motion continue that night. It is a very old version of the same thing. Sailors have long described still feeling the swell for hours after stepping ashore."
+      "text": "These pictures on the edge of sleep are common. Stickgold's work suggested the brain may be replaying recent practice while memories settle, even when we cannot recall the practice itself."
     }
   ],
   "tags": [

@@ -7,12 +7,7 @@
   "lede": "Around Saturn's north pole runs a jet stream that does not form a circle. It forms a hexagon, with six fairly straight sides, each longer than Earth is wide. Voyager images revealed it in the early 1980s, and NASA's Cassini spacecraft, which orbited Saturn from 2004 to 2017, found it still in place. It is one of the most stable weather patterns known.",
   "bullets": [
     {
-      "opening": "Rotating tank experiments",
-      "linkId": null,
-      "text": "In 2010 researchers at Oxford spun a tank of water with a faster-turning ring inside. Where the flows met, the fluid formed polygons, including hexagons, suggesting the shape arises naturally from differing wind speeds."
-    },
-    {
-      "opening": "The polar vortex",
+      "opening": "The storm at the centre",
       "linkId": null,
       "text": "At the very centre of the hexagon sits a huge storm with an eye, a little like a hurricane but locked over the pole rather than drifting."
     },
@@ -22,19 +17,14 @@
       "text": "Between 2012 and 2016, Cassini saw the inside of the hexagon turn from bluish to golden. Scientists think haze formed as the north pole moved into summer sunlight."
     },
     {
-      "opening": "Hexagons in nature",
-      "linkId": "fibonacci-sunflowers",
-      "text": "Six-sided shapes turn up wherever tidy packing or flow matters, from packed soap bubbles to basalt columns. Sunflower seeds follow a different rule, spirals counted in Fibonacci numbers."
+      "opening": "Rotating tank experiments",
+      "linkId": null,
+      "text": "In 2010 researchers at Oxford spun a tank of water with a faster-turning ring inside. Where the flows met, the fluid formed polygons, including hexagons, suggesting the shape arises naturally from differing wind speeds."
     },
     {
-      "opening": "Clouds with structure",
-      "linkId": "morning-glory-clouds",
-      "text": "Earth has its own oddly ordered clouds. The Morning Glory clouds of northern Australia roll in as long tubes that can stretch for hundreds of kilometres."
-    },
-    {
-      "opening": "Order from simple rules",
-      "linkId": "murmurations",
-      "text": "Like a starling flock that holds a shape without a leader, the hexagon seems to emerge from fluid behaving simply, not from anything steering it."
+      "opening": "No twin in the south",
+      "linkId": null,
+      "text": "Saturn's south pole has its own swirling storm, but Cassini found no hexagon around it. The six-sided jet stream is a feature of the north alone."
     }
   ],
   "tags": [

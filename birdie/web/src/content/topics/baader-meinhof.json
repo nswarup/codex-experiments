@@ -14,22 +14,12 @@
     {
       "opening": "Arnold Zwicky's frequency illusion",
       "linkId": null,
-      "text": "The Stanford linguist coined the more descriptive term in the 2000s. He described it as selective attention, noticing what is new to you, plus confirmation bias, counting the hits and ignoring the misses."
+      "text": "In 2005 the Stanford linguist proposed the plainer name on the blog Language Log. Many writers now prefer it, since the effect has nothing to do with the group itself."
     },
     {
-      "opening": "The recency illusion",
+      "opening": "Attention plus confirmation",
       "linkId": null,
-      "text": "Zwicky also named a cousin effect: believing a word or usage is new just because you only recently noticed it, when it may be centuries old. Plenty of words people complain about as modern slang turn out to have long histories."
-    },
-    {
-      "opening": "Coincidences are common",
-      "linkId": "birthday-paradox",
-      "text": "Our sense of what is unlikely is poor. In a room of just 23 people, the odds are better than even that two share a birthday. Repeat sightings of a new word feel like a sign, but they are usually just attention plus ordinary chance."
-    },
-    {
-      "opening": "The Tetris effect",
-      "linkId": "tetris-effect",
-      "text": "Spend long enough on one thing and your brain starts seeing it everywhere, from falling blocks to the car you just bought."
+      "text": "Zwicky described two parts. Selective attention makes you notice what is new to you, so each sighting registers. Confirmation bias then counts the hits and forgets the many days without one, so the pattern feels real."
     }
   ],
   "tags": [

@@ -24,17 +24,7 @@
     {
       "opening": "The cosmic microwave background",
       "linkId": null,
-      "text": "In a sense the sky does glow everywhere. The hot early universe filled space with light, and expansion has stretched it into microwaves, invisible to us."
-    },
-    {
-      "opening": "Endless rooms",
-      "linkId": "hilberts-hotel",
-      "text": "Infinity breaks intuition in mathematics too. A hotel with infinitely many rooms, all full, can still take new guests, a puzzle David Hilbert used to show how strange infinite sets are."
-    },
-    {
-      "opening": "One tree as a forest",
-      "linkId": "pando",
-      "text": "The forest analogy works better with many trunks. Pando in Utah looks like a forest of aspens but is a single organism, one clone joined by its roots."
+      "text": "In a sense the sky does glow everywhere. The hot early universe filled space with light, and expansion has stretched it into microwaves, invisible to our eyes."
     }
   ],
   "tags": [
@@ -45,6 +35,7 @@
   ],
   "related": [
     "hilberts-hotel",
+    "pando",
     "pale-blue-dot",
     "golden-record",
     "moon-drifting",
