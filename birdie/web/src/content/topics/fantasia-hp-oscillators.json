@@ -1,0 +1,43 @@
+{
+  "id": "fantasia-hp-oscillators",
+  "title": "Fantasia and Hewlett-Packard",
+  "category": "Film",
+  "hook": "One of HP's first big customers was Disney, testing the sound for Fantasia.",
+  "peek": "In 1939 two engineers in a Palo Alto garage built an audio oscillator, a box that makes precise test tones. Disney's sound department ordered eight to help set up the ambitious sound system for Fantasia, an early boost for the company that became HP.",
+  "lede": "Bill Hewlett and David Packard started their company in a Palo Alto garage in 1939. Their first product was an audio oscillator, the model 200A, which makes steady tones for testing sound equipment. Disney was preparing Fantasia, a feature built around orchestral music, with a new sound system called Fantasound. Its engineers needed reliable test tones, and ordered eight oscillators from the young firm.",
+  "bullets": [
+    {
+      "opening": "The model 200B",
+      "linkId": null,
+      "text": "Disney ordered a slightly modified version, the 200B. The sale is often told as HP's first big order, and the oscillators were used to test and tune Fantasound's equipment."
+    },
+    {
+      "opening": "Fantasound",
+      "linkId": null,
+      "text": "The system played the film's music from several separate audio tracks and moved sound around the audience. It is often called the first stereo sound in a commercial film."
+    },
+    {
+      "opening": "Stokowski's orchestra",
+      "linkId": null,
+      "text": "Leopold Stokowski conducted the Philadelphia Orchestra for the soundtrack. It was recorded with many microphones onto separate tracks, so engineers could balance the sections later."
+    },
+    {
+      "opening": "A short road show",
+      "linkId": null,
+      "text": "Fantasia premiered in New York in November 1940. Fantasound needed so much equipment that only a few theatres ever installed it, and most audiences heard a simpler version."
+    }
+  ],
+  "tags": [
+    "acoustics",
+    "music-tech",
+    "inventors",
+    "animation"
+  ],
+  "related": [
+    "theremin",
+    "shepard-tone",
+    "stradivarius",
+    "golden-record",
+    "amen-break"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "foley-art",
+  "title": "Foley, the sound added after filming",
+  "category": "Film",
+  "hook": "Most footsteps in films are performed later, by someone walking on the spot.",
+  "peek": "Much of what you hear in a film, from footsteps to rustling coats, is recorded after shooting by artists who watch the picture and act it out. The craft is named after Jack Foley, who started doing it at Universal in the late 1920s.",
+  "lede": "Film sets are noisy, and the microphones are aimed at the actors' voices, so the small sounds of a scene are often missing or messy. They get rebuilt later. A Foley artist watches the film on a screen and performs every footstep, rustle and clink in time with it, on a stage full of floors, shoes and odd props.",
+  "bullets": [
+    {
+      "opening": "Jack Foley at Universal",
+      "linkId": null,
+      "text": "When films started to talk in the late 1920s, Foley was working at Universal Studios. For Show Boat in 1929, he and a small crew performed sounds live while watching the film projected, and the job later took his name."
+    },
+    {
+      "opening": "Foley pits",
+      "linkId": null,
+      "text": "Foley stages have patches of different floor, such as wood, concrete, gravel and sand, known as pits. Artists keep racks of shoes and walk in place, matching each step to the actor's feet on screen."
+    },
+    {
+      "opening": "Cornstarch snow",
+      "linkId": null,
+      "text": "Many sounds come from unlikely props. Squeezing a pouch of cornstarch gives a crunch close to footsteps in snow, and flapping a pair of leather gloves is a classic stand-in for bird wings."
+    },
+    {
+      "opening": "Why the fakes convince",
+      "linkId": null,
+      "text": "The picture does much of the work. When a sound lands exactly in time with what we see, the brain tends to fuse the two, so a substitute that roughly fits is heard as the real thing."
+    },
+    {
+      "opening": "Tracks for dubbing",
+      "linkId": null,
+      "text": "Foley is recorded apart from the dialogue. When a film is dubbed into another language, the voices can be swapped while the footsteps, rustles and clinks stay exactly as they were."
+    }
+  ],
+  "tags": [
+    "acoustics",
+    "perception",
+    "sound-design",
+    "history-of-things"
+  ],
+  "related": [
+    "mcgurk-effect",
+    "shepard-tone",
+    "theremin",
+    "amen-break",
+    "singing-dunes"
+  ]
+}

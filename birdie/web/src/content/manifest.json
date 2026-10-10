@@ -603,5 +603,40 @@
   "id": "bookland",
   "title": "Bookland, the country on every book",
   "category": "Books"
+ },
+ {
+  "id": "foley-art",
+  "title": "Foley, the sound added after filming",
+  "category": "Film"
+ },
+ {
+  "id": "kuleshov-effect",
+  "title": "The Kuleshov effect",
+  "category": "Film"
+ },
+ {
+  "id": "toy-story-2-deleted",
+  "title": "The day Toy Story 2 was deleted",
+  "category": "Film"
+ },
+ {
+  "id": "jurassic-park-dinosaurs",
+  "title": "Jurassic Park's computer dinosaurs",
+  "category": "Film"
+ },
+ {
+  "id": "barry-lyndon-lenses",
+  "title": "Barry Lyndon's NASA lenses",
+  "category": "Film"
+ },
+ {
+  "id": "steamboat-willie",
+  "title": "Steamboat Willie and synced sound",
+  "category": "Film"
+ },
+ {
+  "id": "fantasia-hp-oscillators",
+  "title": "Fantasia and Hewlett-Packard",
+  "category": "Film"
  }
 ]

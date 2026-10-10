@@ -1,0 +1,43 @@
+{
+  "id": "toy-story-2-deleted",
+  "title": "The day Toy Story 2 was deleted",
+  "category": "Film",
+  "hook": "A stray command wiped most of Toy Story 2, and a home computer saved it.",
+  "peek": "In 1998, a command typed on a Pixar server began deleting the files for Toy Story 2, and the backups turned out to be faulty. The film was rescued from a copy one of its technical directors had been keeping at home.",
+  "lede": "Partway through making Toy Story 2, someone at Pixar ran a command on the server that held the film's files. Characters, sets and animation began to vanish, folder by folder, until the machine was unplugged. Most of the work was gone, and the backup system, it turned out, had not been working properly for some time.",
+  "bullets": [
+    {
+      "opening": "A recursive delete",
+      "linkId": null,
+      "text": "As Pixar staff later told it, the command was a form of rm -r -f, which removes everything beneath a folder without asking. Oren Jacob, a technical director, described watching parts of Woody disappear from the files."
+    },
+    {
+      "opening": "Galyn Susman's home copy",
+      "linkId": null,
+      "text": "Susman, the film's supervising technical director, had been working from home after having a baby and kept a copy of the film on her computer there. The team wrapped the machine in blankets and drove it carefully to the studio."
+    },
+    {
+      "opening": "Rebuilding from pieces",
+      "linkId": null,
+      "text": "Her copy was a few days old, so the team stitched it together with whatever else had survived, checking files by hand. Most of the lost work came back."
+    },
+    {
+      "opening": "Remade anyway",
+      "linkId": null,
+      "text": "In a twist, the studio soon decided the story was not good enough and reworked much of the film in a matter of months. Ed Catmull, Pixar's co-founder, tells the story in his book Creativity, Inc."
+    }
+  ],
+  "tags": [
+    "accidents",
+    "animation",
+    "computing",
+    "history-of-things"
+  ],
+  "related": [
+    "slinky",
+    "tetris-origin",
+    "post-it",
+    "move-37",
+    "pac-man-name"
+  ]
+}

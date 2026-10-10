@@ -1,0 +1,42 @@
+{
+  "id": "jurassic-park-dinosaurs",
+  "title": "Jurassic Park's computer dinosaurs",
+  "category": "Film",
+  "hook": "The dinosaurs were meant to be stop-motion until one test changed the plan.",
+  "peek": "Jurassic Park was planned with stop-motion dinosaurs by Phil Tippett. Then artists at Industrial Light & Magic showed Steven Spielberg a computer-made T. rex walking in daylight, and the plan changed. Tippett stayed on, steering the digital dinosaurs with a hand-moved model.",
+  "lede": "For Jurassic Park, Steven Spielberg planned to combine full-size robotic dinosaurs from Stan Winston's workshop with go-motion, a refined stop-motion technique, by the animator Phil Tippett. At Industrial Light & Magic, a few artists built a computer test, first of a T. rex skeleton and then of a whole animal. When Spielberg saw it, go-motion was dropped.",
+  "bullets": [
+    {
+      "opening": "Phil Tippett's extinct joke",
+      "linkId": null,
+      "text": "Tippett is said to have reacted to the news by saying he felt extinct. Spielberg liked the line, and a joke about being extinct made it into the film's script."
+    },
+    {
+      "opening": "The Dinosaur Input Device",
+      "linkId": null,
+      "text": "Tippett's team kept animating, in a new way. They built a stop-motion-style armature fitted with sensors, so moving the model by hand moved the computer dinosaur on screen."
+    },
+    {
+      "opening": "Robots for the close-ups",
+      "linkId": null,
+      "text": "Stan Winston's full-size animatronic dinosaurs did much of the work, especially up close. The computer-made animals fill only a few minutes of the film, used where a robot could not run or move freely."
+    },
+    {
+      "opening": "The visual effects Oscar",
+      "linkId": null,
+      "text": "The film won the Academy Award for visual effects, shared by Dennis Muren, Stan Winston, Phil Tippett and Michael Lantieri. Its success pushed studios toward computer-made creatures."
+    }
+  ],
+  "tags": [
+    "special-effects",
+    "animation",
+    "computing",
+    "dinosaurs"
+  ],
+  "related": [
+    "move-37",
+    "tetris-origin",
+    "pac-man-name",
+    "mcgurk-effect"
+  ]
+}

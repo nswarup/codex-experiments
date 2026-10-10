@@ -1,0 +1,42 @@
+{
+  "id": "barry-lyndon-lenses",
+  "title": "Barry Lyndon's NASA lenses",
+  "category": "Film",
+  "hook": "Kubrick filmed scenes by candlelight using a lens built for NASA.",
+  "peek": "For Barry Lyndon in 1975, Stanley Kubrick wanted indoor scenes lit only by candles. Ordinary film lenses could not gather enough light, so he used a rare Zeiss lens made for NASA, and the 18th century glows as it might really have looked.",
+  "lede": "Stanley Kubrick wanted Barry Lyndon, set in the 18th century, to look like the paintings of its time. That meant evening scenes lit by candles alone. Film stock in the 1970s needed far more light than a room of candles gives. The answer was one of the fastest lenses ever made, the Zeiss Planar 50mm f/0.7, built for NASA.",
+  "bullets": [
+    {
+      "opening": "The Zeiss Planar 50mm f/0.7",
+      "linkId": null,
+      "text": "Zeiss made only a handful, and most went to NASA for space photography in the Apollo era. Kubrick obtained some of the rest. Its very wide opening let in several times more light than a typical film lens."
+    },
+    {
+      "opening": "A camera rebuilt to fit",
+      "linkId": null,
+      "text": "The lens was never meant for a film camera. Ed DiGiulio of Cinema Products adapted a Mitchell camera so the lens could sit close enough to the film, a delicate piece of engineering."
+    },
+    {
+      "opening": "A razor-thin focus",
+      "linkId": null,
+      "text": "At such a wide aperture, only a sliver of the scene stays sharp. Actors had to keep fairly still, and the focus puller worked hard to follow every small movement."
+    },
+    {
+      "opening": "John Alcott's candles",
+      "linkId": null,
+      "text": "The cinematographer John Alcott used candles with several wicks, along with reflectors, to get the most from each flame. He won the Academy Award for cinematography for the film."
+    }
+  ],
+  "tags": [
+    "light",
+    "cameras",
+    "space-exploration",
+    "history-of-things"
+  ],
+  "related": [
+    "pale-blue-dot",
+    "golden-record",
+    "overview-effect",
+    "harrison-clocks"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "steamboat-willie",
+  "title": "Steamboat Willie and synced sound",
+  "category": "Film",
+  "hook": "Mickey's 1928 breakout was a sound cartoon, kept in time by a metronome.",
+  "peek": "Steamboat Willie made Mickey Mouse a star in 1928, largely because its music and sound effects lined up with the action. It was not the first cartoon with sound, but its tight timing delighted audiences, and in 2024 it entered the US public domain.",
+  "lede": "Steamboat Willie opened in New York in November 1928, with Mickey whistling at the wheel of a riverboat. Talking pictures were brand new, and most early sound cartoons had music that only loosely matched the picture. Disney's team planned every beat in advance, so each note, toot and clang landed exactly when it happened on screen.",
+  "bullets": [
+    {
+      "opening": "Not the first sound cartoon",
+      "linkId": null,
+      "text": "Max and Dave Fleischer had released cartoons with sound earlier in the 1920s. Steamboat Willie is remembered instead as the one that made synchronised sound feel like part of the story."
+    },
+    {
+      "opening": "Wilfred Jackson's metronome",
+      "linkId": null,
+      "text": "Jackson, a young animator who played the harmonica, worked out how to tie music to film using a metronome. The team matched beats to frame counts, so the drawings and the score could be made separately and still line up."
+    },
+    {
+      "opening": "Plane Crazy came first",
+      "linkId": null,
+      "text": "Mickey had already starred in Plane Crazy and The Gallopin' Gaucho, made as silent cartoons. Disney held them back and released Steamboat Willie first, so Mickey reached the public with sound."
+    },
+    {
+      "opening": "Walt's own voice",
+      "linkId": null,
+      "text": "Walt Disney supplied Mickey's few squeaks and whistles himself, and kept voicing the character for many years afterwards."
+    },
+    {
+      "opening": "Public domain in 2024",
+      "linkId": null,
+      "text": "Under US copyright law, the 1928 film and its early version of Mickey entered the public domain on 1 January 2024. Later versions of the character, and Disney's trademarks, remain protected."
+    }
+  ],
+  "tags": [
+    "animation",
+    "sound-design",
+    "music-tech",
+    "history-of-things"
+  ],
+  "related": [
+    "happy-birthday-copyright",
+    "amen-break",
+    "theremin",
+    "pac-man-name",
+    "bob-ross"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "kuleshov-effect",
+  "title": "The Kuleshov effect",
+  "category": "Film",
+  "hook": "The same blank face looks hungry, sad or tender, depending on the next shot.",
+  "peek": "A Soviet film teacher cut one expressionless close-up of an actor against different shots, and viewers praised the actor's range. The face never changed. The idea that editing can create the emotion became a founding lesson of film school.",
+  "lede": "Around 1920, the Soviet filmmaker Lev Kuleshov ran a simple experiment in editing. He took a close-up of the actor Ivan Mozzhukhin wearing a neutral expression and cut it against other images, such as a bowl of soup. Viewers, the story goes, saw hunger in one version and other feelings in the rest, and praised the subtle acting. It was the same shot every time.",
+  "bullets": [
+    {
+      "opening": "Ivan Mozzhukhin's neutral face",
+      "linkId": null,
+      "text": "Mozzhukhin was one of the best-known Russian stars of the day, which made the result more striking. Accounts of the other shots differ, but the most common version includes a bowl of soup and a little girl playing with a toy."
+    },
+    {
+      "opening": "The lost footage",
+      "linkId": null,
+      "text": "The original film has not survived. The main descriptions come from Kuleshov and his student Vsevolod Pudovkin, written down years later, so historians treat the exact details with some caution."
+    },
+    {
+      "opening": "Hitchcock's demonstration",
+      "linkId": null,
+      "text": "In a 1964 television interview, Alfred Hitchcock explained the idea using shots of himself. The same squinting smile looked kindly after a shot of a mother and baby, and rather less so after a woman in a bikini."
+    },
+    {
+      "opening": "Modern replications",
+      "linkId": null,
+      "text": "Later attempts to repeat the experiment have had mixed results. A 2016 study with modern viewers found a measurable effect, with the surrounding shots nudging how people read a neutral face, though smaller than the legend suggests."
+    }
+  ],
+  "tags": [
+    "perception",
+    "illusions",
+    "editing",
+    "myths-busted"
+  ],
+  "related": [
+    "mcgurk-effect",
+    "the-dress",
+    "baader-meinhof",
+    "semantic-satiation",
+    "tetris-effect"
+  ]
+}
