@@ -24,20 +24,27 @@ export function parseTopicStream(text: string): PartialTopic {
   const out: PartialTopic = { bullets: [], tags: [], done: false };
   const lines = text.replace(/\r/g, "").split("\n");
   const lastIndex = lines.length - 1;
+  /** The text field the most recent key line opened, for wrapped continuations. */
+  let last: "hook" | "peek" | "lede" | "bullet" | undefined;
   lines.forEach((raw, i) => {
     const line = raw.trim();
     if (!line) return;
     const m = FIELD.exec(line);
     if (!m) {
-      // Continuation of a wrapped field: append to the last text field.
-      if (out.bullets.length && out.writing === "bullet") {
+      // A field key still arriving on the last line ("BUL"): wait for the rest.
+      if (i === lastIndex && /^[A-Z]{1,8}$/.test(line)) return;
+      // Continuation of a wrapped field: append to the field it belongs to.
+      if (last === "bullet" && out.bullets.length) {
         const b = out.bullets[out.bullets.length - 1];
         b.text = `${b.text} ${line}`.trim();
-      } else if (out.writing === "lede") out.lede = `${out.lede ?? ""} ${line}`.trim();
+      } else if (last === "lede") out.lede = `${out.lede ?? ""} ${line}`.trim();
+      else if (last === "hook") out.hook = `${out.hook ?? ""} ${line}`.trim();
+      else if (last === "peek") out.peek = `${out.peek ?? ""} ${line}`.trim();
       return;
     }
     const [, key, value] = m;
     const isLast = i === lastIndex;
+    last = key === "HOOK" ? "hook" : key === "PEEK" ? "peek" : key === "LEDE" ? "lede" : key === "BULLET" ? "bullet" : undefined;
     switch (key) {
       case "CATEGORY": {
         const c = CATEGORIES.find((x) => x.toLowerCase() === value.trim().toLowerCase());
@@ -60,14 +67,17 @@ export function parseTopicStream(text: string): PartialTopic {
         out.writing = "lede";
         break;
       case "BULLET": {
-        const [opening, ...rest] = value.split("::");
-        let body = rest.join("::").trim();
+        // Expect "opening :: text"; tolerate a single colon if the model slips.
+        let [opening, ...rest] = value.split("::");
+        if (!rest.length && value.includes(":")) [opening, ...rest] = value.split(":");
+        let body = rest.join(":").trim();
         let linkId: string | null = null;
-        const link = /\[\[([a-z0-9-]+)\]\]\s*$/.exec(body);
+        const link = /\s*\[\[([a-z0-9-]+)\]\]\s*([.,;]?)\s*$/.exec(body);
         if (link) {
-          body = body.slice(0, link.index).trim();
+          body = (body.slice(0, link.index).trim() + link[2]).trim();
           if (CORPUS_BY_ID[link[1]]) linkId = link[1];
         }
+        body = body.replace(/\[\[[a-z0-9-]+\]\]/g, "").trim();
         const op = (opening ?? "").trim().replace(/[:.]$/, "");
         if (!op) break;
         if (!linkId) linkId = matchCorpus(op)?.id ?? null;
@@ -94,7 +104,8 @@ export function parseTopicStream(text: string): PartialTopic {
 
 /** Turn a finished partial into a Topic. Related ids are filled in by the caller. */
 export function toTopic(p: PartialTopic, id: string, query: string): Topic | null {
-  if (!p.title || !p.lede || p.bullets.length < 2) return null;
+  const bullets = p.bullets.filter((b) => b.text);
+  if (!p.done || !p.title || !p.lede || bullets.length < 2) return null;
   return {
     id,
     title: p.title,
@@ -102,7 +113,7 @@ export function toTopic(p: PartialTopic, id: string, query: string): Topic | nul
     hook: p.hook ?? "",
     peek: p.peek ?? p.lede.split(/(?<=\.)\s/).slice(0, 2).join(" "),
     lede: p.lede,
-    bullets: p.bullets.filter((b) => b.text),
+    bullets,
     tags: p.tags.length ? p.tags : ["history-of-things"],
     related: [],
     generated: true,
@@ -128,15 +139,16 @@ export function parseChat(text: string): ParsedChat {
   return { body, readNext: title ? { title, hook: hook ?? "" } : undefined };
 }
 
+/** Stable id for a generated topic: readable slug plus a short hash of the full query. */
 export function slug(s: string): string {
-  return (
-    "g-" +
-    s
-      .toLowerCase()
-      .normalize("NFKD")
-      .replace(/[̀-ͯ]/g, "")
-      .replace(/[^a-z0-9]+/g, "-")
-      .replace(/^-|-$/g, "")
-      .slice(0, 60)
-  );
+  const q = s.trim().toLowerCase();
+  const readable = q
+    .normalize("NFKD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-|-$/g, "")
+    .slice(0, 48);
+  let h = 2166136261;
+  for (let i = 0; i < q.length; i++) h = Math.imul(h ^ q.charCodeAt(i), 16777619);
+  return `g-${readable ? readable + "-" : ""}${(h >>> 0).toString(36)}`;
 }

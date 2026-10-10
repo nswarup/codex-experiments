@@ -1,7 +1,8 @@
 import { describe, expect, it } from "vitest";
 import {
   applyAsk, applyEngagement, applyTap, createProfile, drift, markSeen, pickNext, pickNudges,
-  scoreTopic, seededRng, NEUTRAL, WILDCARD_RATE,
+  scoreTopic, seededRng, NEUTRAL, WILDCARD_RATE, FEED_WILDCARD_RATE,
+  type RankedPick,
 } from "../src/lib/ranking";
 import type { Category, Topic } from "../src/lib/types";
 import { CORPUS } from "../src/content";
@@ -63,6 +64,30 @@ describe("pickNext", () => {
     expect(wild / N).toBeGreaterThan(WILDCARD_RATE - 0.02);
     expect(wild / N).toBeLessThan(WILDCARD_RATE + 0.02);
     expect(picked / N).toBeGreaterThan(0.75);
+  });
+
+  it("feed rule (no back-to-back wildcards) still lands near 20% overall", () => {
+    const rng = seededRng(11);
+    const p = createProfile(picks);
+    let prevWild = true; // the feed opens on a match
+    let wild = 0;
+    const N = 20000;
+    for (let i = 0; i < N; i++) {
+      const r: RankedPick = pickNext(p, CORPUS, rng, new Set(), { allowWildcard: !prevWild, wildcardRate: FEED_WILDCARD_RATE })!;
+      prevWild = r.reason === "wildcard";
+      if (prevWild) wild++;
+    }
+    expect(wild / N).toBeGreaterThan(0.18);
+    expect(wild / N).toBeLessThan(0.22);
+  });
+
+  it("can be told not to serve a wildcard", () => {
+    const rng = seededRng(9);
+    const p = createProfile(picks);
+    for (let i = 0; i < 500; i++) {
+      const r = pickNext(p, CORPUS, rng, new Set(), { allowWildcard: false })!;
+      expect(r.reason).toBe("match");
+    }
   });
 
   it("never repeats the last 20 seen", () => {

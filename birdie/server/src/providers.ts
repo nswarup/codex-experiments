@@ -20,6 +20,8 @@ export interface Provider {
 }
 
 export const MODEL = process.env.BIRDIE_MODEL ?? "claude-sonnet-5-5";
+/** A writer that sends nothing for this long is stopped. */
+const IDLE_MS = 60_000;
 
 /* ------------------------------------------------------------------ */
 /* 1. Claude API via the official SDK                                  */
@@ -98,48 +100,75 @@ function claudeCliProvider(): Provider {
         "--strict-mcp-config",
         "--system-prompt", req.system,
       ];
+      if (req.signal?.aborted) return;
       const child = spawn("claude", args, { stdio: ["pipe", "pipe", "pipe"] });
-      req.signal?.addEventListener("abort", () => child.kill("SIGTERM"));
+      let spawnError: Error | null = null;
+      // Resolve on either 'close' or 'error' so a missing binary or broken pipe never hangs or crashes.
+      const exited = new Promise<number | null>((resolve) => {
+        child.once("close", resolve);
+        child.once("error", (e) => {
+          spawnError = e;
+          resolve(null);
+        });
+      });
+      child.stdin.on("error", () => {});
+      const kill = () => child.kill("SIGTERM");
+      req.signal?.addEventListener("abort", kill, { once: true });
       child.stdin.end(transcript(req.messages));
 
       let stderr = "";
       child.stderr.on("data", (d) => (stderr += d.toString()));
-      const exited = new Promise<number | null>((resolve) => child.on("close", resolve));
+
+      // Kill a writer that goes silent (e.g. waiting on a login prompt).
+      let idle: NodeJS.Timeout = setTimeout(kill, IDLE_MS);
+      const touch = () => {
+        clearTimeout(idle);
+        idle = setTimeout(kill, IDLE_MS);
+      };
 
       let buffer = "";
       let sawText = false;
       let resultText = "";
       let resultError: string | null = null;
-      for await (const chunk of child.stdout) {
-        buffer += chunk.toString();
-        let nl: number;
-        while ((nl = buffer.indexOf("\n")) >= 0) {
-          const line = buffer.slice(0, nl).trim();
-          buffer = buffer.slice(nl + 1);
-          if (!line) continue;
-          let evt: any;
-          try {
-            evt = JSON.parse(line);
-          } catch {
-            continue;
-          }
-          if (evt.type === "stream_event") {
-            const e = evt.event;
-            if (e?.type === "content_block_delta" && e.delta?.type === "text_delta") {
-              sawText = true;
-              yield e.delta.text as string;
+      try {
+        for await (const chunk of child.stdout) {
+          touch();
+          buffer += chunk.toString();
+          let nl: number;
+          while ((nl = buffer.indexOf("\n")) >= 0) {
+            const line = buffer.slice(0, nl).trim();
+            buffer = buffer.slice(nl + 1);
+            if (!line) continue;
+            let evt: any;
+            try {
+              evt = JSON.parse(line);
+            } catch {
+              continue;
             }
-          } else if (evt.type === "result") {
-            if (evt.is_error) resultError = String(evt.result ?? "Claude Code returned an error");
-            else resultText = String(evt.result ?? "");
+            if (evt.type === "stream_event") {
+              const e = evt.event;
+              if (e?.type === "content_block_delta" && e.delta?.type === "text_delta") {
+                sawText = true;
+                yield e.delta.text as string;
+              }
+            } else if (evt.type === "result") {
+              if (evt.is_error) resultError = String(evt.result ?? "Claude Code returned an error");
+              else resultText = String(evt.result ?? "");
+            }
           }
         }
+      } finally {
+        clearTimeout(idle);
+        req.signal?.removeEventListener("abort", kill);
+        if (child.exitCode === null) kill();
       }
       const code = await exited;
+      if (req.signal?.aborted) return;
+      if (spawnError) throw new Error(`Couldn't start Claude Code: ${(spawnError as Error).message}`);
       if (!sawText && resultText) yield resultText;
       if (resultError) throw new Error(resultError);
       if (code !== 0 && !sawText && !resultText) {
-        throw new Error(`Claude Code exited with ${code}: ${stderr.slice(0, 300) || "no output"}`);
+        throw new Error(`Claude Code exited with ${code ?? "a signal"}: ${stderr.slice(0, 300) || "no output"}`);
       }
     },
   };

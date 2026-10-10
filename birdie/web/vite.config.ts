@@ -38,5 +38,6 @@ export default defineConfig({
   resolve: { alias: { "@": path.resolve(import.meta.dirname, "src") } },
   server: { port: 5173, proxy: { "/api": { target: API, changeOrigin: true } } },
   preview: { proxy: { "/api": { target: API, changeOrigin: true } } },
+  build: { chunkSizeWarningLimit: 1200 },
   test: { environment: "node", include: ["tests/**/*.test.ts"] },
 });

@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { Bookmark, ChevronLeft, Search } from "lucide-react";
 import { IconButton, Wordmark } from "./ui";
 import { openOverlay, popPage } from "@/lib/ui";
@@ -20,6 +20,7 @@ export function TopBar({
 }) {
   const [hidden, setHidden] = useState(false);
   const [scrolled, setScrolled] = useState(false);
+  const bar = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     const el = scroller.current;
@@ -36,6 +37,19 @@ export function TopBar({
           last = y;
         }
         setScrolled(y > 8);
+        // Reading progress through whichever article is under the reading line.
+        const box = el.getBoundingClientRect();
+        const line = box.top + box.height * 0.4;
+        let progress = 0;
+        for (const a of el.querySelectorAll<HTMLElement>("[data-article]")) {
+          const r = a.getBoundingClientRect();
+          if (r.bottom < box.top || r.top > box.bottom) continue;
+          if (r.top <= line && r.bottom >= line) {
+            progress = Math.min(1, Math.max(0, (line - r.top) / Math.max(1, r.height)));
+            break;
+          }
+        }
+        if (bar.current) bar.current.style.transform = `scaleX(${progress})`;
       });
     };
     el.addEventListener("scroll", onScroll, { passive: true });
@@ -116,6 +130,12 @@ export function TopBar({
           </IconButton>
         </div>
       </div>
+      <div
+        ref={bar}
+        aria-hidden="true"
+        className="absolute inset-x-0 -bottom-px h-[2px] origin-left bg-dot"
+        style={{ transform: "scaleX(0)", transition: "transform 120ms linear" }}
+      />
     </header>
   );
 }

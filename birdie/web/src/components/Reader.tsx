@@ -101,6 +101,13 @@ function PageLayer({
     }
   };
 
+  // If the system takes the gesture (e.g. iOS's own edge-back), just settle back.
+  const onPointerCancel = (e: React.PointerEvent) => {
+    if (drag.current?.id !== e.pointerId) return;
+    drag.current = null;
+    animate(x, 0, { duration: 0.2, ease: [0.23, 1, 0.32, 1] });
+  };
+
   useEffect(() => {
     if (isTop) x.set(0);
   }, [isTop, x]);
@@ -132,7 +139,7 @@ function PageLayer({
             onPointerDown={onPointerDown}
             onPointerMove={onPointerMove}
             onPointerUp={onPointerUp}
-            onPointerCancel={onPointerUp}
+            onPointerCancel={onPointerCancel}
           />
         )}
       </motion.div>

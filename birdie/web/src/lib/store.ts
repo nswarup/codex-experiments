@@ -59,16 +59,30 @@ let state: AppState = typeof window === "undefined" ? initial() : load();
 const listeners = new Set<() => void>();
 let saveTimer: number | undefined;
 
+let dirty = false;
+function flush() {
+  if (!dirty) return;
+  dirty = false;
+  window.clearTimeout(saveTimer);
+  try {
+    localStorage.setItem(KEY, JSON.stringify(state));
+  } catch {
+    /* storage full or blocked: the app keeps working in memory */
+  }
+}
+
 function persist() {
   if (typeof window === "undefined") return;
+  dirty = true;
   window.clearTimeout(saveTimer);
-  saveTimer = window.setTimeout(() => {
-    try {
-      localStorage.setItem(KEY, JSON.stringify(state));
-    } catch {
-      /* storage full or blocked: the app keeps working in memory */
-    }
-  }, 150);
+  saveTimer = window.setTimeout(flush, 150);
+}
+
+if (typeof window !== "undefined") {
+  // Never lose the last change when the app is closed or backgrounded.
+  window.addEventListener("pagehide", flush);
+  window.addEventListener("beforeunload", flush);
+  document.addEventListener("visibilitychange", () => document.visibilityState === "hidden" && flush());
 }
 
 export function getState() {
@@ -178,6 +192,8 @@ export function clearRecentSearches() {
 }
 
 export function resetEverything() {
+  window.clearTimeout(saveTimer);
+  dirty = false;
   try {
     localStorage.removeItem(KEY);
   } catch {

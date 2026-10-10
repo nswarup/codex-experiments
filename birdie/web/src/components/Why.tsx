@@ -17,10 +17,10 @@ function Meter({ label, value, highlight }: { label: string; value: number; high
       </span>
       <span className="relative h-1.5 flex-1 overflow-hidden rounded-full bg-inset" aria-hidden="true">
         <motion.span
-          className={cn("absolute inset-y-0 left-0 rounded-full", highlight ? "bg-strong" : "bg-dot")}
-          initial={{ width: 0 }}
-          animate={{ width: `${pct}%` }}
-          transition={{ duration: 0.5, ease: [0.23, 1, 0.32, 1] }}
+          className={cn("absolute inset-0 origin-left rounded-full", highlight ? "bg-strong" : "bg-dot")}
+          initial={{ transform: "scaleX(0.02)" }}
+          animate={{ transform: `scaleX(${Math.max(0.02, pct / 100)})` }}
+          transition={{ duration: 0.45, ease: [0.23, 1, 0.32, 1] }}
         />
       </span>
       <span className="sr-only">{pct}%</span>

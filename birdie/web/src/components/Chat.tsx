@@ -42,11 +42,6 @@ export function ChatSheet({
   }, [data]);
 
   useEffect(() => {
-    if (open && data.starter) send(data.starter);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [open, data]);
-
-  useEffect(() => {
     list.current?.scrollTo({ top: list.current.scrollHeight, behavior: "smooth" });
   }, [messages]);
 
@@ -78,22 +73,23 @@ export function ChatSheet({
         },
         {
           onDelta: (d) => {
+            if (ctrl.current !== c) return; // a newer conversation took over
             acc += d;
             setMessages((m) => [...m.slice(0, -1), { role: "assistant", content: acc }]);
           },
         },
         c.signal,
       );
-      cue("ready", { emphasis: "subtle" });
+      if (ctrl.current === c) cue("ready", { emphasis: "subtle" });
     } catch (e) {
-      if ((e as Error).name === "AbortError") return;
+      if ((e as Error).name === "AbortError" || ctrl.current !== c) return;
       setMessages((m) => [
         ...m.slice(0, -1),
         { role: "assistant", content: e instanceof StreamError ? e.message : "Birdie lost the thread. Try again?", error: true },
       ]);
       cue("error", { emphasis: "subtle" });
     } finally {
-      setStreaming(false);
+      if (ctrl.current === c) setStreaming(false);
     }
   }
 

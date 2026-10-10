@@ -27,6 +27,7 @@ async function stream(path: string, body: unknown, h: StreamHandlers, signal?: A
   const reader = res.body.getReader();
   const decoder = new TextDecoder();
   let buf = "";
+  let finished = false;
   for (;;) {
     const { value, done } = await reader.read();
     if (done) break;
@@ -49,9 +50,12 @@ async function stream(path: string, body: unknown, h: StreamHandlers, signal?: A
       }
       if (msg.t) h.onDelta(msg.t);
       else if (msg.error) throw new StreamError(msg.error);
+      else if (msg.done) finished = true;
       else if (msg.provider || msg.notice) h.onMeta?.(msg);
     }
   }
+  // A dropped connection looks like a normal end of stream; don't treat it as success.
+  if (!finished) throw new StreamError("The connection dropped before Birdie finished. Try again?");
 }
 
 export function streamTopic(query: string, context: string | undefined, h: StreamHandlers, signal?: AbortSignal) {

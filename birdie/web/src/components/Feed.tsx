@@ -2,8 +2,9 @@ import { useCallback, useEffect, useRef, useState } from "react";
 import { motion } from "motion/react";
 import type { Topic } from "@/lib/types";
 import { allTopics, getState, useApp } from "@/lib/store";
-import { pickNext } from "@/lib/ranking";
+import { FEED_WILDCARD_RATE, pickNext } from "@/lib/ranking";
 import { useEngagement } from "@/hooks/useEngagement";
+import { COVERING, useUi } from "@/lib/ui";
 import { TopicArticle, viewOf } from "./TopicArticle";
 import { Nudges } from "./Nudges";
 import { TopBar } from "./TopBar";
@@ -19,11 +20,13 @@ let keySeq = 0;
 /** The feed survives remounts within a session (e.g. after editing interests). */
 let sessionFeed: FeedItem[] | null = null;
 
-function nextItem(exclude: Set<string>): FeedItem | null {
+function nextItem(exclude: Set<string>, prev?: FeedItem): FeedItem | null {
   const profile = getState().profile;
   if (!profile) return null;
   // Generated topics join the pool once written, so search and taps shape the feed too.
-  const pick = pickNext(profile, allTopics(), Math.random, exclude);
+  // Open on something you picked, and never serve two wildcards back to back.
+  const allowWildcard = !!prev && prev.reason !== "wildcard";
+  const pick = pickNext(profile, allTopics(), Math.random, exclude, { allowWildcard, wildcardRate: FEED_WILDCARD_RATE });
   return pick ? { key: `f${++keySeq}`, topic: pick.topic, reason: pick.reason } : null;
 }
 
@@ -32,7 +35,7 @@ function initialFeed(): FeedItem[] {
   const first = nextItem(new Set());
   const items: FeedItem[] = [];
   if (first) items.push(first);
-  const second = nextItem(new Set(items.map((i) => i.topic.id)));
+  const second = nextItem(new Set(items.map((i) => i.topic.id)), items[0]);
   if (second) items.push(second);
   return items;
 }
@@ -54,7 +57,7 @@ export function Feed() {
   const append = useCallback(() => {
     setItems((cur) => {
       const ids = new Set(cur.map((i) => i.topic.id));
-      const n = nextItem(ids);
+      const n = nextItem(ids, cur[cur.length - 1]);
       return n ? [...cur, n] : cur;
     });
   }, []);
@@ -109,7 +112,8 @@ function FeedEntry({
   exclude: string[];
 }) {
   const ref = useRef<HTMLElement>(null);
-  useEngagement(ref, item.topic, scroller);
+  const active = useUi((s) => s.stack.length === 1 && !(s.overlay && COVERING.includes(s.overlay.kind)));
+  useEngagement(ref, item.topic, scroller, active);
   const body = (
     <>
       {index > 0 && <SectionBreak />}
@@ -130,10 +134,10 @@ function FeedEntry({
   }
   return (
     <motion.div
-      initial={{ opacity: 0, transform: "translateY(16px)" }}
+      initial={{ opacity: 0, transform: "translateY(10px)" }}
       whileInView={{ opacity: 1, transform: "translateY(0px)" }}
-      viewport={{ once: true, root: scroller, margin: "0px 0px -80px 0px" }}
-      transition={{ duration: 0.5, ease: [0.23, 1, 0.32, 1] }}
+      viewport={{ once: true, root: scroller, margin: "0px 0px -60px 0px" }}
+      transition={{ duration: 0.35, ease: [0.23, 1, 0.32, 1] }}
     >
       {body}
     </motion.div>

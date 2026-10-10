@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 import { useUi, closeOverlay, type Overlay } from "@/lib/ui";
 import { cue } from "@/lib/feedback";
 import { PeekSheet } from "./Peek";
@@ -24,10 +24,10 @@ export function Overlays() {
   }, [overlay]);
 
   const is = (k: Kind) => overlay?.kind === k;
-  const close = () => {
+  const close = useCallback(() => {
     cue("close", { emphasis: "subtle" });
     closeOverlay();
-  };
+  }, []);
   const get = <K extends Kind>(k: K) => (overlay?.kind === k ? overlay : last[k]) as Extract<Overlay, { kind: K }> | undefined;
 
   const peek = get("peek");

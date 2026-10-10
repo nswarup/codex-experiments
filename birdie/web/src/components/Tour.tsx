@@ -43,23 +43,30 @@ export function Tour() {
   useLayoutEffect(() => {
     if (!s) return;
     let raf = 0;
-    let tries = 0;
+    let el: HTMLElement | null = null;
+    const started = performance.now();
+    const pad = s.target === "search" ? 4 : 8;
     const measure = () => {
-      const el = find(s.target);
-      if (!el) {
-        if (tries++ < 60) raf = requestAnimationFrame(measure);
-        return;
+      el = el?.isConnected ? el : find(s.target);
+      if (el) {
+        const r = el.getBoundingClientRect();
+        setBox((b) => {
+          const next = { top: r.top - pad, left: r.left - pad, width: r.width + pad * 2, height: r.height + pad * 2 };
+          return b && Math.abs(b.top - next.top) < 0.5 && Math.abs(b.left - next.left) < 0.5 && Math.abs(b.height - next.height) < 0.5 ? b : next;
+        });
       }
-      const r = el.getBoundingClientRect();
-      const pad = s.target === "search" ? 4 : 8;
-      setBox({ top: r.top - pad, left: r.left - pad, width: r.width + pad * 2, height: r.height + pad * 2 });
+      // Keep tracking while entry animations, scroll resets and font loading settle.
+      if (performance.now() - started < 1200) raf = requestAnimationFrame(measure);
     };
     measure();
-    const onResize = () => measure();
-    window.addEventListener("resize", onResize);
+    const ro = new ResizeObserver(() => measure());
+    ro.observe(document.body);
+    window.addEventListener("resize", measure);
+    document.fonts?.ready.then(() => measure());
     return () => {
       cancelAnimationFrame(raf);
-      window.removeEventListener("resize", onResize);
+      ro.disconnect();
+      window.removeEventListener("resize", measure);
     };
   }, [s]);
 

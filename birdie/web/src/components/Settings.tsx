@@ -2,8 +2,7 @@ import { useState } from "react";
 import { ChevronDown, X } from "lucide-react";
 import { AnimatePresence, motion } from "motion/react";
 import { resetEverything, setTour, updateLab, updatePrefs, useApp } from "@/lib/store";
-import { openOverlay, closeOverlay, popToFeed } from "@/lib/ui";
-import { resetFeed } from "./Feed";
+import { openOverlay, popToFeed } from "@/lib/ui";
 import { cue } from "@/lib/feedback";
 import { IconButton, Segmented, Sheet, Switch } from "./ui";
 import { cn } from "@/lib/cn";
@@ -141,7 +140,7 @@ export function SettingsSheet({ open, onClose }: { open: boolean; onClose: () =>
                 type="button"
                 className="press h-12 text-left text-text"
                 onClick={() => {
-                  closeOverlay();
+                  // popToFeed also closes this sheet, in one history step.
                   popToFeed();
                   setTour(1);
                 }}
@@ -217,8 +216,9 @@ export function SettingsSheet({ open, onClose }: { open: boolean; onClose: () =>
                       className="press h-11 self-start font-serif text-[15px] text-muted underline underline-offset-4"
                       onClick={() => {
                         if (confirm("Start over? This clears your interests, saved topics and history on this device.")) {
-                          resetFeed();
                           resetEverything();
+                          // A clean reload also clears in-memory feed, jobs and reading time.
+                          location.replace("/");
                         }
                       }}
                     >

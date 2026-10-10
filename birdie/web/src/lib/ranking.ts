@@ -8,6 +8,7 @@
  *  - Scores clamp to 0-2 and drift 3% toward neutral each session.
  *  - Next topic: drop the last 20 seen, score = 0.6 * category + 0.4 * mean(tag),
  *    then 80%: weighted pick from the top 5; 20%: wildcard from an unpicked category.
+ *    (The feed opens on a match and never shows two wildcards in a row.)
  *  - Closing nudges: 2 close (most shared tags, tie-break by score) + 1 wildcard
  *    (best-scoring topic from a different category).
  *
@@ -22,6 +23,11 @@ export const UNPICKED_START = 0.2;
 export const RECENT_WINDOW = 20;
 export const TOP_K = 5;
 export const WILDCARD_RATE = 0.2;
+/**
+ * The feed never shows two wildcards in a row. To keep the long-run share at 20%,
+ * each eligible pick uses r where r / (1 + r) = 0.2, i.e. r = 0.25.
+ */
+export const FEED_WILDCARD_RATE = WILDCARD_RATE / (1 - WILDCARD_RATE);
 export const DRIFT = 0.03;
 export const ENGAGEMENT_CAP = 1.5;
 export const ENGAGEMENT_ZERO = 0.3;
@@ -98,7 +104,13 @@ export interface RankedPick {
  * Choose the next feed topic. `exclude` adds ids already in the current feed.
  * When everything has been seen recently, the oldest-seen topics come back.
  */
-export function pickNext(p: Profile, pool: Topic[], rng: Rng, exclude: Set<string> = new Set()): RankedPick | null {
+export function pickNext(
+  p: Profile,
+  pool: Topic[],
+  rng: Rng,
+  exclude: Set<string> = new Set(),
+  opts: { allowWildcard?: boolean; wildcardRate?: number } = {},
+): RankedPick | null {
   const recent = recentIds(p);
   let candidates = pool.filter((t) => !recent.has(t.id) && !exclude.has(t.id));
   if (!candidates.length) {
@@ -112,7 +124,7 @@ export function pickNext(p: Profile, pool: Topic[], rng: Rng, exclude: Set<strin
   if (!candidates.length) return null;
 
   const wildRoll = rng();
-  if (wildRoll < WILDCARD_RATE) {
+  if (opts.allowWildcard !== false && wildRoll < (opts.wildcardRate ?? WILDCARD_RATE)) {
     const unpicked = candidates.filter((t) => !p.picked.includes(t.category));
     const wildPool = unpicked.length
       ? unpicked

@@ -5,37 +5,41 @@ import { recordEngagement, recordSeen } from "@/lib/store";
 
 /** Engagement already applied this session, per topic, so re-reads only add the difference. */
 const applied = new Map<string, number>();
-/** Seconds read this session, per topic. */
+/** Seconds read this session, per topic (shared, but only one instance is ever active). */
 const readSeconds = new Map<string, number>();
-
-export function sessionEngagement(id: string) {
-  return applied.get(id) ?? 0;
-}
 
 /**
  * Track continuous reading time for an article element.
- * Time counts while the article fills at least 40% of the viewport and the tab is visible.
- * When the reader moves on (article leaves view, page hidden, unmount), the engagement
- * (time / expected time) is applied to the profile.
+ *
+ * Time counts while the article crosses the middle band of the viewport (30%-70%,
+ * i.e. it is what you're reading), the page is the one on top (`active`), and the tab
+ * is visible. When the reader moves on (article leaves the band, page covered, tab
+ * hidden, unmount), engagement = time / expected time is applied to the profile.
  */
-export function useEngagement(ref: React.RefObject<HTMLElement | null>, topic: Topic | undefined, root?: React.RefObject<HTMLElement | null>) {
-  const visible = useRef(false);
-  const startedAt = useRef<number | null>(null);
-  const seenMarked = useRef(false);
+export function useEngagement(
+  ref: React.RefObject<HTMLElement | null>,
+  topic: Topic | undefined,
+  root: React.RefObject<HTMLElement | null> | undefined,
+  active: boolean,
+) {
+  const inBand = useRef(false);
+  const activeRef = useRef(active);
+  const api = useRef<{ start: () => void; stop: () => void; commit: () => void } | null>(null);
 
   useEffect(() => {
     const el = ref.current;
     if (!el || !topic) return;
     const expected = expectedSeconds(topic);
+    let startedAt: number | null = null;
+    let seenMarked = false;
 
     const flushTime = () => {
-      if (startedAt.current != null) {
-        const s = (performance.now() - startedAt.current) / 1000;
-        readSeconds.set(topic.id, (readSeconds.get(topic.id) ?? 0) + s);
-        startedAt.current = performance.now();
+      if (startedAt != null) {
+        const now = performance.now();
+        readSeconds.set(topic.id, (readSeconds.get(topic.id) ?? 0) + (now - startedAt) / 1000);
+        startedAt = now;
       }
     };
-
     const commit = () => {
       flushTime();
       const secs = readSeconds.get(topic.id) ?? 0;
@@ -46,40 +50,38 @@ export function useEngagement(ref: React.RefObject<HTMLElement | null>, topic: T
       recordEngagement(topic, e, prev);
       applied.set(topic.id, e);
     };
-
+    const counting = () => inBand.current && activeRef.current && document.visibilityState === "visible";
     const start = () => {
-      if (startedAt.current == null && document.visibilityState === "visible") startedAt.current = performance.now();
+      if (startedAt == null && counting()) startedAt = performance.now();
     };
     const stop = () => {
       flushTime();
-      startedAt.current = null;
+      startedAt = null;
     };
+    api.current = { start, stop, commit };
 
     const io = new IntersectionObserver(
       (entries) => {
         for (const entry of entries) {
-          const vh = entry.rootBounds?.height || window.innerHeight;
-          const fill = entry.intersectionRect.height / vh;
-          const now = entry.isIntersecting && fill >= 0.4;
-          if (now && !visible.current) {
-            visible.current = true;
+          if (entry.isIntersecting && !inBand.current) {
+            inBand.current = true;
             start();
-          } else if (!now && visible.current) {
-            visible.current = false;
+          } else if (!entry.isIntersecting && inBand.current) {
+            inBand.current = false;
             stop();
             commit();
           }
         }
       },
-      { root: root?.current ?? null, threshold: [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1] },
+      { root: root?.current ?? null, rootMargin: "-30% 0px -30% 0px", threshold: 0 },
     );
     io.observe(el);
 
     const tick = window.setInterval(() => {
-      if (!visible.current) return;
+      if (startedAt == null) return;
       flushTime();
-      if (!seenMarked.current && (readSeconds.get(topic.id) ?? 0) > 3) {
-        seenMarked.current = true;
+      if (!seenMarked && (readSeconds.get(topic.id) ?? 0) > 3) {
+        seenMarked = true;
         recordSeen(topic.id);
       }
     }, 1000);
@@ -88,7 +90,7 @@ export function useEngagement(ref: React.RefObject<HTMLElement | null>, topic: T
       if (document.visibilityState === "hidden") {
         stop();
         commit();
-      } else if (visible.current) start();
+      } else start();
     };
     document.addEventListener("visibilitychange", onVis);
     window.addEventListener("pagehide", commit);
@@ -100,7 +102,20 @@ export function useEngagement(ref: React.RefObject<HTMLElement | null>, topic: T
       window.removeEventListener("pagehide", commit);
       stop();
       commit();
-      visible.current = false;
+      inBand.current = false;
+      api.current = null;
     };
   }, [ref, topic, root]);
+
+  // Pause while the page is covered by another page or a full-screen sheet.
+  useEffect(() => {
+    activeRef.current = active;
+    const a = api.current;
+    if (!a) return;
+    if (active) a.start();
+    else {
+      a.stop();
+      a.commit();
+    }
+  }, [active]);
 }

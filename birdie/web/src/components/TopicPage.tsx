@@ -3,7 +3,7 @@ import { motion } from "motion/react";
 import { RotateCw } from "lucide-react";
 import { useApp } from "@/lib/store";
 import { readyTopic, retryTopic, useJob } from "@/lib/generate";
-import { popToFeed, useUi } from "@/lib/ui";
+import { COVERING, popToFeed, useUi } from "@/lib/ui";
 import { useEngagement } from "@/hooks/useEngagement";
 import { cue } from "@/lib/feedback";
 import { TopicArticle, viewOf, type ArticleView } from "./TopicArticle";
@@ -20,7 +20,10 @@ export function TopicPage({ id }: { id: string }) {
   const job = useJob(id);
   const topic = readyTopic(id);
   const depth = useUi((s) => s.stack.length);
-  useEngagement(ref, topic, scroller);
+  const active = useUi(
+    (s) => s.stack[s.stack.length - 1]?.kind === "topic" && (s.stack[s.stack.length - 1] as { id: string }).id === id && !(s.overlay && COVERING.includes(s.overlay.kind)),
+  );
+  useEngagement(ref, topic, scroller, active);
 
   const wasWriting = useRef(false);
   useEffect(() => {

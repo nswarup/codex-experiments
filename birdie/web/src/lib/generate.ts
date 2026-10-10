@@ -21,6 +21,9 @@ export interface Job {
   demo?: boolean;
 }
 
+const IDLE_MS = 60_000;
+const OVERALL_MS = 150_000;
+
 const jobs = new Map<string, Job>();
 const listeners = new Map<string, Set<() => void>>();
 const controllers = new Map<string, AbortController>();
@@ -69,11 +72,21 @@ export function requestTopic(query: string, context?: string): { id: string; exi
   controllers.set(id, ctrl);
   let text = "";
   let demo = false;
+  // Give up if the writer goes quiet for a minute or the whole thing passes 2.5 minutes.
+  let timedOut = false;
+  const timeout = () => {
+    timedOut = true;
+    ctrl.abort();
+  };
+  let idle = window.setTimeout(timeout, IDLE_MS);
+  const overall = window.setTimeout(timeout, OVERALL_MS);
   streamTopic(
     q,
     context,
     {
       onDelta: (d) => {
+        window.clearTimeout(idle);
+        idle = window.setTimeout(timeout, IDLE_MS);
         text += d;
         update(id, { partial: parseTopicStream(text) });
       },
@@ -85,7 +98,9 @@ export function requestTopic(query: string, context?: string): { id: string; exi
     ctrl.signal,
   )
     .then(() => {
-      const partial = parseTopicStream(text);
+      // The server confirmed completion, so treat the article as finished even if
+      // the model forgot its END line.
+      const partial = { ...parseTopicStream(text), done: true };
       const topic = toTopic(partial, id, q);
       if (!topic) {
         update(id, { status: "error", error: "Birdie couldn't finish that one. Try again?" });
@@ -97,13 +112,20 @@ export function requestTopic(query: string, context?: string): { id: string; exi
       update(id, { status: "done", partial, topic: finished, demo });
     })
     .catch((e: unknown) => {
-      if ((e as Error).name === "AbortError") return;
+      if ((e as Error).name === "AbortError") {
+        if (timedOut) update(id, { status: "error", error: "Birdie took too long on that one. Try again?" });
+        return;
+      }
       update(id, {
         status: "error",
         error: e instanceof StreamError ? e.message : "Something went wrong while writing.",
       });
     })
-    .finally(() => controllers.delete(id));
+    .finally(() => {
+      window.clearTimeout(idle);
+      window.clearTimeout(overall);
+      controllers.delete(id);
+    });
   return { id, existing: false };
 }
 
