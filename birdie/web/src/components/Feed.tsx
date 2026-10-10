@@ -41,7 +41,9 @@ const RESUME_KEY = "birdie.resume.v1";
 interface Resume {
   feed: { id: string; reason: FeedItem["reason"] }[];
   scroll: number;
-  pages: string[];
+  /** The article under the top bar and how far into it the reader was: survives font loading. */
+  anchor?: { id: string; offset: number };
+  pages: { id: string; scroll: number }[];
   at: number;
 }
 function readResume(): Resume | null {
@@ -92,8 +94,28 @@ export function Feed() {
   useLayoutEffect(() => {
     if (restoredOnce.current || !resume || tour > 0) return;
     restoredOnce.current = true;
-    if (scroller.current) scroller.current.scrollTop = resume.scroll;
-    for (const id of resume.pages) if (getTopic(id)) pushTopic(id);
+    const r = resume;
+    const el = scroller.current;
+    if (el) el.scrollTop = r.scroll;
+    // Web fonts can change article heights after this first pass: re-anchor once they're in.
+    const reanchor = () => {
+      if (!el || !r.anchor) return;
+      const a = el.querySelector<HTMLElement>(`[data-article="${CSS.escape(r.anchor.id)}"]`);
+      if (a) el.scrollTop += a.getBoundingClientRect().top - el.getBoundingClientRect().top - r.anchor.offset;
+    };
+    reanchor();
+    document.fonts?.ready.then(() => requestAnimationFrame(reanchor));
+    for (const p of r.pages) if (getTopic(p.id)) pushTopic(p.id);
+    // Each restored page gets its own reading position back once it has mounted and settled.
+    const last = r.pages[r.pages.length - 1];
+    if (last?.scroll) {
+      document.fonts?.ready.then(() =>
+        window.setTimeout(() => {
+          const s = document.querySelector<HTMLElement>(`[data-page-scroller="${CSS.escape(last.id)}"]`);
+          if (s) s.scrollTop = last.scroll;
+        }, 450),
+      );
+    }
     resume = null; // one-shot: a later remount (e.g. new interests) starts fresh
   }, [tour]);
   useEffect(() => {
@@ -102,11 +124,19 @@ export function Feed() {
       try {
         const pages = getUi()
           .stack.filter((p): p is Extract<typeof p, { kind: "topic" }> => p.kind === "topic")
-          .map((p) => p.id)
-          .filter((id) => getTopic(id));
+          .filter((p) => getTopic(p.id))
+          .map((p) => ({ id: p.id, scroll: document.querySelector<HTMLElement>(`[data-page-scroller="${CSS.escape(p.id)}"]`)?.scrollTop ?? 0 }));
+        const el = scroller.current;
+        let anchor: Resume["anchor"];
+        if (el) {
+          const top = el.getBoundingClientRect().top + 56;
+          const a = [...el.querySelectorAll<HTMLElement>("[data-article]")].find((x) => x.getBoundingClientRect().bottom > top);
+          if (a) anchor = { id: a.dataset.article!, offset: a.getBoundingClientRect().top - el.getBoundingClientRect().top };
+        }
         const snap: Resume = {
           feed: (sessionFeed ?? []).slice(-30).map((i) => ({ id: i.topic.id, reason: i.reason })),
           scroll: scroller.current?.scrollTop ?? 0,
+          anchor,
           pages,
           at: Date.now(),
         };
@@ -167,7 +197,7 @@ export function Feed() {
       <main className="pb-[calc(env(safe-area-inset-bottom,0px)+48px)]">
         {!visible.length && (
           // Only reachable if interests were lost somehow: one clear way forward.
-          <div className="mx-auto mt-24 flex max-w-[34em] flex-col items-start gap-4 px-6">
+          <div className="mx-auto mt-24 flex measure flex-col items-start gap-4 px-6">
             <BirdMark size={30} className="text-muted" />
             <p className="font-serif text-[19px] leading-snug text-strong">Pick a few interests and Birdie will find something worth reading.</p>
             <button
@@ -189,7 +219,7 @@ export function Feed() {
           />
         ))}
         {mode === "one" ? (
-          <div className="mx-auto mt-10 max-w-[34em] px-6">
+          <div className="mx-auto mt-10 measure px-6">
             <button
               type="button"
               onClick={nextTopic}
@@ -252,7 +282,7 @@ function FeedEntry({
 
 function SectionBreak() {
   return (
-    <div aria-hidden="true" className="mx-auto mt-16 mb-4 flex max-w-[34em] items-center gap-4 px-6 text-muted">
+    <div aria-hidden="true" className="mx-auto mt-16 mb-4 flex measure items-center gap-4 px-6 text-muted">
       <span className="h-px flex-1 bg-line" />
       <BirdMark size={26} />
       <span className="h-px flex-1 bg-line" />

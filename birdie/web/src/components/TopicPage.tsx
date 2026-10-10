@@ -51,13 +51,13 @@ export function TopicPage({ id }: { id: string }) {
   }
 
   return (
-    <div ref={scroller} className="no-scrollbar absolute inset-0 overflow-y-auto overscroll-contain bg-bg">
+    <div ref={scroller} data-page-scroller={id} className="no-scrollbar absolute inset-0 overflow-y-auto overscroll-contain bg-bg">
       <TopBar scroller={scroller} back title={view?.title} kicker={view?.category ?? (job ? "Birdie" : undefined)} />
       <main className="pb-[calc(env(safe-area-inset-bottom,0px)+56px)]">
         {view && <TopicArticle ref={ref} view={view} reason="opened" actions={!!topic} />}
         {job?.status === "writing" && !view?.lede && <WritingStatus />}
         {job?.status === "error" && !topic && (
-          <div className="mx-auto mt-8 max-w-[34em] px-6" role="alert">
+          <div className="mx-auto mt-8 measure px-6" role="alert">
             <p className="font-serif text-[17px] text-text">{job.error}</p>
             <Button variant="secondary" className="mt-4" onClick={() => retryTopic(id)}>
               <RotateCw size={16} strokeWidth={1.8} /> Try again
@@ -65,7 +65,7 @@ export function TopicPage({ id }: { id: string }) {
           </div>
         )}
         {job?.demo && (
-          <div className="mx-auto mt-8 max-w-[34em] px-6">
+          <div className="mx-auto mt-8 measure px-6">
             <p className="rounded-xl border border-dashed border-dot px-4 py-3 font-serif text-[14.5px] leading-relaxed text-muted">
               {IS_ARTIFACT
                 ? "Demo mode: Birdie couldn't use Claude here, so new topics are placeholders. The 100 built-in topics all work."
@@ -75,7 +75,7 @@ export function TopicPage({ id }: { id: string }) {
         )}
         {topic && <Nudges topic={topic} />}
         {topic && depth > 2 && (
-          <div className="mx-auto mt-8 max-w-[34em] px-6">
+          <div className="mx-auto mt-8 measure px-6">
             <Button
               variant="ghost"
               size="sm"
@@ -102,7 +102,7 @@ function WritingStatus() {
     return () => window.clearInterval(t);
   }, []);
   return (
-    <div className="mx-auto mt-7 flex max-w-[34em] items-center gap-3 px-6" role="status">
+    <div className="mx-auto mt-7 flex measure items-center gap-3 px-6" role="status">
       <span className="writing-pulse text-dot" aria-hidden="true">
         <BirdMark size={26} />
       </span>

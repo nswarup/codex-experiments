@@ -123,7 +123,7 @@ export const TopicArticle = forwardRef<HTMLElement, { view: ArticleView; reason?
         )}
         {/* Only before the first bullet: after that the caret shows progress, and a skeleton
             pushed down line by line would make the whole page jump. */}
-        {view.writing && view.lede && !view.bullets.length && <SkeletonLines lines={3} className="mt-6 pl-[18px]" />}
+        {view.writing && view.lede && view.caret !== "lede" && !view.bullets.length && <SkeletonLines lines={3} className="mt-6 pl-[18px]" />}
 
         {actions && !view.writing && (
           <div className="mt-8 -mr-3 -ml-3 flex flex-wrap items-center gap-x-1 text-muted">

@@ -56,6 +56,21 @@ export function SearchOverlay({ open, onClose }: { open: boolean; onClose: () =>
           aria-modal="true"
           aria-label="Search"
           className="fixed inset-0 z-50 bg-bg"
+          // Keep Tab inside search: it covers the whole screen.
+          onKeyDown={(e) => {
+            if (e.key !== "Tab") return;
+            const items = [...e.currentTarget.querySelectorAll<HTMLElement>("input, button, [href]")].filter((x) => !x.hasAttribute("disabled"));
+            if (!items.length) return;
+            const first = items[0];
+            const last = items[items.length - 1];
+            if (e.shiftKey && document.activeElement === first) {
+              e.preventDefault();
+              last.focus();
+            } else if (!e.shiftKey && document.activeElement === last) {
+              e.preventDefault();
+              first.focus();
+            }
+          }}
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           exit={{ opacity: 0, transition: { duration: 0.15 } }}
@@ -75,7 +90,7 @@ export function SearchOverlay({ open, onClose }: { open: boolean; onClose: () =>
               }}
               role="search"
             >
-              <div className="flex h-12 min-w-0 flex-1 items-center gap-2.5 rounded-full border border-chip bg-card pr-1.5 pl-4">
+              <div className="flex h-12 min-w-0 flex-1 items-center gap-2.5 rounded-full border border-chip bg-card pr-1.5 pl-4 transition-colors duration-150 focus-within:border-strong">
                 <SearchIcon size={19} strokeWidth={1.6} className="shrink-0 text-muted" aria-hidden="true" />
                 <label htmlFor="search-input" className="sr-only">
                   Read about anything

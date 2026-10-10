@@ -39,13 +39,14 @@ function useShortcuts(depth: number) {
       } else if ((e.key === "j" || e.key === "k") && depth === 1) {
         const feed = document.querySelector<HTMLElement>('[data-scroller="feed"]');
         if (!feed) return;
-        const top = feed.getBoundingClientRect().top + 64;
+        // One landing line for both keys, so k after j finds the previous article, not this one.
+        const land = feed.getBoundingClientRect().top + 48;
         const arts = [...feed.querySelectorAll<HTMLElement>("[data-article]")];
         const next =
           e.key === "j"
-            ? arts.find((a) => a.getBoundingClientRect().top > top + 4)
-            : [...arts].reverse().find((a) => a.getBoundingClientRect().top < top - 4);
-        if (next) feed.scrollTo({ top: feed.scrollTop + next.getBoundingClientRect().top - top + 16, behavior: smooth() });
+            ? arts.find((a) => a.getBoundingClientRect().top > land + 24)
+            : [...arts].reverse().find((a) => a.getBoundingClientRect().top < land - 24);
+        if (next) feed.scrollTo({ top: feed.scrollTop + next.getBoundingClientRect().top - land, behavior: smooth() });
       }
     };
     window.addEventListener("keydown", onKey);
@@ -57,6 +58,8 @@ export function Reader() {
   const stack = useUi((s) => s.stack);
   const transition = useApp((s) => s.prefs.lab.transition);
   const depth = stack.length;
+  // Search covers the whole screen: everything behind it leaves the tab order and the screen reader.
+  const searching = useUi((s) => s.overlay?.kind === "search");
   useShortcuts(depth);
 
   // A shared link (#topic-id) opens that topic on top of the feed.
@@ -86,7 +89,7 @@ export function Reader() {
 
   return (
     <div className="fixed inset-0 overflow-hidden bg-bg">
-      <div className="relative mx-auto h-full max-w-[640px] overflow-hidden">
+      <div className="relative mx-auto h-full max-w-[640px] overflow-hidden" inert={searching || undefined}>
         {/* The feed stays mounted underneath every pushed page. */}
         <motion.div
           className="absolute inset-0"

@@ -290,3 +290,8 @@ a,
 [tabindex="-1"]:focus {
   outline: none;
 }
+
+/* The reading column: every block that lines up with article text uses the same width. */
+.measure {
+  max-width: calc(34 * var(--read-size, 18px));
+}
