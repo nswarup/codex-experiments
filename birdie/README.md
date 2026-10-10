@@ -34,7 +34,7 @@ Force one with `BIRDIE_PROVIDER=anthropic|claude-cli|mock`. Other knobs: `BIRDIE
 - **Reading settings**: Light / Sepia / Dark (Kindle-like, warm), 5 text sizes, 3 line spacings, sounds and haptics.
 - **Library**: Saved and History.
 - **Why this?**: under every topic, shows why it was picked and what Birdie has learned (category and niche meters).
-- **Design lab** (Aa → Design lab): flip between variants for your call: hook font (mono / serif), nudge style (cards / list), page transition (slide / fade), wildcard label on/off.
+- **Design lab** (Aa → Design lab): flip between variants for your call: hook font (mono / serif), nudge style (cards / list), page transition (slide / fade), feed (endless / one at a time), wildcard label on/off.
 - Native feel: page stack with iOS-style slide and **edge-swipe back**, Vaul bottom sheets (drag to dismiss), Sonner toasts with Undo, Cuelume interaction sounds, haptics, safe areas, reduced-motion support, installable PWA that works offline for the built-in library.
 
 ## How ranking works

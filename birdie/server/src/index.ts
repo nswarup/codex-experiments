@@ -3,6 +3,7 @@ import { serve } from "@hono/node-server";
 import { streamSSE } from "hono/streaming";
 import { selectProvider, mockProvider, type Provider, type Turn } from "./providers.js";
 import { TOPIC_SYSTEM, CHAT_SYSTEM, topicUserPrompt, chatContextBlock } from "../../shared/prompts.js";
+import { cacheGet, cachePut } from "./cache.js";
 
 let provider: Provider = selectProvider();
 let providerError: string | null = null;
@@ -76,14 +77,20 @@ app.post("/api/topic", async (c) => {
   const query = clean(body.query, 120);
   const context = clean(body.context, 200);
   if (!query) return c.json({ error: "query is required" }, 400);
+  const cached = cacheGet(query);
   return pipe(c, (p, signal) =>
-    p.stream({
-      signal,
-      kind: "topic",
-      system: TOPIC_SYSTEM,
-      messages: [{ role: "user", content: topicUserPrompt(query, context || undefined) }],
-      hint: { query },
-    }),
+    cached
+      ? replay(cached, signal)
+      : record(
+          p.stream({
+            signal,
+            kind: "topic",
+            system: TOPIC_SYSTEM,
+            messages: [{ role: "user", content: topicUserPrompt(query, context || undefined) }],
+            hint: { query },
+          }),
+          (text) => p.name !== "mock" && cachePut(query, text),
+        ),
   );
 });
 
@@ -108,6 +115,26 @@ app.post("/api/chat", async (c) => {
     p.stream({ signal, kind: "chat", system: CHAT_SYSTEM, messages: turns, hint: { highlight, topicTitle } }),
   );
 });
+
+/** Replay a finished article quickly, in small chunks, so the UI still streams. */
+async function* replay(text: string, signal: AbortSignal) {
+  const parts = text.match(/[\s\S]{1,48}/g) ?? [];
+  for (const part of parts) {
+    if (signal.aborted) return;
+    await new Promise((r) => setTimeout(r, 8));
+    yield part;
+  }
+}
+
+/** Pass a stream through and hand the full text to `done` once it completes. */
+async function* record(src: AsyncIterable<string>, done: (text: string) => void) {
+  let text = "";
+  for await (const d of src) {
+    text += d;
+    yield d;
+  }
+  if (/\nEND\s*$/.test(text)) done(text);
+}
 
 export function setProviderForTests(p: Provider) {
   provider = p;

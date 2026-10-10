@@ -23,7 +23,7 @@ export const DEFAULT_PREFS: Prefs = {
   spacing: 1,
   sound: true,
   haptics: true,
-  lab: { nudges: "cards", hook: "mono", wildcardLabel: false, transition: "slide" },
+  lab: { nudges: "cards", hook: "mono", wildcardLabel: false, transition: "slide", feed: "endless" },
 };
 
 function initial(): AppState {

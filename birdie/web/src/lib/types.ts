@@ -43,6 +43,7 @@ export interface Prefs {
     hook: "mono" | "serif";
     wildcardLabel: boolean;
     transition: "slide" | "fade";
+    feed: "endless" | "one";
   };
 }
 

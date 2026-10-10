@@ -7,10 +7,11 @@ What I decided while building v0 overnight, and the calls that are yours. Everyt
 1. **Hook font.** The mockup review settled on monospace with the category in front (`MUSIC · …`). The serif italic version is one tap away in **Aa → Design lab → Hook font** if you want to compare in the real app.
 2. **"Next, maybe…" style.** Cards (default, as mocked) or a denser list. Toggle in the Design lab.
 3. **Wildcard label.** The wildcard nudge is marked only by its dashed border. The Design lab can add a small "Something different" label.
-4. **Page transition.** iOS-style slide with edge-swipe back (default) or a quiet fade.
-5. **Sounds on by default.** Interaction sounds (Cuelume, subtle emphasis) are on, and haptics too; both toggle in Aa. A reading app could reasonably default sounds off.
-6. **Writer latency.** Through the Claude Code login, the first words of a new article take about 13 s and the article finishes in about 19 s. With an API key it's faster. If that's too slow for search, options are a faster model for search only, or pre-writing the openings people tap most.
-7. **Content length.** Articles run 220–320 words (about two phone screens at 18px). The original brief said 350–450; that was more like three to four screens.
+4. **Endless feed or one at a time.** The default feed keeps going as you scroll. "One at a time" stops after each topic's nudges and asks before the next one, which may suit a calmer, more deliberate read. Design lab → Feed.
+5. **Page transition.** iOS-style slide with edge-swipe back (default) or a quiet fade.
+6. **Sounds on by default.** Interaction sounds (Cuelume, subtle emphasis) are on, and haptics too; both toggle in Aa. A reading app could reasonably default sounds off.
+7. **Writer latency.** Through the Claude Code login, the first words of a new article take about 13 s and the article finishes in about 19 s. With an API key it's faster. If that's too slow for search, options are a faster model for search only, or pre-writing the openings people tap most.
+8. **Content length.** Articles run 220–320 words (about two phone screens at 18px). The original brief said 350–450; that was more like three to four screens.
 
 ## Decisions I made
 

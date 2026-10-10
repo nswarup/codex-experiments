@@ -1,5 +1,7 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import { motion } from "motion/react";
+import { ArrowDown } from "lucide-react";
+import { cue, buzz } from "@/lib/feedback";
 import type { Topic } from "@/lib/types";
 import { allTopics, getState, useApp } from "@/lib/store";
 import { FEED_WILDCARD_RATE, pickNext } from "@/lib/ranking";
@@ -48,6 +50,7 @@ export function Feed() {
   const scroller = useRef<HTMLDivElement>(null);
   const [items, setItems] = useState<FeedItem[]>(initialFeed);
   const tour = useApp((s) => s.tour);
+  const mode = useApp((s) => s.prefs.lab.feed);
   const sentinel = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -65,11 +68,25 @@ export function Feed() {
   useEffect(() => {
     const el = sentinel.current;
     const root = scroller.current;
-    if (!el || !root) return;
+    if (!el || !root || mode === "one") return;
     const io = new IntersectionObserver((e) => e[0]?.isIntersecting && append(), { root, rootMargin: "900px 0px" });
     io.observe(el);
     return () => io.disconnect();
-  }, [append, items.length]);
+  }, [append, items.length, mode]);
+
+  // One-at-a-time mode: show topics up to `shown`, revealing the next on request.
+  const [shown, setShown] = useState(1);
+  const visible = mode === "one" ? items.slice(0, shown) : items;
+  const nextTopic = () => {
+    cue("navigate");
+    buzz(6);
+    if (shown >= items.length) append();
+    setShown((n) => n + 1);
+    window.setTimeout(() => {
+      const arts = scroller.current?.querySelectorAll("[data-article]");
+      arts?.[arts.length - 1]?.scrollIntoView({ behavior: "smooth", block: "start" });
+    }, 60);
+  };
 
   // While the tour runs, keep the reader on the first topic.
   useEffect(() => {
@@ -85,7 +102,7 @@ export function Feed() {
     >
       <TopBar scroller={scroller} />
       <main className="pb-[calc(env(safe-area-inset-bottom,0px)+48px)]">
-        {items.map((item, i) => (
+        {visible.map((item, i) => (
           <FeedEntry
             key={item.key}
             item={item}
@@ -94,7 +111,19 @@ export function Feed() {
             exclude={items.map((x) => x.topic.id)}
           />
         ))}
-        <div ref={sentinel} aria-hidden="true" className="h-px" />
+        {mode === "one" ? (
+          <div className="mx-auto mt-10 max-w-[34em] px-6">
+            <button
+              type="button"
+              onClick={nextTopic}
+              className="press flex h-[54px] w-full items-center justify-center gap-2 rounded-full border border-chip font-serif text-[17px] font-semibold text-strong"
+            >
+              Next topic <ArrowDown size={18} strokeWidth={1.8} aria-hidden="true" />
+            </button>
+          </div>
+        ) : (
+          <div ref={sentinel} aria-hidden="true" className="h-px" />
+        )}
       </main>
     </div>
   );

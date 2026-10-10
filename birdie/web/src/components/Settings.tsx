@@ -196,6 +196,17 @@ export function SettingsSheet({ open, onClose }: { open: boolean; onClose: () =>
                         ]}
                       />
                     </Section>
+                    <Section title="Feed">
+                      <Segmented
+                        label="Feed"
+                        value={prefs.lab.feed}
+                        onChange={(v) => updateLab({ feed: v })}
+                        options={[
+                          { value: "endless", label: "Endless" },
+                          { value: "one", label: "One at a time" },
+                        ]}
+                      />
+                    </Section>
                     <Section title="Page transition">
                       <Segmented
                         label="Page transition"
