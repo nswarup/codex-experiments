@@ -1,6 +1,7 @@
+import { notify } from "@/components/Notify";
 import { useEffect, useState } from "react";
+import { clearSaveDot } from "@/lib/saveFeedback";
 import { BookmarkCheck } from "lucide-react";
-import { toast } from "sonner";
 import { toggleSaved, useApp } from "@/lib/store";
 import { readyTopic } from "@/lib/generate";
 import { pushTopic } from "@/lib/ui";
@@ -25,6 +26,10 @@ export function LibrarySheet({ open, tab, onClose }: { open: boolean; tab?: "sav
   const seen = useApp((s) => s.profile?.seen ?? NONE);
   useApp((s) => s.generated);
   const [view, setView] = useState<"saved" | "history">(tab ?? "saved");
+
+  useEffect(() => {
+    if (open) clearSaveDot();
+  }, [open]);
 
   useEffect(() => {
     if (open) setView(tab ?? (saved.some((r) => readyTopic(r.id)) ? "saved" : "history"));
@@ -91,7 +96,7 @@ export function LibrarySheet({ open, tab, onClose }: { open: boolean; tab?: "sav
                     onClick={() => {
                       toggleSaved(topic.id);
                       cue("toggle", { direction: "back" });
-                      toast("Removed from saved", {
+                      notify("Removed from saved", {
                         action: { label: "Undo", onClick: () => toggleSaved(topic.id) },
                         duration: 2600,
                       });

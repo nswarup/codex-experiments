@@ -73,6 +73,14 @@ Two independent reviews: a visual and interaction review (about 120 screenshots 
 
 Kept as-is despite review suggestions, because they were your explicit calls in the mockup rounds: the mono hook (serif is in the Design lab), the dashed wildcard border, and dark as the first-run theme.
 
+## Saving without the popup
+
+The "Saved for later" toast on every save is gone. The button is now the feedback, as in Instagram, Threads or Apple Books:
+- **The button:** the bookmark fills with a short spring pop, the label reads "Saved", and a haptic tick lands. Tapping again undoes it, so no Undo toast is needed.
+- **First save only:** a small "Saved to your Library · View" pill, shown once.
+- **Library dot:** a dot appears on the Library icon after a save and clears when you open the Library.
+- **All other toasts** (removed from saved, interests updated, searches cleared, link copied) use the same compact pill: it hugs its text and sits near the bottom, out of the reading line. Sans type, one text action, glass or solid to match the material setting.
+
 ## Opened topics keep going
 
 A topic you open from a bullet's Read, a "Next, maybe…" card, search or chat is now a feed of its own. Under its "Next, maybe…", ranked topics keep coming as you scroll, exactly like the main feed. Your taste profile already counts the tap, so the follow-ups lean toward what you just showed interest in.

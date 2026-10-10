@@ -1,5 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import { ChevronLeft, LibraryBig, Search } from "lucide-react";
+import { AnimatePresence, motion } from "motion/react";
+import { useSaveDot } from "@/lib/saveFeedback";
 import { IconButton, Wordmark } from "./ui";
 import { openOverlay, popPage } from "@/lib/ui";
 import { cue, buzz } from "@/lib/feedback";
@@ -22,6 +24,7 @@ export function TopBar({
   kicker?: string;
 }) {
   const [hidden, setHidden] = useState(false);
+  const newSave = useSaveDot();
   const [scrolled, setScrolled] = useState(false);
   const bar = useRef<HTMLDivElement>(null);
 
@@ -132,13 +135,28 @@ export function TopBar({
           {/* Same icons on every page, so nothing jumps between the feed and a topic. */}
           {(
             <IconButton
-              label="Saved and history"
+              label={newSave ? "Saved and history, new saved topic" : "Saved and history"}
               onClick={() => {
                 cue("open", { emphasis: "subtle" });
                 openOverlay({ kind: "library" });
               }}
             >
-              <LibraryBig size={20} strokeWidth={1.6} />
+              <span className="relative">
+                <LibraryBig size={20} strokeWidth={1.6} />
+                {/* A small dot says "something new is in here" after a save, until the Library is opened. */}
+                <AnimatePresence>
+                  {newSave && (
+                    <motion.span
+                      aria-hidden="true"
+                      initial={{ opacity: 0, transform: "scale(0.4)" }}
+                      animate={{ opacity: 1, transform: "scale(1)" }}
+                      exit={{ opacity: 0, transform: "scale(0.4)" }}
+                      transition={{ type: "spring", stiffness: 520, damping: 22 }}
+                      className="absolute -top-0.5 -right-1 h-2 w-2 rounded-full bg-[var(--danger)] ring-2 ring-bg"
+                    />
+                  )}
+                </AnimatePresence>
+              </span>
             </IconButton>
           )}
           <IconButton

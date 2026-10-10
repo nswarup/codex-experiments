@@ -1,5 +1,5 @@
+import { notify } from "@/components/Notify";
 import { useEffect, useRef } from "react";
-import { toast } from "sonner";
 import { Sheet, SheetHeader } from "./ui";
 import { InterestPicker } from "./Onboarding";
 import { closeOverlay } from "@/lib/ui";
@@ -23,7 +23,7 @@ export function InterestsSheet({ open, onClose }: { open: boolean; onClose: () =
             onDone={() => {
               const prev = before.current;
               closeOverlay();
-              toast("Interests updated. New topics will follow them.", {
+              notify("Interests updated", {
                 action: { label: "Undo", onClick: () => updateInterests(prev) },
                 duration: 3200,
               });

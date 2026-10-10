@@ -1,8 +1,10 @@
+import { notify } from "@/components/Notify";
 import { forwardRef } from "react";
 import { IS_ARTIFACT } from "@/lib/api";
 import { CORPUS_BY_ID } from "@/content";
-import { Bookmark, BookmarkCheck, HelpCircle, Share, MessageSquare } from "lucide-react";
-import { toast } from "sonner";
+import { HelpCircle, Share, MessageSquare } from "lucide-react";
+import { SaveIcon } from "./SaveIcon";
+import { savedFeedback } from "@/lib/saveFeedback";
 import type { Bullet, Category, Topic } from "@/lib/types";
 import { toggleSaved, useApp } from "@/lib/store";
 import { openOverlay } from "@/lib/ui";
@@ -129,19 +131,11 @@ export const TopicArticle = forwardRef<HTMLElement, { view: ArticleView; reason?
           <div className="mt-8 -mr-3 -ml-3 flex flex-wrap items-center gap-x-1 text-muted">
             <ActionButton
               label={saved ? "Saved" : "Save"}
-              onClick={() => {
-                const on = toggleSaved(view.id);
-                cue("toggle", { direction: on ? "forward" : "back" });
-                buzz(on ? [6, 30, 6] : 6);
-                if (on)
-                  toast("Saved for later", {
-                    action: { label: "Undo", onClick: () => toggleSaved(view.id) },
-                    duration: 2600,
-                  });
-              }}
+              // The button is the feedback: the bookmark fills and the label reads "Saved". Tap again to undo.
+              onClick={() => savedFeedback(toggleSaved(view.id))}
               pressed={saved}
             >
-              {saved ? <BookmarkCheck size={18} strokeWidth={1.7} /> : <Bookmark size={18} strokeWidth={1.7} />}
+              <SaveIcon saved={saved} />
             </ActionButton>
             <ActionButton
               label="Ask"
@@ -217,9 +211,9 @@ async function share(view: ArticleView) {
   try {
     await navigator.clipboard.writeText(url ? `${text}\n${url}` : `${text}\n\n${view.lede ?? ""}`);
     cue("success", { emphasis: "subtle" });
-    toast("Copied to clipboard", { duration: 2000 });
+    notify(url ? "Link copied" : "Copied", { duration: 2000 });
   } catch {
-    toast("Couldn't share from here. Long-press the title to copy it.", { duration: 2600 });
+    notify("Couldn't share from here");
   }
 }
 

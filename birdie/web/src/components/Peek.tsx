@@ -1,5 +1,6 @@
-import { Bookmark, BookmarkCheck, RotateCw, X } from "lucide-react";
-import { toast } from "sonner";
+import { RotateCw, X } from "lucide-react";
+import { savedFeedback } from "@/lib/saveFeedback";
+import { SaveIcon } from "./SaveIcon";
 import { getTopic, recordTap, toggleSaved, useApp } from "@/lib/store";
 import { readyTopic, retryTopic, useJob } from "@/lib/generate";
 import { pushTopic, type Overlay } from "@/lib/ui";
@@ -36,12 +37,7 @@ export function PeekSheet({
     pushTopic(targetId, data.fromTopicId);
   };
 
-  const save = () => {
-    const on = toggleSaved(targetId);
-    cue("toggle", { direction: on ? "forward" : "back" });
-    buzz(on ? [6, 30, 6] : 6);
-    if (on) toast("Saved for later", { action: { label: "Undo", onClick: () => toggleSaved(targetId) }, duration: 2600 });
-  };
+  const save = () => savedFeedback(toggleSaved(targetId));
 
   return (
     <Sheet open={open} onClose={onClose} title={data.opening} describedBy="peek-teaser">
@@ -81,7 +77,7 @@ export function PeekSheet({
             </Button>
           )}
           <Button size="lg" variant="secondary" onClick={save} aria-pressed={saved} disabled={failed} className="px-4 font-normal whitespace-nowrap">
-            {saved ? <BookmarkCheck size={18} strokeWidth={1.7} /> : <Bookmark size={18} strokeWidth={1.7} />}
+            <SaveIcon saved={saved} />
             {saved ? "Saved" : "Save for later"}
           </Button>
         </div>

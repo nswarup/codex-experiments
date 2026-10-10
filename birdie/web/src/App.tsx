@@ -18,8 +18,6 @@ export function App() {
   const size = useApp((s) => s.prefs.size);
   const spacing = useApp((s) => s.prefs.spacing);
   const glassPref = useApp((s) => s.prefs.lab.glass);
-  // Toasts are styled inline, so they check the reduced-transparency setting themselves.
-  const glass = glassPref && !(typeof matchMedia !== "undefined" && matchMedia("(prefers-reduced-transparency: reduce)").matches);
 
   useEffect(() => {
     document.documentElement.dataset.glass = glassPref ? "on" : "off";
@@ -47,36 +45,13 @@ export function App() {
   return (
     <MotionConfig reducedMotion="user">
       {onboarded ? <Reader /> : <Onboarding />}
+      {/* Toasts are compact pills near the bottom (see Notify), clear of the reading line. */}
       <Toaster
-        position="top-center"
-        offset={{ top: "calc(env(safe-area-inset-top, 0px) + 64px)" }}
-        // Phones use their own offset in Sonner; keep toasts clear of the top bar and search field there too.
-        mobileOffset={{ top: "calc(env(safe-area-inset-top, 0px) + 72px)", left: "16px", right: "16px" }}
-        toastOptions={{
-          // Glass: a frosted capsule in the theme's own ink. Solid: the strong ink-on-paper toast.
-          className: glass ? "glass" : undefined,
-          style: {
-            background: glass ? "var(--glass-heavy)" : "var(--strong)",
-            color: glass ? "var(--strong)" : "var(--bg)",
-            WebkitBackdropFilter: glass ? "blur(24px) saturate(160%)" : undefined,
-            backdropFilter: glass ? "blur(24px) saturate(160%)" : undefined,
-            boxShadow: glass ? "inset 0 1px 0 var(--glass-hi), inset 0 0 0 1px var(--glass-rim), var(--glass-shadow)" : undefined,
-            border: "none",
-            fontFamily: "var(--font-serif)",
-            fontSize: "15px",
-            borderRadius: "14px",
-            minHeight: "52px",
-          },
-          actionButtonStyle: {
-            height: "44px",
-            padding: "0 14px",
-            borderRadius: "999px",
-            fontSize: "14px",
-            fontWeight: 600,
-            background: glass ? "var(--strong)" : "var(--bg)",
-            color: glass ? "var(--bg)" : "var(--strong)",
-          },
-        }}
+        position="bottom-center"
+        gap={8}
+        offset={{ bottom: "calc(env(safe-area-inset-bottom, 0px) + 24px)" }}
+        mobileOffset={{ bottom: "calc(env(safe-area-inset-bottom, 0px) + 20px)", left: "16px", right: "16px" }}
+        toastOptions={{ unstyled: true }}
       />
     </MotionConfig>
   );

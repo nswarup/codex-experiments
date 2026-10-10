@@ -1,7 +1,7 @@
+import { notify } from "@/components/Notify";
 import { useEffect, useRef, useState } from "react";
 import { AnimatePresence, motion } from "motion/react";
 import { ArrowRight, Clock, Search as SearchIcon } from "lucide-react";
-import { toast } from "sonner";
 import { addRecentSearch, clearRecentSearches, getState, useApp } from "@/lib/store";
 import { requestTopic } from "@/lib/generate";
 import { pushTopic } from "@/lib/ui";
@@ -145,7 +145,7 @@ export function SearchOverlay({ open, onClose }: { open: boolean; onClose: () =>
                     onClick={() => {
                       const before = recents;
                       clearRecentSearches();
-                      toast("Recent searches cleared", {
+                      notify("Searches cleared", {
                         action: { label: "Undo", onClick: () => [...before].reverse().forEach(addRecentSearch) },
                         duration: 2600,
                       });
