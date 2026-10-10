@@ -533,5 +533,40 @@
   "id": "hat-trick",
   "title": "The cricket hat behind the hat-trick",
   "category": "Sports"
+ },
+ {
+  "id": "clever-hans",
+  "title": "Clever Hans, the counting horse",
+  "category": "Science"
+ },
+ {
+  "id": "pitch-drop-experiment",
+  "title": "The pitch drop experiment",
+  "category": "Science"
+ },
+ {
+  "id": "mpemba-effect",
+  "title": "The Mpemba effect",
+  "category": "Science"
+ },
+ {
+  "id": "tree-ring-dating",
+  "title": "Tree-ring dating",
+  "category": "Science"
+ },
+ {
+  "id": "magenta-no-wavelength",
+  "title": "Magenta has no wavelength",
+  "category": "Science"
+ },
+ {
+  "id": "raindrop-shape",
+  "title": "Raindrops aren't teardrop-shaped",
+  "category": "Science"
+ },
+ {
+  "id": "smell-receptor-genes",
+  "title": "The smell receptor genes",
+  "category": "Science"
  }
 ]

@@ -1,0 +1,48 @@
+{
+  "id": "smell-receptor-genes",
+  "title": "The smell receptor genes",
+  "category": "Science",
+  "hook": "The largest gene family in mammals exists for smell, and many of ours are broken.",
+  "peek": "In 1991 two scientists found the genes behind the sense of smell: a family of hundreds, each building one kind of detector. People carry about 400 that work, dogs roughly twice as many, and African elephants the most known.",
+  "lede": "In 1991, Linda Buck and Richard Axel, working at Columbia University, found the genes that let mammals detect smells. In rats they turned up around a thousand, each building a slightly different receptor molecule for the nose. It is the largest gene family in mammals, and the discovery won them the Nobel Prize in Physiology or Medicine in 2004.",
+  "bullets": [
+    {
+      "opening": "One receptor per cell",
+      "linkId": null,
+      "text": "Each smell-sensing nerve cell in the nose uses just one of the receptor genes. Cells with the same receptor send their signals to the same small cluster in the brain's olfactory bulb, keeping the inputs sorted."
+    },
+    {
+      "opening": "A combinatorial smell code",
+      "linkId": null,
+      "text": "Most odour molecules activate several receptors, and most receptors respond to several molecules. The brain reads the pattern across the whole set, which is how a few hundred detectors can tell apart a vast range of smells."
+    },
+    {
+      "opening": "Human pseudogenes",
+      "linkId": null,
+      "text": "People carry about 400 working receptor genes, plus hundreds of broken copies, called pseudogenes, that no longer make a receptor. Which ones work varies from person to person, so two people can smell the same thing differently."
+    },
+    {
+      "opening": "The coriander soap gene",
+      "linkId": "cilantro-gene",
+      "text": "One of these receptor genes, OR6A2, responds to aldehydes. A variant near it is linked to finding fresh coriander leaves soapy, one of the clearest cases of a single smell gene shaping taste."
+    },
+    {
+      "opening": "Elephants' record count",
+      "linkId": null,
+      "text": "A 2014 study of 13 mammals found about 2,000 working receptor genes in the African elephant, the most known. That is roughly twice a dog's count and five times ours."
+    }
+  ],
+  "tags": [
+    "smell",
+    "genetics",
+    "perception",
+    "animal-minds"
+  ],
+  "related": [
+    "dogs-smell",
+    "cilantro-gene",
+    "petrichor",
+    "umami",
+    "elephant-mirror"
+  ]
+}

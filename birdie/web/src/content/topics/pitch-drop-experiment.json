@@ -1,0 +1,43 @@
+{
+  "id": "pitch-drop-experiment",
+  "title": "The pitch drop experiment",
+  "category": "Science",
+  "hook": "A funnel of tar in Australia has dripped about once a decade since 1930.",
+  "peek": "At the University of Queensland, a lump of pitch that shatters under a hammer has been flowing through a funnel for almost a century. Only nine drops had fallen by 2014, and nobody had ever seen one land in person.",
+  "lede": "In 1927 the physicist Thomas Parnell, at the University of Queensland in Brisbane, wanted to show students that some things which look solid are really liquids. He heated pitch, a tar-like substance that shatters when struck with a hammer, poured it into a sealed funnel and let it settle. In 1930 he cut the funnel's stem open. Then everyone waited.",
+  "bullets": [
+    {
+      "opening": "One drop a decade",
+      "linkId": null,
+      "text": "The first drop fell in 1938, the eighth in 2000 and the ninth in 2014. The gaps grew longer after the building gained air conditioning, which cooled the pitch and slowed it down."
+    },
+    {
+      "opening": "A hundred billion times thicker",
+      "linkId": null,
+      "text": "From the flow rate, the experiment's keepers estimated that the pitch is roughly 100 billion times more viscous than water. It behaves as a liquid, just one that moves on a timescale of years."
+    },
+    {
+      "opening": "The drops nobody saw",
+      "linkId": null,
+      "text": "No one has watched a drop fall in person. John Mainstone, the experiment's custodian for more than 50 years, missed several, and in 2000 a webcam set up to catch the eighth drop failed during a storm."
+    },
+    {
+      "opening": "Dublin's pitch drop on camera",
+      "linkId": null,
+      "text": "A similar pitch funnel at Trinity College Dublin, set up in 1944, was filmed dripping in 2013. It was the first time anyone had caught a falling pitch drop on camera."
+    }
+  ],
+  "tags": [
+    "experiments",
+    "physics",
+    "time",
+    "records"
+  ],
+  "related": [
+    "moon-drifting",
+    "sagrada-familia",
+    "slinky",
+    "honey-keeps",
+    "pando"
+  ]
+}

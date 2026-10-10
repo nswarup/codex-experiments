@@ -1,0 +1,43 @@
+{
+  "id": "raindrop-shape",
+  "title": "Raindrops aren't teardrop-shaped",
+  "category": "Science",
+  "hook": "Falling raindrops look less like teardrops and more like hamburger buns.",
+  "peek": "The classic teardrop shape is a myth. Small raindrops are nearly round, and bigger ones flatten underneath as air pushes on them, until the largest burst apart into smaller drops on the way down.",
+  "lede": "Draw a raindrop and you will probably draw a teardrop, pointed at the top. Real falling raindrops never look like that. Surface tension pulls small drops into near-perfect spheres. As drops grow, the air rushing past pushes their undersides flat, so a large raindrop looks more like the top half of a hamburger bun than a tear.",
+  "bullets": [
+    {
+      "opening": "Where the teardrop comes from",
+      "linkId": null,
+      "text": "The pointed shape belongs to a drop clinging to a tap or a leaf, stretched by its own weight just before it lets go. Once a drop falls free, surface tension quickly pulls it round."
+    },
+    {
+      "opening": "The largest raindrops",
+      "linkId": null,
+      "text": "Drops much bigger than about 5 millimetres across rarely survive the fall. The air flattens them into a cup that balloons into a thin bag, which then bursts into a spray of smaller drops."
+    },
+    {
+      "opening": "Bentley's flour pellets",
+      "linkId": "snowflake-bentley",
+      "text": "Wilson Bentley, better known for photographing snowflakes, measured raindrops in the early 1900s. He let them fall into trays of flour and measured the little dough pellets they formed."
+    },
+    {
+      "opening": "Drops floating in wind tunnels",
+      "linkId": null,
+      "text": "Scientists study falling drops by holding them in an upward stream of air inside a vertical wind tunnel. High-speed cameras show the drops wobbling and flattening just as they would in a real fall."
+    }
+  ],
+  "tags": [
+    "weather",
+    "myths-busted",
+    "physics",
+    "water"
+  ],
+  "related": [
+    "snowflake-bentley",
+    "petrichor",
+    "rainbow-circles",
+    "morning-glory-clouds",
+    "singing-dunes"
+  ]
+}

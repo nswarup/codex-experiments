@@ -1,0 +1,48 @@
+{
+  "id": "tree-ring-dating",
+  "title": "Tree-ring dating",
+  "category": "Science",
+  "hook": "Tree rings can date a wooden beam to the exact year its tree was cut down.",
+  "peek": "Wide and narrow rings record good and bad growing years, and trees across a region share the same pattern. Match that pattern, and a piece of old timber can be dated to the very year it grew.",
+  "lede": "A tree adds one ring of wood each growing season, wide in a good year and narrow in a dry or cold one. Trees in the same region share the same run of good and bad years, so their rings form a matching barcode. Line up overlapping samples, from living trees back through old beams, and wood can be dated to the exact year.",
+  "bullets": [
+    {
+      "opening": "Andrew Ellicott Douglass",
+      "linkId": null,
+      "text": "An astronomer in Arizona, Douglass began studying rings in the early 1900s, hoping they held a record of sunspot cycles. Instead he built a new science, and in 1937 founded the University of Arizona's Laboratory of Tree-Ring Research."
+    },
+    {
+      "opening": "Beam HH-39",
+      "linkId": null,
+      "text": "For years Douglass had a gap between his living-tree record and the ruins of the American Southwest. In 1929 a charred beam found at Show Low, Arizona, bridged it and gave calendar dates to sites such as Pueblo Bonito."
+    },
+    {
+      "opening": "Calibrating radiocarbon dates",
+      "linkId": null,
+      "text": "Radiocarbon dating assumes a steady level of carbon-14 in the air, which is not quite true. Tree rings of known age supply the correction, and European oak and pine records now reach back more than 12,000 years."
+    },
+    {
+      "opening": "Stradivari's violin spruce",
+      "linkId": "stradivarius",
+      "text": "Specialists date violin tops by matching their rings to records of Alpine spruce. The method has been used to check famous instruments credited to Stradivari, including the long-debated Messiah violin."
+    },
+    {
+      "opening": "The cold summer of 1816",
+      "linkId": "year-without-summer",
+      "text": "Tree-ring records across the Northern Hemisphere mark 1816 as one of the coldest summers in centuries, the year after Mount Tambora erupted."
+    }
+  ],
+  "tags": [
+    "time",
+    "trees",
+    "climate",
+    "history-of-things"
+  ],
+  "related": [
+    "pando",
+    "stradivarius",
+    "year-without-summer",
+    "snowflake-bentley",
+    "oxford-aztecs"
+  ]
+}

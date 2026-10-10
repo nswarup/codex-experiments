@@ -1,0 +1,43 @@
+{
+  "id": "mpemba-effect",
+  "title": "The Mpemba effect",
+  "category": "Science",
+  "hook": "A schoolboy claimed hot water can freeze faster than cold. Physicists still argue.",
+  "peek": "In 1963 a Tanzanian student noticed that his hot ice cream mix froze before a cooler one. The claim, that hot water can freeze faster than cold, has puzzled physicists ever since, and careful tests disagree on whether it is real.",
+  "lede": "In 1963 Erasto Mpemba, a secondary school student in Tanzania, was making ice cream in a cookery class. Short of time, he put his milk and sugar mix into the freezer while it was still hot. It froze before a classmate's cooler batch. His teacher told him he must be mistaken. Mpemba kept asking, and the puzzle came to carry his name.",
+  "bullets": [
+    {
+      "opening": "Denis Osborne's visit",
+      "linkId": null,
+      "text": "When the physicist Denis Osborne gave a talk at Mpemba's school, the student asked him why hot water might freeze first. Osborne tried it in his lab, and in 1969 the two published a paper on it together."
+    },
+    {
+      "opening": "Aristotle's observation",
+      "linkId": null,
+      "text": "Mpemba was not the first to notice. Aristotle wrote that water warmed beforehand freezes more quickly, and Francis Bacon and René Descartes made similar remarks centuries later."
+    },
+    {
+      "opening": "Evaporation and supercooling",
+      "linkId": null,
+      "text": "Suggested causes include hot water losing mass to evaporation, dissolved gases escaping, currents inside the cooling water, and cold water dipping below zero without freezing. None has won everyone over."
+    },
+    {
+      "opening": "A careful 2016 test",
+      "linkId": null,
+      "text": "The physicists Henry Burridge and Paul Linden ran tightly controlled experiments and found no real effect, only quirks of where the thermometer sat. Others argue it shows up only under particular conditions, so the debate goes on."
+    }
+  ],
+  "tags": [
+    "myths-busted",
+    "experiments",
+    "physics",
+    "ice"
+  ],
+  "related": [
+    "snowflake-bentley",
+    "petrichor",
+    "the-dress",
+    "monty-hall",
+    "microwave-chocolate"
+  ]
+}

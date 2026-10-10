@@ -1,0 +1,43 @@
+{
+  "id": "magenta-no-wavelength",
+  "title": "Magenta has no wavelength",
+  "category": "Science",
+  "hook": "No single wavelength of light looks magenta. The brain makes the colour up.",
+  "peek": "Every colour of the rainbow matches a band of wavelengths, but magenta is not among them. It appears only when the eye gets red and blue light together with little green, and the brain fills the gap with a colour of its own.",
+  "lede": "Spread white light through a prism and you get a spectrum running from red to violet. Each colour there matches a band of wavelengths. Magenta is missing, and no single wavelength of light can produce it. It appears when the eye receives red and blue light at once with little green, and the brain answers with a colour of its own.",
+  "bullets": [
+    {
+      "opening": "Three kinds of cone",
+      "linkId": null,
+      "text": "Human colour vision rests on three types of cone cell, most sensitive to long, medium and short wavelengths. Light that excites the long and short cones while leaving the medium ones quiet has no match in the spectrum, so the brain reads it as magenta."
+    },
+    {
+      "opening": "Newton's colour circle",
+      "linkId": null,
+      "text": "In his 1704 book Opticks, Isaac Newton bent the spectrum into a circle, placing red next to violet. Purples and magentas sit at that join, where the two ends of the rainbow meet, though no wavelength lives there."
+    },
+    {
+      "opening": "A dye named after a town",
+      "linkId": null,
+      "text": "Magenta began as the name of a dye. A bright aniline dye first sold as fuchsine was renamed magenta in 1859, after the town of Magenta in northern Italy, which was in the news that year."
+    },
+    {
+      "opening": "Minus green",
+      "linkId": null,
+      "text": "Magenta is one of the three colour inks in everyday printing. It works by absorbing green light and reflecting red and blue, which is why printers sometimes describe it as minus green."
+    }
+  ],
+  "tags": [
+    "color",
+    "light",
+    "perception",
+    "illusions"
+  ],
+  "related": [
+    "the-dress",
+    "perkin-mauve",
+    "rainbow-circles",
+    "klein-blue",
+    "vantablack-feud"
+  ]
+}

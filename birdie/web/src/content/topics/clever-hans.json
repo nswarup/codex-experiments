@@ -1,0 +1,43 @@
+{
+  "id": "clever-hans",
+  "title": "Clever Hans, the counting horse",
+  "category": "Science",
+  "hook": "A horse that seemed to do sums was really reading the people watching him.",
+  "peek": "In Berlin in the early 1900s, a horse called Hans tapped out answers to arithmetic questions. A careful young psychologist worked out how he did it, and the lesson still shapes how scientists, and AI researchers, test their results.",
+  "lede": "In the early 1900s, a Berlin mathematics teacher named Wilhelm von Osten showed off his horse, Hans, who answered arithmetic questions by tapping a hoof. Crowds gathered and newspapers took notice. Hans was not a fraud, and von Osten was not cheating. The horse had learned something subtler: to stop tapping at the moment the people around him expected him to.",
+  "bullets": [
+    {
+      "opening": "The 1904 commission",
+      "linkId": null,
+      "text": "A panel of experts, including the psychologist Carl Stumpf, watched Hans in 1904 and found no sign of trickery. Hans answered correctly even when von Osten was not the one asking, which made the case stranger."
+    },
+    {
+      "opening": "Oskar Pfungst's experiments",
+      "linkId": null,
+      "text": "Stumpf's student Oskar Pfungst then tested Hans properly. When the questioner did not know the answer, or stood out of sight, Hans failed. He was watching for tiny, unconscious changes in posture and expression as the count reached the right number."
+    },
+    {
+      "opening": "Cueing without meaning to",
+      "linkId": null,
+      "text": "Pfungst found he could make Hans stop tapping himself, even while trying hard to give nothing away. People were signalling the answer without knowing it, which is one reason modern experiments are often run blind."
+    },
+    {
+      "opening": "Clever Hans in AI",
+      "linkId": null,
+      "text": "Researchers now call a model that scores well for the wrong reason a Clever Hans predictor. A 2019 study found an image classifier that recognised horses partly by a copyright tag that appeared on many horse photos in its training data."
+    }
+  ],
+  "tags": [
+    "animal-minds",
+    "ai",
+    "experiments",
+    "perception"
+  ],
+  "related": [
+    "crows-faces",
+    "elephant-mirror",
+    "dolphin-names",
+    "dogs-smell",
+    "move-37"
+  ]
+}
