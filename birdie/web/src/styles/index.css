@@ -21,6 +21,12 @@
   --inset: #252320;
   --seg-on: #3a3732;
   --danger: #d88a72;
+  /* Liquid glass: tint, rim and highlight for the floating control layer. */
+  --glass: rgba(34, 32, 29, 0.58);
+  --glass-heavy: rgba(28, 27, 25, 0.82);
+  --glass-rim: rgba(255, 255, 255, 0.1);
+  --glass-hi: rgba(255, 255, 255, 0.16);
+  --glass-shadow: 0 8px 28px rgba(0, 0, 0, 0.35);
   --accent: #cfc8ba;
   --accent-fg: #121212;
   --chip: #6e685d;
@@ -44,6 +50,11 @@
   --inset: #ebdfc4;
   --seg-on: #fbf6ea;
   --danger: #a4442c;
+  --glass: rgba(250, 244, 230, 0.6);
+  --glass-heavy: rgba(248, 241, 225, 0.86);
+  --glass-rim: rgba(255, 255, 255, 0.6);
+  --glass-hi: rgba(255, 255, 255, 0.85);
+  --glass-shadow: 0 8px 28px rgba(91, 70, 54, 0.16);
   --accent: #5b4636;
   --accent-fg: #f8f1e1;
   --chip: #9a8465;
@@ -67,6 +78,11 @@
   --inset: #f1eee8;
   --seg-on: #ffffff;
   --danger: #b23c22;
+  --glass: rgba(255, 255, 255, 0.62);
+  --glass-heavy: rgba(255, 255, 255, 0.86);
+  --glass-rim: rgba(255, 255, 255, 0.75);
+  --glass-hi: rgba(255, 255, 255, 0.95);
+  --glass-shadow: 0 8px 28px rgba(20, 18, 15, 0.12);
   --accent: #2a2723;
   --accent-fg: #fbfaf7;
   --chip: #969083;
@@ -306,4 +322,78 @@ a,
   content: "";
   position: absolute;
   inset: -4px -2px;
+}
+
+.scroll-edge {
+  display: none;
+}
+
+/* ------------------------------------------------------------------ */
+/* Liquid glass. Only the floating control layer is glass (top-bar    */
+/* buttons, sheets, the Ask pill, toasts, search); reading never is.  */
+/* Off in the Design lab, with reduced transparency, or without       */
+/* backdrop-filter support, everything falls back to solid surfaces.  */
+/* ------------------------------------------------------------------ */
+@supports ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
+  @media not (prefers-reduced-transparency: reduce) {
+    [data-glass="on"] .glass,
+    [data-glass="on"] .glass-heavy {
+      /* Glass elements are positioned by their own classes (relative, fixed…) for the sheen below. */
+      -webkit-backdrop-filter: blur(18px) saturate(170%);
+      backdrop-filter: blur(18px) saturate(170%);
+      background: var(--glass);
+      box-shadow:
+        inset 0 1px 0 var(--glass-hi),
+        inset 0 0 0 1px var(--glass-rim),
+        var(--glass-shadow);
+    }
+    [data-glass="on"] .glass-heavy {
+      -webkit-backdrop-filter: blur(28px) saturate(160%);
+      backdrop-filter: blur(28px) saturate(160%);
+      background: var(--glass-heavy);
+    }
+    /* The "liquid" part: a soft specular sheen across the top, like light on a lens. */
+    /* (Not on heavy glass: sheets carry text, and a sheen over words hurts reading.) */
+    [data-glass="on"] .glass::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      border-radius: inherit;
+      pointer-events: none;
+      background:
+        radial-gradient(120% 70% at 20% 0%, var(--glass-hi), transparent 55%),
+        linear-gradient(to bottom, transparent 60%, rgba(0, 0, 0, 0.04));
+      opacity: 0.35;
+    }
+    /* Text sitting on glass reads in the theme's strongest ink. */
+    [data-glass="on"] .glass-ink {
+      color: var(--strong);
+    }
+    /* Scroll edge: content softly blurs and fades under the top bar instead of meeting a hard band. */
+    [data-glass="on"] .topbar {
+      background: transparent;
+      border-color: transparent;
+    }
+    [data-glass="on"] .scroll-edge {
+      display: block;
+      position: absolute;
+      inset: 0 0 auto 0;
+      height: calc(100% + 18px);
+      z-index: -1;
+      pointer-events: none;
+      background: linear-gradient(to bottom, var(--bg) 0%, color-mix(in srgb, var(--bg) 70%, transparent) 65%, transparent 100%);
+      -webkit-backdrop-filter: blur(10px);
+      backdrop-filter: blur(10px);
+      -webkit-mask-image: linear-gradient(to bottom, #000 62%, transparent);
+      mask-image: linear-gradient(to bottom, #000 62%, transparent);
+    }
+    /* Partial-height sheets float above the page, inset from the edges, like iOS 26. */
+    [data-glass="on"] .sheet-float {
+      left: 8px;
+      right: 8px;
+      bottom: 8px;
+      border-radius: 28px;
+      border: 0;
+    }
+  }
 }

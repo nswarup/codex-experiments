@@ -132,11 +132,11 @@ export function Sheet({
         <Drawer.Content
           aria-describedby={describedBy}
           className={cn(
-            "fixed inset-x-0 bottom-0 z-50 mx-auto flex max-w-[640px] flex-col rounded-t-[22px] border-t border-sheet-line bg-sheet text-text outline-none",
-            tall ? "h-[92dvh]" : "max-h-[92dvh]",
+            "glass-heavy fixed inset-x-0 bottom-0 z-50 mx-auto flex max-w-[640px] flex-col rounded-t-[22px] border-t border-sheet-line bg-sheet text-text shadow-[var(--shadow)] outline-none",
+            // Partial sheets float inset from the screen edges in glass mode; tall ones stay docked.
+            tall ? "h-[92dvh]" : "sheet-float max-h-[92dvh]",
             className,
           )}
-          style={{ boxShadow: "var(--shadow)" }}
         >
           <div aria-hidden="true" className="mx-auto mt-3 h-1 w-10 shrink-0 rounded-full bg-chip" />
           <Drawer.Title className="sr-only">{title}</Drawer.Title>

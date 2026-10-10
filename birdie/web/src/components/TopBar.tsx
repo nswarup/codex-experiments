@@ -68,17 +68,19 @@ export function TopBar({
   return (
     <header
       className={cn(
-        "sticky top-0 z-20 bg-bg pt-[env(safe-area-inset-top,0px)] transition-[transform,border-color] duration-200 ease-[var(--ease-out)]",
+        "topbar sticky top-0 z-20 bg-bg pt-[env(safe-area-inset-top,0px)] transition-[transform,border-color] duration-200 ease-[var(--ease-out)]",
         scrolled ? "border-b border-line" : "border-b border-transparent",
       )}
       style={{ transform: hidden ? "translateY(-100%)" : "translateY(0)" }}
     >
+      <div aria-hidden="true" className="scroll-edge" />
       <div className="mx-auto flex h-14 max-w-[34em] items-center justify-between pr-3 pl-2" style={{ fontSize: "var(--read-size)" }}>
         <div className="flex min-w-0 items-center">
           {back ? (
             <>
               <IconButton
                 label="Back"
+                className="glass relative"
                 onClick={() => {
                   cue("navigate", { direction: "back" });
                   buzz(5);
@@ -115,7 +117,8 @@ export function TopBar({
             </span>
           )}
         </div>
-        <div className="flex shrink-0 items-center gap-0.5">
+        {/* One floating capsule for the page's controls (Liquid glass when it's on). */}
+        <div className="glass relative flex shrink-0 items-center rounded-full">
           <IconButton
             label="Search"
             data-tour="search"

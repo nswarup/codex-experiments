@@ -221,6 +221,17 @@ export function SettingsSheet({ open, onClose }: { open: boolean; onClose: () =>
                   className="overflow-hidden"
                 >
                   <div className="flex flex-col gap-5 px-4 pt-1 pb-5">
+                    <Section title="Controls material">
+                      <Segmented
+                        label="Controls material"
+                        value={prefs.lab.glass ? "glass" : "solid"}
+                        onChange={(v) => updateLab({ glass: v === "glass" })}
+                        options={[
+                          { value: "glass", label: "Liquid glass" },
+                          { value: "solid", label: "Solid" },
+                        ]}
+                      />
+                    </Section>
                     <Section title="Hook font">
                       <Segmented
                         label="Hook font"

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" data-reader-theme="dark">
+<html lang="en" data-reader-theme="dark" data-glass="on">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content" />
@@ -18,6 +18,7 @@
         var s = JSON.parse(localStorage.getItem("birdie.state.v1") || "{}");
         var t = (s.prefs && s.prefs.theme) || "dark";
         document.documentElement.dataset.readerTheme = t;
+        document.documentElement.dataset.glass = s.prefs && s.prefs.lab && s.prefs.lab.glass === false ? "off" : "on";
         var c = { dark: "#121212", sepia: "#f4ecd8", light: "#fbfaf7" }[t];
         if (c) document.querySelector('meta[name="theme-color"]').setAttribute("content", c);
       } catch (e) {}

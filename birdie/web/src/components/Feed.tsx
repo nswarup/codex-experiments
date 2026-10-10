@@ -223,7 +223,7 @@ export function Feed() {
             <button
               type="button"
               onClick={nextTopic}
-              className="press flex h-[54px] w-full items-center justify-center gap-2 rounded-full border border-chip font-serif text-[17px] font-semibold text-strong"
+              className="press glass relative flex h-[54px] w-full items-center justify-center gap-2 rounded-full border border-chip font-serif text-[17px] font-semibold text-strong"
             >
               Next topic <ArrowDown size={18} strokeWidth={1.8} aria-hidden="true" />
             </button>

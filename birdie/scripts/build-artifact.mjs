@@ -45,7 +45,7 @@ fs.writeFileSync(path.join(out, "page.html"), page);
 
 // The app itself, framed by the viewer. Extra HTML files are served as-is, so it is a full document.
 const appHtml = `<!doctype html>
-<html lang="en" data-reader-theme="dark">
+<html lang="en" data-reader-theme="dark" data-glass="on">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content">
@@ -55,6 +55,7 @@ const appHtml = `<!doctype html>
   try {
     var s = JSON.parse(localStorage.getItem("birdie.state.v1") || "{}");
     document.documentElement.dataset.readerTheme = (s.prefs && s.prefs.theme) || "dark";
+    document.documentElement.dataset.glass = s.prefs && s.prefs.lab && s.prefs.lab.glass === false ? "off" : "on";
   } catch (e) {
     document.documentElement.dataset.readerTheme = "dark";
   }

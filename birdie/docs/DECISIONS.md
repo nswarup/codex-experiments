@@ -73,6 +73,17 @@ Two independent reviews: a visual and interaction review (about 120 screenshots 
 
 Kept as-is despite review suggestions, because they were your explicit calls in the mockup rounds: the mono hook (serif is in the Design lab), the dashed wildcard border, and dark as the first-run theme.
 
+## Liquid glass
+
+Glass follows Apple's rule: it belongs to the controls that float above content, never to the content. The reading page stays Kindle-plain.
+
+- **Top bar:** search, library and Aa sit in one floating glass capsule, and Back is a glass circle. The solid band behind the bar is gone; text softly blurs and fades as it scrolls under the bar (the "scroll edge").
+- **Sheets:** frosted glass. Partial-height sheets (Peek, Settings, Why this?) float inset from the screen edges with fully rounded corners; tall ones (Chat, Library, Edit interests) stay docked. Sheet glass is opaque enough to read on and has no sheen over text.
+- **Ask Birdie pill, toasts, search:** the pill and toasts are heavy glass in the theme's own ink. Search frosts the page behind it instead of replacing it, and its field is a glass capsule.
+- **Small touches:** the disabled Continue on onboarding and the one-at-a-time "Next topic" button.
+- **Kept solid on purpose:** article text, cards, the tour tooltip (it needs maximum contrast) and the primary filled buttons.
+- **Safe defaults:** glass turns itself off when the system asks for reduced transparency or the browser can't blur. **Aa → Design lab → Controls material** switches between Liquid glass (default) and Solid so you can compare.
+
 ## Onboarding redesign
 
 Your note: reading should stay Kindle-like, but onboarding should feel more modern. The pills were too padded, and the pick animation and the self-rewriting button were distracting.

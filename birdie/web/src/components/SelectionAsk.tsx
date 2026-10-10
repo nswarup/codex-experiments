@@ -92,8 +92,8 @@ export function SelectionAsk() {
           animate={{ opacity: 1, transform: "translateY(0px) scale(1)" }}
           exit={{ opacity: 0, transform: "scale(0.96)", transition: { duration: 0.12 } }}
           transition={{ duration: 0.18, ease: [0.23, 1, 0.32, 1] }}
-          className="press fixed z-40 flex h-[44px] items-center justify-center gap-2 rounded-full bg-strong px-4 font-serif text-[15.5px] font-semibold text-bg"
-          style={{ left: sel!.x, top: sel!.y, width: PILL_W, boxShadow: "var(--shadow)", transformOrigin: sel!.below ? "top center" : "bottom center" }}
+          className="press glass-heavy glass-ink fixed z-40 flex h-[44px] items-center justify-center gap-2 rounded-full bg-strong px-4 font-serif text-[15.5px] font-semibold text-bg shadow-[var(--shadow)]"
+          style={{ left: sel!.x, top: sel!.y, width: PILL_W, transformOrigin: sel!.below ? "top center" : "bottom center" }}
         >
           <MessageSquare size={17} strokeWidth={1.9} aria-hidden="true" />
           Ask Birdie

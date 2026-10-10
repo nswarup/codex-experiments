@@ -44,6 +44,8 @@ export interface Prefs {
     wildcardLabel: boolean;
     transition: "slide" | "fade";
     feed: "endless" | "one";
+    /** Liquid glass on the floating control layer, or plain solid surfaces. */
+    glass: boolean;
   };
 }
 

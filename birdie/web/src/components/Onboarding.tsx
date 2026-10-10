@@ -103,7 +103,7 @@ export function InterestPicker({ mode = "onboard", onDone }: { mode?: "onboard" 
             disabled={!ready}
             className={cn(
               "press h-[52px] w-full rounded-full text-[16px] font-semibold tracking-[-0.005em] transition-[background-color,color] duration-150 ease-out",
-              ready ? "bg-accent text-accent-fg" : "bg-inset text-muted",
+              ready ? "bg-accent text-accent-fg" : "glass relative bg-inset text-muted",
             )}
           >
             {mode === "onboard" ? "Continue" : "Save"}
