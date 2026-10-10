@@ -24,6 +24,38 @@ What I decided while building v0 overnight, and the calls that are yours. Everyt
 - **Local-only server.** The API binds to 127.0.0.1 and has a simple rate limit; phones reach it through the Vite dev server's proxy.
 - **The artifact build** (phone demo) writes through the viewer's own Claude account via the artifact `sample` capability, with a Claude consent prompt on first use. It uses the balanced model tier for articles and the quick tier for chat.
 
+## Design review pass
+
+Two independent reviews: a visual and interaction review (about 120 screenshots across all three themes, iPhone SE and desktop), and an edge-case audit. What changed:
+
+- **Recovery:** a corrupt or older save is cleaned on load instead of crashing. The error screen offers "Start fresh". A failed article no longer shows Save, Share or Why. A peek that failed offers Try again. Retries keep their original context. Anything that failed offline retries itself when the connection returns.
+- **Error copy:** plain sentences only, never JSON or status codes. Offline, rate-limited and writer-down each get their own message.
+- **Navigation:**
+  - A double-tap on Back pops one page.
+  - Opening a topic that's already further down the stack goes back to it instead of stacking a copy.
+  - Edit interests and Library return to Settings when opened from Settings.
+  - Focus moves to a new page's title and returns to whatever opened it.
+  - A reload puts you back exactly where you were. Same tab only, so a fresh open still lands on a new ranked topic.
+- **Feed:** unread topics are preferred over re-reads, and the feed never dead-ends after the library is exhausted. Learning decays per real session (a 30-minute break), not per reload. Written topics are capped at 150, never evicting saved or recent ones.
+- **Look:**
+  - Dark's segmented control no longer looks pressed in.
+  - Sepia's muted text passes AA on every surface.
+  - Cards separate from the page, and Light's buttons are warmer.
+  - The header's library icon no longer looks like "bookmark this".
+  - Every sheet shares one header, and the Settings header stays put while scrolling.
+  - Peek's Read and Save buttons are the same width.
+  - Chips are X-style: filled means picked, with no check icon, so labels stay centred.
+  - Toast Undo is a proper 36px button, and theme changes cross-fade.
+- **Small features:**
+  - An Ask button on every article, so chat works without selecting text.
+  - Undo on save from the peek, on clearing recent searches and on editing interests.
+  - Conversations survive closing the sheet by accident.
+  - Desktop shortcuts: `/` search, `Esc` back, `j` / `k` next and previous topic.
+  - Share links open the topic directly.
+  - Haptics only appear where the device can vibrate.
+
+Kept as-is despite review suggestions, because they were your explicit calls in the mockup rounds: the mono hook (serif is in the Design lab), the dashed wildcard border, the "Pick at least 3 (n/3)" button copy, the helper line sitting by the button, and dark as the first-run theme.
+
 ## Content notes from the fact-check passes
 
 The writing agents and two independent fact-check passes flagged a few items you may want to verify against sources before anything ships publicly:

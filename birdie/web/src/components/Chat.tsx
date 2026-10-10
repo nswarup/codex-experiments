@@ -1,5 +1,6 @@
+import { smooth } from "@/lib/motion";
 import { useEffect, useRef, useState } from "react";
-import { ArrowRight, ArrowUp, Square, X } from "lucide-react";
+import { ArrowRight, ArrowUp, Square } from "lucide-react";
 import { AnimatePresence, motion } from "motion/react";
 import { streamChat, StreamError, type ChatTurn } from "@/lib/api";
 import { parseChat } from "@/lib/parse";
@@ -8,12 +9,18 @@ import { readyTopic, requestTopic } from "@/lib/generate";
 import { matchCorpus } from "@/content";
 import { pushTopic, type Overlay } from "@/lib/ui";
 import { cue, buzz } from "@/lib/feedback";
-import { IconButton, Kicker, Sheet } from "./ui";
+import { IconButton, Sheet, SheetHeader } from "./ui";
 import { cn } from "@/lib/cn";
 
 const STARTERS = ["Explain it simpler", "Why?", "Tell me more"];
+/** Asked from the action row, with no passage picked: questions about the whole piece. */
+const TOPIC_STARTERS = ["Sum it up", "Why does it matter?", "Tell me more"];
 
 type Msg = ChatTurn & { error?: boolean };
+
+/** Conversations survive closing the sheet by accident, for this visit. */
+const threads = new Map<string, Msg[]>();
+const threadKey = (d: { topicId: string; highlight?: string }) => `${d.topicId}|${d.highlight ?? ""}`;
 
 export function ChatSheet({
   open,
@@ -32,17 +39,22 @@ export function ChatSheet({
   const list = useRef<HTMLDivElement>(null);
   const asked = useRef(false);
 
-  // A new highlight or topic starts a fresh conversation.
+  // A new highlight or topic starts a fresh conversation; reopening the same one picks it back up.
   useEffect(() => {
     ctrl.current?.abort();
-    setMessages([]);
+    const prev = (threads.get(threadKey(data)) ?? []).filter((m) => m.content.trim() || m.error);
+    setMessages(prev);
     setDraft("");
     setStreaming(false);
-    asked.current = false;
+    asked.current = prev.length > 0;
   }, [data]);
 
   useEffect(() => {
-    list.current?.scrollTo({ top: list.current.scrollHeight, behavior: "smooth" });
+    if (messages.length) threads.set(threadKey(data), messages);
+  }, [messages, data]);
+
+  useEffect(() => {
+    list.current?.scrollTo({ top: list.current.scrollHeight, behavior: smooth() });
   }, [messages]);
 
   useEffect(() => () => ctrl.current?.abort(), []);
@@ -56,7 +68,7 @@ export function ChatSheet({
     }
     cue("tap");
     buzz(5);
-    const history: Msg[] = [...messages.filter((m) => !m.error), { role: "user", content: q }];
+    const history: Msg[] = [...messages.filter((m) => !m.error && m.content.trim()), { role: "user", content: q }];
     setMessages([...history, { role: "assistant", content: "" }]);
     setDraft("");
     setStreaming(true);
@@ -110,23 +122,25 @@ export function ChatSheet({
 
   return (
     <Sheet open={open} onClose={onClose} title="Ask Birdie" tall>
-      <div className="flex items-center justify-between pr-3 pl-6">
-        <h2 className="font-serif text-[17px] font-semibold text-strong">Ask Birdie</h2>
-        <IconButton label="Close" onClick={onClose} className="text-muted">
-          <X size={19} strokeWidth={1.8} />
-        </IconButton>
-      </div>
+      <SheetHeader title="Ask Birdie" onClose={onClose} />
 
       <div ref={list} className="no-scrollbar flex-1 overflow-y-auto overscroll-contain px-6 pb-4" data-vaul-no-drag>
         {(data.highlight || topic) && (
           <figure className="mt-1 rounded-xl bg-inset px-4 py-3">
-            <Kicker>From {topic?.title ?? "this topic"}</Kicker>
+            <p className="font-serif text-[14px] text-muted">
+              From <span className="italic">{topic?.title ?? "this topic"}</span>
+            </p>
             {data.highlight && (
-              <blockquote className="mt-1.5 font-serif text-[16px] leading-[1.5] text-text italic">“{data.highlight}”</blockquote>
+              <blockquote className="mt-1.5 font-serif text-[16px] leading-[1.5] text-text italic">“{data.highlight.replace(/^["“”'‘’\s]+|["“”'‘’\s]+$/g, "")}”</blockquote>
             )}
           </figure>
         )}
 
+        {!messages.length && (
+          <p className="mt-6 font-serif text-[15px] leading-relaxed text-muted">
+            {data.highlight ? "Ask anything about this passage." : "Ask anything about this piece."} Birdie answers in a few short paragraphs.
+          </p>
+        )}
         <div className="mt-5 flex flex-col gap-4">
           {messages.map((m, i) =>
             m.role === "user" ? (
@@ -162,13 +176,13 @@ export function ChatSheet({
               transition={{ duration: 0.2, ease: [0.23, 1, 0.32, 1] }}
               className="overflow-hidden"
             >
-              <div className="flex flex-wrap gap-2 pb-3">
-                {STARTERS.map((s) => (
+              <div className="no-scrollbar -mx-6 flex gap-2 overflow-x-auto px-6 pb-3">
+                {(data.highlight ? STARTERS : TOPIC_STARTERS).map((s) => (
                   <button
                     key={s}
                     type="button"
                     onClick={() => send(s)}
-                    className="press h-11 rounded-full border border-chip px-4 font-serif text-[14.5px] text-text"
+                    className="press h-11 shrink-0 rounded-full border border-chip px-4 font-serif text-[14.5px] whitespace-nowrap text-text"
                   >
                     {s}
                   </button>

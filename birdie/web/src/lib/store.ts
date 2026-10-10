@@ -13,6 +13,8 @@ export interface AppState {
   saved: Saved[];
   generated: Record<string, Topic>;
   recentSearches: string[];
+  /** Last time the app was in use, so a "session" means a real break, not a reload. */
+  lastActiveAt: number;
 }
 
 const KEY = "birdie.state.v1";
@@ -36,20 +38,71 @@ function initial(): AppState {
     saved: [],
     generated: {},
     recentSearches: [],
+    lastActiveAt: 0,
+  };
+}
+
+const THEMES = ["dark", "sepia", "light"] as const;
+const isObj = (v: unknown): v is Record<string, unknown> => !!v && typeof v === "object" && !Array.isArray(v);
+const clampInt = (v: unknown, lo: number, hi: number, d: number) =>
+  typeof v === "number" && Number.isFinite(v) ? Math.min(hi, Math.max(lo, Math.round(v))) : d;
+
+/** Accept only what the app can render: a bad or old save must never crash the reader. */
+function sanitize(parsed: unknown): AppState {
+  const base = initial();
+  if (!isObj(parsed)) return base;
+  const p = isObj(parsed.prefs) ? parsed.prefs : {};
+  const lab = isObj(p.lab) ? p.lab : {};
+  const prefs: Prefs = {
+    ...base.prefs,
+    ...p,
+    theme: THEMES.includes(p.theme as never) ? (p.theme as Prefs["theme"]) : base.prefs.theme,
+    size: clampInt(p.size, 0, 4, base.prefs.size),
+    spacing: clampInt(p.spacing, 0, 2, base.prefs.spacing),
+    sound: typeof p.sound === "boolean" ? p.sound : base.prefs.sound,
+    haptics: typeof p.haptics === "boolean" ? p.haptics : base.prefs.haptics,
+    lab: { ...base.prefs.lab, ...lab } as Prefs["lab"],
+  };
+  let profile: Profile | null = null;
+  if (isObj(parsed.profile)) {
+    const pr = parsed.profile;
+    const picked = (Array.isArray(pr.picked) ? pr.picked : []).filter((c): c is Category => typeof c === "string");
+    const fresh = createProfile(picked);
+    profile = {
+      picked,
+      cat: isObj(pr.cat) ? { ...fresh.cat, ...(pr.cat as Record<string, number>) } : fresh.cat,
+      tag: isObj(pr.tag) ? (pr.tag as Record<string, number>) : {},
+      seen: (Array.isArray(pr.seen) ? pr.seen : []).filter((x): x is Profile["seen"][number] => isObj(x) && typeof x.id === "string"),
+      sessions: typeof pr.sessions === "number" ? pr.sessions : 0,
+    };
+  }
+  const generated: Record<string, Topic> = {};
+  if (isObj(parsed.generated)) {
+    for (const [k, v] of Object.entries(parsed.generated)) {
+      if (isObj(v) && typeof v.title === "string" && Array.isArray(v.bullets)) generated[k] = v as unknown as Topic;
+    }
+  }
+  const onboarded = parsed.onboarded === true && !!profile && profile.picked.length > 0;
+  return {
+    ...base,
+    onboarded,
+    tour: onboarded ? clampInt(parsed.tour, 0, 3, 0) : 0,
+    profile,
+    prefs,
+    // A save whose article was never written (demo placeholder, failed job) can't be opened: drop it.
+    saved: (Array.isArray(parsed.saved) ? parsed.saved : []).filter(
+      (x): x is Saved => isObj(x) && typeof x.id === "string" && (!!CORPUS_BY_ID[x.id] || !!generated[x.id]),
+    ),
+    generated,
+    recentSearches: (Array.isArray(parsed.recentSearches) ? parsed.recentSearches : []).filter((x): x is string => typeof x === "string").slice(0, 8),
+    lastActiveAt: typeof parsed.lastActiveAt === "number" ? parsed.lastActiveAt : 0,
   };
 }
 
 function load(): AppState {
   try {
     const raw = localStorage.getItem(KEY);
-    if (!raw) return initial();
-    const parsed = JSON.parse(raw) as Partial<AppState>;
-    const base = initial();
-    return {
-      ...base,
-      ...parsed,
-      prefs: { ...base.prefs, ...parsed.prefs, lab: { ...base.prefs.lab, ...parsed.prefs?.lab } },
-    };
+    return raw ? sanitize(JSON.parse(raw)) : initial();
   } catch {
     return initial();
   }
@@ -67,7 +120,16 @@ function flush() {
   try {
     localStorage.setItem(KEY, JSON.stringify(state));
   } catch {
-    /* storage full or blocked: the app keeps working in memory */
+    // Storage full: drop the older half of written topics (not saved ones) and try once more.
+    try {
+      const keep = new Set(state.saved.map((x) => x.id));
+      const ids = Object.keys(state.generated).filter((id) => !keep.has(id));
+      const generated = { ...state.generated };
+      for (const id of ids.slice(0, Math.ceil(ids.length / 2))) delete generated[id];
+      localStorage.setItem(KEY, JSON.stringify({ ...state, generated }));
+    } catch {
+      /* blocked entirely (private mode): the app keeps working in memory */
+    }
   }
 }
 
@@ -80,9 +142,15 @@ function persist() {
 
 if (typeof window !== "undefined") {
   // Never lose the last change when the app is closed or backgrounded.
-  window.addEventListener("pagehide", flush);
-  window.addEventListener("beforeunload", flush);
-  document.addEventListener("visibilitychange", () => document.visibilityState === "hidden" && flush());
+  // A break starts when the app is hidden or closed; that moment decides the next session.
+  const leave = () => {
+    state = { ...state, lastActiveAt: Date.now() };
+    dirty = true;
+    flush();
+  };
+  window.addEventListener("pagehide", leave);
+  window.addEventListener("beforeunload", leave);
+  document.addEventListener("visibilitychange", () => document.visibilityState === "hidden" && leave());
   // The desktop phone-frame viewer (viewer.html) can ask for a fresh start.
   window.addEventListener("message", (e) => {
     if (e.origin !== location.origin || e.source !== window.parent || e.data?.birdie !== "reset") return;
@@ -133,8 +201,12 @@ export function updateInterests(picked: Category[]) {
   setState((s) => ({ profile: s.profile ? repick(s.profile, picked) : createProfile(picked) }));
 }
 
+const SESSION_GAP = 30 * 60 * 1000;
+
+/** Tastes fade a little per real session (a 30-minute break), never per reload. */
 export function startSession() {
-  setState((s) => (s.profile ? { profile: drift(s.profile) } : {}));
+  const now = Date.now();
+  setState((s) => (s.profile && now - s.lastActiveAt > SESSION_GAP ? { profile: drift(s.profile), lastActiveAt: now } : { lastActiveAt: now }));
 }
 
 export function setTour(step: number) {
@@ -181,8 +253,22 @@ export function toggleSaved(id: string): boolean {
   return on;
 }
 
+const MAX_GENERATED = 150;
+
+/** Keep written topics, oldest first out, but never ones that are saved or recently read. */
 export function addGenerated(t: Topic) {
-  setState((s) => ({ generated: { ...s.generated, [t.id]: t } }));
+  setState((s) => {
+    const generated = { ...s.generated, [t.id]: t };
+    const ids = Object.keys(generated);
+    if (ids.length > MAX_GENERATED) {
+      const keep = new Set([t.id, ...s.saved.map((x) => x.id), ...(s.profile?.seen.slice(0, 50).map((x) => x.id) ?? [])]);
+      for (const id of ids) {
+        if (Object.keys(generated).length <= MAX_GENERATED) break;
+        if (!keep.has(id)) delete generated[id];
+      }
+    }
+    return { generated };
+  });
 }
 
 export function addRecentSearch(q: string) {
@@ -202,6 +288,7 @@ export function resetEverything() {
   dirty = false;
   try {
     localStorage.removeItem(KEY);
+    sessionStorage.removeItem("birdie.resume.v1");
   } catch {
     /* ignore */
   }

@@ -1,9 +1,18 @@
+import { useEffect, useRef } from "react";
+import { toast } from "sonner";
 import { Sheet } from "./ui";
 import { InterestPicker } from "./Onboarding";
 import { closeOverlay } from "@/lib/ui";
-import { toast } from "sonner";
+import { getState, updateInterests } from "@/lib/store";
+import type { Category } from "@/lib/types";
 
 export function InterestsSheet({ open, onClose }: { open: boolean; onClose: () => void }) {
+  // What the reader had when they opened the sheet, so a save can be undone.
+  const before = useRef<Category[]>([]);
+  useEffect(() => {
+    if (open) before.current = [...(getState().profile?.picked ?? [])];
+  }, [open]);
+
   return (
     <Sheet open={open} onClose={onClose} title="Edit interests" tall>
       <div className="no-scrollbar flex-1 overflow-y-auto" data-vaul-no-drag>
@@ -11,8 +20,12 @@ export function InterestsSheet({ open, onClose }: { open: boolean; onClose: () =
           <InterestPicker
             mode="edit"
             onDone={() => {
+              const prev = before.current;
               closeOverlay();
-              toast("Interests updated. New topics will follow them.", { duration: 2400 });
+              toast("Interests updated. New topics will follow them.", {
+                action: { label: "Undo", onClick: () => updateInterests(prev) },
+                duration: 3200,
+              });
             }}
           />
         )}

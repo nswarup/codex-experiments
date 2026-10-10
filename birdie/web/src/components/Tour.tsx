@@ -1,3 +1,4 @@
+import { smooth } from "@/lib/motion";
 import { useEffect, useLayoutEffect, useRef, useState } from "react";
 import { AnimatePresence, motion } from "motion/react";
 import { MessageSquare } from "lucide-react";
@@ -23,6 +24,7 @@ const STEPS = [
 ] as const;
 
 const GAP = 14;
+const ARROW_H = 10;
 const EDGE = 16;
 const EASE = [0.23, 1, 0.32, 1] as const;
 
@@ -48,11 +50,17 @@ function measureTarget(target: string): Box | null {
   const r = area.getBoundingClientRect();
   const first = el.getClientRects()[0] ?? el.getBoundingClientRect();
   const pad = target === "search" ? 4 : 8;
+  // A long lede would leave no room for the tooltip: spotlight its first three lines.
+  let height = r.height;
+  if (target === "lede") {
+    const lh = parseFloat(getComputedStyle(el).lineHeight) || 28;
+    height = Math.min(r.height, lh * 3);
+  }
   return {
     top: r.top - pad,
     left: r.left - pad,
     width: r.width + pad * 2,
-    height: r.height + pad * 2,
+    height: height + pad * 2,
     pointX: target === "opening" ? first.left + Math.min(first.width / 2, 70) : r.left + r.width / 2,
   };
 }
@@ -79,8 +87,12 @@ export function Tour() {
       const el = find(s.target);
       if (scrolled || !el) return;
       scrolled = true;
+      // Park the target high on screen so the tooltip fits underneath and the title stays readable
+      // above an opening; the lede sits just under the top bar.
       const r = el.getBoundingClientRect();
-      if (r.top < 80 || r.bottom > window.innerHeight * 0.55) el.scrollIntoView({ block: "center", behavior: "instant" as ScrollBehavior });
+      const want = s.target === "lede" ? 96 : window.innerHeight * 0.3;
+      const scroller = el.closest<HTMLElement>('[data-scroller="feed"]');
+      if (scroller && Math.abs(r.top - want) > 24) scroller.scrollTop += r.top - want;
     };
     const measure = () => {
       reveal();
@@ -101,29 +113,40 @@ export function Tour() {
     };
   }, [s]);
 
-  // The tooltip's real size decides where it can go.
+  // The tooltip's real size decides where it can go. Only while the tour runs, and only on
+  // real size changes: the ResizeObserver covers late font loads and wrapping.
   useLayoutEffect(() => {
     const el = tipRef.current;
-    if (!el) return;
-    // Layout metrics, not getBoundingClientRect: the entry scale must not feed back into placement.
+    if (!active || !el) return;
     const read = () => {
-      const r = { w: el.offsetWidth, h: el.offsetHeight, left: el.offsetLeft };
+      // Card height plus a constant for the arrow: whether the arrow sits above or below
+      // must never change the measurement, or placement would flip back and forth.
+      const card = el.querySelector<HTMLElement>("[data-tip-card]");
+      const r = { w: el.offsetWidth, h: (card?.offsetHeight ?? el.offsetHeight) + ARROW_H, left: el.offsetLeft };
+      if (!r.w) return;
       setTip((t) => (t && t.w === r.w && t.h === r.h && t.left === r.left ? t : r));
     };
     read();
     const ro = new ResizeObserver(read);
     ro.observe(el);
     return () => ro.disconnect();
-  });
+  }, [active, step, !!box]);
 
   useEffect(() => {
     if (!active) setBox(null);
   }, [active]);
 
+  useEffect(() => {
+    if (!active) return;
+    const onKey = (e: KeyboardEvent) => e.key === "Escape" && skip();
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  });
+
   // Leave the reader at the top of the first topic, wherever the tour scrolled to.
   const finish = () => {
     setTour(0);
-    document.querySelector('[data-scroller="feed"]')?.scrollTo({ top: 0, behavior: "smooth" });
+    document.querySelector('[data-scroller="feed"]')?.scrollTo({ top: 0, behavior: smooth() });
   };
 
   const next = () => {
@@ -153,7 +176,7 @@ export function Tour() {
     const fitsBelow = box.top + box.height + GAP + tipH + EDGE <= vh;
     const fitsAbove = box.top - GAP - tipH >= EDGE;
     const lowerHalf = box.top + box.height / 2 > vh / 2;
-    if (fitsBelow && !(lowerHalf && fitsAbove)) {
+    if (fitsBelow && (step === 1 || !(lowerHalf && fitsAbove))) {
       placement = "below";
       top = box.top + box.height + GAP;
     } else if (fitsAbove) {
@@ -204,7 +227,7 @@ export function Tour() {
               transition={{ duration: 0.22, ease: EASE }}
             >
               {placement === "below" && <Arrow x={arrowX} up />}
-              <div className="rounded-2xl bg-strong px-5 py-[18px] text-bg" style={{ boxShadow: "var(--shadow)" }}>
+              <div data-tip-card className="rounded-2xl bg-strong px-5 py-[18px] text-bg" style={{ boxShadow: "var(--shadow)" }}>
                 <div className="font-mono text-[11.5px] font-medium tracking-[0.1em] uppercase opacity-70">
                   {step} of {STEPS.length}
                 </div>

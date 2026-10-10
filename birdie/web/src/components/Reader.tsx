@@ -1,7 +1,8 @@
-import { useEffect, useRef } from "react";
+import { useEffect, useLayoutEffect, useRef } from "react";
 import { AnimatePresence, animate, motion, useMotionValue, useTransform } from "motion/react";
-import { useApp } from "@/lib/store";
-import { popPage, useUi, type Page } from "@/lib/ui";
+import { getState, getTopic, useApp } from "@/lib/store";
+import { getUi, openOverlay, popPage, pushTopic, useUi, type Page } from "@/lib/ui";
+import { smooth } from "@/lib/motion";
 import { cue } from "@/lib/feedback";
 import { Feed } from "./Feed";
 import { TopicPage } from "./TopicPage";
@@ -11,10 +12,77 @@ import { Tour } from "./Tour";
 
 const EASE = [0.32, 0.72, 0, 1] as const; // iOS-like drawer curve
 
+// The element focused just before any tap or key, captured before navigation changes it.
+let lastFocus: Element | null = null;
+if (typeof document !== "undefined") {
+  const track = () => {
+    const a = document.activeElement;
+    if (a && a !== document.body && !(a as HTMLElement).closest?.("[role=dialog]")) lastFocus = a;
+  };
+  document.addEventListener("pointerdown", track, true);
+  document.addEventListener("keydown", track, true);
+}
+
+/** Desktop: / to search, Esc to go back, j / k for the next or previous topic in the feed. */
+function useShortcuts(depth: number) {
+  useEffect(() => {
+    const onKey = (e: KeyboardEvent) => {
+      if (e.metaKey || e.ctrlKey || e.altKey || e.defaultPrevented) return;
+      const t = e.target as HTMLElement | null;
+      if (t && (t.closest("input, textarea, [contenteditable=true]") || t.closest("[role=dialog]"))) return;
+      if (getUi().overlay) return;
+      if (e.key === "/") {
+        e.preventDefault();
+        openOverlay({ kind: "search" });
+      } else if (e.key === "Escape" && depth > 1) {
+        popPage();
+      } else if ((e.key === "j" || e.key === "k") && depth === 1) {
+        const feed = document.querySelector<HTMLElement>('[data-scroller="feed"]');
+        if (!feed) return;
+        const top = feed.getBoundingClientRect().top + 64;
+        const arts = [...feed.querySelectorAll<HTMLElement>("[data-article]")];
+        const next =
+          e.key === "j"
+            ? arts.find((a) => a.getBoundingClientRect().top > top + 4)
+            : [...arts].reverse().find((a) => a.getBoundingClientRect().top < top - 4);
+        if (next) feed.scrollTo({ top: feed.scrollTop + next.getBoundingClientRect().top - top + 16, behavior: smooth() });
+      }
+    };
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  }, [depth]);
+}
+
 export function Reader() {
   const stack = useUi((s) => s.stack);
   const transition = useApp((s) => s.prefs.lab.transition);
   const depth = stack.length;
+  useShortcuts(depth);
+
+  // A shared link (#topic-id) opens that topic on top of the feed.
+  useEffect(() => {
+    const id = decodeURIComponent(location.hash.slice(1));
+    if (!id) return;
+    try {
+      history.replaceState(history.state, "", location.pathname + location.search);
+    } catch {
+      /* sandboxed */
+    }
+    if (getTopic(id) && getState().tour === 0) pushTopic(id);
+  }, []);
+
+  // Back returns focus to whatever opened the page (a nudge, a peek's Read).
+  const openers = useRef<(Element | null)[]>([]);
+  const prevDepth = useRef(depth);
+  useLayoutEffect(() => {
+    if (depth > prevDepth.current) openers.current.push(lastFocus);
+    else if (depth < prevDepth.current) {
+      let el: Element | null | undefined = null;
+      for (let i = depth; i < prevDepth.current; i++) el = openers.current.pop();
+      if (el instanceof HTMLElement && el.isConnected) window.setTimeout(() => el.focus({ preventScroll: true }), 60);
+    }
+    prevDepth.current = depth;
+  }, [depth]);
 
   return (
     <div className="fixed inset-0 overflow-hidden bg-bg">
@@ -78,6 +146,7 @@ function PageLayer({
   const drag = useRef<{ startX: number; startT: number; id: number } | null>(null);
   const onPointerDown = (e: React.PointerEvent) => {
     if (!isTop || drag.current) return; // ignore extra fingers mid-drag
+    if (e.pointerType === "mouse") return; // a desktop click near the edge isn't a swipe
     drag.current = { startX: e.clientX, startT: performance.now(), id: e.pointerId };
     (e.currentTarget as HTMLElement).setPointerCapture(e.pointerId);
   };
@@ -111,6 +180,18 @@ function PageLayer({
   useEffect(() => {
     if (isTop) x.set(0);
   }, [isTop, x]);
+
+  // Keyboard and screen-reader users land on the new page's title, not on <body>.
+  useEffect(() => {
+    if (!isTop) return;
+    const t = window.setTimeout(() => {
+      const h = ref.current?.querySelector<HTMLElement>("h1");
+      if (!h || ref.current?.contains(document.activeElement)) return;
+      h.tabIndex = -1;
+      h.focus({ preventScroll: true });
+    }, 80);
+    return () => window.clearTimeout(t);
+  }, [isTop]);
 
   const slide = transition === "slide";
   return (

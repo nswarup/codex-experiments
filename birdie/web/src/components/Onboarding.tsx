@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { AnimatePresence, motion } from "motion/react";
-import { Check } from "lucide-react";
 import { CATEGORY_BLURB, CATEGORY_LIST } from "@/content";
 import { finishOnboarding, updateInterests, useApp } from "@/lib/store";
 import type { Category } from "@/lib/types";
@@ -20,7 +19,8 @@ export function InterestPicker({ mode = "onboard", onDone }: { mode?: "onboard" 
   const existing = useApp((s) => s.profile?.picked ?? NONE);
   const [picked, setPicked] = useState<Category[]>(mode === "edit" ? existing : []);
   const n = picked.length;
-  const ready = n >= MIN;
+  const unchanged = mode === "edit" && n === existing.length && picked.every((c) => existing.includes(c));
+  const ready = n >= MIN && !unchanged;
 
   const toggle = (c: Category) => {
     const on = !picked.includes(c);
@@ -64,21 +64,11 @@ export function InterestPicker({ mode = "onboard", onDone }: { mode?: "onboard" 
                 animate={{ opacity: 1, transform: "translateY(0px)" }}
                 transition={{ duration: 0.3, delay: 0.08 + i * 0.025, ease: [0.23, 1, 0.32, 1] }}
                 className={cn(
-                  "press flex h-[46px] items-center gap-1.5 rounded-full border px-5 font-serif text-[16px] font-medium",
+                  // Filled means picked, like X's topic chips: no icon, so labels stay centred and rows never reflow.
+                  "press flex h-[46px] items-center rounded-full border px-5 font-serif text-[16px] font-medium transition-colors duration-150",
                   on ? "border-accent bg-accent text-accent-fg" : "border-chip bg-transparent text-text",
                 )}
               >
-                {/* Fixed slot so selecting never changes the chip's width or reflows the row. */}
-                <span aria-hidden="true" className="-ml-1 inline-flex h-4 w-4 items-center justify-center">
-                  <motion.span
-                    initial={false}
-                    animate={{ opacity: on ? 1 : 0, transform: on ? "scale(1)" : "scale(0.6)" }}
-                    transition={{ duration: 0.16, ease: [0.23, 1, 0.32, 1] }}
-                    className="inline-flex"
-                  >
-                    <Check size={16} strokeWidth={2.4} />
-                  </motion.span>
-                </span>
                 {c}
               </motion.button>
             );
@@ -88,7 +78,8 @@ export function InterestPicker({ mode = "onboard", onDone }: { mode?: "onboard" 
 
       <div
         className={cn(
-          "inset-x-0 bottom-0 border-t border-line bg-bg px-6 pt-5",
+          // A soft fade instead of a hard rule, so the last chips read as "more below".
+          "inset-x-0 bottom-0 bg-gradient-to-t from-bg from-75% to-transparent px-6 pt-8",
           mode === "onboard" ? "fixed pb-[calc(env(safe-area-inset-bottom,0px)+28px)]" : "sticky pb-[calc(env(safe-area-inset-bottom,0px)+20px)]",
         )}
       >
@@ -106,14 +97,14 @@ export function InterestPicker({ mode = "onboard", onDone }: { mode?: "onboard" 
           >
             <AnimatePresence mode="popLayout" initial={false}>
               <motion.span
-                key={ready ? "next" : `pick-${n}`}
+                key={ready ? "next" : unchanged ? "same" : `pick-${n}`}
                 initial={{ opacity: 0, filter: "blur(4px)", transform: "translateY(6px)" }}
                 animate={{ opacity: 1, filter: "blur(0px)", transform: "translateY(0px)" }}
                 exit={{ opacity: 0, filter: "blur(4px)", transform: "translateY(-6px)" }}
                 transition={{ duration: 0.2, ease: [0.23, 1, 0.32, 1] }}
                 className="inline-block"
               >
-                {ready ? (mode === "onboard" ? "Next" : "Save interests") : `Pick at least ${MIN} (${n}/${MIN})`}
+                {ready ? (mode === "onboard" ? "Next" : "Save interests") : unchanged ? "No changes yet" : `Pick at least ${MIN} (${n}/${MIN})`}
               </motion.span>
             </AnimatePresence>
           </button>

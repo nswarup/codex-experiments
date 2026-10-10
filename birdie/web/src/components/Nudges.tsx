@@ -47,7 +47,7 @@ export function Nudges({ topic, exclude }: { topic: Topic; exclude?: string[] })
                 <span className="font-mono text-[11px] tracking-[0.1em] text-muted uppercase">Something different</span>
               )}
               <span className="font-serif text-[17px] leading-snug font-semibold text-strong">{t.title}</span>
-              <span className="font-mono text-[13px] leading-[1.45] text-muted">
+              <span className="line-clamp-2 font-mono text-[13px] leading-[1.45] text-muted">
                 <span className="font-medium tracking-[0.08em] text-text">{t.category.toUpperCase()}</span> · {t.hook}
               </span>
             </button>

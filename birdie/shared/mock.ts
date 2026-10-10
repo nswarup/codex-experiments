@@ -29,7 +29,8 @@ export function mockTopic(query: string, _howTo: string = SERVER_HOWTO, category
 
 export function mockChat(hint: { highlight?: string; topicTitle?: string }, howTo?: string): string {
   const about = hint.topicTitle ? `"${hint.topicTitle}"` : "this topic";
-  const quote = hint.highlight ? ` You highlighted: "${hint.highlight.slice(0, 120)}${hint.highlight.length > 120 ? "…" : ""}".` : "";
+  const h = hint.highlight?.replace(/^["“”'‘’\s]+|["“”'‘’\s]+$/g, "");
+  const quote = h ? ` You highlighted: “${h.slice(0, 120)}${h.length > 120 ? "…" : ""}”.` : "";
   return `Birdie is in demo mode right now, so I can't answer questions about ${about} yet.${quote}
 
 ${howTo ?? "Connect Claude and I'll answer properly: set ANTHROPIC_API_KEY before starting the server, or run Birdie on a machine where Claude Code is installed and logged in."}

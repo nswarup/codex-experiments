@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useState } from "react";
-import { useUi, closeOverlay, type Overlay } from "@/lib/ui";
+import { useUi, closeOverlay, openOverlay, getUi, type Overlay } from "@/lib/ui";
 import { cue } from "@/lib/feedback";
 import { PeekSheet } from "./Peek";
 import { ChatSheet } from "./Chat";
@@ -26,7 +26,10 @@ export function Overlays() {
   const is = (k: Kind) => overlay?.kind === k;
   const close = useCallback(() => {
     cue("close", { emphasis: "subtle" });
-    closeOverlay();
+    // A sheet opened from Settings returns to Settings, like a drill-down.
+    const cur = getUi().overlay;
+    if (cur && "back" in cur && cur.back === "settings") openOverlay({ kind: "settings" });
+    else closeOverlay();
   }, []);
   const get = <K extends Kind>(k: K) => (overlay?.kind === k ? overlay : last[k]) as Extract<Overlay, { kind: K }> | undefined;
 

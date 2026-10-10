@@ -1,7 +1,7 @@
-import { Bookmark, BookmarkCheck, X } from "lucide-react";
+import { Bookmark, BookmarkCheck, RotateCw, X } from "lucide-react";
 import { toast } from "sonner";
 import { getTopic, recordTap, toggleSaved, useApp } from "@/lib/store";
-import { readyTopic, useJob } from "@/lib/generate";
+import { readyTopic, retryTopic, useJob } from "@/lib/generate";
 import { pushTopic, type Overlay } from "@/lib/ui";
 import { cue, buzz } from "@/lib/feedback";
 import { Button, IconButton, Kicker, Sheet } from "./ui";
@@ -40,7 +40,7 @@ export function PeekSheet({
     const on = toggleSaved(targetId);
     cue("toggle", { direction: on ? "forward" : "back" });
     buzz(on ? [6, 30, 6] : 6);
-    if (on) toast("Saved for later", { duration: 2200 });
+    if (on) toast("Saved for later", { action: { label: "Undo", onClick: () => toggleSaved(targetId) }, duration: 2600 });
   };
 
   return (
@@ -64,11 +64,23 @@ export function PeekSheet({
             <p className="text-muted">{job?.error}</p>
           ) : null}
         </div>
-        <div className="mt-6 grid grid-cols-[minmax(0,1fr)_auto] gap-2.5">
-          <Button size="lg" onClick={read} disabled={failed}>
-            Read
-          </Button>
-          <Button size="lg" variant="secondary" onClick={save} aria-pressed={saved} className="px-5 font-normal whitespace-nowrap">
+        <div className="mt-6 grid grid-cols-2 gap-2.5">
+          {failed ? (
+            <Button
+              size="lg"
+              onClick={() => {
+                cue("tap");
+                retryTopic(targetId);
+              }}
+            >
+              <RotateCw size={17} strokeWidth={1.8} /> Try again
+            </Button>
+          ) : (
+            <Button size="lg" onClick={read}>
+              Read
+            </Button>
+          )}
+          <Button size="lg" variant="secondary" onClick={save} aria-pressed={saved} disabled={failed} className="px-4 font-normal whitespace-nowrap">
             {saved ? <BookmarkCheck size={18} strokeWidth={1.7} /> : <Bookmark size={18} strokeWidth={1.7} />}
             {saved ? "Saved" : "Save for later"}
           </Button>

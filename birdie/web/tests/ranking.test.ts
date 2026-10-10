@@ -133,3 +133,23 @@ describe("pickNudges", () => {
     expect(close.map((t) => t.category)).not.toContain(wildcard!.category);
   });
 });
+
+describe("novelty", () => {
+  it("prefers unread topics over ones read long ago", () => {
+    const p = createProfile(["Music"] as Category[]);
+    const music = CORPUS.filter((t) => t.category === "Music");
+    // Read every Music topic but one, long enough ago to fall outside the recent window.
+    const unread = music[music.length - 1];
+    const old = music.slice(0, -1).map((t, i) => ({ id: t.id, at: i }));
+    const filler = CORPUS.filter((t) => t.category !== "Music").slice(0, 25).map((t, i) => ({ id: t.id, at: 1000 + i }));
+    const profile = { ...p, seen: [...filler, ...old] };
+    const rng = seededRng(5);
+    let hits = 0;
+    for (let i = 0; i < 400; i++) {
+      const r = pickNext(profile, music, rng, new Set(), { allowWildcard: false });
+      if (r?.topic.id === unread.id) hits++;
+    }
+    // Uniform would be about 1/5 of the top five; novelty should clearly beat that.
+    expect(hits / 400).toBeGreaterThan(0.3);
+  });
+});

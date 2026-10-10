@@ -18,6 +18,8 @@
         var s = JSON.parse(localStorage.getItem("birdie.state.v1") || "{}");
         var t = (s.prefs && s.prefs.theme) || "dark";
         document.documentElement.dataset.readerTheme = t;
+        var c = { dark: "#121212", sepia: "#f4ecd8", light: "#fbfaf7" }[t];
+        if (c) document.querySelector('meta[name="theme-color"]').setAttribute("content", c);
       } catch (e) {}
     </script>
   </head>

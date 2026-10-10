@@ -14,11 +14,13 @@
   --strong: #e2dbcd;
   --muted: #9a9284;
   --dot: #7e7666;
-  --line: #2a2825;
-  --card: #1a1917;
+  --line: #322f2b;
+  --card: #1d1c19;
   --sheet: #1c1b19;
   --sheet-line: #2e2c28;
   --inset: #252320;
+  --seg-on: #3a3732;
+  --danger: #d88a72;
   --accent: #cfc8ba;
   --accent-fg: #121212;
   --chip: #6e685d;
@@ -33,13 +35,15 @@
   --bg: #f4ecd8;
   --text: #5b4636;
   --strong: #3f2f22;
-  --muted: #7a6550;
+  --muted: #6b5743;
   --dot: #8f7a60;
   --line: #e2d6bc;
   --card: #efe4cc;
   --sheet: #f8f1e1;
   --sheet-line: #e2d6bc;
   --inset: #ebdfc4;
+  --seg-on: #fbf6ea;
+  --danger: #a4442c;
   --accent: #5b4636;
   --accent-fg: #f8f1e1;
   --chip: #9a8465;
@@ -56,12 +60,14 @@
   --strong: #111111;
   --muted: #5f5b55;
   --dot: #8a847a;
-  --line: #e8e5df;
-  --card: #f4f2ee;
+  --line: #e3dfd7;
+  --card: #f3f0ea;
   --sheet: #ffffff;
   --sheet-line: #e8e5df;
   --inset: #f1eee8;
-  --accent: #1c1c1c;
+  --seg-on: #ffffff;
+  --danger: #b23c22;
+  --accent: #2a2723;
   --accent-fg: #fbfaf7;
   --chip: #969083;
   --hl: #f2e3b5;
@@ -244,9 +250,43 @@ a,
   *::after {
     animation-duration: 1ms !important;
     animation-iteration-count: 1 !important;
+    transition-duration: 1ms !important;
     scroll-behavior: auto !important;
   }
   .press:active {
     transform: none;
   }
+}
+
+/* A single 120-letter word or a pasted URL must wrap, never push the page sideways. */
+[data-article],
+[data-article] h1,
+[role="dialog"] h2,
+[role="dialog"] p {
+  overflow-wrap: anywhere;
+}
+
+/* A slow breath, not a wobble: something is happening, nothing demands attention. */
+@keyframes writing-pulse {
+  0%,
+  100% {
+    opacity: 0.45;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+.writing-pulse {
+  animation: writing-pulse 1.6s ease-in-out infinite;
+}
+
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation-duration: 260ms;
+  animation-timing-function: var(--ease-out);
+}
+
+/* Programmatic focus (a new page's title) moves the screen reader, not a visible ring. */
+[tabindex="-1"]:focus {
+  outline: none;
 }

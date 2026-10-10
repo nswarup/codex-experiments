@@ -7,6 +7,25 @@ export interface StreamHandlers {
 
 export class StreamError extends Error {}
 
+/** A short, human sentence for a failed request; never raw JSON or status codes. */
+async function friendlyError(res: Response): Promise<string> {
+  let msg = "";
+  try {
+    const text = await res.text();
+    try {
+      const j = JSON.parse(text) as { error?: unknown };
+      if (typeof j.error === "string") msg = j.error;
+    } catch {
+      if (text.length < 160 && !/[<{]/.test(text)) msg = text;
+    }
+  } catch {
+    /* no body */
+  }
+  if (res.status === 429) return "Birdie needs a short breather. Try again in a minute.";
+  if (res.status >= 500) return "Birdie's writer is having a moment. Try again shortly.";
+  return msg || "Something went wrong. Try again.";
+}
+
 async function stream(path: string, body: unknown, h: StreamHandlers, signal?: AbortSignal) {
   let res: Response;
   try {
@@ -18,11 +37,14 @@ async function stream(path: string, body: unknown, h: StreamHandlers, signal?: A
     });
   } catch (e) {
     if ((e as Error).name === "AbortError") throw e;
-    throw new StreamError("Birdie can't reach its server. Is it running?");
+    throw new StreamError(
+      typeof navigator !== "undefined" && navigator.onLine === false
+        ? "You're offline. The built-in topics still work, and Birdie will try again when you're back."
+        : "Birdie can't reach its writer right now. The built-in topics still work.",
+    );
   }
   if (!res.ok || !res.body) {
-    const msg = await res.text().catch(() => "");
-    throw new StreamError(msg || `Server error ${res.status}`);
+    throw new StreamError(await friendlyError(res));
   }
   const reader = res.body.getReader();
   const decoder = new TextDecoder();

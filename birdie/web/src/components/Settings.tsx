@@ -1,10 +1,11 @@
 import { useState } from "react";
-import { ChevronDown, ChevronRight, X } from "lucide-react";
+import { flushSync } from "react-dom";
+import { ChevronDown, ChevronRight } from "lucide-react";
 import { AnimatePresence, motion } from "motion/react";
 import { resetEverything, setTour, updateLab, updatePrefs, useApp } from "@/lib/store";
 import { openOverlay, popToFeed } from "@/lib/ui";
 import { cue } from "@/lib/feedback";
-import { IconButton, Segmented, Sheet, Switch } from "./ui";
+import { IconButton, Segmented, Sheet, SheetHeader, Switch } from "./ui";
 import { cn } from "@/lib/cn";
 import type { Theme } from "@/lib/types";
 
@@ -32,6 +33,19 @@ function Row({ label, onClick }: { label: string; onClick: () => void }) {
   );
 }
 
+/** Cross-fade the whole screen between themes where the browser can; otherwise switch at once. */
+function switchTheme(theme: Theme) {
+  const apply = () => {
+    document.documentElement.dataset.readerTheme = theme;
+    flushSync(() => updatePrefs({ theme }));
+  };
+  const doc = document as Document & { startViewTransition?: (cb: () => void) => unknown };
+  if (doc.startViewTransition && !matchMedia("(prefers-reduced-motion: reduce)").matches) doc.startViewTransition(apply);
+  else apply();
+}
+
+const CAN_VIBRATE = typeof navigator !== "undefined" && "vibrate" in navigator;
+
 export function SettingsSheet({ open, onClose }: { open: boolean; onClose: () => void }) {
   const prefs = useApp((s) => s.prefs);
   const [labOpen, setLabOpen] = useState(false);
@@ -39,13 +53,8 @@ export function SettingsSheet({ open, onClose }: { open: boolean; onClose: () =>
 
   return (
     <Sheet open={open} onClose={onClose} title="Settings">
-      <div className="no-scrollbar overflow-y-auto px-6 pt-1 pb-[calc(env(safe-area-inset-bottom,0px)+28px)]" data-vaul-no-drag>
-        <div className="flex h-11 items-center justify-between">
-          <h2 className="font-serif text-[17px] font-semibold text-strong">Settings</h2>
-          <IconButton label="Close" onClick={onClose} className="-mr-3 text-muted">
-            <X size={19} strokeWidth={1.8} />
-          </IconButton>
-        </div>
+      <SheetHeader title="Settings" onClose={onClose} />
+      <div className="no-scrollbar min-h-0 overflow-y-auto px-6 pb-[calc(env(safe-area-inset-bottom,0px)+28px)]" data-vaul-no-drag>
 
         <div className="mt-2 flex flex-col gap-6">
           <Section title="Theme">
@@ -60,7 +69,7 @@ export function SettingsSheet({ open, onClose }: { open: boolean; onClose: () =>
                     aria-checked={on}
                     onClick={() => {
                       cue("select", { emphasis: "subtle" });
-                      updatePrefs({ theme: t.value });
+                      switchTheme(t.value);
                     }}
                     className={cn("press flex h-16 flex-col items-center justify-center rounded-xl font-serif text-[15px] ring-inset", on ? "ring-2 ring-strong" : "ring-1 ring-chip")}
                     style={{ background: t.bg, color: t.fg }}
@@ -98,7 +107,7 @@ export function SettingsSheet({ open, onClose }: { open: boolean; onClose: () =>
                       cue("select", { direction: i > prefs.size ? "forward" : "back", emphasis: "subtle" });
                       updatePrefs({ size: i });
                     }}
-                    className="flex h-11 w-7 items-center justify-center"
+                    className="flex h-11 w-9 items-center justify-center"
                   >
                     <span
                       className={cn(
@@ -149,13 +158,14 @@ export function SettingsSheet({ open, onClose }: { open: boolean; onClose: () =>
                   if (v) cue("toggle");
                 }}
               />
-              <Switch label="Haptics" checked={prefs.haptics} onChange={(v) => updatePrefs({ haptics: v })} />
+              {/* iPhones don't let web pages vibrate, so only offer it where it does something. */}
+              {CAN_VIBRATE && <Switch label="Haptics" checked={prefs.haptics} onChange={(v) => updatePrefs({ haptics: v })} />}
             </div>
           </Section>
 
           <Section title="You">
             <div className="flex flex-col divide-y divide-line font-serif text-[16px]">
-              <Row label="Edit interests" onClick={() => openOverlay({ kind: "interests" })} />
+              <Row label="Edit interests" onClick={() => openOverlay({ kind: "interests", back: "settings" })} />
               <Row
                 label="Replay the tour"
                 onClick={() => {
@@ -164,10 +174,10 @@ export function SettingsSheet({ open, onClose }: { open: boolean; onClose: () =>
                   setTour(1);
                 }}
               />
-              <Row label="Saved and history" onClick={() => openOverlay({ kind: "library", tab: "saved" })} />
+              <Row label="Saved and history" onClick={() => openOverlay({ kind: "library", tab: "saved", back: "settings" })} />
               <button
                 type="button"
-                className={cn("press h-12 text-left", confirmReset ? "font-semibold text-strong" : "text-muted")}
+                className={cn("press h-12 text-left text-[var(--danger)]", confirmReset && "font-semibold")}
                 onClick={() => {
                   // Two taps instead of confirm(): dialogs are blocked in embedded views.
                   if (!confirmReset) {
@@ -179,7 +189,7 @@ export function SettingsSheet({ open, onClose }: { open: boolean; onClose: () =>
                   location.reload();
                 }}
               >
-                {confirmReset ? "Tap again to erase everything on this device" : "Start over"}
+                {confirmReset ? "Tap again to erase your interests, saves and history" : "Start over…"}
               </button>
             </div>
           </Section>

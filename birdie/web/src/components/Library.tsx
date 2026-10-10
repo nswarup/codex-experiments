@@ -1,11 +1,11 @@
 import { useEffect, useState } from "react";
-import { BookmarkCheck, X } from "lucide-react";
+import { BookmarkCheck } from "lucide-react";
 import { toast } from "sonner";
 import { toggleSaved, useApp } from "@/lib/store";
 import { readyTopic } from "@/lib/generate";
 import { pushTopic } from "@/lib/ui";
 import { cue } from "@/lib/feedback";
-import { IconButton, Segmented, Sheet, BirdMark } from "./ui";
+import { IconButton, Segmented, Sheet, BirdMark, SheetHeader } from "./ui";
 
 const NONE: never[] = [];
 
@@ -27,10 +27,11 @@ export function LibrarySheet({ open, tab, onClose }: { open: boolean; tab?: "sav
   const [view, setView] = useState<"saved" | "history">(tab ?? "saved");
 
   useEffect(() => {
-    if (open) setView(tab ?? (saved.length ? "saved" : "history"));
+    if (open) setView(tab ?? (saved.some((r) => readyTopic(r.id)) ? "saved" : "history"));
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [open, tab]);
 
+  const savedCount = saved.filter((r) => readyTopic(r.id)).length;
   const rows = (view === "saved" ? saved : seen)
     .map((r) => ({ at: r.at, topic: readyTopic(r.id) }))
     .filter((r): r is { at: number; topic: NonNullable<ReturnType<typeof readyTopic>> } => !!r.topic)
@@ -38,12 +39,7 @@ export function LibrarySheet({ open, tab, onClose }: { open: boolean; tab?: "sav
 
   return (
     <Sheet open={open} onClose={onClose} title="Library" tall>
-      <div className="flex items-center justify-between pr-3 pl-6">
-        <h2 className="font-serif text-[17px] font-semibold text-strong">Your library</h2>
-        <IconButton label="Close" onClick={onClose} className="text-muted">
-          <X size={19} strokeWidth={1.8} />
-        </IconButton>
-      </div>
+      <SheetHeader title="Your library" onClose={onClose} />
       <div className="px-6 pt-1 pb-3">
         <Segmented
           label="Library section"
@@ -53,7 +49,7 @@ export function LibrarySheet({ open, tab, onClose }: { open: boolean; tab?: "sav
             setView(v);
           }}
           options={[
-            { value: "saved", label: `Saved${saved.length ? ` · ${saved.length}` : ""}` },
+            { value: "saved", label: `Saved${savedCount ? ` · ${savedCount}` : ""}` },
             { value: "history", label: "History" },
           ]}
         />

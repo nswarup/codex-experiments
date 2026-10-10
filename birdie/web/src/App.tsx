@@ -51,6 +51,16 @@ export function App() {
             fontFamily: "var(--font-serif)",
             fontSize: "15px",
             borderRadius: "14px",
+            minHeight: "52px",
+          },
+          actionButtonStyle: {
+            height: "36px",
+            padding: "0 14px",
+            borderRadius: "999px",
+            fontSize: "14px",
+            fontWeight: 600,
+            background: "var(--bg)",
+            color: "var(--strong)",
           },
         }}
       />

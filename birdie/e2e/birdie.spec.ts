@@ -152,6 +152,33 @@ test("rapid close → pop → search push keeps history and the stack in sync", 
   await expect(page.locator("#search-input")).toHaveCount(0);
 });
 
+test("a corrupt saved state recovers instead of crashing", async ({ page }) => {
+  await page.addInitScript(() => {
+    if (!sessionStorage.getItem("seeded")) {
+      sessionStorage.setItem("seeded", "1");
+      localStorage.setItem(
+        "birdie.state.v1",
+        JSON.stringify({ onboarded: true, profile: { picked: ["Music", "Math", "Food"] }, saved: null, prefs: { theme: "nope", size: 99 } }),
+      );
+    }
+  });
+  await page.goto("/");
+  await expect(page.locator("[data-article] h1").first()).toBeVisible();
+  await expect(page.getByText("Birdie tripped over something.")).toHaveCount(0);
+  await expect(page.locator("html")).toHaveAttribute("data-reader-theme", "dark");
+});
+
+test("Ask under an article opens chat without selecting text", async ({ page }) => {
+  await onboard(page);
+  await page.getByRole("button", { name: "Skip tour" }).click();
+  const article = page.locator("[data-article]").first();
+  await article.getByRole("button", { name: "Ask", exact: true }).scrollIntoViewIfNeeded();
+  await article.getByRole("button", { name: "Ask", exact: true }).click();
+  await expect(page.getByRole("button", { name: "Sum it up" })).toBeVisible();
+  await page.getByRole("button", { name: "Sum it up" }).click();
+  await expect(page.getByText("READ NEXT")).toBeVisible({ timeout: 15_000 });
+});
+
 test("no WCAG A/AA violations on the feed in all three themes", async ({ page }) => {
   await onboard(page);
   await page.getByRole("button", { name: "Skip tour" }).click();

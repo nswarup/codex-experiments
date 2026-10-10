@@ -116,6 +116,29 @@ export function Sheet({
   );
 }
 
+/** One header for every sheet: same height, same title size, same 44px close target. */
+export function SheetHeader({ title, onClose, children }: { title: ReactNode; onClose: () => void; children?: ReactNode }) {
+  return (
+    <div className="flex h-12 shrink-0 items-center justify-between gap-3 pr-3 pl-6">
+      <h2 className="min-w-0 truncate font-serif text-[17px] font-semibold text-strong">{title}</h2>
+      <div className="flex shrink-0 items-center">
+        {children}
+        <button
+          type="button"
+          aria-label="Close"
+          title="Close"
+          onClick={onClose}
+          className="press flex h-11 w-11 items-center justify-center rounded-full text-muted active:bg-inset"
+        >
+          <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" aria-hidden="true">
+            <path d="M18 6 6 18M6 6l12 12" />
+          </svg>
+        </button>
+      </div>
+    </div>
+  );
+}
+
 export function Segmented<T extends string | number>({
   value,
   options,
@@ -145,8 +168,8 @@ export function Segmented<T extends string | number>({
             aria-label={o.ariaLabel}
             onClick={() => onChange(o.value)}
             className={cn(
-              "press h-10 rounded-[9px] font-serif text-[15px] whitespace-nowrap",
-              on ? "bg-sheet font-semibold text-strong shadow-[0_1px_3px_rgba(0,0,0,0.18)]" : "text-muted",
+              "press h-10 rounded-[9px] font-serif text-[15px] whitespace-nowrap transition-colors duration-150",
+              on ? "bg-[var(--seg-on)] font-semibold text-strong shadow-[0_1px_3px_rgba(0,0,0,0.18)]" : "text-muted",
             )}
           >
             {o.label}

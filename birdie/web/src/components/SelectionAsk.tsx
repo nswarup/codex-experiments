@@ -26,6 +26,7 @@ export function SelectionAsk() {
 
   useEffect(() => {
     let t = 0;
+    let shownAt = 0;
     const read = () => {
       const s = document.getSelection();
       if (!s || s.isCollapsed || s.rangeCount === 0) return setSel(null);
@@ -40,10 +41,12 @@ export function SelectionAsk() {
       const first = rects[0] ?? last;
       const vw = window.innerWidth;
       const vh = window.innerHeight;
-      const below = last.bottom + 64 < vh;
+      // Clear the selection handles (about 30px) so the pill never sits on them.
+      const below = last.bottom + 84 < vh;
       const anchor = below ? last : first;
       const x = Math.min(vw - PILL_W - 12, Math.max(12, anchor.left + anchor.width / 2 - PILL_W / 2));
-      const y = below ? last.bottom + 14 : Math.max(12, first.top - 58);
+      const y = below ? last.bottom + 32 : Math.max(12, first.top - 58);
+      shownAt = performance.now();
       setSel({ text: text.slice(0, 600), topicId: (el as HTMLElement).dataset.article!, x, y, below });
     };
     const onChange = () => {
@@ -53,6 +56,8 @@ export function SelectionAsk() {
     document.addEventListener("selectionchange", onChange);
     // Scrolling moves the text: hide rather than chase it, then come back once it settles.
     const onScroll = () => {
+      // The browser nudging things into view right after the pill appears isn't the reader scrolling.
+      if (performance.now() - shownAt < 300) return;
       setSel((s) => (s ? null : s));
       onChange();
     };

@@ -1,11 +1,11 @@
 import { useEffect, useRef, useState } from "react";
 import { AnimatePresence, motion } from "motion/react";
-import { ArrowRight, Clock, Search as SearchIcon, X } from "lucide-react";
-import { addRecentSearch, clearRecentSearches, useApp } from "@/lib/store";
+import { ArrowRight, Clock, Search as SearchIcon } from "lucide-react";
+import { toast } from "sonner";
+import { addRecentSearch, clearRecentSearches, getState, useApp } from "@/lib/store";
 import { requestTopic } from "@/lib/generate";
 import { pushTopic } from "@/lib/ui";
 import { cue, buzz } from "@/lib/feedback";
-import { IconButton } from "./ui";
 
 const IDEAS = ["dogs’ sense of smell", "Massachusetts", "why the sky is blue", "the first emoji", "origami"];
 
@@ -33,7 +33,10 @@ export function SearchOverlay({ open, onClose }: { open: boolean; onClose: () =>
     addRecentSearch(v);
     cue("tap");
     buzz(6);
-    const { id } = requestTopic(v);
+    // The writer picks the real category; this only labels a demo placeholder sensibly.
+    const cats = getState().profile?.cat ?? {};
+    const top = Object.keys(cats).sort((a, b) => cats[b] - cats[a])[0];
+    const { id } = requestTopic(v, undefined, top);
     input.current?.blur();
     pushTopic(id);
   };
@@ -106,15 +109,30 @@ export function SearchOverlay({ open, onClose }: { open: boolean; onClose: () =>
               </button>
             </form>
 
-            <section className="px-6 pt-6" aria-label={recents.length ? "Recent searches" : "Ideas"}>
+            <p className="px-6 pt-4 font-serif text-[15px] leading-relaxed text-muted">
+              Birdie writes a short piece on exactly what you type.
+            </p>
+            <section className="px-6 pt-5" aria-label={recents.length ? "Recent searches" : "Ideas"}>
               <div className="mb-1.5 flex items-center justify-between">
                 <h2 className="font-mono text-[11.5px] font-medium tracking-[0.1em] text-muted uppercase">
                   {recents.length ? "Recent" : "Try"}
                 </h2>
                 {recents.length > 0 && (
-                  <IconButton label="Clear recent searches" onClick={() => clearRecentSearches()} className="-mr-3 text-muted">
-                    <X size={16} strokeWidth={1.8} />
-                  </IconButton>
+                  <button
+                    type="button"
+                    aria-label="Clear recent searches"
+                    onClick={() => {
+                      const before = recents;
+                      clearRecentSearches();
+                      toast("Recent searches cleared", {
+                        action: { label: "Undo", onClick: () => [...before].reverse().forEach(addRecentSearch) },
+                        duration: 2600,
+                      });
+                    }}
+                    className="press -mr-2 h-11 px-2 font-serif text-[15px] text-muted"
+                  >
+                    Clear
+                  </button>
                 )}
               </div>
               <ul role="list">
@@ -130,19 +148,12 @@ export function SearchOverlay({ open, onClose }: { open: boolean; onClose: () =>
                       onClick={() => go(s)}
                       className="press flex h-[52px] w-full items-center gap-3.5 border-b border-line text-left font-serif text-[17px] text-text"
                     >
-                      {recents.length ? (
-                        <Clock size={17} strokeWidth={1.6} className="shrink-0 text-dot" aria-hidden="true" />
-                      ) : (
-                        <SearchIcon size={17} strokeWidth={1.6} className="shrink-0 text-dot" aria-hidden="true" />
-                      )}
+                      {recents.length > 0 && <Clock size={17} strokeWidth={1.6} className="shrink-0 text-dot" aria-hidden="true" />}
                       <span className="truncate">{s}</span>
                     </button>
                   </motion.li>
                 ))}
               </ul>
-              <p className="mt-6 font-serif text-[15px] leading-relaxed text-muted">
-                Birdie writes a short piece on exactly what you type.
-              </p>
             </section>
           </motion.div>
         </motion.div>

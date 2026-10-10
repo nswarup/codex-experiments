@@ -19,6 +19,9 @@ export interface Job {
   topic?: Topic;
   error?: string;
   demo?: boolean;
+  /** What it was asked with, so "Try again" asks the same way. */
+  context?: string;
+  category?: string;
 }
 
 const IDLE_MS = 60_000;
@@ -66,7 +69,7 @@ export function requestTopic(query: string, context?: string, category?: string)
   const job = jobs.get(id);
   if (job && job.status !== "error") return { id, existing: false };
 
-  jobs.set(id, { id, query: q, status: "writing", partial: { bullets: [], tags: [], done: false } });
+  jobs.set(id, { id, query: q, status: "writing", partial: { bullets: [], tags: [], done: false }, context, category });
   emit(id);
   const ctrl = new AbortController();
   controllers.set(id, ctrl);
@@ -134,7 +137,7 @@ export function retryTopic(id: string) {
   const job = jobs.get(id);
   if (!job) return;
   jobs.delete(id);
-  requestTopic(job.query);
+  requestTopic(job.query, job.context, job.category);
 }
 
 export function getJob(id: string): Job | undefined {
@@ -158,4 +161,11 @@ export function useJob(id: string | null): Job | undefined {
 /** Topic if it is ready (corpus, saved generation, or finished job). */
 export function readyTopic(id: string): Topic | undefined {
   return getTopic(id) ?? jobs.get(id)?.topic;
+}
+
+// Back online: quietly retry anything that failed for lack of a connection.
+if (typeof window !== "undefined") {
+  window.addEventListener("online", () => {
+    for (const job of jobs.values()) if (job.status === "error") retryTopic(job.id);
+  });
 }

@@ -95,6 +95,9 @@ function weightedPick<T>(items: { item: T; w: number }[], rng: Rng): T {
   return items[items.length - 1].item;
 }
 
+/** How much a previously read topic counts against an unread one of equal score. */
+export const REREAD_WEIGHT = 0.35;
+
 export interface RankedPick {
   topic: Topic;
   reason: "match" | "wildcard";
@@ -137,8 +140,11 @@ export function pickNext(
     }
   }
 
+  // Unread topics win over ones read a while ago, so re-reads only come once the library runs dry.
+  const everSeen = new Set(p.seen.map((x) => x.id));
+  const novelty = (t: Topic) => (everSeen.has(t.id) ? REREAD_WEIGHT : 1);
   const ranked = candidates
-    .map((t) => ({ item: t, w: scoreTopic(p, t) }))
+    .map((t) => ({ item: t, w: scoreTopic(p, t) * novelty(t) }))
     // Stable, deterministic tie-break so seeded tests are reproducible.
     .sort((a, b) => b.w - a.w || a.item.id.localeCompare(b.item.id));
   return { topic: weightedPick(ranked.slice(0, TOP_K), rng), reason: "match" };

@@ -1,5 +1,7 @@
 import { forwardRef } from "react";
-import { Bookmark, BookmarkCheck, HelpCircle, Share } from "lucide-react";
+import { IS_ARTIFACT } from "@/lib/api";
+import { CORPUS_BY_ID } from "@/content";
+import { Bookmark, BookmarkCheck, HelpCircle, Share, MessageSquare } from "lucide-react";
 import { toast } from "sonner";
 import type { Bullet, Category, Topic } from "@/lib/types";
 import { toggleSaved, useApp } from "@/lib/store";
@@ -65,9 +67,12 @@ export const TopicArticle = forwardRef<HTMLElement, { view: ArticleView; reason?
         aria-busy={view.writing || undefined}
       >
         <h1 className="font-serif text-[1.9em] leading-[1.15] font-medium tracking-[-0.005em] text-strong text-balance">{view.title}</h1>
-        {(view.hook || view.writing) && (
+        {view.hook || (view.writing && view.category) ? (
           <HookLine category={view.category} hook={view.hook} caret={view.caret === "hook"} className="mt-3.5" />
-        )}
+        ) : view.writing ? (
+          // Hold the hook's place so the page doesn't jump when it arrives.
+          <SkeletonLines lines={1} className="mt-4 w-2/3" />
+        ) : null}
         {view.lede ? (
           <p data-tour={tourAnchor ? "lede" : undefined} className={cn("mt-6 text-pretty", view.caret === "lede" && "caret")}>
             {view.lede}
@@ -88,7 +93,8 @@ export const TopicArticle = forwardRef<HTMLElement, { view: ArticleView; reason?
                   <span className={cn("text-pretty", last && view.caret === "bullet" && "caret")}>
                     {/* An <a> (not a <button>) so a long opening wraps like the text around it. */}
                     <a
-                      href={b.linkId ? `#${b.linkId}` : "#"}
+                      // No href: a long-press should select text, not offer "copy link".
+                      tabIndex={0}
                       role="button"
                       className="opening"
                       data-tour={anchor ? "opening" : undefined}
@@ -97,7 +103,7 @@ export const TopicArticle = forwardRef<HTMLElement, { view: ArticleView; reason?
                         openPeek(b, view);
                       }}
                       onKeyDown={(e) => {
-                        if (e.key === " ") {
+                        if (e.key === " " || e.key === "Enter") {
                           e.preventDefault();
                           openPeek(b, view);
                         }
@@ -118,7 +124,7 @@ export const TopicArticle = forwardRef<HTMLElement, { view: ArticleView; reason?
         )}
 
         {actions && !view.writing && (
-          <div className="mt-8 -ml-3 flex flex-wrap items-center gap-x-1 text-muted">
+          <div className="mt-8 -mr-3 -ml-3 flex flex-wrap items-center gap-x-1 text-muted">
             <ActionButton
               label={saved ? "Saved" : "Save"}
               onClick={() => {
@@ -135,18 +141,32 @@ export const TopicArticle = forwardRef<HTMLElement, { view: ArticleView; reason?
             >
               {saved ? <BookmarkCheck size={18} strokeWidth={1.7} /> : <Bookmark size={18} strokeWidth={1.7} />}
             </ActionButton>
+            <ActionButton
+              label="Ask"
+              onClick={() => {
+                cue("open", { emphasis: "subtle" });
+                buzz(6);
+                openOverlay({ kind: "chat", topicId: view.id });
+              }}
+            >
+              <MessageSquare size={18} strokeWidth={1.7} />
+            </ActionButton>
             <ActionButton label="Share" onClick={() => share(view)}>
               <Share size={18} strokeWidth={1.7} />
             </ActionButton>
-            <ActionButton
-              label="Why this?"
+            {/* Icon-only, so the row stays on one line; the label is still read out. */}
+            <button
+              type="button"
+              aria-label="Why this?"
+              title="Why this?"
               onClick={() => {
                 cue("open", { emphasis: "subtle" });
                 openOverlay({ kind: "why", topicId: view.id, reason });
               }}
+              className="press ml-auto flex h-11 w-11 items-center justify-center rounded-full active:bg-inset"
             >
               <HelpCircle size={18} strokeWidth={1.7} />
-            </ActionButton>
+            </button>
           </div>
         )}
       </article>
@@ -180,10 +200,12 @@ function ActionButton({
 
 async function share(view: ArticleView) {
   const text = `${view.title}: ${view.hook ?? ""}`.trim();
+  // Built-in topics get a link that opens straight to them (the demo artifact's frame has no shareable URL).
+  const url = !IS_ARTIFACT && CORPUS_BY_ID[view.id] ? `${location.origin}${location.pathname}#${view.id}` : undefined;
   cue("tap");
   if (navigator.share) {
     try {
-      await navigator.share({ title: view.title, text });
+      await navigator.share({ title: view.title, text, url });
       return;
     } catch (e) {
       if ((e as Error).name === "AbortError") return; // the reader cancelled
@@ -191,7 +213,7 @@ async function share(view: ArticleView) {
     }
   }
   try {
-    await navigator.clipboard.writeText(`${text}\n\n${view.lede ?? ""}`);
+    await navigator.clipboard.writeText(url ? `${text}\n${url}` : `${text}\n\n${view.lede ?? ""}`);
     cue("success", { emphasis: "subtle" });
     toast("Copied to clipboard", { duration: 2000 });
   } catch {

@@ -1,18 +1,18 @@
-import { X } from "lucide-react";
+import { useEffect } from "react";
 import { motion } from "motion/react";
 import { useApp } from "@/lib/store";
 import { readyTopic } from "@/lib/generate";
 import { explain, catScore } from "@/lib/ranking";
 import { CATEGORY_LIST } from "@/content";
 import type { Overlay } from "@/lib/ui";
-import { IconButton, Sheet } from "./ui";
+import { Sheet, SheetHeader } from "./ui";
 import { cn } from "@/lib/cn";
 
 function Meter({ label, value, highlight }: { label: string; value: number; highlight?: boolean }) {
   const pct = Math.round((Math.min(2, Math.max(0, value)) / 2) * 100);
   return (
     <div className="flex items-center gap-3">
-      <span className={cn("w-[7.5em] shrink-0 truncate font-mono text-[12.5px]", highlight ? "font-medium text-strong" : "text-muted")}>
+      <span className={cn("w-[42%] shrink-0 truncate font-serif text-[15px] first-letter:uppercase", highlight ? "font-semibold text-strong" : "text-text")}>
         {label}
       </span>
       <span className="relative h-1.5 flex-1 overflow-hidden rounded-full bg-line" aria-hidden="true">
@@ -40,6 +40,11 @@ export function WhySheet({
 }) {
   const profile = useApp((s) => s.profile);
   const topic = readyTopic(data.topicId);
+  const missing = !profile || !topic;
+  // Never leave an invisible sheet holding a history entry.
+  useEffect(() => {
+    if (open && missing) onClose();
+  }, [open, missing, onClose]);
   if (!profile || !topic) return null;
   const ex = explain(profile, topic);
   // Nothing learned yet: every niche is still neutral and nothing has been read.
@@ -61,18 +66,13 @@ export function WhySheet({
 
   return (
     <Sheet open={open} onClose={onClose} title="Why this topic">
-      <div className="no-scrollbar overflow-y-auto px-6 pt-1 pb-[calc(env(safe-area-inset-bottom,0px)+28px)]" data-vaul-no-drag>
-        <div className="flex h-11 items-center justify-between">
-          <h2 className="font-serif text-[17px] font-semibold text-strong">Why this topic?</h2>
-          <IconButton label="Close" onClick={onClose} className="-mr-3 text-muted">
-            <X size={19} strokeWidth={1.8} />
-          </IconButton>
-        </div>
+      <SheetHeader title="Why this topic?" onClose={onClose} />
+      <div className="no-scrollbar min-h-0 overflow-y-auto px-6 pb-[calc(env(safe-area-inset-bottom,0px)+28px)]" data-vaul-no-drag>
         <p className="mt-1 font-serif text-[17px] leading-[1.55] text-text">{sentence}</p>
 
         {!learning && (
           <>
-            <h3 className="mt-6 font-mono text-[11.5px] font-medium tracking-[0.1em] text-muted uppercase">This topic’s niches</h3>
+            <h3 className="mt-6 font-mono text-[11.5px] font-medium tracking-[0.1em] text-muted uppercase">What this piece is about</h3>
             <div className="mt-3 flex flex-col gap-2.5">
               {ex.tags.map((t) => (
                 <Meter key={t.tag} label={t.tag.replace(/-/g, " ")} value={t.score} />
@@ -81,7 +81,7 @@ export function WhySheet({
           </>
         )}
 
-        <h3 className="mt-7 font-mono text-[11.5px] font-medium tracking-[0.1em] text-muted uppercase">Your top interests</h3>
+        <h3 className="mt-7 font-mono text-[11.5px] font-medium tracking-[0.1em] text-muted uppercase">What you read most</h3>
         <div className="mt-3 flex flex-col gap-2.5">
           {cats.map((c) => (
             <Meter key={c} label={c} value={catScore(profile, c)} highlight={c === topic.category} />

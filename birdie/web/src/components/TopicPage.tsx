@@ -39,7 +39,8 @@ export function TopicPage({ id }: { id: string }) {
     const p = job.partial;
     view = {
       id,
-      title: p.title ?? job.query,
+      // The writer's title arrives in a moment; until then, the query, capitalised like a title.
+      title: p.title ?? job.query.charAt(0).toUpperCase() + job.query.slice(1),
       category: p.category,
       hook: p.hook,
       lede: p.lede,
@@ -51,18 +52,9 @@ export function TopicPage({ id }: { id: string }) {
 
   return (
     <div ref={scroller} className="no-scrollbar absolute inset-0 overflow-y-auto overscroll-contain bg-bg">
-      <TopBar scroller={scroller} back title={view?.title} />
+      <TopBar scroller={scroller} back title={view?.title} kicker={view?.category} />
       <main className="pb-[calc(env(safe-area-inset-bottom,0px)+56px)]">
-        {job?.demo && (
-          <div className="mx-auto mt-4 max-w-[34em] px-6">
-            <p className="rounded-xl border border-dashed border-dot px-4 py-3 font-serif text-[14.5px] leading-relaxed text-muted">
-              {IS_ARTIFACT
-                ? "Demo mode: Birdie couldn't use Claude here, so new topics are placeholders. The 100 built-in topics all work."
-                : "Demo mode: new topics are placeholders until Birdie's writer is connected. Set ANTHROPIC_API_KEY or log in to Claude Code, then restart Birdie."}
-            </p>
-          </div>
-        )}
-        {view && <TopicArticle ref={ref} view={view} reason="opened" />}
+        {view && <TopicArticle ref={ref} view={view} reason="opened" actions={!!topic} />}
         {job?.status === "writing" && !view?.lede && <WritingStatus />}
         {job?.status === "error" && !topic && (
           <div className="mx-auto mt-8 max-w-[34em] px-6" role="alert">
@@ -70,6 +62,15 @@ export function TopicPage({ id }: { id: string }) {
             <Button variant="secondary" className="mt-4" onClick={() => retryTopic(id)}>
               <RotateCw size={16} strokeWidth={1.8} /> Try again
             </Button>
+          </div>
+        )}
+        {job?.demo && (
+          <div className="mx-auto mt-8 max-w-[34em] px-6">
+            <p className="rounded-xl border border-dashed border-dot px-4 py-3 font-serif text-[14.5px] leading-relaxed text-muted">
+              {IS_ARTIFACT
+                ? "Demo mode: Birdie couldn't use Claude here, so new topics are placeholders. The 100 built-in topics all work."
+                : "Demo mode: new topics are placeholders until Birdie's writer is connected. Set ANTHROPIC_API_KEY or log in to Claude Code, then restart Birdie."}
+            </p>
           </div>
         )}
         {topic && <Nudges topic={topic} />}
@@ -102,7 +103,7 @@ function WritingStatus() {
   }, []);
   return (
     <div className="mx-auto mt-7 flex max-w-[34em] items-center gap-3 px-6" role="status">
-      <span className="text-dot" aria-hidden="true">
+      <span className="writing-pulse text-dot" aria-hidden="true">
         <BirdMark size={26} />
       </span>
       <p className="font-serif text-[15px] leading-relaxed text-muted">

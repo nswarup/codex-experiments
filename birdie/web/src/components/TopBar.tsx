@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import { Bookmark, ChevronLeft, Search } from "lucide-react";
+import { ChevronLeft, LibraryBig, Search } from "lucide-react";
 import { IconButton, Wordmark } from "./ui";
 import { openOverlay, popPage } from "@/lib/ui";
 import { cue, buzz } from "@/lib/feedback";
@@ -13,10 +13,13 @@ export function TopBar({
   scroller,
   back = false,
   title,
+  kicker,
 }: {
   scroller: React.RefObject<HTMLElement | null>;
   back?: boolean;
   title?: string;
+  /** Shown beside Back until the title scrolls away, so a lone chevron never floats. */
+  kicker?: string;
 }) {
   const [hidden, setHidden] = useState(false);
   const [scrolled, setScrolled] = useState(false);
@@ -37,15 +40,18 @@ export function TopBar({
           last = y;
         }
         setScrolled(y > 8);
-        // Reading progress through whichever article is under the reading line.
+        // Reading progress through the article under the reading line: 0 at its top,
+        // 1 once its last line is on screen.
         const box = el.getBoundingClientRect();
+        const head = box.top + 56;
         const line = box.top + box.height * 0.4;
         let progress = 0;
         for (const a of el.querySelectorAll<HTMLElement>("[data-article]")) {
           const r = a.getBoundingClientRect();
           if (r.bottom < box.top || r.top > box.bottom) continue;
           if (r.top <= line && r.bottom >= line) {
-            progress = Math.min(1, Math.max(0, (line - r.top) / Math.max(1, r.height)));
+            const span = Math.max(1, r.height - (box.bottom - head));
+            progress = Math.min(1, Math.max(0, (head - r.top) / span));
             break;
           }
         }
@@ -67,7 +73,7 @@ export function TopBar({
       )}
       style={{ transform: hidden ? "translateY(-100%)" : "translateY(0)" }}
     >
-      <div className="mx-auto flex h-14 max-w-[34em] items-center justify-between pr-2 pl-2" style={{ fontSize: "var(--read-size)" }}>
+      <div className="mx-auto flex h-14 max-w-[34em] items-center justify-between pr-3 pl-2" style={{ fontSize: "var(--read-size)" }}>
         <div className="flex min-w-0 items-center">
           {back ? (
             <>
@@ -81,13 +87,26 @@ export function TopBar({
               >
                 <ChevronLeft size={24} strokeWidth={1.7} />
               </IconButton>
-              <span
-                className={cn(
-                  "min-w-0 truncate font-serif text-[15px] text-muted transition-opacity duration-200",
-                  scrolled && title ? "opacity-100" : "opacity-0",
+              <span className="relative min-w-0 flex-1">
+                {kicker && (
+                  <span
+                    aria-hidden={scrolled && !!title}
+                    className={cn(
+                      "absolute inset-y-0 left-0 flex items-center font-mono text-[11.5px] font-medium tracking-[0.1em] text-muted uppercase transition-opacity duration-200",
+                      scrolled && title ? "opacity-0" : "opacity-100",
+                    )}
+                  >
+                    {kicker}
+                  </span>
                 )}
-              >
-                {title}
+                <span
+                  className={cn(
+                    "block truncate font-serif text-[15px] text-muted transition-opacity duration-200",
+                    scrolled && title ? "opacity-100" : "opacity-0",
+                  )}
+                >
+                  {title}
+                </span>
               </span>
             </>
           ) : (
@@ -116,7 +135,7 @@ export function TopBar({
                 openOverlay({ kind: "library" });
               }}
             >
-              <Bookmark size={20} strokeWidth={1.6} />
+              <LibraryBig size={20} strokeWidth={1.6} />
             </IconButton>
           )}
           <IconButton

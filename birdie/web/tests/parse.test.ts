@@ -86,3 +86,10 @@ describe("smart quotes", () => {
     expect(smart(`He said 'hi'.`)).toBe("He said ‘hi’.");
   });
 });
+
+describe("slug whitespace", () => {
+  it("treats extra spaces as the same query", () => {
+    expect(slug("dogs  smell")).toBe(slug("dogs smell"));
+    expect(slug(" Dogs smell ")).toBe(slug("dogs smell"));
+  });
+});

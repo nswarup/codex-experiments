@@ -149,7 +149,7 @@ export function parseChat(text: string): ParsedChat {
 
 /** Stable id for a generated topic: readable slug plus a short hash of the full query. */
 export function slug(s: string): string {
-  const q = s.trim().toLowerCase();
+  const q = s.trim().toLowerCase().replace(/\s+/g, " ");
   const readable = q
     .normalize("NFKD")
     .replace(/[\u0300-\u036f]/g, "")

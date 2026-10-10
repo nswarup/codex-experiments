@@ -17,9 +17,9 @@ export type Overlay =
   | { kind: "chat"; topicId: string; highlight?: string }
   | { kind: "search" }
   | { kind: "settings" }
-  | { kind: "library"; tab?: "saved" | "history" }
+  | { kind: "library"; tab?: "saved" | "history"; back?: "settings" }
   | { kind: "why"; topicId: string; reason?: "match" | "wildcard" | "opened" }
-  | { kind: "interests" };
+  | { kind: "interests"; back?: "settings" };
 
 /** Overlays that cover the page fully enough that reading time should pause. */
 export const COVERING: Overlay["kind"][] = ["search", "chat", "library", "interests"];
@@ -68,11 +68,24 @@ function goBack(n = 1) {
   safe(() => history.go(-n));
 }
 
+// A double-tap on Back (or a tap during the swipe-back animation) should pop one page, not two.
+let lastPop = 0;
+const POP_LOCK_MS = 350;
+
 export function pushTopic(id: string, from?: string) {
   const top = ui.stack[ui.stack.length - 1];
   const hadOverlay = !!ui.overlay;
   if (top.kind === "topic" && top.id === id) {
     if (hadOverlay) closeOverlay();
+    return;
+  }
+  // Already open further down (A → B → A): go back to it instead of stacking a copy.
+  const at = ui.stack.findIndex((p) => p.kind === "topic" && p.id === id);
+  if (at > 0) {
+    const n = ui.stack.length - 1 - at + (hadOverlay ? 1 : 0);
+    ui = { stack: ui.stack.slice(0, at + 1), overlay: null };
+    emit();
+    goBack(n);
     return;
   }
   const stack = [...ui.stack, { key: `t${++seq}-${id}`, kind: "topic" as const, id, from }];
@@ -84,6 +97,9 @@ export function pushTopic(id: string, from?: string) {
 
 export function popPage() {
   if (ui.stack.length <= 1) return;
+  const now = Date.now();
+  if (now - lastPop < POP_LOCK_MS) return;
+  lastPop = now;
   const extra = ui.overlay ? 1 : 0;
   ui = { stack: ui.stack.slice(0, -1), overlay: null };
   emit();
