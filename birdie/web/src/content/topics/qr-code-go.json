@@ -4,7 +4,7 @@
   "category": "Tech",
   "hook": "The QR code was inspired by black and white stones on a Go board.",
   "peek": "The square codes on menus and tickets began in a Japanese car-parts factory in 1994. Their inventor wanted something that held far more than a barcode, and he found the idea in the black and white stones of the board game Go.",
-  "lede": "In 1994 Masahiro Hara, an engineer at Denso Wave, part of the Toyota group, was looking for a better way to track car parts. Ordinary barcodes held only about 20 characters, so workers had to scan box after box of them. Hara's answer was a square grid of dark and light cells, and he has said the idea came to him while playing Go.",
+  "lede": "In 1994 Masahiro Hara, an engineer at the car-parts maker Denso, part of the Toyota group, was looking for a better way to track car parts. Ordinary barcodes held only about 20 characters, so workers had to scan box after box of them. Hara's answer was a square grid of dark and light cells, and he has said the idea came to him while playing Go.",
   "bullets": [
     {
       "opening": "The striped barcode",
@@ -29,7 +29,7 @@
     {
       "opening": "A patent left open",
       "linkId": null,
-      "text": "Denso Wave holds the patent but chose not to enforce it for standard codes, so anyone could make and read them for free. That openness helped QR codes spread from factory floors to posters, tickets and restaurant tables."
+      "text": "Denso, and later its spin-off Denso Wave, held the patent but chose not to enforce it for standard codes, so anyone could make and read them for free. That openness helped QR codes spread from factory floors to posters, tickets and restaurant tables."
     }
   ],
   "tags": [

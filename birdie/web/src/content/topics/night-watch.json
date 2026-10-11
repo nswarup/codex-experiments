@@ -2,7 +2,7 @@
   "id": "night-watch",
   "title": "The Night Watch is set in daytime",
   "category": "Art",
-  "hook": "Rembrandt's Night Watch shows daytime, and only got dark as its varnish aged.",
+  "hook": "Rembrandt's Night Watch shows daytime, and got its name once its varnish darkened.",
   "peek": "Rembrandt's most famous painting was never meant to show night. The name came along more than a century later, once old varnish and grime had darkened the scene. Its real subject is a company of Amsterdam civic guards heading out by day.",
   "lede": "Rembrandt finished his huge group portrait of an Amsterdam civic guard company in 1642. Its proper title is long and plain, naming Captain Frans Banninck Cocq and Lieutenant Willem van Ruytenburch. The nickname The Night Watch only appeared in the late 1700s, after layers of varnish and dirt had darkened the canvas so much that people took the scene for night.",
   "bullets": [
@@ -14,7 +14,7 @@
     {
       "opening": "The trimmed edges",
       "linkId": null,
-      "text": "In 1715 the painting was moved to Amsterdam's town hall and cut down to fit between two doors. Strips were removed from all four sides, mostly on the left, taking two figures with them. A smaller copy by Gerrit Lundens shows the full scene."
+      "text": "In 1715 the painting was moved to Amsterdam's town hall and cut down to fit its new wall. Strips were removed from all four sides, mostly on the left, taking at least two figures with them. A smaller copy by Gerrit Lundens shows the full scene."
     },
     {
       "opening": "Operation Night Watch",

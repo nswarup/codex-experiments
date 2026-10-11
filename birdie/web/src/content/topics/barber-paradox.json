@@ -4,7 +4,7 @@
   "category": "Math",
   "hook": "A barber who shaves only those who do not shave themselves cannot exist.",
   "peek": "A village barber shaves everyone who does not shave themselves, and nobody else. Does he shave himself? Either answer breaks the rule. The puzzle is a friendly version of Russell's paradox, which in 1901 shook the foundations of mathematics.",
-  "lede": "Picture a village where the barber shaves all those, and only those, who do not shave themselves. Does the barber shave himself? If he does, he breaks his rule. If he does not, the rule says he must. The answer is that no such barber can exist. Bertrand Russell used the story to explain a far more serious problem he had found in logic.",
+  "lede": "Picture a village where the barber shaves all those, and only those, who do not shave themselves. Does the barber shave himself? If he does, he breaks his rule. If he does not, the rule says he must. The answer is that no such barber can exist. The story is often used to explain a far more serious problem Bertrand Russell had found in logic.",
   "bullets": [
     {
       "opening": "Russell's paradox",
