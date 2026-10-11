@@ -1,0 +1,44 @@
+{
+  "id": "sriracha-trademark",
+  "title": "The sauce called Sriracha",
+  "category": "Food",
+  "hook": "The sauce is named after a Thai seaside town, and nobody owns the name.",
+  "peek": "The red sauce in the rooster bottle is made in California, but its name comes from Si Racha, a town on the Gulf of Thailand. Its maker never trademarked the word, so many brands now sell their own Sriracha.",
+  "lede": "Sriracha takes its name from Si Racha, a coastal town in Thailand's Chonburi province, where chili sauce of that style has been made for generations. The best-known version, in the clear bottle with a green cap and a rooster on the front, comes from Huy Fong Foods in California. Its founder never trademarked the name Sriracha, so anyone can use it.",
+  "bullets": [
+    {
+      "opening": "The Thai original",
+      "linkId": null,
+      "text": "In Thailand the sauce is usually sweeter and runnier, served as a dip for seafood and omelettes. A brand called Sriraja Panich, from Si Racha itself, is widely credited as an early bottled version."
+    },
+    {
+      "opening": "David Tran's sauce",
+      "linkId": null,
+      "text": "David Tran, who came to the United States from Vietnam, started Huy Fong Foods in Los Angeles in 1980. His sauce is thicker and more garlicky, made from red jalapeño peppers, and it spread through restaurants before it reached supermarket shelves."
+    },
+    {
+      "opening": "The rooster bottle",
+      "linkId": null,
+      "text": "The rooster is there because Tran was born in a Year of the Rooster in the Chinese zodiac. The company's name comes from the Huey Fong, the ship that carried him out of Vietnam."
+    },
+    {
+      "opening": "An untrademarked name",
+      "linkId": null,
+      "text": "Tran has said he saw the copycats as free advertising. A place name that also describes a style of sauce would be hard to protect anyway, and large food companies now sell their own Sriracha next to his."
+    }
+  ],
+  "tags": [
+    "names",
+    "food-history",
+    "chili-heat",
+    "trademarks"
+  ],
+  "related": [
+    "tabasco-avery-island",
+    "scoville-tasters",
+    "birds-chili-heat",
+    "ketchup-fish-sauce",
+    "escalator-trademark",
+    "fake-wasabi"
+  ]
+}

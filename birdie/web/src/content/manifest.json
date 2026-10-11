@@ -4308,5 +4308,65 @@
   "id": "wollemi-pine",
   "title": "The Wollemi pine",
   "category": "Nature"
+ },
+ {
+  "id": "popsicle-epperson",
+  "title": "The Popsicle and the forgotten drink",
+  "category": "Food"
+ },
+ {
+  "id": "cotton-candy-dentist",
+  "title": "Cotton candy's dentist inventor",
+  "category": "Food"
+ },
+ {
+  "id": "sriracha-trademark",
+  "title": "The sauce called Sriracha",
+  "category": "Food"
+ },
+ {
+  "id": "tabasco-avery-island",
+  "title": "Tabasco's oak barrels",
+  "category": "Food"
+ },
+ {
+  "id": "scoville-tasters",
+  "title": "How the Scoville scale measured heat",
+  "category": "Food"
+ },
+ {
+  "id": "birds-chili-heat",
+  "title": "Birds can't feel chili heat",
+  "category": "Food"
+ },
+ {
+  "id": "miracle-berry",
+  "title": "The miracle berry",
+  "category": "Food"
+ },
+ {
+  "id": "menthol-cold",
+  "title": "Why mint feels cold",
+  "category": "Food"
+ },
+ {
+  "id": "maillard-reaction",
+  "title": "The Maillard reaction",
+  "category": "Food"
+ },
+ {
+  "id": "parmesan-bank",
+  "title": "The bank that holds cheese",
+  "category": "Food"
+ },
+ {
+  "id": "stilton-village",
+  "title": "Stilton can't be made in Stilton",
+  "category": "Food"
+ },
+ {
+  "id": "swiss-cheese-holes",
+  "title": "Why Swiss cheese has holes",
+  "category": "Food"
  }
 ]

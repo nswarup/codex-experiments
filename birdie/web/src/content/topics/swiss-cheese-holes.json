@@ -1,0 +1,38 @@
+{
+  "id": "swiss-cheese-holes",
+  "title": "Why Swiss cheese has holes",
+  "category": "Food",
+  "hook": "The holes in Swiss cheese form around tiny specks of hay in the milk.",
+  "peek": "For about a century the holes in Emmental were put down to gas alone. In 2015 Swiss researchers showed the gas needs somewhere to gather, and that tiny bits of hay in the milk provide it.",
+  "lede": "Emmental gets its holes, which cheesemakers call eyes, from carbon dioxide made by the cheese's cultures as it ripens. But gas alone does not explain where the eyes form. In 2015 researchers at Agroscope, a Swiss government agricultural research centre, showed that the bubbles start around tiny particles of hay that fall into the milk in the barn.",
+  "bullets": [
+    {
+      "opening": "Fewer holes, cleaner milk",
+      "linkId": null,
+      "text": "Over the previous 10 to 15 years, Swiss cheesemakers had noticed fewer and smaller eyes in their cheese. Modern milking machines, closed pipes and filters had been keeping the hay out of the milk."
+    },
+    {
+      "opening": "The CT scan study",
+      "linkId": null,
+      "text": "The team used CT scanners to watch cheeses form eyes as they aged. When they added different amounts of fine hay dust to filtered milk, the number of holes rose and fell with it."
+    },
+    {
+      "opening": "Blind cheese",
+      "linkId": null,
+      "text": "A cheese that ends up with no eyes at all is called blind. The finding gives cheesemakers a way to control the holes, by adding a measured pinch of hay dust to very clean milk."
+    }
+  ],
+  "tags": [
+    "cheese",
+    "food-history",
+    "myths-busted",
+    "experiments"
+  ],
+  "related": [
+    "parmesan-bank",
+    "stilton-village",
+    "maillard-reaction",
+    "honey-keeps",
+    "coffee-ring-effect"
+  ]
+}

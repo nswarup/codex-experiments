@@ -1,0 +1,38 @@
+{
+  "id": "parmesan-bank",
+  "title": "The bank that holds cheese",
+  "category": "Food",
+  "hook": "An Italian bank takes giant wheels of Parmesan as security for loans.",
+  "peek": "In northern Italy, cheesemakers can borrow money against the Parmigiano Reggiano ageing in their stores. The bank Credem keeps hundreds of thousands of wheels in climate-controlled warehouses while they mature.",
+  "lede": "Parmigiano Reggiano must age for at least a year, and often two or more, before it is sold. That leaves cheesemakers with a fortune in wheels and not much cash. Since 1953 the bank Credito Emiliano, known as Credem, has offered an answer: it lends money against the cheese and stores the wheels in its own warehouses until they are ready.",
+  "bullets": [
+    {
+      "opening": "The cheese vaults",
+      "linkId": null,
+      "text": "The warehouses, near Reggio Emilia, are kept cool and humid, with wheels stacked on shelves far above head height. Reports put the total at hundreds of thousands of wheels, each weighing around 40 kilograms."
+    },
+    {
+      "opening": "Turning and brushing",
+      "linkId": null,
+      "text": "The cheese needs care while it ages. Each wheel is regularly brushed and turned, much of it now by machine, so it matures evenly, and the bank handles this as part of the deal."
+    },
+    {
+      "opening": "If a loan goes bad",
+      "linkId": null,
+      "text": "If a borrower cannot repay, the bank keeps the cheese and sells it. Because aged Parmesan holds its value well, the wheels make unusually good security, which is why the arrangement has lasted for decades."
+    }
+  ],
+  "tags": [
+    "food-history",
+    "cheese",
+    "banking",
+    "italy"
+  ],
+  "related": [
+    "stilton-village",
+    "swiss-cheese-holes",
+    "baguette-law",
+    "honey-keeps",
+    "saffron-crocus"
+  ]
+}

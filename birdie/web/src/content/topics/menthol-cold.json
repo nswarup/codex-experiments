@@ -1,0 +1,43 @@
+{
+  "id": "menthol-cold",
+  "title": "Why mint feels cold",
+  "category": "Food",
+  "hook": "Mint feels cold because it trips your cold sensor, not because it is cold.",
+  "peek": "Menthol, the main cooling compound in mint, switches on the same nerve receptor that tells you something is cold. Your mouth sends a cold signal while its temperature does not change at all.",
+  "lede": "Chew mint gum and a breath of air feels icy, yet nothing in your mouth has cooled down. Menthol switches on a receptor called TRPM8, found on nerve endings, whose normal job is to respond to cool temperatures. It fires whether the trigger is cold air or a molecule from a mint leaf, and the brain hears only cold.",
+  "bullets": [
+    {
+      "opening": "Finding TRPM8",
+      "linkId": null,
+      "text": "In 2002 two research groups, one led by David Julius and one by Ardem Patapoutian, identified the cool receptor by using menthol to track it down. The two scientists shared a Nobel Prize in 2021 for work on how we sense temperature and touch."
+    },
+    {
+      "opening": "Cold water after mint",
+      "linkId": null,
+      "text": "A glass of cold water feels far colder after a mint. The menthol has already nudged the receptors toward firing, so real cold on top of it pushes the cold signal higher than usual."
+    },
+    {
+      "opening": "Mice without the receptor",
+      "linkId": null,
+      "text": "Mice bred without TRPM8 barely react to menthol, and they have trouble telling a cool floor from a comfortable one. That points to this one receptor as the body's main cool sensor."
+    },
+    {
+      "opening": "Other cooling compounds",
+      "linkId": null,
+      "text": "Menthol is not the only trigger. Eucalyptol, from eucalyptus, also switches TRPM8 on, and food makers use synthetic cooling agents that give the cold feeling with little or no mint taste."
+    }
+  ],
+  "tags": [
+    "perception",
+    "taste",
+    "illusions",
+    "senses"
+  ],
+  "related": [
+    "birds-chili-heat",
+    "miracle-berry",
+    "scoville-tasters",
+    "supertasters",
+    "tongue-map-myth"
+  ]
+}

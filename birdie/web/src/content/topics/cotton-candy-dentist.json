@@ -1,0 +1,43 @@
+{
+  "id": "cotton-candy-dentist",
+  "title": "Cotton candy's dentist inventor",
+  "category": "Food",
+  "hook": "One of the two men behind the cotton candy machine was a dentist.",
+  "peek": "Spun sugar was an old luxury made by hand. Then a Nashville dentist and a sweet maker built a machine to do the work, and in 1904 they sold the result to world's fair crowds as Fairy Floss.",
+  "lede": "The joke writes itself, but it is true. In 1897 William Morrison, a dentist in Nashville, Tennessee, and John C. Wharton, a local confectioner, patented an electric machine for spinning sugar into fluffy threads. At the 1904 World's Fair in St. Louis they sold their Fairy Floss in small boxes, and fairgoers bought tens of thousands of them.",
+  "bullets": [
+    {
+      "opening": "Hand-spun sugar",
+      "linkId": null,
+      "text": "Before the machine, European cooks made spun sugar by flicking hot syrup over a rod with a fork. It was slow, skilled work, so the threads decorated grand dinners rather than feeding crowds."
+    },
+    {
+      "opening": "How the machine works",
+      "linkId": null,
+      "text": "Sugar is melted in a spinning head with tiny holes around its edge. The liquid sugar is flung out through them and cools into fine strands almost at once, which gather in the bowl and are wound onto a stick or cone."
+    },
+    {
+      "opening": "Fairy Floss at the fair",
+      "linkId": null,
+      "text": "A box sold for 25 cents, half the price of a ticket to the fair itself. Accounts put sales at well over 60,000 boxes during the fair's run, enough to show the machine had a future."
+    },
+    {
+      "opening": "From Fairy Floss to cotton candy",
+      "linkId": null,
+      "text": "The name cotton candy caught on in the United States around the 1920s. Australians still call it fairy floss, close to the original name, while in Britain it is candyfloss."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "food-history",
+    "names",
+    "world-fairs"
+  ],
+  "related": [
+    "popsicle-epperson",
+    "marshmallow-plant",
+    "ferris-wheel",
+    "toll-house-cookie",
+    "sliced-bread"
+  ]
+}

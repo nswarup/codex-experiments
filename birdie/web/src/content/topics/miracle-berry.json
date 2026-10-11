@@ -1,0 +1,44 @@
+{
+  "id": "miracle-berry",
+  "title": "The miracle berry",
+  "category": "Food",
+  "hook": "Eat one small red berry, and lemons taste like sweet lemonade for a while.",
+  "peek": "The miracle berry, from West Africa, contains a protein called miraculin. It is not sweet by itself, but it changes how the tongue reads sour food, turning lemons and vinegar sweet for half an hour or more.",
+  "lede": "The miracle berry is the small red fruit of Synsepalum dulcificum, a shrub from West Africa. Eat one, let the pulp coat your tongue, then bite a lemon wedge: it tastes sweet. The effect comes from a protein called miraculin, and it can last from about half an hour to an hour or more.",
+  "bullets": [
+    {
+      "opening": "How miraculin works",
+      "linkId": null,
+      "text": "Miraculin attaches to the sweet receptors on the tongue without switching them on. When acid arrives, the protein changes shape and turns them on, so sourness is tasted as sweetness. Once the acid is gone, the sweet signal fades."
+    },
+    {
+      "opening": "An early European account",
+      "linkId": null,
+      "text": "West Africans long used the berries to sweeten sour foods and drinks. A French explorer, the Chevalier des Marchais, described local people chewing them before meals in the 1720s."
+    },
+    {
+      "opening": "The 1970s sweetener plan",
+      "linkId": null,
+      "text": "In the 1970s an American company tried to sell miraculin as a sugar substitute for dieters. In 1974 US regulators ruled it a food additive needing more testing, and the plan collapsed. Some suspected pressure from the sugar industry, but that was never shown."
+    },
+    {
+      "opening": "Flavour-tripping parties",
+      "linkId": null,
+      "text": "The berries, and tablets made from them, later became a party trick. Guests take one and then taste lemons, vinegar, grapefruit and sour cheese to see how each one changes."
+    }
+  ],
+  "tags": [
+    "taste",
+    "perception",
+    "illusions",
+    "food-history"
+  ],
+  "related": [
+    "menthol-cold",
+    "supertasters",
+    "tongue-map-myth",
+    "umami",
+    "cilantro-gene",
+    "fake-wasabi"
+  ]
+}

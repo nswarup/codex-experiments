@@ -1,0 +1,44 @@
+{
+  "id": "maillard-reaction",
+  "title": "The Maillard reaction",
+  "category": "Food",
+  "hook": "The brown crust on toast, steak and coffee comes from one family of reactions.",
+  "peek": "When food browns in a hot pan or oven, sugars and proteins react to make hundreds of new flavour compounds. The French chemist Louis-Camille Maillard described the reaction in 1912, and it carries his name.",
+  "lede": "Toast, roast coffee, seared steak, bread crusts and fried onions all owe their brown colour and deep flavour to the same chemistry. In 1912 the French chemist Louis-Camille Maillard reported that amino acids, the building blocks of proteins, react with certain sugars when heated and turn brown. The Maillard reaction, as it is now called, makes hundreds of different flavour molecules.",
+  "bullets": [
+    {
+      "opening": "Not caramelisation",
+      "linkId": null,
+      "text": "Caramelisation is sugar on its own breaking down in heat. The Maillard reaction needs sugars and amino acids together, which is why browned meat and bread taste savoury and complex rather than simply sweet."
+    },
+    {
+      "opening": "Why boiled food stays pale",
+      "linkId": null,
+      "text": "The reaction speeds up sharply at the high temperatures of roasting and frying, roughly above 140 °C. Water cannot get hotter than 100 °C at normal pressure, so boiled and steamed foods stay pale until their surface dries out."
+    },
+    {
+      "opening": "John Hodge's scheme",
+      "linkId": null,
+      "text": "Maillard saw the browning but not the steps. In 1953 the American chemist John Hodge published a scheme laying out the reaction's main stages, and food scientists still use it as a starting point."
+    },
+    {
+      "opening": "Pretzels and baking soda",
+      "linkId": null,
+      "text": "Alkaline conditions speed the reaction up. That is why pretzels are dipped in an alkaline bath before baking to get their deep brown shine, and why a pinch of baking soda helps onions brown faster."
+    }
+  ],
+  "tags": [
+    "taste",
+    "chemistry",
+    "color",
+    "cooking"
+  ],
+  "related": [
+    "umami",
+    "sliced-bread",
+    "baguette-law",
+    "coffee-ring-effect",
+    "honey-keeps",
+    "microwave-chocolate"
+  ]
+}

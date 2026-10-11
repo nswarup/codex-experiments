@@ -1,0 +1,43 @@
+{
+  "id": "stilton-village",
+  "title": "Stilton can't be made in Stilton",
+  "category": "Food",
+  "hook": "Stilton cheese is named after a village where it may not legally be made.",
+  "peek": "Stilton is protected by law and may only be made in three English counties. The village of Stilton, which gave the cheese its name, lies in a different county, so cheese made there cannot use the name.",
+  "lede": "Under its protected status, Stilton may only be made in Derbyshire, Leicestershire and Nottinghamshire, from local pasteurised milk, following a set method. The village of Stilton is in Cambridgeshire. So the place that gave the cheese its name cannot legally make Stilton. The name came from trade on the road, not from a dairy in the village.",
+  "bullets": [
+    {
+      "opening": "The Bell Inn",
+      "linkId": null,
+      "text": "Stilton sat on the Great North Road, the main coaching route from London to the north. In the 1700s cheese from nearby counties was sold to travellers at inns there, notably the Bell Inn, and it took the village's name."
+    },
+    {
+      "opening": "Daniel Defoe's mention",
+      "linkId": null,
+      "text": "Writing in the 1720s, Daniel Defoe described passing through Stilton, a town famous for cheese. It is one of the earliest written records linking the name to the cheese."
+    },
+    {
+      "opening": "Protected name status",
+      "linkId": null,
+      "text": "Stilton gained European protected status in 1996, and it is still protected in UK law. Only a handful of licensed dairies may use the name, and every cheese must follow the rules on milk, region and method."
+    },
+    {
+      "opening": "Stichelton",
+      "linkId": null,
+      "text": "The rules also shut out a raw-milk cheese. Stichelton is made in Nottinghamshire to an old-style Stilton recipe, but because its milk is unpasteurised, it had to take a name of its own."
+    }
+  ],
+  "tags": [
+    "names",
+    "cheese",
+    "food-history",
+    "borders"
+  ],
+  "related": [
+    "parmesan-bank",
+    "swiss-cheese-holes",
+    "baguette-law",
+    "jaffa-cake-tribunal",
+    "tomato-supreme-court"
+  ]
+}

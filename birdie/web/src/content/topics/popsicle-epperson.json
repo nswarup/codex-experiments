@@ -1,0 +1,44 @@
+{
+  "id": "popsicle-epperson",
+  "title": "The Popsicle and the forgotten drink",
+  "category": "Food",
+  "hook": "A boy left a drink outside on a cold night and woke up to a frozen treat.",
+  "peek": "The story goes that in 1905 an 11-year-old in the San Francisco Bay Area left a cup of fruit drink outside with the stirring stick still in it. Nearly twenty years later, he patented the result.",
+  "lede": "Frank Epperson told the story for the rest of his life. As a boy of 11 in 1905, he mixed a fruity soda drink from powder and water, left it on the porch with a wooden stirrer in the cup, and forgot about it. A cold night froze it solid around the stick. In the morning he pulled it out and had an ice pop.",
+  "bullets": [
+    {
+      "opening": "A doubtful cold night",
+      "linkId": null,
+      "text": "The tale has only one source: Epperson himself. Hard frosts are rare around San Francisco Bay, so some writers doubt the details. It may well be true, but nobody else recorded it happening."
+    },
+    {
+      "opening": "The Epsicle patent",
+      "linkId": null,
+      "text": "Epperson waited until the early 1920s to sell his ice pops, at an amusement park in Alameda, California. In 1923 he applied for a patent on frozen treats on a stick, which he called the Epsicle."
+    },
+    {
+      "opening": "Pop's 'sicle",
+      "linkId": null,
+      "text": "His own children reportedly called it Pop's 'sicle, after their father, and that name stuck instead. Within a couple of years Epperson sold the rights to the Joe Lowe Company of New York, which made Popsicle a national brand."
+    },
+    {
+      "opening": "The twin-stick Popsicle",
+      "linkId": null,
+      "text": "During the Great Depression the company brought out a pop with two sticks. Two children could snap it in half and share one treat bought for a single nickel."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "accidents",
+    "food-history",
+    "names"
+  ],
+  "related": [
+    "toll-house-cookie",
+    "cotton-candy-dentist",
+    "sliced-bread",
+    "tudor-ice-trade",
+    "microwave-chocolate",
+    "instant-ramen-ando"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "birds-chili-heat",
+  "title": "Birds can't feel chili heat",
+  "category": "Food",
+  "hook": "Chili peppers burn mammals, but birds can eat them without feeling a thing.",
+  "peek": "The heat in chili peppers comes from capsaicin, which sets off pain sensors in mammals. Birds' sensors barely respond to it. That difference may be the reason chili peppers are hot at all.",
+  "lede": "Capsaicin, the compound that makes chilies hot, works by switching on a nerve receptor called TRPV1, the same one that warns mammals about scalding heat. Birds have their own version of that receptor, but capsaicin hardly affects it. A bird can swallow a fiery pepper without discomfort, and many wild birds eat chilies happily.",
+  "bullets": [
+    {
+      "opening": "The chiltepin study",
+      "linkId": null,
+      "text": "In 2001 the ecologists Joshua Tewksbury and Gary Nabhan studied wild chiltepin peppers in Arizona. Desert rodents such as cactus mice avoided the hot fruits, while birds called curve-billed thrashers ate them freely."
+    },
+    {
+      "opening": "Directed deterrence",
+      "linkId": null,
+      "text": "Rodents chew and crush pepper seeds, but seeds carried off by birds still sprout. The idea, called directed deterrence, is that the heat keeps away the animals that would waste the seeds and spares the ones that spread them."
+    },
+    {
+      "opening": "Spicy birdseed",
+      "linkId": null,
+      "text": "Some birdseed is coated with chili to keep squirrels away from feeders. The squirrels feel the burn and give up, while the birds keep eating as if nothing had changed."
+    }
+  ],
+  "tags": [
+    "chili-heat",
+    "taste",
+    "evolution",
+    "birds"
+  ],
+  "related": [
+    "scoville-tasters",
+    "menthol-cold",
+    "tabasco-avery-island",
+    "sriracha-trademark",
+    "supertasters"
+  ]
+}

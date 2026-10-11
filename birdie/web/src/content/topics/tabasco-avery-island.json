@@ -1,0 +1,43 @@
+{
+  "id": "tabasco-avery-island",
+  "title": "Tabasco's oak barrels",
+  "category": "Food",
+  "hook": "Tabasco starts as a pepper mash that rests for years in old whiskey barrels.",
+  "peek": "Every bottle of Tabasco comes from a family company on Avery Island, Louisiana. The peppers are mashed with the island's own salt and left to age in oak barrels for up to three years before they become sauce.",
+  "lede": "Edmund McIlhenny first bottled his pepper sauce in 1868, and his family's company still makes it on Avery Island, Louisiana. The recipe is short: peppers, salt and vinegar. The surprise is the time. The mashed peppers are packed into white oak barrels, topped with a layer of salt, and left to age for up to three years.",
+  "bullets": [
+    {
+      "opening": "The Avery Island salt dome",
+      "linkId": null,
+      "text": "Avery Island is not quite an island. It is a low hill rising out of the marshes over a huge dome of rock salt, mined there since the 1860s. That salt goes into the pepper mash and seals the barrels."
+    },
+    {
+      "opening": "Used whiskey barrels",
+      "linkId": null,
+      "text": "The barrels are white oak casks that once held American whiskey. The crust of salt on top lets gas escape while keeping the mash covered as it slowly ferments and mellows. Afterwards it is mixed with vinegar, stirred for weeks and strained."
+    },
+    {
+      "opening": "The little red stick",
+      "linkId": null,
+      "text": "Pickers are said to carry a small red stick, le petit bâton rouge, and pick only peppers that match its colour. Today most of the peppers are grown in Central and South America from seed raised on Avery Island."
+    },
+    {
+      "opening": "Cologne bottles",
+      "linkId": null,
+      "text": "The story goes that McIlhenny sent out his first batches in small cologne bottles with sprinkler tops. The narrow neck and drip top on today's bottle keep the same idea: a few drops go a long way."
+    }
+  ],
+  "tags": [
+    "food-history",
+    "chili-heat",
+    "fermentation",
+    "taste"
+  ],
+  "related": [
+    "sriracha-trademark",
+    "scoville-tasters",
+    "birds-chili-heat",
+    "ketchup-fish-sauce",
+    "honey-keeps"
+  ]
+}

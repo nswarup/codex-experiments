@@ -1,0 +1,44 @@
+{
+  "id": "scoville-tasters",
+  "title": "How the Scoville scale measured heat",
+  "category": "Food",
+  "hook": "The first chili heat scale was measured with tasters and sugar water.",
+  "peek": "In 1912 the pharmacist Wilbur Scoville found a way to rank peppers by heat. He diluted each pepper in sugar water until a panel of tasters could no longer feel any burn, and the dilution became the score.",
+  "lede": "Wilbur Scoville was a pharmacist at the drug company Parke-Davis in Detroit when, in 1912, he wanted a way to compare the heat of different peppers. His answer used human tongues. A pepper extract was mixed into more and more sugar water until tasters stopped feeling the burn. The more dilution it took, the hotter the pepper.",
+  "bullets": [
+    {
+      "opening": "The organoleptic test",
+      "linkId": null,
+      "text": "Dried pepper was soaked in alcohol to draw out its heat compounds. The extract was diluted in sugar water and given to a panel of five tasters, and the score was the dilution at which most of them could no longer detect any heat."
+    },
+    {
+      "opening": "Scoville heat units",
+      "linkId": null,
+      "text": "A score of 5,000 means the extract had to be diluted about 5,000 times before the heat vanished. Jalapeños usually land in the low thousands, while pure capsaicin, the main heat compound, rates around 16 million."
+    },
+    {
+      "opening": "Tired tongues",
+      "linkId": null,
+      "text": "The method had clear weaknesses. Tasters differ, and the burn lingers, so after a few samples tongues grew less sensitive. Results for the same pepper could vary widely from one lab to another."
+    },
+    {
+      "opening": "Measuring heat by machine",
+      "linkId": null,
+      "text": "Today labs mostly use high-performance liquid chromatography, which measures the heat compounds directly. The results are then converted into Scoville units, so the pharmacist's name lives on."
+    }
+  ],
+  "tags": [
+    "chili-heat",
+    "taste",
+    "measurement",
+    "inventors"
+  ],
+  "related": [
+    "birds-chili-heat",
+    "tabasco-avery-island",
+    "sriracha-trademark",
+    "menthol-cold",
+    "supertasters",
+    "tongue-map-myth"
+  ]
+}
