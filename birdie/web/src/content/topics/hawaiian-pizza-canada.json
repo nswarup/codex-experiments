@@ -1,0 +1,43 @@
+{
+  "id": "hawaiian-pizza-canada",
+  "title": "Hawaiian pizza is Canadian",
+  "category": "Food",
+  "hook": "The pizza with pineapple on top was invented in a small town in Ontario.",
+  "peek": "Hawaiian pizza has nothing to do with Hawaii. A Greek-born cook created it in 1962 at his restaurant in Chatham, Ontario, and named it after the brand of canned pineapple he used.",
+  "lede": "Few toppings start as many arguments as pineapple, and few dishes have a more misleading name. Hawaiian pizza was invented in 1962 in Chatham, Ontario, by Sam Panopoulos, who had moved to Canada from Greece. He ran the Satellite Restaurant with his brothers and liked to experiment, so one day he put canned pineapple and ham on a pizza.",
+  "bullets": [
+    {
+      "opening": "The Satellite Restaurant",
+      "linkId": null,
+      "text": "Panopoulos said customers were wary at first, then came back for it. Pizza was still fairly new in small-town Canada at the time, so there was no fixed idea of what belonged on one."
+    },
+    {
+      "opening": "Sweet and savoury",
+      "linkId": null,
+      "text": "He later said he was after the sweet and salty mix of the sweet-and-sour dishes served in Canadian Chinese restaurants. Pineapple and ham gave him the same contrast."
+    },
+    {
+      "opening": "Naming it Hawaiian",
+      "linkId": null,
+      "text": "The name came from the label on the tin of pineapple, not from any visit to the islands. Tiki bars and Polynesian themes were fashionable in North America then, which helped the name stick."
+    },
+    {
+      "opening": "The great pineapple debate",
+      "linkId": null,
+      "text": "The pizza spread around the world and became a running argument. In 2017 Iceland's president joked that he would ban pineapple on pizza if he could, then wrote that he had no power to do so."
+    }
+  ],
+  "tags": [
+    "food-history",
+    "names",
+    "inventors",
+    "myths-busted"
+  ],
+  "related": [
+    "pineapple-status",
+    "caesar-salad",
+    "fortune-cookies",
+    "nachos-ignacio",
+    "bitcoin-pizza-day"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "apple-clones",
+  "title": "Every Granny Smith is a clone",
+  "category": "Food",
+  "hook": "Every Granny Smith tree on Earth is a copy of one seedling found in Sydney.",
+  "peek": "Plant a Granny Smith seed and you will not get a Granny Smith. Apples grown from seed come out unlike their parents, so every tree of this variety is grafted from a single seedling found near Sydney in the 1860s.",
+  "lede": "If you plant the seeds of a Granny Smith, you will not grow Granny Smiths. Apple seeds mix the genes of two parents, and the trees they make bear fruit that is usually smaller, sourer and quite different. So every Granny Smith in the world comes from a cutting, grafted again and again from one chance seedling found near Sydney, Australia, around 1868.",
+  "bullets": [
+    {
+      "opening": "Maria Ann Smith's seedling",
+      "linkId": null,
+      "text": "The apple is named after Maria Ann Smith, a grandmother who farmed at Eastwood, near Sydney. The story goes that a seedling sprang up where she had tossed the leftovers of some apples, and she found its green fruit kept and cooked well."
+    },
+    {
+      "opening": "Why seeds don't breed true",
+      "linkId": null,
+      "text": "Each apple seed is a new mix of its parents' genes, and apples carry a lot of variety. Seed-grown trees are a lottery, which is why growers who find a good one copy it rather than plant its seeds."
+    },
+    {
+      "opening": "How grafting works",
+      "linkId": null,
+      "text": "A grower cuts a twig, called a scion, from the chosen tree and joins it to the roots of another apple tree. The two grow together, and the branches bear the same fruit as the original."
+    },
+    {
+      "opening": "Same for other varieties",
+      "linkId": null,
+      "text": "Nearly every named apple, from Gala to Golden Delicious, is kept going this way. Each variety began as one seedling that someone noticed and decided to copy."
+    },
+    {
+      "opening": "The Granny Smith Festival",
+      "linkId": null,
+      "text": "Eastwood still celebrates its apple with the Granny Smith Festival, held each year since 1985 with a parade and stalls."
+    }
+  ],
+  "tags": [
+    "plants",
+    "food-history",
+    "names",
+    "inventors"
+  ],
+  "related": [
+    "newtons-apple-tree",
+    "pando",
+    "orange-carrots",
+    "brassica-oleracea",
+    "bananas-are-berries",
+    "mendel-peas"
+  ]
+}

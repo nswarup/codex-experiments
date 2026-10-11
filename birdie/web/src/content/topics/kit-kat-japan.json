@@ -1,0 +1,42 @@
+{
+  "id": "kit-kat-japan",
+  "title": "Kit Kat, Japan's good-luck charm",
+  "category": "Food",
+  "hook": "In Japan a Kit Kat is a good-luck gift, because its name sounds like a promise.",
+  "peek": "Say Kit Kat with a Japanese accent and it sounds like kitto katsu, roughly 'you will surely win'. That happy accident turned a British chocolate bar into a popular exam-time charm for Japanese students.",
+  "lede": "Kit Kat began in Britain in the 1930s, but it has a special life in Japan. Spoken in Japanese, the name sounds like kitto katsu, which roughly means 'you will surely win'. The phrase is close to a traditional good-luck wish. Families and friends give the bars to students before their big entrance exams, held in the cold winter months.",
+  "bullets": [
+    {
+      "opening": "Kitto katsu",
+      "linkId": null,
+      "text": "Japanese pronounces Kit Kat as kitto katto, very near kitto katsu. Nobody planned it, but shops in Kyushu noticed sales rising during exam season in the early 2000s, and Nestlé leaned into the idea."
+    },
+    {
+      "opening": "Exam season gifts",
+      "linkId": null,
+      "text": "Students facing high school and university entrance exams receive Kit Kats from parents, friends and teachers. Some packs come with a space to write a message of encouragement."
+    },
+    {
+      "opening": "Kit Kat Mail",
+      "linkId": null,
+      "text": "Around 2009 Nestlé teamed up with Japan Post to sell Kit Kat boxes that could be posted like a postcard. People could send a good-luck bar straight to a student."
+    },
+    {
+      "opening": "Hundreds of flavours",
+      "linkId": null,
+      "text": "Japan also became famous for unusual Kit Kat flavours, from matcha green tea and sakura to regional specialities sold as souvenirs. Hundreds have appeared over the years, many for a limited time."
+    }
+  ],
+  "tags": [
+    "food-history",
+    "names",
+    "communication"
+  ],
+  "related": [
+    "instant-ramen-ando",
+    "california-roll",
+    "fortune-cookies",
+    "nintendo-hanafuda",
+    "tama-station-master"
+  ]
+}

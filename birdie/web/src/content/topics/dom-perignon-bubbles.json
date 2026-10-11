@@ -1,0 +1,48 @@
+{
+  "id": "dom-perignon-bubbles",
+  "title": "Dom Pérignon didn't invent champagne",
+  "category": "Food",
+  "hook": "The monk credited with champagne spent years trying to stop wine from fizzing.",
+  "peek": "Dom Pérignon is remembered as the inventor of champagne, but bubbles were a problem in his day, not a goal. His famous line about tasting the stars was written long after him, in an advertisement.",
+  "lede": "Dom Pierre Pérignon was a Benedictine monk who ran the cellars of the abbey of Hautvillers, near Épernay, from 1668 until 1715. He is often called the inventor of champagne. He was not. In his time the wines of Champagne were meant to be still, and fizz was a fault that winemakers worked hard to prevent.",
+  "bullets": [
+    {
+      "opening": "Wine that refermented",
+      "linkId": null,
+      "text": "Champagne's cold winters halted fermentation before it finished. When spring warmed the cellars it restarted inside the bottle, building pressure that could pop corks or burst the glass. A fizzy wine was a sign that something had gone wrong."
+    },
+    {
+      "opening": "What Pérignon really did",
+      "linkId": null,
+      "text": "His real skill was in the vineyard and the cellar. He was known for blending grapes from different plots, for making clear white wine from dark grapes, and for careful pressing. These ideas helped raise the quality and fame of the region's wine."
+    },
+    {
+      "opening": "Tasting the stars",
+      "linkId": null,
+      "text": "The line 'Come quickly, I am tasting the stars' is usually traced to an advertisement from the late 1800s. There is no record that Pérignon ever said it."
+    },
+    {
+      "opening": "Christopher Merret's paper",
+      "linkId": null,
+      "text": "In 1662 the English scientist Christopher Merret described to the Royal Society how adding sugar to wine made it sparkle. English glassmakers were also producing stronger bottles that could hold the pressure, before French makers widely did so."
+    },
+    {
+      "opening": "Dom Grossard's legend",
+      "linkId": null,
+      "text": "Much of the Pérignon story was spread in the early 1800s by Dom Grossard, a later monk of the abbey, who praised his predecessor generously. Champagne houses were happy to repeat it."
+    }
+  ],
+  "tags": [
+    "food-history",
+    "myths-busted",
+    "wine",
+    "inventors"
+  ],
+  "related": [
+    "croissant-origin",
+    "napoleon-height",
+    "galileo-pisa-myth",
+    "newtons-apple-tree",
+    "stilton-village"
+  ]
+}

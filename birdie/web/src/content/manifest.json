@@ -4128,5 +4128,65 @@
   "id": "coober-pedy",
   "title": "Coober Pedy",
   "category": "Travel"
+ },
+ {
+  "id": "hawaiian-pizza-canada",
+  "title": "Hawaiian pizza is Canadian",
+  "category": "Food"
+ },
+ {
+  "id": "german-chocolate-cake",
+  "title": "German chocolate cake isn't German",
+  "category": "Food"
+ },
+ {
+  "id": "pringles-shape",
+  "title": "The shape of a Pringle",
+  "category": "Food"
+ },
+ {
+  "id": "dom-perignon-bubbles",
+  "title": "Dom Pérignon didn't invent champagne",
+  "category": "Food"
+ },
+ {
+  "id": "california-roll",
+  "title": "Why the California roll is inside out",
+  "category": "Food"
+ },
+ {
+  "id": "instant-ramen-ando",
+  "title": "The shed where instant ramen was born",
+  "category": "Food"
+ },
+ {
+  "id": "kit-kat-japan",
+  "title": "Kit Kat, Japan's good-luck charm",
+  "category": "Food"
+ },
+ {
+  "id": "cashew-apple",
+  "title": "The cashew grows outside its fruit",
+  "category": "Food"
+ },
+ {
+  "id": "bananas-are-berries",
+  "title": "Bananas are berries, strawberries aren't",
+  "category": "Food"
+ },
+ {
+  "id": "apple-clones",
+  "title": "Every Granny Smith is a clone",
+  "category": "Food"
+ },
+ {
+  "id": "brassica-oleracea",
+  "title": "Kale, broccoli and cabbage are one plant",
+  "category": "Food"
+ },
+ {
+  "id": "nutmeg-manhattan",
+  "title": "The nutmeg island traded for Manhattan",
+  "category": "Food"
  }
 ]

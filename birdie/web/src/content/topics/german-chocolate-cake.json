@@ -1,0 +1,44 @@
+{
+  "id": "german-chocolate-cake",
+  "title": "German chocolate cake isn't German",
+  "category": "Food",
+  "hook": "The cake is named after a man called Sam German, who never lived in Germany.",
+  "peek": "German chocolate cake was born in Texas, not Germany. It takes its name from Samuel German, an American who created a sweet baking chocolate in 1852, and a newspaper recipe a century later made it famous.",
+  "lede": "German chocolate cake, with its layers and its gooey coconut and pecan frosting, sounds like a European classic. It is American through and through. The name comes from Samuel German, an English-born American who worked for the Baker's chocolate company. In 1852 he developed a dark, sweet baking chocolate, and the company sold it as Baker's German's Sweet Chocolate.",
+  "bullets": [
+    {
+      "opening": "Baker's German's Sweet Chocolate",
+      "linkId": null,
+      "text": "German's recipe mixed sugar into the chocolate, so home bakers no longer had to sweeten plain baking chocolate themselves. The bar carried his name for more than a century."
+    },
+    {
+      "opening": "The 1957 Dallas recipe",
+      "linkId": null,
+      "text": "The cake itself came much later. In 1957 a Dallas newspaper printed a reader's recipe for German's Chocolate Cake, made with the sweet bar. It caught on, and sales of the chocolate jumped as bakers went looking for it."
+    },
+    {
+      "opening": "Dropping the apostrophe",
+      "linkId": null,
+      "text": "As the recipe travelled, German's Chocolate Cake was shortened to German chocolate cake. Without the possessive it sounded like a cake from Germany, and the mix-up has stuck ever since."
+    },
+    {
+      "opening": "Coconut-pecan frosting",
+      "linkId": null,
+      "text": "The cake is known for its frosting, cooked from evaporated milk, egg yolks, sugar and butter, then stirred with coconut and pecans. It usually goes between the layers and on top, with the sides often left bare."
+    }
+  ],
+  "tags": [
+    "food-history",
+    "names",
+    "myths-busted",
+    "inventors"
+  ],
+  "related": [
+    "toll-house-cookie",
+    "sandwich-earl",
+    "caesar-salad",
+    "nachos-ignacio",
+    "hawaiian-pizza-canada",
+    "croissant-origin"
+  ]
+}

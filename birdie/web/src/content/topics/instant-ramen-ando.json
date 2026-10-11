@@ -1,0 +1,47 @@
+{
+  "id": "instant-ramen-ando",
+  "title": "The shed where instant ramen was born",
+  "category": "Food",
+  "hook": "Instant noodles were invented in 1958 by a man working alone in a backyard shed.",
+  "peek": "Momofuku Ando was 48 and had lost his business when he started tinkering in a shed behind his house in Osaka. A year later he had Chicken Ramen, the first instant noodles, and the trick came from his kitchen.",
+  "lede": "In 1957 Momofuku Ando had lost his business and had little left but a shed behind his house in Ikeda, near Osaka. He set out to make noodles that anyone could cook with nothing more than hot water. He worked on his own for about a year, and in 1958 he launched Chicken Ramen, the first instant noodles.",
+  "bullets": [
+    {
+      "opening": "Queues for ramen",
+      "linkId": null,
+      "text": "Ando said the idea came from the years after the war, when he saw long lines of people waiting in the cold for bowls of ramen at a stall. He wanted a cheap, warm meal that could be made at home."
+    },
+    {
+      "opening": "Masako's tempura",
+      "linkId": null,
+      "text": "The breakthrough, as Ando told it, came while watching his wife Masako fry tempura. Frying noodles in hot oil drove out the water and left tiny holes, so later they soaked up boiling water quickly and softened in minutes."
+    },
+    {
+      "opening": "Chicken Ramen",
+      "linkId": null,
+      "text": "His first product came already seasoned with chicken broth, ready after a few minutes in hot water. It was pricier than fresh noodles at first, but it sold well, and Ando's company became Nissin."
+    },
+    {
+      "opening": "Cup Noodles",
+      "linkId": null,
+      "text": "In 1971 Ando launched Cup Noodles. He said the idea came on a trip to the United States, where he saw people breaking noodles into cups because they had no ramen bowls."
+    },
+    {
+      "opening": "The museum's shed",
+      "linkId": null,
+      "text": "The CupNoodles Museums in Ikeda and Yokohama include a replica of his shed. Visitors can design their own cup of noodles, and in Ikeda they can try making Chicken Ramen by hand."
+    }
+  ],
+  "tags": [
+    "food-history",
+    "inventors",
+    "accidents"
+  ],
+  "related": [
+    "kit-kat-japan",
+    "california-roll",
+    "gemini-corned-beef",
+    "toll-house-cookie",
+    "post-it"
+  ]
+}

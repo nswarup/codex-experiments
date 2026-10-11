@@ -1,0 +1,48 @@
+{
+  "id": "california-roll",
+  "title": "Why the California roll is inside out",
+  "category": "Food",
+  "hook": "This sushi wears its rice on the outside, and the usual reason is shy diners.",
+  "peek": "The California roll turns sushi inside out, with rice wrapped around the seaweed. The usual story is that North American diners in the 1960s and 70s were put off by the dark sheet, so chefs hid it.",
+  "lede": "In a traditional maki roll, a sheet of nori seaweed wraps around the rice. The California roll flips that. Rice sits on the outside, often rolled in sesame seeds, and the nori hides inside around crab, avocado and cucumber. The usual explanation is that many North American diners of the 1960s and 70s were unsure about chewing a dark sheet of seaweed.",
+  "bullets": [
+    {
+      "opening": "Inside-out rolls",
+      "linkId": null,
+      "text": "Japanese chefs call this style uramaki, roughly 'inside-out roll'. Putting the rice outside made the roll look more like a familiar rice dish, and the seaweed, still there for flavour, was simply out of sight."
+    },
+    {
+      "opening": "Ichiro Mashita in Los Angeles",
+      "linkId": null,
+      "text": "One common account credits Ichiro Mashita, a sushi chef at the Tokyo Kaikan restaurant in Los Angeles in the 1960s. Fatty tuna was hard to get year round, so he tried avocado, whose rich, oily texture stood in for it."
+    },
+    {
+      "opening": "Hidekazu Tojo's claim",
+      "linkId": null,
+      "text": "The Vancouver chef Hidekazu Tojo says he created the roll in the 1970s, turning it inside out because his customers disliked the seaweed. Both claims have supporters, and the true first maker is still disputed."
+    },
+    {
+      "opening": "Crab and avocado",
+      "linkId": null,
+      "text": "Many versions use imitation crab, a seafood paste shaped into sticks, along with avocado and cucumber. These were mild, easy ingredients for diners new to raw fish."
+    },
+    {
+      "opening": "Sushi's gateway roll",
+      "linkId": null,
+      "text": "The roll became a gentle first step into sushi for many Americans, and it helped sushi spread across North America. The inside-out style it popularised now appears on menus in Japan too."
+    }
+  ],
+  "tags": [
+    "food-history",
+    "names",
+    "design"
+  ],
+  "related": [
+    "fake-wasabi",
+    "umami",
+    "fortune-cookies",
+    "instant-ramen-ando",
+    "kit-kat-japan",
+    "hawaiian-pizza-canada"
+  ]
+}

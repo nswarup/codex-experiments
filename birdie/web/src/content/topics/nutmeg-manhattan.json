@@ -1,0 +1,43 @@
+{
+  "id": "nutmeg-manhattan",
+  "title": "The nutmeg island traded for Manhattan",
+  "category": "Food",
+  "hook": "In 1667 the Dutch kept a tiny nutmeg island and let the English keep Manhattan.",
+  "peek": "Run is a speck of an island in Indonesia, once one of the only places on Earth where nutmeg grew. In 1667 the Dutch held on to it while England kept Manhattan, and at the time many thought the Dutch had done better.",
+  "lede": "Run is a small island in the Banda Islands of eastern Indonesia, only a few kilometres long. In the 1600s the Bandas were the world's only source of nutmeg, a spice prized across Europe. England and the Netherlands both wanted Run. In 1667 the Treaty of Breda settled things: the Dutch kept Run, and the English kept Manhattan, which they had taken in 1664.",
+  "bullets": [
+    {
+      "opening": "The Banda Islands",
+      "linkId": null,
+      "text": "Nutmeg trees grew only on these few islands. The spice and its lacy red covering, mace, were carried to Europe and sold at huge markups, and whoever controlled the islands controlled the trade."
+    },
+    {
+      "opening": "Nathaniel Courthope on Run",
+      "linkId": null,
+      "text": "In 1616 the English merchant Nathaniel Courthope persuaded the islanders of Run to accept the English king, giving England a small foothold in the nutmeg trade. The Dutch soon pushed the English out, but the claim lingered."
+    },
+    {
+      "opening": "The Treaty of Breda",
+      "linkId": null,
+      "text": "The treaty, which ended a war between England and the Dutch Republic, let each side keep what it held. It was not a direct swap, but England gave up its claim to Run, while New Amsterdam stayed English as New York."
+    },
+    {
+      "opening": "Who got the better deal",
+      "linkId": null,
+      "text": "For a while the Dutch kept their monopoly on nutmeg. In the 1700s and 1800s, though, French and British traders took nutmeg seedlings to other tropical islands, and the monopoly faded. Grenada now has a nutmeg on its flag."
+    }
+  ],
+  "tags": [
+    "food-history",
+    "maps",
+    "trade"
+  ],
+  "related": [
+    "tudor-ice-trade",
+    "saffron-crocus",
+    "vanilla-edmond-albius",
+    "tulip-mania",
+    "cashew-apple",
+    "rai-stones"
+  ]
+}

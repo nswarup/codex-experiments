@@ -1,0 +1,47 @@
+{
+  "id": "bananas-are-berries",
+  "title": "Bananas are berries, strawberries aren't",
+  "category": "Food",
+  "hook": "To a botanist, bananas and grapes are berries, while strawberries are not.",
+  "peek": "In botany, a berry is a fleshy fruit that grows from a single flower with one ovary. By that rule bananas, grapes, tomatoes and even avocados are berries, and strawberries and raspberries are something else.",
+  "lede": "The word berry is older than botany, so cooks and scientists use it differently. To a botanist, a berry is a fleshy fruit that develops from one flower with a single ovary, with its seeds held inside the flesh. By that definition bananas, grapes, tomatoes, kiwis, aubergines and chilli peppers are all berries. Strawberries and raspberries are not.",
+  "bullets": [
+    {
+      "opening": "The botanical berry",
+      "linkId": null,
+      "text": "A true berry has a soft wall all the way through, often in three layers from skin to centre. Grapes and blueberries fit neatly. So do tomatoes, which surprises people who call them vegetables in the kitchen."
+    },
+    {
+      "opening": "Seeds in a banana",
+      "linkId": null,
+      "text": "Wild bananas are full of hard seeds. The bananas we buy come from plants bred to be seedless, and the tiny dark specks in the middle are what is left of them."
+    },
+    {
+      "opening": "The avocado",
+      "linkId": null,
+      "text": "An avocado grows from one flower and one ovary, with its single seed inside the flesh, so many botanists count it as a berry with just one seed."
+    },
+    {
+      "opening": "Strawberry seeds",
+      "linkId": null,
+      "text": "A strawberry grows from the swollen base of the flower, not its ovary. The little 'seeds' on the outside are the true fruits, each holding a seed of its own."
+    },
+    {
+      "opening": "Raspberry drupelets",
+      "linkId": null,
+      "text": "A raspberry grows from one flower with many ovaries. Each becomes a tiny bead of fruit called a drupelet, and the clump together is an aggregate fruit, not a berry."
+    }
+  ],
+  "tags": [
+    "plants",
+    "names",
+    "myths-busted"
+  ],
+  "related": [
+    "tomato-supreme-court",
+    "cashew-apple",
+    "brassica-oleracea",
+    "pineapple-status",
+    "orange-carrots"
+  ]
+}

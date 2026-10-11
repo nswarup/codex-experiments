@@ -1,0 +1,47 @@
+{
+  "id": "cashew-apple",
+  "title": "The cashew grows outside its fruit",
+  "category": "Food",
+  "hook": "Each cashew hangs alone beneath a soft, juicy fruit that most people never see.",
+  "peek": "A cashew nut grows on the outside of a bright, pear-shaped fruit called the cashew apple. Where cashew trees grow, people eat and juice the apple, but it bruises too easily to travel far.",
+  "lede": "A cashew tree does something odd. Each nut hangs by itself from the bottom of a soft, glossy fruit, red or yellow and shaped a bit like a small pear or pepper. This is the cashew apple. It is juicy and sweet with a sharp edge, and where cashews grow it is eaten fresh, juiced and made into sweets.",
+  "bullets": [
+    {
+      "opening": "A false fruit",
+      "linkId": null,
+      "text": "Botanically, the cashew apple is a swollen stalk, not a true fruit. The true fruit is the kidney-shaped shell hanging underneath, and the nut we eat is the seed inside it. Each cashew apple carries just one nut."
+    },
+    {
+      "opening": "Why cashews come shelled",
+      "linkId": null,
+      "text": "The shell holds a sharp, irritating oil related to the one in poison ivy. Cashews are roasted or steamed so the shell can be cracked away safely, which is why they are never sold in the shell."
+    },
+    {
+      "opening": "Juice in Brazil",
+      "linkId": null,
+      "text": "The cashew tree is native to northeastern Brazil, where the apple is called caju. It is pressed into juice and a clear drink called cajuína, and cooked into sweets."
+    },
+    {
+      "opening": "Feni in Goa",
+      "linkId": null,
+      "text": "Portuguese traders carried the tree from Brazil to India and Africa in the 1500s. In Goa, cashew apples are fermented and distilled into feni, a strong local spirit."
+    },
+    {
+      "opening": "Too soft to travel",
+      "linkId": null,
+      "text": "The apple bruises and spoils within a day or so of falling. That is why the nut became a world crop while its fruit stayed mostly a local treat."
+    }
+  ],
+  "tags": [
+    "plants",
+    "food-history",
+    "myths-busted"
+  ],
+  "related": [
+    "bananas-are-berries",
+    "pineapple-status",
+    "brassica-oleracea",
+    "nutmeg-manhattan",
+    "vanilla-edmond-albius"
+  ]
+}

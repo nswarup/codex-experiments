@@ -1,0 +1,43 @@
+{
+  "id": "brassica-oleracea",
+  "title": "Kale, broccoli and cabbage are one plant",
+  "category": "Food",
+  "hook": "Cabbage, kale, broccoli and Brussels sprouts are all the same species of plant.",
+  "peek": "Wild cabbage grows on seaside cliffs in Europe. Over centuries, farmers bred it into cabbage, kale, broccoli, cauliflower, kohlrabi and Brussels sprouts, which are all still one species: Brassica oleracea.",
+  "lede": "Cabbage, kale, broccoli, cauliflower, kohlrabi and Brussels sprouts look like different vegetables. Botanically they are one species, Brassica oleracea. They all descend from wild cabbage, a scrubby plant of the coasts of western and southern Europe. Over many centuries, farmers kept seed from the plants they liked best, and each line became a different vegetable.",
+  "bullets": [
+    {
+      "opening": "Wild cabbage",
+      "linkId": null,
+      "text": "Wild cabbage still grows on chalk and limestone sea cliffs in places such as southern England. It has thick, waxy leaves that help it hold water in salty, windy spots."
+    },
+    {
+      "opening": "Breeding for different parts",
+      "linkId": null,
+      "text": "Each crop exaggerates one part of the same plant. Kale has big leaves, cabbage a huge tight end bud, Brussels sprouts many small side buds, kohlrabi a swollen stem, and broccoli and cauliflower thick clusters of flower buds."
+    },
+    {
+      "opening": "Still one species",
+      "linkId": null,
+      "text": "Because they are one species, these vegetables can cross with one another. Seed growers keep them apart when they flower, or a field of cabbage can produce odd offspring."
+    },
+    {
+      "opening": "Romanesco's spirals",
+      "linkId": null,
+      "text": "Romanesco, a pale green relative of cauliflower, grows in spiralling cones made of smaller cones. The number of spirals usually matches a Fibonacci number, like the seed heads of sunflowers."
+    }
+  ],
+  "tags": [
+    "plants",
+    "food-history",
+    "patterns"
+  ],
+  "related": [
+    "orange-carrots",
+    "bananas-are-berries",
+    "apple-clones",
+    "fibonacci-sunflowers",
+    "mendel-peas",
+    "cilantro-gene"
+  ]
+}
