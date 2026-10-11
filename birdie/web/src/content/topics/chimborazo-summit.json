@@ -1,0 +1,43 @@
+{
+  "id": "chimborazo-summit",
+  "title": "Chimborazo, the real top of the world",
+  "category": "Nature",
+  "hook": "The point on Earth farthest from its centre is not on Everest but in Ecuador.",
+  "peek": "Everest is the tallest mountain above sea level. But Earth bulges at the equator, so the summit of Chimborazo in Ecuador, much lower by the usual measure, actually sticks out about 2 kilometres farther into space.",
+  "lede": "Measured from sea level, Everest wins easily at about 8,849 metres, while Chimborazo, a volcano in Ecuador, reaches about 6,263. But Earth is not a perfect ball. Spinning makes it bulge at the equator, and Chimborazo sits almost on top of that bulge. Its summit ends up roughly 2 kilometres farther from Earth's centre than Everest's.",
+  "bullets": [
+    {
+      "opening": "The equatorial bulge",
+      "linkId": null,
+      "text": "Earth is about 43 kilometres wider across the equator than from pole to pole. Sea level itself is higher there, so a mountain near the equator starts from a raised base, while Everest, at about 28 degrees north, does not."
+    },
+    {
+      "opening": "Humboldt's 1802 climb",
+      "linkId": null,
+      "text": "The explorer Alexander von Humboldt tried to climb Chimborazo in 1802 and reached about 5,900 metres before turning back. At the time it was believed to be the highest mountain in the world, and no one was known to have climbed higher."
+    },
+    {
+      "opening": "Whymper's first ascent",
+      "linkId": null,
+      "text": "The English climber Edward Whymper reached the summit in 1880 with the Italian guides Jean-Antoine and Louis Carrel. He climbed it again the same year to prove doubters wrong."
+    },
+    {
+      "opening": "Closest to the stars",
+      "linkId": null,
+      "text": "Because of the bulge, standing on Chimborazo's summit puts you closer to the Moon and stars than anyone standing on Everest. It is the spot on the surface nearest to space."
+    }
+  ],
+  "tags": [
+    "records",
+    "maps",
+    "myths-busted",
+    "mountains"
+  ],
+  "related": [
+    "geoid",
+    "eratosthenes-earth",
+    "olympus-mons",
+    "metre-from-meridian",
+    "kola-borehole"
+  ]
+}

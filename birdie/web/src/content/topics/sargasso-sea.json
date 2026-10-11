@@ -1,0 +1,43 @@
+{
+  "id": "sargasso-sea",
+  "title": "The Sargasso Sea",
+  "category": "Nature",
+  "hook": "The only sea on Earth with no coastline is fenced in by ocean currents instead.",
+  "peek": "In the middle of the North Atlantic lies a sea with no shore at all. Its edges are four great currents that circle it, and its warm, still surface is dotted with floating mats of golden seaweed.",
+  "lede": "Every other sea has land along at least part of its edge. The Sargasso Sea, in the North Atlantic, has none. It is defined by four ocean currents, including the Gulf Stream, that loop around it in a slow clockwise ring. Inside that ring the water is calm, warm and very clear, and on its surface float rafts of golden-brown sargassum seaweed.",
+  "bullets": [
+    {
+      "opening": "Seaweed that never anchors",
+      "linkId": null,
+      "text": "Most seaweed clings to rocks. The sargassum here floats its whole life on tiny gas-filled bladders and grows new pieces by simply breaking apart. The sea is named after it, from an old Portuguese word."
+    },
+    {
+      "opening": "Columbus crosses the weed",
+      "linkId": null,
+      "text": "Christopher Columbus's ships sailed through it in 1492. His crew noted the floating weed, and the calm winds made the crossing slow, which helped spread later sailors' stories of ships trapped in weed."
+    },
+    {
+      "opening": "Where eels are born",
+      "linkId": null,
+      "text": "European and American eels travel thousands of kilometres to breed in the Sargasso Sea. The Danish scientist Johannes Schmidt worked this out in the 1920s by following ever smaller eel larvae back to it."
+    },
+    {
+      "opening": "A floating home",
+      "linkId": null,
+      "text": "The seaweed rafts shelter a whole community, including the sargassum fish, which is camouflaged to look like the weed. Young sea turtles drift in the mats for their first years."
+    }
+  ],
+  "tags": [
+    "borders",
+    "maps",
+    "water",
+    "ocean"
+  ],
+  "related": [
+    "bay-of-fundy-tides",
+    "draupner-rogue-wave",
+    "point-nemo",
+    "lake-baikal",
+    "arctic-tern"
+  ]
+}

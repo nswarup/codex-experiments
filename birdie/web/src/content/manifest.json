@@ -4248,5 +4248,65 @@
   "id": "barra-beach-airport",
   "title": "Barra's beach airport",
   "category": "Travel"
+ },
+ {
+  "id": "asperitas-clouds",
+  "title": "Asperitas, the newest cloud",
+  "category": "Nature"
+ },
+ {
+  "id": "noctilucent-clouds",
+  "title": "Noctilucent clouds",
+  "category": "Nature"
+ },
+ {
+  "id": "lake-baikal",
+  "title": "Lake Baikal",
+  "category": "Nature"
+ },
+ {
+  "id": "richat-structure",
+  "title": "The Eye of the Sahara",
+  "category": "Nature"
+ },
+ {
+  "id": "giants-causeway",
+  "title": "The Giant's Causeway",
+  "category": "Nature"
+ },
+ {
+  "id": "chimborazo-summit",
+  "title": "Chimborazo, the real top of the world",
+  "category": "Nature"
+ },
+ {
+  "id": "angel-falls",
+  "title": "Angel Falls",
+  "category": "Nature"
+ },
+ {
+  "id": "bay-of-fundy-tides",
+  "title": "The Bay of Fundy tides",
+  "category": "Nature"
+ },
+ {
+  "id": "draupner-rogue-wave",
+  "title": "The Draupner wave",
+  "category": "Nature"
+ },
+ {
+  "id": "sargasso-sea",
+  "title": "The Sargasso Sea",
+  "category": "Nature"
+ },
+ {
+  "id": "hyperion-redwood",
+  "title": "Hyperion, the tallest tree",
+  "category": "Nature"
+ },
+ {
+  "id": "wollemi-pine",
+  "title": "The Wollemi pine",
+  "category": "Nature"
  }
 ]

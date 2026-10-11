@@ -1,0 +1,43 @@
+{
+  "id": "angel-falls",
+  "title": "Angel Falls",
+  "category": "Nature",
+  "hook": "The tallest waterfall on Earth is named after a pilot who got his plane stuck on top.",
+  "peek": "Angel Falls in Venezuela drops nearly a kilometre from the top of a flat mountain. It carries the name of Jimmie Angel, an American pilot who landed there in 1937, sank into the bog and had to walk down.",
+  "lede": "Angel Falls tumbles about 979 metres off the edge of Auyán-tepui, a flat-topped mountain in Venezuela's Canaima National Park, with an unbroken drop of about 807 metres. That makes it the tallest waterfall in the world. Its name comes not from anything heavenly but from Jimmie Angel, an American bush pilot who landed his plane on top in 1937.",
+  "bullets": [
+    {
+      "opening": "Jimmie Angel's landing",
+      "linkId": null,
+      "text": "Angel flew over the falls in the 1930s while searching for gold. On 9 October 1937 he landed on the mountaintop with his wife Marie and two companions. The ground was a bog, and the plane's wheels sank in."
+    },
+    {
+      "opening": "The walk down",
+      "linkId": null,
+      "text": "Unable to take off, the four set out on foot. It took them about 11 days to pick their way off the mountain and back to a settlement, and news of their trip made the falls famous."
+    },
+    {
+      "opening": "The plane on the summit",
+      "linkId": null,
+      "text": "The plane, a Flamingo monoplane, stayed on top for 33 years. In 1970 it was lifted off by helicopter and restored, and it now stands outside the airport in Ciudad Bolívar."
+    },
+    {
+      "opening": "Kerepakupai Merú",
+      "linkId": null,
+      "text": "The local Pemón people knew the falls long before Angel. In their language it is called Kerepakupai Merú, often translated as waterfall of the deepest place, and Venezuela now promotes that name too."
+    }
+  ],
+  "tags": [
+    "records",
+    "names",
+    "aviation",
+    "waterfalls"
+  ],
+  "related": [
+    "chimborazo-summit",
+    "lake-baikal",
+    "bay-of-fundy-tides",
+    "hyperion-redwood",
+    "salar-de-uyuni"
+  ]
+}

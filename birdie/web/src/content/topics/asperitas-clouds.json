@@ -1,0 +1,43 @@
+{
+  "id": "asperitas-clouds",
+  "title": "Asperitas, the newest cloud",
+  "category": "Nature",
+  "hook": "A rough, wave-like cloud got into the official atlas thanks to amateur spotters.",
+  "peek": "In 2017 the World Meteorological Organization added asperitas, a dark, choppy cloud base that looks like a stormy sea seen from below. The push came not from scientists but from members of a cloud-spotting club who kept sending in photos.",
+  "lede": "Cloud names are set by the World Meteorological Organization in its International Cloud Atlas, and they rarely change. In 2017 a new entry appeared: asperitas, a cloud base that looks like the underside of a rough sea. It was the first new cloud term added since 1951, and the campaign for it was started by people who simply like looking up.",
+  "bullets": [
+    {
+      "opening": "The Cloud Appreciation Society",
+      "linkId": null,
+      "text": "Gavin Pretor-Pinney, who founded the society in 2005, noticed members sending in photos of a cloud that matched no official type. Around 2009 he proposed a name for it and spent years making the case to meteorologists."
+    },
+    {
+      "opening": "The Cedar Rapids photos",
+      "linkId": null,
+      "text": "Some of the best known early pictures were taken over Cedar Rapids, Iowa, in 2006. They show a dark, heaving ceiling of cloud with no rain falling, like waves frozen in place."
+    },
+    {
+      "opening": "A supplementary feature",
+      "linkId": null,
+      "text": "Strictly speaking, asperitas is not a new cloud type. The atlas lists it as a supplementary feature, a detail that can appear on existing clouds such as stratocumulus. Its Latin name means roughness."
+    },
+    {
+      "opening": "How asperitas forms",
+      "linkId": null,
+      "text": "Meteorologists are still working out exactly what shapes it. The leading idea is that waves in the air beneath the cloud, sometimes left behind after storms, ripple its underside into those rolling troughs."
+    }
+  ],
+  "tags": [
+    "weather",
+    "names",
+    "clouds",
+    "hobbies"
+  ],
+  "related": [
+    "morning-glory-clouds",
+    "noctilucent-clouds",
+    "snowflake-bentley",
+    "red-sprites",
+    "rainbow-circles"
+  ]
+}

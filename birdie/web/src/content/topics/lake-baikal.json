@@ -1,0 +1,43 @@
+{
+  "id": "lake-baikal",
+  "title": "Lake Baikal",
+  "category": "Nature",
+  "hook": "One lake in Siberia holds more fresh water than all five Great Lakes put together.",
+  "peek": "Lake Baikal is narrow enough to look like a big river on a map, yet it is over 1.6 kilometres deep. That depth lets it hold roughly a fifth of all the unfrozen fresh surface water on Earth.",
+  "lede": "On a map, Lake Baikal in southern Siberia is a long thin crescent, about 640 kilometres from end to end. Its secret is depth. The bottom lies more than 1,600 metres below the surface, making it the deepest lake in the world. That gives it about a fifth of the planet's unfrozen surface fresh water, more than the Great Lakes of North America combined.",
+  "bullets": [
+    {
+      "opening": "The oldest lake",
+      "linkId": null,
+      "text": "Baikal sits in a rift where the Earth's crust is slowly pulling apart, and it has existed for roughly 25 million years. Most lakes fill with sediment within tens of thousands of years, so it is considered the oldest lake on Earth."
+    },
+    {
+      "opening": "The Baikal seal",
+      "linkId": null,
+      "text": "The lake has its own seal, the nerpa, one of the very few seals that live only in fresh water. It is more than 1,500 kilometres from the nearest ocean, and how its ancestors got there is still debated."
+    },
+    {
+      "opening": "Clear winter ice",
+      "linkId": null,
+      "text": "In winter the lake freezes thick enough for marked ice roads, and the ice is often so clear that people can see far down into the water below. Wind cracks and refreezes it into blue sheets that draw photographers."
+    },
+    {
+      "opening": "A World Heritage Site",
+      "linkId": null,
+      "text": "UNESCO listed Baikal in 1996. Its long isolation means that most of the plants and animals living in it are found nowhere else."
+    }
+  ],
+  "tags": [
+    "records",
+    "scale",
+    "lakes",
+    "water"
+  ],
+  "related": [
+    "sargasso-sea",
+    "bay-of-fundy-tides",
+    "angel-falls",
+    "richat-structure",
+    "point-nemo"
+  ]
+}

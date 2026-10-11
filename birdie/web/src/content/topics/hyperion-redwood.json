@@ -1,0 +1,43 @@
+{
+  "id": "hyperion-redwood",
+  "title": "Hyperion, the tallest tree",
+  "category": "Nature",
+  "hook": "The tallest known tree on Earth stands in California, and its exact spot is a secret.",
+  "peek": "In 2006 two naturalists found a coast redwood about 116 metres tall in Redwood National Park. The park keeps its location quiet, and anyone who goes looking off the trail can face a large fine.",
+  "lede": "In August 2006 the naturalists Chris Atkins and Michael Taylor, who had spent years hunting tall trees, found a coast redwood in a remote valley of California's Redwood National Park. They named it Hyperion, after a Titan of Greek myth. At about 116 metres, it is the tallest living tree known, taller than the Statue of Liberty with its pedestal.",
+  "bullets": [
+    {
+      "opening": "Measuring Hyperion",
+      "linkId": null,
+      "text": "Lasers from the ground gave a first estimate, but the height was confirmed by the botanist Stephen Sillett, who climbed the tree and dropped a measuring tape from the top to the ground."
+    },
+    {
+      "opening": "Helios and Icarus",
+      "linkId": null,
+      "text": "Hyperion was not their only find that summer. A few weeks earlier, Atkins and Taylor had found two other giants nearby, Helios and Icarus, each over 110 metres."
+    },
+    {
+      "opening": "Tallest, not biggest",
+      "linkId": null,
+      "text": "Hyperion has the height record, but not the bulk. The largest tree by volume is General Sherman, a giant sequoia in the Sierra Nevada, which is much shorter but far thicker."
+    },
+    {
+      "opening": "A secret location",
+      "linkId": null,
+      "text": "Fans who shared directions online led to trampled ground and new paths around the roots. In 2022 the park closed the area, warning of fines up to 5,000 dollars and possible jail time for anyone caught there."
+    }
+  ],
+  "tags": [
+    "records",
+    "scale",
+    "trees",
+    "secrets"
+  ],
+  "related": [
+    "wollemi-pine",
+    "pando",
+    "methuselah-date-palm",
+    "rainbow-eucalyptus",
+    "tree-ring-dating"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "richat-structure",
+  "title": "The Eye of the Sahara",
+  "category": "Nature",
+  "hook": "A giant stone bullseye in the Sahara looks like an impact crater, but it isn't one.",
+  "peek": "In the desert of Mauritania sits a set of rings about 40 kilometres across, so clear from orbit that astronauts used it as a landmark. It looks like the scar of a meteorite, but it was made by slow uplift and wind and water.",
+  "lede": "The Richat Structure in Mauritania is hard to notice from the ground, where it just looks like rocky desert. From space it is a near perfect set of concentric rings about 40 kilometres across. Early astronauts used it as a landmark, and many people assumed it was an impact crater. Geologists found no sign of an impact at all.",
+  "bullets": [
+    {
+      "opening": "A landmark for astronauts",
+      "linkId": null,
+      "text": "Because it stands out so sharply against the flat sands, the Eye of the Sahara became a familiar sight for crews from the Gemini missions of the 1960s onward, who used it to get their bearings."
+    },
+    {
+      "opening": "No sign of impact",
+      "linkId": null,
+      "text": "A meteorite strike leaves shocked minerals and melted rock, and the Richat has neither. Its centre is also flat rather than a bowl, which ruled out the crater idea."
+    },
+    {
+      "opening": "A dome worn flat",
+      "linkId": null,
+      "text": "Geologists think molten rock pushed the ground up into a dome roughly 100 million years ago. Erosion then sliced off the top, exposing rings of hard and soft rock that wear away at different speeds."
+    },
+    {
+      "opening": "The Atlantis claims",
+      "linkId": null,
+      "text": "Online videos sometimes claim the rings are the lost city of Atlantis. Geologists see nothing to support this: the rings are natural rock layers, formed long before any people existed."
+    }
+  ],
+  "tags": [
+    "maps",
+    "myths-busted",
+    "space-exploration",
+    "geology"
+  ],
+  "related": [
+    "giants-causeway",
+    "salar-de-uyuni",
+    "pale-blue-dot",
+    "overview-effect",
+    "singing-dunes"
+  ]
+}

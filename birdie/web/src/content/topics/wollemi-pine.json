@@ -1,0 +1,48 @@
+{
+  "id": "wollemi-pine",
+  "title": "The Wollemi pine",
+  "category": "Nature",
+  "hook": "A tree that matched ancient fossils turned up alive in a canyon near Sydney.",
+  "peek": "In 1994 a park officer abseiling into a gorge in the Blue Mountains noticed trees with strange bubbly bark. They turned out to be a species nobody had described, related to trees once known only from fossils. Fewer than 100 grow in the wild.",
+  "lede": "In September 1994, David Noble, a ranger with the New South Wales parks service, was exploring a remote canyon in Wollemi National Park, about 150 kilometres from Sydney. He noticed some unusual trees and took a sample. Botanists realised it belonged to no known species. It became one of the great plant finds of the century.",
+  "bullets": [
+    {
+      "opening": "A fossil come to life",
+      "linkId": null,
+      "text": "The tree belongs to an ancient family of conifers. Its pollen matches a type long known from fossils in rocks around 90 million years old, which had no known living plant to go with it."
+    },
+    {
+      "opening": "Wollemia nobilis",
+      "linkId": null,
+      "text": "The tree was named for the national park and for its discoverer. Its bark is one of its oddest features: knobbly and brown, often compared to bubbling chocolate."
+    },
+    {
+      "opening": "The secret grove",
+      "linkId": null,
+      "text": "Fewer than 100 adult trees grow in the wild, in a few small stands. The location is kept secret, and unauthorised visits are banned, so that boots and visitors cannot trample or disturb the grove."
+    },
+    {
+      "opening": "Wollemi pines for sale",
+      "linkId": null,
+      "text": "To ease the pressure on the wild trees, scientists grew them from cuttings, and from 2005 Wollemi pines went on sale to the public. Gardens around the world now grow them, many as potted plants."
+    },
+    {
+      "opening": "Saving the grove in 2019",
+      "linkId": null,
+      "text": "During Australia's major bushfires of 2019 and 2020, firefighters set up an irrigation system and dropped water near the grove. The wild trees came through."
+    }
+  ],
+  "tags": [
+    "trees",
+    "secrets",
+    "fossils",
+    "botany"
+  ],
+  "related": [
+    "hyperion-redwood",
+    "welwitschia",
+    "methuselah-date-palm",
+    "pando",
+    "bamboo-mass-flowering"
+  ]
+}

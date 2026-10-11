@@ -1,0 +1,43 @@
+{
+  "id": "bay-of-fundy-tides",
+  "title": "The Bay of Fundy tides",
+  "category": "Nature",
+  "hook": "In one Canadian bay the sea rises and falls by up to 16 metres twice a day.",
+  "peek": "In most places the tide moves a metre or two. In the Bay of Fundy, between New Brunswick and Nova Scotia, it can rise as high as a five-storey building, because the bay's own rhythm happens to match the Moon's.",
+  "lede": "Most coasts see the tide change by a metre or two. At the head of the Bay of Fundy in eastern Canada, the difference between low and high tide can reach about 16 metres, the largest in the world. The Moon does not pull harder here. Instead, the bay is just the right size and shape for its water to slosh in time with the tides.",
+  "bullets": [
+    {
+      "opening": "Resonance in the bay",
+      "linkId": null,
+      "text": "Water in a long basin rocks back and forth at its own natural pace. In Fundy that pace is around 13 hours, very close to the 12 hours 25 minutes between high tides, so each tide gives the sloshing another push."
+    },
+    {
+      "opening": "Burntcoat Head",
+      "linkId": null,
+      "text": "The record range is usually given for Burntcoat Head in Nova Scotia, at about 16 metres. Harbours there are full one moment, then boats sit on mud a few hours later."
+    },
+    {
+      "opening": "Walking the Hopewell Rocks",
+      "linkId": null,
+      "text": "At low tide visitors can walk on the sea floor around the Hopewell Rocks, tall sandstone stacks nicknamed flowerpots. Hours later the same path is under water and the rocks are visited by kayak."
+    },
+    {
+      "opening": "The Reversing Falls",
+      "linkId": null,
+      "text": "In Saint John the incoming tide is higher than the river, so the river's rapids flip direction twice a day. The Petitcodiac River also gets a tidal bore, a wave that runs upstream."
+    }
+  ],
+  "tags": [
+    "patterns",
+    "records",
+    "water",
+    "moon"
+  ],
+  "related": [
+    "moon-drifting",
+    "draupner-rogue-wave",
+    "lake-baikal",
+    "eclipse-coincidence",
+    "sargasso-sea"
+  ]
+}

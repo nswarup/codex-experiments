@@ -1,0 +1,43 @@
+{
+  "id": "draupner-rogue-wave",
+  "title": "The Draupner wave",
+  "category": "Nature",
+  "hook": "A laser on a North Sea platform proved that rogue waves were not just sailors' tales.",
+  "peek": "For centuries sailors described sudden walls of water far bigger than the waves around them, and many scientists doubted them. On New Year's Day 1995 an instrument on an oil platform recorded a wave about 26 metres high.",
+  "lede": "Old sea stories told of single waves towering over all the others. Standard wave models said such giants should almost never happen, so many scientists treated the stories as exaggeration. Then, on 1 January 1995, a laser on the Draupner gas platform in the North Sea measured a wave about 26 metres from trough to crest, in a sea where most waves were under half that.",
+  "bullets": [
+    {
+      "opening": "The downward laser",
+      "linkId": null,
+      "text": "The platform had a laser pointed down at the water, recording the sea surface many times a second. Its record shows ordinary storm waves and then one spike far taller than its neighbours."
+    },
+    {
+      "opening": "What counts as rogue",
+      "linkId": null,
+      "text": "Oceanographers call a wave rogue when it is more than about twice the height of the typical big waves around it. The Draupner wave easily cleared that bar, and the platform took only minor damage."
+    },
+    {
+      "opening": "The MaxWave satellite survey",
+      "linkId": null,
+      "text": "After Draupner, the European Space Agency's MaxWave project in the early 2000s used satellite radar to scan the oceans. In about three weeks of data it found more than ten waves over 25 metres high."
+    },
+    {
+      "opening": "Recreated in a tank",
+      "linkId": null,
+      "text": "In 2018 researchers in Edinburgh rebuilt a Draupner-like wave in a circular wave tank. It appeared when two groups of waves crossed at a wide angle and stacked up."
+    }
+  ],
+  "tags": [
+    "myths-busted",
+    "records",
+    "water",
+    "weather"
+  ],
+  "related": [
+    "bay-of-fundy-tides",
+    "sargasso-sea",
+    "point-nemo",
+    "catatumbo-lightning",
+    "earths-hum"
+  ]
+}

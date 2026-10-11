@@ -1,0 +1,43 @@
+{
+  "id": "giants-causeway",
+  "title": "The Giant's Causeway",
+  "category": "Nature",
+  "hook": "About 40,000 tidy stone columns on a coast, and no stonemason made any of them.",
+  "peek": "On the north coast of County Antrim, tens of thousands of stone pillars fit together like a tiled floor, many of them six-sided. Legend credits a giant, but they formed as a thick sheet of lava cooled, shrank and cracked.",
+  "lede": "On the north coast of Northern Ireland, about 40,000 stone columns step down into the sea, packed together like a honeycomb. Many have six sides, though some have four, five, seven or eight. They look carved. In fact they formed around 50 to 60 million years ago, when a thick flow of lava cooled slowly and cracked as it shrank.",
+  "bullets": [
+    {
+      "opening": "Why the cracks form",
+      "linkId": null,
+      "text": "As the lava cooled from the top and bottom it contracted, pulling apart into cracks, much like mud drying in the sun. Cracks that meet at roughly 120 degrees release the strain most evenly, which tends to make hexagons."
+    },
+    {
+      "opening": "Finn McCool's causeway",
+      "linkId": null,
+      "text": "Local legend says the giant Finn McCool built the causeway to cross the sea to Scotland. Fittingly, the same lava flow surfaces again at Fingal's Cave on the Scottish island of Staffa."
+    },
+    {
+      "opening": "A scientific argument",
+      "linkId": null,
+      "text": "In the 1700s the columns were a test case in a big debate over whether such rocks formed from fire or settled out of water. The causeway helped win the argument for volcanic origins."
+    },
+    {
+      "opening": "The Wishing Chair",
+      "linkId": null,
+      "text": "Some formations have their own names, such as the Wishing Chair, a natural seat of columns, and the Organ, a wall of tall pillars. UNESCO made the site a World Heritage Site in 1986."
+    }
+  ],
+  "tags": [
+    "patterns",
+    "geology",
+    "myths-busted",
+    "legends"
+  ],
+  "related": [
+    "richat-structure",
+    "surtsey-island",
+    "turing-patterns",
+    "bismuth-crystals",
+    "paricutin-volcano"
+  ]
+}
