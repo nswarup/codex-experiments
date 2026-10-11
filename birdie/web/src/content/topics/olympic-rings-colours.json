@@ -1,0 +1,43 @@
+{
+  "id": "olympic-rings-colours",
+  "title": "The colours of the Olympic rings",
+  "category": "Sports",
+  "hook": "Pierre de Coubertin picked six colours he said covered every national flag.",
+  "peek": "The Olympic rings were designed by Pierre de Coubertin in 1913. He chose blue, yellow, black, green and red on white because, he wrote, those six colours together could make the flag of every nation of his day.",
+  "lede": "The five rings look like a simple symbol of five continents, but the colours came from a different idea. Pierre de Coubertin, who revived the modern Games, drew the rings in 1913. He explained that blue, yellow, black, green and red, set on a white background, between them reproduced the colours of every national flag then in existence.",
+  "bullets": [
+    {
+      "opening": "Coubertin's 1913 design",
+      "linkId": null,
+      "text": "Coubertin sketched the rings by hand and presented them in the Olympic magazine he edited in 1913. He meant them for the 1914 Olympic Congress in Paris, which marked 20 years of the modern movement."
+    },
+    {
+      "opening": "The flags of 1913",
+      "linkId": null,
+      "text": "His claim was about the flags of his own time, from Sweden's blue and yellow to Japan's red on white. With many new flags since, it is a nice idea rather than a rule anyone checks today."
+    },
+    {
+      "opening": "No ring per continent",
+      "linkId": null,
+      "text": "The rings stand for the union of five inhabited continents, but no colour belongs to a particular one. The popular idea that, say, yellow means Asia is a myth the Olympic movement does not endorse."
+    },
+    {
+      "opening": "The Antwerp debut",
+      "linkId": null,
+      "text": "The flag was meant to fly at the 1916 Games, which were cancelled. It first flew over an Olympic stadium at Antwerp in 1920, with the rings interlaced, blue, black and red on top."
+    }
+  ],
+  "tags": [
+    "color",
+    "design",
+    "flags",
+    "olympics"
+  ],
+  "related": [
+    "olympic-gold-medals",
+    "olympic-art-medals",
+    "yellow-jersey",
+    "newton-indigo",
+    "marathon-distance-1908"
+  ]
+}

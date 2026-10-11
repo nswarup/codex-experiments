@@ -1,0 +1,43 @@
+{
+  "id": "duckworth-lewis",
+  "title": "The Duckworth–Lewis method",
+  "category": "Sports",
+  "hook": "One rain-shortened match left South Africa needing 21 runs from one ball.",
+  "peek": "Cricket's rain rule was invented by two English statisticians, Frank Duckworth and Tony Lewis, after a 1992 World Cup semi-final ended absurdly. Their method resets targets by weighing both the overs and the wickets a team has left.",
+  "lede": "In the 1992 Cricket World Cup semi-final in Sydney, South Africa needed 22 runs from 13 balls to beat England when rain stopped play. When the players came back, the old rule had cut the target to 21, but with just one ball left. The match was effectively over. Two English statisticians decided there had to be a fairer way.",
+  "bullets": [
+    {
+      "opening": "The most productive overs",
+      "linkId": null,
+      "text": "The 1992 rule simply removed the batting side's lowest-scoring overs from the target. Losing two overs cost South Africa almost nothing on paper, which is how they ended up needing 21 from one ball."
+    },
+    {
+      "opening": "Frank Duckworth and Tony Lewis",
+      "linkId": null,
+      "text": "Duckworth and Lewis were mathematicians, not cricket officials. Their method was first used in an international match in January 1997, and the governing body made it the official standard in 2001."
+    },
+    {
+      "opening": "Overs and wickets as resources",
+      "linkId": null,
+      "text": "The key idea is that a team's resources are both overs and wickets left. Ten overs with all wickets in hand are worth far more than ten overs with nine down, and the tables reflect that."
+    },
+    {
+      "opening": "Duckworth–Lewis–Stern",
+      "linkId": null,
+      "text": "The Australian statistician Steven Stern later updated the tables for today's higher scoring. Since 2014 it has been called the Duckworth–Lewis–Stern method."
+    }
+  ],
+  "tags": [
+    "probability",
+    "rules",
+    "cricket",
+    "weather"
+  ],
+  "related": [
+    "timeless-test",
+    "hat-trick",
+    "hawk-eye",
+    "aluminium-cricket-bat",
+    "elo-rating"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "clap-skate",
+  "title": "The clap skate",
+  "category": "Sports",
+  "hook": "A hinged skate blade let speed skaters push longer, and records tumbled.",
+  "peek": "The clap skate has a blade hinged at the toe, so it stays on the ice as the skater's heel lifts. It took over speed skating in the late 1990s, and world records fell at the 1998 Nagano Olympics.",
+  "lede": "On a traditional speed skate the blade is fixed to the boot, so as a skater pushes off and the ankle straightens, the tip digs in and the push ends early. The clap skate fixes this with a hinge at the front. The heel lifts away while the whole blade stays on the ice, giving a longer, stronger push.",
+  "bullets": [
+    {
+      "opening": "The clap sound",
+      "linkId": null,
+      "text": "When the skate leaves the ice, a spring snaps the blade back against the heel of the boot. That gives it its Dutch name, klapschaats, and the clacking sound on the track."
+    },
+    {
+      "opening": "Gerrit Jan van Ingen Schenau",
+      "linkId": null,
+      "text": "The Dutch scientist Gerrit Jan van Ingen Schenau studied the skating push and championed the hinged design from the 1980s. Hinged skates had been tried earlier, but his research made the case."
+    },
+    {
+      "opening": "The Dutch women's team",
+      "linkId": null,
+      "text": "Dutch junior and women skaters were the first to use clap skates in competition in the mid-1990s. Their improvement was hard to ignore, and within a season or two nearly everyone had switched."
+    },
+    {
+      "opening": "Records at Nagano",
+      "linkId": null,
+      "text": "At the 1998 Winter Olympics in Nagano, the first Games where clap skates were the norm, world records fell in several speed skating events and Olympic records fell in many more."
+    }
+  ],
+  "tags": [
+    "records",
+    "inventors",
+    "design",
+    "speed-skating"
+  ],
+  "related": [
+    "lzr-racer-suit",
+    "v-style-ski-jump",
+    "fosbury-flop",
+    "why-ice-is-slippery",
+    "javelin-redesign"
+  ]
+}

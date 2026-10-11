@@ -1,0 +1,43 @@
+{
+  "id": "v-style-ski-jump",
+  "title": "The V-style ski jump",
+  "category": "Sports",
+  "hook": "One ski jumper was marked down for his style, then everyone copied him.",
+  "peek": "In the mid-1980s the Swedish ski jumper Jan Boklöv started spreading his skis in a V. Judges cut his style marks, but he flew so much farther that the whole sport switched to his technique within a few years.",
+  "lede": "For decades, ski jumpers flew with their skis held tight and parallel. In the mid-1980s the Swede Jan Boklöv began opening the tips into a V. Judges, who award style points, saw a messy jump and marked him down. But the V turned his body and skis into a wing, and his distances kept beating everyone else's.",
+  "bullets": [
+    {
+      "opening": "Marked down by the judges",
+      "linkId": null,
+      "text": "Ski jumping scores add distance points to style points from five judges. Boklöv lost style points for his V, but the extra distance more than made up for it."
+    },
+    {
+      "opening": "Boklöv's World Cup title",
+      "linkId": null,
+      "text": "In the 1988–89 season, Boklöv won the overall World Cup. Winning the sport's biggest season-long prize with a frowned-on technique made other jumpers take notice."
+    },
+    {
+      "opening": "More lift from the V",
+      "linkId": null,
+      "text": "Wind tunnel tests and later studies showed the V gives more lift than parallel skis. Jumpers fly farther from the same hill, while lying flatter over the skis."
+    },
+    {
+      "opening": "Albertville 1992",
+      "linkId": null,
+      "text": "By the 1992 Winter Olympics in Albertville, nearly every top jumper used the V and the judges had stopped penalising it. The 16-year-old Finn Toni Nieminen won gold with it."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "design",
+    "ski-jumping",
+    "flight"
+  ],
+  "related": [
+    "fosbury-flop",
+    "eddie-the-eagle",
+    "clap-skate",
+    "javelin-redesign",
+    "roberto-carlos-free-kick"
+  ]
+}

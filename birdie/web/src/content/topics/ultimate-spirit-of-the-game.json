@@ -1,0 +1,43 @@
+{
+  "id": "ultimate-spirit-of-the-game",
+  "title": "Ultimate has no referees",
+  "category": "Sports",
+  "hook": "Even at world championships, Ultimate players call their own fouls.",
+  "peek": "Ultimate, the team sport played with a flying disc, is usually played with no referees at all. Players call their own fouls and settle disputes themselves under a principle called Spirit of the Game, even at world championships.",
+  "lede": "Most sports hand the rules to officials. Ultimate hands them to the players. In this fast team game, where you score by catching a disc in the end zone, players call their own fouls and talk disagreements through on the field. The rules call this Spirit of the Game, and it holds even at world championships run by the sport's international federation.",
+  "bullets": [
+    {
+      "opening": "A New Jersey high school",
+      "linkId": null,
+      "text": "Ultimate began in 1968 among students at Columbia High School in Maplewood, New Jersey. The first written rules soon followed, and self-refereeing was part of the game from early on."
+    },
+    {
+      "opening": "Calling your own fouls",
+      "linkId": null,
+      "text": "When a player calls a foul, the game stops and the two players discuss it. If they cannot agree, the disc goes back to the last thrower who had it, and play restarts."
+    },
+    {
+      "opening": "The spirit score",
+      "linkId": null,
+      "text": "After each game, teams score their opponents for fairness, knowledge of the rules, attitude and communication. Big tournaments give a prize to the team with the best spirit score, alongside the winners' prize."
+    },
+    {
+      "opening": "Observers and pro leagues",
+      "linkId": null,
+      "text": "Some top competitions add observers who rule on certain calls when asked, and professional leagues in North America use referees. Most Ultimate around the world still has none."
+    }
+  ],
+  "tags": [
+    "games",
+    "rules",
+    "frisbee",
+    "fair-play"
+  ],
+  "related": [
+    "frisbee-pie-tins",
+    "vanishing-spray",
+    "red-yellow-cards",
+    "mintonette",
+    "peach-basket-basketball"
+  ]
+}

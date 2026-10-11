@@ -1,0 +1,43 @@
+{
+  "id": "hawk-eye",
+  "title": "Hawk-Eye",
+  "category": "Sports",
+  "hook": "Tennis line calls are made by cameras that rebuild the ball's flight.",
+  "peek": "Hawk-Eye uses several high-speed cameras to work out where a tennis or cricket ball travelled, accurate to a few millimetres. The picture you see on screen is not a photo but a computer reconstruction of the ball's path.",
+  "lede": "When a tennis player challenges a line call, the replay on the big screen is not a photograph. Hawk-Eye watches the ball with around ten high-speed cameras placed around the court, finds it in each frame and works out its path in three dimensions. The animation shows where the computer calculates the ball landed, accurate to a few millimetres.",
+  "bullets": [
+    {
+      "opening": "Paul Hawkins's invention",
+      "linkId": null,
+      "text": "The system was developed in England by Paul Hawkins, who had a doctorate in artificial intelligence. It first appeared on British TV coverage of cricket in 2001 to show viewers the path of the ball."
+    },
+    {
+      "opening": "Predicting the path",
+      "linkId": null,
+      "text": "In cricket's leg-before-wicket decisions, Hawk-Eye goes further: it predicts where the ball would have gone if the batter's leg had not stopped it. That makes some calls a forecast, not a measurement."
+    },
+    {
+      "opening": "The player challenge",
+      "linkId": null,
+      "text": "Tennis began letting players challenge calls with Hawk-Eye in 2006. Each player gets a limited number of wrong challenges per set, and crowds took to clapping along as the replay plays."
+    },
+    {
+      "opening": "Courts without line judges",
+      "linkId": null,
+      "text": "Fully automatic versions now call the lines live. Wimbledon replaced its line judges with electronic calling in 2025, and the same company's technology tracks balls in football."
+    }
+  ],
+  "tags": [
+    "tennis",
+    "cameras",
+    "sports-tech",
+    "measurement"
+  ],
+  "related": [
+    "isner-mahut",
+    "duckworth-lewis",
+    "vanishing-spray",
+    "red-yellow-cards",
+    "dykstraflex"
+  ]
+}

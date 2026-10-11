@@ -1,0 +1,43 @@
+{
+  "id": "eddie-the-eagle",
+  "title": "Eddie the Eagle",
+  "category": "Sports",
+  "hook": "A plasterer from Cheltenham came last at the Olympics and became a star.",
+  "peek": "Michael Edwards, a British plasterer with thick glasses and little money, entered Olympic ski jumping in 1988 and finished last in both events. Crowds loved him anyway, and the sport changed its rules so nobody could follow his route in.",
+  "lede": "Michael Edwards grew up in Cheltenham, a long way from any ski jump. He worked as a plasterer, taught himself to jump on borrowed kit, and found that Britain had nobody else trying. At the 1988 Winter Olympics in Calgary he became the country's first Olympic ski jumper in 60 years. He came last in both events, and the world adored him.",
+  "bullets": [
+    {
+      "opening": "Last in both events",
+      "linkId": null,
+      "text": "Edwards finished last on both the normal hill and the large hill. He was heavier than most jumpers and wore thick glasses that fogged under his goggles. His British record jumps still delighted him."
+    },
+    {
+      "opening": "The Calgary crowds",
+      "linkId": null,
+      "text": "Spectators cheered him as loudly as the winners, and he was mobbed by reporters. At the closing ceremony, the organising chief said that some athletes had even soared like an eagle."
+    },
+    {
+      "opening": "The Eddie the Eagle rule",
+      "linkId": null,
+      "text": "Soon after, the rules were tightened so Olympic hopefuls had to place well in international events first. Under them, a jumper like Edwards could no longer qualify just by being his country's only entrant."
+    },
+    {
+      "opening": "The 2016 film",
+      "linkId": null,
+      "text": "His story became the film Eddie the Eagle, starring Taron Egerton as Edwards and Hugh Jackman as an invented coach. It took liberties, but kept the spirit of a hopeful amateur."
+    }
+  ],
+  "tags": [
+    "olympics",
+    "underdogs",
+    "ski-jumping",
+    "rules"
+  ],
+  "related": [
+    "jamaican-bobsled-1988",
+    "v-style-ski-jump",
+    "fosbury-flop",
+    "olympic-tug-of-war",
+    "four-minute-mile"
+  ]
+}

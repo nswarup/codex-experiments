@@ -3948,5 +3948,65 @@
   "id": "pingu-language",
   "title": "Pingu's made-up language",
   "category": "Film"
+ },
+ {
+  "id": "isner-mahut",
+  "title": "The 11-hour tennis match",
+  "category": "Sports"
+ },
+ {
+  "id": "olympic-rings-colours",
+  "title": "The colours of the Olympic rings",
+  "category": "Sports"
+ },
+ {
+  "id": "olympic-gold-medals",
+  "title": "Olympic gold medals are mostly silver",
+  "category": "Sports"
+ },
+ {
+  "id": "eddie-the-eagle",
+  "title": "Eddie the Eagle",
+  "category": "Sports"
+ },
+ {
+  "id": "ultimate-spirit-of-the-game",
+  "title": "Ultimate has no referees",
+  "category": "Sports"
+ },
+ {
+  "id": "two-second-pit-stop",
+  "title": "The two-second pit stop",
+  "category": "Sports"
+ },
+ {
+  "id": "indy-500-milk",
+  "title": "Why Indy 500 winners drink milk",
+  "category": "Sports"
+ },
+ {
+  "id": "stanley-cup-day",
+  "title": "A day with the Stanley Cup",
+  "category": "Sports"
+ },
+ {
+  "id": "hawk-eye",
+  "title": "Hawk-Eye",
+  "category": "Sports"
+ },
+ {
+  "id": "duckworth-lewis",
+  "title": "The Duckworth–Lewis method",
+  "category": "Sports"
+ },
+ {
+  "id": "clap-skate",
+  "title": "The clap skate",
+  "category": "Sports"
+ },
+ {
+  "id": "v-style-ski-jump",
+  "title": "The V-style ski jump",
+  "category": "Sports"
  }
 ]

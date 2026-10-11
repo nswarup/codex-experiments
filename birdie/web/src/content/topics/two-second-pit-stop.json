@@ -1,0 +1,43 @@
+{
+  "id": "two-second-pit-stop",
+  "title": "The two-second pit stop",
+  "category": "Sports",
+  "hook": "A Formula 1 crew can change all four tyres in under two seconds.",
+  "peek": "In Formula 1, a pit crew of around 20 people can lift the car, change all four wheels and send it away in less than two seconds. The record stands at about 1.8 seconds, quicker than most people can tie a shoelace.",
+  "lede": "When a Formula 1 car slides into its pit box, around 20 people are waiting. Each has one job: jack up the front or rear, steady the car, take off a wheel, put on a new one, or tighten its single central nut. A good stop now keeps the car stationary for little more than two seconds, and the best have dipped below two.",
+  "bullets": [
+    {
+      "opening": "The 1.8-second record",
+      "linkId": null,
+      "text": "Red Bull set a record of 1.82 seconds for Max Verstappen at the 2019 Brazilian Grand Prix. McLaren beat it with a 1.80-second stop for Lando Norris at the 2023 Qatar Grand Prix."
+    },
+    {
+      "opening": "Three people per wheel",
+      "linkId": null,
+      "text": "Each corner typically has a wheel gun operator, one person pulling the old wheel off and one fitting the new one. Jack operators and stabilisers hold the car level while they work."
+    },
+    {
+      "opening": "The 2010 refuelling ban",
+      "linkId": null,
+      "text": "Refuelling during races was banned from 2010. Once pit stops were only about tyres, teams could rehearse them down to hundredths of a second, practising hundreds of stops a season."
+    },
+    {
+      "opening": "The traffic light release",
+      "linkId": null,
+      "text": "A lollipop sign once told drivers when to go. Most teams now use a light rig, triggered as each wheel gun confirms its nut is tight, so the car leaves the instant the last wheel is done."
+    }
+  ],
+  "tags": [
+    "records",
+    "speed",
+    "teamwork",
+    "motor-racing"
+  ],
+  "related": [
+    "indy-500-milk",
+    "lzr-racer-suit",
+    "golf-ball-dimples",
+    "yellow-jersey",
+    "hawk-eye"
+  ]
+}

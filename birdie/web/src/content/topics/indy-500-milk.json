@@ -1,0 +1,43 @@
+{
+  "id": "indy-500-milk",
+  "title": "Why Indy 500 winners drink milk",
+  "category": "Sports",
+  "hook": "Indy 500 winners drink milk because of one driver's buttermilk in 1936.",
+  "peek": "After winning the Indianapolis 500 in 1936, Louis Meyer asked for a glass of buttermilk, as his mother had taught him. A photo of it reached a dairy executive, and winners have drunk milk in Victory Lane almost every year since.",
+  "lede": "Most motor races end with champagne. The Indianapolis 500 ends with a bottle of milk. The habit goes back to 1936, when Louis Meyer won the race for the third time and, hot and thirsty, asked for buttermilk, a drink his mother said refreshed him on a warm day. A photographer caught him drinking it.",
+  "bullets": [
+    {
+      "opening": "Louis Meyer's third win",
+      "linkId": null,
+      "text": "Meyer won in 1928, 1933 and 1936, becoming the first driver to win the race three times. The photo of him with his buttermilk is what people remember from the last of those wins."
+    },
+    {
+      "opening": "The dairy executive",
+      "linkId": null,
+      "text": "A dairy industry executive saw the picture and spotted a chance. After a gap of some years, milk became a regular part of the ceremony in 1956, with a dairy group presenting the bottle."
+    },
+    {
+      "opening": "Emerson Fittipaldi's orange juice",
+      "linkId": null,
+      "text": "In 1993 the winner, Emerson Fittipaldi, drank orange juice first to promote his own orange groves. The crowd booed him, and he soon drank the milk too."
+    },
+    {
+      "opening": "Whole, 2% or skim",
+      "linkId": null,
+      "text": "Before the race, drivers are asked which milk they would like if they win. A dairy representative stands ready in Victory Lane with the chosen bottle."
+    }
+  ],
+  "tags": [
+    "food-history",
+    "traditions",
+    "motor-racing",
+    "drinks"
+  ],
+  "related": [
+    "two-second-pit-stop",
+    "yellow-jersey",
+    "stanley-cup-day",
+    "baseball-rubbing-mud",
+    "sliced-bread"
+  ]
+}

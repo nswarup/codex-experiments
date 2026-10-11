@@ -1,0 +1,43 @@
+{
+  "id": "olympic-gold-medals",
+  "title": "Olympic gold medals are mostly silver",
+  "category": "Sports",
+  "hook": "An Olympic gold medal is mostly silver with a thin coat of real gold.",
+  "peek": "The last Olympic gold medals made of solid gold were handed out in 1912. Today's are at least 92.5% silver, plated with about six grams of gold. The first modern Olympic winners did not get gold at all.",
+  "lede": "Winning gold at the Olympics does not get you a lump of gold. The last solid gold medals were awarded at Stockholm in 1912, and they were small. Since then, a gold medal has been a silver medal with a gold coating. Olympic rules ask for at least 92.5% silver and at least six grams of gold on the surface.",
+  "bullets": [
+    {
+      "opening": "The 1896 silver medals",
+      "linkId": null,
+      "text": "At the first modern Games in Athens in 1896, winners received silver medals and runners-up got copper or bronze. Third place was not rewarded. The gold, silver and bronze trio arrived at St. Louis in 1904."
+    },
+    {
+      "opening": "The last solid gold",
+      "linkId": null,
+      "text": "St. Louis 1904, London 1908 and Stockholm 1912 gave out solid gold medals, much smaller than today's. From the 1920 Games onward, winners received gilded silver instead, and later rules fixed the minimum amounts."
+    },
+    {
+      "opening": "Six grams of gold",
+      "linkId": null,
+      "text": "A modern gold medal can weigh over 500 grams, so the gold is only a small share of it. Its metal is worth far less than what famous medals fetch at auction, where the story is what buyers pay for."
+    },
+    {
+      "opening": "Paris 2024's Eiffel iron",
+      "linkId": null,
+      "text": "Each medal at Paris 2024 had a hexagon of original iron set into its face, taken from the Eiffel Tower during renovation work. The gold medals were still silver underneath."
+    }
+  ],
+  "tags": [
+    "history-of-things",
+    "myths-busted",
+    "olympics",
+    "metals"
+  ],
+  "related": [
+    "olympic-rings-colours",
+    "olympic-art-medals",
+    "olympic-tug-of-war",
+    "gold-leaf-green",
+    "ruby-slippers"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "isner-mahut",
+  "title": "The 11-hour tennis match",
+  "category": "Sports",
+  "hook": "A first-round Wimbledon match in 2010 lasted three days and 183 games.",
+  "peek": "In 2010 John Isner and Nicolas Mahut played a first-round Wimbledon match that ran for 11 hours over three days. The fifth set alone ended 70–68 and lasted longer than any complete tennis match before it.",
+  "lede": "On 22 June 2010, the American John Isner and the Frenchman Nicolas Mahut walked onto Court 18 at Wimbledon for an ordinary first-round match. Wimbledon had no tie-break in the final set, so it could only end when someone led by two games. They finished on the third day, after 11 hours and 5 minutes of play, with a fifth set of 70–68.",
+  "bullets": [
+    {
+      "opening": "The scoreboard that gave up",
+      "linkId": null,
+      "text": "The electronic scoreboard was only built to show games up to 47–all. When the fifth set passed that, it stopped updating, and programmers had to fix it overnight so it could count the rest."
+    },
+    {
+      "opening": "A fifth set of 70–68",
+      "linkId": null,
+      "text": "The final set alone took 8 hours and 11 minutes, longer than any complete match on record. Both men served over 100 aces, and the match was paused for darkness at 59–all on the second evening."
+    },
+    {
+      "opening": "The Court 18 plaque",
+      "linkId": null,
+      "text": "Wimbledon later fixed a plaque to Court 18 marking the match. Isner, worn out, lost his next round quickly. The umpire, Mohamed Lahyani, sat in the chair for the whole thing."
+    },
+    {
+      "opening": "Final-set tie-breaks",
+      "linkId": null,
+      "text": "The match helped end the endless final set. Wimbledon added a tie-break at 12–all in 2019, and from 2022 all four Grand Slams settle a deciding set with a tie-break at 6–all."
+    }
+  ],
+  "tags": [
+    "records",
+    "time",
+    "tennis"
+  ],
+  "related": [
+    "timeless-test",
+    "tennis-for-two",
+    "hawk-eye",
+    "four-minute-mile",
+    "pot-black"
+  ]
+}

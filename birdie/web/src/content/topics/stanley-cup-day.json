@@ -1,0 +1,43 @@
+{
+  "id": "stanley-cup-day",
+  "title": "A day with the Stanley Cup",
+  "category": "Sports",
+  "hook": "Every player on the winning hockey team gets the Stanley Cup for a day.",
+  "peek": "Each summer, every player and staff member of the NHL champions gets a day alone with the Stanley Cup, which travels with its own keeper. The trophy also carries the engraved names of past winners, typos and all.",
+  "lede": "Most trophies sit in a glass case. The Stanley Cup goes on holiday. Since the mid-1990s, every player, coach and key staff member of the winning NHL team has been given a day with it, taking it home to their own town. A keeper from the Hockey Hall of Fame travels with it, wearing white gloves when handling it.",
+  "bullets": [
+    {
+      "opening": "Lord Stanley's bowl",
+      "linkId": null,
+      "text": "The original silver bowl was bought in 1892 by Lord Stanley of Preston, then Canada's governor general, for about ten guineas. The bowl on top today is a replica; the brittle original rests at the Hockey Hall of Fame."
+    },
+    {
+      "opening": "Names on the bands",
+      "linkId": null,
+      "text": "Unlike most trophies, the Cup carries the names of the winning players and staff. When the bands fill up, the oldest is removed and kept at the Hall of Fame, so the Cup stays about the same size."
+    },
+    {
+      "opening": "Misspelled names",
+      "linkId": null,
+      "text": "The engravers have slipped up more than once: the Boston Bruins appear as the Bqston Bruins, the Toronto Maple Leafs as the Leaes and the New York Islanders as the Ilanders."
+    },
+    {
+      "opening": "What players do with it",
+      "linkId": null,
+      "text": "Players have used the Cup as a cereal bowl, taken it to their childhood rinks and swimming pools, and had their babies christened in it. Many simply share it with their hometown."
+    }
+  ],
+  "tags": [
+    "trophies",
+    "traditions",
+    "history-of-things",
+    "ice-hockey"
+  ],
+  "related": [
+    "pickles-world-cup",
+    "indy-500-milk",
+    "yellow-jersey",
+    "ailsa-craig-curling-stones",
+    "olympic-gold-medals"
+  ]
+}
