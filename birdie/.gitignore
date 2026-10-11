@@ -8,3 +8,4 @@ playwright-report
 *.log
 dist-artifact
 .cache
+__pycache__/
