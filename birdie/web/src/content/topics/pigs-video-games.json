@@ -3,7 +3,7 @@
   "title": "Pigs that play video games",
   "category": "Animals",
   "hook": "In a lab experiment, pigs steered a joystick with their snouts to hit targets.",
-  "peek": "Researchers taught four pigs to move a cursor on a screen by nudging a joystick with their snouts. The pigs hit targets far more often than chance would allow, though they never quite matched the scores of monkeys on the same kind of task.",
+  "peek": "Researchers taught four pigs to move a cursor on a screen by nudging a joystick with their snouts. The pigs hit targets far more often than chance would allow, though they never quite matched the scores of primates on the same kind of task.",
   "lede": "In the late 1990s, animal scientist Candace Croney and psychologist Sarah Boysen began an unusual test at Penn State. They gave pigs a joystick, adapted from equipment used with primates, and a computer screen. Nudging the stick with their snouts, the pigs learned to move a cursor into target areas on the screen. When they hit a target, a machine dropped a food treat.",
   "bullets": [
     {
@@ -19,7 +19,7 @@
     {
       "opening": "Playing with poor eyesight",
       "linkId": null,
-      "text": "Pigs are farsighted and the task was built for hands, not snouts, which made their scores more striking. They did not reach the accuracy of monkeys tested on similar tasks, a gap the authors linked partly to these limits."
+      "text": "Pigs are farsighted and the task was built for hands, not snouts, which made their scores more striking. They did not reach the accuracy of primates tested on similar tasks, a gap the authors linked partly to these limits."
     },
     {
       "opening": "Praise instead of treats",

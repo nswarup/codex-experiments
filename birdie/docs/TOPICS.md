@@ -1,8 +1,10 @@
 # Birdie topic library
 
-142 topics in 20 categories, written to `docs/CONTENT_GUIDE.md` and fact-checked in a second pass. Categories are listed in the order the interest picker shows them. Each line is the title and the hook shown under it in the app.
+988 topics in 20 categories, written to `docs/CONTENT_GUIDE.md` and fact-checked in a second pass. Categories are listed in the order the interest picker shows them. Each line is the title and the hook shown under it in the app.
 
-## Tech (7)
+Regenerate with `python3 scripts/topics_md.py`.
+
+## Tech (70)
 
 - **AlphaZero taught itself chess**: Given only the rules, AlphaZero became a chess master in a few hours.
 - **Deep Blue's baffling move**: A chess move that rattled Kasparov may have come from a computer glitch.
@@ -11,8 +13,71 @@
 - **The QR code and the game of Go**: The QR code was inspired by black and white stones on a Go board.
 - **Etaoin shrdlu**: A nonsense phrase that kept slipping into newspapers, thanks to one keyboard.
 - **ELIZA, the first chatbot**: A 1960s chatbot so simple its maker was alarmed by how much people trusted it.
+- **Ctrl-Alt-Del**: The three-key salute was a shortcut for engineers, never meant for the rest of us.
+- **Core rope memory**: The software that flew Apollo to the Moon was woven by hand, one wire at a time.
+- **The Trojan Room coffee pot**: The first famous webcam watched a coffee pot so nobody climbed the stairs for nothing.
+- **"Vague but exciting"**: The proposal for the World Wide Web came back with three words scribbled on top.
+- **Shigetaka Kurita's 176 emoji**: The emoji that won the world began as 176 pictures, each 12 pixels square.
+- **The first :-)**: Three keyboard characters were first suggested in 1982 to mark which posts were jokes.
+- **The @ in email**: Email got its @ because it was an unused key that already meant "at".
+- **Why junk email is called spam**: Junk email is named after Vikings singing in a Monty Python café.
+- **Wi-Fi and the hunt for black holes**: A key piece of Wi-Fi came from astronomers looking for tiny exploding black holes.
+- **Bluetooth's Viking king**: Your wireless earbuds are named after a Danish king who died over a thousand years ago.
+- **Hedy Lamarr's frequency hopping**: A Hollywood star and a composer patented a radio trick inspired by player pianos.
+- **The first computer mouse**: The first computer mouse was a wooden box with two metal wheels and one button.
+- **The IBM 350 hard drive**: The first hard drive weighed about a tonne and held less than one song's worth of data.
+- **The floppy disk save icon**: Millions save their work by clicking a picture of a disk they have never touched.
+- **The year 2038 problem**: On 19 January 2038, some computers will think it is suddenly 1901.
+- **Linux was "just a hobby"**: Linux was announced as a hobby that would never be big. It now runs every Android phone.
+- **JavaScript was written in 10 days**: The language behind almost every web page was first written in about ten days.
+- **reCAPTCHA and the old books**: Typing squiggly words to prove you were human helped digitise old books.
+- **Turing's imitation game**: The Turing test began as a party game about guessing whether a writer was a man or a woman.
+- **The Mechanical Turk**: A chess-playing machine beat challengers for decades with a human hidden inside.
+- **The 1958 perceptron**: In 1958 a newspaper said a learning machine would one day walk, talk and be conscious.
+- **The summer that named AI**: The phrase artificial intelligence was coined for a summer project expected to make real headway.
+- **Shakey the robot**: The pathfinding trick inside countless apps and games was made for a wobbly robot.
+- **King minus man plus woman**: A 2013 program found that king minus man plus woman lands right next to queen.
+- **The Apple I's $666.66 price**: Apple's first computer cost $666.66 because Wozniak liked repeating digits.
+- **Hello, world**: Most programmers' first program prints two words chosen at Bell Labs in the 1970s.
+- **The first text message**: The first text message said Merry Christmas and was typed on a computer.
+- **The first digital photo**: The first digital image was a tiny scan of an engineer's baby son, made in 1957.
+- **Bitcoin Pizza Day**: In 2010 two pizzas cost 10,000 bitcoins, later worth over a billion dollars.
+- **Rubber duck debugging**: Programmers really do fix their code by explaining it to a rubber duck.
+- **The pigeon that beat broadband**: In 2009 a pigeon carried a memory card faster than a South African internet line.
+- **Moore's law**: Gordon Moore's famous 1965 prediction was meant to last only ten years.
+- **The paper-clip transistor**: The first transistor was germanium, gold foil and a spring bent from a paper clip.
+- **The Intel 4004**: The first commercial microprocessor was made for a Japanese desktop calculator.
+- **The internet's first word: "lo"**: The first message sent across the early internet was meant to say login.
+- **Symbolics.com, the first .com**: The first .com address was registered in 1985 by a maker of AI computers.
+- **How Google got its name**: Google began life as BackRub, and its name is a misspelt giant number.
+- **Ethernet and the luminiferous ether**: The cable behind most office networks is named after a substance that does not exist.
+- **Daisy Bell, the first computer song**: The first song a computer ever sang was a Victorian tune about a bicycle.
+- **Why we say hello on the phone**: Alexander Graham Bell wanted us to answer the telephone with ahoy.
+- **Why phone and calculator keypads differ**: Phone keypads put 1 at the top, while calculators start with 7 and 8 and 9.
+- **GPS needs Einstein**: Without Einstein's relativity, GPS satellite clocks would slip 38 microseconds a day.
+- **The Walkman and the opera fan**: Sony's Walkman began as a gadget for one boss who wanted music on long flights.
+- **Excel's imaginary 29 February 1900**: Excel still believes there was a 29 February in 1900, and that is on purpose.
+- **Why Deep Dream saw dogs everywhere**: Google's dreaming neural network turned clouds and paintings into dogs.
+- **Watson's Toronto answer**: IBM's Watson beat two Jeopardy champions, then named Toronto as a US city.
+- **Cloudflare's lava lamp wall**: A wall of lava lamps in San Francisco helps keep web traffic secure.
+- **The Million Dollar Homepage**: A student sold a web page one pixel at a time and made a million dollars.
+- **Attention Is All You Need**: The paper behind today's chatbots lists its eight authors in random order.
+- **ImageNet's army of labellers**: Modern AI vision was built on photos sorted by tens of thousands of online workers.
+- **The Google cat neuron**: A computer watched YouTube for three days and taught itself what a cat looks like.
+- **Babbage's engine, finished in 1991**: Charles Babbage's calculating engine was finally built 142 years after he drew it.
+- **Ada Lovelace's Note G**: In 1843 Ada Lovelace wrote out a program for a computer that did not yet exist.
+- **The Jacquard loom's punched cards**: Computer punch cards began as a way to weave patterned silk in France.
+- **The women who programmed ENIAC**: Six women programmed a famous early computer, then went missing from its story.
+- **The Antikythera mechanism**: A lump from a Greek shipwreck turned out to be a 2,000-year-old geared calculator.
+- **The Nokia ringtone**: The famous Nokia ringtone is a few bars of a Spanish guitar waltz from 1902.
+- **The Windows 95 start-up sound**: Brian Eno wrote 84 tiny tunes on a Mac before picking the Windows 95 chime.
+- **Clarus the dogcow**: A spotted Mac doodle became Apple's dogcow, and her official sound is "Moof".
+- **The ⌘ command key**: The looped square on Mac keys came from Swedish signs for places of interest.
+- **The fax machine came before the telephone**: The first fax machine was patented in 1843, 33 years before the telephone.
+- **The Clock of the Long Now**: A clock inside a Texas mountain is built to tick once a year for 10,000 years.
+- **The Arctic Code Vault**: GitHub stored a copy of the world's open-source code in an Arctic mine.
 
-## Science (7)
+## Science (70)
 
 - **Clever Hans, the counting horse**: A horse that seemed to do sums was really reading the people watching him.
 - **The pitch drop experiment**: A funnel of tar in Australia has dripped about once a decade since 1930.
@@ -21,8 +86,71 @@
 - **Magenta has no wavelength**: No single wavelength of light looks magenta. The brain makes the colour up.
 - **Raindrops aren't teardrop-shaped**: Falling raindrops look less like teardrops and more like hamburger buns.
 - **The smell receptor genes**: The largest gene family in mammals exists for smell, and many of ours are broken.
+- **Old windows aren't flowing glass**: Old church windows are thicker at the bottom, but the glass never flowed.
+- **Supercooled water**: Very pure water can stay liquid below freezing, then turn to slush in seconds.
+- **Wint-O-Green sparks**: Bite a Wint-O-Green Life Saver in the dark and it gives off a blue flash.
+- **The Michelson–Morley experiment**: The most famous failed experiment in physics set out to find something that wasn't there.
+- **Eratosthenes measures the Earth**: Around 240 BC a librarian measured the whole Earth using a shadow.
+- **Fizeau's spinning cog**: In 1849 a spinning cogwheel was used to time light racing across Paris.
+- **The double-slit experiment**: Send particles through two slits one by one and they still make stripes.
+- **Rubber bands warm up when stretched**: Stretch a rubber band fast against your lip and it warms; let go and it cools.
+- **The lotus effect**: Lotus leaves grow in muddy ponds and stay spotless, thanks to tiny bumps.
+- **The coffee ring effect**: A coffee drop dries as a dark ring because the liquid races to its edge.
+- **Tyndall's blue sky in a tube**: In the 1860s John Tyndall made a little blue sky inside a glass tube.
+- **Gallium, the metal that melts in your hand**: Gallium is a solid metal that melts at about 30°C, warm enough for a hand.
+- **Aerogel, the frozen smoke**: A solid that is almost all air, and still keeps a flower safe from a flame.
+- **Graphene and the sticky tape**: A Nobel Prize material was first peeled off a lump of graphite with sticky tape.
+- **Superfluid helium climbs walls**: Cool liquid helium enough and it creeps up the walls and out of its cup.
+- **Slowing light to bicycle speed**: In 1999 a Harvard team slowed light to about 17 metres per second.
+- **Ytterby, the village in the periodic table**: One small Swedish village gave its name to four chemical elements.
+- **Mendeleev's empty squares**: Mendeleev left holes in his table and described the elements that would fill them.
+- **Diamonds burn**: A diamond is pure carbon, and with enough heat it burns away like charcoal.
+- **Van Helmont's willow tree**: A willow gained over 70 kilograms in five years, yet its soil barely changed.
+- **Gregor Mendel's peas**: A monk's pea garden revealed the rules of heredity, then sat ignored for 35 years.
+- **Wegener and the drifting continents**: A weather scientist said the continents move. Most geologists said no for decades.
+- **The magnetic stripes on the seafloor**: The ocean floor is striped like a barcode, written by Earth's flipping magnetism.
+- **The Kola Superdeep Borehole**: The deepest hole ever drilled is about 12 km deep and narrower than a dinner plate.
+- **How long is a second**: A second is officially 9,192,631,770 ticks of a caesium atom.
+- **Clocks flown around the world**: In 1971 atomic clocks flew round the world on airliners to test Einstein.
+- **Where Fahrenheit's zero came from**: Zero degrees Fahrenheit was a bucket of ice, water and salt.
+- **Celsius's scale was upside down**: In the first Celsius scale, water boiled at 0 and froze at 100.
+- **Einstein's tea leaves**: Stir a cup of tea and the leaves crowd into the middle, not the edge.
+- **Benjamin Franklin's spoonful of oil**: A teaspoon of oil calmed half an acre of pond for Benjamin Franklin.
+- **Why ice is slippery**: Skates do not melt ice by pressing on it, despite what school taught.
+- **Water is heaviest at 4°C**: Water is at its densest a few degrees above freezing, not at 0°C.
+- **Galileo and the Leaning Tower**: Galileo probably never dropped anything from the Leaning Tower of Pisa.
+- **Archimedes and the bath**: The Eureka story was first written down two centuries after Archimedes.
+- **Newton's apple tree**: The apple tree from Newton's famous story is still alive in England.
+- **Chladni figures**: Bow the edge of a metal plate and sand on it draws a pattern of sound.
+- **Le Grand K, the kilogram in a vault**: For 130 years, the kilogram was a single metal cylinder in a vault near Paris.
+- **The metre measured from the meridian**: The metre was meant to be one ten-millionth of the way from pole to equator.
+- **The Leidenfrost effect**: Water lasts longer on a very hot pan than on one that is merely hot.
+- **The Brazil nut effect**: Shake a jar of mixed nuts and the biggest ones tend to rise to the top.
+- **Oobleck, the liquid you can run on**: A mix of cornflour and water that pours like cream but can hold a runner.
+- **Prince Rupert's drop**: A glass drop that shrugs off a hammer but bursts if you snap its tail.
+- **Henry Cavendish weighs the Earth**: In 1798 Henry Cavendish weighed the Earth using lead balls in a shed.
+- **Foucault's pendulum**: In 1851 a swinging ball under the Panthéon's dome let Paris watch the Earth turn.
+- **Helium doesn't raise your voice**: Helium makes your voice squeaky, but it does not change its pitch.
+- **A whip's crack is a sonic boom**: The crack of a whip is a tiny sonic boom made by its tip.
+- **The Doppler effect on a train**: In 1845 the Doppler effect was tested with horn players riding on a train.
+- **Why the rainbow has indigo**: Newton gave the rainbow seven colours partly to match the musical scale.
+- **Tonic water glows**: Under a black light, a glass of tonic water glows a bright, clear blue.
+- **Bismuth's rainbow staircases**: Melted bismuth cools into hollow, stepped crystals in rainbow colours.
+- **Gold leaf is see-through green**: Hold gold leaf up to a lamp and the light that comes through is green.
+- **Methuselah, the 2,000-year-old seed**: A date palm called Methuselah grew from a seed about 2,000 years old.
+- **AlphaFold and the protein-folding puzzle**: An AI cracked a 50-year biology puzzle and won its makers a Nobel Prize.
+- **Maxwell's demon**: A tiny imaginary doorkeeper puzzled physicists for over a hundred years.
+- **Brownian motion**: A jiggle seen in a microscope in 1827 helped prove that atoms are real.
+- **Faraday's cage**: Michael Faraday sat inside a metal-covered room while sparks flew outside.
+- **The Earth hums**: The whole planet rings with a faint, endless hum far too low to hear.
+- **Sea level isn't level**: The open ocean has hills and dips, and off India it sits 100 metres low.
+- **Ancient air in ice cores**: Bubbles in Antarctic ice hold real air from 800,000 years ago.
+- **Grace Hopper's nanosecond**: A computer pioneer handed out bits of wire to show what a billionth of a second is.
+- **The Smoot**: A bridge in Boston is measured in a student's height, and he later led ISO.
+- **The Magdeburg hemispheres**: Two teams of horses could not pull apart two bowls held together by air.
+- **Turing's stripes and spots**: Alan Turing worked out how a leopard might get its spots, using chemistry.
 
-## Space (7)
+## Space (70)
 
 - **The Voyager Golden Record**: Two gold records are leaving the solar system with Chuck Berry on board.
 - **Saturn's hexagon**: At Saturn's north pole, a jet stream forms a hexagon with sides longer than Earth.
@@ -31,8 +159,71 @@
 - **A day on Venus outlasts its year**: Venus turns so slowly that it orbits the Sun before it spins once.
 - **The Moon is drifting away**: The Moon moves about 3.8 centimetres farther from Earth every year.
 - **The Pale Blue Dot**: From six billion kilometres away, Earth is smaller than a single pixel.
+- **Olympus Mons, the mountain you can't see from its top**: Mars has a volcano so wide that from its summit the edges lie over the horizon.
+- **Blue sunsets on Mars**: On Mars the dusty daytime sky looks butterscotch and the sunset glows blue.
+- **The canals of Mars**: For decades astronomers mapped canals on Mars that never existed.
+- **Phobos is falling toward Mars**: Mars's larger moon is spiralling inward and will one day break up.
+- **Jonathan Swift's moons of Mars**: Gulliver's Travels gave Mars two moons 151 years before anyone saw them.
+- **The Wright Flyer fabric on Mars**: The first aircraft to fly on Mars carried a scrap of the Wright brothers' plane.
+- **Curiosity's Morse code wheels**: The Mars rover Curiosity prints 'JPL' in Morse code with every turn of its wheels.
+- **Europa's hidden ocean**: Under Europa's ice there may be twice as much water as in all of Earth's oceans.
+- **The geysers of Enceladus**: A tiny moon of Saturn sprays so much ice that it feeds one of the planet's rings.
+- **Titan's lakes of methane**: On Saturn's moon Titan it rains and the rain fills lakes, but the rain is methane.
+- **Io's volcanoes and Linda Morabito**: Jupiter's moon Io has hundreds of active volcanoes, first spotted in a navigation photo.
+- **Ganymede is bigger than Mercury**: Jupiter's moon Ganymede is wider than the planet Mercury and has its own magnetism.
+- **Jupiter's Great Red Spot**: Jupiter has a storm wider than Earth, and it has been blowing for at least 150 years.
+- **Saturn would float**: Saturn is less dense than water, so in a big enough bathtub it would float.
+- **Iapetus, the two-faced moon**: One of Saturn's moons is dark as coal on one side and bright as ice on the other.
+- **Uranus rolls on its side**: Uranus is tipped on its side, so its poles get 42 years of day, then 42 of night.
+- **Uranus was nearly called George**: The man who discovered Uranus wanted to name it after King George III.
+- **Neptune, found with a pencil**: Neptune was found with arithmetic before anyone knowingly saw it in a telescope.
+- **The girl who named Pluto**: Pluto got its name from an 11-year-old girl in Oxford, over breakfast.
+- **Pluto's heart**: The bright heart on Pluto is partly a vast, slowly churning sheet of nitrogen ice.
+- **Ice on Mercury**: The planet closest to the Sun keeps water ice in craters that never see daylight.
+- **Leonardo da Vinci and earthshine**: Leonardo worked out why the dark part of a crescent Moon faintly glows.
+- **The far side of the Moon isn't dark**: The Moon's far side gets just as much sunlight; we simply never see it.
+- **Apollo 12 and 'SCE to Aux'**: Apollo 12 was hit by lightning twice at launch and saved by one odd switch.
+- **The felt-tip pen that flew home from the Moon**: Buzz Aldrin fixed a broken switch on the Moon with a felt-tip pen.
+- **The Moon trees**: Hundreds of tree seeds orbited the Moon in 1971, then grew up on Earth.
+- **Apollo spacesuits were sewn by a bra maker**: The suits worn on the Moon came from the company that made Playtex bras.
+- **Snoopy and Charlie Brown went to the Moon**: On Apollo 10, Snoopy flew close to the Moon while Charlie Brown waited above.
+- **Gagarin didn't land in his capsule**: The first man in space finished his flight by parachute, not inside his capsule.
+- **Valentina Tereshkova, call sign Seagull**: The first woman in space flew solo for three days as Seagull.
+- **The corned beef sandwich in orbit**: An astronaut smuggled a deli sandwich into orbit, and Congress heard about it.
+- **The space pen myth**: NASA never spent millions on a space pen while the Soviets used pencils.
+- **The zero-g indicator**: Many crews carry a small plush toy to tell them the moment they reach orbit.
+- **What space smells like**: Astronauts say space leaves a smell on their suits like seared steak and hot metal.
+- **Candle flames in space are round**: In orbit a candle flame is not a teardrop but a dim blue ball.
+- **Space Oddity on the ISS**: An astronaut sang Bowie's Space Oddity while floating in orbit, guitar and all.
+- **The woodpeckers that grounded a shuttle**: In 1995 woodpeckers delayed a space shuttle launch by more than a month.
+- **Hubble's glasses**: The Hubble telescope launched with blurry vision, so astronauts fitted it with glasses.
+- **The Hubble Deep Field**: Hubble stared at a dark speck of sky for ten days and found 3,000 galaxies.
+- **The gold on James Webb's mirrors**: All the gold on the Webb telescope's giant mirror weighs about as much as a golf ball.
+- **The Arecibo message**: A 1974 radio message to the stars was 1,679 bits long, a number chosen as a clue.
+- **The Wow! signal**: In 1977 an astronomer circled a burst of radio noise and wrote one word beside it.
+- **When Andromeda meets the Milky Way**: Two galaxies may one day collide, and almost no stars would touch.
+- **The eclipse coincidence**: The Sun is 400 times wider than the Moon and 400 times farther away.
+- **The Carrington Event**: In 1859 a solar storm let telegraphs run with their batteries unplugged.
+- **Parker Solar Probe, the fastest thing we've built**: A spacecraft skimming the Sun hit about 690,000 km/h, faster than anything else built.
+- **ʻOumuamua, the visitor from another star**: In 2017 an object from another star system sped through ours and left.
+- **DART, the asteroid nudge**: In 2022 NASA crashed a spacecraft into an asteroid to see if it would budge.
+- **Cecilia Payne and what the Sun is made of**: A 1925 thesis showed stars are mostly hydrogen, and she was told to doubt it.
+- **Arrokoth, the snowman at the edge**: The farthest world ever visited is two flat lumps gently stuck together.
+- **The galactic year**: One lap of the Sun around our galaxy takes about 230 million years.
+- **LGM-1, the 'little green men' star**: The first pulsar ticked so steadily that its finders nicknamed it Little Green Men.
+- **The Big Bang in your TV static**: Some of the snow on an old TV set was light left over from the Big Bang.
+- **The black hole photo that travelled by plane**: The first black hole image was too big to send online, so it went by plane.
+- **LIGO and the chirp of black holes**: In 2015 two black holes collided, and a pair of detectors heard them chirp.
+- **51 Pegasi b, the planet that shouldn't exist**: The first planet found around a Sun-like star broke the rules of its day.
+- **The Drake equation**: The famous formula for counting alien civilisations began as a meeting agenda.
+- **The Great Dimming of Betelgeuse**: When Betelgeuse suddenly faded, people wondered if it was about to explode.
+- **The North Star is temporary**: Polaris is only the North Star for now, because Earth's axis slowly wobbles.
+- **A teaspoon of neutron star**: A teaspoon of neutron star would weigh about a billion tonnes on Earth.
+- **Cosmic latte, the colour of the universe**: The average colour of the universe is a creamy beige called cosmic latte.
+- **The centre of the galaxy tastes of raspberries**: A gas cloud near the Milky Way's heart holds a molecule that flavours raspberries.
+- **The black hole that hums a B-flat**: A black hole in the Perseus cluster sounds a B-flat 57 octaves below middle C.
 
-## Math (7)
+## Math (65)
 
 - **The Monty Hall problem**: Three doors, one car, and a choice that fooled thousands of clever people.
 - **The birthday paradox**: Put 23 people in a room and two of them probably share a birthday.
@@ -41,8 +232,66 @@
 - **Benford's law**: In real-world numbers, about 30% start with a 1 and fewer than 5% with a 9.
 - **The seven bridges of Königsberg**: A Sunday stroll puzzle that Euler turned into a whole new branch of maths.
 - **The four color theorem**: Four colors are enough for any map, and proving it took over a century and a computer.
+- **Ramanujan's taxicab number**: A taxi number Hardy found dull turned out to be special in a moment.
+- **Young Gauss adds 1 to 100**: A schoolboy is said to have added 1 to 100 in moments by pairing the ends.
+- **Achilles and the tortoise**: Zeno argued a fast runner can never catch a tortoise with a head start.
+- **The Möbius strip**: Give a paper strip one half-twist and it has only one side and one edge.
+- **The Banach-Tarski paradox**: A proven theorem says one ball can be cut up and rebuilt into two identical balls.
+- **The Indiana Pi Bill**: In 1897 Indiana's House voted 67 to 0 for a bill built on bad maths about pi.
+- **Gabriel's horn**: A horn you could fill with paint, yet whose surface could never be painted.
+- **The Collatz conjecture**: A child can follow the rule, yet nobody can prove where every number ends up.
+- **Fermat's Last Theorem**: A note in a book margin from about 1637 took 358 years to prove.
+- **The Ulam spiral**: A doodle in a dull 1963 talk showed the primes lining up in diagonal streaks.
+- **The Erdős number**: Mathematicians still count how many steps they are from one wandering man.
+- **6174, Kaprekar's constant**: Shuffle almost any four-digit number this way and you always land on 6174.
+- **The googol**: A nine-year-old named the number 1 followed by a hundred zeros.
+- **Graham's number**: A number too large to write in the universe, yet we know how it ends.
+- **The infinite monkey theorem**: Random typing will produce Shakespeare in the end, but not in this universe.
+- **The friendship paradox**: On average, your friends have more friends than you do.
+- **Why an hour has 60 minutes**: Our minutes and degrees still count in the base 60 of ancient Babylon.
+- **Inca quipu**: The Inca kept an empire's accounts in knots tied on hanging cords.
+- **The slide rule on the Moon**: Apollo astronauts packed a pocket slide rule, a calculator from the 1600s.
+- **Sophie Germain, alias Monsieur LeBlanc**: A self-taught Parisian wrote to the greatest mathematician alive as a man.
+- **Perelman turns down a million**: He solved a century-old puzzle, then refused the medal and the million dollars.
+- **0.999... equals 1**: Nines that go on forever do not get close to 1. They are exactly 1.
+- **The barber paradox**: A barber who shaves only those who do not shave themselves cannot exist.
+- **The pattern hidden in Pascal's triangle**: Colour in the odd numbers of Pascal's triangle and a fractal appears.
+- **The coastline paradox**: Britain's coastline gets longer the more carefully you measure it.
+- **The Mandelbrot set**: A one-line rule produces a shape with endless detail at every zoom.
+- **The shortest UK pub crawl**: Mathematicians proved the shortest route visiting nearly 50,000 UK pubs.
+- **Bayes' theorem**: The rule behind spam filters was found in a minister's papers after he was gone.
+- **The Galton board**: Beads bounce at random through pegs, yet always pile up into the same bell curve.
+- **The ox-weighing contest**: Some 800 fairgoers guessed an ox's weight, and their middle guess was within 1%.
+- **The 17-clue sudoku**: No proper sudoku can start with fewer than 17 numbers, and proving it took a supercomputer.
+- **The Tower of Hanoi**: A toy puzzle whose 64-disc legend would take about 585 billion years to finish.
+- **Folding paper 12 times**: Paper supposedly could not be folded in half more than seven times. A student did 12.
+- **The rope around the Earth**: Add one metre to a rope around the Earth and it rises about 16 cm all the way round.
+- **Conway's Game of Life**: A few rules on a grid of squares are enough to build a working computer.
+- **How much pi NASA needs**: Pi is known to trillions of digits, yet NASA's spacecraft navigation uses about 15.
+- **I cut, you choose**: Sharing a cake fairly between two is easy. Doing it for any number took until 2016.
+- **The stable marriage problem**: A 1962 matching puzzle now places doctors in hospitals and helped win a Nobel Prize.
+- **The 15 puzzle craze**: In 1880 a sliding-tile puzzle gripped America, and half its positions are impossible.
+- **The night black came up 26 times**: In 1913 a roulette wheel in Monte Carlo landed on black 26 times in a row.
+- **Simpson's paradox**: A trend can hold in every group and then flip when the groups are added up.
+- **The hairy ball theorem**: You can't comb a hairy ball flat, so somewhere the wind is always still.
+- **Brouwer's coffee cup**: Stir a cup of coffee and at least one point ends up where it started.
+- **Penrose tiling**: Two tile shapes that cover a floor forever without the pattern ever repeating.
+- **The hat tile**: A retired print technician found a single tile that never repeats.
+- **Marjorie Rice's pentagons**: A San Diego homemaker found new pentagon tilings at her kitchen table.
+- **The largest known prime**: The biggest known prime has over 41 million digits and was found on rented chips.
+- **Every shuffle is new**: A well-shuffled deck is almost certainly in an order no deck has ever been in.
+- **Buffon's needle**: Drop needles on a striped floor, count the crossings, and out comes pi.
+- **Leibniz and binary**: Leibniz worked out binary arithmetic centuries before computers needed it.
+- **The 37% rule**: Picking the best of options you can't go back to? Pass on the first 37%.
+- **The Reuleaux triangle**: A rounded triangle that is the same width in every direction, just like a circle.
+- **The invention of the equals sign**: The = sign was invented in 1557 by a Welshman tired of writing "is equal to".
+- **Hyperbolic crochet**: A shape mathematicians found hard to model was finally made with a crochet hook.
+- **Nicolas Bourbaki**: A great 20th-century mathematician never existed: Bourbaki was a secret club.
+- **Katherine Johnson checks the computer**: Before orbiting Earth, John Glenn wanted one person to check the computer's sums.
+- **Nontransitive dice**: Three dice where A beats B, B beats C, and C beats A, like rock, paper, scissors.
+- **Braess's paradox**: Adding a new road to a network can make every driver's journey slower.
 
-## Mind (7)
+## Mind (65)
 
 - **The Dress**: One photo of one dress, and the internet could not agree on its colours.
 - **The McGurk effect**: Watching someone's lips can change the sound you are sure you heard.
@@ -51,8 +300,66 @@
 - **Semantic satiation**: Say a word enough times and it turns into a strange, meaningless sound.
 - **The Ben Franklin effect**: Want someone to like you more? Franklin's advice was to ask them for a favour.
 - **The overview effect**: Many astronauts say seeing Earth from space changed how they think about home.
+- **The lilac chaser**: Stare at a ring of lilac dots and they vanish, replaced by one racing green dot.
+- **The McCollough effect**: A few minutes of coloured stripes can tint black-and-white ones for weeks.
+- **Kitaoka's rotating snakes**: A completely still picture of coloured coils that appears to keep turning.
+- **The café wall illusion**: Rows of tiles that are perfectly parallel but look like they slope.
+- **The spinning dancer**: A silhouette that spins either way, and neither direction is the right one.
+- **Choice blindness**: People happily explain choices they never made after a secret swap.
+- **The jam study**: Shoppers bought more jam from 6 flavours than 24, but the effect is shaky.
+- **The Wason selection task**: Few people solve this four-card puzzle until it is about a bar.
+- **The bat-and-ball problem**: A bat and a ball cost $1.10, and most people get the ball's price wrong.
+- **The Forer effect**: A class rated one shared personality profile as a near-perfect fit.
+- **The Barry Manilow T-shirt**: Students in an embarrassing T-shirt guessed half the room noticed. Few did.
+- **The song-tapping study**: Tappers thought listeners would name half their songs. They got 1 in 40.
+- **The Stroop effect**: Name the ink colour of the word RED printed in blue, and your brain stalls.
+- **The Müller-Lyer illusion**: Two equal lines look different lengths, even after you measure them.
+- **Adelson's checker shadow**: Two squares that look light and dark grey are printed in the very same shade.
+- **The hollow-face illusion**: Look into the back of a mask and the face seems to bulge out toward you.
+- **The Ames room**: In a lopsided room, two people of the same height look like a giant and a tiny person.
+- **The Moon illusion**: The rising Moon looks huge, yet it is the same size as when it is overhead.
+- **The cocktail party effect**: You can ignore a noisy room, then hear your name from across it.
+- **Phonemic restoration**: Replace a sound in a word with noise, and listeners still hear the missing sound.
+- **Yanny or Laurel**: In 2018 one short audio clip split listeners between Yanny and Laurel.
+- **The speech-to-song illusion**: Loop a spoken phrase a few times and it suddenly turns into a song.
+- **The rigged wheel of fortune**: A wheel rigged to stop at 10 or 65 changed people's guesses about Africa.
+- **The IKEA effect**: People value a wobbly box they built themselves more than a neat one they bought.
+- **The invisible gorilla**: Half of viewers counting basketball passes never saw a gorilla walk through.
+- **The door study**: Half the people giving directions missed that the stranger asking had changed.
+- **Ebbinghaus's forgetting curve**: One man learned thousands of nonsense syllables to measure how fast we forget.
+- **The testing effect**: Quizzing yourself beats rereading, even though rereading feels like it works better.
+- **The magical number seven**: The famous rule that we can hold seven things in mind turned out to be generous.
+- **The coffee mug experiment**: Hand someone a mug and they suddenly want about twice as much to sell it.
+- **The Linda problem**: Most people pick an answer that is mathematically impossible to be more likely.
+- **The hot hand comeback**: Basketball's hot hand was called a myth for 30 years, until a maths slip was found.
+- **The marshmallow test**: The famous test of waiting for a second treat predicts less than people thought.
+- **Power posing**: Standing like a superhero was said to change your hormones. It did not hold up.
+- **Ego depletion**: Willpower was said to run out like fuel. A 23-lab test found almost no effect.
+- **The Mozart effect**: A brief boost on one puzzle became a myth that Mozart makes babies smarter.
+- **The learning styles myth**: Teaching to your 'visual' or 'auditory' style does not seem to help you learn.
+- **Asch's line experiment**: Asked which line was longest, most people agreed with a wrong group at least once.
+- **The mere-exposure effect**: We grow to like things just from seeing them often, even without noticing.
+- **The pratfall effect**: A brilliant quiz contestant became more likeable after spilling a cup of coffee.
+- **The Zeigarnik effect**: The story goes that a waiter's memory inspired research on unfinished tasks.
+- **Libet's free-will experiment**: The brain seemed to start a movement before people felt they had chosen it.
+- **The Chinese room**: A man answers perfectly in Chinese without understanding a single word.
+- **The Flynn effect**: IQ scores rose so steadily for decades that the tests kept getting harder.
+- **The one-dollar lie**: Students paid $1 to call a dull task fun ended up liking it more than those paid $20.
+- **Which penny is real?**: Most Americans cannot pick out a real penny from a page of fakes.
+- **The doorway effect**: Walking through a door really can wipe out why you came into the room.
+- **The tip-of-the-tongue state**: You can know a word's first letter and length while the word itself hides.
+- **The memory palace**: Memory champions mostly have ordinary brains and a very old trick.
+- **Meeting Bugs Bunny at Disneyland**: People recalled shaking hands with a rabbit who could never have been at Disneyland.
+- **The uncanny valley**: Robots grow more likeable as they look human, until they look almost human.
+- **Seeing faces in things**: Your brain flags a face in a plug socket almost as fast as a real face.
+- **The Thatcher effect**: A doctored face looks shocking upright but almost normal upside down.
+- **The rubber hand illusion**: Watch a fake hand being stroked and your brain may adopt it as your own.
+- **The cutaneous rabbit**: Taps at the wrist and elbow can feel like a tiny creature hopping up your arm.
+- **The stopped-clock illusion**: The first tick you see on a clock can seem to last longer than a second.
+- **The wagon-wheel effect**: Wheels on film can seem to spin backwards while the car speeds forwards.
+- **The waterfall illusion**: Stare at a waterfall, then at the rocks, and the rocks seem to drift upwards.
 
-## Inventions (7)
+## Inventions (65)
 
 - **The Post-it accident**: A glue that failed at sticking became one of the best-known office supplies.
 - **The QWERTY myth**: The keyboard was not designed to slow you down, whatever you have heard.
@@ -61,8 +368,66 @@
 - **Bubble wrap was meant to be wallpaper**: Before it protected parcels, bubble wrap was supposed to cover your walls.
 - **The microwave and the melted chocolate bar**: A radar engineer noticed his snack had melted, and the microwave oven followed.
 - **The Slinky**: A spring meant for ships fell off a shelf and walked, so it became a toy.
+- **The $15 safety pin**: The safety pin was invented to pay off a $15 debt, then sold for $400.
+- **Norway's paper clip myth**: Norway celebrates the paper clip's inventor, but he never made the clip we use.
+- **How the zipper got its name**: The zipper existed for 30 years before a rubber boot gave it a name.
+- **The Frisbee and the pie tins**: The Frisbee is named after a bakery whose pie tins students tossed around.
+- **Play-Doh began as wallpaper cleaner**: Before children squashed it into shapes, Play-Doh wiped soot off walls.
+- **Silly Putty, the failed rubber**: Silly Putty was meant to replace rubber and became a toy in an egg.
+- **The empty cylinder that made Teflon**: A gas cylinder that seemed empty but still weighed full gave us Teflon.
+- **Before erasers, there was bread**: For centuries, the way to rub out a pencil mistake was a ball of bread.
+- **Pencils never had lead in them**: The lead in a pencil has always been graphite. The name is a 500-year-old mix-up.
+- **The can opener came 50 years late**: Tin cans arrived in 1810. A proper can opener took almost 50 more years.
+- **John Walker's unpatented match**: The first friction match came from a chemist's shop, and he never patented it.
+- **The biro and the newspaper ink**: The ballpoint pen began with a journalist annoyed by smudged fountain pen ink.
+- **Why it's called Scotch tape**: Scotch tape is named after a car painter's grumble that the glue was too stingy.
+- **Nobody wanted the first shopping cart**: Shoppers snubbed the first trolleys, so the store paid people to push them around.
+- **The bendy straw**: The bendy straw was made with a screw and dental floss for a little girl.
+- **Jonas Hanway's umbrella**: A London man carried an umbrella for 30 years and was jeered for most of them.
+- **The first balloon passengers**: The first passengers in a hot-air balloon were a sheep, a duck and a rooster.
+- **The hovercraft and the coffee tin**: The hovercraft was proved in a kitchen with two tins, a blower and some scales.
+- **The bicycle with no pedals**: The first bicycle had no pedals. Riders sat on it and kicked along the road.
+- **Kitty litter's lucky neighbour**: Modern cat litter began when a man gave his neighbour a bag of clay instead of sand.
+- **How Crayola got its name**: Crayola is French chalk plus a bit of an old word for oily.
+- **The 1958 Lego brick**: A Lego brick from 1958 still clicks onto one bought this morning.
+- **What's inside an Etch A Sketch**: An Etch A Sketch draws by scraping metal powder off the back of its glass.
+- **The first Ferris wheel**: The first Ferris wheel was Chicago's answer to the Eiffel Tower.
+- **When "escalator" lost its capital E**: Escalator was a brand name until 1950, when Otis lost it to everyday speech.
+- **Cat's eyes on the road**: Cat's eyes road studs clean themselves every time a car drives over them.
+- **Mary Anderson's windscreen wiper**: A tram ride in New York sleet led one woman to invent the windscreen wiper.
+- **The dishwasher built to save china**: The first practical dishwasher was built to protect a set of heirloom china.
+- **Margaret Knight's flat-bottomed bag**: The flat-bottomed paper bag came from a woman who had to prove it in court.
+- **The horse-drawn vacuum cleaner**: The first powered vacuum cleaner was so big it was pulled through London by horses.
+- **The lawn mower came from a cloth mill**: The lawn mower began as a machine for giving woollen cloth a smooth finish.
+- **Elisha Otis cuts the rope**: Lifts won people's trust when a man stood on one and had its rope cut.
+- **The first Tetra Pak was a tetrahedron**: Tetra Pak is named after its first carton, a little four-sided pyramid.
+- **The shipping container**: A trucker's plain metal box made it cheap to ship almost anything.
+- **The Fresnel lens**: Lighthouses shone farther once someone cut their big lens into thin rings.
+- **Louis Braille's teenage invention**: The reading system used by blind people worldwide was invented by a teenager.
+- **The Thonet No. 14 café chair**: A café chair from 1859 was made of six pieces and shipped in a kit.
+- **How IKEA found the flat pack**: IKEA's flat pack started when a designer took the legs off a table.
+- **The Anglepoise lamp's springs**: A desk lamp that stays where you point it came from a car suspension engineer.
+- **Tom Smith's Christmas cracker**: The Christmas cracker began as a sweet wrapped in a twist of paper.
+- **The snow globe was meant to be a lamp**: A Viennese snow globe grew out of an attempt to make a brighter lamp.
+- **Suitcases got wheels after the Moon landing**: People walked on the Moon before suitcases had wheels for everyone.
+- **WD-40's name**: WD-40 is named after the 40th attempt at a recipe, the one that worked.
+- **The bottle cap and the razor**: The man who invented the bottle cap gave King Gillette his big idea.
+- **The trampoline and the kangaroo**: The trampoline's inventor once bounced with a kangaroo in New York.
+- **The recycling symbol**: The recycling arrows were drawn by a student in 1970 and never trademarked.
+- **The light bulb that has burned since 1901**: A light bulb in a California fire station has been glowing since 1901.
+- **Most neon signs aren't neon**: Real neon only glows reddish orange. Every other colour is something else.
+- **The yo-yo is ancient**: A Greek cup painted around 440 BC shows a boy playing with a yo-yo.
+- **How the Swiss Army knife got its name**: The Swiss call it the officer's knife. American soldiers gave it a new name.
+- **Tupperware wouldn't sell in shops**: Tupperware flopped in shops until it was sold at parties in people's homes.
+- **The flask that didn't shatter**: A dropped flask cracked but held together, and that led to safer windscreens.
+- **Charles Goodyear's hot stove**: Rubber went soft in heat and cracked in cold until a lucky spill on a stove.
+- **Cellophane and the stained tablecloth**: Cellophane began as a plan for a tablecloth that wine could not stain.
+- **The Thermos began in a lab**: The flask in your lunch bag began as lab kit for keeping gases ultra cold.
+- **Air conditioning was for paper**: The first modern air conditioner was built to keep paper flat, not people cool.
+- **The kaleidoscope craze of 1817**: The kaleidoscope sold by the hundred thousand while its inventor earned little.
+- **The lava lamp and the egg timer**: The lava lamp began with a homemade egg timer bubbling away in an English pub.
 
-## Games (7)
+## Games (55)
 
 - **Monopoly began as The Landlord's Game**: Monopoly began as a game designed to warn people about landlords.
 - **Tetris's Soviet origin**: The world's best-known puzzle game was written at a Soviet research institute.
@@ -71,8 +436,56 @@
 - **God's number for the Rubik's Cube**: Every scrambled Rubik's Cube can be solved in twenty moves or fewer.
 - **How Scrabble got its letter scores**: Scrabble's letter scores came from counting letters in a newspaper.
 - **How Pac-Man got his name**: Pac-Man was named after a Japanese sound for eating, and nearly something else.
+- **The Monopoly sets that hid escape maps**: Some wartime Monopoly sets hid silk maps, compasses and real money.
+- **Snakes and ladders began as Moksha Patam**: Snakes and ladders started in India as a game about living a good life.
+- **The Joker was invented for euchre**: The Joker is the newest card in the pack, added for one American game.
+- **Why the ace of spades is so fancy**: The ace of spades is ornate because it once proved tax had been paid.
+- **The robot hand that never loses at rock paper scissors**: A robot hand wins rock paper scissors every time by being too fast to see.
+- **Nimrod, the computer built to play Nim**: In 1951 a giant computer played Nim at the Festival of Britain, and mostly won.
+- **Tennis for Two**: One of the first video games was built to liven up a science lab's open day.
+- **Spacewar! and its real star map**: An early video game from MIT used a real star chart for its background.
+- **The Pong machine that jammed with quarters**: The first Pong machine broke down because it was stuffed with quarters.
+- **The E.T. cartridges buried in the desert**: The legend of Atari burying its flop in the desert turned out to be true.
+- **The Konami Code**: The world's most famous cheat began because one programmer found his game too hard.
+- **Why Windows came with Solitaire**: A card game was quietly teaching millions of people how to use a mouse.
+- **MissingNo., the Pokémon that wasn't**: A scrambled creature in the first Pokémon games could multiply your items.
+- **Why Mario has a moustache**: Mario's moustache, cap and overalls were all workarounds for tiny pixels.
+- **Nintendo began with playing cards**: The company behind Mario was founded in 1889 to make hand-painted flower cards.
+- **Elite's galaxies in a tiny memory**: Eight galaxies, 2,048 planets in all, fit in a computer with 32 kilobytes of memory.
+- **Why Space Invaders speeds up**: The invaders speed up because the computer had less to draw, and the designer liked it.
+- **El Ajedrecista, the first real chess machine**: In 1912 a Spanish engineer built a machine that could checkmate you on its own.
+- **Sudoku was invented in America**: Sudoku's name is Japanese, but the puzzle was first printed in an American magazine.
+- **The first crossword**: The first crossword was shaped like a diamond and called a word-cross.
+- **The D-Day crossword**: In 1944 a newspaper crossword kept giving away the secret codewords of D-Day.
+- **Pac-Man's four ghosts each hunt differently**: Each Pac-Man ghost follows its own simple rule, and together they feel alive.
+- **Twister and the Tonight Show**: A game of left hand, red was nearly a flop until a late-night TV moment in 1966.
+- **Jenga's name means build**: The tower game everyone knows is named after a Swahili word for building.
+- **MENACE, the matchbox that learned**: In 1961 a pile of matchboxes and coloured beads learned to play noughts and crosses.
+- **Minecraft's world is bigger than Earth**: A single Minecraft world has about seven times the surface area of the real Earth.
+- **New York's pinball ban**: Pinball was illegal in New York City for 34 years, until one shot in a hearing.
+- **The first famous Easter egg**: A game designer hid his name in a secret room because his company would not credit him.
+- **Colossal Cave Adventure's real cave**: The first text adventure game was a map of a real cave in Kentucky.
+- **Magic: The Gathering is a computer**: A game of Magic cards can be set up to compute anything a computer can.
+- **The Elo rating**: A chess ranking made by a physics professor now ranks gamers, football teams and AI.
+- **Wordle was made for one person**: The word game millions play each morning was first a present for one person.
+- **The game of Hex**: Hex was invented twice, and a game of it can never end in a draw.
+- **Where the word meeple came from**: The word for little wooden board-game people began at one game night in 2000.
+- **Game & Watch and the bored commuter**: Nintendo's first handheld games began with a man idly pressing a calculator on a train.
+- **The Speak & Spell**: A 1978 spelling toy was the first to fit a whole speech synthesizer on one chip.
+- **The Tamagotchi's egg-watch name**: A pocket egg from 1996 that needed feeding, playing with and putting to bed.
+- **What's inside a Magic 8 Ball**: Shake it and a 20-sided die floats up through dark blue liquid to answer you.
+- **The first jigsaw puzzles were maps**: The first jigsaw puzzles were maps of the world, cut along country borders.
+- **The Royal Game of Ur**: A 4,500-year-old board game whose rules turned up on a clay tablet.
+- **The Lewis chessmen**: Medieval chess pieces found on a Scottish island, with rooks biting their shields.
+- **How the chess queen became powerful**: The strongest chess piece spent centuries creeping one square at a time.
+- **The backgammon doubling cube**: Backgammon's roots are ancient, but its doubling cube only dates from the 1920s.
+- **The cruise that made contract bridge**: Modern bridge scoring was worked out on a cruise ship in 1925.
+- **Uno's no-stacking rule**: Under Uno's official rules, you cannot pass a Draw Two along with another.
+- **Trivial Pursuit and the missing Scrabble tiles**: A Scrabble set with missing tiles led to one of the best-selling board games.
+- **Connect Four is solved**: Go first, start in the middle column, play perfectly, and you always win.
+- **Checkers is a draw**: A computer spent 18 years proving that perfect checkers always ends in a draw.
 
-## History (7)
+## History (55)
 
 - **Tulip mania**: The 1630s tulip craze was real, but the legend of a ruined nation is not.
 - **1816, the year without a summer**: A cold, gloomy 1816 gave us Frankenstein, an early bicycle and glowing skies.
@@ -81,8 +494,56 @@
 - **Cleopatra and the pyramids**: Cleopatra lived closer in time to the Moon landing than to the Great Pyramid.
 - **Oxford is older than the Aztecs**: Students were studying at Oxford before the Aztecs founded Tenochtitlan.
 - **Napoleon wasn't short**: Napoleon was about average height. The myth came from a mix-up over inches.
+- **Paris's pneumatic post**: For over a century, Paris mailed letters by blowing them through tubes.
+- **The Penny Black**: The world's first stamp is why British stamps still carry no country name.
+- **Swan Upping**: Every July, the King's swans on the Thames are counted from rowing boats.
+- **Vikings didn't wear horned helmets**: The horned Viking helmet was dreamed up for the stage, not found in the ground.
+- **Medieval people knew the Earth was round**: Columbus's critics knew the Earth was round. They thought it was too big.
+- **The Diary of Merer**: The oldest inscribed papyri are a work log from building the Great Pyramid.
+- **Ea-nasir and the oldest complaint letter**: Nearly 4,000 years ago, a customer wrote an angry letter about bad copper.
+- **Kushim, maybe the first named person**: One of the oldest names ever written may belong to a barley accountant.
+- **The Vindolanda birthday invitation**: A Roman party invitation holds some of the oldest Latin handwriting by a woman.
+- **Samuel Pepys buries his parmesan**: As London burned in 1666, Samuel Pepys buried his parmesan in the garden.
+- **Lloyd's began in a coffee house**: One of the world's great insurance markets started as a coffee house.
+- **The Eiffel Tower was meant to come down**: The Eiffel Tower had a 20-year permit. Radio helped it stay.
+- **The French Republican calendar**: Revolutionary France swapped the seven-day week for ten days and tried ten-hour clocks.
+- **Sweden's February 30th**: In 1712 Sweden had a February 30th, after a calendar plan went badly wrong.
+- **The Rosetta Stone**: One temple notice, carved three ways, finally let people read hieroglyphs again.
+- **The teenagers who found Lascaux**: Some of the world's finest cave paintings were found by four teenagers in 1940.
+- **The farmers who found the Terracotta Army**: In 1974 farmers digging for water near Xi'an struck a clay head instead.
+- **The day of two noons**: On 18 November 1883 many American towns watched the clock strike noon twice.
+- **The 445-day year**: To fix Rome's calendar, Julius Caesar made the year 46 BC last 445 days.
+- **Why there is no year zero**: The calendar most of the world uses goes straight from 1 BC to AD 1.
+- **The War of the Worlds panic**: The great 1938 Martian radio panic was mostly a newspaper story.
+- **The first transatlantic cable**: Queen Victoria's 98-word message across the Atlantic took about 16 hours.
+- **Benjamin Franklin's daylight joke**: Franklin suggested waking Paris with cannon fire to save on candles.
+- **Frederic Tudor, the Ice King**: A Boston merchant got rich shipping frozen pond water to the tropics.
+- **Houses sold by mail order**: Sears once sold whole houses from its catalogue, delivered by train.
+- **Children sent by parcel post**: For a few years, some American parents sent their children by post.
+- **Stonehenge's travelling bluestones**: Stonehenge's smaller stones came about 150 miles from the hills of Wales.
+- **Göbekli Tepe**: Hunter-gatherers carved giant stone pillars 6,000 years before Stonehenge.
+- **The first paper money**: China was printing paper money about 600 years before Europe.
+- **The stone money of Yap**: On Yap, giant stone coins change hands without ever moving.
+- **Emperor Norton of San Francisco**: A broke San Franciscan named himself emperor, and the city played along.
+- **The Pony Express lasted 18 months**: The legendary Pony Express ran for just over a year and a half.
+- **Dagen H, when Sweden switched sides**: At 5am on 3 September 1967, a whole country moved to the other side of the road.
+- **The day Samoa skipped**: In 2011 Samoa went to bed on a Thursday and woke up on a Saturday.
+- **The Soviet five-day week**: For about a decade the Soviet Union lived without a seven-day week.
+- **Why September is the ninth month**: September means seventh month, and December means tenth.
+- **The pennies that keep Big Ben on time**: London's most famous clock is fine-tuned with a small stack of old pennies.
+- **Ruth Belville, the woman who sold time**: Until 1940, a London woman sold Greenwich time door to door from her watch.
+- **The first photo of a person**: A busy Paris street looks empty in this 1838 photo, apart from one man.
+- **The spaghetti harvest hoax**: In 1957 the BBC showed Swiss families picking spaghetti from trees.
+- **The map that named America**: A single surviving 1507 map is the first to use the name America.
+- **Agloe, the fake town that became real**: A town invented to catch map copiers ended up with a real shop.
+- **The Tower of London's ravens**: The legend says Britain falls if the ravens leave, but it may be Victorian.
+- **Hollerith's punch-card census**: A census machine that read holes with mercury became the root of IBM.
+- **The 1834 telegraph hack**: Two bankers secretly hid stock tips in France's government telegraph.
+- **The Great Moon Hoax**: In 1835 a New York paper reported winged people living on the Moon.
+- **Peter the Great's beard tax**: Peter the Great made Russian men pay to keep their beards, and carry a receipt.
+- **The Mountains of Kong**: A mountain range across West Africa sat on maps for about 90 years. It was never there.
 
-## Books (7)
+## Books (50)
 
 - **William Caxton and the eggs**: England's first printer could not decide how to spell the word for eggs.
 - **Frankenstein began as a rainy-day game**: An 18-year-old started science fiction's founding novel to pass a wet week.
@@ -91,8 +552,51 @@
 - **Green Eggs and Ham's 50-word bet**: One of the best-selling children's books was written to win a 50-dollar bet.
 - **Twenty Thousand Leagues is not a depth**: Jules Verne's famous title measures a journey across the sea, not a dive down.
 - **Bookland, the country on every book**: The barcode on the back of a book says it was made in a country that does not exist.
+- **The card catalogue on playing cards**: France's first national library catalogue was written on playing cards.
+- **The Voynich manuscript**: A beautifully illustrated 600-year-old book that nobody has ever been able to read.
+- **Penguin's sixpenny paperbacks**: Penguin was born on a railway platform with nothing worth reading.
+- **The girl who read Harry Potter first**: An eight-year-old's verdict helped get Harry Potter published.
+- **Winnipeg, the real Pooh bear**: Winnie-the-Pooh was named after a real bear called Winnipeg.
+- **Peter Rabbit began as a letter**: The Tale of Peter Rabbit started life as a picture letter to a little boy.
+- **Alice began on a rowing boat**: Alice in Wonderland was first told aloud on a summer boat trip near Oxford.
+- **The OED's iron shed**: The great Oxford English Dictionary was edited in a tin shed in a garden.
+- **Johnson's "harmless drudge"**: Samuel Johnson defined a lexicographer as a harmless drudge.
+- **On the Road's 120-foot scroll**: Jack Kerouac typed On the Road on one continuous roll of paper.
+- **James Bond, the bird expert**: The name James Bond came from the author of a bird guide.
+- **Fahrenheit 451 on a rented typewriter**: Ray Bradbury wrote a novel about burning books on a pay-by-the-hour typewriter.
+- **The Phantom Tollbooth was procrastination**: A classic children's book was written to avoid writing a different one.
+- **Asimov's Three Laws of Robotics**: Asimov's famous robot laws were put into words by his editor.
+- **William Gibson's "cyberspace"**: The author who named cyberspace wrote his novel on a manual typewriter.
+- **Snow Crash and the Metaverse**: The Metaverse was named in a 1992 novel about a pizza-delivering hacker.
+- **Why the answer is 42**: Douglas Adams said 42 had no secret meaning. He simply picked it.
+- **The Hobbit began on an exam paper**: Tolkien wrote the first line of The Hobbit on a student's exam script.
+- **A Christmas Carol was self-published**: A Christmas Carol sold out in days, yet Dickens made only a small profit.
+- **Sherlock Holmes's missing deerstalker**: In Conan Doyle's stories, Holmes never wears a deerstalker.
+- **Gadsby, the novel without an E**: A 1939 novel of about 50,000 words never once uses the letter E.
+- **The Martian began as a free blog**: A bestselling space novel started as free chapters on its author's website.
+- **E. M. Forster's The Machine Stops**: In 1909 a novelist imagined people living alone and talking through screens.
+- **The First Folio**: Half of Shakespeare's plays exist because two of his fellow actors saved them.
+- **Project Gutenberg's first ebook**: The first ebook was typed into a mainframe on the Fourth of July, 1971.
+- **The Bodleian's no-lending rule**: Oxford's great library would not even lend a book to the king.
+- **Biblioburro, the donkey library**: A Colombian teacher takes books to remote villages on two donkeys.
+- **Hay-on-Wye's self-crowned king**: A bookseller filled a Welsh town with bookshops and then crowned himself king.
+- **Shakespeare and Company's Tumbleweeds**: A Paris bookshop lets young writers sleep among its shelves for free.
+- **Pippi Longstocking's name came from a child**: A sick seven-year-old invented the name Pippi Longstocking out of thin air.
+- **Paddington began on a shop shelf**: Paddington began as a lonely toy bear left on a London shop shelf.
+- **Where the Wild Horses Are**: Where the Wild Things Are was meant to be about horses, until Sendak tried drawing one.
+- **Jane Austen's creaking door**: Jane Austen asked that a creaky door be left unfixed, so she could hide her writing.
+- **Treasure Island began with a map**: Stevenson drew a pirate map to amuse a boy, then wrote a novel to fit it.
+- **The real Robinson Crusoe**: A Scottish sailor asked to be left on an island, and stayed for over four years.
+- **Louisa May Alcott didn't want to write Little Women**: Alcott wrote her most loved book on request, and thought the first chapters dull.
+- **Bloomsday**: Every 16 June, fans of a famously difficult novel dress up and walk its route.
+- **Aladdin wasn't in the Arabian Nights**: The most famous Arabian Nights stories came from a storyteller in Paris.
+- **The Brontës' tiny books**: The young Brontës wrote books small enough for toy soldiers to hold.
+- **Thoreau the pencil maker**: Before Walden, Thoreau helped make some of the best pencils in America.
+- **Kurt Vonnegut's shapes of stories**: Kurt Vonnegut drew stories as lines on a graph. His university turned the idea down.
+- **Borges's Library of Babel**: Borges imagined a library holding every book that could ever be written.
+- **Choose Your Own Adventure**: A father ran out of bedtime stories and asked his daughters what happened next.
 
-## Language (7)
+## Language (50)
 
 - **Silbo Gomero**: On one Canary Island, people can hold a conversation by whistling Spanish.
 - **The Great Vowel Shift**: Why English spells "bite" and "meet" so unlike the rest of Europe.
@@ -101,8 +605,51 @@
 - **Buffalo buffalo Buffalo buffalo**: A grammatical English sentence made of nothing but the word "buffalo".
 - **Dord, the word that never was**: A word that sat in a major dictionary for years and meant nothing at all.
 - **Thorn, the lost letter of "Ye Olde"**: The "ye" in "Ye Olde" was never meant to be read with a y sound.
+- **Sequoyah's Cherokee syllabary**: A man who could not read invented a way to write his whole language.
+- **The architect who cracked Linear B**: An architect in his spare time solved a script that had baffled scholars for 50 years.
+- **Boustrophedon, writing like an ox ploughs**: Some ancient writing ran left to right, then turned and ran back the other way.
+- **The invention of the space between words**: For centuries, Latin was written as one long unbroken string of letters.
+- **The tittle**: The dot on top of a lowercase i has a name of its own: the tittle.
+- **The horse raced past the barn fell**: A perfectly grammatical sentence that almost everyone reads wrong the first time.
+- **Colorless green ideas sleep furiously**: A famous sentence built to be correct English while meaning nothing at all.
+- **The word with 645 meanings**: The small verb run has more meanings in the Oxford dictionary than any other word.
+- **Eggcorns**: When someone writes egg corn for acorn, they have made a mistake with its own logic.
+- **Bouba and kiki**: Most people agree which made-up word fits a spiky shape and which fits a round one.
+- **'Huh?' is universal**: Across very different languages, people ask for a repeat with almost the same word.
+- **Nicaraguan Sign Language**: Deaf children brought together in Nicaragua invented a whole new language.
+- **The octothorpe**: Telephone engineers gave the # key a strange name, and nobody agrees why.
+- **How the ampersand got its name**: Children once recited & as the last letter of the alphabet, and slurred its name.
+- **The interrobang**: In 1962 an ad man fused the question mark and exclamation mark into one.
+- **The pilcrow**: The ¶ mark began as a letter C, and its missing ink gave us indents.
+- **What the world calls @**: In Italy the @ is a snail. In the Netherlands it is a monkey's tail.
+- **The quick brown fox**: A sentence about a fox and a dog has been testing letters since the 1880s.
+- **Lorem ipsum**: Designers' dummy text is a chopped-up passage by Cicero, cut mid-word.
+- **Where 'robot' came from**: The word robot comes from a 1920 Czech play and an old word for drudgery.
+- **Why French says 'four twenties' for 80**: In France, 80 is four twenties and 99 is four twenties and nineteen.
+- **Esperanto's hopeful name**: Esperanto is named after its inventor's pen name: Doctor One-Who-Hopes.
+- **Klingon, a language built for Star Trek**: A linguist built Klingon to sound alien, and fans translated Hamlet into it.
+- **Rotokas, the 12-letter alphabet**: A language on the island of Bougainville gets by with only 12 letters.
+- **The clicks of Xhosa**: In Xhosa, the letters c, q and x each stand for a different click.
+- **Hangul, the alphabet shaped like the mouth**: Korean letters are little diagrams of the tongue, lips and throat.
+- **Esquivalience, the dictionary's trap word**: A respected dictionary printed a word it had invented, to catch copycats.
+- **Goodbye began as 'God be with ye'**: Every time you say goodbye, you are saying a squashed four-word blessing.
+- **How 'an ekename' became 'a nickname'**: A nickname was once an ekename, until an n jumped across the gap.
+- **The man inside 'algorithm'**: Algorithm is a person's name, bent out of shape by medieval Latin.
+- **When 'computer' was a job title**: For 300 years, a computer was a person with a pencil, not a machine.
+- **Why 'byte' has a y**: Byte is spelled with a y on purpose, so nobody would confuse it with bit.
+- **The Chinese typewriter**: Typing Chinese meant hunting through a tray of metal characters, one at a time.
+- **Writing began as bookkeeping**: The first writing was not poetry or law. It was mostly receipts for barley and beer.
+- **Why Icelanders call a computer a 'number prophetess'**: Iceland's word for computer blends 'number' with an old word for a seeress.
+- **The silent b in 'debt'**: English spelled debt without a b for centuries, until scholars stuck one in.
+- **Why Americans write 'color'**: American spelling was partly one man's project to give a new nation its own words.
+- **The missing comma that cost $5 million**: A lawsuit about dairy drivers' overtime came down to one missing comma.
+- **The language with no left or right**: Speakers say the cup is north of the plate, and they always know where north is.
+- **Every language carries about 39 bits a second**: Fast talkers and slow talkers end up sharing information at the same speed.
+- **The Voder, the first electronic voice**: At the 1939 World's Fair, women played speech on a keyboard like an organ.
+- **A man, a plan, a canal: Panama**: The world's best-known palindrome first appeared in a British journal in 1948.
+- **Spoonerisms**: The Oxford don behind the word may have said very few spoonerisms himself.
 
-## Music (7)
+## Music (50)
 
 - **The Shepard tone**: A sound that rises forever and never gets any higher.
 - **The Amen break**: Six seconds of drumming from a 1969 B-side that built whole genres.
@@ -111,8 +658,51 @@
 - **Perfect pitch and tonal languages**: Speaking a tonal language as a child may make perfect pitch far more likely.
 - **The copyright on "Happy Birthday"**: The world's best-known song was treated as private property until 2016.
 - **The theremin**: An instrument you play without touching, by moving your hands through the air.
+- **The Mellotron**: Each key plays a strip of real tape, so no note can last past eight seconds.
+- **The Hammond organ's day in court**: A US government agency once held listening tests to see if an organ was real.
+- **Ben Franklin's glass armonica**: Benjamin Franklin invented an instrument you play with wet fingertips.
+- **Why the piano is called 'soft-loud'**: The piano's real name means soft-loud, the one trick a harpsichord could not do.
+- **The Illiac Suite**: In 1957 a room-sized computer helped write a string quartet.
+- **Where do-re-mi came from**: Do-re-mi began as the first syllables of a medieval hymn.
+- **Twinkle, Twinkle, Mozart and the ABCs**: Twinkle, Twinkle, the alphabet song and Baa, Baa share one French tune.
+- **The 639-year organ piece**: A German church organ is playing one piece of music until the year 2640.
+- **Satie's Vexations**: A one-page piano piece that, played as marked, lasts most of a day.
+- **Ravel's Boléro**: Ravel called his most famous piece an experiment with no music in it.
+- **How Pachelbel's Canon got famous**: The wedding favourite was barely known until a 1968 recording.
+- **'Yesterday' was 'Scrambled Eggs'**: Paul McCartney woke up with the tune of Yesterday and sang about eggs.
+- **The oldest written melody**: A song written on clay about 3,400 years ago is the oldest tune we can still play.
+- **The 40,000-year-old flute**: Ice Age musicians carved a flute from a vulture's wing bone in a German cave.
+- **The Great Stalacpipe Organ**: In a Virginia cave, an organ plays tunes by tapping on ancient stalactites.
+- **Tuvan throat singing**: Singers from Tuva can sing two notes at once with a single voice.
+- **Mozart's starling**: Mozart bought a pet bird that could already sing a tune from his new concerto.
+- **The man who didn't patent karaoke**: The inventor of the karaoke machine never patented it and missed out on a fortune.
+- **How Shazam hears a song**: Shazam throws away almost all of a song and keeps only a sparse map of peaks.
+- **Haydn's Farewell Symphony**: A symphony where the players walk out one by one, until only two violins remain.
+- **The musical road that plays off-key**: A California road plays the William Tell Overture under your tyres, badly.
+- **Bach's musical signature**: Johann Sebastian Bach could spell his own surname in musical notes.
+- **The clarinet wail of Rhapsody in Blue**: The most famous clarinet slide in music started as a joke in rehearsal.
+- **The Big Ben chimes**: The world's most famous clock chime was written for a church in Cambridge.
+- **Auto-Tune's oil-field origins**: The pitch-fixing software in pop music began as maths for finding oil.
+- **Tom's Diner and the MP3**: One quiet a cappella song was played over and over to perfect the MP3.
+- **Why a CD holds 74 minutes**: The CD's length may have been set by Beethoven's Ninth, or that may be a legend.
+- **How A became 440**: For centuries, the note A could mean a different pitch in every city.
+- **The metronome Maelzel didn't invent**: The metronome on every piano carries the name of the man who copied it.
+- **Switched-On Bach**: An album of Bach on a synthesizer, built one note at a time, sold a million copies.
+- **The Roland TR-808**: A drum machine that flopped for sounding fake became the heartbeat of hip-hop.
+- **The first instruments played in space**: Two Gemini astronauts smuggled a harmonica into orbit and played 'Jingle Bells'.
+- **Au clair de la lune, the oldest recorded voice**: A voice was recorded in 1860, but nobody heard it until 2008.
+- **Les Paul and sound on sound**: One guitarist turned himself into a whole band by recording over his own playing.
+- **Muzak's stimulus progression**: Office background music was once timed to pick workers up when they flagged.
+- **The hold music everyone knows**: The tune millions hear while on hold was made by two teenagers in 1989.
+- **The Pythagorean comma**: Twelve perfect fifths overshoot seven octaves, so pianos are tuned slightly off.
+- **Hearing the note that isn't there**: Your brain can hear a low note even when the sound contains none of it.
+- **The steelpan**: Trinidad turned empty oil drums into a whole family of tuned instruments.
+- **Tchaikovsky's secret celesta**: Tchaikovsky asked for a new instrument to be bought in secret, to beat his rivals.
+- **The orchestra hit**: A dramatic chord heard all over 1980s pop came from a sampler's preset sound.
+- **MIDI, the 1983 language of music**: Rival synth makers agreed on one music language in 1983, and it barely changed.
+- **The DX7 and Stanford's patent**: The bright sound of 1980s pop came from a Stanford discovery about fast vibrato.
 
-## Film (7)
+## Film (45)
 
 - **Foley, the sound added after filming**: Most footsteps in films are performed later, by someone walking on the spot.
 - **The Kuleshov effect**: The same blank face looks hungry, sad or tender, depending on the next shot.
@@ -121,8 +711,46 @@
 - **Barry Lyndon's NASA lenses**: Kubrick filmed scenes by candlelight using a lens built for NASA.
 - **Steamboat Willie and synced sound**: Mickey's 1928 breakout was a sound cartoon, kept in time by a metronome.
 - **Fantasia and Hewlett-Packard**: One of HP's first big customers was Disney, testing the sound for Fantasia.
+- **The THX Deep Note**: The swelling THX sound before films was written as computer code, not played.
+- **How the lightsaber got its hum**: The lightsaber's hum is an old projector motor mixed with a TV's buzz.
+- **The ruby slippers were silver**: In the book, Dorothy's magic shoes are silver. The film turned them red.
+- **Luxo Jr., Pixar's lamp**: Pixar's hopping lamp starred in the first computer-animated film up for an Oscar.
+- **The Matrix's sushi code**: The green code raining down in The Matrix came from Japanese cookbooks.
+- **The MacGuffin**: The thing everyone in a thriller chases often doesn't matter at all.
+- **Blade Runner's borrowed title**: Blade Runner took its title from a different book about smuggling medical supplies.
+- **Back to the Future's refrigerator time machine**: Before it was a DeLorean, Back to the Future's time machine was a fridge.
+- **Disney's multiplane camera**: Disney gave flat cartoons depth by painting them on stacked sheets of glass.
+- **The Hollywood sign said Hollywoodland**: The Hollywood sign began as a short-lived advert for a new housing estate.
+- **The audience that didn't run from the train**: Early audiences probably never fled in panic from the Lumières' film of a train.
+- **Muybridge's galloping horse**: It took a row of cameras to prove that a galloping horse briefly flies.
+- **Alan Smithee, the director who never was**: For 30 years, Hollywood's most prolific unhappy director did not exist.
+- **Metropolis found in Buenos Aires**: Nearly half an hour of a lost classic waited 80 years in Argentina.
+- **The Black Maria, the turning studio**: Edison's first film studio spun on a turntable to chase the sun.
+- **Why films run at 24 frames a second**: Films run at 24 frames a second because of sound, not because of our eyes.
+- **Smell-O-Vision**: A 1960 mystery film sent smells to every seat through tubes on cue.
+- **Charley Douglass's laff box**: Decades of TV laughter came out of one engineer's locked box.
+- **The girl on Test Card F**: The most broadcast picture in British TV shows a girl playing noughts and crosses.
+- **The Doctor Who theme**: The Doctor Who theme was built in 1963 from cut and spliced tape, with no synthesizer.
+- **The Star Trek transporter saved money**: Star Trek beamed its crew down because landing the ship cost too much.
+- **Why the Simpsons are yellow**: The Simpsons are yellow so they stand out to anyone flicking channels.
+- **Kermit was made from a coat**: The first Kermit was cut from an old coat, with half a ping-pong ball for each eye.
+- **The Dykstraflex camera**: Star Wars spaceships flew because a computer moved the camera, not the models.
+- **The Mandalorian's LED volume**: Much of The Mandalorian was filmed inside a giant wall of video game scenery.
+- **How Totoro got his name**: Totoro got his name from a little girl mispronouncing the word troll.
+- **Max Fleischer's rotoscope**: The first rotoscoped cartoon star was the animator's brother in a clown suit.
+- **The Jazz Singer was mostly silent**: The film remembered as the first talkie has only about two minutes of talking.
+- **Nobody says "Play it again, Sam"**: The most famous line from Casablanca is never spoken in the film.
+- **Inception's slowed-down Piaf**: The booming score of Inception is a French song played very, very slowly.
+- **Interstellar's scientific black hole**: A film's black hole was so carefully computed that it produced real science papers.
+- **The Pink Panther is a diamond**: In the first Pink Panther film, the Pink Panther is a jewel, not a cat.
+- **The Vertigo dolly zoom**: One camera trick makes the world stretch while the person in it stays still.
+- **The Steadicam and the Rocky steps**: Rocky's famous run up the museum steps was filmed by the man who invented the camera rig.
+- **Why trailers are called trailers**: Trailers got their name because they once came after the main feature, not before.
+- **Scooby-Doo's name from Sinatra**: A cartoon dog was named after Frank Sinatra's scat at the end of a love song.
+- **Thunderbirds' Supermarionation**: The Thunderbirds puppets moved their lips by themselves, in time with the voices.
+- **Pingu's made-up language**: Pingu the penguin speaks no language at all, yet children everywhere understand him.
 
-## Sports (7)
+## Sports (45)
 
 - **Pickles and the stolen World Cup**: In 1966 the World Cup trophy went missing, and a dog out for a walk found it.
 - **Alan Shepard's golf shots on the Moon**: In 1971 an astronaut hit two golf balls on the Moon, and they are still there.
@@ -131,8 +759,46 @@
 - **Every racehorse turns a year older on 1 January**: Thoroughbred racehorses in the north all share one official birthday: 1 January.
 - **Snooker and the arrival of colour TV**: Snooker became a television hit because the BBC needed a show to sell colour TV.
 - **The cricket hat behind the hat-trick**: The hat-trick is said to be named after a real hat, given to a bowler in 1858.
+- **Abraham Lincoln, wrestler**: Before he was president, Abraham Lincoln was the local wrestling champion.
+- **Basketball's peach baskets**: The first basketball hoops were fruit baskets, and they still had bottoms.
+- **Volleyball began as Mintonette**: Volleyball was invented as a gentle game for businessmen, called Mintonette.
+- **Why the marathon is 26.2 miles**: The marathon's odd length was set by a royal route through London in 1908.
+- **Tug of war was an Olympic sport**: For 20 years, Olympic medals went to teams pulling on a rope.
+- **Olympic medals for art**: The Olympics once gave gold medals for painting, music and poetry.
+- **The Fosbury Flop**: A high jumper went over the bar backwards and won Olympic gold.
+- **Roger Bannister's four-minute mile**: The four-minute mile fell in 1954, and the new record lasted only 46 days.
+- **The 16 feathers in a shuttlecock**: A top badminton shuttle is made from exactly 16 goose feathers.
+- **The William Webb Ellis legend**: The schoolboy who supposedly invented rugby may never have done it.
+- **The goalkeeper who invented the penalty**: Football's penalty kick was dreamed up by a goalkeeper from a small Irish village.
+- **Traffic lights and the yellow card**: Football's red and yellow cards were dreamed up at a set of London traffic lights.
+- **The referee's vanishing spray**: The white line a referee sprays at a free kick is meant to vanish within a minute.
+- **The 1930 World Cup final's two balls**: The first World Cup final was played with two different balls, one each half.
+- **Curling stones from one island**: Most Olympic curling stones come from one small, empty island off Scotland.
+- **Why the Tour de France leader wears yellow**: The Tour de France leader wears yellow because of the newspaper that started the race.
+- **Snooker was invented in India**: Snooker was invented by bored army officers in central India in 1875.
+- **Jai alai, the fastest ball**: A jai alai ball once hit 302 km/h, flung from a wicker basket at a stone wall.
+- **Ping-Pong was a trademark**: The sport is called table tennis because Ping-Pong was once a company's brand name.
+- **The LZR Racer swimsuit**: One swimsuit helped smash so many world records that its kind was banned.
+- **The secret mud on every baseball**: Every Major League baseball is rubbed with mud from a secret New Jersey riverbank.
+- **The timeless Test of 1939**: A cricket match meant to last until someone won was stopped so England could catch a ship.
+- **The 11-hour tennis match**: A first-round Wimbledon match in 2010 lasted three days and 183 games.
+- **The colours of the Olympic rings**: Pierre de Coubertin picked six colours he said covered every national flag.
+- **Olympic gold medals are mostly silver**: An Olympic gold medal is mostly silver with a thin coat of real gold.
+- **Eddie the Eagle**: A plasterer from Cheltenham came last at the Olympics and became a star.
+- **Ultimate has no referees**: Even at world championships, Ultimate players call their own fouls.
+- **The two-second pit stop**: A Formula 1 crew can change all four tyres in under two seconds.
+- **Why Indy 500 winners drink milk**: Indy 500 winners drink milk because of one driver's buttermilk in 1936.
+- **A day with the Stanley Cup**: Every player on the winning hockey team gets the Stanley Cup for a day.
+- **Hawk-Eye**: Tennis line calls are made by cameras that rebuild the ball's flight.
+- **The Duckworth–Lewis method**: One rain-shortened match left South Africa needing 21 runs from one ball.
+- **The clap skate**: A hinged skate blade let speed skaters push longer, and records tumbled.
+- **The V-style ski jump**: One ski jumper was marked down for his style, then everyone copied him.
+- **The javelin that flew too far**: One throw went so far that the men's javelin had to be rebuilt to fly shorter.
+- **Why the shot clock is 24 seconds**: Basketball's 24-second shot clock came from one owner doing some simple division.
+- **Dennis Lillee's aluminium bat**: A fast bowler walked out to bat with a metal bat, and cricket rewrote its laws.
+- **Jamaica's 1988 bobsled team**: A country with no snow sent a bobsled team to the 1988 Winter Olympics.
 
-## Food (8)
+## Food (45)
 
 - **The discovery of umami**: A Tokyo chemist found a fifth taste hiding in a bowl of seaweed broth.
 - **Pineapples as status symbols**: In Georgian Britain, a single pineapple could be the star of a dinner party.
@@ -142,8 +808,45 @@
 - **The Caesar salad was born in Tijuana**: A salad named after an Italian chef, invented in Mexico, for Americans.
 - **The Earl of Sandwich**: A busy 18th-century earl lent his title to the world's easiest lunch.
 - **Why honey keeps for centuries**: Kept sealed, honey can last for decades, and often far longer than that.
+- **Carrots weren't always orange**: The first farmed carrots were purple and yellow, and orange came much later.
+- **Ketchup began as a fish sauce**: The word ketchup first meant a fish sauce, and tomatoes joined the recipe much later.
+- **Nachos are named after a man**: Nachos are named after Ignacio Anaya, who improvised them with a nearly empty kitchen.
+- **The Jaffa Cake trial**: A British tax tribunal had to decide whether a Jaffa Cake is a cake or a biscuit.
+- **The boy who unlocked vanilla**: Almost all the world's vanilla is pollinated by a method a 12-year-old boy invented.
+- **Saffron and its 150 flowers per gram**: Each gram of saffron takes around 150 crocus flowers, every one picked by hand.
+- **Most wasabi is horseradish**: The green paste beside your sushi is usually horseradish, mustard and food colouring.
+- **The first chocolate chip cookie**: The chocolate chip cookie was invented at a Massachusetts inn in the 1930s.
+- **The tomato is legally a vegetable**: In 1893 the US Supreme Court ruled that a tomato is a vegetable.
+- **Marshmallows came from a plant**: The marshmallow is named after a pink-flowered plant that grows in marshes.
+- **Nutella began with a cocoa shortage**: The first Nutella was a solid loaf that people cut with a knife.
+- **The law of the baguette**: French law says exactly what a traditional baguette may be made of.
+- **The best thing since sliced bread**: Sliced bread first went on sale in 1928, in a small town in Missouri.
+- **Hawaiian pizza is Canadian**: The pizza with pineapple on top was invented in a small town in Ontario.
+- **German chocolate cake isn't German**: The cake is named after a man called Sam German, who never lived in Germany.
+- **The shape of a Pringle**: Every Pringle is a precise mathematical saddle called a hyperbolic paraboloid.
+- **Dom Pérignon didn't invent champagne**: The monk credited with champagne spent years trying to stop wine from fizzing.
+- **Why the California roll is inside out**: This sushi wears its rice on the outside, and the usual reason is shy diners.
+- **The shed where instant ramen was born**: Instant noodles were invented in 1958 by a man working alone in a backyard shed.
+- **Kit Kat, Japan's good-luck charm**: In Japan a Kit Kat is a good-luck gift, because its name sounds like a promise.
+- **The cashew grows outside its fruit**: Each cashew hangs alone beneath a soft, juicy fruit that most people never see.
+- **Bananas are berries, strawberries aren't**: To a botanist, bananas and grapes are berries, while strawberries are not.
+- **Every Granny Smith is a clone**: Every Granny Smith tree on Earth is a copy of one seedling found in Sydney.
+- **Kale, broccoli and cabbage are one plant**: Cabbage, kale, broccoli and Brussels sprouts are all the same species of plant.
+- **The nutmeg island traded for Manhattan**: In 1667 the Dutch kept a tiny nutmeg island and let the English keep Manhattan.
+- **The Popsicle and the forgotten drink**: A boy left a drink outside on a cold night and woke up to a frozen treat.
+- **Cotton candy's dentist inventor**: One of the two men behind the cotton candy machine was a dentist.
+- **The sauce called Sriracha**: The sauce is named after a Thai seaside town, and nobody owns the name.
+- **Tabasco's oak barrels**: Tabasco starts as a pepper mash that rests for years in old whiskey barrels.
+- **How the Scoville scale measured heat**: The first chili heat scale was measured with tasters and sugar water.
+- **Birds can't feel chili heat**: Chili peppers burn mammals, but birds can eat them without feeling a thing.
+- **The miracle berry**: Eat one small red berry, and lemons taste like sweet lemonade for a while.
+- **Why mint feels cold**: Mint feels cold because it trips your cold sensor, not because it is cold.
+- **The Maillard reaction**: The brown crust on toast, steak and coffee comes from one family of reactions.
+- **The bank that holds cheese**: An Italian bank takes giant wheels of Parmesan as security for loans.
+- **Stilton can't be made in Stilton**: Stilton cheese is named after a village where it may not legally be made.
+- **Why Swiss cheese has holes**: The holes in Swiss cheese form around tiny specks of hay in the milk.
 
-## Travel (7)
+## Travel (35)
 
 - **The Sagrada Família's long build**: A church in Barcelona that has been under construction since 1882.
 - **Ise Shrine, rebuilt every 20 years**: A Japanese shrine that is torn down and rebuilt every twenty years.
@@ -152,8 +855,36 @@
 - **Point Nemo**: The spot in the ocean farthest from any land on Earth.
 - **Whittier, the town under one roof**: An Alaskan town where almost everyone lives in one tall building.
 - **Baarle, the town with a border through its cafés**: A town where Belgium and the Netherlands are mixed up like a jigsaw.
+- **Llívia, the Spanish town inside France**: A Spanish town sits entirely inside France because it was not a village.
+- **Point Roberts**: A corner of Washington State you can only drive to through Canada.
+- **The library on the border**: A library where the books are in Canada and the front door is in the US.
+- **Pheasant Island**: A river island that changes country every six months.
+- **Big and Little Diomede**: Two islands under 4 km apart and nearly a full day apart in time.
+- **Kiribati moves the date line**: In 1995 a Pacific nation moved the date line so the whole country shared one day.
+- **Coober Pedy**: An outback opal town where many people live in homes dug into the hills.
+- **Setenil de las Bodegas**: A Spanish town where whole streets of houses use a cliff as their roof.
+- **Longyearbyen, where cats are banned**: In one Arctic town you can keep a sled dog, but you cannot keep a cat.
+- **Monowi, the town of one**: One woman was the whole population, the mayor and the librarian of her town.
+- **The Principality of Sealand**: A wartime sea fort off England has called itself a country since 1967.
+- **The 58-letter village name**: A Welsh village stretched its name to 58 letters to tempt railway travellers.
+- **Westward Ho!**: A seaside town in Devon was built to cash in on a bestselling novel.
+- **Null Island**: The busiest spot on many digital maps is empty ocean with one weather buoy.
+- **The Four Corners Monument**: The marker where four US states meet is the corner, even if surveyors erred.
+- **Rjukan's sun mirrors**: A Norwegian town with no winter sun put mirrors on a mountain to borrow some.
+- **Neft Daşları, the city on stilts**: Far out in the Caspian Sea, an oil town stands on stilts with streets above the waves.
+- **Gibraltar's road across the runway**: In Gibraltar, cars once waited at the barrier while planes landed across the road.
+- **Barra's beach airport**: On the Scottish island of Barra, the plane lands on the beach when the tide is out.
+- **Märket's zigzag border**: A rocky islet split by a border that bends around a lighthouse.
+- **Tristan da Cunha**: About 250 people live on an island more than 2,000 km from the next town.
+- **Büsingen, the German town in Switzerland**: A German town ringed by Switzerland that pays in Swiss francs.
+- **The whisky war over Hans Island**: Two countries fought over a rock by leaving each other bottles of booze.
+- **Gustave Eiffel's secret apartment**: At the top of the Eiffel Tower is a small flat where Eiffel hosted Edison.
+- **Mill Ends Park**: Often called the world's smallest park: a 60 cm circle in a Portland road.
+- **Venice stands on a forest**: Under Venice lie millions of tree trunks that have held it up for centuries.
+- **Derinkuyu's underground city**: A man knocked through a wall at home and found a city hidden underground.
+- **The Bielefeld conspiracy**: A German city of 300,000 has spent decades being told it does not exist.
 
-## Nature (7)
+## Nature (35)
 
 - **Starling murmurations**: Thousands of starlings turn as one, and no bird is in charge.
 - **Morning Glory clouds**: A single cloud that can stretch for hundreds of kilometres and rolls like a wave.
@@ -162,8 +893,36 @@
 - **Rainbows are full circles**: Every rainbow is a full circle; the ground just hides the bottom half.
 - **Petrichor, the smell of rain**: The smell of rain on dry ground has a name, and it was coined in 1964.
 - **Snowflake Bentley**: A Vermont farmer who spent his life photographing single snowflakes.
+- **Asperitas, the newest cloud**: A rough, wave-like cloud got into the official atlas thanks to amateur spotters.
+- **Noctilucent clouds**: The highest clouds on Earth glow electric blue in the middle of a summer night.
+- **Lake Baikal**: One lake in Siberia holds more fresh water than all five Great Lakes put together.
+- **The Eye of the Sahara**: A giant stone bullseye in the Sahara looks like an impact crater, but it isn't one.
+- **The Giant's Causeway**: About 40,000 tidy stone columns on a coast, and no stonemason made any of them.
+- **Chimborazo, the real top of the world**: The point on Earth farthest from its centre is not on Everest but in Ecuador.
+- **Angel Falls**: The tallest waterfall on Earth is named after a pilot who got his plane stuck on top.
+- **The Bay of Fundy tides**: In one Canadian bay the sea rises and falls by up to 16 metres twice a day.
+- **The Draupner wave**: A laser on a North Sea platform proved that rogue waves were not just sailors' tales.
+- **The Sargasso Sea**: The only sea on Earth with no coastline is fenced in by ocean currents instead.
+- **Hyperion, the tallest tree**: The tallest known tree on Earth stands in California, and its exact spot is a secret.
+- **The Wollemi pine**: A tree that matched ancient fossils turned up alive in a canyon near Sydney.
+- **Catatumbo lightning**: Over one Venezuelan lake, lightning flickers on up to 260 nights a year.
+- **Red sprites**: Giant red flashes flicker high above storms, and science missed them until 1989.
+- **The green flash**: In the last instant of sunset, the top of the Sun can turn bright green.
+- **The rainbow eucalyptus**: A tree whose trunk is striped green, blue, purple and orange at the same time.
+- **Bamboo that flowers once a century**: A bamboo that blooms about every 120 years, everywhere in the world at once.
+- **Welwitschia**: A desert plant that grows only two leaves in a life of more than a thousand years.
+- **The sailing stones of Racetrack Playa**: Rocks that crawl across a dry lakebed, finally caught moving on camera in 2014.
+- **The Chinook wind**: A warm wind once lifted a Montana town's temperature by 57 °C in a single day.
+- **Fata Morgana**: A mirage that lifts ships and coastlines into the sky and stacks them like castles.
+- **Penitentes, the snow blades**: Fields of ice blades taller than a person, carved by sunlight high in the Andes.
+- **Lightning does strike twice**: The Empire State Building is hit by lightning about 20 to 25 times a year.
+- **The flowering Atacama**: In rare wet years, the driest desert outside the poles turns pink with flowers.
+- **Parícutin, the cornfield volcano**: In 1943 a farmer in Mexico watched a brand new volcano rise from his cornfield.
+- **Salar de Uyuni**: A salt flat so level that satellites use it to check their altitude readings.
+- **The Brocken spectre**: Your shadow cast huge on the fog below, ringed by a small rainbow halo.
+- **Surtsey, the newborn island**: An island born in 1963 that scientists have kept almost to themselves.
 
-## Animals (8)
+## Animals (40)
 
 - **Why cats purr**: A cat's purr is a muscle twitching many times a second, in both directions.
 - **Larry, Chief Mouser to the Cabinet Office**: A rescue tabby from Battersea has outlasted a string of prime ministers.
@@ -173,8 +932,40 @@
 - **The cat slow blink**: Narrow your eyes slowly at a cat, and it may well do the same back.
 - **A dog's sense of smell**: A dog's nose is built to smell while it breathes out, not just in.
 - **Elephants know themselves in a mirror**: An Asian elephant named Happy looked in a mirror and touched a mark on her head.
+- **Inky the octopus's great escape**: An octopus slipped out of his aquarium tank and found his own way to the sea.
+- **Parrots that name their chicks**: Wild parrotlet parents give each chick its own call, a bit like a name.
+- **Alex the grey parrot**: A parrot who learned colours, shapes, numbers and even the idea of none.
+- **The lyrebird's copycat song**: A bird whose song is mostly other birds, and sometimes a camera shutter.
+- **The bowerbird's blue collection**: A bird that courts with an avenue of sticks and a hoard of blue objects.
+- **Pigeons that know Monet from Picasso**: Pigeons learned to tell Monet from Picasso, even in paintings new to them.
+- **The narwhal's tusk is a tooth**: The narwhal's long spiral horn is actually a tooth growing through its lip.
+- **The platypus glows under UV light**: Shine an ultraviolet light on a platypus and its fur glows blue-green.
+- **Flamingos are pink because of their food**: Flamingos hatch grey and only turn pink from the colour in their food.
+- **Penguins that give pebbles**: Some penguins build nests out of stones, and pick out pebbles for a mate.
+- **The emperor penguin huddle**: In the Antarctic winter, emperor penguins take turns in the warm middle.
+- **Hummingbirds power down at night**: Some hummingbirds chill to a few degrees above freezing to get through the night.
+- **The Arctic tern's endless summer**: A seabird lighter than a phone flies pole to pole and back every year.
+- **Cats meow mainly to people**: Grown cats rarely meow at each other. The meow is mostly for us.
+- **Tama, the station master cat**: A calico cat in a station master's cap helped rescue a small Japanese railway.
+- **Dogs evolved puppy-dog eyes**: Dogs have an eyebrow muscle that wolves mostly lack, and it works on us.
+- **Chaser, the dog who knew 1,000 words**: A border collie learned the names of more than 1,000 toys, one by one.
+- **How horses sleep standing up**: Horses can doze on their feet, but they still have to lie down to dream.
+- **Pigs that play video games**: In a lab experiment, pigs steered a joystick with their snouts to hit targets.
+- **Goats pick up accents**: Young goats raised together start to sound alike, a little like a shared accent.
+- **Prairie dogs describe intruders**: Prairie dog alarm calls seem to describe a person's size and shirt colour.
+- **Humpback songs go viral**: Humpback whale songs sweep across the Pacific like hit singles.
+- **The 400-year-old Greenland shark**: Some Greenland sharks swimming today may have been born before 1700.
+- **Seahorse fathers give birth**: In seahorses it is the father who gets pregnant and gives birth.
+- **Koalas have fingerprints like ours**: Koala fingerprints are so like ours that experts struggle to tell them apart.
+- **Imo the sweet-potato-washing macaque**: A young monkey started washing her food, and her whole troop picked up the habit.
+- **Squirrels plant forests by forgetting**: The nuts squirrels never dig up again grow into the next generation of trees.
+- **Ducks sleep with one eye open**: Ducks at the end of a row sleep with half their brain awake and one eye watching.
+- **Swifts stay in the air for ten months**: Some common swifts fly for ten months straight without once touching the ground.
+- **Wisdom, the oldest wild bird**: A wild albatross banded in 1956 was still laying eggs more than 65 years later.
+- **Snowball the dancing cockatoo**: A cockatoo named Snowball dances to the beat and keeps time when the tempo changes.
+- **Reindeer eyes change colour**: The back of a reindeer's eye turns from gold in summer to deep blue in winter.
 
-## Art (7)
+## Art (30)
 
 - **International Klein Blue**: An artist found a way to keep blue pigment as bright on canvas as in the jar.
 - **The 1911 Mona Lisa disappearance**: The Mona Lisa became the world's most famous painting partly by going missing.
@@ -183,8 +974,31 @@
 - **The Mondrian hung upside down**: A Mondrian has probably hung upside down for over 75 years, and it will stay that way.
 - **Mauve, the accidental color**: A teenager trying to make medicine at home invented the first synthetic dye instead.
 - **Bob Ross and The Joy of Painting**: A soft-spoken former Air Force sergeant painted a landscape in half an hour on TV.
+- **The Great Wave's tiny mountain**: The world's most famous wave is, officially, a picture of a mountain.
+- **Girl with a Pearl Earring is not a portrait**: Vermeer's famous girl was probably never a real sitter, and her pearl may be paint and air.
+- **The Night Watch is set in daytime**: Rembrandt's Night Watch shows daytime, and only got dark as its varnish aged.
+- **Michelangelo's David came from a rejected block**: Michelangelo's David was carved from a marble block other sculptors gave up on.
+- **Michelangelo painted the Sistine ceiling standing up**: Michelangelo did not lie on his back to paint the Sistine Chapel ceiling.
+- **Ultramarine, the blue worth more than gold**: For centuries the finest blue paint was ground from a stone mined in Afghanistan.
+- **YInMn blue, the accidental blue of 2009**: Chemists hunting for electronics materials found a brand new blue instead.
+- **Comic Sans was made for a cartoon dog**: The world's most mocked font began as speech bubbles for a cartoon dog.
+- **The London Underground's own typeface**: The letters on London's Tube signs were designed by a calligrapher in 1916.
+- **American Gothic's models**: The stern farm couple in American Gothic were a painter's sister and his dentist.
+- **The mirror in the Arnolfini Portrait**: A tiny mirror in a 1434 painting shows two people who are not in the room.
+- **Banksy's self-shredding painting**: A Banksy painting shredded itself seconds after selling for over a million pounds.
+- **The I ♥ NY logo**: One of the most copied logos in the world was sketched in a taxi and given away free.
+- **The $35 swoosh**: Nike's swoosh was drawn by a student who was paid $35 for it.
+- **Greek statues were painted**: Ancient Greek statues were not white: they were painted in bright colours.
+- **Kintsugi, mending with gold**: In Japan, a broken bowl can be mended with gold so the cracks shine.
+- **This is not a pipe**: Magritte painted a pipe, wrote that it was not a pipe, and he was right.
+- **Salvador Dalí designed the Chupa Chups logo**: The yellow daisy on every Chupa Chups lollipop was drawn by Salvador Dalí.
+- **The paint tube that made Impressionism**: A humble squeezable tube helped painters leave the studio and work outdoors.
+- **Hilma af Klint, abstract before abstraction**: A Swedish painter made abstract art years before the men credited with inventing it.
+- **The typeface on the Moon**: The words Apollo 11 left on the Moon are set in Futura, a 1920s German typeface.
+- **Whistler's Mother's real title**: The painting known as Whistler's Mother is officially an arrangement in grey and black.
+- **There are several Screams**: Edvard Munch made The Scream several times, in paint, pastel, crayon and print.
 
-## Health (7)
+## Health (30)
 
 - **First sleep and second sleep**: People in pre-industrial Europe often slept in two parts, awake in between.
 - **Michel Siffre's summer in a cave**: A caver spent two months underground with no clock and lost nearly a month.
@@ -193,8 +1007,31 @@
 - **Why fingers wrinkle in the bath**: Wrinkly bath fingers are not soggy skin: your nerves make the wrinkles on purpose.
 - **The blind spot in every eye**: Each eye has a hole in its view, and your brain quietly paints over it.
 - **You are taller in the morning**: Most people are about a centimetre taller when they wake than at bedtime.
+- **Why you can't tickle yourself**: Your brain predicts your own touch so well that it cancels the tickle.
+- **Goosebumps**: Goosebumps come from tiny muscles built to fluff up the fur we no longer have.
+- **The nasal cycle**: Right now you are probably breathing mostly through one nostril.
+- **The hypnic jerk**: That sudden jolt as you drift off to sleep is common, harmless and has a name.
+- **Signalling from inside a dream**: Sleepers proved lucid dreams are real by waving their eyes from inside one.
+- **Dreaming in black and white**: People raised on black-and-white TV are more likely to dream in greyscale.
+- **Larks and owls**: Being a morning person is partly in your genes, and it changes as you age.
+- **Why flying east is harder**: Jet lag is usually worse after flying east, because your body clock runs slow.
+- **People with an extra colour channel**: Some women carry a fourth kind of colour sensor in their eyes.
+- **The tongue map myth**: Every part of your tongue can taste sweet, salty, sour and bitter.
+- **Supertasters**: For some people, broccoli and black coffee taste far more bitter.
+- **Proprioception, the sixth sense**: You can touch your nose with your eyes shut thanks to a sense you rarely notice.
+- **Choir singers' hearts beat together**: When a choir sings together, the singers' heart rates rise and fall together.
+- **NASA's 26-minute nap**: NASA's famous 26-minute nap was how long pilots slept, not a magic recipe.
+- **Babies have more bones than adults**: A newborn has around 300 bones, and many of them later join together.
+- **We laugh far more with others**: People laugh around 30 times more often with company than when alone.
+- **The eye's hidden light sensor**: A third kind of light sensor in your eye does nothing for sight at all.
+- **The dive reflex**: Cold water on your face slows your heart, a trick you share with seals.
+- **Where 10,000 steps came from**: The famous step goal began as the catchy name of a Japanese pedometer.
+- **Humans who see with sound**: Some blind people find their way by clicking and listening to the echoes.
+- **Why your recorded voice sounds odd**: You have never heard your own voice the way everyone else hears it.
+- **Stratton's upside-down glasses**: In 1896 a psychologist turned his world upside down and his brain adjusted.
+- **The afternoon dip**: The sleepy slump after lunch arrives even if you skip lunch altogether.
 
-## Fashion (7)
+## Fashion (18)
 
 - **Why buttons are on opposite sides**: Men button right over left, women left over right, and nobody knows why.
 - **The rivet that made Levi's jeans**: Blue jeans began with a Nevada tailor who could not afford a patent.
@@ -203,3 +1040,14 @@
 - **The tuxedo's name**: The tuxedo is named after a private enclave in the hills of New York.
 - **Crocs began as a boating shoe**: The foam clog everyone loves to mock was first sold at a boat show.
 - **High heels were made for men**: High heels were first worn by men, and they started on horseback.
+- **The handkerchief bra**: A 19-year-old made a bra from two silk handkerchiefs and patented it.
+- **Why Chanel No. 5 is No. 5**: The world's most famous perfume is named after a sample number.
+- **The fashion dolls that crossed Europe**: Before fashion magazines, Paris sent out its new styles on dolls.
+- **Gore-Tex and the yanked rod**: The waterproof fabric was found when a frustrated inventor yanked a hot rod.
+- **Nike's waffle iron sole**: One of Nike's first great shoes began with a ruined family waffle iron.
+- **The aloha shirt's kimono roots**: Hawaii's famous shirt began as Japanese kimono cloth cut to a Western pattern.
+- **The little black dress**: Vogue called Chanel's simple black dress a Ford, after the Model T car.
+- **How the bikini got its name**: The bikini was named after a Pacific atoll that was in every newspaper.
+- **Who Chuck Taylor was**: Chuck Taylor did not design his famous sneakers. He was their salesman.
+- **The day nylons went on sale**: On a single spring day in 1940, American women bought nylons by the million.
+- **Spandex is an anagram**: Rearrange the letters of spandex and you get the word that describes it.
