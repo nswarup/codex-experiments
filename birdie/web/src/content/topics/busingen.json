@@ -1,0 +1,44 @@
+{
+  "id": "busingen",
+  "title": "Büsingen, the German town in Switzerland",
+  "category": "Travel",
+  "hook": "A German town ringed by Switzerland that pays in Swiss francs.",
+  "peek": "Büsingen am Hochrhein is part of Germany, yet it is completely surrounded by Switzerland. Its shops price things in Swiss francs, it has both German and Swiss postcodes, and its football club plays in the Swiss league.",
+  "lede": "Büsingen am Hochrhein is a village of about 1,500 people on the Rhine. It belongs to Germany, but Swiss land surrounds it on every side, so there is no way in without crossing Switzerland. Since a 1967 treaty it has been inside the Swiss customs area, and in daily life it feels half Swiss and half German.",
+  "bullets": [
+    {
+      "opening": "Paying in Swiss francs",
+      "linkId": null,
+      "text": "Germany uses the euro, but in Büsingen most prices, wages and rents are in Swiss francs. Euros are accepted too, though the franc is what people actually use day to day."
+    },
+    {
+      "opening": "Two postcodes, two phone codes",
+      "linkId": null,
+      "text": "Letters reach Büsingen with the German postcode 78266 or the Swiss postcode 8238. Homes can also have German or Swiss telephone numbers, so calling a neighbour can be an international call."
+    },
+    {
+      "opening": "The 1918 referendum",
+      "linkId": null,
+      "text": "After the First World War, residents voted overwhelmingly to join Switzerland. It never happened: Switzerland had no land of equal value to offer Germany in exchange, so Büsingen stayed German."
+    },
+    {
+      "opening": "FC Büsingen",
+      "linkId": null,
+      "text": "The village football club is the only German club playing in the Swiss league system, because every neighbouring club it could play against is Swiss."
+    }
+  ],
+  "tags": [
+    "borders",
+    "enclaves",
+    "maps",
+    "money"
+  ],
+  "related": [
+    "llivia",
+    "baarle",
+    "point-roberts",
+    "marked-island",
+    "haskell-free-library",
+    "pheasant-island"
+  ]
+}

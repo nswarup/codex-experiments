@@ -1,0 +1,48 @@
+{
+  "id": "derinkuyu",
+  "title": "Derinkuyu's underground city",
+  "category": "Travel",
+  "hook": "A man knocked through a wall at home and found a city hidden underground.",
+  "peek": "In 1963 a resident of Derinkuyu, in central Turkey, knocked through a wall during home repairs and found a tunnel. It led to an ancient underground city many levels deep, big enough to shelter thousands of people with their animals.",
+  "lede": "Derinkuyu is a town in Cappadocia, in central Turkey. In 1963 a resident renovating his house broke through a wall and found a passage behind it. The passage led down into a huge underground city, carved by hand into soft volcanic rock, with many levels reaching roughly 85 metres deep. Estimates suggest it could hold thousands of people.",
+  "bullets": [
+    {
+      "opening": "Carved into volcanic tuff",
+      "linkId": null,
+      "text": "Cappadocia's rock is tuff, compacted volcanic ash that is easy to cut but hardens in air. That made it possible to dig rooms, stairs and halls by hand over many centuries."
+    },
+    {
+      "opening": "Life on many levels",
+      "linkId": null,
+      "text": "The city has stables, kitchens, wells, wine and oil presses, storerooms and a chapel. Ventilation shafts bring fresh air down to the deepest levels, and wells reached water."
+    },
+    {
+      "opening": "The rolling stone doors",
+      "linkId": null,
+      "text": "Huge round stones, like millstones, could be rolled across passages from the inside to seal each level, letting people shelter safely below in troubled times."
+    },
+    {
+      "opening": "Who dug it",
+      "linkId": null,
+      "text": "Nobody knows for sure. Digging may have begun in the first millennium BC, perhaps by the Phrygians, and the city was greatly expanded in the Byzantine era."
+    },
+    {
+      "opening": "The tunnel to Kaymaklı",
+      "linkId": null,
+      "text": "A tunnel several kilometres long is thought to link Derinkuyu with Kaymaklı, another underground city nearby. Visitors today can explore part of Derinkuyu's upper levels."
+    }
+  ],
+  "tags": [
+    "architecture",
+    "accidents",
+    "history-of-things",
+    "caves"
+  ],
+  "related": [
+    "coober-pedy",
+    "setenil-de-las-bodegas",
+    "whittier-alaska",
+    "colossal-cave-mammoth",
+    "neft-dashlari"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "catatumbo-lightning",
+  "title": "Catatumbo lightning",
+  "category": "Nature",
+  "hook": "Over one Venezuelan lake, lightning flickers on up to 260 nights a year.",
+  "peek": "Where the Catatumbo River meets Lake Maracaibo in Venezuela, thunderstorms build almost every night. The lightning can flash for hours at a time, and satellites have named the lake the most lightning-struck spot on Earth.",
+  "lede": "On Lake Maracaibo in north-western Venezuela, near the mouth of the Catatumbo River, storms form on as many as 260 nights a year. The lightning can flicker for hours, sometimes many times a minute, and is seen from far away. A NASA satellite study published in 2016 found that Lake Maracaibo gets more lightning than anywhere else on Earth.",
+  "bullets": [
+    {
+      "opening": "Why storms form nightly",
+      "linkId": null,
+      "text": "The lake is ringed by the Andes on three sides. At night, cool air flowing down the mountains meets warm, damp air over the water, pushing it upward to build thunderstorms almost every evening."
+    },
+    {
+      "opening": "The Lighthouse of Maracaibo",
+      "linkId": null,
+      "text": "Sailors have used the glow for centuries. The constant flashing over the lake earned it the name the Lighthouse of Maracaibo, a natural beacon for ships in the Caribbean."
+    },
+    {
+      "opening": "The NASA lightning ranking",
+      "linkId": null,
+      "text": "Using years of data from a satellite lightning sensor, NASA scientists found Lake Maracaibo averaged about 230 flashes per square kilometre per year, the highest of any place they measured."
+    },
+    {
+      "opening": "When the lightning stopped",
+      "linkId": null,
+      "text": "In early 2010, during a severe drought, the lightning paused for several weeks. It was so unusual that it made news before the storms returned."
+    },
+    {
+      "opening": "On Zulia's flag",
+      "linkId": null,
+      "text": "The lightning is a symbol of Zulia, the state around the lake. A lightning bolt appears on the state flag, standing for the lake's famous storms."
+    }
+  ],
+  "tags": [
+    "weather",
+    "light",
+    "records",
+    "lakes"
+  ],
+  "related": [
+    "lightning-strikes-twice",
+    "red-sprites",
+    "morning-glory-clouds",
+    "angel-falls",
+    "apollo-12-lightning"
+  ]
+}

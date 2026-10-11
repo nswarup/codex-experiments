@@ -1,0 +1,44 @@
+{
+  "id": "hans-island",
+  "title": "The whisky war over Hans Island",
+  "category": "Travel",
+  "hook": "Two countries fought over a rock by leaving each other bottles of booze.",
+  "peek": "For decades Canada and Denmark both claimed Hans Island, a bare rock between Canada and Greenland. Instead of fighting, visitors from each side swapped flags and left bottles of whisky or schnapps. In 2022 they settled it by splitting the island in two.",
+  "lede": "Hans Island is a barren rock of about 1.3 square kilometres in the strait between Canada's Ellesmere Island and Greenland. A 1973 treaty drew the sea border either side of it but left the island itself unresolved. What followed was the politest territorial dispute on record, fought with flags, notes and bottles of alcohol.",
+  "bullets": [
+    {
+      "opening": "The flags and the bottles",
+      "linkId": null,
+      "text": "In the 1980s, the story goes, Canadian visitors left their flag and a bottle of Canadian whisky, and a Danish minister later replaced it with a Danish flag and schnapps. The swap repeated on later visits, and the joke name whisky war stuck."
+    },
+    {
+      "opening": "Named for Hans Hendrik",
+      "linkId": null,
+      "text": "The island is named after Hans Hendrik, a Greenlandic Inuit guide and hunter who worked on several 19th-century Arctic expeditions."
+    },
+    {
+      "opening": "The 2022 agreement",
+      "linkId": null,
+      "text": "In June 2022 Canada, Denmark and Greenland agreed to divide the island roughly in half along a natural ravine. The two sides swapped bottles once more to mark the deal."
+    },
+    {
+      "opening": "A new land border",
+      "linkId": null,
+      "text": "Splitting the rock gave Canada a land border with a second country besides the United States, and gave Denmark a second land border after Germany, its first outside Europe."
+    }
+  ],
+  "tags": [
+    "borders",
+    "islands",
+    "arctic",
+    "maps"
+  ],
+  "related": [
+    "marked-island",
+    "diomede-islands",
+    "pheasant-island",
+    "bir-tawil",
+    "baarle",
+    "sealand"
+  ]
+}

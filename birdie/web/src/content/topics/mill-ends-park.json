@@ -1,0 +1,43 @@
+{
+  "id": "mill-ends-park",
+  "title": "Mill Ends Park",
+  "category": "Travel",
+  "hook": "The world's smallest park is a circle about 60 cm across in a Portland road.",
+  "peek": "In the middle of a busy road in Portland, Oregon, sits a city park about 60 cm across. It began as a hole for a lamp post that never arrived, and a newspaper columnist turned it into a home for leprechauns.",
+  "lede": "Mill Ends Park sits on the median strip of Naito Parkway in downtown Portland, Oregon. It is a circle about 60 cm across, with an area of roughly 0.3 square metres, and it is an official city park. For years Guinness World Records listed it as the smallest park in the world. It exists because of one journalist's sense of humour.",
+  "bullets": [
+    {
+      "opening": "Dick Fagan's hole",
+      "linkId": null,
+      "text": "In 1948 Dick Fagan, a columnist at the Oregon Journal, looked down from his office at a hole left for a lamp post that never came. He planted flowers in it and named it after his column, Mill Ends."
+    },
+    {
+      "opening": "The leprechaun colony",
+      "linkId": null,
+      "text": "Fagan wrote that he had spotted a leprechaun in the hole, and that it was the only leprechaun colony west of Ireland. He kept writing about its tiny residents for years."
+    },
+    {
+      "opening": "A city park in 1976",
+      "linkId": null,
+      "text": "Portland made it an official city park on Saint Patrick's Day in 1976, a nod to Fagan's leprechauns."
+    },
+    {
+      "opening": "Tiny additions",
+      "linkId": null,
+      "text": "Over the years people have added miniature things to the park, including a small swimming pool for butterflies and a tiny Ferris wheel. It has been moved briefly for road works and then returned to its spot."
+    }
+  ],
+  "tags": [
+    "scale",
+    "records",
+    "parks",
+    "humor"
+  ],
+  "related": [
+    "monowi-nebraska",
+    "westward-ho",
+    "null-island",
+    "four-corners-monument",
+    "whittier-alaska"
+  ]
+}

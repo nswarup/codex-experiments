@@ -1,0 +1,44 @@
+{
+  "id": "marked-island",
+  "title": "Märket's zigzag border",
+  "category": "Travel",
+  "hook": "A rocky islet split by a border that bends around a lighthouse.",
+  "peek": "Märket is a bare rock in the Baltic shared by Sweden and Finland. Its border runs in a strange zigzag, redrawn in 1985 so that a Finnish lighthouse, built on the wrong side, could stay Finnish without either country losing land.",
+  "lede": "Märket is a treeless rock of about three hectares in the sea between Sweden and Finland's Åland Islands. When the border was set in 1809, it ran straight across the island. Then in 1885 Finland built a lighthouse there, on the Swedish half. Rather than move it, the two countries later redrew the border into a zigzag that kept the lighthouse Finnish.",
+  "bullets": [
+    {
+      "opening": "The 1885 lighthouse",
+      "linkId": null,
+      "text": "Finland, then a Grand Duchy within the Russian Empire, built the lighthouse to guard a busy sea route. The spot chosen for it turned out to lie across the line, on the Swedish side, a mistake nobody fixed for a century."
+    },
+    {
+      "opening": "The 1985 border swap",
+      "linkId": null,
+      "text": "After talks in the early 1980s, Sweden and Finland agreed a new line in 1985. It loops around the lighthouse so it sits in Finland, then twists back so that each country keeps the same area of land it had before."
+    },
+    {
+      "opening": "Why the shape is so odd",
+      "linkId": null,
+      "text": "Keeping the land areas equal meant the line had to give back on one side what it took on the other. The result is an S-shaped, jagged line across a few hundred metres of granite, far stranger than the straight cut it replaced."
+    },
+    {
+      "opening": "Radio hobbyists on Märket",
+      "linkId": null,
+      "text": "The lighthouse has been automatic since the 1970s and the rock has no residents. Amateur radio operators prize it, though: the Finnish and Swedish halves count as separate places, so expeditions land to make contacts from it."
+    }
+  ],
+  "tags": [
+    "borders",
+    "maps",
+    "islands",
+    "lighthouses"
+  ],
+  "related": [
+    "baarle",
+    "pheasant-island",
+    "diomede-islands",
+    "hans-island",
+    "point-roberts",
+    "llivia"
+  ]
+}

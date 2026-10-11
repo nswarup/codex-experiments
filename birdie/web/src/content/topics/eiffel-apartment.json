@@ -1,0 +1,43 @@
+{
+  "id": "eiffel-apartment",
+  "title": "Gustave Eiffel's secret apartment",
+  "category": "Travel",
+  "hook": "At the top of the Eiffel Tower is a small flat where Eiffel hosted Edison.",
+  "peek": "Near the summit of the Eiffel Tower, Gustave Eiffel kept a small private apartment with wallpaper, wooden furniture and a view over Paris. Thomas Edison visited in 1889 and brought a gift. Today wax figures recreate the meeting.",
+  "lede": "When the Eiffel Tower opened in 1889, its top level held something few visitors knew about: a small private apartment for Gustave Eiffel himself. It was a cosy room of patterned wallpaper and wooden furniture, high above Paris. Eiffel used it to receive important guests and to run scientific experiments, and it is still there today.",
+  "bullets": [
+    {
+      "opening": "Thomas Edison's visit",
+      "linkId": null,
+      "text": "In September 1889 Thomas Edison came to the apartment and gave Eiffel one of his new phonographs. Edison also wrote a warm tribute to Eiffel in the tower's guest book."
+    },
+    {
+      "opening": "A laboratory in the sky",
+      "linkId": null,
+      "text": "Eiffel defended the tower partly as a tool for science. From the top he and others studied weather, radio and the way air pushes on falling objects, work that led to his later wind tunnel."
+    },
+    {
+      "opening": "Turning down the rich",
+      "linkId": null,
+      "text": "The story goes that wealthy Parisians offered large sums to rent the apartment for a night, and Eiffel always refused. It is often told, though hard to pin to records."
+    },
+    {
+      "opening": "The wax figures today",
+      "linkId": null,
+      "text": "The apartment can be viewed through its windows from the top level. Inside, wax figures of Eiffel, his daughter Claire and Edison sit as if the 1889 visit were still going on."
+    }
+  ],
+  "tags": [
+    "architecture",
+    "inventors",
+    "history-of-things",
+    "paris"
+  ],
+  "related": [
+    "eiffel-tower-antenna",
+    "sagrada-familia",
+    "paris-pneumatic-post",
+    "centennial-light",
+    "whittier-alaska"
+  ]
+}

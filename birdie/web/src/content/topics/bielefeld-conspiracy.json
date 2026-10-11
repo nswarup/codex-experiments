@@ -1,0 +1,44 @@
+{
+  "id": "bielefeld-conspiracy",
+  "title": "The Bielefeld conspiracy",
+  "category": "Travel",
+  "hook": "A German city of 300,000 has spent decades being told it does not exist.",
+  "peek": "Since 1994 Germans have joked that the city of Bielefeld is a myth. The joke grew so famous that in 2019 the city itself offered a million euros to anyone who could prove it was not real.",
+  "lede": "Bielefeld is a city of over 300,000 people in western Germany, with a university, a football club and a railway station. Yet many Germans know it best from a joke: that Bielefeld does not exist. The gag started online in 1994 and has outlived nearly every other internet joke of its era.",
+  "bullets": [
+    {
+      "opening": "Achim Held's Usenet post",
+      "linkId": null,
+      "text": "In 1994 Achim Held, a computer science student in Kiel, posted the joke to a Usenet newsgroup. He claimed a shadowy group had invented Bielefeld and that everyone said to be from there was in on it."
+    },
+    {
+      "opening": "The three questions",
+      "linkId": null,
+      "text": "The test goes: do you know anyone from Bielefeld? Have you ever been there? Do you know anyone who has? Most people answer no, and the joke says that proves it."
+    },
+    {
+      "opening": "Angela Merkel's joke",
+      "linkId": null,
+      "text": "In 2012 Chancellor Angela Merkel joined in, mentioning a meeting in Bielefeld and adding, to laughter, if it exists at all."
+    },
+    {
+      "opening": "The million euro challenge",
+      "linkId": null,
+      "text": "For the joke's 25th anniversary in 2019, the city offered one million euros to anyone who could prove Bielefeld does not exist. No one could, and the city announced that Bielefeld does exist after all."
+    }
+  ],
+  "tags": [
+    "humor",
+    "myths-busted",
+    "maps",
+    "internet"
+  ],
+  "related": [
+    "null-island",
+    "great-moon-hoax",
+    "spaghetti-harvest",
+    "westward-ho",
+    "llanfairpwll",
+    "monowi-nebraska"
+  ]
+}

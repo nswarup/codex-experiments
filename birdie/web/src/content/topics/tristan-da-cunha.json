@@ -1,0 +1,49 @@
+{
+  "id": "tristan-da-cunha",
+  "title": "Tristan da Cunha",
+  "category": "Travel",
+  "hook": "About 250 people live on an island more than 2,000 km from the next town.",
+  "peek": "Tristan da Cunha is the most remote inhabited island on Earth, a volcano in the South Atlantic with a single village. There is no airport, the ship from Cape Town takes about a week, and the whole population shares a handful of surnames.",
+  "lede": "Tristan da Cunha is a volcanic island in the South Atlantic, roughly halfway between South Africa and South America. Its one village is home to about 250 people. The nearest inhabited place is Saint Helena, more than 2,000 km away, which makes Tristan the most remote inhabited island in the world. It is a British Overseas Territory, reached only by sea.",
+  "bullets": [
+    {
+      "opening": "No airport, no runway",
+      "linkId": null,
+      "text": "There is no flat ground for a runway. Visitors and supplies come by fishing vessel or research ship from Cape Town, a trip of about a week, and sailings are infrequent, so trips are planned months ahead."
+    },
+    {
+      "opening": "Edinburgh of the Seven Seas",
+      "linkId": null,
+      "text": "The village takes its name from Prince Alfred, Duke of Edinburgh, who visited in 1867. Islanders usually just call it the Settlement. Families farm potato patches and share land and livestock under community rules."
+    },
+    {
+      "opening": "A handful of surnames",
+      "linkId": null,
+      "text": "Nearly everyone descends from a few early settlers and later arrivals, and fewer than ten family names are found on the island, including Glass, Green, Repetto and Swain."
+    },
+    {
+      "opening": "The 1961 eruption",
+      "linkId": null,
+      "text": "In 1961 a volcano opened near the village and the whole population was taken to England. Almost all of them chose to go home in 1963, and the island has been inhabited ever since."
+    },
+    {
+      "opening": "Lobster and postage stamps",
+      "linkId": null,
+      "text": "The economy rests on a carefully managed rock lobster fishery and on stamps and coins sold to collectors. The island even has its own postcode, TDCU 1ZZ, so online shops will deliver."
+    }
+  ],
+  "tags": [
+    "islands",
+    "remote-places",
+    "scale",
+    "records"
+  ],
+  "related": [
+    "point-nemo",
+    "monowi-nebraska",
+    "longyearbyen-cats",
+    "surtsey-island",
+    "whittier-alaska",
+    "sealand"
+  ]
+}

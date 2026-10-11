@@ -1,0 +1,49 @@
+{
+  "id": "green-flash",
+  "title": "The green flash",
+  "category": "Nature",
+  "hook": "In the last instant of sunset, the top of the Sun can turn bright green.",
+  "peek": "Just as the Sun slips below a clear sea horizon, its last sliver can flash green for a second or two. It is real, not a trick of tired eyes, and it comes from the air bending each colour of sunlight by a different amount.",
+  "lede": "Watch a sunset over a flat, clear sea horizon and, at the very last moment, the top edge of the Sun can turn vivid green. The flash usually lasts only a second or two. Many people take it for a sailor's tale, but it is a real optical effect, and it can be photographed.",
+  "bullets": [
+    {
+      "opening": "The air as a prism",
+      "linkId": null,
+      "text": "Air bends sunlight, and it bends shorter wavelengths slightly more. Near the horizon this splits the Sun into overlapping images by colour, with the green and blue image sitting a touch higher than the red."
+    },
+    {
+      "opening": "Why green, not blue",
+      "linkId": null,
+      "text": "When the red and yellow images have set, the green one is the last left. Blue and violet light is mostly scattered away on its long path through the air, so green is what reaches the eye."
+    },
+    {
+      "opening": "Where to see it",
+      "linkId": null,
+      "text": "It needs a sharp, distant horizon and very clear air, which is why it is best known from the sea. Layers of warm and cool air can stretch the image like a mirage and make the flash stronger."
+    },
+    {
+      "opening": "Jules Verne's Le Rayon vert",
+      "linkId": null,
+      "text": "Verne's 1882 novel The Green Ray follows a search for the flash, built around a Scottish legend in the story that seeing it means you will never be deceived in love."
+    },
+    {
+      "opening": "Sunrise and the blue flash",
+      "linkId": null,
+      "text": "The flash also appears at sunrise, as a green tip before the Sun appears. In exceptionally clear air the last instant can even turn blue."
+    }
+  ],
+  "tags": [
+    "light",
+    "color",
+    "illusions",
+    "perception"
+  ],
+  "related": [
+    "fata-morgana",
+    "brocken-spectre",
+    "rainbow-circles",
+    "mars-blue-sunset",
+    "tyndall-blue-sky",
+    "noctilucent-clouds"
+  ]
+}

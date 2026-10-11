@@ -1,0 +1,48 @@
+{
+  "id": "red-sprites",
+  "title": "Red sprites",
+  "category": "Nature",
+  "hook": "Giant red flashes flicker high above storms, and science missed them until 1989.",
+  "peek": "High above big thunderstorms, huge red flashes shaped like jellyfish and carrots flicker for a split second. Pilots had told of them for decades, but scientists only confirmed them in 1989, when a camera test caught one by chance.",
+  "lede": "Above some large thunderstorms, far higher than normal lightning, enormous red flashes appear for a few thousandths of a second. They can be tens of kilometres across and reach about 90 km up. Pilots had described them for decades, but many scientists doubted the reports. Then in 1989 a camera being tested for something else caught one.",
+  "bullets": [
+    {
+      "opening": "The 1989 camera test",
+      "linkId": null,
+      "text": "In July 1989 a team led by John Winckler at the University of Minnesota was testing a low-light camera for a rocket flight. Reviewing the footage, they found two bright columns of light above distant storm clouds."
+    },
+    {
+      "opening": "Why they glow red",
+      "linkId": null,
+      "text": "Sprites happen in thin air between about 50 and 90 km up. There, an electrical surge from a strong lightning strike below excites nitrogen gas, which glows red."
+    },
+    {
+      "opening": "Jellyfish and carrots",
+      "linkId": null,
+      "text": "Sprites come in shapes that scientists name by eye: columns, carrots with trailing tendrils, and wide jellyfish forms with a red top and tendrils hanging down."
+    },
+    {
+      "opening": "Named for a Shakespeare spirit",
+      "linkId": null,
+      "text": "The name sprite, after the airy spirits in Shakespeare, was chosen partly because it did not imply any theory about how they worked."
+    },
+    {
+      "opening": "Spotted from space and ground",
+      "linkId": null,
+      "text": "Astronauts on the International Space Station have photographed sprites from above, and amateur photographers now catch them from the ground with sensitive cameras aimed over distant storms."
+    }
+  ],
+  "tags": [
+    "weather",
+    "light",
+    "accidents",
+    "color"
+  ],
+  "related": [
+    "catatumbo-lightning",
+    "noctilucent-clouds",
+    "lightning-strikes-twice",
+    "morning-glory-clouds",
+    "carrington-event"
+  ]
+}

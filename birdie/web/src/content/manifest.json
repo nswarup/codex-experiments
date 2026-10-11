@@ -4368,5 +4368,65 @@
   "id": "swiss-cheese-holes",
   "title": "Why Swiss cheese has holes",
   "category": "Food"
+ },
+ {
+  "id": "marked-island",
+  "title": "Märket's zigzag border",
+  "category": "Travel"
+ },
+ {
+  "id": "tristan-da-cunha",
+  "title": "Tristan da Cunha",
+  "category": "Travel"
+ },
+ {
+  "id": "busingen",
+  "title": "Büsingen, the German town in Switzerland",
+  "category": "Travel"
+ },
+ {
+  "id": "hans-island",
+  "title": "The whisky war over Hans Island",
+  "category": "Travel"
+ },
+ {
+  "id": "eiffel-apartment",
+  "title": "Gustave Eiffel's secret apartment",
+  "category": "Travel"
+ },
+ {
+  "id": "mill-ends-park",
+  "title": "Mill Ends Park",
+  "category": "Travel"
+ },
+ {
+  "id": "venice-wooden-piles",
+  "title": "Venice stands on a forest",
+  "category": "Travel"
+ },
+ {
+  "id": "derinkuyu",
+  "title": "Derinkuyu's underground city",
+  "category": "Travel"
+ },
+ {
+  "id": "bielefeld-conspiracy",
+  "title": "The Bielefeld conspiracy",
+  "category": "Travel"
+ },
+ {
+  "id": "catatumbo-lightning",
+  "title": "Catatumbo lightning",
+  "category": "Nature"
+ },
+ {
+  "id": "red-sprites",
+  "title": "Red sprites",
+  "category": "Nature"
+ },
+ {
+  "id": "green-flash",
+  "title": "The green flash",
+  "category": "Nature"
  }
 ]

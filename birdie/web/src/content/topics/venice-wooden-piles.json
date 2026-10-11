@@ -1,0 +1,48 @@
+{
+  "id": "venice-wooden-piles",
+  "title": "Venice stands on a forest",
+  "category": "Travel",
+  "hook": "Under Venice lie millions of tree trunks that have held it up for centuries.",
+  "peek": "Much of Venice rests on wooden piles hammered into the lagoon mud hundreds of years ago. Because they sit in waterlogged, airless ground, many are still doing their job. One church alone stands on more than a million of them.",
+  "lede": "Venice was built on muddy islands in a lagoon, ground far too soft for stone palaces. So its builders drove millions of wooden stakes, called piles, down through the mud to a firmer layer of clay. On top they laid wooden platforms and then stone. Those upside-down forests still carry much of the city, centuries after they were cut.",
+  "bullets": [
+    {
+      "opening": "Why the wood lasts",
+      "linkId": null,
+      "text": "The piles sit in waterlogged mud with almost no oxygen. Without air, the fungi that normally break wood down cannot work, so the timber has survived for centuries, though studies show it is slowly weakening."
+    },
+    {
+      "opening": "Santa Maria della Salute",
+      "linkId": null,
+      "text": "The great domed church at the entrance to the Grand Canal, begun in 1631, is said to rest on more than a million wooden piles."
+    },
+    {
+      "opening": "The Rialto Bridge foundations",
+      "linkId": null,
+      "text": "The stone Rialto Bridge, finished in 1591, stands on roughly 12,000 piles driven into the banks at either end of the Grand Canal."
+    },
+    {
+      "opening": "Forests on the mainland",
+      "linkId": null,
+      "text": "The Venetian Republic needed huge amounts of timber, for piles and for ships, and it guarded and managed forests in its mainland territories for centuries to keep the supply coming."
+    },
+    {
+      "opening": "Istrian stone above the water",
+      "linkId": null,
+      "text": "Where the wooden base meets the air, builders used dense white Istrian stone, which barely lets water through. It keeps the lagoon from creeping up into the brick walls above."
+    }
+  ],
+  "tags": [
+    "architecture",
+    "history-of-things",
+    "engineering",
+    "wood"
+  ],
+  "related": [
+    "sagrada-familia",
+    "neft-dashlari",
+    "ise-shrine",
+    "setenil-de-las-bodegas",
+    "pando"
+  ]
+}
