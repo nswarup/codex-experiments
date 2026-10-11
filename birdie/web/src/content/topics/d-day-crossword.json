@@ -1,0 +1,43 @@
+{
+  "id": "d-day-crossword",
+  "title": "The D-Day crossword",
+  "category": "Games",
+  "hook": "In 1944 a newspaper crossword kept giving away the secret codewords of D-Day.",
+  "peek": "In the weeks before the Normandy landings, the Daily Telegraph crossword contained Utah, Omaha, Overlord, Mulberry and Neptune, all top-secret codewords. Its setter was a headmaster. For decades it was put down to chance, but a former pupil later offered another explanation.",
+  "lede": "Leonard Dawe was headmaster of the Strand School, evacuated to Surrey during the Second World War, and he set crosswords for the Daily Telegraph. In May and early June 1944 his answers included Utah and Omaha, the code names for two landing beaches, and Overlord, Mulberry and Neptune, names for the operation itself. British security officers paid him a visit.",
+  "bullets": [
+    {
+      "opening": "The MI5 interview",
+      "linkId": null,
+      "text": "Officers questioned Dawe and his fellow setter Melville Jones and concluded they were innocent. The two men had no idea what the words meant, and for many years the matches were treated as an astonishing coincidence."
+    },
+    {
+      "opening": "Pupils filling the grids",
+      "linkId": null,
+      "text": "Dawe had a habit of asking pupils to fill blank grids with words, then writing clues to fit. That meant the answers could come from anything the boys had been hearing around them."
+    },
+    {
+      "opening": "Ronald French's account",
+      "linkId": null,
+      "text": "In 1984 a former pupil, Ronald French, said he had picked up the words from American and Canadian soldiers camped near the school. He said he had no idea they were secret, and simply used them to fill the grids."
+    },
+    {
+      "opening": "Coincidence or not",
+      "linkId": null,
+      "text": "French's account cannot be fully checked, but it offers a simple explanation. Most historians now think the words leaked through overheard conversation rather than chance, and that nobody involved meant any harm."
+    }
+  ],
+  "tags": [
+    "games",
+    "puzzles",
+    "words",
+    "myths-busted"
+  ],
+  "related": [
+    "first-crossword",
+    "monopoly-escape-maps",
+    "sudoku-number-place",
+    "wordle",
+    "scrabble-letters"
+  ]
+}

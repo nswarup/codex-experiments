@@ -1,0 +1,43 @@
+{
+  "id": "nintendo-hanafuda",
+  "title": "Nintendo began with playing cards",
+  "category": "Games",
+  "hook": "The company behind Mario was founded in 1889 to make hand-painted flower cards.",
+  "peek": "Nintendo opened in Kyoto in 1889, nearly a century before its first home console. Its first product was hanafuda, small Japanese playing cards decorated with flowers and plants, and it still makes them today.",
+  "lede": "On 23 September 1889, Fusajiro Yamauchi opened a small shop in Kyoto to make hanafuda, or flower cards. Japan had restricted card games for years, and as the rules relaxed his hand-made cards caught on. The company spent decades as a card maker before turning to toys, and released its first home console, the Famicom, in 1983.",
+  "bullets": [
+    {
+      "opening": "Hanafuda flower cards",
+      "linkId": null,
+      "text": "A hanafuda deck has 48 small, stiff cards, four for each month of the year. Each month has its own plant, such as pine for January and cherry blossom for March, and the cards carry no numbers at all."
+    },
+    {
+      "opening": "Western cards in Japan",
+      "linkId": null,
+      "text": "Nintendo began making Western-style playing cards in the early 1900s, reputedly one of the first Japanese firms to do so. In 1959 it licensed Disney characters for its cards, which brought them to children."
+    },
+    {
+      "opening": "Hiroshi Yamauchi's toys",
+      "linkId": null,
+      "text": "Fusajiro's great-grandson Hiroshi Yamauchi took over in 1949 and moved the company into toys and then electronics. Gadgets like the Ultra Hand, an extending grabber designed by Gunpei Yokoi, led to Game & Watch."
+    },
+    {
+      "opening": "The name Nintendo",
+      "linkId": null,
+      "text": "The name is often translated as leave luck to heaven, but the characters are open to several readings, and the founders left no explanation. Historians treat the popular translation as a reasonable guess."
+    }
+  ],
+  "tags": [
+    "games",
+    "history-of-things",
+    "names",
+    "japan"
+  ],
+  "related": [
+    "mario-mustache",
+    "game-and-watch",
+    "joker-euchre",
+    "ace-of-spades-tax",
+    "game-boy"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "first-crossword",
+  "title": "The first crossword",
+  "category": "Games",
+  "hook": "The first crossword was shaped like a diamond and called a word-cross.",
+  "peek": "On 21 December 1913, the New York World printed a new puzzle by Arthur Wynne. It was diamond-shaped, had no black squares, and was called a word-cross. Within weeks a typesetting slip had changed its name for good.",
+  "lede": "Arthur Wynne, a journalist born in Liverpool, edited the Fun section of the New York World. For the Christmas edition of 1913 he needed something new, and drew a diamond of interlocking boxes with numbered clues. He called it a Word-Cross. Readers loved it, and it became a weekly feature long before most other newspapers carried a crossword.",
+  "bullets": [
+    {
+      "opening": "The diamond-shaped grid",
+      "linkId": null,
+      "text": "Wynne's puzzle had a hollow diamond centre and no black squares. He filled the word FUN in at the top as a start, and the clues were listed by the numbers of the first and last squares of each answer."
+    },
+    {
+      "opening": "From Word-Cross to Cross-Word",
+      "linkId": null,
+      "text": "A few weeks after the first puzzle, the title was printed as Cross-Word, and the new name stuck. Over time the hyphen dropped away, leaving the word crossword."
+    },
+    {
+      "opening": "The 1924 crossword craze",
+      "linkId": null,
+      "text": "In 1924 the new publishers Simon and Schuster released the first book of crossword puzzles, with a pencil attached. It sold strongly, and a nationwide craze followed in which crosswords appeared everywhere."
+    },
+    {
+      "opening": "Black squares and symmetry",
+      "linkId": null,
+      "text": "Later puzzle editors added black squares and, in America, rules such as rotational symmetry. These conventions grew from readers' tastes rather than from Wynne's first design."
+    }
+  ],
+  "tags": [
+    "games",
+    "puzzles",
+    "history-of-things",
+    "words"
+  ],
+  "related": [
+    "d-day-crossword",
+    "sudoku-number-place",
+    "wordle",
+    "scrabble-letters",
+    "trivial-pursuit-scrabble"
+  ]
+}

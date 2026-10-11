@@ -1,0 +1,43 @@
+{
+  "id": "windows-solitaire",
+  "title": "Why Windows came with Solitaire",
+  "category": "Games",
+  "hook": "A card game was quietly teaching millions of people how to use a mouse.",
+  "peek": "Windows 3.0 came with Solitaire in 1990. It looked like a way to waste time at work, but it had a job to do: getting people who had only ever typed at a keyboard to click, drag and drop.",
+  "lede": "When Windows 3.0 arrived in 1990, many office workers had never used a mouse. Their computers had run on typed commands. Microsoft included a version of Klondike Solitaire, written by an intern, and dragging cards around the screen turned out to be a painless way to practise pointing, clicking and dragging without reading a manual.",
+  "bullets": [
+    {
+      "opening": "Wes Cherry, the intern",
+      "linkId": null,
+      "text": "Wes Cherry wrote the game in his spare time during a Microsoft internship around 1988. He was not paid royalties, despite it ending up on hundreds of millions of computers, and has joked about it in interviews since."
+    },
+    {
+      "opening": "Susan Kare's card designs",
+      "linkId": null,
+      "text": "The card faces and decorative backs were drawn by Susan Kare, the designer behind many of the original Macintosh icons. Her backs included a castle, a beach scene and a robot."
+    },
+    {
+      "opening": "The bouncing cards finale",
+      "linkId": null,
+      "text": "Winning set off a cascade of cards bouncing across the screen, leaving trails behind them. For many people it was their first sight of a computer doing animation just for fun."
+    },
+    {
+      "opening": "Minesweeper and the right click",
+      "linkId": null,
+      "text": "Windows 3.1 added Minesweeper in 1992, which gave the same kind of practice for a different skill: using the right mouse button, which marks a square with a flag, and clicking quickly and precisely."
+    }
+  ],
+  "tags": [
+    "games",
+    "design",
+    "history-of-things",
+    "computing"
+  ],
+  "related": [
+    "engelbart-mouse",
+    "clarus-dogcow",
+    "windows-95-sound",
+    "joker-euchre",
+    "fifty-two-factorial"
+  ]
+}

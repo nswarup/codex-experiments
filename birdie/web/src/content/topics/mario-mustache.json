@@ -1,0 +1,43 @@
+{
+  "id": "mario-mustache",
+  "title": "Why Mario has a moustache",
+  "category": "Games",
+  "hook": "Mario's moustache, cap and overalls were all workarounds for tiny pixels.",
+  "peek": "Mario's look is one of the most recognised in the world. It was designed in 1981 for a character only 16 pixels across, and almost every feature solved a drawing problem rather than expressing a style.",
+  "lede": "When Shigeru Miyamoto designed the hero of Donkey Kong in 1981, he had a sprite of about 16 by 16 pixels and very few colours. A mouth would not show up at that size, so he gave the character a big moustache. Hair was hard to draw and animate, so he added a cap. The famous look came from the hardware.",
+  "bullets": [
+    {
+      "opening": "Jumpman in Donkey Kong",
+      "linkId": null,
+      "text": "In the arcade game the character was known as Jumpman, a carpenter climbing girders to rescue a woman from a giant ape. He only became Mario, and a plumber, in later games."
+    },
+    {
+      "opening": "Overalls that show movement",
+      "linkId": null,
+      "text": "Miyamoto chose overalls in a contrasting colour so players could see the arms swing as the character ran. With so few pixels, a plain shirt would have blurred into the body."
+    },
+    {
+      "opening": "A big nose for a face",
+      "linkId": null,
+      "text": "The large nose also did a job: together with the moustache, it made the face readable as a face. A tiny cluster of pixels became a cheerful, recognisable person."
+    },
+    {
+      "opening": "Mario Segale, the landlord",
+      "linkId": null,
+      "text": "The name came from Nintendo of America's staff. The usual story is that their warehouse landlord, Mario Segale, interrupted a meeting about late rent, and they named the hero after him."
+    }
+  ],
+  "tags": [
+    "games",
+    "design",
+    "names",
+    "video-games"
+  ],
+  "related": [
+    "pac-man-name",
+    "nintendo-hanafuda",
+    "game-and-watch",
+    "space-invaders-speedup",
+    "game-boy"
+  ]
+}

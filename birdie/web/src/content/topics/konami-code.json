@@ -1,0 +1,43 @@
+{
+  "id": "konami-code",
+  "title": "The Konami Code",
+  "category": "Games",
+  "hook": "The world's most famous cheat began because one programmer found his game too hard.",
+  "peek": "Up, up, down, down, left, right, left, right, B, A. The sequence has unlocked secrets in games and websites for decades. It started as a private shortcut that a Konami programmer forgot to take out.",
+  "lede": "In the mid-1980s Kazuhisa Hashimoto was porting the arcade shooter Gradius to the Nintendo Entertainment System. Testing it meant playing it over and over, and he found it too difficult. So he added a secret button sequence that gave his ship a full set of power-ups. He meant to remove it before release, and he did not.",
+  "bullets": [
+    {
+      "opening": "Gradius on the NES",
+      "linkId": null,
+      "text": "The code shipped in the 1986 home version of Gradius. Players who entered it on the pause screen got shields, missiles and other upgrades at once, which made testing the later levels far easier."
+    },
+    {
+      "opening": "Thirty lives in Contra",
+      "linkId": null,
+      "text": "The code became famous in North America through Contra in 1988, where entering it at the title screen gave 30 lives instead of 3. Konami reused it across many later games."
+    },
+    {
+      "opening": "Kazuhisa Hashimoto",
+      "linkId": null,
+      "text": "Hashimoto later said he simply forgot to remove the code before release. Players spread word of it, and when he died in 2020, many game companies and fans posted the sequence as a tribute to him."
+    },
+    {
+      "opening": "The code on websites",
+      "linkId": null,
+      "text": "Web developers adopted the sequence as a hidden trigger. Typing it on some sites sets off small surprises, from falling confetti to secret games, long after the original controller has gone out of use."
+    }
+  ],
+  "tags": [
+    "games",
+    "accidents",
+    "video-games",
+    "easter-eggs"
+  ],
+  "related": [
+    "adventure-easter-egg",
+    "pac-man-ghosts",
+    "missingno",
+    "game-and-watch",
+    "space-invaders-speedup"
+  ]
+}

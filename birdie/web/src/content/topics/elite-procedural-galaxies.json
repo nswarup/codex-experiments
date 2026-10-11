@@ -1,0 +1,43 @@
+{
+  "id": "elite-procedural-galaxies",
+  "title": "Elite's galaxies in a tiny memory",
+  "category": "Games",
+  "hook": "Eight galaxies of 2,048 planets fit in a computer with 32 kilobytes of memory.",
+  "peek": "Elite, the 1984 space trading game, let players fly between 2,048 star systems on a BBC Micro. There was no room to store them. Instead the game rebuilt every planet, the same each time, from a handful of starting numbers.",
+  "lede": "David Braben and Ian Bell wrote Elite as students for the BBC Micro, a computer with 32 kilobytes of memory, much of it taken by the screen. Their game had eight galaxies of 256 planets each, every one with a name, economy and description. None of it was stored. A short sequence of numbers generated it all, identically for every player.",
+  "bullets": [
+    {
+      "opening": "Seeds that grow planets",
+      "linkId": null,
+      "text": "The game began with a few fixed numbers and repeatedly scrambled them using a simple recipe related to the Fibonacci sequence. Each step produced the next planet's position, government, tech level and name, so the same galaxy appeared every time."
+    },
+    {
+      "opening": "Names from letter pairs",
+      "linkId": null,
+      "text": "Planet names such as Lave, Leesti and Diso were stitched together from a short table of two-letter chunks. The method produced names that felt alien but could still be said aloud."
+    },
+    {
+      "opening": "Cutting back to eight",
+      "linkId": null,
+      "text": "The method could have produced vastly more galaxies, by some accounts trillions. The publisher, Acornsoft, felt that sounded unbelievable, so Braben and Bell kept just eight, a number that still let each one feel explorable."
+    },
+    {
+      "opening": "Wireframe ships in 3D",
+      "linkId": null,
+      "text": "Elite also drew its ships as wireframe 3D shapes with hidden lines removed, which was rare on home computers then. Together with the galaxy trick, it made a huge universe from very little."
+    }
+  ],
+  "tags": [
+    "games",
+    "patterns",
+    "scale",
+    "video-games"
+  ],
+  "related": [
+    "minecraft-world-size",
+    "spacewar-pdp1",
+    "game-of-life",
+    "space-invaders-speedup",
+    "fibonacci-sunflowers"
+  ]
+}

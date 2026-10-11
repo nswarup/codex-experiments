@@ -1,0 +1,43 @@
+{
+  "id": "missingno",
+  "title": "MissingNo., the Pokémon that wasn't",
+  "category": "Games",
+  "hook": "A scrambled creature in the first Pokémon games could multiply your items.",
+  "peek": "In Pokémon Red and Blue, a few odd steps could summon a garbled creature called MissingNo. It was never meant to be met. Players sought it out anyway, mostly because it did something very generous to their bag.",
+  "lede": "MissingNo., short for missing number, is what the first Pokémon games show when they look up a creature that does not properly exist. Players found a reliable way to meet it on purpose. Battling it came with a famous side effect: the item in the sixth slot of your bag jumped by 128, which made rare items suddenly plentiful.",
+  "bullets": [
+    {
+      "opening": "The old man glitch",
+      "linkId": null,
+      "text": "The trick began in Viridian City, where an old man shows you how to catch Pokémon. Afterwards you flew to Cinnabar Island and surfed along its east coast, where the game read leftover data as a list of wild creatures."
+    },
+    {
+      "opening": "The sixth item slot",
+      "linkId": null,
+      "text": "Encountering MissingNo. set a flag on whatever sat sixth in your bag, adding 128 to its count. Players put Rare Candy or Master Balls there, which turned a glitch into a shopping spree."
+    },
+    {
+      "opening": "Nintendo's warning",
+      "linkId": null,
+      "text": "Nintendo told players not to try it, saying it could scramble their saved game. The most common harm was a jumbled Hall of Fame record and some odd-looking sprites, but the official advice stayed firm."
+    },
+    {
+      "opening": "A garbled sprite",
+      "linkId": null,
+      "text": "MissingNo. appears as a jagged block of pixels, built from whatever graphics data happened to be nearby in memory. Its look varies with what the game loaded last, which only added to its legend."
+    }
+  ],
+  "tags": [
+    "games",
+    "accidents",
+    "video-games",
+    "patterns"
+  ],
+  "related": [
+    "game-boy",
+    "konami-code",
+    "adventure-easter-egg",
+    "tamagotchi",
+    "pac-man-ghosts"
+  ]
+}

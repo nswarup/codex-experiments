@@ -1,0 +1,43 @@
+{
+  "id": "et-cartridges-burial",
+  "title": "The E.T. cartridges buried in the desert",
+  "category": "Games",
+  "hook": "The legend of Atari burying its flop in the desert turned out to be true.",
+  "peek": "In 1983 Atari trucked unsold game cartridges to a landfill in Alamogordo, New Mexico. For decades it sounded like an urban legend. Then, in 2014, a film crew dug down and found them.",
+  "lede": "E.T. the Extra-Terrestrial for the Atari 2600 was rushed out for Christmas 1982 and sold far below hopes. In September 1983, trucks carried a load of Atari stock to a landfill in Alamogordo, New Mexico, and it was covered over. Many people assumed the story was exaggerated folklore. In April 2014, diggers proved it was real.",
+  "bullets": [
+    {
+      "opening": "Warshaw's five-week deadline",
+      "linkId": null,
+      "text": "Designer Howard Scott Warshaw was given about five weeks to build the game so it could reach shops for Christmas. Games of the time usually took several months, and players found the result confusing and frustrating."
+    },
+    {
+      "opening": "The 2014 Alamogordo dig",
+      "linkId": null,
+      "text": "A documentary team filming Atari: Game Over dug at the site in April 2014, watched by a crowd of fans. Within hours they pulled out battered E.T. cartridges, still in their boxes in some cases."
+    },
+    {
+      "opening": "The other buried games",
+      "linkId": null,
+      "text": "The dig also turned up Centipede, Missile Command, Asteroids and other games, along with hardware. James Heller, who oversaw the 1983 burial, said around 728,000 cartridges went in, not millions of E.T. copies alone."
+    },
+    {
+      "opening": "Cartridges from the landfill",
+      "linkId": null,
+      "text": "About 1,300 cartridges were recovered. Some went to museums, including the Smithsonian, and hundreds were sold online, raising over $100,000 for the city of Alamogordo and its museum."
+    }
+  ],
+  "tags": [
+    "games",
+    "myths-busted",
+    "history-of-things",
+    "video-games"
+  ],
+  "related": [
+    "pong-quarters",
+    "game-boy",
+    "pac-man-name",
+    "adventure-easter-egg",
+    "tetris-origin"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "space-invaders-speedup",
+  "title": "Why Space Invaders speeds up",
+  "category": "Games",
+  "hook": "The invaders speed up because the computer had less to draw, and the designer liked it.",
+  "peek": "In Space Invaders the marching aliens get faster as you clear them. It was never planned. The hardware simply drew the remaining aliens faster, and its creator decided the accident made a better game.",
+  "lede": "Tomohiro Nishikado built Space Invaders for Taito in 1978, designing his own hardware because nothing available was powerful enough. Even so, the machine struggled to move all 55 aliens. With a full screen they crept along. As players cleared them, the processor had fewer to redraw, so the rest moved faster. Nishikado kept it, and difficulty that rises by itself became part of the game.",
+  "bullets": [
+    {
+      "opening": "Five rows of eleven",
+      "linkId": null,
+      "text": "The attack wave is 55 aliens in five rows of eleven, shuffling sideways and dropping one step at each edge. The very last one left zips across the screen at top speed."
+    },
+    {
+      "opening": "The four-note march",
+      "linkId": null,
+      "text": "The descending four-note bass loop speeds up along with the aliens, so the sound rises in tension as the screen empties. It is one of the earliest examples of game music reacting to play."
+    },
+    {
+      "opening": "The War of the Worlds",
+      "linkId": null,
+      "text": "Nishikado first tried tanks and planes as targets, then settled on aliens. Their squid and crab shapes were inspired partly by H.G. Wells's The War of the Worlds."
+    },
+    {
+      "opening": "The coin shortage story",
+      "linkId": null,
+      "text": "Space Invaders was a huge hit in Japan, and a popular story says it caused a shortage of 100-yen coins. Historians doubt this, and coin production figures from the time do not appear to support it."
+    }
+  ],
+  "tags": [
+    "games",
+    "accidents",
+    "video-games",
+    "myths-busted"
+  ],
+  "related": [
+    "pac-man-ghosts",
+    "pong-quarters",
+    "konami-code",
+    "elite-procedural-galaxies",
+    "mario-mustache"
+  ]
+}

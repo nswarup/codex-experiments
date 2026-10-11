@@ -1,0 +1,43 @@
+{
+  "id": "el-ajedrecista",
+  "title": "El Ajedrecista, the first real chess machine",
+  "category": "Games",
+  "hook": "In 1912 a Spanish engineer built a machine that could checkmate you on its own.",
+  "peek": "Long before computers, Leonardo Torres Quevedo built El Ajedrecista, an electromechanical machine that played a chess endgame by itself. Unlike earlier chess automata, nobody was hiding inside. It is often called the first computer game.",
+  "lede": "Leonardo Torres Quevedo, a Spanish engineer, built El Ajedrecista in 1912 and showed it in Paris in 1914. It played one endgame: its king and rook against a human's lone king. Using electrical contacts under the board and a set of fixed rules, it always delivered checkmate, though not always in the fewest moves. No hidden person helped.",
+  "bullets": [
+    {
+      "opening": "King and rook endgame",
+      "linkId": null,
+      "text": "The endgame of king and rook against king is always a win with correct play, which made it a good target. The machine followed a simple set of rules that drove the lone king to the edge of the board."
+    },
+    {
+      "opening": "Spotting illegal moves",
+      "linkId": null,
+      "text": "If the human opponent made an illegal move, the machine noticed and signalled it with a light. After three illegal moves, it stopped playing altogether."
+    },
+    {
+      "opening": "The 1920 magnetic version",
+      "linkId": null,
+      "text": "Torres Quevedo's son Gonzalo built an improved version around 1920. It moved its pieces with magnets under the board and announced checkmate with a recorded voice, a striking effect at the time."
+    },
+    {
+      "opening": "Torres Quevedo's automatics",
+      "linkId": null,
+      "text": "Torres Quevedo saw the chess player as proof that machines could make decisions by rule. He called this field automatics and wrote about it in 1914, years before anyone spoke of computers."
+    }
+  ],
+  "tags": [
+    "games",
+    "inventors",
+    "ai",
+    "chess"
+  ],
+  "related": [
+    "mechanical-turk",
+    "nimrod-computer",
+    "shannon-number",
+    "menace-matchboxes",
+    "alphazero-chess"
+  ]
+}

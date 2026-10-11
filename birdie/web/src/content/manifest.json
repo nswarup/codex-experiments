@@ -2508,5 +2508,65 @@
   "id": "waterfall-illusion",
   "title": "The waterfall illusion",
   "category": "Mind"
+ },
+ {
+  "id": "et-cartridges-burial",
+  "title": "The E.T. cartridges buried in the desert",
+  "category": "Games"
+ },
+ {
+  "id": "konami-code",
+  "title": "The Konami Code",
+  "category": "Games"
+ },
+ {
+  "id": "windows-solitaire",
+  "title": "Why Windows came with Solitaire",
+  "category": "Games"
+ },
+ {
+  "id": "missingno",
+  "title": "MissingNo., the Pokémon that wasn't",
+  "category": "Games"
+ },
+ {
+  "id": "mario-mustache",
+  "title": "Why Mario has a moustache",
+  "category": "Games"
+ },
+ {
+  "id": "nintendo-hanafuda",
+  "title": "Nintendo began with playing cards",
+  "category": "Games"
+ },
+ {
+  "id": "elite-procedural-galaxies",
+  "title": "Elite's galaxies in a tiny memory",
+  "category": "Games"
+ },
+ {
+  "id": "space-invaders-speedup",
+  "title": "Why Space Invaders speeds up",
+  "category": "Games"
+ },
+ {
+  "id": "el-ajedrecista",
+  "title": "El Ajedrecista, the first real chess machine",
+  "category": "Games"
+ },
+ {
+  "id": "sudoku-number-place",
+  "title": "Sudoku was invented in America",
+  "category": "Games"
+ },
+ {
+  "id": "first-crossword",
+  "title": "The first crossword",
+  "category": "Games"
+ },
+ {
+  "id": "d-day-crossword",
+  "title": "The D-Day crossword",
+  "category": "Games"
  }
 ]

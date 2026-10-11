@@ -1,0 +1,43 @@
+{
+  "id": "sudoku-number-place",
+  "title": "Sudoku was invented in America",
+  "category": "Games",
+  "hook": "Sudoku's name is Japanese, but the puzzle was first printed in an American magazine.",
+  "peek": "The modern Sudoku first appeared in 1979 in a New York puzzle magazine under the name Number Place. Its likely creator was a retired architect from Indiana. Japan gave it the name, and a New Zealander took it worldwide.",
+  "lede": "In 1979, Dell Pencil Puzzles and Word Games printed a grid called Number Place: nine rows, nine columns and nine boxes, each to hold the digits 1 to 9 once. Puzzle historians have traced it to Howard Garns, a retired architect from Indianapolis. Garns never saw the craze it became. The name Sudoku came later, in Japan.",
+  "bullets": [
+    {
+      "opening": "Howard Garns, the architect",
+      "linkId": null,
+      "text": "Garns was in his seventies when Number Place appeared. Dell did not credit puzzle makers by name, and he was identified years later by checking which contributors appeared in the issues that carried the puzzle."
+    },
+    {
+      "opening": "Nikoli names it Sudoku",
+      "linkId": null,
+      "text": "In 1984 the Japanese puzzle company Nikoli printed it as Suji wa dokushin ni kagiru, meaning the digits must be single. It was soon shortened to Sudoku, and Nikoli added rules such as symmetrical clues."
+    },
+    {
+      "opening": "Wayne Gould's software",
+      "linkId": null,
+      "text": "Wayne Gould, a retired judge from New Zealand, found Sudoku in a Tokyo bookshop and spent years writing a program to generate puzzles. He offered them to The Times in London, which began printing them in November 2004."
+    },
+    {
+      "opening": "French number puzzles",
+      "linkId": null,
+      "text": "In the 1890s some French newspapers printed similar number squares, but they were not quite the same puzzle. Number Place is usually treated as the first true Sudoku."
+    }
+  ],
+  "tags": [
+    "games",
+    "puzzles",
+    "names",
+    "inventors"
+  ],
+  "related": [
+    "sudoku-17-clues",
+    "first-crossword",
+    "wordle",
+    "fifteen-puzzle",
+    "magic-8-ball"
+  ]
+}
