@@ -1,0 +1,43 @@
+{
+  "id": "war-of-the-worlds-panic",
+  "title": "The War of the Worlds panic",
+  "category": "History",
+  "hook": "The great 1938 Martian radio panic was mostly a newspaper story.",
+  "peek": "Orson Welles's 1938 radio play about a Martian landing is famous for causing mass panic across America. Historians now think very few people were fooled, and that newspapers, eager to make radio look dangerous, inflated the story.",
+  "lede": "On the evening of 30 October 1938, Orson Welles and his Mercury Theatre on the Air broadcast a version of H. G. Wells's The War of the Worlds, told as a series of breaking news bulletins about Martians landing in New Jersey. The next morning newspapers reported mass panic. Later research suggests most of that panic never happened.",
+  "bullets": [
+    {
+      "opening": "The newspaper headlines",
+      "linkId": null,
+      "text": "Front pages described terrified crowds and jammed roads, but the reports leaned on a handful of anecdotes gathered overnight. Newspapers were losing advertising to radio and had reason to paint the new medium as reckless."
+    },
+    {
+      "opening": "A small audience",
+      "linkId": null,
+      "text": "A ratings survey that night found only about 2% of households polled were listening to Welles. Most radio listeners were tuned to a popular comedy show on another network."
+    },
+    {
+      "opening": "Hadley Cantril's study",
+      "linkId": null,
+      "text": "A 1940 study by the psychologist Hadley Cantril estimated that about a million people were frightened. Later historians say his methods were shaky and his figure counted mild worry as fear."
+    },
+    {
+      "opening": "Grover's Mill, New Jersey",
+      "linkId": null,
+      "text": "The script placed the first landing at the small village of Grover's Mill. The village later embraced the story, and a monument there marks the broadcast's 50th anniversary."
+    }
+  ],
+  "tags": [
+    "myths-busted",
+    "radio",
+    "hoaxes",
+    "history-of-things"
+  ],
+  "related": [
+    "great-moon-hoax",
+    "spaghetti-harvest",
+    "flat-earth-myth",
+    "viking-horned-helmets",
+    "napoleon-height"
+  ]
+}

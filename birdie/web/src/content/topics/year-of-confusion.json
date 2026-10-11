@@ -1,0 +1,43 @@
+{
+  "id": "year-of-confusion",
+  "title": "The 445-day year",
+  "category": "History",
+  "hook": "To fix Rome's calendar, Julius Caesar made the year 46 BC last 445 days.",
+  "peek": "By the time of Julius Caesar, the Roman calendar had slipped months out of step with the seasons. His fix was blunt: stretch one year to 445 days, then start a new calendar of 365 days with a leap day every four years.",
+  "lede": "The old Roman calendar had about 355 days, and officials were supposed to add an extra month now and then to keep it in line with the seasons. They often failed to, and by the 40s BC the calendar was roughly three months adrift. Julius Caesar decided to reset it. To do that, the year 46 BC had to run for 445 days.",
+  "bullets": [
+    {
+      "opening": "Sosigenes of Alexandria",
+      "linkId": null,
+      "text": "Caesar took advice from the astronomer Sosigenes of Alexandria. The new plan used a year of 365 days with one extra day every fourth year, close to the true length of the solar year."
+    },
+    {
+      "opening": "Three extra months",
+      "linkId": null,
+      "text": "To bring the seasons back into place, 46 BC got the usual extra month of 23 days plus two more months between November and December, together adding 67 days to the year."
+    },
+    {
+      "opening": "The last year of confusion",
+      "linkId": null,
+      "text": "The Roman writer Macrobius later called 46 BC the last year of confusion. From 1 January 45 BC the new Julian calendar began, and the seasons stayed put far better."
+    },
+    {
+      "opening": "The leap year slip",
+      "linkId": null,
+      "text": "Soon after Caesar, officials mistakenly added a leap day every three years instead of four. Augustus corrected this by skipping leap days for several years until the calendar caught up."
+    }
+  ],
+  "tags": [
+    "calendars",
+    "time",
+    "history-of-things",
+    "scale"
+  ],
+  "related": [
+    "eleven-days-1752",
+    "september-seventh-month",
+    "no-year-zero",
+    "swedish-february-30",
+    "french-republican-calendar"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "pac-man-ghosts",
+  "title": "Pac-Man's four ghosts each hunt differently",
+  "category": "Games",
+  "hook": "Each Pac-Man ghost follows its own simple rule, and together they feel alive.",
+  "peek": "The four ghosts in Pac-Man look alike, but each one is steered by a different targeting rule. One chases, one ambushes, one works off a partner and one keeps losing interest. Those few lines of logic give them personalities.",
+  "lede": "Pac-Man came out in Japan in 1980, designed by Toru Iwatani at Namco. The ghosts never see the whole maze. At each junction a ghost simply turns toward a target tile, and each ghost picks its target in a different way. That small difference is why Blinky, Pinky, Inky and Clyde seem to have moods of their own.",
+  "bullets": [
+    {
+      "opening": "Blinky, the chaser",
+      "linkId": null,
+      "text": "The red ghost aims straight at the tile Pac-Man is on. Late in each level, as the dots run low, he also speeds up, which is why players remember him as the relentless one."
+    },
+    {
+      "opening": "Pinky, the ambusher",
+      "linkId": null,
+      "text": "The pink ghost aims at a spot four tiles ahead of Pac-Man, trying to cut him off. A quirk in the original code shifts that spot sideways when Pac-Man faces up, and expert players exploit it."
+    },
+    {
+      "opening": "Inky's borrowed target",
+      "linkId": null,
+      "text": "The cyan ghost uses both Pac-Man and Blinky. His target is found by drawing a line from Blinky to a point just ahead of Pac-Man and doubling it, so he can seem helpful one moment and erratic the next."
+    },
+    {
+      "opening": "Clyde keeps his distance",
+      "linkId": null,
+      "text": "The orange ghost chases Pac-Man until he gets within about eight tiles, then turns back toward his home corner. Up close he wanders off, which makes him look shy or confused."
+    },
+    {
+      "opening": "Scatter and chase waves",
+      "linkId": null,
+      "text": "The ghosts do not hunt all the time. On a fixed timer they break off and head to their own four corners, then return to the chase. These pauses give players breathing room and a rhythm to learn."
+    }
+  ],
+  "tags": [
+    "games",
+    "video-games",
+    "patterns",
+    "design"
+  ],
+  "related": [
+    "pac-man-name",
+    "space-invaders-speedup",
+    "konami-code",
+    "missingno",
+    "mario-mustache"
+  ]
+}

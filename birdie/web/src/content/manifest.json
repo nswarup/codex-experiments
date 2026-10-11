@@ -2688,5 +2688,65 @@
   "id": "eiffel-tower-antenna",
   "title": "The Eiffel Tower was meant to come down",
   "category": "History"
+ },
+ {
+  "id": "pac-man-ghosts",
+  "title": "Pac-Man's four ghosts each hunt differently",
+  "category": "Games"
+ },
+ {
+  "id": "twister-tonight-show",
+  "title": "Twister and the Tonight Show",
+  "category": "Games"
+ },
+ {
+  "id": "jenga-name",
+  "title": "Jenga's name means build",
+  "category": "Games"
+ },
+ {
+  "id": "french-republican-calendar",
+  "title": "The French Republican calendar",
+  "category": "History"
+ },
+ {
+  "id": "swedish-february-30",
+  "title": "Sweden's February 30th",
+  "category": "History"
+ },
+ {
+  "id": "rosetta-stone",
+  "title": "The Rosetta Stone",
+  "category": "History"
+ },
+ {
+  "id": "lascaux-dog-robot",
+  "title": "The teenagers who found Lascaux",
+  "category": "History"
+ },
+ {
+  "id": "terracotta-army-well",
+  "title": "The farmers who found the Terracotta Army",
+  "category": "History"
+ },
+ {
+  "id": "day-of-two-noons",
+  "title": "The day of two noons",
+  "category": "History"
+ },
+ {
+  "id": "year-of-confusion",
+  "title": "The 445-day year",
+  "category": "History"
+ },
+ {
+  "id": "no-year-zero",
+  "title": "Why there is no year zero",
+  "category": "History"
+ },
+ {
+  "id": "war-of-the-worlds-panic",
+  "title": "The War of the Worlds panic",
+  "category": "History"
  }
 ]

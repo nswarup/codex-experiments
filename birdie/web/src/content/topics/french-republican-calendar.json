@@ -1,0 +1,43 @@
+{
+  "id": "french-republican-calendar",
+  "title": "The French Republican calendar",
+  "category": "History",
+  "hook": "Revolutionary France swapped the seven-day week for ten days and tried ten-hour clocks.",
+  "peek": "In the 1790s France tried to redesign time itself. Months became three ten-day weeks, days were named after plants and tools, and clocks were made with ten hours a day. The calendar lasted about twelve years, the clocks far less.",
+  "lede": "In 1793 revolutionary France adopted a new calendar, counted from 22 September 1792 as the first day of Year I. It had twelve months of 30 days, each split into three ten-day weeks called décades, plus five or six extra days at the end of the year. The planners wanted time to be as orderly as the new metric system.",
+  "bullets": [
+    {
+      "opening": "The ten-hour day",
+      "linkId": null,
+      "text": "A decree also divided the day into 10 hours of 100 minutes, each of 100 seconds. Clockmakers built dials with ten hours, but people never took to them, and compulsory decimal time was suspended in 1795 after little more than a year."
+    },
+    {
+      "opening": "Fabre d'Églantine's month names",
+      "linkId": null,
+      "text": "The poet Fabre d'Églantine named the months after the weather and the farming year: Brumaire for fog, Germinal for sprouting seeds, Thermidor for heat. Lobster Thermidor takes its name, through a play, from that month."
+    },
+    {
+      "opening": "A plant for every day",
+      "linkId": null,
+      "text": "Instead of saints' days, each day honoured something from rural life. Most were plants, every fifth day an animal and every tenth a farm tool, so a date might belong to the turnip, the goat or the plough."
+    },
+    {
+      "opening": "One rest day in ten",
+      "linkId": null,
+      "text": "The ten-day week meant one day off in ten rather than one in seven, which was not popular. Napoleon ended the calendar, and France returned to the Gregorian one on 1 January 1806."
+    }
+  ],
+  "tags": [
+    "calendars",
+    "time",
+    "history-of-things",
+    "names"
+  ],
+  "related": [
+    "soviet-continuous-week",
+    "metre-from-meridian",
+    "september-seventh-month",
+    "year-of-confusion",
+    "swedish-february-30"
+  ]
+}

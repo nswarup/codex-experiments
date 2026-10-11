@@ -1,0 +1,43 @@
+{
+  "id": "terracotta-army-well",
+  "title": "The farmers who found the Terracotta Army",
+  "category": "History",
+  "hook": "In 1974 farmers digging for water near Xi'an struck a clay head instead.",
+  "peek": "In 1974 a group of farmers in China dug a well during a drought and hit pieces of a life-size clay figure. It was the first sign of the Terracotta Army, thousands of soldiers made for China's first emperor more than 2,200 years ago.",
+  "lede": "In March 1974, during a dry spring, farmers outside the city of Xi'an in China were digging a well. A few metres down they hit fragments of fired clay, including a head. Archaeologists were called in, and what they found was a buried army of life-size clay soldiers made for Qin Shi Huang, the first emperor of a unified China, around 210 BC.",
+  "bullets": [
+    {
+      "opening": "Yang Zhifa and the well",
+      "linkId": null,
+      "text": "Yang Zhifa is the farmer most often named as the finder. Years later he could be found at the site museum, signing books for visitors who had come to see what his well led to."
+    },
+    {
+      "opening": "Thousands of clay soldiers",
+      "linkId": null,
+      "text": "Archaeologists estimate the three main pits hold about 8,000 soldiers, along with chariots and horses. Only part of the army has been dug up so far, and work continues."
+    },
+    {
+      "opening": "Faces finished by hand",
+      "linkId": null,
+      "text": "The figures were built from a small set of moulded parts, then finished individually with different hair, beards and expressions. The result is a crowd in which faces vary far more than a factory method would suggest."
+    },
+    {
+      "opening": "The lost paint",
+      "linkId": null,
+      "text": "The soldiers were once brightly painted. Their colours sat on a layer of lacquer that curls and flakes within minutes in dry air, which is one reason excavation goes slowly."
+    }
+  ],
+  "tags": [
+    "archaeology",
+    "accidents",
+    "art",
+    "history-of-things"
+  ],
+  "related": [
+    "lascaux-dog-robot",
+    "rosetta-stone",
+    "lewis-chessmen",
+    "gobekli-tepe",
+    "jiaozi-paper-money"
+  ]
+}

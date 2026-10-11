@@ -1,0 +1,43 @@
+{
+  "id": "jenga-name",
+  "title": "Jenga's name means build",
+  "category": "Games",
+  "hook": "The tower game everyone knows is named after a Swahili word for building.",
+  "peek": "Jenga began as a homemade family game in Ghana, played with wooden blocks from a local sawmill. Its creator, Leslie Scott, grew up in East Africa and named it after the Swahili word kujenga, which means to build.",
+  "lede": "Leslie Scott was born in England and grew up in East Africa, where she learned Swahili. In the 1970s her family in Ghana played a stacking game with children's wooden blocks. Scott refined it, and in 1983 she launched it at the London Toy Fair. She called it Jenga, from kujenga, the Swahili for to build. Jenga itself is the command form: build.",
+  "bullets": [
+    {
+      "opening": "The Takoradi sawmill blocks",
+      "linkId": null,
+      "text": "The family's first set came from offcuts bought at a sawmill in Takoradi, a port town in Ghana. Simple, slightly uneven pieces of wood turned out to be all the game needed."
+    },
+    {
+      "opening": "Fifty-four wooden blocks",
+      "linkId": null,
+      "text": "A standard set has 54 blocks stacked in 18 layers of three, each layer laid crosswise to the one below. Each block is three times as long as it is wide, so three side by side make a square."
+    },
+    {
+      "opening": "Slightly uneven blocks",
+      "linkId": null,
+      "text": "The blocks are not perfectly identical. Tiny differences in size mean some sit loose and slide out easily, while others carry the weight of the tower, and finding which is which is the real game."
+    },
+    {
+      "opening": "Pulling and restacking",
+      "linkId": null,
+      "text": "Players take a block from anywhere below the top finished layer, using one hand, and place it on top. The tower grows taller and more hollow until someone's move brings it down."
+    }
+  ],
+  "tags": [
+    "games",
+    "names",
+    "etymology",
+    "inventors"
+  ],
+  "related": [
+    "twister-tonight-show",
+    "meeple-word",
+    "scrabble-letters",
+    "landlords-game",
+    "royal-game-of-ur"
+  ]
+}

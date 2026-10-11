@@ -1,0 +1,43 @@
+{
+  "id": "rosetta-stone",
+  "title": "The Rosetta Stone",
+  "category": "History",
+  "hook": "One temple notice, carved three ways, finally let people read hieroglyphs again.",
+  "peek": "The Rosetta Stone is a broken slab carrying a single decree in three scripts: hieroglyphs, Demotic and ancient Greek. Because scholars could read the Greek, it became the key that let Jean-François Champollion decipher hieroglyphs in 1822.",
+  "lede": "The Rosetta Stone is not a grand monument. It is a fragment of a larger slab carrying an ordinary priestly decree from 196 BC, issued at Memphis in honour of the young king Ptolemy V. What makes it special is that the same text appears three times: in hieroglyphs, in the everyday Egyptian script called Demotic, and in ancient Greek.",
+  "bullets": [
+    {
+      "opening": "Found at Rashid in 1799",
+      "linkId": null,
+      "text": "French soldiers came across the stone in 1799 near the town of Rashid, which Europeans called Rosetta, in the Nile Delta. Under a treaty in 1801 it passed to Britain, and it has been in the British Museum since 1802."
+    },
+    {
+      "opening": "Two languages, three scripts",
+      "linkId": null,
+      "text": "The stone holds only two languages, Egyptian and Greek, but three scripts. Hieroglyphs were used for formal temple writing, Demotic for daily documents and Greek for the ruling dynasty's administration."
+    },
+    {
+      "opening": "Thomas Young's progress",
+      "linkId": null,
+      "text": "The English scholar Thomas Young made early headway, showing that oval rings called cartouches held royal names such as Ptolemy. He also saw that some signs stood for sounds."
+    },
+    {
+      "opening": "Champollion's breakthrough",
+      "linkId": null,
+      "text": "Jean-François Champollion announced his decipherment in 1822. His knowledge of Coptic, a late form of Egyptian, helped him see that hieroglyphs mixed sound signs with signs for whole ideas."
+    }
+  ],
+  "tags": [
+    "writing",
+    "languages",
+    "history-of-things",
+    "archaeology"
+  ],
+  "related": [
+    "linear-b",
+    "cuneiform-accounts",
+    "cherokee-syllabary",
+    "diary-of-merer",
+    "boustrophedon"
+  ]
+}

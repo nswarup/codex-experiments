@@ -1,0 +1,43 @@
+{
+  "id": "swedish-february-30",
+  "title": "Sweden's February 30th",
+  "category": "History",
+  "hook": "In 1712 Sweden had a February 30th, after a calendar plan went badly wrong.",
+  "peek": "Sweden once tried to slide into the Gregorian calendar by skipping leap days one at a time. The plan fell apart, and to undo it the country added a day that has never appeared on any other calendar: 30 February 1712.",
+  "lede": "By 1700 most of Europe had moved to the Gregorian calendar, which ran 11 days ahead of the old Julian one. Sweden chose a gentle route: drop every leap day from 1700 to 1740 and drift across over 40 years. The first step worked. Then it stopped working, and Sweden ended up using a calendar nobody else had.",
+  "bullets": [
+    {
+      "opening": "The skipped leap day",
+      "linkId": null,
+      "text": "Sweden left out the leap day in 1700 as planned. But 1704 and 1708 were kept as ordinary leap years, apparently because the country was busy with the Great Northern War, so the scheme stalled."
+    },
+    {
+      "opening": "A calendar of its own",
+      "linkId": null,
+      "text": "After 1700 Sweden was one day ahead of the Julian calendar and ten days behind the Gregorian one. Dates written in Sweden matched no other country, which made letters and records between nations awkward."
+    },
+    {
+      "opening": "Adding 30 February",
+      "linkId": null,
+      "text": "In 1711 King Charles XII decided to go back to the Julian calendar. To catch up the lost day, Sweden gave 1712 two leap days, so February ran to the 30th."
+    },
+    {
+      "opening": "The 1753 switch",
+      "linkId": null,
+      "text": "Sweden finally moved to the Gregorian calendar in one jump in 1753. That year 17 February was followed directly by 1 March, removing 11 days at once."
+    }
+  ],
+  "tags": [
+    "calendars",
+    "time",
+    "accidents",
+    "history-of-things"
+  ],
+  "related": [
+    "eleven-days-1752",
+    "year-of-confusion",
+    "dagen-h",
+    "french-republican-calendar",
+    "samoa-skips-a-day"
+  ]
+}

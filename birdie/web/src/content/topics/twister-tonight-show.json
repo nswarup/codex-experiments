@@ -1,0 +1,43 @@
+{
+  "id": "twister-tonight-show",
+  "title": "Twister and the Tonight Show",
+  "category": "Games",
+  "hook": "A game of left hand, red was nearly a flop until a late-night TV moment in 1966.",
+  "peek": "When Milton Bradley launched Twister in 1966, some stores thought it too racy to stock and sales were slow. Then Johnny Carson played it with Eva Gabor on The Tonight Show, and the next day shoppers came looking for it.",
+  "lede": "Twister was a new kind of party game: the players were the pieces. Milton Bradley released it in 1966, but it got off to a shaky start. Sears kept it out of its catalogue as too risqué, and the company was close to giving up on it. One spot on late-night television in May 1966 turned it into a hit.",
+  "bullets": [
+    {
+      "opening": "Johnny Carson and Eva Gabor",
+      "linkId": null,
+      "text": "On The Tonight Show, Carson and the actress Eva Gabor played a round in front of millions of viewers. The audience laughed through it, and stores that had been unable to sell the game soon could not keep it in stock."
+    },
+    {
+      "opening": "Reyn Guyer's design team",
+      "linkId": null,
+      "text": "The idea came from a design firm in Minnesota, where Reyn Guyer first imagined a game played on a mat. Charles Foley and Neil Rabens developed the rules and are named on the patent."
+    },
+    {
+      "opening": "The mat and spinner",
+      "linkId": null,
+      "text": "The mat has 24 large circles in four colours, laid out in rows. A spinner tells each player which hand or foot to move to which colour, and anyone who falls or touches down with an elbow or knee is out."
+    },
+    {
+      "opening": "Its first name, Pretzel",
+      "linkId": null,
+      "text": "The game was developed under the name Pretzel, a fair description of what happens to the players. Milton Bradley renamed it Twister before launch."
+    }
+  ],
+  "tags": [
+    "games",
+    "television",
+    "accidents",
+    "history-of-things"
+  ],
+  "related": [
+    "landlords-game",
+    "magic-8-ball",
+    "trivial-pursuit-scrabble",
+    "uno-stacking",
+    "jenga-name"
+  ]
+}

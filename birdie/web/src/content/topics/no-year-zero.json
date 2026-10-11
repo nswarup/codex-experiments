@@ -1,0 +1,43 @@
+{
+  "id": "no-year-zero",
+  "title": "Why there is no year zero",
+  "category": "History",
+  "hook": "The calendar most of the world uses goes straight from 1 BC to AD 1.",
+  "peek": "Count back through the years and you jump from AD 1 to 1 BC with nothing in between. The system was devised around 525, when Europe had no use for zero, and that gap is why purists say the millennium began in 2001.",
+  "lede": "Around the year 525 a monk named Dionysius Exiguus was drawing up tables for the date of Easter. Instead of numbering years by an emperor's reign, he counted them from the birth of Jesus, starting at AD 1. Zero was not part of European arithmetic then. So the system has no year zero: 1 BC is followed directly by AD 1.",
+  "bullets": [
+    {
+      "opening": "Dionysius Exiguus's tables",
+      "linkId": null,
+      "text": "Dionysius worked in Rome and wanted a clearer way to label years in his Easter tables. His Anno Domini numbering, meaning in the year of the Lord, was a bookkeeping choice that slowly spread."
+    },
+    {
+      "opening": "Bede and counting backwards",
+      "linkId": null,
+      "text": "The English monk Bede made AD dates widely known in a history he finished in 731. He also counted years before AD 1, which is where the BC side of the count comes from."
+    },
+    {
+      "opening": "When the millennium began",
+      "linkId": null,
+      "text": "With no year zero, the first thousand years run from AD 1 to the end of AD 1000. By that logic the third millennium began on 1 January 2001, not in 2000, though most people celebrated a year early."
+    },
+    {
+      "opening": "The astronomers' year zero",
+      "linkId": null,
+      "text": "Astronomers find the gap awkward for arithmetic, so they use a year 0 equal to 1 BC, then minus 1 for 2 BC, and so on. The international date standard ISO 8601 does the same."
+    }
+  ],
+  "tags": [
+    "calendars",
+    "time",
+    "history-of-things",
+    "patterns"
+  ],
+  "related": [
+    "year-of-confusion",
+    "eleven-days-1752",
+    "september-seventh-month",
+    "swedish-february-30",
+    "samoa-skips-a-day"
+  ]
+}

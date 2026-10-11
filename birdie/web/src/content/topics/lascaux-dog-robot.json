@@ -1,0 +1,43 @@
+{
+  "id": "lascaux-dog-robot",
+  "title": "The teenagers who found Lascaux",
+  "category": "History",
+  "hook": "Some of the world's finest cave paintings were found by four teenagers in 1940.",
+  "peek": "In September 1940 four teenagers in southwest France crawled into a hole in the woods and found walls covered with painted animals about 17,000 years old. The story goes that a dog named Robot led them to it.",
+  "lede": "In September 1940, near the village of Montignac in southwest France, 18-year-old Marcel Ravidat and three younger friends squeezed down a narrow shaft in the woods above Lascaux. By the light of a lamp they found walls covered in horses, deer and huge wild cattle. The paintings are about 17,000 years old and among the finest ever found.",
+  "bullets": [
+    {
+      "opening": "Robot the dog",
+      "linkId": null,
+      "text": "The popular story says Ravidat's dog Robot fell into the hole and the boys went in after him. Accounts differ on the details, and some say the dog only led them to the opening earlier, so it is best treated as a good story."
+    },
+    {
+      "opening": "The four teenagers",
+      "linkId": null,
+      "text": "Ravidat's companions were Jacques Marsal, Georges Agnel and Simon Coencas, aged between about 13 and 16. They told their teacher, and the prehistorian Henri Breuil soon came to see the paintings."
+    },
+    {
+      "opening": "The Hall of the Bulls",
+      "linkId": null,
+      "text": "The best-known chamber holds enormous paintings of aurochs, the wild ancestors of cattle, alongside horses and deer. One bull is about 5 metres long, and the cave holds hundreds of painted figures and many more engravings."
+    },
+    {
+      "opening": "Closing the cave in 1963",
+      "linkId": null,
+      "text": "Lascaux opened to visitors in 1948, but the breath and warmth of crowds began to harm the paint. It closed in 1963. Today visitors see faithful copies, including Lascaux II from 1983 and Lascaux IV from 2016."
+    }
+  ],
+  "tags": [
+    "art",
+    "archaeology",
+    "accidents",
+    "myths-busted"
+  ],
+  "related": [
+    "terracotta-army-well",
+    "gobekli-tepe",
+    "stonehenge-bluestones",
+    "lewis-chessmen",
+    "rosetta-stone"
+  ]
+}

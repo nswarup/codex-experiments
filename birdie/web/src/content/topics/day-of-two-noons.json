@@ -1,0 +1,43 @@
+{
+  "id": "day-of-two-noons",
+  "title": "The day of two noons",
+  "category": "History",
+  "hook": "On 18 November 1883 many American towns watched the clock strike noon twice.",
+  "peek": "Before 1883 most American towns kept their own local time, set by the sun. On one Sunday that November the railroads switched to standard time zones, and in many places clocks reached noon, were set back, and reached noon again.",
+  "lede": "Until 1883 every American town set its clocks by the sun, so noon in one city was a few minutes off from noon in the next. Railroads coped by running on dozens of their own times. On Sunday 18 November 1883 the railroads of the United States and Canada switched to a handful of standard zones, and many towns had to move their clocks back at midday.",
+  "bullets": [
+    {
+      "opening": "Why noon came twice",
+      "linkId": null,
+      "text": "In places east of a zone's centre line, local noon arrived first. When the signal for the new standard noon came, clocks were set back by some minutes, and the town lived through noon a second time."
+    },
+    {
+      "opening": "William F. Allen's plan",
+      "linkId": null,
+      "text": "The scheme was drawn up by William F. Allen, a railway official who edited the timetables most lines used. His map placed zone boundaries where they suited the railroads, often at major junctions."
+    },
+    {
+      "opening": "The telegraph time signal",
+      "linkId": null,
+      "text": "On the day itself, time signals sent by telegraph from observatories told jewellers and stations the exact moment of standard noon, so clocks across a huge area could be reset together."
+    },
+    {
+      "opening": "A railroad rule, not a law",
+      "linkId": null,
+      "text": "Standard time was a private agreement among railroads. Most towns soon followed it, but it did not become federal law in the United States until the Standard Time Act of 1918."
+    }
+  ],
+  "tags": [
+    "time",
+    "maps",
+    "history-of-things",
+    "patterns"
+  ],
+  "related": [
+    "ruth-belville",
+    "samoa-skips-a-day",
+    "harrison-clocks",
+    "big-ben-pennies",
+    "franklin-daylight-joke"
+  ]
+}
