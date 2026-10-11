@@ -1,0 +1,43 @@
+{
+  "id": "little-black-dress",
+  "title": "The little black dress",
+  "category": "Fashion",
+  "hook": "Vogue called Chanel's simple black dress a Ford, after the Model T car.",
+  "peek": "In 1926 American Vogue printed a drawing of a plain black dress by Coco Chanel and called it \"Chanel's Ford\". Like Henry Ford's car, it was simple, sturdy and meant for everyone. The little black dress has been a wardrobe standard ever since.",
+  "lede": "In October 1926, American Vogue published a drawing of a slim black dress by Coco Chanel. The magazine called it \"Chanel's Ford\", comparing it to the Model T, the car that came famously in black and was built for ordinary buyers. Vogue predicted it would become a frock all the world would wear. It was right.",
+  "bullets": [
+    {
+      "opening": "The 1926 Vogue drawing",
+      "linkId": null,
+      "text": "The dress in the drawing was simple: straight, long-sleeved, in black crêpe de Chine, with fine diagonal tucks. Its plainness was the point. A woman could dress it up or down with jewellery and accessories."
+    },
+    {
+      "opening": "Black before Chanel",
+      "linkId": null,
+      "text": "Before the 1920s, black dresses were strongly linked with mourning and with the uniforms of maids and shop assistants. Chanel helped turn black into a colour of quiet elegance worn by choice."
+    },
+    {
+      "opening": "The Model T comparison",
+      "linkId": null,
+      "text": "Henry Ford's Model T was mass-produced, affordable and sold for years only in black. Vogue's comparison suggested a design so practical and so widely copied that it would become a kind of uniform."
+    },
+    {
+      "opening": "Audrey Hepburn's Givenchy dress",
+      "linkId": null,
+      "text": "In the 1961 film Breakfast at Tiffany's, Audrey Hepburn wore a black Givenchy gown that made the idea famous all over again. One of the film's dresses sold at auction in 2006 for more than 400,000 pounds."
+    }
+  ],
+  "tags": [
+    "fashion",
+    "design",
+    "color",
+    "history-of-things"
+  ],
+  "related": [
+    "chanel-no-5",
+    "white-wedding-dress",
+    "pink-for-boys",
+    "womens-pockets",
+    "handkerchief-bra"
+  ]
+}

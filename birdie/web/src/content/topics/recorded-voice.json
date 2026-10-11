@@ -1,0 +1,43 @@
+{
+  "id": "recorded-voice",
+  "title": "Why your recorded voice sounds odd",
+  "category": "Health",
+  "hook": "You have never heard your own voice the way everyone else hears it.",
+  "peek": "Most people wince at a recording of themselves. The recording is the accurate one. When you speak, you also hear your voice through the bones of your skull, which makes it sound deeper and fuller than it really is to others.",
+  "lede": "Play back a recording of yourself and the voice often sounds thinner and higher than the one in your head. The recording is close to what other people hear. When you talk, sound reaches your inner ears two ways: through the air, like everyone else's voice, and through vibrations in the bones of your head. That second path is missing from every microphone.",
+  "bullets": [
+    {
+      "opening": "Bone conduction",
+      "linkId": null,
+      "text": "As your vocal cords vibrate, the vibrations travel through your skull straight to the cochlea in each inner ear. This route carries low tones especially well, so the voice you hear while speaking sounds richer and deeper than the one in the room."
+    },
+    {
+      "opening": "Plugging your ears and humming",
+      "linkId": null,
+      "text": "Put your fingers in your ears and hum, and your voice suddenly gets louder and boomier. Blocking the air path makes the bone-conducted sound stand out, a small demonstration of the voice you normally hear mixed in."
+    },
+    {
+      "opening": "Voice confrontation",
+      "linkId": null,
+      "text": "Psychologists Philip Holzman and Clyde Rousey studied this discomfort in the 1960s and called it voice confrontation. Hearing yourself as others do clashes with a lifelong expectation, and people tend to judge their own recorded voice more harshly than strangers do."
+    },
+    {
+      "opening": "Rating your own voice blind",
+      "linkId": null,
+      "text": "In a 2013 study, people rated a mix of recorded voices without being told one was theirs. They often scored their own voice as more attractive than other listeners did, which suggests the dislike comes from surprise, not the voice itself."
+    }
+  ],
+  "tags": [
+    "acoustics",
+    "perception",
+    "voices",
+    "self-image"
+  ],
+  "related": [
+    "helium-voice",
+    "cocktail-party-effect",
+    "mcgurk-effect",
+    "human-echolocation",
+    "spotlight-effect"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "chuck-taylor",
+  "title": "Who Chuck Taylor was",
+  "category": "Fashion",
+  "hook": "Chuck Taylor did not design his famous sneakers. He was their salesman.",
+  "peek": "The Converse All Star came out in 1917, years before Chuck Taylor joined the company. Taylor was a modest basketball player turned travelling salesman, so good at his job that in 1932 Converse put his name on the ankle patch.",
+  "lede": "Millions of people have worn Chuck Taylors, and many assume Chuck Taylor designed them. He did not. Converse launched the All Star basketball shoe in 1917. Charles \"Chuck\" Taylor, a young player from Indiana, joined the company as a salesman in the early 1920s. He was so good at promoting the shoe that, in 1932, Converse added his signature to the ankle patch.",
+  "bullets": [
+    {
+      "opening": "The 1917 Converse All Star",
+      "linkId": null,
+      "text": "Converse, a rubber shoe company in Malden, Massachusetts, introduced the All Star as a canvas basketball shoe with a rubber sole. It arrived when basketball was still a young sport and few shoes were made for it."
+    },
+    {
+      "opening": "Chuck Taylor's basketball clinics",
+      "linkId": null,
+      "text": "Taylor drove across the United States for years, running basketball clinics at schools and colleges and selling shoes to coaches along the way. He is also credited with suggesting changes to the shoe's design for better grip and support."
+    },
+    {
+      "opening": "The 1932 ankle patch",
+      "linkId": null,
+      "text": "In 1932, Converse added Taylor's signature to the round ankle patch, and the shoe became widely known as the Chuck Taylor All Star. According to his biographer, he earned a salary rather than a share of each pair sold."
+    },
+    {
+      "opening": "Myths about his playing career",
+      "linkId": null,
+      "text": "Taylor's playing career was later inflated in company lore. His 2006 biographer, Abraham Aamidor, found little evidence that he was the star player often described. His real gift was salesmanship, which earned him a place in basketball's Hall of Fame in 1969."
+    }
+  ],
+  "tags": [
+    "names",
+    "fashion",
+    "myths-busted",
+    "sneakers"
+  ],
+  "related": [
+    "peach-basket-basketball",
+    "nike-waffle-iron",
+    "left-and-right-shoes",
+    "crocs-boat-shoe",
+    "vulcanized-rubber"
+  ]
+}

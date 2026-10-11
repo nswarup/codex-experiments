@@ -1,0 +1,43 @@
+{
+  "id": "stratton-goggles",
+  "title": "Stratton's upside-down glasses",
+  "category": "Health",
+  "hook": "In 1896 a psychologist turned his world upside down and his brain adjusted.",
+  "peek": "George Stratton wore a lens that flipped his view of the world for days at a time. At first he could barely reach for a cup. Within about a week, moving around felt natural again, and the inverted world stopped seeming strange.",
+  "lede": "In 1896, the American psychologist George Stratton, at the University of California, built a tube with lenses that turned his view upside down and left to right. He wore it over one eye, with the other covered, for long stretches. He wanted to know whether we see the world upright because of the eye or because the brain learns to.",
+  "bullets": [
+    {
+      "opening": "The first three days",
+      "linkId": null,
+      "text": "Stratton's first trial lasted about 21 hours spread over three days. Everything was inverted, and simple acts were hard: he reached the wrong way for objects and felt queasy. Even so, he noticed small signs of getting used to it."
+    },
+    {
+      "opening": "The eight-day trial",
+      "linkId": null,
+      "text": "In 1897 he tried again for eight days, wearing the lens about 87 hours in all. By the later days he moved with growing ease, and at times the scene simply felt right rather than upside down."
+    },
+    {
+      "opening": "Taking the glasses off",
+      "linkId": null,
+      "text": "When he finally removed the lens, the normal world looked oddly unfamiliar for a while, and his movements briefly went wrong in the opposite direction. His brain had genuinely changed its expectations, then had to change back."
+    },
+    {
+      "opening": "Ivo Kohler's Innsbruck goggles",
+      "linkId": null,
+      "text": "In the 1950s, Theodor Erismann and Ivo Kohler in Austria repeated the idea with volunteers who wore inverting goggles for weeks. Some adapted well enough to ski and ride bicycles while wearing them."
+    }
+  ],
+  "tags": [
+    "perception",
+    "experiments",
+    "illusions",
+    "brains"
+  ],
+  "related": [
+    "blind-spot",
+    "proprioception",
+    "rubber-hand-illusion",
+    "mondrian-upside-down",
+    "the-dress"
+  ]
+}

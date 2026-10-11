@@ -1,0 +1,44 @@
+{
+  "id": "human-echolocation",
+  "title": "Humans who see with sound",
+  "category": "Health",
+  "hook": "Some blind people find their way by clicking and listening to the echoes.",
+  "peek": "Daniel Kish has been blind since he was a baby, yet he hikes and rides a bicycle by making sharp tongue clicks and reading the echoes. Brain scans suggest that, for expert echolocators, those echoes are handled by parts of the brain normally used for sight.",
+  "lede": "Bats and dolphins are famous for echolocation, but some people do it too. Daniel Kish, an American who lost his sight as a baby, taught himself as a child to make quick clicks with his tongue and listen to how they bounce back. From the echoes he can tell where a wall, a car or a tree is, and roughly how big and solid it is.",
+  "bullets": [
+    {
+      "opening": "Daniel Kish's tongue clicks",
+      "linkId": null,
+      "text": "Kish uses a sharp click made by snapping his tongue off the roof of his mouth. He hikes, rides a bicycle and has taught the method to blind children around the world through his group, World Access for the Blind."
+    },
+    {
+      "opening": "The 2011 brain scan study",
+      "linkId": null,
+      "text": "In 2011, Lore Thaler and colleagues in Canada scanned the brains of Kish and another expert echolocator while they listened to recordings of their own clicks. The echoes lit up the visual cortex, an area that normally handles sight."
+    },
+    {
+      "opening": "What echoes reveal",
+      "linkId": null,
+      "text": "Expert echolocators can judge the size, distance and position of objects, and even tell soft surfaces like bushes from hard ones like walls. A hard surface sends back a crisper echo than a soft one."
+    },
+    {
+      "opening": "Learning to echolocate",
+      "linkId": null,
+      "text": "Thaler's later work found that both blind and sighted volunteers improved a great deal at click-based tasks after about ten weeks of training. Age and sight were not barriers to getting started."
+    }
+  ],
+  "tags": [
+    "perception",
+    "acoustics",
+    "echolocation",
+    "brains"
+  ],
+  "related": [
+    "proprioception",
+    "blind-spot",
+    "cocktail-party-effect",
+    "mcgurk-effect",
+    "recorded-voice",
+    "dolphin-names"
+  ]
+}

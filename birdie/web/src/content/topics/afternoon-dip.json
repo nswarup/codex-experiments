@@ -1,0 +1,44 @@
+{
+  "id": "afternoon-dip",
+  "title": "The afternoon dip",
+  "category": "Health",
+  "hook": "The sleepy slump after lunch arrives even if you skip lunch altogether.",
+  "peek": "Many people fade in the early afternoon and blame their lunch. Studies show the dip still happens without food. It is built into the daily rhythm of the body clock, which is one reason so many cultures make room for a nap.",
+  "lede": "Around one to three in the afternoon, many people find their eyelids drooping and their focus slipping. The usual suspect is lunch. But when researchers keep people on steady snacks or no midday meal at all, the dip still turns up. It comes mainly from the body clock, which builds a small trough of alertness into the early afternoon.",
+  "bullets": [
+    {
+      "opening": "Two forces of sleepiness",
+      "linkId": null,
+      "text": "Sleep scientists describe two forces: sleep pressure, which builds the longer you are awake, and the body clock's alertness signal. By early afternoon, pressure has built up while the clock's strongest wake-up push is still to come, leaving a gap."
+    },
+    {
+      "opening": "Testing without lunch",
+      "linkId": null,
+      "text": "In laboratory studies where people stay awake in steady conditions and eat small, evenly spaced snacks, sleepiness and slower reactions still cluster in the early afternoon. A big lunch can deepen the dip, but it does not create it."
+    },
+    {
+      "opening": "A second nightly trough",
+      "linkId": null,
+      "text": "The afternoon dip is a smaller echo of the deep night-time low around three or four in the morning. Charts of alertness across a day often show both troughs, about twelve hours apart."
+    },
+    {
+      "opening": "The siesta",
+      "linkId": null,
+      "text": "Afternoon rest is part of daily life in many warm countries, and the siesta is the best-known example. Research on short naps suggests that 10 to 20 minutes in the early afternoon can lift alertness without leaving people groggy."
+    }
+  ],
+  "tags": [
+    "sleep",
+    "time",
+    "body-clock",
+    "myths-busted"
+  ],
+  "related": [
+    "nasa-nap",
+    "larks-and-owls",
+    "segmented-sleep",
+    "siffre-cave",
+    "melanopsin",
+    "jet-lag-east"
+  ]
+}

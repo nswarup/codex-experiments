@@ -1,0 +1,43 @@
+{
+  "id": "dive-reflex",
+  "title": "The dive reflex",
+  "category": "Health",
+  "hook": "Cold water on your face slows your heart, a trick you share with seals.",
+  "peek": "Dip your face in cold water and your heart rate drops without any effort on your part. It is the mammalian dive reflex, the same automatic response that lets seals and dolphins stay underwater for long stretches.",
+  "lede": "Hold your breath and put your face in cold water, and within seconds your heart begins to beat more slowly. You do not decide this. It is the dive reflex, an automatic response seen in many mammals. It helps the body save oxygen underwater, and humans have a mild but real version of the same reflex that seals and dolphins rely on.",
+  "bullets": [
+    {
+      "opening": "The face as trigger",
+      "linkId": null,
+      "text": "The key is the face, especially the skin around the eyes and nose. Cold water there excites the trigeminal nerve, which signals the heart to slow. Cold water on the arms or back has much less effect, and holding your breath makes the response stronger."
+    },
+    {
+      "opening": "Saving oxygen underwater",
+      "linkId": null,
+      "text": "The reflex does more than slow the heart. Vessels in the skin, hands and feet narrow, keeping oxygen-rich circulation for the heart and brain. The colder the water, the stronger the response tends to be."
+    },
+    {
+      "opening": "Per Scholander's seal studies",
+      "linkId": null,
+      "text": "In the 1940s, the Norwegian physiologist Per Scholander measured diving seals and found their hearts slowed dramatically underwater. He went on to show that people have the same reflex, only much weaker."
+    },
+    {
+      "opening": "Bajau sea nomads",
+      "linkId": null,
+      "text": "The Bajau people of Southeast Asia have dived for food for generations. A 2018 study found they have larger spleens than nearby non-diving groups. The spleen squeezes out a reserve of oxygen-carrying cells during dives, another part of the reflex."
+    }
+  ],
+  "tags": [
+    "reflexes",
+    "physiology",
+    "water",
+    "marine-mammals"
+  ],
+  "related": [
+    "pruney-fingers",
+    "goosebumps",
+    "choir-heartbeats",
+    "menthol-cold",
+    "sea-otters-hands"
+  ]
+}

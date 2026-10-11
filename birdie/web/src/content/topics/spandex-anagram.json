@@ -1,0 +1,43 @@
+{
+  "id": "spandex-anagram",
+  "title": "Spandex is an anagram",
+  "category": "Fashion",
+  "hook": "Rearrange the letters of spandex and you get the word that describes it.",
+  "peek": "Spandex, the stretchy fibre in leggings, swimsuits and most of today's jeans, was invented at DuPont in 1958. Its name is an anagram of \"expands\", which is exactly what it does before snapping back into shape.",
+  "lede": "The fibre that gives leggings, swimwear and stretch jeans their give has a name that hides a little word game. Spandex is an anagram of \"expands\". It was invented in 1958 by the chemist Joseph Shivers at DuPont, which sold it under the brand name Lycra. Outside North America it usually goes by a third name, elastane.",
+  "bullets": [
+    {
+      "opening": "Joseph Shivers at DuPont",
+      "linkId": null,
+      "text": "Shivers spent years at DuPont's laboratory in Waynesboro, Virginia, trying to make a synthetic fibre that could replace rubber in women's girdles. In 1958 he succeeded with a fibre first known inside the company as Fiber K."
+    },
+    {
+      "opening": "The Lycra brand",
+      "linkId": null,
+      "text": "DuPont gave the fibre the trade name Lycra and began selling it around 1960. Lighter and stronger than rubber thread, it was soon used in foundation garments, then swimsuits and sportswear."
+    },
+    {
+      "opening": "Stretching several times over",
+      "linkId": null,
+      "text": "Spandex can stretch to several times its resting length and still spring back. Its long molecules mix stiff sections with flexible, coiled ones that straighten under a pull and recoil when it lets go."
+    },
+    {
+      "opening": "A few percent in jeans",
+      "linkId": null,
+      "text": "Spandex is rarely used on its own. Most clothes blend in a small amount, often just 1 to 5 percent, with cotton or other fibres. That small share is enough to make stretch jeans and T-shirts hold their shape."
+    }
+  ],
+  "tags": [
+    "names",
+    "fashion",
+    "inventors",
+    "fabrics"
+  ],
+  "related": [
+    "nylon-stockings",
+    "gore-tex",
+    "lzr-racer-suit",
+    "teflon",
+    "apollo-playtex-suits"
+  ]
+}

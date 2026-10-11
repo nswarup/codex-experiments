@@ -4878,5 +4878,65 @@
   "id": "laughing-together",
   "title": "We laugh far more with others",
   "category": "Health"
+ },
+ {
+  "id": "melanopsin",
+  "title": "The eye's hidden light sensor",
+  "category": "Health"
+ },
+ {
+  "id": "dive-reflex",
+  "title": "The dive reflex",
+  "category": "Health"
+ },
+ {
+  "id": "ten-thousand-steps",
+  "title": "Where 10,000 steps came from",
+  "category": "Health"
+ },
+ {
+  "id": "human-echolocation",
+  "title": "Humans who see with sound",
+  "category": "Health"
+ },
+ {
+  "id": "recorded-voice",
+  "title": "Why your recorded voice sounds odd",
+  "category": "Health"
+ },
+ {
+  "id": "stratton-goggles",
+  "title": "Stratton's upside-down glasses",
+  "category": "Health"
+ },
+ {
+  "id": "afternoon-dip",
+  "title": "The afternoon dip",
+  "category": "Health"
+ },
+ {
+  "id": "little-black-dress",
+  "title": "The little black dress",
+  "category": "Fashion"
+ },
+ {
+  "id": "bikini-name",
+  "title": "How the bikini got its name",
+  "category": "Fashion"
+ },
+ {
+  "id": "chuck-taylor",
+  "title": "Who Chuck Taylor was",
+  "category": "Fashion"
+ },
+ {
+  "id": "nylon-stockings",
+  "title": "The day nylons went on sale",
+  "category": "Fashion"
+ },
+ {
+  "id": "spandex-anagram",
+  "title": "Spandex is an anagram",
+  "category": "Fashion"
  }
 ]

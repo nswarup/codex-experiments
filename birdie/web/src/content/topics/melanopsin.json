@@ -1,0 +1,49 @@
+{
+  "id": "melanopsin",
+  "title": "The eye's hidden light sensor",
+  "category": "Health",
+  "hook": "A third kind of light sensor in your eye does nothing for sight at all.",
+  "peek": "Rods and cones let us see, but a small set of eye cells has a different job. Using a pigment called melanopsin, they tell the body clock whether it is day or night, and they keep working in some people who cannot see.",
+  "lede": "For more than a century, textbooks said the eye senses light with two kinds of cell: rods and cones. Around 2002, researchers confirmed a third. A small group of cells in the retina carries its own light-sensitive pigment, melanopsin. These cells add almost nothing to the picture we see. Their job is to report how bright the world is, so the body clock knows whether it is day.",
+  "bullets": [
+    {
+      "opening": "Mice without rods or cones",
+      "linkId": null,
+      "text": "In the late 1990s, Russell Foster's team bred mice whose rods and cones did not work. The mice were blind to images, yet their body clocks still shifted with light and dark. Something else in the eye had to be sensing light."
+    },
+    {
+      "opening": "Melanopsin's frog skin origins",
+      "linkId": null,
+      "text": "Ignacio Provencio first found melanopsin in 1998 in the skin of African clawed frogs, where it helps the skin darken. Soon after, his team found the same pigment in a few cells of the mammal retina."
+    },
+    {
+      "opening": "The 2002 Brown University study",
+      "linkId": null,
+      "text": "David Berson and colleagues at Brown University showed in 2002 that these retinal cells respond to light on their own. They make up only about 1 to 2 percent of the retina's output cells and send their signals straight to the brain's master clock."
+    },
+    {
+      "opening": "Sensitivity to blue light",
+      "linkId": null,
+      "text": "Melanopsin responds most strongly to blue light, around 480 nanometres, which is plentiful in daylight sky. That is why bright, bluish light in the evening can push the body clock later, and why these cells also control how much the pupil shrinks."
+    },
+    {
+      "opening": "Light sensing in blind people",
+      "linkId": null,
+      "text": "Some people who have lost all sight from rods and cones still have body clocks that follow the sun and pupils that react to blue light. In a 2007 study, one such woman even reported a vague sense of brightness."
+    }
+  ],
+  "tags": [
+    "light",
+    "perception",
+    "time",
+    "sleep"
+  ],
+  "related": [
+    "larks-and-owls",
+    "jet-lag-east",
+    "siffre-cave",
+    "blind-spot",
+    "afternoon-dip",
+    "segmented-sleep"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "bikini-name",
+  "title": "How the bikini got its name",
+  "category": "Fashion",
+  "hook": "The bikini was named after a Pacific atoll that was in every newspaper.",
+  "peek": "In July 1946 a Paris engineer named Louis Réard launched a tiny two-piece swimsuit and named it after Bikini Atoll, which had just been in the headlines. Reportedly no regular model would wear it, so he hired a dancer from a Paris casino.",
+  "lede": "In the summer of 1946, the Pacific atoll of Bikini was in the news after American weapons tests began there. A few days later, on 5 July, a Paris engineer named Louis Réard unveiled a very small two-piece swimsuit at a public pool. He called it the bikini, hoping the name would cause just as much of a stir.",
+  "bullets": [
+    {
+      "opening": "Louis Réard",
+      "linkId": null,
+      "text": "Réard was a car engineer who had taken over his mother's lingerie shop in Paris. He was not the first to make a two-piece swimsuit, but he made his far smaller than the others and named it for maximum attention."
+    },
+    {
+      "opening": "Micheline Bernardini",
+      "linkId": null,
+      "text": "Reportedly, regular fashion models refused to wear something so revealing. Réard hired Micheline Bernardini, a dancer at the Casino de Paris, to show it at the Piscine Molitor, a well-known Paris swimming pool."
+    },
+    {
+      "opening": "Jacques Heim's Atome",
+      "linkId": null,
+      "text": "Weeks earlier, the designer Jacques Heim had launched a two-piece called the Atome, sold as the world's smallest swimsuit. Réard answered by advertising the bikini as smaller than the smallest swimsuit in the world."
+    },
+    {
+      "opening": "The slow road to beaches",
+      "linkId": null,
+      "text": "The bikini caught on slowly. Several European countries discouraged or banned it on beaches for years, and it did not become common in the United States until the 1960s, helped along by films and a hit pop song in 1960."
+    }
+  ],
+  "tags": [
+    "names",
+    "fashion",
+    "etymology",
+    "history-of-things"
+  ],
+  "related": [
+    "handkerchief-bra",
+    "little-black-dress",
+    "lzr-racer-suit",
+    "white-wedding-dress",
+    "zipper-name"
+  ]
+}
