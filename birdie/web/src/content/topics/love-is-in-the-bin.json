@@ -1,0 +1,43 @@
+{
+  "id": "love-is-in-the-bin",
+  "title": "Banksy's self-shredding painting",
+  "category": "Art",
+  "hook": "A Banksy painting shredded itself seconds after selling for over a million pounds.",
+  "peek": "In 2018, moments after Banksy's Girl with Balloon sold at Sotheby's in London, a shredder hidden in its frame pulled the canvas halfway through. The half-shredded work was renamed and later sold again for many times the price.",
+  "lede": "On 5 October 2018, a framed Banksy painting of Girl with Balloon sold at Sotheby's in London for just over £1 million including fees. As the hammer fell, an alarm sounded and the canvas began sliding down through the bottom of the ornate gilt frame, coming out in strips. A shredder had been hidden inside the frame, and it stopped about halfway.",
+  "bullets": [
+    {
+      "opening": "Girl with Balloon",
+      "linkId": null,
+      "text": "The image began as a stencil Banksy painted on a wall in London's South Bank in 2002: a small girl reaching for a red, heart-shaped balloon drifting away from her. It became one of his best-known pictures."
+    },
+    {
+      "opening": "The shredder in the frame",
+      "linkId": null,
+      "text": "Banksy later posted a video showing the mechanism being built into the frame years earlier. He said it was meant to shred the whole canvas, and that it had worked every time in rehearsals."
+    },
+    {
+      "opening": "Renamed Love is in the Bin",
+      "linkId": null,
+      "text": "The buyer, a European collector, decided to keep the work. Banksy's authentication office gave it a new title, Love is in the Bin, treating the shredding as part of a new artwork."
+    },
+    {
+      "opening": "The 2021 resale",
+      "linkId": null,
+      "text": "Three years later, the half-shredded canvas came back to Sotheby's and sold for about £18.6 million, roughly eighteen times its 2018 price and a record for Banksy at auction at the time."
+    }
+  ],
+  "tags": [
+    "street-art",
+    "auctions",
+    "pranks",
+    "records"
+  ],
+  "related": [
+    "mondrian-upside-down",
+    "mona-lisa-theft",
+    "vantablack-feud",
+    "magritte-pipe",
+    "klein-blue"
+  ]
+}

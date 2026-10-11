@@ -1,0 +1,43 @@
+{
+  "id": "tetrachromats",
+  "title": "People with an extra colour channel",
+  "category": "Health",
+  "hook": "Some women carry a fourth kind of colour sensor in their eyes.",
+  "peek": "Most people see colour with three kinds of cone cell. Some women carry the genes for a fourth. Usually it makes no visible difference, but at least one woman in a careful study could tell apart colours that look identical to everyone else.",
+  "lede": "Human colour vision usually rests on three types of cone cell, tuned roughly to short, medium and long wavelengths of light. The brain compares their signals to build every colour we see. But some people, almost all of them women, carry a fourth type of cone. Researchers spent decades looking for someone who actually uses it.",
+  "bullets": [
+    {
+      "opening": "Cone genes on the X chromosome",
+      "linkId": null,
+      "text": "The genes for the red and green cone pigments sit on the X chromosome. Women have two X chromosomes, so a woman can carry a normal version on one and a slightly shifted version on the other, giving her four cone types instead of three."
+    },
+    {
+      "opening": "Mothers of colour-blind sons",
+      "linkId": null,
+      "text": "Shifted pigment genes are what cause the common forms of red-green colour blindness in men. So women whose sons or fathers are colour blind are more likely to carry a fourth cone, which made them the natural place for researchers to look."
+    },
+    {
+      "opening": "Gabriele Jordan's 2010 study",
+      "linkId": null,
+      "text": "The vision scientist Gabriele Jordan, at Newcastle University, tested 24 women carrying the extra cone. Only one, known in the paper as cDa29, could reliably tell apart mixtures of coloured light that looked the same to everyone else."
+    },
+    {
+      "opening": "Carrying versus using a fourth cone",
+      "linkId": null,
+      "text": "Having four cone types does not guarantee seeing more colours. The brain also has to wire their signals separately. Estimates of how many women carry a fourth cone vary widely, but functional tetrachromats appear to be rare."
+    }
+  ],
+  "tags": [
+    "color",
+    "perception",
+    "vision",
+    "genetics"
+  ],
+  "related": [
+    "the-dress",
+    "blind-spot",
+    "melanopsin",
+    "supertasters",
+    "lilac-chaser"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "tickle-yourself",
+  "title": "Why you can't tickle yourself",
+  "category": "Health",
+  "hook": "Your brain predicts your own touch so well that it cancels the tickle.",
+  "peek": "Try as you might, your own fingers cannot tickle you. The reason is prediction: your brain forecasts exactly what your hand is about to do and dials down the feeling before it arrives.",
+  "lede": "Being tickled by someone else can be unbearable, yet the same movement made by your own hand feels like almost nothing. The difference is in the brain. Whenever you move, it makes a copy of the command and predicts what you should feel. When the touch matches the prediction, the sensation is turned down, and a tickle needs an element of surprise.",
+  "bullets": [
+    {
+      "opening": "The tickling robot",
+      "linkId": null,
+      "text": "In the late 1990s Sarah-Jayne Blakemore, Daniel Wolpert and Chris Frith had people move a robot arm that brushed their own palm. A self-made touch felt less ticklish than one from the experimenter, and adding a delay of a fraction of a second made it feel ticklish again."
+    },
+    {
+      "opening": "The cerebellum's forecast",
+      "linkId": null,
+      "text": "Brain scans in the same research pointed to the cerebellum, at the back of the brain, as the place that compares the expected touch with the real one. A close match quiets the response to the touch."
+    },
+    {
+      "opening": "Two kinds of tickle",
+      "linkId": null,
+      "text": "Researchers separate a light, itchy tickle, like a feather on the skin, from the deep, laughter-making kind. People can give themselves a faint version of the first, but almost never the second."
+    },
+    {
+      "opening": "Pressing back harder",
+      "linkId": null,
+      "text": "The same damping explains a curious finding: when two people take turns pressing on each other's fingers and try to match force, each feels their own push as weaker, so the pressure keeps creeping up."
+    }
+  ],
+  "tags": [
+    "perception",
+    "touch",
+    "brain",
+    "laughter"
+  ],
+  "related": [
+    "proprioception",
+    "rubber-hand-illusion",
+    "cutaneous-rabbit",
+    "laughing-together",
+    "recorded-voice"
+  ]
+}

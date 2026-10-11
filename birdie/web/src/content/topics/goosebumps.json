@@ -1,0 +1,48 @@
+{
+  "id": "goosebumps",
+  "title": "Goosebumps",
+  "category": "Health",
+  "hook": "Goosebumps come from tiny muscles built to fluff up the fur we no longer have.",
+  "peek": "Goosebumps are a leftover from our furrier ancestors. Each hair has a tiny muscle that can pull it upright, the same trick a cat uses when it puffs up. In us, all it raises is little bumps.",
+  "lede": "Every hair on your body has its own tiny muscle, called an arrector pili. When you are cold, startled or deeply moved, your nervous system tells these muscles to contract. Each one pulls its hair upright and dimples the skin around it, making goosebumps. In a furry animal the same reflex fluffs up the coat. On mostly bare human skin, it does very little.",
+  "bullets": [
+    {
+      "opening": "Arrector pili muscles",
+      "linkId": null,
+      "text": "These muscles are smooth muscle, the kind you cannot control at will. They are run by the sympathetic nervous system, the branch that also handles the fight-or-flight response, which is why fear and cold set them off alike."
+    },
+    {
+      "opening": "Trapping a layer of air",
+      "linkId": null,
+      "text": "For a furry mammal, raised hair traps a thicker layer of still air next to the skin, which keeps in warmth. It also makes an animal look larger, which is why a frightened cat's tail bristles."
+    },
+    {
+      "opening": "Chills from music",
+      "linkId": null,
+      "text": "Many people get goosebumps from a soaring chorus or a sudden key change. Brain studies link these musical chills to the reward system, the same circuits that respond to good food."
+    },
+    {
+      "opening": "The goose in goosebumps",
+      "linkId": null,
+      "text": "English names the effect after the skin of a plucked goose. Many other languages choose a different bird: Spanish says piel de gallina and Japanese torihada, both pointing to chicken skin."
+    },
+    {
+      "opening": "Hair growth in mice",
+      "linkId": null,
+      "text": "A 2020 Harvard study in mice found that the nerve which raises goosebumps also nudges hair follicle stem cells to grow. In long cold spells, the reflex may help a mammal grow a thicker coat."
+    }
+  ],
+  "tags": [
+    "reflexes",
+    "evolution",
+    "names",
+    "music"
+  ],
+  "related": [
+    "contagious-yawning",
+    "pruney-fingers",
+    "dive-reflex",
+    "mozart-effect",
+    "baby-bones"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "johnston-typeface",
+  "title": "The London Underground's own typeface",
+  "category": "Art",
+  "hook": "The letters on London's Tube signs were designed by a calligrapher in 1916.",
+  "peek": "In 1916 a calligrapher named Edward Johnston gave the London Underground its own clean, simple alphabet. Updated versions of his letters are still on Tube signs and maps today, more than a century later.",
+  "lede": "In 1913, Frank Pick, who ran publicity for the Underground, asked the calligrapher Edward Johnston to design lettering that would be easy to read at a glance and clearly belong to the network. Johnston delivered his alphabet in 1916. It was one of the first modern sans-serif typefaces, and updated versions of it still appear on Tube signs more than a century later.",
+  "bullets": [
+    {
+      "opening": "Edward Johnston, calligrapher",
+      "linkId": null,
+      "text": "Johnston was best known for reviving the art of writing with a broad pen. He based the proportions of his Underground letters on classical Roman capitals, which gives them a calm, even look."
+    },
+    {
+      "opening": "The diamond dots",
+      "linkId": null,
+      "text": "One detail gives the typeface away: the dots on the lower-case i and j are small diamonds, echoing the square mark a broad pen makes. The full stop is a diamond too."
+    },
+    {
+      "opening": "The Underground roundel",
+      "linkId": null,
+      "text": "Johnston also redrew the Underground's red circle and blue bar symbol around 1919, giving it the proportions that the familiar roundel still follows."
+    },
+    {
+      "opening": "New Johnston and Johnston100",
+      "linkId": null,
+      "text": "In the late 1970s Eiichi Kono redrew the typeface as New Johnston, with extra weights for modern printing. For the centenary in 2016, Monotype released Johnston100, bringing back some of the original's character."
+    }
+  ],
+  "tags": [
+    "typography",
+    "design",
+    "transport",
+    "history-of-things"
+  ],
+  "related": [
+    "helvetica",
+    "comic-sans",
+    "futura-moon-plaque",
+    "i-love-ny",
+    "tower-of-london-ravens"
+  ]
+}

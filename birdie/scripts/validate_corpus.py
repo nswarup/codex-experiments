@@ -138,6 +138,9 @@ def main(argv):
                 err("related includes itself")
         blob = " ".join([hook, t["peek"], t["lede"]] + [b.get("opening", "") + " " + b.get("text", "") for b in bullets]).lower()
         for w in BANNED_WORDS:
+            # A flagged word that is part of the subject's own name (Gore-Tex, Bugs Bunny) is fine.
+            if re.search(r"\b" + re.escape(w) + r"\b", t["title"].lower()):
+                continue
             if re.search(r"\b" + re.escape(w) + r"\b", blob):
                 warn(f"contains flagged word {w!r}")
         if "—" in blob:

@@ -1,0 +1,43 @@
+{
+  "id": "kintsugi",
+  "title": "Kintsugi, mending with gold",
+  "category": "Art",
+  "hook": "In Japan, a broken bowl can be mended with gold so the cracks shine.",
+  "peek": "Kintsugi is the Japanese craft of repairing broken pottery with lacquer and powdered gold. Instead of hiding the damage, it traces every crack in a bright line, so the repair becomes part of the bowl's story.",
+  "lede": "Most repairs try to be invisible. Kintsugi, which means \"golden joinery\", does the opposite. Japanese craftspeople glue the broken pieces of a bowl back together with lacquer, then dust the seams with powdered gold. The finished piece shows exactly where it broke, and owners often value the mended bowl more than they did the perfect one.",
+  "bullets": [
+    {
+      "opening": "Urushi lacquer",
+      "linkId": null,
+      "text": "The glue is urushi, a natural lacquer made from the sap of a tree native to East Asia. It hardens slowly in warm, humid air, so a single repair can take weeks of thin layers, drying and polishing before the gold goes on."
+    },
+    {
+      "opening": "The shogun's tea bowl",
+      "linkId": null,
+      "text": "The story goes that in the 15th century the shogun Ashikaga Yoshimasa sent a cracked Chinese tea bowl away for repair, and it came back held together with clumsy metal staples. Japanese craftsmen then looked for a more beautiful fix. Historians treat the tale as legend."
+    },
+    {
+      "opening": "The tea ceremony",
+      "linkId": null,
+      "text": "Kintsugi grew up alongside the Japanese tea ceremony, where a well-used bowl with a history was prized. A golden repair added to that history rather than spoiling it."
+    },
+    {
+      "opening": "Wabi-sabi",
+      "linkId": null,
+      "text": "The craft is often linked to wabi-sabi, the Japanese taste for things that are simple, worn and imperfect. A mended crack fits that idea: the object is not ruined, it has simply lived a little."
+    }
+  ],
+  "tags": [
+    "design",
+    "history-of-things",
+    "japan",
+    "craft"
+  ],
+  "related": [
+    "great-wave",
+    "painted-greek-statues",
+    "ultramarine",
+    "klein-blue",
+    "ikea-effect"
+  ]
+}

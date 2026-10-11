@@ -1,0 +1,43 @@
+{
+  "id": "chupa-chups-dali",
+  "title": "Salvador Dalí designed the Chupa Chups logo",
+  "category": "Art",
+  "hook": "The yellow daisy on every Chupa Chups lollipop was drawn by Salvador Dalí.",
+  "peek": "The bright daisy logo on Chupa Chups lollipops was designed in 1969 by Salvador Dalí, the surrealist famous for melting clocks. He also suggested putting it on top of the wrapper, where it would never be hidden.",
+  "lede": "Salvador Dalí is best known for melting clocks and long-legged elephants, but one of his most widely seen works fits in a child's hand. In 1969 the Spanish sweet maker Enric Bernat asked him to improve the look of his Chupa Chups lollipops. Dalí came back with the yellow and red daisy that, lightly updated, still wraps the sweets today.",
+  "bullets": [
+    {
+      "opening": "Enric Bernat's lollipop",
+      "linkId": null,
+      "text": "Bernat founded Chupa Chups in Barcelona in 1958. His idea was simple: a round sweet on a stick, so children could eat it without sticky fingers. The name comes from the Spanish verb chupar, to suck."
+    },
+    {
+      "opening": "A logo in an hour",
+      "linkId": null,
+      "text": "The story usually told is that Dalí sketched the design over coffee with Bernat in less than an hour. The details vary between tellings, but the daisy itself is Dalí's work."
+    },
+    {
+      "opening": "On top of the wrapper",
+      "linkId": null,
+      "text": "Dalí's practical touch was where the logo went. He suggested printing it on top of the twisted wrapper rather than on the side, so the whole daisy shows from any angle when the lollipop sits in a display."
+    },
+    {
+      "opening": "The daisy today",
+      "linkId": null,
+      "text": "The logo has been tidied up over the years, but the daisy shape and the yellow and red colours have stayed. It is one of the few pieces of commercial design by a major surrealist still in daily use."
+    }
+  ],
+  "tags": [
+    "design",
+    "logos",
+    "surrealism",
+    "food-history"
+  ],
+  "related": [
+    "i-love-ny",
+    "nike-swoosh",
+    "helvetica",
+    "magritte-pipe",
+    "comic-sans"
+  ]
+}

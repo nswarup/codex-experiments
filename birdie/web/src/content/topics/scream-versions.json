@@ -1,0 +1,43 @@
+{
+  "id": "scream-versions",
+  "title": "There are several Screams",
+  "category": "Art",
+  "hook": "Edvard Munch made The Scream several times, in paint, pastel, crayon and print.",
+  "peek": "There is no single Scream. Edvard Munch made the image again and again: a painting, a crayon drawing, two pastels, a later painted version and a lithograph that was printed many times. Two museums in Oslo hold most of them.",
+  "lede": "Most people picture The Scream as one painting in one museum. In fact Edvard Munch returned to the image several times. There is a painted version from 1893, a crayon version from the same year, two pastels, a lithograph from 1895 that could be printed in many copies, and a second painted version usually dated to around 1910. Each one is a genuine Scream.",
+  "bullets": [
+    {
+      "opening": "The 1893 painting",
+      "linkId": null,
+      "text": "The best known version, in tempera and crayon on cardboard, belongs to Norway's National Museum in Oslo. It is the one most often reproduced on posters and mugs."
+    },
+    {
+      "opening": "The 1895 pastel",
+      "linkId": null,
+      "text": "One pastel stayed in private hands for over a century. Its frame carries a poem Munch wrote about the scene. In 2012 it sold at auction in New York for about 120 million dollars, then a record for a work of art."
+    },
+    {
+      "opening": "The Scream lithograph",
+      "linkId": null,
+      "text": "In 1895 Munch drew the image on a lithographic stone, so it could be printed in black and white. That print spread the picture far more widely than any single painting could."
+    },
+    {
+      "opening": "The Scream of Nature",
+      "linkId": null,
+      "text": "Munch's original German title was Der Schrei der Natur, The Scream of Nature. He described walking at sunset and sensing a great scream passing through nature, so the figure is often read as hearing the scream rather than making it."
+    }
+  ],
+  "tags": [
+    "paintings",
+    "myths-busted",
+    "printmaking",
+    "expressionism"
+  ],
+  "related": [
+    "whistlers-mother",
+    "american-gothic",
+    "mona-lisa-theft",
+    "hilma-af-klint",
+    "girl-pearl-earring"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "lucid-dreaming-signals",
+  "title": "Signalling from inside a dream",
+  "category": "Health",
+  "hook": "Sleepers proved lucid dreams are real by waving their eyes from inside one.",
+  "peek": "For years, scientists doubted that anyone could know they were dreaming while still asleep. Then a dreamer in a sleep lab moved his eyes left and right in a pattern agreed beforehand, and the machines showed he was in deep REM sleep.",
+  "lede": "A lucid dream is one where you realise you are dreaming. For a long time, scientists treated this as a story people told after waking. The trouble was proof. In the 1970s researchers found a way in: during dreaming sleep the body is almost entirely still, but the eyes are free to move. So a dreamer could signal with them.",
+  "bullets": [
+    {
+      "opening": "Alan Worsley's eye signals",
+      "linkId": null,
+      "text": "In 1975 the psychologist Keith Hearne, at the University of Hull, recorded Alan Worsley, an experienced lucid dreamer. Worsley had agreed to sweep his eyes left and right when he became lucid, and the sleep monitors showed the signals arriving during REM sleep."
+    },
+    {
+      "opening": "Stephen LaBerge at Stanford",
+      "linkId": null,
+      "text": "Working separately in California, Stephen LaBerge ran similar experiments around 1980 and published them in 1981. His dreamers made agreed eye movements while their brain readings confirmed they were asleep, and his work brought the method to a much wider audience."
+    },
+    {
+      "opening": "Why the eyes still move",
+      "linkId": null,
+      "text": "During REM sleep most muscles are switched off, which keeps us from acting out our dreams. The eye muscles and breathing are exceptions. That small gap in the body's stillness is what makes signalling from a dream possible."
+    },
+    {
+      "opening": "Answering sums while dreaming",
+      "linkId": null,
+      "text": "In 2021 teams in the United States, France, Germany and the Netherlands went further. They asked lucid dreamers simple maths questions through speech or flashing lights, and several dreamers answered correctly with eye movements, without waking up."
+    }
+  ],
+  "tags": [
+    "sleep",
+    "dreams",
+    "experiments",
+    "communication"
+  ],
+  "related": [
+    "black-and-white-dreams",
+    "hypnic-jerk",
+    "segmented-sleep",
+    "tetris-effect",
+    "nasa-nap"
+  ]
+}

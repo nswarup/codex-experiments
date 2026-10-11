@@ -1,0 +1,43 @@
+{
+  "id": "sistine-standing",
+  "title": "Michelangelo painted the Sistine ceiling standing up",
+  "category": "Art",
+  "hook": "Michelangelo did not lie on his back to paint the Sistine Chapel ceiling.",
+  "peek": "The famous image of Michelangelo lying on his back under the Sistine ceiling is a myth. He stood on a wooden platform of his own design, head tipped back for four years, and wrote a funny poem about how much it hurt.",
+  "lede": "Between 1508 and 1512, Michelangelo painted the ceiling of the Sistine Chapel for Pope Julius II: hundreds of figures across hundreds of square metres of curved plaster. Popular retellings, and the 1965 film The Agony and the Ecstasy, show him lying flat on his back. In fact he worked standing up on a scaffold, arm raised and head craned back for hours at a time.",
+  "bullets": [
+    {
+      "opening": "Michelangelo's flying scaffold",
+      "linkId": null,
+      "text": "He rejected a design that would have hung from ropes through holes in the ceiling. Instead his platform rested on wooden brackets set into the walls near the tops of the windows, leaving the chapel floor free for services below."
+    },
+    {
+      "opening": "The poem to Giovanni da Pistoia",
+      "linkId": null,
+      "text": "In a comic sonnet to a friend, Michelangelo grumbled that his beard pointed at heaven, his neck was bent back onto his spine and paint dripped onto his face. Beside the verses he sketched himself standing, reaching up to the ceiling."
+    },
+    {
+      "opening": "Painting in fresco",
+      "linkId": null,
+      "text": "Fresco is painted onto wet plaster, so he could only work on a patch that would dry in a day. Each section, called a giornata, had to be planned and finished in one go, high above the floor."
+    },
+    {
+      "opening": "Vasari's account",
+      "linkId": null,
+      "text": "His biographer Giorgio Vasari wrote that after the ceiling, Michelangelo's eyes were so used to looking up that for months he could only read letters by holding them above his head."
+    }
+  ],
+  "tags": [
+    "myths-busted",
+    "renaissance",
+    "painting",
+    "inventors"
+  ],
+  "related": [
+    "david-block",
+    "ultramarine",
+    "mona-lisa-theft",
+    "bob-ross",
+    "paint-tube"
+  ]
+}

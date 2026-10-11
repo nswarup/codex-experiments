@@ -1,0 +1,43 @@
+{
+  "id": "american-gothic",
+  "title": "American Gothic's models",
+  "category": "Art",
+  "hook": "The stern farm couple in American Gothic were a painter's sister and his dentist.",
+  "peek": "The grim pair in Grant Wood's American Gothic were posed by his sister Nan and his dentist, Dr Byron McKeeby. And despite how most people see them, Wood and his sister said they were a father and daughter.",
+  "lede": "In 1930 Grant Wood saw a small white farmhouse in Eldon, Iowa, with a pointed Gothic-style window, and imagined the people who might live there. For the painting he asked two people he knew to pose: his sister, Nan Wood Graham, and his dentist, Dr Byron McKeeby. Most viewers read them as husband and wife, but Wood and Nan both said she was his daughter.",
+  "bullets": [
+    {
+      "opening": "The Dibble House",
+      "linkId": null,
+      "text": "The house that inspired the picture still stands in Eldon. Its style, with a fancy church-like window on a plain wooden farmhouse, is called Carpenter Gothic, which is where the painting gets its name."
+    },
+    {
+      "opening": "Posing separately",
+      "linkId": null,
+      "text": "Nan and McKeeby never stood side by side for the painting. Wood had them sit for him separately and joined them on the canvas, which is part of why they seem so stiff together."
+    },
+    {
+      "opening": "The pitchfork pattern",
+      "linkId": null,
+      "text": "The three prongs of the pitchfork are echoed across the picture: in the stitching on the man's overalls, in the window frame and in the lines of his shirt front."
+    },
+    {
+      "opening": "The Art Institute prize",
+      "linkId": null,
+      "text": "Wood entered the painting in a competition at the Art Institute of Chicago in 1930. It won a bronze medal and a cash prize, the museum bought it, and it has hung there ever since."
+    }
+  ],
+  "tags": [
+    "painting",
+    "models",
+    "myths-busted",
+    "americana"
+  ],
+  "related": [
+    "whistlers-mother",
+    "girl-pearl-earring",
+    "arnolfini-mirror",
+    "night-watch",
+    "mondrian-upside-down"
+  ]
+}

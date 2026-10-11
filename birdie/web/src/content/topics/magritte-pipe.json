@@ -1,0 +1,43 @@
+{
+  "id": "magritte-pipe",
+  "title": "This is not a pipe",
+  "category": "Art",
+  "hook": "Magritte painted a pipe, wrote that it was not a pipe, and he was right.",
+  "peek": "In 1929 René Magritte painted a plain tobacco pipe and wrote underneath, in neat school handwriting, \"This is not a pipe\". It sounds like a riddle, but it is simply true: it is a picture of a pipe.",
+  "lede": "René Magritte's painting looks like an advertisement: a single brown pipe on a plain background. Beneath it he wrote, in careful French, \"Ceci n'est pas une pipe\", or \"This is not a pipe\". People have puzzled over it ever since, but the caption is accurate. You cannot pack it with tobacco or light it. It is paint on canvas, an image of a pipe.",
+  "bullets": [
+    {
+      "opening": "The Treachery of Images",
+      "linkId": null,
+      "text": "The painting's real title is La Trahison des images, The Treachery of Images. Magritte, a Belgian surrealist, made it in 1929, and it now hangs in the Los Angeles County Museum of Art."
+    },
+    {
+      "opening": "Magritte's own explanation",
+      "linkId": null,
+      "text": "Magritte later said people had scolded him for the caption. His answer was that nobody could actually fill the pipe with tobacco, so if he had written \"This is a pipe\" he would have been lying."
+    },
+    {
+      "opening": "Words and pictures",
+      "linkId": null,
+      "text": "The painting plays with the gap between things, pictures of things and the words we use for them. Magritte made other works on the same idea, labelling painted objects with names that did not match them."
+    },
+    {
+      "opening": "Foucault's essay",
+      "linkId": null,
+      "text": "The French philosopher Michel Foucault wrote an essay about the painting in 1968, later expanded into a short book also called This Is Not a Pipe, after the pair had exchanged letters about it."
+    }
+  ],
+  "tags": [
+    "surrealism",
+    "paintings",
+    "words-and-images",
+    "illusions"
+  ],
+  "related": [
+    "mondrian-upside-down",
+    "arnolfini-mirror",
+    "girl-pearl-earring",
+    "semantic-satiation",
+    "pareidolia"
+  ]
+}

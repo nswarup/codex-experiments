@@ -1,0 +1,43 @@
+{
+  "id": "tongue-map-myth",
+  "title": "The tongue map myth",
+  "category": "Health",
+  "hook": "Every part of your tongue can taste sweet, salty, sour and bitter.",
+  "peek": "Generations of schoolchildren learned that sweet is tasted at the tip and bitter at the back. The diagram came from a misread German paper of 1901. Taste buds across the tongue can detect every basic taste.",
+  "lede": "The tongue map was a classroom staple for most of the 20th century: sweet at the tip, salty and sour along the sides, bitter at the back. You can test it in a minute with a pinch of salt on the tip of your tongue. The map is wrong. Every region with taste buds can pick up every basic taste.",
+  "bullets": [
+    {
+      "opening": "David Hänig's 1901 paper",
+      "linkId": null,
+      "text": "The German scientist David Hänig measured how sensitive different parts of the tongue were to each taste. He found small differences around the edges, with some areas needing a slightly stronger solution before a taste registered. He never claimed tastes were confined to zones."
+    },
+    {
+      "opening": "Edwin Boring's 1942 graph",
+      "linkId": null,
+      "text": "The Harvard psychologist Edwin Boring redrew Hänig's results in a 1942 history of psychology. His graph made small differences in sensitivity look like separate regions, and later textbooks turned that into the familiar map with its neat zones."
+    },
+    {
+      "opening": "Virginia Collings' 1974 retest",
+      "linkId": null,
+      "text": "The researcher Virginia Collings repeated the measurements in 1974. She confirmed that sensitivity varies a little across the tongue, but found that all the basic tastes can be detected wherever there are taste buds."
+    },
+    {
+      "opening": "Inside a single taste bud",
+      "linkId": null,
+      "text": "Each taste bud holds dozens of receptor cells, and together they respond to sweet, salty, sour, bitter and umami. Taste buds sit across the top, sides and back of the tongue, with fewer in the middle."
+    }
+  ],
+  "tags": [
+    "taste",
+    "myths-busted",
+    "perception",
+    "food-history"
+  ],
+  "related": [
+    "supertasters",
+    "umami",
+    "cilantro-gene",
+    "human-smell",
+    "learning-styles"
+  ]
+}

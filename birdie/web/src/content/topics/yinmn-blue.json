@@ -1,0 +1,43 @@
+{
+  "id": "yinmn-blue",
+  "title": "YInMn blue, the accidental blue of 2009",
+  "category": "Art",
+  "hook": "Chemists hunting for electronics materials found a brand new blue instead.",
+  "peek": "In 2009 a lab at Oregon State University heated a mix of oxides while looking for new electronic materials, and out came a vivid blue. YInMn blue was the first new inorganic blue pigment in about two centuries.",
+  "lede": "In 2009, Mas Subramanian's lab at Oregon State University was looking for new materials for electronics. A graduate student, Andrew Smith, heated a mix of yttrium, indium and manganese oxides to over 1,000 degrees Celsius. The powder that came out of the furnace was a strikingly bright blue. It turned out to be the first new inorganic blue pigment found since cobalt blue in 1802.",
+  "bullets": [
+    {
+      "opening": "The YInMn name",
+      "linkId": null,
+      "text": "The pigment is named after the chemical symbols of its ingredients: Y for yttrium, In for indium and Mn for manganese. Most people say it 'yin-min'."
+    },
+    {
+      "opening": "Why manganese turns blue",
+      "linkId": null,
+      "text": "Manganese usually gives black or brown colours. In this particular crystal structure, the way the manganese atoms sit makes the material absorb red and green light and reflect a pure, intense blue."
+    },
+    {
+      "opening": "Reflecting infrared heat",
+      "linkId": null,
+      "text": "YInMn blue also reflects a lot of infrared light, so surfaces painted with it stay cooler in the sun. That has made it interesting for roofs and coatings, not just for artists."
+    },
+    {
+      "opening": "Crayola's Bluetiful",
+      "linkId": null,
+      "text": "In 2017 Crayola released a crayon colour called Bluetiful, inspired by the discovery. The crayon does not contain the real pigment, which is still expensive, partly because indium is costly."
+    }
+  ],
+  "tags": [
+    "color",
+    "accidents",
+    "pigments",
+    "chemistry"
+  ],
+  "related": [
+    "ultramarine",
+    "klein-blue",
+    "vantablack-feud",
+    "perkin-mauve",
+    "tyndall-blue-sky"
+  ]
+}

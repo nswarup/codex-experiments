@@ -1,0 +1,43 @@
+{
+  "id": "comic-sans",
+  "title": "Comic Sans was made for a cartoon dog",
+  "category": "Art",
+  "hook": "The world's most mocked font began as speech bubbles for a cartoon dog.",
+  "peek": "In 1994 a Microsoft designer saw a cartoon dog speaking in stiff Times New Roman and thought it looked wrong. He drew a friendlier, comic-book style alphabet in a few days, and it ended up on computers everywhere.",
+  "lede": "In 1994, Vincent Connare, a typographer at Microsoft, was shown a test version of Microsoft Bob, a cheerful program for beginners. A cartoon dog called Rover gave tips in speech balloons set in Times New Roman, which looked formal and odd. Connare sketched a looser, hand-lettered alphabet based on comic books. That alphabet became Comic Sans.",
+  "bullets": [
+    {
+      "opening": "Watchmen and Dark Knight lettering",
+      "linkId": null,
+      "text": "Connare said he took inspiration from the hand lettering in comic books he had in his office, including Watchmen and The Dark Knight Returns. He drew the letters on screen rather than on paper, with no plan for them to be used widely."
+    },
+    {
+      "opening": "Too late for Microsoft Bob",
+      "linkId": null,
+      "text": "The font was not finished in time to ship with Bob. It appeared in Microsoft 3D Movie Maker and then in a Windows 95 add-on, and from there it spread onto school notices, menus and birthday cards around the world."
+    },
+    {
+      "opening": "The Ban Comic Sans campaign",
+      "linkId": null,
+      "text": "In 1999 two designers, Holly and David Combs, started a Ban Comic Sans campaign against the font being used for serious messages. It became a running joke among designers for years."
+    },
+    {
+      "opening": "Comic Sans and dyslexia",
+      "linkId": null,
+      "text": "Some readers with dyslexia say they find Comic Sans easier to read, because its letters look more distinct from one another. Research on whether it really helps is mixed."
+    }
+  ],
+  "tags": [
+    "design",
+    "typography",
+    "accidents",
+    "history-of-things"
+  ],
+  "related": [
+    "helvetica",
+    "johnston-typeface",
+    "futura-moon-plaque",
+    "windows-95-sound",
+    "kurita-emoji"
+  ]
+}

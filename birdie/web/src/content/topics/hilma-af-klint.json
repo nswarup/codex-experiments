@@ -1,0 +1,43 @@
+{
+  "id": "hilma-af-klint",
+  "title": "Hilma af Klint, abstract before abstraction",
+  "category": "Art",
+  "hook": "A Swedish painter made abstract art years before the men credited with inventing it.",
+  "peek": "From 1906, the Swedish painter Hilma af Klint made huge, bold abstract paintings, several years before Kandinsky. She showed them to almost no one and asked that they stay hidden for 20 years after her death.",
+  "lede": "Wassily Kandinsky is often named as the first abstract painter, for works from around 1910. Yet in 1906 a Stockholm painter named Hilma af Klint had already begun a series of large paintings full of spirals, petals, circles and pure colour. She kept them out of public view and left instructions that they should not be shown until at least 20 years after she died.",
+  "bullets": [
+    {
+      "opening": "A trained Stockholm painter",
+      "linkId": null,
+      "text": "Af Klint, born in 1862, studied at the Royal Academy of Fine Arts in Stockholm and earned a living painting landscapes, portraits and botanical drawings. Her abstract work ran alongside that conventional career."
+    },
+    {
+      "opening": "The Paintings for the Temple",
+      "linkId": null,
+      "text": "Her main abstract project, begun in 1906, grew to almost 200 works. It came out of her interest in spiritualism: she and four women friends, who called themselves The Five, held regular sessions seeking messages they believed came from higher beings."
+    },
+    {
+      "opening": "The Ten Largest",
+      "linkId": null,
+      "text": "In 1907 she painted The Ten Largest, a series about the stages of human life from childhood to old age. Each one is around three metres tall, painted in tempera on paper in pinks, oranges and lilacs."
+    },
+    {
+      "opening": "The Guggenheim show",
+      "linkId": null,
+      "text": "She died in 1944, and her paintings were barely seen until the 1980s. When the Guggenheim in New York gave her a major show in 2018, it became the most visited exhibition in the museum's history."
+    }
+  ],
+  "tags": [
+    "abstract-art",
+    "painters",
+    "myths-busted",
+    "paintings"
+  ],
+  "related": [
+    "mondrian-upside-down",
+    "klein-blue",
+    "scream-versions",
+    "whistlers-mother",
+    "magritte-pipe"
+  ]
+}

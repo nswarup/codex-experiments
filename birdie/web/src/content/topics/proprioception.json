@@ -1,0 +1,43 @@
+{
+  "id": "proprioception",
+  "title": "Proprioception, the sixth sense",
+  "category": "Health",
+  "hook": "You can touch your nose with your eyes shut thanks to a sense you rarely notice.",
+  "peek": "Close your eyes and you still know where your hands are. That is proprioception, a constant stream of signals from your muscles and joints. It works so quietly that most people never notice it until it is fooled.",
+  "lede": "We usually count five senses, but there is a sixth working all the time. Proprioception tells your brain where each part of your body is and how it is moving, without you needing to look. It is how you can climb stairs while reading, or touch your nose with your eyes closed. It is so constant that most people never notice it.",
+  "bullets": [
+    {
+      "opening": "Charles Sherrington's name for it",
+      "linkId": null,
+      "text": "The British scientist Charles Sherrington named proprioception in 1906, from the Latin for one's own. He described it as the body's sense of itself, separate from the senses that tell us about the outside world."
+    },
+    {
+      "opening": "Muscle spindles",
+      "linkId": null,
+      "text": "Most of the signals come from muscle spindles, tiny stretch sensors buried in our muscles, along with sensors in tendons and joints. They report how stretched each muscle is, and the brain turns that into a map of where the limbs are."
+    },
+    {
+      "opening": "The Pinocchio illusion",
+      "linkId": null,
+      "text": "Proprioception can be fooled. In 1988 the researcher James Lackner had people hold their nose while a vibrator buzzed the tendon of the arm muscle. The vibration made the arm feel as if it were moving outwards, and many felt their nose stretching to follow."
+    },
+    {
+      "opening": "Ian Waterman's story",
+      "linkId": null,
+      "text": "In 1971, at 19, Ian Waterman lost proprioception from the neck down after a rare nerve condition. He taught himself to walk again by watching his limbs and thinking through every movement. In the dark, he still cannot tell where his body is."
+    }
+  ],
+  "tags": [
+    "perception",
+    "senses",
+    "body",
+    "illusions"
+  ],
+  "related": [
+    "rubber-hand-illusion",
+    "tickle-yourself",
+    "cutaneous-rabbit",
+    "stratton-goggles",
+    "blind-spot"
+  ]
+}

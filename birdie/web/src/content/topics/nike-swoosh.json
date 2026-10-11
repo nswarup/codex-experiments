@@ -1,0 +1,43 @@
+{
+  "id": "nike-swoosh",
+  "title": "The $35 swoosh",
+  "category": "Art",
+  "hook": "Nike's swoosh was drawn by a student who was paid $35 for it.",
+  "peek": "In 1971 a graphic design student named Carolyn Davidson drew a simple tick-like mark for a small running-shoe company. She billed $35. The company became Nike, and years later it thanked her with a gold ring and shares.",
+  "lede": "In 1971 Carolyn Davidson was a graphic design student at Portland State University, where Phil Knight taught accounting. Knight's small shoe company needed a mark for the side of its new shoes, and he paid her $2 an hour to come up with one. After about 17 hours of work she billed $35, and the design she delivered became the Nike swoosh.",
+  "bullets": [
+    {
+      "opening": "Phil Knight's first reaction",
+      "linkId": null,
+      "text": "Knight was not thrilled. He is reported to have said he did not love it but that it might grow on him. With a deadline for the new shoes, the company went with it."
+    },
+    {
+      "opening": "Wings of the goddess Nike",
+      "linkId": null,
+      "text": "The company was named after Nike, the Greek goddess of victory. The swoosh is often read as a wing, or as a sign of movement and speed."
+    },
+    {
+      "opening": "The first swoosh shoes",
+      "linkId": null,
+      "text": "The mark appeared on Nike's first own-brand shoes in 1972. Davidson kept doing design work for the company for several years as it grew."
+    },
+    {
+      "opening": "The gold swoosh ring",
+      "linkId": null,
+      "text": "In 1983 Knight invited Davidson to a meeting and gave her a gold ring in the shape of the swoosh, set with a small diamond, along with an envelope of Nike shares."
+    }
+  ],
+  "tags": [
+    "design",
+    "logos",
+    "inventors",
+    "fashion"
+  ],
+  "related": [
+    "nike-waffle-iron",
+    "i-love-ny",
+    "chupa-chups-dali",
+    "helvetica",
+    "crocs-boat-shoe"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "black-and-white-dreams",
+  "title": "Dreaming in black and white",
+  "category": "Health",
+  "hook": "People raised on black-and-white TV are more likely to dream in greyscale.",
+  "peek": "In the 1950s, most people told researchers they dreamed in black and white. Today, most say they dream in colour. A 2008 study found that the generation who grew up with greyscale television still reports far more colourless dreams.",
+  "lede": "Do you dream in colour? The answer seems to depend partly on when you grew up. Surveys in the 1940s and 1950s found that most people said their dreams were mostly black and white. From the 1960s onwards, as colour film and television spread, studies found the opposite. A 2008 study in Scotland suggested the screens people watched as children may be part of the reason.",
+  "bullets": [
+    {
+      "opening": "Eva Murzyn's Dundee study",
+      "linkId": null,
+      "text": "The psychologist Eva Murzyn, at the University of Dundee, asked people to keep dream diaries. Volunteers over 55 reported that roughly a quarter of their dreams were in black and white. For volunteers under 25, the figure was only about 4%."
+    },
+    {
+      "opening": "Childhood television and film",
+      "linkId": null,
+      "text": "The difference lined up with media. The older group had spent their early years watching black-and-white television and films, while the younger group had grown up with colour. Researchers suspect early viewing habits shape how we picture, or remember, our dreams."
+    },
+    {
+      "opening": "Early surveys reported colour",
+      "linkId": null,
+      "text": "The philosopher Eric Schwitzgebel noticed that dream reports from before the age of cinema, in the early 1900s, rarely mentioned black-and-white dreams. The idea of greyscale dreaming seems to have risen and fallen with black-and-white film."
+    },
+    {
+      "opening": "Remembering dream colour",
+      "linkId": null,
+      "text": "Nobody can check a dream directly. Researchers only have what people recall after waking, and dream memories fade fast. So it is still unclear whether the dreams themselves changed or only the way people describe them."
+    }
+  ],
+  "tags": [
+    "dreams",
+    "color",
+    "sleep",
+    "memory"
+  ],
+  "related": [
+    "lucid-dreaming-signals",
+    "pot-black",
+    "tetris-effect",
+    "the-dress",
+    "segmented-sleep"
+  ]
+}

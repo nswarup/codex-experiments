@@ -1,0 +1,43 @@
+{
+  "id": "jet-lag-east",
+  "title": "Why flying east is harder",
+  "category": "Health",
+  "hook": "Jet lag is usually worse after flying east, because your body clock runs slow.",
+  "peek": "Most people's inner clock runs a little longer than 24 hours. That makes it easier to stretch a day, as you do flying west, than to squeeze one shorter, as you must flying east. Even baseball teams show the difference.",
+  "lede": "Fly from London to New York and you gain five hours: the day stretches. Fly back and you lose them: the day shrinks. Many travellers find the second trip far harder. The reason is that the human body clock does not run on exactly 24 hours. Left to itself, it runs a little long, which tilts the odds in favour of going west.",
+  "bullets": [
+    {
+      "opening": "The 24.2-hour body clock",
+      "linkId": null,
+      "text": "In a 1999 Harvard study where volunteers lived for weeks on tightly controlled schedules in dim light, researchers found the average human clock runs about 24 hours and 10 minutes. Each day, light nudges it back into line with the real day."
+    },
+    {
+      "opening": "Stretching versus shrinking a day",
+      "linkId": null,
+      "text": "Flying west, the body must delay its clock, which goes with its natural tendency to run late. Flying east, it must advance the clock and fall asleep earlier than it wants. That is harder, so recovery after eastward trips tends to take longer."
+    },
+    {
+      "opening": "Morning and evening light",
+      "linkId": null,
+      "text": "Light is the clock's main reset signal. Bright light in the morning tends to shift the clock earlier, while light in the evening shifts it later. This is why travel advice for eastward trips often stresses getting outside early in the day."
+    },
+    {
+      "opening": "Jet lag in Major League Baseball",
+      "linkId": null,
+      "text": "A 2017 study of 20 years of Major League Baseball games found that jet lag hurt team performance, and the effects showed up mainly after eastward travel. Home teams returning from the west suffered as well."
+    }
+  ],
+  "tags": [
+    "body-clock",
+    "travel",
+    "time",
+    "sleep"
+  ],
+  "related": [
+    "larks-and-owls",
+    "siffre-cave",
+    "melanopsin",
+    "hafele-keating",
+    "afternoon-dip"
+  ]
+}

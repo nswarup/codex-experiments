@@ -1,0 +1,43 @@
+{
+  "id": "nasa-nap",
+  "title": "NASA's 26-minute nap",
+  "category": "Health",
+  "hook": "NASA's famous 26-minute nap was how long pilots slept, not a magic recipe.",
+  "peek": "In a NASA study of long-haul pilots, those allowed a planned rest in the cockpit slept for about 26 minutes on average and were noticeably more alert afterwards. The number became a popular nap rule, though it was never meant as one.",
+  "lede": "Pilots on long overnight flights fight sleepiness, especially in the small hours. In the early 1990s, a NASA team led by Mark Rosekind tested a simple idea: let one pilot at a time take a planned rest in the cockpit while the others flew. The study, published in the mid-1990s, became the source of the much-repeated 26-minute nap.",
+  "bullets": [
+    {
+      "opening": "The 40-minute rest window",
+      "linkId": null,
+      "text": "Pilots in the rest group were given 40 minutes in which they could sleep. On average they nodded off within about six minutes and slept around 26 minutes. The famous figure describes what happened, not a length the scientists chose."
+    },
+    {
+      "opening": "Alertness on the flight deck",
+      "linkId": null,
+      "text": "Afterwards the rested pilots reacted faster and showed fewer signs of drowsiness late in the flight than the group that kept flying. The figures often quoted are a 34% improvement in performance and a 54% improvement in alertness."
+    },
+    {
+      "opening": "Why short naps work",
+      "linkId": null,
+      "text": "A short nap mostly stays in light sleep. Sleep much longer and you may slip into deep sleep, then wake groggy, a state called sleep inertia. That is one reason many sleep researchers suggest keeping daytime naps to around 20 to 30 minutes."
+    },
+    {
+      "opening": "Controlled rest in cockpits",
+      "linkId": null,
+      "text": "The study helped shape what airlines call controlled rest, a planned nap in the seat during quiet phases of long flights with the other pilot in charge. Many airlines outside the United States now allow it, while US rules still do not."
+    }
+  ],
+  "tags": [
+    "sleep",
+    "naps",
+    "aviation",
+    "experiments"
+  ],
+  "related": [
+    "afternoon-dip",
+    "segmented-sleep",
+    "larks-and-owls",
+    "jet-lag-east",
+    "siffre-cave"
+  ]
+}

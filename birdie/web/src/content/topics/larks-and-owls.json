@@ -1,0 +1,44 @@
+{
+  "id": "larks-and-owls",
+  "title": "Larks and owls",
+  "category": "Health",
+  "hook": "Being a morning person is partly in your genes, and it changes as you age.",
+  "peek": "Some people spring out of bed at dawn while others come alive near midnight. Large genetic studies show this is partly inherited, and our natural sleep timing drifts later through the teenage years before slowly moving earlier again.",
+  "lede": "Scientists call your natural timing your chronotype: whether you lean towards being a lark, who wakes early and fades early, or an owl, who sleeps late and peaks in the evening. Most people sit somewhere in the middle. It is not just habit or willpower. Your genes play a part, and so does your age.",
+  "bullets": [
+    {
+      "opening": "Morning person genes",
+      "linkId": null,
+      "text": "A 2019 study of nearly 700,000 people, drawing on the UK Biobank and the genetics company 23andMe, found hundreds of regions of DNA linked to being a morning person. Many sit in or near genes that run the body's internal clock."
+    },
+    {
+      "opening": "Families of extreme larks",
+      "linkId": null,
+      "text": "In some families, a single change in a clock gene, PER2, makes people extreme larks. They tend to fall asleep in the early evening and wake around 3 or 4 in the morning, a pattern called familial advanced sleep phase."
+    },
+    {
+      "opening": "The teenage shift later",
+      "linkId": null,
+      "text": "Sleep timing moves later through adolescence, which is why many teenagers struggle with early starts. The chronobiologist Till Roenneberg found it peaks around age 20, a little earlier in women than men, then drifts earlier for the rest of life."
+    },
+    {
+      "opening": "Social jet lag",
+      "linkId": null,
+      "text": "Roenneberg coined the term social jet lag for the gap between when our body clock wants us to sleep and when work or school makes us wake. Owls feel it most, living on a schedule set for larks."
+    }
+  ],
+  "tags": [
+    "sleep",
+    "body-clock",
+    "genetics",
+    "time"
+  ],
+  "related": [
+    "jet-lag-east",
+    "siffre-cave",
+    "segmented-sleep",
+    "afternoon-dip",
+    "melanopsin",
+    "nasa-nap"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "paint-tube",
+  "title": "The paint tube that made Impressionism",
+  "category": "Art",
+  "hook": "A humble squeezable tube helped painters leave the studio and work outdoors.",
+  "peek": "Before 1841, oil paint had to be mixed fresh or stored in pouches that leaked and dried out. An American portrait painter invented the squeezable metal tube, and suddenly a painter could carry a whole palette into a field.",
+  "lede": "For centuries, painters or their assistants ground pigments and mixed them with oil by hand. Ready-made paint was kept in little tied pouches that were hard to reseal and often split, so most work stayed in the studio. In 1841 John Goffe Rand, an American portrait painter living in London, patented a collapsible metal tube with a cap. It kept paint fresh and fitted in a pocket.",
+  "bullets": [
+    {
+      "opening": "John Goffe Rand",
+      "linkId": null,
+      "text": "Rand was a working portrait painter, not a chemist. He patented his tin tube in Britain and the United States in 1841, and art suppliers such as Winsor and Newton soon took up the idea."
+    },
+    {
+      "opening": "Painting outdoors",
+      "linkId": null,
+      "text": "With paint that stayed wet in a tube and a portable easel, artists could set up in fields, streets and riverbanks. Painting directly from nature, in changing light, became practical rather than a chore."
+    },
+    {
+      "opening": "Renoir on paint tubes",
+      "linkId": null,
+      "text": "According to his son Jean, Pierre-Auguste Renoir said that without paint in tubes there would have been no Cézanne, no Monet, no Pissarro and no Impressionism. It is a memory passed on years later, but it captures how painters saw the change."
+    },
+    {
+      "opening": "New colours in tubes",
+      "linkId": null,
+      "text": "The tube arrived as chemists were producing new bright pigments, such as cobalt and chrome colours. Painters could buy them ready-mixed and squeeze them straight out, which helps explain the vivid palettes of the Impressionists."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "history-of-things",
+    "color",
+    "impressionism"
+  ],
+  "related": [
+    "perkin-mauve",
+    "ultramarine",
+    "bob-ross",
+    "yinmn-blue",
+    "klein-blue"
+  ]
+}

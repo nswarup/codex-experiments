@@ -1,0 +1,44 @@
+{
+  "id": "hypnic-jerk",
+  "title": "The hypnic jerk",
+  "category": "Health",
+  "hook": "That sudden jolt as you drift off to sleep is common, harmless and has a name.",
+  "peek": "Just as you are falling asleep, your whole body twitches, often with a feeling of tripping or falling. It is called a hypnic jerk, and most people have them. It is a normal side effect of the brain handing over to sleep.",
+  "lede": "You are drifting off when suddenly your leg kicks or your whole body jolts, and you are awake again. It often comes with a sense of falling or missing a step. This is a hypnic jerk, also called a sleep start. Surveys suggest that most people have them at least now and then, and doctors consider them a normal part of falling asleep.",
+  "bullets": [
+    {
+      "opening": "Sleep starts",
+      "linkId": null,
+      "text": "The jolt is a quick, involuntary muscle twitch that happens in the first, lightest stage of sleep, as the body relaxes. It usually lasts a split second, and many people sleep straight through it."
+    },
+    {
+      "opening": "The falling feeling",
+      "linkId": null,
+      "text": "Many hypnic jerks come with a brief sensation or dream of falling, tripping or a flash of light. The sensation and the twitch arrive together, and it is not clear which, if either, comes first."
+    },
+    {
+      "opening": "Coffee and late nights",
+      "linkId": null,
+      "text": "Hypnic jerks tend to be more frequent with caffeine, stress, tiredness, irregular sleep and exercise late in the evening. Cutting back on these is the usual advice for anyone bothered by them."
+    },
+    {
+      "opening": "The tree-dwelling theory",
+      "linkId": null,
+      "text": "One popular idea is that the jolt is a leftover reflex from primate ancestors who slept in trees and needed to catch themselves. It is an appealing story, but it remains a guess with little direct evidence."
+    }
+  ],
+  "tags": [
+    "sleep",
+    "reflexes",
+    "myths-busted",
+    "brain"
+  ],
+  "related": [
+    "segmented-sleep",
+    "nasa-nap",
+    "lucid-dreaming-signals",
+    "black-and-white-dreams",
+    "afternoon-dip",
+    "proprioception"
+  ]
+}

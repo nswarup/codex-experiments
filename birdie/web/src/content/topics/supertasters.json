@@ -1,0 +1,43 @@
+{
+  "id": "supertasters",
+  "title": "Supertasters",
+  "category": "Health",
+  "hook": "For some people, broccoli and black coffee taste far more bitter.",
+  "peek": "Roughly a quarter of people are supertasters, who experience bitter flavours much more strongly than everyone else. It started with a puff of chemical dust in a 1931 laboratory, and it may explain why some people never learn to like Brussels sprouts.",
+  "lede": "Taste is not the same for everyone. Researchers commonly sort people into three groups: about a quarter are non-tasters, who barely notice certain bitter compounds, about half are medium tasters, and about a quarter are supertasters. For supertasters, foods like broccoli, kale, grapefruit and black coffee can taste much more bitter, and many flavours feel more intense.",
+  "bullets": [
+    {
+      "opening": "Arthur Fox's 1931 accident",
+      "linkId": null,
+      "text": "The chemist Arthur Fox was working with a compound called PTC when some of it drifted into the air. A colleague complained that it tasted bitter, but Fox tasted nothing. Tests on others showed people split sharply into tasters and non-tasters."
+    },
+    {
+      "opening": "The TAS2R38 bitter gene",
+      "linkId": null,
+      "text": "Much of the difference traces to a single bitter receptor gene, TAS2R38. People who inherit certain versions taste PTC and similar compounds, found in vegetables like broccoli and cabbage, while others carry versions that barely respond."
+    },
+    {
+      "opening": "Linda Bartoshuk's supertasters",
+      "linkId": null,
+      "text": "The psychologist Linda Bartoshuk coined the word supertaster in the 1990s after finding that some tasters rated the bitterness far higher than the rest. Supertasters often have more of the small bumps on the tongue that hold taste buds, though later studies found that link weaker."
+    },
+    {
+      "opening": "The blue dye test",
+      "linkId": null,
+      "text": "A common test is to paint the tongue with blue food colouring. The taste bumps stay pink, so researchers can count them in a small circle. A paper strip soaked in a bitter compound called PROP then sorts people by how bitter it tastes."
+    }
+  ],
+  "tags": [
+    "taste",
+    "genetics",
+    "perception",
+    "food-history"
+  ],
+  "related": [
+    "tongue-map-myth",
+    "cilantro-gene",
+    "umami",
+    "human-smell",
+    "tetrachromats"
+  ]
+}

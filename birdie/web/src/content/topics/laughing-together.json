@@ -1,0 +1,43 @@
+{
+  "id": "laughing-together",
+  "title": "We laugh far more with others",
+  "category": "Health",
+  "hook": "People laugh around 30 times more often with company than when alone.",
+  "peek": "Laughter feels like a reaction to jokes, but studies by the neuroscientist Robert Provine found it is mostly a social signal. People laugh far more with others than alone, and most laughter follows ordinary remarks rather than punchlines.",
+  "lede": "We tend to think we laugh because something is funny. The neuroscientist Robert Provine, at the University of Maryland, spent years listening to real laughter in everyday life and found a different picture. Laughter is mainly about other people. It is a signal we send to each other, and jokes have surprisingly little to do with most of it.",
+  "bullets": [
+    {
+      "opening": "The laughter diaries",
+      "linkId": null,
+      "text": "In a 1989 study, Provine and a colleague asked students to note every time they laughed for a week. They laughed about 30 times more often when they were with other people than when they were alone, even counting television and reading."
+    },
+    {
+      "opening": "Eavesdropping on 1,200 laughs",
+      "linkId": null,
+      "text": "Provine's team recorded about 1,200 bursts of laughter overheard in shopping centres and on campuses. Only around 10 to 20% followed anything resembling a joke. Most came after ordinary remarks such as see you later or I know."
+    },
+    {
+      "opening": "Speakers laugh more",
+      "linkId": null,
+      "text": "In those conversations, the person speaking laughed more than the person listening. That suggests laughter often works less as a response to humour and more as a friendly signal from the speaker."
+    },
+    {
+      "opening": "The punctuation effect",
+      "linkId": null,
+      "text": "Laughter almost never interrupts a phrase. People laugh at the pauses, at the end of a sentence or between them, much like punctuation in writing. Provine called this the punctuation effect."
+    }
+  ],
+  "tags": [
+    "laughter",
+    "communication",
+    "social-life",
+    "experiments"
+  ],
+  "related": [
+    "contagious-yawning",
+    "tickle-yourself",
+    "choir-heartbeats",
+    "pratfall-effect",
+    "spotlight-effect"
+  ]
+}

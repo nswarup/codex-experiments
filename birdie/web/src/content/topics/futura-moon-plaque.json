@@ -1,0 +1,44 @@
+{
+  "id": "futura-moon-plaque",
+  "title": "The typeface on the Moon",
+  "category": "Art",
+  "hook": "The words Apollo 11 left on the Moon are set in Futura, a 1920s German typeface.",
+  "peek": "Fixed to the leg of the Apollo 11 lunar module is a steel plaque that reads \"We came in peace for all mankind\". The letters are in Futura, a typeface drawn in Germany in the 1920s, and they are still standing there.",
+  "lede": "When Neil Armstrong and Buzz Aldrin left the Moon in July 1969, the lower half of their lunar module stayed behind as a launch pad. Fixed to one of its legs is a stainless steel plaque: \"Here men from the planet Earth first set foot upon the Moon, July 1969, A.D. We came in peace for all mankind.\" The capital letters are set in Futura.",
+  "bullets": [
+    {
+      "opening": "Paul Renner's Futura",
+      "linkId": null,
+      "text": "Futura was designed by the German typographer Paul Renner and released by the Bauer type foundry in 1927. Its letters are built from simple shapes: a near-perfect circle for the O, sharp triangles for the A and M."
+    },
+    {
+      "opening": "The plaque on the ladder",
+      "linkId": null,
+      "text": "The plaque sits on the leg of the descent stage that held the ladder. Armstrong read its words aloud on live television during the moonwalk, so millions heard the text that the Futura letters spell out."
+    },
+    {
+      "opening": "Four signatures",
+      "linkId": null,
+      "text": "Below the words are the signatures of the three astronauts, Armstrong, Michael Collins and Aldrin, along with that of President Richard Nixon, and drawings of Earth's two hemispheres."
+    },
+    {
+      "opening": "Earlier lettering on the Moon",
+      "linkId": null,
+      "text": "Futura was not quite the first lettering on the Moon. The Soviet probe Luna 2 carried small metal pennants with lettering when it reached the Moon in 1959. The Apollo 11 plaque is the first message left there by people in person."
+    }
+  ],
+  "tags": [
+    "typography",
+    "space-exploration",
+    "design",
+    "fonts"
+  ],
+  "related": [
+    "helvetica",
+    "johnston-typeface",
+    "comic-sans",
+    "moon-trees",
+    "moon-golf",
+    "apollo-playtex-suits"
+  ]
+}

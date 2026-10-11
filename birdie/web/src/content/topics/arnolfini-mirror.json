@@ -1,0 +1,44 @@
+{
+  "id": "arnolfini-mirror",
+  "title": "The mirror in the Arnolfini Portrait",
+  "category": "Art",
+  "hook": "A tiny mirror in a 1434 painting shows two people who are not in the room.",
+  "peek": "At the back of Jan van Eyck's Arnolfini Portrait hangs a small round mirror. Look closely and it reflects the couple from behind, plus two more figures standing in the doorway. Above it, van Eyck wrote that he was there.",
+  "lede": "Jan van Eyck's Arnolfini Portrait of 1434, now in the National Gallery in London, shows a richly dressed couple in a room in Bruges. On the back wall hangs a small convex mirror. It reflects the whole room in miniature, including the couple seen from behind and two extra figures standing in the doorway, where the viewer would be.",
+  "bullets": [
+    {
+      "opening": "Johannes de Eyck fuit hic",
+      "linkId": null,
+      "text": "Above the mirror, in fancy script on the wall, van Eyck wrote 'Johannes de eyck fuit hic 1434': Jan van Eyck was here. Painters usually signed with 'made this', so the wording reads almost like a witness's note or a bit of graffiti."
+    },
+    {
+      "opening": "The figures in the doorway",
+      "linkId": null,
+      "text": "One of the two tiny people in the reflection may be van Eyck himself, standing just where the painter would have stood. Nobody knows who the other is."
+    },
+    {
+      "opening": "The ten roundels",
+      "linkId": null,
+      "text": "The mirror's frame holds ten even smaller painted circles, each showing a scene from the life of Christ. They are so small they are easy to miss, yet each scene is clearly painted."
+    },
+    {
+      "opening": "Panofsky's witness theory",
+      "linkId": null,
+      "text": "In 1934 the art historian Erwin Panofsky argued the painting records a wedding, with the two reflected men as witnesses and the picture as a kind of certificate. Many historians now doubt this, and even who the couple were is debated."
+    }
+  ],
+  "tags": [
+    "painting",
+    "hidden-details",
+    "optics",
+    "signatures"
+  ],
+  "related": [
+    "girl-pearl-earring",
+    "night-watch",
+    "american-gothic",
+    "whistlers-mother",
+    "magritte-pipe",
+    "ultramarine"
+  ]
+}

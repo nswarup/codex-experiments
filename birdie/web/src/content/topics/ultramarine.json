@@ -1,0 +1,44 @@
+{
+  "id": "ultramarine",
+  "title": "Ultramarine, the blue worth more than gold",
+  "category": "Art",
+  "hook": "For centuries the finest blue paint was ground from a stone mined in Afghanistan.",
+  "peek": "Real ultramarine was made from lapis lazuli dug in the mountains of Afghanistan and carried thousands of miles to Europe. It could cost more than gold, so painters saved it for the most important part of the picture.",
+  "lede": "Medieval and Renaissance painters had one truly brilliant blue: ultramarine, from the Italian for 'beyond the sea'. It was made from lapis lazuli, a stone mined for thousands of years in the Badakhshan mountains of what is now Afghanistan. Turning the stone into paint was slow and wasteful, and the finest grades could cost more than gold, weight for weight.",
+  "bullets": [
+    {
+      "opening": "The Sar-i Sang mines",
+      "linkId": null,
+      "text": "Most lapis came from the Sar-i Sang valley in Badakhshan, which has been mined for thousands of years. The stone travelled along trade routes to Venice and on to painters' workshops across Europe."
+    },
+    {
+      "opening": "Cennino Cennini's recipe",
+      "linkId": null,
+      "text": "Simply grinding lapis gives a dull greyish powder. Around 1400, Cennino Cennini described the trick: knead the powder into a dough of wax, resin and oil, then work it in a mild lye so the pure blue particles wash out, leaving the grey behind."
+    },
+    {
+      "opening": "The Virgin Mary's robes",
+      "linkId": null,
+      "text": "Because it was so costly, patrons often wrote into contracts how much ultramarine a painter must use and where. It was usually kept for the robes of the Virgin Mary, which is why her blue cloak became a standard in European art."
+    },
+    {
+      "opening": "Guimet's synthetic ultramarine",
+      "linkId": null,
+      "text": "In 1824 a French society offered a prize for an affordable artificial version. Jean-Baptiste Guimet won it in 1828, and cheap 'French ultramarine' soon put the colour into every paintbox."
+    }
+  ],
+  "tags": [
+    "color",
+    "pigments",
+    "history-of-things",
+    "trade"
+  ],
+  "related": [
+    "klein-blue",
+    "yinmn-blue",
+    "perkin-mauve",
+    "girl-pearl-earring",
+    "sistine-standing",
+    "paint-tube"
+  ]
+}

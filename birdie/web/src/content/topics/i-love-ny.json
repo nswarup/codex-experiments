@@ -1,0 +1,43 @@
+{
+  "id": "i-love-ny",
+  "title": "The I ♥ NY logo",
+  "category": "Art",
+  "hook": "One of the most copied logos in the world was sketched in a taxi and given away free.",
+  "peek": "In 1977 Milton Glaser sketched I ♥ NY for a New York State tourism campaign, reportedly in the back of a taxi. He did the work for free. His original sketch is now in the collection of the Museum of Modern Art.",
+  "lede": "In 1977, New York State hired an advertising agency to promote tourism at a time when the state, and New York City especially, badly needed good news. The designer Milton Glaser agreed to help without a fee. The story goes that he scribbled the idea in red crayon on a scrap of paper in the back of a taxi. That rough sketch is now in the Museum of Modern Art.",
+  "bullets": [
+    {
+      "opening": "A picture puzzle logo",
+      "linkId": null,
+      "text": "The design is a rebus: you read the red heart as the word 'love'. Glaser stacked the I and the heart over N and Y so the whole thing works as a compact square."
+    },
+    {
+      "opening": "American Typewriter letters",
+      "linkId": null,
+      "text": "The logo lettering is set in American Typewriter, a rounded slab-serif face. Its friendly, slightly old-fashioned shapes soften the bold red heart."
+    },
+    {
+      "opening": "Owned by New York State",
+      "linkId": null,
+      "text": "Because Glaser gave the design away, it belongs to New York State, which holds the trademark and licenses it. It has appeared on countless mugs, T-shirts and bags."
+    },
+    {
+      "opening": "Endless I ♥ copies",
+      "linkId": null,
+      "text": "The idea proved easy to borrow. Cities, towns and shops around the world have copied the heart-in-the-middle formula, which is one reason the original is among the most imitated logos ever made."
+    }
+  ],
+  "tags": [
+    "design",
+    "logos",
+    "typography",
+    "cities"
+  ],
+  "related": [
+    "nike-swoosh",
+    "chupa-chups-dali",
+    "helvetica",
+    "johnston-typeface",
+    "pinball-ban"
+  ]
+}

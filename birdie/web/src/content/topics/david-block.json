@@ -1,0 +1,43 @@
+{
+  "id": "david-block",
+  "title": "Michelangelo's David came from a rejected block",
+  "category": "Art",
+  "hook": "Michelangelo's David was carved from a marble block other sculptors gave up on.",
+  "peek": "The giant marble block that became David sat neglected in a Florence workshop yard for decades after two sculptors had a go at it. A 26-year-old Michelangelo took it on and finished the statue three years later.",
+  "lede": "In the 1460s, Florence Cathedral ordered a huge block of Carrara marble for a statue meant to stand high on the building. Sculptors started on it, then stopped, and the half-worked block lay in the cathedral workshop's yard for about 25 years. Locals called it the Giant. In 1501 the job went to Michelangelo, then 26, and the result was David.",
+  "bullets": [
+    {
+      "opening": "Agostino di Duccio's start",
+      "linkId": null,
+      "text": "Agostino di Duccio began roughing out a figure in 1464 and soon stopped. A second sculptor, Antonio Rossellino, was hired in 1476, but his contract was ended too. The block was left tall, narrow and already partly cut."
+    },
+    {
+      "opening": "A difficult block",
+      "linkId": null,
+      "text": "The marble was thought to be awkward to work: shallow from front to back, with some flaws. Michelangelo had to fit his figure inside a shape others had already started, which partly explains David's slim, upright stance."
+    },
+    {
+      "opening": "The 1504 placement committee",
+      "linkId": null,
+      "text": "When David was finished in 1504, the plan to lift it onto the cathedral was dropped. A committee of artists, Leonardo da Vinci among them, discussed where it should go, and it was set up in front of the Palazzo Vecchio instead."
+    },
+    {
+      "opening": "The Accademia move",
+      "linkId": null,
+      "text": "David stayed outdoors in the square for more than 350 years. In 1873 it was moved indoors to the Galleria dell'Accademia to protect it from the weather, and a copy has stood in the original spot since 1910."
+    }
+  ],
+  "tags": [
+    "sculpture",
+    "renaissance",
+    "second-chances",
+    "history-of-things"
+  ],
+  "related": [
+    "sistine-standing",
+    "mona-lisa-theft",
+    "painted-greek-statues",
+    "girl-pearl-earring",
+    "night-watch"
+  ]
+}

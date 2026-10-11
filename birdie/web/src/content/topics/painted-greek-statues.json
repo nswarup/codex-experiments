@@ -1,0 +1,43 @@
+{
+  "id": "painted-greek-statues",
+  "title": "Greek statues were painted",
+  "category": "Art",
+  "hook": "Ancient Greek statues were not white: they were painted in bright colours.",
+  "peek": "The gleaming white marble we picture in Greek temples and museums was not what the ancient Greeks saw. Their statues were painted, with patterned clothes, coloured eyes and skin, and faint traces of that paint still survive.",
+  "lede": "We think of ancient Greek sculpture as pure white marble, but the Greeks painted their statues. Clothes had bright patterns, lips and eyes were coloured, and buildings like the Parthenon carried painted sculpture too. Over more than two thousand years most of the paint wore away, but scientists keep finding traces of it on statues in museums.",
+  "bullets": [
+    {
+      "opening": "The Peplos Kore",
+      "linkId": null,
+      "text": "This statue of a young woman from the Athens Acropolis, made around 530 BC, still shows faint traces of colour. Researchers have mapped patterns of animals and borders that once decorated her dress."
+    },
+    {
+      "opening": "Egyptian blue on the Parthenon",
+      "linkId": null,
+      "text": "Egyptian blue, an ancient man-made pigment, glows under infrared light even in tiny amounts. Using this, researchers at the British Museum found traces of it on sculptures from the Parthenon."
+    },
+    {
+      "opening": "Winckelmann and white marble",
+      "linkId": null,
+      "text": "Renaissance and later artists saw the statues after the paint had mostly gone. In the 1700s, the writer Johann Joachim Winckelmann praised white marble as the ideal of beauty, and that taste shaped museums for centuries."
+    },
+    {
+      "opening": "The Gods in Color exhibition",
+      "linkId": null,
+      "text": "Since 2003, archaeologists Vinzenz Brinkmann and Ulrike Koch-Brinkmann have toured full-size painted copies of ancient statues, based on pigment studies. Many visitors find the bright colours startling."
+    }
+  ],
+  "tags": [
+    "myths-busted",
+    "color",
+    "sculpture",
+    "ancient-greece"
+  ],
+  "related": [
+    "david-block",
+    "ultramarine",
+    "klein-blue",
+    "stonehenge-bluestones",
+    "olympic-art-medals"
+  ]
+}

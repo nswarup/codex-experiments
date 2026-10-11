@@ -1,0 +1,43 @@
+{
+  "id": "nasal-cycle",
+  "title": "The nasal cycle",
+  "category": "Health",
+  "hook": "Right now you are probably breathing mostly through one nostril.",
+  "peek": "Your nose takes turns. At any moment one nostril usually carries most of the air while the other rests, and every few hours they swap. Most people never notice, though you can check with a finger and a mirror.",
+  "lede": "Hold a cold mirror under your nose and breathe out, and one fog patch will often be larger than the other. That is the nasal cycle. Tissue inside each side of the nose slowly swells and shrinks in turn, so one nostril does most of the breathing while the other partly closes. Every few hours they swap, while total airflow stays much the same.",
+  "bullets": [
+    {
+      "opening": "Richard Kayser's discovery",
+      "linkId": null,
+      "text": "The cycle was described by the German doctor Richard Kayser in 1895. Later studies suggest most adults have it, though the timing varies a lot from person to person, from roughly two to seven hours per swap."
+    },
+    {
+      "opening": "Swelling tissue in the nose",
+      "linkId": null,
+      "text": "Each side of the nose holds ridges of soft tissue called turbinates. The autonomic nervous system, which runs without conscious control, alternately fills and empties them, narrowing one airway while it widens the other."
+    },
+    {
+      "opening": "Lying on your side",
+      "linkId": null,
+      "text": "Rolling onto one side tends to make the lower nostril swell and the upper one open. This is why a stuffy nose often seems to switch sides when you turn over in bed."
+    },
+    {
+      "opening": "Each nostril smells differently",
+      "linkId": null,
+      "text": "A 1999 study led by Noam Sobel found that the faster and slower airflow in the two nostrils makes each side better at picking up different smells, so the brain gets two slightly different reports."
+    }
+  ],
+  "tags": [
+    "breathing",
+    "smell",
+    "body-clocks",
+    "reflexes"
+  ],
+  "related": [
+    "human-smell",
+    "smell-receptor-genes",
+    "segmented-sleep",
+    "dive-reflex",
+    "dogs-smell"
+  ]
+}

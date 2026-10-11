@@ -1,0 +1,43 @@
+{
+  "id": "baby-bones",
+  "title": "Babies have more bones than adults",
+  "category": "Health",
+  "hook": "A newborn has around 300 bones, and many of them later join together.",
+  "peek": "A baby is born with around 300 bones and pieces of cartilage that will become bone. Over childhood many of them fuse, so an adult skeleton usually counts about 206. Some of the joining is not finished until the mid-twenties.",
+  "lede": "An adult skeleton is usually said to have 206 bones. A newborn has many more separate pieces, often given as around 270 to 300, depending on how you count. Many start out partly as soft cartilage, which hardens into bone over the years. As children grow, a lot of these pieces join together, so the count goes down as the skeleton gets bigger.",
+  "bullets": [
+    {
+      "opening": "The skull's soft spots",
+      "linkId": null,
+      "text": "A baby's skull is made of separate plates with gaps between them, called fontanelles. The plates can shift slightly during birth and leave room for fast brain growth. The largest soft spot, on top of the head, usually closes by about age two."
+    },
+    {
+      "opening": "The sacrum's five bones",
+      "linkId": null,
+      "text": "At the base of the spine, five separate vertebrae slowly fuse into a single bone called the sacrum. The joining starts in the teenage years and is usually complete by the mid-twenties."
+    },
+    {
+      "opening": "Kneecaps start as cartilage",
+      "linkId": null,
+      "text": "Babies are born with kneecaps made of cartilage, so they do not show up clearly on an X-ray. They begin to turn to bone at around three to five years old."
+    },
+    {
+      "opening": "Growth plates closing",
+      "linkId": null,
+      "text": "Long bones like the thigh bone grow from cartilage plates near each end. When growth finishes, these plates turn to bone and the ends fuse to the shaft. The collarbone is one of the last to finish, often in the mid-twenties."
+    }
+  ],
+  "tags": [
+    "body",
+    "growth",
+    "skeleton",
+    "babies"
+  ],
+  "related": [
+    "taller-in-morning",
+    "proprioception",
+    "pruney-fingers",
+    "goosebumps",
+    "napoleon-height"
+  ]
+}
