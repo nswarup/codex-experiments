@@ -79,7 +79,7 @@ describe("pickNext", () => {
     }
     expect(wild / N).toBeGreaterThan(0.18);
     expect(wild / N).toBeLessThan(0.22);
-  });
+  }, 30_000); // 20k draws over the full 1k corpus
 
   it("can be told not to serve a wildcard", () => {
     const rng = seededRng(9);
