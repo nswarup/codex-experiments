@@ -3,7 +3,7 @@
   "title": "The backgammon doubling cube",
   "category": "Games",
   "hook": "Backgammon's roots are ancient, but its doubling cube only dates from the 1920s.",
-  "peek": "Games like backgammon have been played for about 5,000 years. The cube marked 2 to 64, which lets players raise the stakes in the middle of a game, was added in New York clubs in the 1920s by someone nobody recorded.",
+  "peek": "Games like backgammon have been played for about 5,000 years. The cube marked 2 to 64, which lets players raise the stakes in the middle of a game, was added in New York clubs in the 1920s, and nobody knows for sure who came up with it.",
   "lede": "Race games in which pieces travel around a board to the throw of dice go back about 5,000 years, to boards found in Iran and Mesopotamia. Backgammon itself got its name in 17th-century England. Its best-known piece of equipment is far younger: the doubling cube, which appeared in New York clubs in the 1920s and changed how the game is played.",
   "bullets": [
     {
@@ -19,7 +19,7 @@
     {
       "opening": "The unknown inventor",
       "linkId": null,
-      "text": "Nobody recorded who first added the cube to backgammon. Because a player can resign rather than accept a double, it ends many games early and turns each one into a test of judgement about when to raise the stakes."
+      "text": "Nobody knows for sure who first added the cube to backgammon, and club histories name different players. Because a player can resign rather than accept a double, it ends many games early and turns each one into a test of judgement about when to raise the stakes."
     },
     {
       "opening": "The Crawford rule",

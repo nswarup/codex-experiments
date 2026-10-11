@@ -3,8 +3,8 @@
   "title": "The Jacquard loom's punched cards",
   "category": "Tech",
   "hook": "Computer punch cards began as a way to weave patterned silk in France.",
-  "peek": "In 1804 Joseph Marie Jacquard showed a loom that wove complex patterns by reading a chain of punched cards. The idea inspired Charles Babbage's computers and later the cards used in early data processing.",
-  "lede": "Weaving a patterned fabric once meant a helper sitting on top of the loom, lifting the right threads by hand for every row. In 1804 the French weaver Joseph Marie Jacquard demonstrated a loom attachment that did the job by reading a chain of punched cards. A hole meant lift this thread, no hole meant leave it. The pattern was now stored information.",
+  "peek": "Around 1804 Joseph Marie Jacquard perfected a loom that wove complex patterns by reading a chain of punched cards. The idea inspired Charles Babbage's computers and later the cards used in early data processing.",
+  "lede": "Weaving a patterned fabric once meant a helper sitting on top of the loom, lifting the right threads by hand for every row. Around 1804 the French weaver Joseph Marie Jacquard perfected a loom attachment that did the job by reading a chain of punched cards. A hole meant lift this thread, no hole meant leave it. The pattern was now stored information.",
   "bullets": [
     {
       "opening": "Bouchon's perforated paper",
