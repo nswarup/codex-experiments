@@ -48,6 +48,11 @@ def stems(s: str) -> set:
 
 def main(argv):
     manifest = json.loads((CONTENT / "manifest.json").read_text())
+    # --plan FILE: also accept ids from a planning list (articles being written in a batch
+    # may link to each other before they join the manifest).
+    if argv[:1] == ["--plan"]:
+        manifest = manifest + json.loads(Path(argv[1]).read_text())
+        argv = argv[2:]
     by_id = {m["id"]: m for m in manifest}
     ids = argv or [m["id"] for m in manifest if (TOPICS / f"{m['id']}.json").exists()]
     errors, warnings = [], []
