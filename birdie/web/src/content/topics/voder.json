@@ -3,7 +3,7 @@
   "title": "The Voder, the first electronic voice",
   "category": "Language",
   "hook": "At the 1939 World's Fair, women played speech on a keyboard like an organ.",
-  "peek": "Bell Labs' Voder made speech from pure electricity. A trained operator pressed keys and a foot pedal to shape buzzes and hisses into words, live, in front of crowds at the 1939 World's Fair. Learning to play it took about a year.",
+  "peek": "Bell Labs' Voder made speech from pure electricity. A trained operator pressed keys and a foot pedal to shape buzzes and hisses into words, live, in front of crowds at the 1939 World's Fair. Learning to play it took months of practice.",
   "lede": "Talking machines are older than electricity: in the 1700s Wolfgang von Kempelen built one with bellows and a leather mouth. The Voder, shown by Bell Labs at the 1939 New York World's Fair, was the first to make speech electronically. It had no recordings inside. A trained operator built every word by hand, in real time, the way a pianist builds a chord.",
   "bullets": [
     {
@@ -19,7 +19,7 @@
     {
       "opening": "The Voder's operators",
       "linkId": null,
-      "text": "Bell Labs trained a team of young women, mostly telephone operators, to play it. Learning took about a year. At the fair a host would ask for a phrase, and the operator made the machine say it, even changing the tune of a sentence to alter its meaning."
+      "text": "Bell Labs trained a team of young women, mostly telephone operators, to play it. Training took months, by some accounts a year. At the fair a host would ask for a phrase, and the operator made the machine say it, even changing the tune of a sentence to alter its meaning."
     },
     {
       "opening": "From Voder to vocoder music",
