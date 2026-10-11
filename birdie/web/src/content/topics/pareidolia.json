@@ -1,0 +1,49 @@
+{
+  "id": "pareidolia",
+  "title": "Seeing faces in things",
+  "category": "Mind",
+  "hook": "Your brain flags a face in a plug socket almost as fast as a real face.",
+  "peek": "Seeing faces in clouds, cars and kettles is not a sign of an overactive imagination. Brain recordings show that face-like objects trigger the brain's face-processing regions within about a fifth of a second, nearly as quickly as real faces do.",
+  "lede": "Pareidolia is the habit of seeing meaningful shapes, especially faces, in random patterns: two windows and a door on a house, the front of a car, a slice of toast. It is not a quirk of a few people. Nearly everyone does it, and brain recordings show it happens early and automatically, before we have consciously decided what we are looking at.",
+  "bullets": [
+    {
+      "opening": "The 2009 brain recordings",
+      "linkId": null,
+      "text": "A team led by Nouchine Hadjikhani recorded brain activity as people viewed real faces, face-like objects and ordinary objects. Face-like objects stirred a face-sensitive region after about 165 milliseconds, only slightly later than real faces."
+    },
+    {
+      "opening": "A face, then an object",
+      "linkId": null,
+      "text": "A 2020 study found the brain treats illusory faces as faces for a split second, then quickly sorts them back among objects. That is how we can see the face in a socket and still know it is a socket."
+    },
+    {
+      "opening": "Mostly male faces",
+      "linkId": null,
+      "text": "In a 2022 study, people judged hundreds of face-like objects. Most were seen as male, even though objects have no gender, which suggests our default face template leans that way."
+    },
+    {
+      "opening": "Monkeys see them too",
+      "linkId": null,
+      "text": "Rhesus monkeys look longer at face-like objects than at similar objects without the face, suggesting the habit is older than our own species."
+    },
+    {
+      "opening": "The word pareidolia",
+      "linkId": null,
+      "text": "The name comes from Greek words meaning beside and image: a picture that sits alongside what is really there."
+    }
+  ],
+  "tags": [
+    "faces",
+    "perception",
+    "illusions",
+    "patterns"
+  ],
+  "related": [
+    "hollow-face-illusion",
+    "thatcher-effect",
+    "uncanny-valley",
+    "martian-canals",
+    "crows-faces",
+    "iapetus-two-tone"
+  ]
+}

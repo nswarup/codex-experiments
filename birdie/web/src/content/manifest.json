@@ -2448,5 +2448,65 @@
   "id": "pong-quarters",
   "title": "The Pong machine that jammed with quarters",
   "category": "Games"
+ },
+ {
+  "id": "doorway-effect",
+  "title": "The doorway effect",
+  "category": "Mind"
+ },
+ {
+  "id": "tip-of-the-tongue",
+  "title": "The tip-of-the-tongue state",
+  "category": "Mind"
+ },
+ {
+  "id": "memory-palace",
+  "title": "The memory palace",
+  "category": "Mind"
+ },
+ {
+  "id": "bugs-bunny-disneyland",
+  "title": "Meeting Bugs Bunny at Disneyland",
+  "category": "Mind"
+ },
+ {
+  "id": "uncanny-valley",
+  "title": "The uncanny valley",
+  "category": "Mind"
+ },
+ {
+  "id": "pareidolia",
+  "title": "Seeing faces in things",
+  "category": "Mind"
+ },
+ {
+  "id": "thatcher-effect",
+  "title": "The Thatcher effect",
+  "category": "Mind"
+ },
+ {
+  "id": "rubber-hand-illusion",
+  "title": "The rubber hand illusion",
+  "category": "Mind"
+ },
+ {
+  "id": "cutaneous-rabbit",
+  "title": "The cutaneous rabbit",
+  "category": "Mind"
+ },
+ {
+  "id": "stopped-clock-illusion",
+  "title": "The stopped-clock illusion",
+  "category": "Mind"
+ },
+ {
+  "id": "wagon-wheel-effect",
+  "title": "The wagon-wheel effect",
+  "category": "Mind"
+ },
+ {
+  "id": "waterfall-illusion",
+  "title": "The waterfall illusion",
+  "category": "Mind"
  }
 ]

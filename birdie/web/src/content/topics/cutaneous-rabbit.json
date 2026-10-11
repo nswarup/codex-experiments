@@ -1,0 +1,43 @@
+{
+  "id": "cutaneous-rabbit",
+  "title": "The cutaneous rabbit",
+  "category": "Mind",
+  "hook": "Taps at the wrist and elbow can feel like a tiny creature hopping up your arm.",
+  "peek": "In 1972 two psychologists found that a quick run of taps at the wrist, then the elbow, feels like a steady series of hops up the arm. People feel taps in between, on skin that was never touched.",
+  "lede": "Frank Geldard and Carl Sherrick, working at Princeton, described the cutaneous rabbit in the journal Science in 1972. They delivered a few rapid taps at the wrist, then a few near the elbow, then near the shoulder. Instead of feeling clusters of taps in three places, people felt an even line of taps hopping up the arm, like a small rabbit.",
+  "bullets": [
+    {
+      "opening": "Taps that never happened",
+      "linkId": null,
+      "text": "The middle taps are felt on skin with no stimulus at all. The brain seems to settle where each tap landed only after the next one arrives, then spreads them along the most likely path."
+    },
+    {
+      "opening": "Sensory saltation",
+      "linkId": null,
+      "text": "The effect is also called sensory saltation, from the Latin for to leap. The taps must come fast, a fraction of a second apart; with longer gaps, each tap is felt where it really lands."
+    },
+    {
+      "opening": "The 2006 brain scans",
+      "linkId": null,
+      "text": "A brain-imaging study found that an illusory tap on the arm activated the part of the touch cortex that maps the spot where it was felt, not the spot that was actually tapped."
+    },
+    {
+      "opening": "Hopping out of the body",
+      "linkId": null,
+      "text": "In a 2010 experiment, people held a stick between their two index fingers and were tapped on each finger in turn. Many felt taps hopping along the stick itself, in the empty space between their hands."
+    }
+  ],
+  "tags": [
+    "illusions",
+    "perception",
+    "touch",
+    "body"
+  ],
+  "related": [
+    "rubber-hand-illusion",
+    "stopped-clock-illusion",
+    "phonemic-restoration",
+    "mcgurk-effect",
+    "waterfall-illusion"
+  ]
+}

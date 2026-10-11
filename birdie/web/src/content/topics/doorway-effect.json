@@ -1,0 +1,48 @@
+{
+  "id": "doorway-effect",
+  "title": "The doorway effect",
+  "category": "Mind",
+  "hook": "Walking through a door really can wipe out why you came into the room.",
+  "peek": "Psychologists at the University of Notre Dame found that passing through a doorway makes people forget more than walking the same distance within one room. The door seems to close one chapter of memory and open the next.",
+  "lede": "Most people know the moment: you walk into the kitchen and stand there with no idea what you came for. In studies from 2006 onwards, Gabriel Radvansky and his colleagues showed this is more than absent-mindedness. Walking through a doorway made people measurably worse at recalling what they had just been carrying, compared with walking the same distance without one.",
+  "bullets": [
+    {
+      "opening": "The virtual rooms test",
+      "linkId": null,
+      "text": "Volunteers moved through rooms on a computer screen, picking up an object at one table and carrying it to another. Asked what they held, they did worse if they had just passed through a doorway than if they had crossed the same space."
+    },
+    {
+      "opening": "The real-room version",
+      "linkId": null,
+      "text": "The team repeated the test in real rooms, with objects hidden in shoeboxes. The doorway effect still appeared, so it was not a quirk of screens."
+    },
+    {
+      "opening": "Event boundaries",
+      "linkId": null,
+      "text": "The explanation is that the mind sorts experience into episodes. A doorway signals that one scene has ended, so the brain files the old scene away and its details become harder to reach from the new one."
+    },
+    {
+      "opening": "Going back does not help",
+      "linkId": null,
+      "text": "One test checked the old advice to return to where you had the thought. Walking back into the original room did not restore memory, which suggests the crossing itself is what matters."
+    },
+    {
+      "opening": "The 2021 replication",
+      "linkId": null,
+      "text": "A later study in virtual reality found doorways made little difference on their own. Forgetting rose only when people were also juggling a second memory task, so a busy mind seems to be a key ingredient."
+    }
+  ],
+  "tags": [
+    "memory",
+    "myths-busted",
+    "experiments",
+    "everyday-life"
+  ],
+  "related": [
+    "tip-of-the-tongue",
+    "zeigarnik-effect",
+    "ebbinghaus-forgetting-curve",
+    "invisible-gorilla",
+    "memory-palace"
+  ]
+}

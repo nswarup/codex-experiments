@@ -1,0 +1,49 @@
+{
+  "id": "uncanny-valley",
+  "title": "The uncanny valley",
+  "category": "Mind",
+  "hook": "Robots grow more likeable as they look human, until they look almost human.",
+  "peek": "In 1970 the Japanese roboticist Masahiro Mori predicted that near-human robots would feel eerie rather than endearing. He drew a graph with a sudden dip, and the idea, the uncanny valley, now shapes how robots, games and animated films are designed.",
+  "lede": "In 1970 Masahiro Mori, a robotics professor in Tokyo, wrote a short essay for a Japanese magazine called Energy. He suggested that as a machine looks more human, people feel more warmly towards it, but only up to a point. When it gets very close to human without quite arriving, the warmth drops sharply into unease. On his graph, that dip looks like a valley.",
+  "bullets": [
+    {
+      "opening": "Bukimi no tani",
+      "linkId": null,
+      "text": "Mori's Japanese phrase was bukimi no tani, roughly a valley of eeriness. The English name uncanny valley spread after the writer Jasia Reichardt used it in her 1978 book about robots."
+    },
+    {
+      "opening": "Movement deepens the dip",
+      "linkId": null,
+      "text": "Mori argued that motion makes the effect stronger. A realistic artificial hand might pass for real while still, but once it moves slightly wrongly, the impression breaks and the unease grows."
+    },
+    {
+      "opening": "Mori's design advice",
+      "linkId": null,
+      "text": "Rather than chase perfect realism, Mori advised robot designers to aim for the first peak before the valley: clearly a machine, but a pleasant one. Many friendly robots and cartoon characters sit right there."
+    },
+    {
+      "opening": "Monkeys in the valley",
+      "linkId": null,
+      "text": "In 2009 researchers at Princeton found that macaque monkeys looked less at realistic computer-made monkey faces than at real or cartoonish ones, a hint that the reaction is not purely cultural."
+    },
+    {
+      "opening": "A hypothesis, not a law",
+      "linkId": null,
+      "text": "Mori offered no experiments, only a thought. Later studies find the dip under some conditions but not others, and researchers still debate what causes it."
+    }
+  ],
+  "tags": [
+    "robots",
+    "perception",
+    "design",
+    "faces"
+  ],
+  "related": [
+    "robot-word",
+    "shakey-robot",
+    "eliza-chatbot",
+    "pareidolia",
+    "thatcher-effect",
+    "hollow-face-illusion"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "bugs-bunny-disneyland",
+  "title": "Meeting Bugs Bunny at Disneyland",
+  "category": "Mind",
+  "hook": "People recalled shaking hands with a rabbit who could never have been at Disneyland.",
+  "peek": "In a 2002 study, volunteers saw a mock Disneyland advert featuring Warner Bros' famous cartoon rabbit. Afterwards, about one in six said they had met him there as children. They could not have, because he belongs to a rival studio.",
+  "lede": "In 2002 the psychologists Kathryn Braun, Rhiannon Ellis and Elizabeth Loftus showed volunteers a mock advert for Disneyland. It invited them to think back to a childhood visit, including meeting Warner Bros' wisecracking rabbit in person. Afterwards, around 16% of those who saw it said they had met him at the park. That could not have happened.",
+  "bullets": [
+    {
+      "opening": "Why it could not happen",
+      "linkId": null,
+      "text": "Disneyland is run by Disney, and the rabbit belongs to Warner Bros, a rival studio. No costumed version of him greets visitors there, which made him a clean test: any memory of meeting him at the park had to be false."
+    },
+    {
+      "opening": "Remembered details",
+      "linkId": null,
+      "text": "In follow-up work, people who recalled meeting him often added detail. Many remembered shaking his hand or hugging him, some remembered touching his ears, and one recalled him holding a carrot."
+    },
+    {
+      "opening": "Nostalgic advertising",
+      "linkId": null,
+      "text": "The researchers were studying adverts that ask us to remember our own past. Their point was that such adverts do not just stir up memories, they can quietly edit them, adding moments that never took place."
+    },
+    {
+      "opening": "Elizabeth Loftus's research",
+      "linkId": null,
+      "text": "Loftus had spent decades showing that memory is rebuilt each time we recall it, and can absorb suggestions along the way. The Disneyland rabbit became one of her best-known examples because the false detail was so easy to check."
+    }
+  ],
+  "tags": [
+    "memory",
+    "myths-busted",
+    "experiments",
+    "advertising"
+  ],
+  "related": [
+    "penny-memory",
+    "choice-blindness",
+    "doorway-effect",
+    "mere-exposure-effect",
+    "steamboat-willie"
+  ]
+}

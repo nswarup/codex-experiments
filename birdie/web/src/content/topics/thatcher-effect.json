@@ -1,0 +1,43 @@
+{
+  "id": "thatcher-effect",
+  "title": "The Thatcher effect",
+  "category": "Mind",
+  "hook": "A doctored face looks shocking upright but almost normal upside down.",
+  "peek": "Turn the eyes and mouth of a portrait upside down and the face looks deeply strange. Turn the whole picture over and the problem nearly vanishes. The psychologist Peter Thompson showed this in 1980 using a photo of Margaret Thatcher.",
+  "lede": "In 1980 Peter Thompson, a psychologist at the University of York, took a photograph of Margaret Thatcher, then the British prime minister, and flipped just her eyes and mouth upside down. Shown the right way up, the result looks bizarre. Shown upside down, it looks like a fairly ordinary photo of her, and people struggle to see what has been changed.",
+  "bullets": [
+    {
+      "opening": "The 1980 paper",
+      "linkId": null,
+      "text": "Thompson published the illusion in the journal Perception under the title Margaret Thatcher: a new illusion. It works with any face; hers was simply one that everyone knew at the time."
+    },
+    {
+      "opening": "Faces read as a whole",
+      "linkId": null,
+      "text": "Psychologists think we read upright faces as a whole, judging how the features sit together. Upside down, that whole-face reading largely switches off and we check features one by one, so a flipped eye passes as just an eye."
+    },
+    {
+      "opening": "The face inversion effect",
+      "linkId": null,
+      "text": "The illusion is one sign of a wider rule: people are much worse at recognising upside-down faces than other upside-down objects, such as houses. Faces seem to get special treatment only when upright."
+    },
+    {
+      "opening": "Thatcherised monkey faces",
+      "linkId": null,
+      "text": "A 2009 study found that rhesus monkeys also notice doctored monkey faces when upright but not when inverted, which suggests the face-reading habit behind the illusion is shared with other primates."
+    }
+  ],
+  "tags": [
+    "faces",
+    "illusions",
+    "perception",
+    "names"
+  ],
+  "related": [
+    "hollow-face-illusion",
+    "pareidolia",
+    "uncanny-valley",
+    "the-dress",
+    "checker-shadow-illusion"
+  ]
+}

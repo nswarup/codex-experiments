@@ -1,0 +1,48 @@
+{
+  "id": "tip-of-the-tongue",
+  "title": "The tip-of-the-tongue state",
+  "category": "Mind",
+  "hook": "You can know a word's first letter and length while the word itself hides.",
+  "peek": "In 1966 two Harvard psychologists caught people in the act of almost remembering. Even when a word would not come, people could often say how it began and how many syllables it had, which shows that memory hands over words in pieces.",
+  "lede": "Everyone has had a word sitting just out of reach. In 1966 Roger Brown and David McNeill at Harvard set out to cause the feeling on purpose. They read out dictionary definitions of rare words, such as sampan, a small Chinese boat, and asked students to name the word. Many got stuck, and their near misses turned out to be well informed.",
+  "bullets": [
+    {
+      "opening": "The sampan experiment",
+      "linkId": null,
+      "text": "When students were stuck, Brown and McNeill asked them to guess the missing word's features. They named its first letter correctly more than half the time, far above chance, and often got the number of syllables right too."
+    },
+    {
+      "opening": "Sound-alike guesses",
+      "linkId": null,
+      "text": "The wrong words that surfaced were telling. For sampan, people offered words like Saipan, Siam and sarong, which share its sounds, as well as junk and barge, which share its meaning."
+    },
+    {
+      "opening": "Meaning before sound",
+      "linkId": null,
+      "text": "Psychologists describe the state as a stall between two steps of finding a word. The meaning has been retrieved, and some of the sound, but the full sound pattern has not come through yet."
+    },
+    {
+      "opening": "Names and age",
+      "linkId": null,
+      "text": "Names of people are the most common culprits. Diary studies suggest young adults hit a tip-of-the-tongue state about once a week, and it becomes more frequent with age."
+    },
+    {
+      "opening": "Tip of the fingers",
+      "linkId": null,
+      "text": "Deaf people who use sign language have the same experience, called a tip-of-the-fingers state. A 2005 study found signers could often recall a stuck sign's handshape or location while the whole sign stayed out of reach."
+    }
+  ],
+  "tags": [
+    "memory",
+    "language",
+    "words",
+    "experiments"
+  ],
+  "related": [
+    "doorway-effect",
+    "semantic-satiation",
+    "memory-palace",
+    "baader-meinhof",
+    "magical-number-seven"
+  ]
+}

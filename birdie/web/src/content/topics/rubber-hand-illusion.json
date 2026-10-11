@@ -1,0 +1,43 @@
+{
+  "id": "rubber-hand-illusion",
+  "title": "The rubber hand illusion",
+  "category": "Mind",
+  "hook": "Watch a fake hand being stroked and your brain may adopt it as your own.",
+  "peek": "Hide someone's hand, put a rubber one in view, and stroke both with brushes at the same time. Within a minute or so, many people feel the touch on the rubber hand, and some say it feels like part of their body.",
+  "lede": "In 1998 the psychologists Matthew Botvinick and Jonathan Cohen published a simple experiment in Nature. A volunteer sat with one hand hidden behind a screen and a life-size rubber hand in front of them. The researchers stroked both with paintbrushes in time. Before long, most people reported feeling the brush on the rubber hand, as if it belonged to them.",
+  "bullets": [
+    {
+      "opening": "Keeping the strokes in sync",
+      "linkId": null,
+      "text": "The strokes have to match. When the brushes on the real and rubber hands fall out of step, even by a fraction of a second, the illusion weakens or fails. The brain binds sight and touch only when they arrive together."
+    },
+    {
+      "opening": "Proprioceptive drift",
+      "linkId": null,
+      "text": "Asked to point to their hidden hand with eyes closed, people under the illusion aim noticeably towards the rubber hand. Researchers use this drift as a measure of how strongly the illusion has taken hold."
+    },
+    {
+      "opening": "Brain scans of ownership",
+      "linkId": null,
+      "text": "In 2004 Henrik Ehrsson and colleagues scanned people during the illusion. Activity in the premotor cortex rose as the feeling of ownership arrived, which on average took about 11 seconds."
+    },
+    {
+      "opening": "Not everyone feels it",
+      "linkId": null,
+      "text": "A sizeable minority of people feel little or nothing, even with perfect timing. Why some brains accept the rubber hand readily and others resist is still being studied."
+    }
+  ],
+  "tags": [
+    "illusions",
+    "perception",
+    "touch",
+    "body"
+  ],
+  "related": [
+    "cutaneous-rabbit",
+    "mcgurk-effect",
+    "hollow-face-illusion",
+    "stopped-clock-illusion",
+    "uncanny-valley"
+  ]
+}

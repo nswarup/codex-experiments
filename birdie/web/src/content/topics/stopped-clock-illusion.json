@@ -1,0 +1,43 @@
+{
+  "id": "stopped-clock-illusion",
+  "title": "The stopped-clock illusion",
+  "category": "Mind",
+  "hook": "The first tick you see on a clock can seem to last longer than a second.",
+  "peek": "Glance at a clock and the second hand can seem to hang in place before it moves again. The brain is filling in the moment your eyes were in flight, backdating what you see to the start of the glance.",
+  "lede": "Many people have noticed that the first second after looking at a clock seems to drag. In 2001 Kielan Yarrow and colleagues at University College London measured it. Volunteers moved their eyes to a counter that changed digits, and judged its first interval as longer than later ones. The illusion has a name: chronostasis, Greek for time standing still.",
+  "bullets": [
+    {
+      "opening": "Saccades and the blind gap",
+      "linkId": null,
+      "text": "During a quick eye movement, called a saccade, vision is largely suppressed, so we are briefly blind. The brain covers the gap by backdating the new image to when the eye began to move, stretching that first moment."
+    },
+    {
+      "opening": "Bigger glances, bigger stretch",
+      "linkId": null,
+      "text": "Yarrow's team found that longer eye movements produced a bigger illusion. That fits the idea that the brain is filling in exactly the time the eyes spent in motion."
+    },
+    {
+      "opening": "The silent telephone",
+      "linkId": null,
+      "text": "Hearing has its own version. In a 2002 study, people who shifted attention to a sound in one ear judged the first gap between tones as longer, echoing the feeling that a phone line is silent too long when first picked up."
+    },
+    {
+      "opening": "Reaching and touching",
+      "linkId": null,
+      "text": "Touch does it too. People who reach out to an object judge the first moment of contact as lasting longer than it really does, as if time briefly pauses when the hand arrives."
+    }
+  ],
+  "tags": [
+    "time",
+    "illusions",
+    "perception",
+    "clocks"
+  ],
+  "related": [
+    "wagon-wheel-effect",
+    "cutaneous-rabbit",
+    "libet-experiment",
+    "invisible-gorilla",
+    "hafele-keating"
+  ]
+}

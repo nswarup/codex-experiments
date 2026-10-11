@@ -1,0 +1,43 @@
+{
+  "id": "waterfall-illusion",
+  "title": "The waterfall illusion",
+  "category": "Mind",
+  "hook": "Stare at a waterfall, then at the rocks, and the rocks seem to drift upwards.",
+  "peek": "In 1834 a visitor to the Falls of Foyers in Scotland noticed that after watching the water, the nearby rocks appeared to climb. The waterfall illusion is a motion aftereffect, and it reveals how the brain measures movement.",
+  "lede": "In 1834 Robert Addams published an account of a visit to the Falls of Foyers, near Loch Ness. After gazing at the falling water for a while, he looked at the rocks beside it and saw them moving upwards, against the flow. The effect, now called the motion aftereffect, is easy to repeat at any waterfall, or with a moving video and a still wall.",
+  "bullets": [
+    {
+      "opening": "Aristotle's river",
+      "linkId": null,
+      "text": "Addams was not the first to notice. Aristotle wrote that after watching a flowing river, still objects seem to move, but the Scottish waterfall gave the effect its popular name."
+    },
+    {
+      "opening": "Tired motion detectors",
+      "linkId": null,
+      "text": "The usual explanation is adaptation. Brain cells tuned to downward motion fire steadily while you watch the water and gradually tire. When you turn to still rocks, upward-tuned cells briefly win out, so stillness reads as rising."
+    },
+    {
+      "opening": "Moving but going nowhere",
+      "linkId": null,
+      "text": "The illusion has an odd twist. The rocks seem to move, yet they never appear to change position. That suggests the brain judges motion and position with partly separate systems."
+    },
+    {
+      "opening": "Plateau's spiral",
+      "linkId": null,
+      "text": "In the 19th century the Belgian physicist Joseph Plateau described a spiral version. After watching a rotating spiral that seems to expand, a still face or wall looks as if it is shrinking."
+    }
+  ],
+  "tags": [
+    "illusions",
+    "perception",
+    "motion",
+    "waterfalls"
+  ],
+  "related": [
+    "wagon-wheel-effect",
+    "rotating-snakes",
+    "mccollough-effect",
+    "lilac-chaser",
+    "cutaneous-rabbit"
+  ]
+}

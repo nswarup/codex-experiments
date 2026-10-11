@@ -1,0 +1,43 @@
+{
+  "id": "memory-palace",
+  "title": "The memory palace",
+  "category": "Mind",
+  "hook": "Memory champions mostly have ordinary brains and a very old trick.",
+  "peek": "People who memorise decks of cards in minutes are not usually born with special memories. Most use the method of loci, placing things to remember along a familiar route. In one study, ordinary volunteers who practised it for six weeks more than doubled their recall.",
+  "lede": "The memory palace, also called the method of loci, works by placing each thing you want to remember at a spot along a route you know well, such as your walk home. To recall the list, you take the walk again in your head. Roman teachers taught it to speakers over 2,000 years ago, and today's memory champions still rely on it.",
+  "bullets": [
+    {
+      "opening": "The Roman handbooks",
+      "linkId": null,
+      "text": "The method is set out in the Rhetorica ad Herennium, a Latin guide to public speaking from around 80 BC, and later by Cicero. Speakers used it to carry long speeches without notes. Legend credits the Greek poet Simonides with inventing it."
+    },
+    {
+      "opening": "Vivid, odd images",
+      "linkId": null,
+      "text": "The handbook advised making each image striking and strange, because ordinary pictures fade. Memory athletes still do this, turning a plain word into a bizarre little scene parked at each spot on the route."
+    },
+    {
+      "opening": "Champions' ordinary brains",
+      "linkId": null,
+      "text": "In 2003 Eleanor Maguire and colleagues scanned top memory competitors. Their brain structure and general intelligence looked ordinary, but while memorising they leaned heavily on regions linked to finding their way through space."
+    },
+    {
+      "opening": "The six-week training study",
+      "linkId": null,
+      "text": "A 2017 study led by Martin Dresler trained novices for about 30 minutes a day over six weeks. On a list of 72 words, their recall rose from about 26 to about 62, and much of the gain lasted four months."
+    }
+  ],
+  "tags": [
+    "memory",
+    "history-of-things",
+    "experiments",
+    "records"
+  ],
+  "related": [
+    "tip-of-the-tongue",
+    "magical-number-seven",
+    "testing-effect",
+    "ebbinghaus-forgetting-curve",
+    "doorway-effect"
+  ]
+}

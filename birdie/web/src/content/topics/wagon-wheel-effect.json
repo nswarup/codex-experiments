@@ -1,0 +1,43 @@
+{
+  "id": "wagon-wheel-effect",
+  "title": "The wagon-wheel effect",
+  "category": "Mind",
+  "hook": "Wheels on film can seem to spin backwards while the car speeds forwards.",
+  "peek": "In old westerns the stagecoach wheels often appear to turn slowly backwards. The camera is to blame: it takes separate snapshots, and if each spoke moves almost one full gap between frames, it looks like it slipped back a little.",
+  "lede": "Film is a series of still pictures, usually 24 a second. A spoked wheel looks identical each time it turns by one spoke's spacing, so the camera cannot tell how far it really went. If a spoke moves just short of the next spoke's old position between frames, the brain picks the shortest path and sees the wheel creeping backwards.",
+  "bullets": [
+    {
+      "opening": "Twenty-four frames a second",
+      "linkId": "twenty-four-frames",
+      "text": "At film's standard rate, a wheel with 12 spokes looks frozen if it turns exactly one spoke's spacing per frame, which is 2 turns a second. A little slower and it seems to creep backwards; a little faster and it creeps forwards."
+    },
+    {
+      "opening": "Temporal aliasing",
+      "linkId": null,
+      "text": "Engineers call this aliasing: sampling a repeating motion too slowly to capture it faithfully. The same effect can make helicopter blades seem to hang motionless in videos when the frame rate matches the blades' rhythm."
+    },
+    {
+      "opening": "Turntable strobe dots",
+      "linkId": null,
+      "text": "Record turntables put the effect to work. Rings of dots on the platter's edge look still under mains-powered light, which flickers at a steady rate, only when the platter spins at exactly the right speed."
+    },
+    {
+      "opening": "Reversal in daylight",
+      "linkId": null,
+      "text": "Some people see wheels reverse under steady sunlight, with no camera or flicker involved. Researchers have argued about why since the 1960s, and there is still no agreed explanation."
+    }
+  ],
+  "tags": [
+    "illusions",
+    "perception",
+    "film",
+    "time"
+  ],
+  "related": [
+    "twenty-four-frames",
+    "muybridge-horse",
+    "stopped-clock-illusion",
+    "waterfall-illusion",
+    "rotating-snakes"
+  ]
+}
