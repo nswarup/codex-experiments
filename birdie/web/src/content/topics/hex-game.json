@@ -3,8 +3,8 @@
   "title": "The game of Hex",
   "category": "Games",
   "hook": "Hex was invented twice, and a game of it can never end in a draw.",
-  "peek": "Piet Hein invented Hex in Denmark in 1942, and John Nash came up with it again at Princeton in 1948. On its diamond board of hexagons someone must always win, and Nash proved the first player can always win, without saying how.",
-  "lede": "Hex is played on a diamond-shaped board of hexagons, usually 11 on a side. Two players take turns placing stones, each trying to link their two opposite edges. The Danish poet and designer Piet Hein invented it in 1942. In 1948 John Nash, then a student at Princeton, invented it again on his own. Fellow students there called it Nash, or John.",
+  "peek": "Piet Hein invented Hex in Denmark in 1942, and John Nash came up with it again at Princeton in the late 1940s. On its diamond board of hexagons someone must always win, and Nash proved the first player can always win, without saying how.",
+  "lede": "Hex is played on a diamond-shaped board of hexagons, usually 11 on a side. Two players take turns placing stones, each trying to link their two opposite edges. The Danish poet and designer Piet Hein invented it in 1942. Around 1948 John Nash, then a student at Princeton, invented it again on his own. Fellow students there called it Nash, or John.",
   "bullets": [
     {
       "opening": "Why Hex never draws",
