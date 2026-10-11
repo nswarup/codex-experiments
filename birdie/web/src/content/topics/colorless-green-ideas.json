@@ -1,0 +1,38 @@
+{
+  "id": "colorless-green-ideas",
+  "title": "Colorless green ideas sleep furiously",
+  "category": "Language",
+  "hook": "A famous sentence built to be correct English while meaning nothing at all.",
+  "peek": "In 1957 the linguist Noam Chomsky wrote \"Colorless green ideas sleep furiously\" to make a point: a sentence can follow every rule of grammar and still be nonsense. Scrambled backwards, it stops being English at all.",
+  "lede": "In his 1957 book Syntactic Structures, Noam Chomsky offered a sentence that sounds like English yet makes no sense: \"Colorless green ideas sleep furiously\". Ideas have no colour, nothing is both colourless and green, and sleeping cannot be furious. Still, any English speaker hears it as a proper sentence. Chomsky's point was that grammar and meaning are separate things.",
+  "bullets": [
+    {
+      "opening": "Furiously sleep ideas green colorless",
+      "linkId": null,
+      "text": "Chomsky set the sentence beside the same words in reverse. Both are meaningless, but only the first sounds grammatical. Since neither had likely ever been said before, he argued, familiarity could not explain the difference."
+    },
+    {
+      "opening": "A challenge to statistics",
+      "linkId": null,
+      "text": "The pair became an argument against judging grammar by how probable a word sequence is. Decades later, researchers showed that statistical models trained on real text can still rank the first version as far likelier."
+    },
+    {
+      "opening": "Giving it a meaning",
+      "linkId": null,
+      "text": "Writers have long taken the sentence as a dare. The poet John Hollander ended a short poem with it, setting up enough images beforehand that colourless green ideas almost seem to make sense."
+    }
+  ],
+  "tags": [
+    "grammar",
+    "sentences",
+    "linguists",
+    "meaning"
+  ],
+  "related": [
+    "garden-path-sentence",
+    "buffalo-sentence",
+    "lorem-ipsum",
+    "chinese-room",
+    "quick-brown-fox"
+  ]
+}

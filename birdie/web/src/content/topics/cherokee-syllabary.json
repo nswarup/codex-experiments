@@ -1,0 +1,43 @@
+{
+  "id": "cherokee-syllabary",
+  "title": "Sequoyah's Cherokee syllabary",
+  "category": "Language",
+  "hook": "A man who could not read invented a way to write his whole language.",
+  "peek": "Sequoyah, a Cherokee silversmith, could not read English or any other language. He still built a complete writing system for Cherokee, and within a few years thousands of Cherokee people had learned to read and write with it.",
+  "lede": "In the early 1800s, Sequoyah watched white settlers send messages on paper and decided the Cherokee should have the same power. He could not read any language, so he had no model to copy. After about a dozen years of work, he finished a syllabary around 1821: one symbol for each syllable of spoken Cherokee, about 85 in all.",
+  "bullets": [
+    {
+      "opening": "Symbols for syllables",
+      "linkId": null,
+      "text": "Sequoyah first tried a sign for every word, but the list grew endless. Switching to syllables made the system small enough to learn quickly. A Cherokee speaker who knew the sounds could often read within weeks."
+    },
+    {
+      "opening": "Borrowed shapes, new sounds",
+      "linkId": null,
+      "text": "Some characters look like Latin letters, copied from print Sequoyah had seen, but they stand for entirely different sounds. The symbol shaped like D, for example, is read as the vowel a."
+    },
+    {
+      "opening": "The demonstration with Ayoka",
+      "linkId": null,
+      "text": "The story goes that Sequoyah convinced doubtful Cherokee leaders by having his young daughter Ayoka read out messages he had written while she was out of the room. The test persuaded them, and the syllabary spread fast."
+    },
+    {
+      "opening": "The Cherokee Phoenix",
+      "linkId": null,
+      "text": "In 1828 the Cherokee Nation began printing the Cherokee Phoenix, a newspaper in both English and the new script. Within a few years, a large share of the nation could read Cherokee, a remarkably quick shift for a newly written language."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "writing-systems",
+    "alphabets",
+    "history-of-things"
+  ],
+  "related": [
+    "hangul",
+    "braille",
+    "linear-b",
+    "cuneiform-accounts",
+    "nicaraguan-sign-language"
+  ]
+}

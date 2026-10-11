@@ -1,0 +1,43 @@
+{
+  "id": "bouba-kiki",
+  "title": "Bouba and kiki",
+  "category": "Language",
+  "hook": "Most people agree which made-up word fits a spiky shape and which fits a round one.",
+  "peek": "Shown a jagged shape and a blobby one, and asked which is kiki and which is bouba, most people pick kiki for the spiky one. The pattern turns up across many languages, which suggests sounds and shapes are linked in the mind.",
+  "lede": "Look at two shapes, one jagged like a star and one soft like a cloud. Which is kiki and which is bouba? Most people call the spiky one kiki and the round one bouba, and they rarely hesitate. The effect has been tested in many languages and cultures, and it is one of the best-known cases of sound symbolism.",
+  "bullets": [
+    {
+      "opening": "Köhler's takete and maluma",
+      "linkId": null,
+      "text": "The psychologist Wolfgang Köhler first described the effect in 1929, using the made-up words takete and maluma. Most people matched takete to the angular shape, the same pattern later found with kiki."
+    },
+    {
+      "opening": "Ramachandran's 2001 study",
+      "linkId": null,
+      "text": "Neuroscientists V. S. Ramachandran and Edward Hubbard coined bouba and kiki in 2001. They reported that about 95% of people they tested gave the same answer, kiki for the spiky shape."
+    },
+    {
+      "opening": "Lips and sharp sounds",
+      "linkId": null,
+      "text": "One idea is that the mouth mirrors the shapes. Saying bouba rounds the lips, while kiki uses quick, sharp k sounds and a spread-lip i. The exact cause is still debated."
+    },
+    {
+      "opening": "A test in 25 languages",
+      "linkId": null,
+      "text": "A large 2022 study tested speakers of 25 languages using many writing systems. The effect appeared in most of them, though not all, so it seems widespread but not perfectly universal."
+    }
+  ],
+  "tags": [
+    "sound-symbolism",
+    "perception",
+    "experiments",
+    "shapes"
+  ],
+  "related": [
+    "mcgurk-effect",
+    "huh-universal",
+    "semantic-satiation",
+    "speech-to-song-illusion",
+    "toki-pona"
+  ]
+}

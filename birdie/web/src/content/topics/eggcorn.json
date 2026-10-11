@@ -1,0 +1,38 @@
+{
+  "id": "eggcorn",
+  "title": "Eggcorns",
+  "category": "Language",
+  "hook": "When someone writes egg corn for acorn, they have made a mistake with its own logic.",
+  "peek": "An eggcorn is a misheard word or phrase that makes a new kind of sense, like \"for all intensive purposes\". Linguists named them in 2003 after someone wrote \"egg corn\" for acorn, which is, after all, a seed shaped like an egg.",
+  "lede": "In 2003 the linguist Mark Liberman wrote on the Language Log blog about a person who spelled acorn as \"egg corn\". It was wrong, but not random: an acorn is a nut shaped a little like an egg. His colleague Geoffrey Pullum suggested the name eggcorn for this kind of mistake, where a misheard phrase is rebuilt into something that also seems to make sense.",
+  "bullets": [
+    {
+      "opening": "For all intensive purposes",
+      "linkId": null,
+      "text": "Classic eggcorns include \"for all intensive purposes\", \"free reign\" for free rein and \"deep-seeded\" for deep-seated. Each swap makes its own sense: a ruler with free reign does sound powerful."
+    },
+    {
+      "opening": "Not quite a malapropism",
+      "linkId": null,
+      "text": "A malapropism uses a wrong word that sounds similar but makes no sense in context. An eggcorn is chosen because the new version seems to fit, which is why people can use one for years without noticing."
+    },
+    {
+      "opening": "When eggcorns win",
+      "linkId": null,
+      "text": "Some eggcorns eventually become standard, and then they count as folk etymology. Bridegroom is one: the Old English word ended in guma, meaning man, which speakers reshaped into the familiar groom."
+    }
+  ],
+  "tags": [
+    "language-change",
+    "names",
+    "etymology",
+    "mishearing"
+  ],
+  "related": [
+    "nickname-rebracketing",
+    "spoonerism",
+    "yanny-laurel",
+    "dord",
+    "phonemic-restoration"
+  ]
+}

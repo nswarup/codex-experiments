@@ -1,0 +1,38 @@
+{
+  "id": "spaces-between-words",
+  "title": "The invention of the space between words",
+  "category": "Language",
+  "hook": "For centuries, Latin was written as one long unbroken string of letters.",
+  "peek": "The gap between words feels like part of writing itself, but late Roman books did without it. Irish and British monks in the early Middle Ages started leaving spaces, partly because Latin was a foreign language to them.",
+  "lede": "By late Roman times, Latin books were written in scriptio continua, with letters running on with no gaps at all. Readers usually read aloud and worked out the word breaks as they went. Around the 7th century, scribes in Ireland and Britain began separating words with spaces, and the habit slowly spread across Europe.",
+  "bullets": [
+    {
+      "opening": "Roman word dots",
+      "linkId": null,
+      "text": "Early Romans did mark word breaks, often with a small raised dot called an interpunct. Around the 2nd century AD they dropped it, following the Greek style of unbroken text, so the space-free era was a step backwards."
+    },
+    {
+      "opening": "Latin as a foreign language",
+      "linkId": null,
+      "text": "Irish monks learned Latin from books rather than at home. With no native ear for where words ended, they found gaps a great help, and their manuscripts were some of the first to space words routinely."
+    },
+    {
+      "opening": "Reading in silence",
+      "linkId": null,
+      "text": "The historian Paul Saenger argued in his book Space Between Words that spacing made silent, fast reading much easier. It took centuries to become standard on the continent, and the change was gradual rather than sudden."
+    }
+  ],
+  "tags": [
+    "writing-systems",
+    "history-of-things",
+    "typography",
+    "reading"
+  ],
+  "related": [
+    "boustrophedon",
+    "pilcrow",
+    "tittle",
+    "letter-thorn",
+    "ampersand"
+  ]
+}

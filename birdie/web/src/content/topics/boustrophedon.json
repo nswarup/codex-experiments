@@ -1,0 +1,43 @@
+{
+  "id": "boustrophedon",
+  "title": "Boustrophedon, writing like an ox ploughs",
+  "category": "Language",
+  "hook": "Some ancient writing ran left to right, then turned and ran back the other way.",
+  "peek": "Early Greek inscriptions sometimes ran in alternating directions, line by line, like an ox ploughing a field. On the backward lines the letters themselves were flipped, so the reader's eye never had to jump back to the start.",
+  "lede": "Boustrophedon is Greek for something like \"turning like an ox\". It names a way of writing where one line runs left to right and the next runs right to left, the way a ploughing ox turns at the end of each furrow. Early Greek inscriptions often used it, and on the reversed lines the letters were written mirror-image too.",
+  "bullets": [
+    {
+      "opening": "Mirrored letters",
+      "linkId": null,
+      "text": "On a right-to-left line, asymmetric letters such as E or K face the other way. The whole line reads like a mirror image of the one above, so each line keeps the letters facing the direction of travel."
+    },
+    {
+      "opening": "The Gortyn law code",
+      "linkId": null,
+      "text": "One famous example is the Gortyn code on Crete, carved into a stone wall in the 5th century BC. Its twelve columns of law run back and forth in boustrophedon, and it is one of the longest Greek inscriptions known."
+    },
+    {
+      "opening": "Greek's change of direction",
+      "linkId": null,
+      "text": "The earliest Greek writing, borrowed from the Phoenician alphabet, often ran right to left. Boustrophedon was a stage on the way, and by the classical period Greek had settled on the left-to-right direction it still uses."
+    },
+    {
+      "opening": "Rongorongo's upside-down lines",
+      "linkId": null,
+      "text": "Easter Island's undeciphered rongorongo script takes the idea further. Each line is upside down relative to the next, so readers are thought to have turned the tablet around at the end of every line."
+    }
+  ],
+  "tags": [
+    "writing-systems",
+    "alphabets",
+    "history-of-things",
+    "patterns"
+  ],
+  "related": [
+    "linear-b",
+    "spaces-between-words",
+    "cuneiform-accounts",
+    "pilcrow",
+    "hangul"
+  ]
+}

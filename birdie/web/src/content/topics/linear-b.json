@@ -1,0 +1,43 @@
+{
+  "id": "linear-b",
+  "title": "The architect who cracked Linear B",
+  "category": "Language",
+  "hook": "An architect in his spare time solved a script that had baffled scholars for 50 years.",
+  "peek": "Clay tablets from ancient Crete carried a script nobody could read for half a century. In 1952 Michael Ventris, an English architect working on it as a hobby, showed that the script, Linear B, was writing an early form of Greek.",
+  "lede": "Around 1900 the archaeologist Arthur Evans dug up thousands of clay tablets at Knossos on Crete, covered in an unknown script he called Linear B. They were more than 3,000 years old. Experts tried and failed to read them for decades. The breakthrough came from Michael Ventris, an architect, who announced in 1952 that the language underneath was Greek.",
+  "bullets": [
+    {
+      "opening": "A schoolboy at a lecture",
+      "linkId": null,
+      "text": "Ventris first heard about Linear B in 1936, at about 14, when he met Evans at an exhibition in London. He kept at the puzzle for years alongside his training and work as an architect."
+    },
+    {
+      "opening": "Alice Kober's groundwork",
+      "linkId": null,
+      "text": "The American classicist Alice Kober had already shown that words in the script changed their endings, like an inflected language. Her careful tables of related signs, sometimes called Kober's triplets, gave Ventris a grid to work from."
+    },
+    {
+      "opening": "The surprise of Greek",
+      "linkId": null,
+      "text": "Ventris himself expected an unrelated language, perhaps linked to Etruscan. When place names like Knossos began to fall out of his grid, the words turned out to be an early form of Greek, centuries older than Homer."
+    },
+    {
+      "opening": "The tripod tablet",
+      "linkId": null,
+      "text": "In 1953 a newly found tablet from Pylos showed drawings of three-legged cauldrons next to a word that, read with Ventris's values, spelled ti-ri-po-de, tripods. It was strong confirmation that the decipherment worked."
+    }
+  ],
+  "tags": [
+    "writing-systems",
+    "codes",
+    "archaeology",
+    "amateurs"
+  ],
+  "related": [
+    "cuneiform-accounts",
+    "boustrophedon",
+    "cherokee-syllabary",
+    "antikythera-mechanism",
+    "letter-thorn"
+  ]
+}

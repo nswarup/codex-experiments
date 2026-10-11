@@ -1,0 +1,43 @@
+{
+  "id": "nicaraguan-sign-language",
+  "title": "Nicaraguan Sign Language",
+  "category": "Language",
+  "hook": "Deaf children brought together in Nicaragua invented a whole new language.",
+  "peek": "In late 1970s Nicaragua, new schools brought hundreds of deaf children together for the first time. Their teachers tried to teach lip-reading, but the children built their own sign language, and each younger group made it richer.",
+  "lede": "Before the late 1970s, most deaf children in Nicaragua lived scattered at home, communicating with family through simple gestures. Then new special education schools in Managua brought hundreds of them together. Teachers focused on lip-reading and spoken Spanish, with little success. Meanwhile, in the playground and on the buses, the children were building a sign language of their own.",
+  "bullets": [
+    {
+      "opening": "Schools in Managua",
+      "linkId": null,
+      "text": "A primary school opened in 1977, and a vocational school followed in 1980. Within a few years several hundred deaf students were gathered in one place, a community large enough for a language to take hold."
+    },
+    {
+      "opening": "Judy Kegl's visit",
+      "linkId": null,
+      "text": "Puzzled teachers asked for outside help, and in 1986 the American linguist Judy Kegl came to study what the children were doing. She found it was not mime, but a language with its own grammar."
+    },
+    {
+      "opening": "Younger signers made it richer",
+      "linkId": null,
+      "text": "Researchers such as Ann Senghas found that children who joined younger signed more systematically than the first group. They split a motion like rolling downhill into separate signs for manner and path, a feature of mature languages."
+    },
+    {
+      "opening": "A language born in view",
+      "linkId": null,
+      "text": "Because the language arose within living memory, linguists can compare its first and later signers directly. It is one of the clearest cases ever recorded of children creating a language, not just learning one."
+    }
+  ],
+  "tags": [
+    "sign-language",
+    "communication",
+    "language-change",
+    "children"
+  ],
+  "related": [
+    "huh-universal",
+    "cherokee-syllabary",
+    "silbo-gomero",
+    "toki-pona",
+    "esperanto"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "run-most-meanings",
+  "title": "The word with 645 meanings",
+  "category": "Language",
+  "hook": "The small verb run has more meanings in the Oxford dictionary than any other word.",
+  "peek": "When the Oxford English Dictionary revised the verb run, its entry grew to about 645 distinct senses. That pushed past set, long the record holder, and made run the English word with the most meanings.",
+  "lede": "The Oxford English Dictionary records about 645 senses for the verb run, from running a race to running a business, a tap or a fever. That count came from the dictionary's revision of the entry, published in 2011, and it overtook set, which had held the record with around 430 senses in the second edition of 1989.",
+  "bullets": [
+    {
+      "opening": "Nine months on one word",
+      "linkId": null,
+      "text": "The lexicographer Peter Gilliver reportedly spent about nine months working through the evidence for run. Each sense needs its own definition and dated quotations showing how it has been used."
+    },
+    {
+      "opening": "How set lost its crown",
+      "linkId": null,
+      "text": "Set had been the dictionary's biggest entry for decades. Run overtook it partly because the language changed: machines, computers and programs all run, and each new use added senses."
+    },
+    {
+      "opening": "Small words, many jobs",
+      "linkId": null,
+      "text": "The longest entries tend to belong to short, old verbs like run, set, put and take. They get used so often, in so many phrases, that their meanings keep branching."
+    }
+  ],
+  "tags": [
+    "records",
+    "dictionaries",
+    "language-change",
+    "words"
+  ],
+  "related": [
+    "dord",
+    "esquivalience",
+    "semantic-satiation",
+    "ok-origin",
+    "goodbye-origin"
+  ]
+}

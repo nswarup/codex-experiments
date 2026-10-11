@@ -1,0 +1,38 @@
+{
+  "id": "huh-universal",
+  "title": "'Huh?' is universal",
+  "category": "Language",
+  "hook": "Across very different languages, people ask for a repeat with almost the same word.",
+  "peek": "When someone did not catch what you said, you might say \"huh?\". Researchers found a strikingly similar word doing the same job in languages around the world, argued it is a real word, and won an Ig Nobel Prize for it.",
+  "lede": "In 2013 the linguists Mark Dingemanse, Francisco Torreira and Nick Enfield published a study asking whether \"huh?\" is a universal word. They recorded everyday conversations in ten very different languages, from Icelandic to Lao to Siwu in Ghana, and looked at how people ask \"what did you say?\". In every one, they found a short, similar-sounding word with a questioning tone.",
+  "bullets": [
+    {
+      "opening": "A word, not a grunt",
+      "linkId": null,
+      "text": "The team argued huh is learned, not instinct. Its exact sound shifts slightly to fit each language's own system of vowels and tone, which is what words do and grunts do not."
+    },
+    {
+      "opening": "Why it sounds the same",
+      "linkId": null,
+      "text": "Their explanation is that the job shapes the word. A request to repeat must be fast, easy to say from a resting mouth and clearly a question, and a short syllable with rising pitch meets all three."
+    },
+    {
+      "opening": "The 2015 Ig Nobel Prize",
+      "linkId": null,
+      "text": "In 2015 the study won the Ig Nobel Prize for Literature, given for research that makes people laugh, then think. The citation praised the finding and noted the team was not quite sure why it happens."
+    }
+  ],
+  "tags": [
+    "communication",
+    "conversation",
+    "linguists",
+    "universals"
+  ],
+  "related": [
+    "bouba-kiki",
+    "speech-information-rate",
+    "ok-origin",
+    "hello-on-the-phone",
+    "nicaraguan-sign-language"
+  ]
+}

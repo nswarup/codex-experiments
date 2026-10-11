@@ -3108,5 +3108,65 @@
   "id": "austen-creaking-door",
   "title": "Jane Austen's creaking door",
   "category": "Books"
+ },
+ {
+  "id": "cherokee-syllabary",
+  "title": "Sequoyah's Cherokee syllabary",
+  "category": "Language"
+ },
+ {
+  "id": "linear-b",
+  "title": "The architect who cracked Linear B",
+  "category": "Language"
+ },
+ {
+  "id": "boustrophedon",
+  "title": "Boustrophedon, writing like an ox ploughs",
+  "category": "Language"
+ },
+ {
+  "id": "spaces-between-words",
+  "title": "The invention of the space between words",
+  "category": "Language"
+ },
+ {
+  "id": "tittle",
+  "title": "The tittle",
+  "category": "Language"
+ },
+ {
+  "id": "garden-path-sentence",
+  "title": "The horse raced past the barn fell",
+  "category": "Language"
+ },
+ {
+  "id": "colorless-green-ideas",
+  "title": "Colorless green ideas sleep furiously",
+  "category": "Language"
+ },
+ {
+  "id": "run-most-meanings",
+  "title": "The word with 645 meanings",
+  "category": "Language"
+ },
+ {
+  "id": "eggcorn",
+  "title": "Eggcorns",
+  "category": "Language"
+ },
+ {
+  "id": "bouba-kiki",
+  "title": "Bouba and kiki",
+  "category": "Language"
+ },
+ {
+  "id": "huh-universal",
+  "title": "'Huh?' is universal",
+  "category": "Language"
+ },
+ {
+  "id": "nicaraguan-sign-language",
+  "title": "Nicaraguan Sign Language",
+  "category": "Language"
  }
 ]

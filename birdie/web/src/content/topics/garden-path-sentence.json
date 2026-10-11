@@ -1,0 +1,43 @@
+{
+  "id": "garden-path-sentence",
+  "title": "The horse raced past the barn fell",
+  "category": "Language",
+  "hook": "A perfectly grammatical sentence that almost everyone reads wrong the first time.",
+  "peek": "\"The horse raced past the barn fell\" looks like a mistake, but it is correct English. It trips readers because the brain decides too early what the words are doing, then has to back up and start again.",
+  "lede": "Read \"The horse raced past the barn fell\" and the final word feels like an error. It is not. The sentence means the horse that was raced past the barn fell over. The trouble is that most readers take raced as the main verb straight away, and when fell arrives there is nowhere left to put it.",
+  "bullets": [
+    {
+      "opening": "Thomas Bever's example",
+      "linkId": null,
+      "text": "The psycholinguist Thomas Bever used the sentence in 1970 to show that people do not wait for the end of a sentence before interpreting it. They build a reading word by word and commit to it."
+    },
+    {
+      "opening": "Led up the garden path",
+      "linkId": null,
+      "text": "Linguists call these garden path sentences, after the phrase for being misled. Other examples include \"The old man the boat\", where man is a verb, and \"The complex houses married and single soldiers\"."
+    },
+    {
+      "opening": "What the eyes do",
+      "linkId": null,
+      "text": "Eye-tracking studies show readers slow down at the surprising word and often jump back to earlier words to re-read. The brain is visibly repairing its first guess."
+    },
+    {
+      "opening": "One word fixes it",
+      "linkId": null,
+      "text": "Swap in ridden, as in \"The horse ridden past the barn fell\", and the trap disappears. Ridden can only be a passive form, so readers never mistake it for the main verb."
+    }
+  ],
+  "tags": [
+    "grammar",
+    "reading",
+    "perception",
+    "sentences"
+  ],
+  "related": [
+    "buffalo-sentence",
+    "colorless-green-ideas",
+    "panama-palindrome",
+    "semantic-satiation",
+    "spoonerism"
+  ]
+}

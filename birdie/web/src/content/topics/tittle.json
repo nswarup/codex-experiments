@@ -1,0 +1,44 @@
+{
+  "id": "tittle",
+  "title": "The tittle",
+  "category": "Language",
+  "hook": "The dot on top of a lowercase i has a name of its own: the tittle.",
+  "peek": "The little dot over i and j is called a tittle. It is the same tittle as in the old phrase \"every jot and tittle\", and it began as a medieval scribe's trick to stop i getting lost among other strokes.",
+  "lede": "The dot above a lowercase i or j is called a tittle. The word comes from Latin titulus, a small mark written over letters, and English has used it for tiny marks in writing for centuries. It survives in the phrase \"every jot and tittle\", meaning every last detail, where the jot is the small Greek letter iota.",
+  "bullets": [
+    {
+      "opening": "Jot and tittle",
+      "linkId": null,
+      "text": "The phrase became familiar through the Sermon on the Mount in English Bibles, where not one jot or tittle will pass from the law. There the words meant the smallest strokes of writing, long before tittle settled on the i."
+    },
+    {
+      "opening": "Lost among minims",
+      "linkId": null,
+      "text": "In medieval handwriting, i, m, n and u were all built from short upright strokes called minims. A word like minimum became a picket fence. Scribes added a small stroke over i to pick it out, and that mark later shrank to a dot."
+    },
+    {
+      "opening": "Turkish dotted and dotless i",
+      "linkId": null,
+      "text": "In Turkish the tittle is not decoration. Dotted i and dotless ı are separate letters with different sounds, each with its own capital, so dropping the dot changes the word."
+    },
+    {
+      "opening": "The tilde connection",
+      "linkId": null,
+      "text": "Titulus also gave Spanish the word tilde, the wavy mark over ñ. So the dot on an i and the squiggle on an ñ share one Latin ancestor."
+    }
+  ],
+  "tags": [
+    "names",
+    "etymology",
+    "typography",
+    "writing-systems"
+  ],
+  "related": [
+    "pilcrow",
+    "octothorpe",
+    "ampersand",
+    "interrobang",
+    "spaces-between-words",
+    "letter-thorn"
+  ]
+}
