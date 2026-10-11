@@ -1,0 +1,48 @@
+{
+  "id": "steelpan",
+  "title": "The steelpan",
+  "category": "Music",
+  "hook": "Trinidad turned empty oil drums into a whole family of tuned instruments.",
+  "peek": "In mid-20th-century Trinidad, musicians discovered that a hammered metal drum could play a melody. Within a few years, discarded oil drums had become the steelpan, now the national instrument of Trinidad and Tobago.",
+  "lede": "The steelpan grew up on the streets of Port of Spain, Trinidad, in the 1930s and 1940s. Carnival bands were beating rhythms on biscuit tins, paint cans and bits of scrap metal. Players noticed that a dent in the metal rang with its own note. After the Second World War, the island's oil industry left plenty of 55-gallon drums lying around, and a new instrument was born.",
+  "bullets": [
+    {
+      "opening": "From tamboo bamboo to tins",
+      "linkId": null,
+      "text": "Before metal, many Carnival bands played tamboo bamboo, lengths of bamboo struck or stamped on the ground. Metal containers were louder and more durable, and players gradually switched to them."
+    },
+    {
+      "opening": "Ellie Mannette's sunken drum",
+      "linkId": null,
+      "text": "Pioneers such as Winston 'Spree' Simon and Ellie Mannette shaped the instrument. Mannette is credited with sinking the drum's top into a concave bowl, which gave room for more notes and a sweeter tone."
+    },
+    {
+      "opening": "Hammering and tuning the notes",
+      "linkId": null,
+      "text": "Each note is a separate patch of metal, shaped with hammers and hardened with heat. A skilled tuner adjusts every patch so its main tone and overtones ring in tune together."
+    },
+    {
+      "opening": "Panorama and the national instrument",
+      "linkId": null,
+      "text": "Big steel orchestras compete each year at Panorama during Trinidad's Carnival, a contest running since 1963. In 1992 the steelpan was declared the national instrument of Trinidad and Tobago."
+    },
+    {
+      "opening": "The twentieth-century claim",
+      "linkId": null,
+      "text": "The steelpan is often called the only major acoustic instrument invented in the 20th century. That claim is popular but hard to prove, since it depends on what counts as major."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "acoustics",
+    "history-of-things",
+    "myths-busted"
+  ],
+  "related": [
+    "hohle-fels-flute",
+    "stradivarius",
+    "glass-armonica",
+    "stalacpipe-organ",
+    "hammond-organ"
+  ]
+}

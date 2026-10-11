@@ -1,0 +1,44 @@
+{
+  "id": "orchestra-hit",
+  "title": "The orchestra hit",
+  "category": "Music",
+  "hook": "A dramatic chord heard all over 1980s pop came from a sampler's preset sound.",
+  "peek": "That huge, stabbing orchestral chord in 1980s hip hop and pop was usually not an orchestra at all. It was a sampled sound, best known as ORCH5 on the Fairlight sampler, widely said to come from a recording of Stravinsky's The Firebird.",
+  "lede": "Listen to pop and hip hop from the 1980s and you will keep hearing it: a short, brassy blast that sounds like a full orchestra hitting one chord at once. Producers did not hire orchestras for it. The sound came ready-made in early samplers, most famously as a preset called ORCH5 on the Australian Fairlight CMI.",
+  "bullets": [
+    {
+      "opening": "The Fairlight CMI",
+      "linkId": null,
+      "text": "Released in 1979, the Fairlight was one of the first instruments that could record a short sound and play it back from a keyboard at any pitch. It came with a library of sounds, including ORCH5."
+    },
+    {
+      "opening": "Stravinsky's The Firebird",
+      "linkId": null,
+      "text": "ORCH5 is widely said to have been sampled from a recording of Stravinsky's 1910 ballet The Firebird, from a single loud chord. The exact recording used is not documented, so the story is usually told with some caution."
+    },
+    {
+      "opening": "Planet Rock",
+      "linkId": null,
+      "text": "Afrika Bambaataa and the Soulsonic Force's 1982 track 'Planet Rock' helped make the sound famous. Producers such as Trevor Horn then used orchestra hits as a signature in their work."
+    },
+    {
+      "opening": "From novelty to cliché",
+      "linkId": null,
+      "text": "Copies of the sound appeared in later samplers and synthesizers, and by the 1990s it was everywhere from dance tracks to video game music. Many producers came to see it as dated, yet it keeps returning."
+    }
+  ],
+  "tags": [
+    "music-tech",
+    "records",
+    "history-of-things",
+    "design"
+  ],
+  "related": [
+    "amen-break",
+    "roland-tr-808",
+    "mellotron",
+    "yamaha-dx7",
+    "midi",
+    "switched-on-bach"
+  ]
+}

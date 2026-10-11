@@ -3588,5 +3588,65 @@
   "id": "roland-tr-808",
   "title": "The Roland TR-808",
   "category": "Music"
+ },
+ {
+  "id": "jingle-bells-space",
+  "title": "The first instruments played in space",
+  "category": "Music"
+ },
+ {
+  "id": "phonautograph",
+  "title": "Au clair de la lune, the oldest recorded voice",
+  "category": "Music"
+ },
+ {
+  "id": "les-paul-overdub",
+  "title": "Les Paul and sound on sound",
+  "category": "Music"
+ },
+ {
+  "id": "muzak-stimulus-progression",
+  "title": "Muzak's stimulus progression",
+  "category": "Music"
+ },
+ {
+  "id": "opus-number-1",
+  "title": "The hold music everyone knows",
+  "category": "Music"
+ },
+ {
+  "id": "pythagorean-comma",
+  "title": "The Pythagorean comma",
+  "category": "Music"
+ },
+ {
+  "id": "missing-fundamental",
+  "title": "Hearing the note that isn't there",
+  "category": "Music"
+ },
+ {
+  "id": "steelpan",
+  "title": "The steelpan",
+  "category": "Music"
+ },
+ {
+  "id": "celesta-sugar-plum",
+  "title": "Tchaikovsky's secret celesta",
+  "category": "Music"
+ },
+ {
+  "id": "orchestra-hit",
+  "title": "The orchestra hit",
+  "category": "Music"
+ },
+ {
+  "id": "midi",
+  "title": "MIDI, the 1983 language of music",
+  "category": "Music"
+ },
+ {
+  "id": "yamaha-dx7",
+  "title": "The DX7 and Stanford's patent",
+  "category": "Music"
  }
 ]

@@ -1,0 +1,44 @@
+{
+  "id": "phonautograph",
+  "title": "Au clair de la lune, the oldest recorded voice",
+  "category": "Music",
+  "hook": "A voice was recorded in 1860, but nobody heard it until 2008.",
+  "peek": "Seventeen years before Edison's phonograph, a Paris inventor traced a voice singing 'Au clair de la lune' as wavy lines on paper. He never meant it to be played back. In 2008, scientists turned his squiggles into sound for the first time.",
+  "lede": "Edison is usually credited with the first sound recording, in 1877. But in 1860 a Paris typesetter and inventor, Édouard-Léon Scott de Martinville, recorded someone singing the French folk song 'Au clair de la lune'. His machine, the phonautograph, wrote sound down as a wavy line. It could not play anything back, and for almost 150 years nobody heard it.",
+  "bullets": [
+    {
+      "opening": "How the phonautograph worked",
+      "linkId": null,
+      "text": "Sound entered a horn and shook a thin membrane attached to a bristle. The bristle traced the vibrations onto paper blackened with lamp smoke, wrapped around a turning cylinder. Scott patented the idea in 1857 and wanted to study speech by looking at it."
+    },
+    {
+      "opening": "The First Sounds project",
+      "linkId": null,
+      "text": "In 2008 a group of audio historians found Scott's sheets in Paris archives. Scientists at Lawrence Berkeley National Laboratory scanned them in high resolution and used software to turn the traced line into sound."
+    },
+    {
+      "opening": "The singer's identity",
+      "linkId": null,
+      "text": "The first playback sounded like a woman or a child. Researchers later concluded it had been played at the wrong speed. Slowed down, it is most likely Scott himself, singing slowly in a man's voice."
+    },
+    {
+      "opening": "Recording before playback",
+      "linkId": null,
+      "text": "Scott never imagined anyone hearing his recordings. To him they were pictures of sound, to be read like handwriting. The idea that a trace could be turned back into sound came later, with Edison and others."
+    }
+  ],
+  "tags": [
+    "records",
+    "inventors",
+    "music-tech",
+    "history-of-things"
+  ],
+  "related": [
+    "golden-record",
+    "fax-before-telephone",
+    "recorded-voice",
+    "cd-74-minutes",
+    "toms-diner-mp3",
+    "hello-on-the-phone"
+  ]
+}

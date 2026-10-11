@@ -1,0 +1,43 @@
+{
+  "id": "jingle-bells-space",
+  "title": "The first instruments played in space",
+  "category": "Music",
+  "hook": "Two Gemini astronauts smuggled a harmonica into orbit and played 'Jingle Bells'.",
+  "peek": "In December 1965, the crew of Gemini 6A told Mission Control they had spotted a strange object in orbit. Then a tiny harmonica and a string of sleigh bells struck up 'Jingle Bells', the first music played on instruments in space.",
+  "lede": "On 16 December 1965, Wally Schirra and Tom Stafford were orbiting Earth in Gemini 6A, a day after making the first ever rendezvous between two crewed spacecraft. Ten days before Christmas, they played a joke on Mission Control. Then they played 'Jingle Bells', on instruments nobody on the ground knew they had brought.",
+  "bullets": [
+    {
+      "opening": "The UFO report",
+      "linkId": null,
+      "text": "Stafford radioed that he could see an object in a polar orbit, with a command module and eight smaller modules out in front. The pilot, he added, was wearing a red suit. For a moment the controllers were not sure what to make of it."
+    },
+    {
+      "opening": "A harmonica and sleigh bells",
+      "linkId": null,
+      "text": "Schirra then pulled out a Hohner Little Lady, a four-hole harmonica about an inch long, and Stafford shook a string of small bells. They had tucked both into their kit before launch without telling anyone."
+    },
+    {
+      "opening": "First instruments in space",
+      "linkId": null,
+      "text": "Soviet cosmonauts had already sung over the radio, so this was not the first song heard from orbit. It is usually counted as the first music played on instruments in space, and the crew's short duet made it a celebrated Christmas moment."
+    },
+    {
+      "opening": "The Smithsonian's harmonica",
+      "linkId": null,
+      "text": "The harmonica and bells came home with the crew. Both are now kept by the Smithsonian's National Air and Space Museum in Washington, DC."
+    }
+  ],
+  "tags": [
+    "space-exploration",
+    "records",
+    "music-tech",
+    "history-of-things"
+  ],
+  "related": [
+    "gemini-corned-beef",
+    "space-oddity-hadfield",
+    "golden-record",
+    "snoopy-charlie-brown",
+    "zero-g-indicator"
+  ]
+}

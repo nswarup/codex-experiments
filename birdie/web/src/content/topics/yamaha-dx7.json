@@ -1,0 +1,44 @@
+{
+  "id": "yamaha-dx7",
+  "title": "The DX7 and Stanford's patent",
+  "category": "Music",
+  "hook": "The bright sound of 1980s pop came from a Stanford discovery about fast vibrato.",
+  "peek": "The Yamaha DX7 defined the sound of 1980s pop with its glassy electric pianos and bells. Its method, FM synthesis, was discovered by a Stanford composer, and the licence earned the university millions in royalties.",
+  "lede": "In 1983 Yamaha launched the DX7, the first commercially successful digital synthesizer. It sold well over 100,000 units, and its bright, bell-like presets turned up on countless hits. The sound came from frequency modulation, or FM synthesis, a method found more than 15 years earlier by the composer John Chowning at Stanford University.",
+  "bullets": [
+    {
+      "opening": "John Chowning's vibrato experiment",
+      "linkId": null,
+      "text": "In 1967 Chowning was experimenting with vibrato on a computer. When he made the wobble in pitch extremely fast, it stopped sounding like vibrato and produced rich new tones instead. Changing a few numbers could make bells, brass or electric pianos."
+    },
+    {
+      "opening": "The Stanford licence",
+      "linkId": null,
+      "text": "Stanford patented FM synthesis and licensed it to Yamaha in the 1970s. Over the following years it earned the university more than 20 million dollars, making it one of Stanford's most lucrative patents of its time."
+    },
+    {
+      "opening": "The E.PIANO 1 preset",
+      "linkId": null,
+      "text": "The DX7's built-in electric piano sound became one of the most familiar of the decade, heard on many 1980s ballads and television themes."
+    },
+    {
+      "opening": "Hard to program",
+      "linkId": null,
+      "text": "Building new sounds on the DX7 meant adjusting dozens of abstract values through a tiny display. Many owners never tried, so the factory presets spread through pop music almost unchanged."
+    }
+  ],
+  "tags": [
+    "music-tech",
+    "inventors",
+    "records",
+    "patterns"
+  ],
+  "related": [
+    "midi",
+    "switched-on-bach",
+    "orchestra-hit",
+    "roland-tr-808",
+    "hammond-organ",
+    "theremin"
+  ]
+}

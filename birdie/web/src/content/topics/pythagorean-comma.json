@@ -1,0 +1,44 @@
+{
+  "id": "pythagorean-comma",
+  "title": "The Pythagorean comma",
+  "category": "Music",
+  "hook": "Twelve perfect fifths overshoot seven octaves, so pianos are tuned slightly off.",
+  "peek": "Climb twelve perfect fifths from a note and you should land exactly seven octaves higher. You do not. You overshoot by a sliver called the Pythagorean comma, and modern pianos hide it by making every fifth very slightly impure.",
+  "lede": "A perfect fifth is the sweetest interval after the octave: two notes whose frequencies sit in a ratio of 3 to 2. Stack twelve of them, from C through every note, and you should arrive back at C, seven octaves up. The arithmetic says otherwise. You land about a quarter of a semitone too high, and this tiny gap has shaped tuning for centuries.",
+  "bullets": [
+    {
+      "opening": "The arithmetic of fifths",
+      "linkId": null,
+      "text": "Twelve fifths multiply out to 1.5 to the twelfth power, about 129.7. Seven octaves are 2 to the seventh, exactly 128. The ratio between them, roughly 1.0136, is the Pythagorean comma."
+    },
+    {
+      "opening": "The wolf fifth",
+      "linkId": null,
+      "text": "Tuners using pure fifths had to dump the leftover gap somewhere. One fifth ended up badly out of tune, a harsh interval nicknamed the wolf, and musicians simply avoided keys that used it."
+    },
+    {
+      "opening": "Equal temperament",
+      "linkId": null,
+      "text": "Modern pianos share the comma out evenly. Each fifth is narrowed by about one fiftieth of a semitone, too small for most ears to notice, so every key sounds equally good and none sounds perfectly pure."
+    },
+    {
+      "opening": "Piano tuners counting beats",
+      "linkId": null,
+      "text": "Because tempered fifths are not quite pure, two notes played together make a slow pulse, called beating. Tuners listen for it and set each fifth to beat at a steady, gentle rate."
+    }
+  ],
+  "tags": [
+    "patterns",
+    "acoustics",
+    "perception",
+    "history-of-things"
+  ],
+  "related": [
+    "a440-concert-pitch",
+    "perfect-pitch",
+    "missing-fundamental",
+    "pianoforte-name",
+    "solfege-hymn",
+    "shepard-tone"
+  ]
+}

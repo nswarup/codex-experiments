@@ -1,0 +1,43 @@
+{
+  "id": "opus-number-1",
+  "title": "The hold music everyone knows",
+  "category": "Music",
+  "hook": "The tune millions hear while on hold was made by two teenagers in 1989.",
+  "peek": "If you have ever waited on hold with a big company, you may know a mellow synth tune called 'Opus No. 1'. It was recorded by two teenagers in a bedroom in 1989, years before one of them chose it as Cisco's default hold music.",
+  "lede": "Call almost any office, pharmacy or help line and there is a fair chance you will hear the same gentle synth tune while you wait. It is called 'Opus No. 1', and it ships as the default hold music on Cisco phone systems used across the world. It was not written by a hold music company. Two teenage friends made it in 1989.",
+  "bullets": [
+    {
+      "opening": "Tim Carleton and Darrick Deel",
+      "linkId": null,
+      "text": "Tim Carleton was about 16 when he and his friend Darrick Deel recorded the track at home on a synthesizer and a small multitrack tape recorder. Carleton gave it the grand title 'Opus Number 1'."
+    },
+    {
+      "opening": "Cisco's default hold music",
+      "linkId": null,
+      "text": "Years later Deel was working at Cisco on its phone systems, and the team needed music for callers on hold. He offered the tune he had made as a teenager, and it became the built-in default."
+    },
+    {
+      "opening": "Why it stayed everywhere",
+      "linkId": null,
+      "text": "Default settings tend to stick. Many businesses that installed Cisco phones never changed the hold music, so the same track has played to huge numbers of callers in many countries for decades."
+    },
+    {
+      "opening": "The composers' surprise",
+      "linkId": null,
+      "text": "For years most listeners had no idea who wrote it. When the story spread online, Carleton and Deel found that a teenage experiment had become one of the most heard pieces of music on the planet."
+    }
+  ],
+  "tags": [
+    "music-tech",
+    "communication",
+    "design",
+    "records"
+  ],
+  "related": [
+    "muzak-stimulus-progression",
+    "nokia-tune",
+    "windows-95-sound",
+    "hello-on-the-phone",
+    "happy-birthday-copyright"
+  ]
+}

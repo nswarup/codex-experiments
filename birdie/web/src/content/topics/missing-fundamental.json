@@ -1,0 +1,44 @@
+{
+  "id": "missing-fundamental",
+  "title": "Hearing the note that isn't there",
+  "category": "Music",
+  "hook": "Your brain can hear a low note even when the sound contains none of it.",
+  "peek": "Old telephone lines dropped the lowest frequencies of a voice, yet deep voices still sounded deep. The brain fills in the missing note from the pattern of higher tones above it, a trick known as the missing fundamental.",
+  "lede": "Most sounds are a stack of tones: a lowest one, the fundamental, which sets the pitch, and overtones at two, three and four times its frequency. Remove the fundamental entirely and you might expect the pitch to jump up. It does not. The brain notices the regular spacing of the overtones and hears the missing note anyway.",
+  "bullets": [
+    {
+      "opening": "Deep voices on the telephone",
+      "linkId": null,
+      "text": "Classic phone lines carried roughly 300 to 3,400 hertz. A typical man's voice has a fundamental near 100 to 150 hertz, well below that range, but callers still sound low because their overtones arrive intact."
+    },
+    {
+      "opening": "Seebeck's siren experiments",
+      "linkId": null,
+      "text": "In the 1840s the German physicist August Seebeck used sirens to show that people heard a pitch matching the spacing between tones, even when that pitch was absent. Georg Ohm disagreed, and the debate ran for decades."
+    },
+    {
+      "opening": "Bass from tiny speakers",
+      "linkId": null,
+      "text": "Laptop and phone speakers are too small to produce deep bass. Sound engineers can boost the overtones of a bass line instead, and listeners hear a lower note than the speaker can play."
+    },
+    {
+      "opening": "The organ's resultant stop",
+      "linkId": null,
+      "text": "Organ builders used the same effect long before anyone explained it. Sounding two pipes a fifth apart can suggest a note an octave below the lower one, saving the cost and space of a giant pipe."
+    }
+  ],
+  "tags": [
+    "perception",
+    "acoustics",
+    "illusions",
+    "communication"
+  ],
+  "related": [
+    "shepard-tone",
+    "phonemic-restoration",
+    "perfect-pitch",
+    "hello-on-the-phone",
+    "recorded-voice",
+    "pythagorean-comma"
+  ]
+}

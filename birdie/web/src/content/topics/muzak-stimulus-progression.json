@@ -1,0 +1,44 @@
+{
+  "id": "muzak-stimulus-progression",
+  "title": "Muzak's stimulus progression",
+  "category": "Music",
+  "hook": "Office background music was once timed to pick workers up when they flagged.",
+  "peek": "For decades, Muzak did not just play pleasant tunes in offices and factories. It arranged them in quarter-hour blocks that slowly grew livelier, timed to lift energy during the slow parts of the working day.",
+  "lede": "Muzak is the name people still use for bland background music, but the company behind it had a plan. From the 1940s it sold music to workplaces as a tool. Its programmers arranged songs in 15-minute blocks, each one starting calm and growing gradually more upbeat. They called this stimulus progression, and they leaned on it hardest when people tend to slump.",
+  "bullets": [
+    {
+      "opening": "Rating songs for stimulus",
+      "linkId": null,
+      "text": "Each recording was given a score based on things like tempo, rhythm and the size of the orchestra. Programmers then ordered tracks so the score rose steadily through each block, then paused before the next one began."
+    },
+    {
+      "opening": "Mid-morning and mid-afternoon slumps",
+      "linkId": null,
+      "text": "The schedule was shaped around the working day. The liveliest blocks were placed in the late morning and mid-afternoon, when Muzak said energy dipped, while quieter music played after lunch and at the start of the day."
+    },
+    {
+      "opening": "Wired music by General Squier",
+      "linkId": null,
+      "text": "The company grew from the work of George Owen Squier, a US Army general who patented a way to send music over electrical wires. The name Muzak is usually explained as a blend of music and Kodak."
+    },
+    {
+      "opening": "The end of stimulus progression",
+      "linkId": null,
+      "text": "How much the system really raised output is hard to say, since much of the evidence came from Muzak's own studies. By the 1990s the company had dropped it in favour of playlists of original recordings by real artists."
+    }
+  ],
+  "tags": [
+    "music-tech",
+    "history-of-things",
+    "perception",
+    "design"
+  ],
+  "related": [
+    "opus-number-1",
+    "ravel-bolero",
+    "satie-vexations",
+    "cage-433",
+    "windows-95-sound",
+    "choir-heartbeats"
+  ]
+}

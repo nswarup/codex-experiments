@@ -1,0 +1,44 @@
+{
+  "id": "les-paul-overdub",
+  "title": "Les Paul and sound on sound",
+  "category": "Music",
+  "hook": "One guitarist turned himself into a whole band by recording over his own playing.",
+  "peek": "Long before studios had dozens of tracks, Les Paul stacked his own guitar parts and Mary Ford's voice, one layer on another. He did it first with disc cutters and then with a tape machine he rebuilt himself, and the records were hits.",
+  "lede": "Today any laptop can layer a hundred tracks. In the 1940s a recording was usually one performance, captured in one go. The guitarist Les Paul wanted more. He recorded a part, then played along with it while recording again, building whole arrangements from himself alone. With the singer Mary Ford, his wife and duet partner, the trick became a run of hit records.",
+  "bullets": [
+    {
+      "opening": "Overdubbing on discs",
+      "linkId": null,
+      "text": "Paul's first experiments used two disc recorders in his garage studio. He would play a part onto one disc, then play that back while adding a new part, cutting both onto a second disc. Each round added a layer and a little more surface noise."
+    },
+    {
+      "opening": "The Ampex tape recorder",
+      "linkId": null,
+      "text": "Around 1949 Bing Crosby gave Paul one of the first Ampex tape machines. Paul added an extra head so it could play back and record on the same tape at once, letting him stack parts without losing quality so quickly."
+    },
+    {
+      "opening": "How High the Moon",
+      "linkId": null,
+      "text": "Les Paul and Mary Ford's 1951 recording of 'How High the Moon' layered many guitar parts and Ford's voice into close harmony. It topped the US charts and sounded like nothing else on the radio."
+    },
+    {
+      "opening": "The eight-track Octopus",
+      "linkId": null,
+      "text": "Later in the 1950s Ampex built Paul an eight-track machine, which he nicknamed the Octopus. Each track could be recorded separately, an early form of the multitrack recording that every studio now uses."
+    }
+  ],
+  "tags": [
+    "music-tech",
+    "inventors",
+    "records",
+    "history-of-things"
+  ],
+  "related": [
+    "amen-break",
+    "mellotron",
+    "switched-on-bach",
+    "hammond-organ",
+    "auto-tune",
+    "roland-tr-808"
+  ]
+}

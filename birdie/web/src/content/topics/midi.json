@@ -1,0 +1,44 @@
+{
+  "id": "midi",
+  "title": "MIDI, the 1983 language of music",
+  "category": "Music",
+  "hook": "Rival synth makers agreed on one music language in 1983, and it barely changed.",
+  "peek": "In 1983, competing instrument makers agreed on a simple way for their synthesizers to talk to each other. MIDI sends notes, not sounds, at a modest 31,250 bits a second, and version 1.0 stayed the standard for almost 40 years.",
+  "lede": "In the early 1980s, each synthesizer maker had its own way of connecting instruments, and most would not talk to each other. Dave Smith of Sequential Circuits and Ikutaro Kakehashi of Roland pushed for a shared standard. The result, MIDI, short for Musical Instrument Digital Interface, appeared in 1983 and soon linked almost every electronic instrument made.",
+  "bullets": [
+    {
+      "opening": "The 1983 NAMM demonstration",
+      "linkId": null,
+      "text": "At the NAMM music trade show in January 1983, a Sequential Prophet-600 was connected to a Roland Jupiter-6 with a single cable. Playing one keyboard sounded notes on the other, made by a rival company."
+    },
+    {
+      "opening": "Notes, not sounds",
+      "linkId": null,
+      "text": "MIDI carries instructions rather than audio: which key, how hard it was struck and when it was released. The receiving instrument makes the actual sound, which is why a MIDI file can be tiny."
+    },
+    {
+      "opening": "Why 31,250 bits a second",
+      "linkId": null,
+      "text": "The speed was chosen because it divided neatly from a common one-megahertz chip clock. It was slow even by 1980s computing standards, but fast enough for the notes a player can produce."
+    },
+    {
+      "opening": "MIDI 2.0",
+      "linkId": null,
+      "text": "An updated version, MIDI 2.0, was announced in 2020, almost 37 years after the original. The old MIDI 1.0 remained in wide use, and in 2013 Smith and Kakehashi received a Technical Grammy Award for creating it."
+    }
+  ],
+  "tags": [
+    "music-tech",
+    "communication",
+    "design",
+    "inventors"
+  ],
+  "related": [
+    "roland-tr-808",
+    "yamaha-dx7",
+    "orchestra-hit",
+    "switched-on-bach",
+    "illiac-suite",
+    "auto-tune"
+  ]
+}

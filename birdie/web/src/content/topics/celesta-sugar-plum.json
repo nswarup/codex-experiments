@@ -1,0 +1,43 @@
+{
+  "id": "celesta-sugar-plum",
+  "title": "Tchaikovsky's secret celesta",
+  "category": "Music",
+  "hook": "Tchaikovsky asked for a new instrument to be bought in secret, to beat his rivals.",
+  "peek": "In 1891 Tchaikovsky heard a new keyboard instrument in Paris with a sound like tiny bells. He asked his publisher to buy one quietly so no other Russian composer could use it first. It became the voice of the Sugar Plum Fairy.",
+  "lede": "Passing through Paris in 1891, Pyotr Ilyich Tchaikovsky came across the celesta, a recent invention by the instrument maker Auguste Mustel. It looked like a small upright piano but sounded like soft, glowing bells. Tchaikovsky wrote to his publisher, asking him to order one for Russia and to keep it quiet, so his rivals could not use it before he did.",
+  "bullets": [
+    {
+      "opening": "Mustel's celesta",
+      "linkId": null,
+      "text": "Patented by Mustel in 1886, the celesta has felt hammers that strike steel bars, each sitting over a wooden box that makes it resonate. Its name comes from the French word for heavenly."
+    },
+    {
+      "opening": "Rimsky-Korsakov and Glazunov",
+      "linkId": null,
+      "text": "In his letter, Tchaikovsky named the composers Nikolai Rimsky-Korsakov and Alexander Glazunov as the rivals he worried about. He wanted the celesta's first big moment in Russia to be his own."
+    },
+    {
+      "opening": "The Voyevoda",
+      "linkId": null,
+      "text": "The celesta's first appearance in his music was in fact a symphonic ballad, The Voyevoda, premiered in 1891. Tchaikovsky was unhappy with the piece and destroyed the score, which was later rebuilt from the players' parts."
+    },
+    {
+      "opening": "Dance of the Sugar Plum Fairy",
+      "linkId": null,
+      "text": "The Nutcracker, premiered in St Petersburg in December 1892, gave the celesta its famous solo. Its delicate, chiming melody became so tied to the instrument that many people still know the celesta only from this tune."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "history-of-things",
+    "acoustics",
+    "records"
+  ],
+  "related": [
+    "pianoforte-name",
+    "glass-armonica",
+    "ravel-bolero",
+    "haydn-farewell",
+    "steelpan"
+  ]
+}
