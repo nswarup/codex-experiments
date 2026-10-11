@@ -4,7 +4,7 @@
   "category": "Mind",
   "hook": "Few people solve this four-card puzzle until it is about a bar.",
   "peek": "Four cards, one simple rule, and a question about which cards to turn over. Fewer than one in ten people usually get it right. Rewrite the same logic as checking ages in a bar, and most people solve it at once.",
-  "lede": "In 1966 the psychologist Peter Wason showed people four cards, each with a letter on one side and a number on the other. They showed E, K, 4 and 7. The rule was: if a card has a vowel on one side, it has an even number on the other. Which cards must you turn to test the rule? Typically fewer than one in ten people get it right.",
+  "lede": "In 1966 the psychologist Peter Wason showed people four cards, each with a letter on one side and a number on the other. In the classic version they show E, K, 4 and 7. The rule was: if a card has a vowel on one side, it has an even number on the other. Which cards must you turn to test the rule? Typically fewer than one in ten people get it right.",
   "bullets": [
     {
       "opening": "The right answer",

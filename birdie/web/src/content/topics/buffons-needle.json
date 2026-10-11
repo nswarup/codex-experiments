@@ -14,7 +14,7 @@
     {
       "opening": "Estimating pi with needles",
       "linkId": null,
-      "text": "Turn the formula round and you have an experiment. Drop many needles, divide twice the number of throws by the number of crossings, and the result creeps towards pi. It creeps slowly: a thousand throws usually gets only the 3.1 right."
+      "text": "Turn the formula round and you have an experiment. Drop many needles, divide twice the number of throws by the number of crossings, and the result creeps towards pi. It creeps slowly: a thousand throws is typically still off by several hundredths."
     },
     {
       "opening": "Lazzarini's suspicious result",

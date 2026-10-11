@@ -14,7 +14,7 @@
     {
       "opening": "Infinitely many coaches",
       "linkId": null,
-      "text": "Even infinitely many coaches, each with infinitely many passengers, can be fitted in. One classic fix uses prime numbers: the passengers from coach 1 take rooms numbered by powers of 3, coach 2 powers of 5, and so on, so no two ever collide."
+      "text": "Even infinitely many coaches, each with infinitely many passengers, can be fitted in. One classic fix uses prime numbers: current guests move to powers of 2, coach 1's passengers take powers of 3, coach 2 powers of 5, and so on, so no two ever collide."
     },
     {
       "opening": "Hilbert's 1924 lecture",

@@ -3,7 +3,7 @@
   "title": "I cut, you choose",
   "category": "Math",
   "hook": "Sharing a cake fairly between two is easy. Doing it for any number took until 2016.",
-  "peek": "When two people share a cake, one cuts and the other chooses, and neither feels hard done by. Mathematicians spent decades trying to do the same for three, four or any number of people. A method that always finishes was found only in 2016.",
+  "peek": "When two people share a cake, one cuts and the other chooses, and neither feels hard done by. Mathematicians spent decades trying to do the same for three, four or any number of people. A method with a guaranteed limit on its steps was found only in 2016.",
   "lede": "I cut, you choose works because each person can make sure they are happy. The cutter splits the cake into two pieces they value equally, and the chooser takes whichever looks better. Neither ends up envying the other. Mathematicians call this envy-free. The puzzle is how to do the same for more people, when everyone values the icing and the cherries differently.",
   "bullets": [
     {
@@ -19,12 +19,12 @@
     {
       "opening": "The Brams–Taylor procedure",
       "linkId": null,
-      "text": "In 1995 Steven Brams and Alan Taylor found an envy-free method for any number of people. Its catch was that the number of cuts had no fixed limit: with awkward preferences, it might go on for as long as you like."
+      "text": "In 1995 Steven Brams and Alan Taylor found an envy-free method for any number of people. Its catch was that the number of cuts had no fixed limit: with awkward preferences, it could need any number of steps before finishing."
     },
     {
       "opening": "Aziz and Mackenzie's 2016 proof",
       "linkId": null,
-      "text": "Haris Aziz and Simon Mackenzie, computer scientists in Australia, found the first envy-free method for any number of people that is guaranteed to finish. The upper bound on its steps is a tower of powers so large it is useless in practice."
+      "text": "Haris Aziz and Simon Mackenzie, computer scientists in Australia, found the first envy-free method for any number of people that is guaranteed to finish within a fixed number of steps. The upper bound on its steps is a tower of powers so large it is useless in practice."
     }
   ],
   "tags": [
