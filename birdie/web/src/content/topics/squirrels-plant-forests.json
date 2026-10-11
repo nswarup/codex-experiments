@@ -1,0 +1,43 @@
+{
+  "id": "squirrels-plant-forests",
+  "title": "Squirrels plant forests by forgetting",
+  "category": "Animals",
+  "hook": "The nuts squirrels never dig up again grow into the next generation of trees.",
+  "peek": "A single squirrel can bury thousands of nuts in an autumn, each in its own hole. Most are found again, but the ones left behind are already planted at the right depth, and some grow into trees.",
+  "lede": "Grey squirrels do not keep their food in one store. Each autumn a single squirrel buries thousands of nuts and acorns, one at a time, in shallow holes scattered across its patch. It comes back for most of them over winter. The ones it does not need are already planted, and every spring some of them sprout into new oaks, walnuts and hickories.",
+  "bullets": [
+    {
+      "opening": "Remembering, not forgetting",
+      "linkId": null,
+      "text": "Squirrels are better at this than the title suggests. Experiments show they use landmarks and memory, not just smell, to find their caches. Some fox squirrels even sort their caches by nut type. The trees grow from the surplus they never come back for."
+    },
+    {
+      "opening": "Red oak versus white oak",
+      "linkId": null,
+      "text": "Squirrels treat acorns differently. White oak acorns sprout soon after falling, so squirrels tend to eat them straight away. Red oak acorns wait until spring, so those are the ones squirrels store, and those are the ones that get planted."
+    },
+    {
+      "opening": "Nipping out the seed",
+      "linkId": null,
+      "text": "When grey squirrels do store a white oak acorn, they often bite out the tiny embryo at one end first. The acorn can then no longer sprout, and stays good to eat for months."
+    },
+    {
+      "opening": "Fake burying for an audience",
+      "linkId": null,
+      "text": "Grey squirrels sometimes pretend. When they know another squirrel is watching, they dig a hole and cover it up with nothing inside, then hide the real nut somewhere else."
+    }
+  ],
+  "tags": [
+    "animal-minds",
+    "memory",
+    "trees",
+    "myths-busted"
+  ],
+  "related": [
+    "crows-faces",
+    "newtons-apple-tree",
+    "moon-trees",
+    "tree-ring-dating",
+    "bowerbird-collections"
+  ]
+}

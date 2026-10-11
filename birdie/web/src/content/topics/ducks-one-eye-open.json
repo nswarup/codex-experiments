@@ -1,0 +1,38 @@
+{
+  "id": "ducks-one-eye-open",
+  "title": "Ducks sleep with one eye open",
+  "category": "Animals",
+  "hook": "Ducks at the end of a row sleep with half their brain awake and one eye watching.",
+  "peek": "Ducks can sleep with one half of the brain while the other half stays alert. A 1999 study of mallards in a row found the ducks on the ends kept their outward eye open, watching for danger, while the ducks in the middle slept more deeply.",
+  "lede": "Ducks can rest one side of the brain at a time. In a 1999 study, the sleep scientist Niels Rattenborg and colleagues filmed mallards sleeping in a row of four and recorded their brain waves. The ducks at the two ends spent far more time half asleep, with one eye open. And the open eye usually faced away from the group, out toward possible danger.",
+  "bullets": [
+    {
+      "opening": "Unihemispheric sleep",
+      "linkId": null,
+      "text": "Each eye is wired mainly to the opposite half of a bird's brain. When a duck closes one eye, the hemisphere linked to it falls into deep sleep while the other half, watching through the open eye, stays partly awake."
+    },
+    {
+      "opening": "The row of four",
+      "linkId": null,
+      "text": "The mallards sat in a line of boxes so that the two at the ends had an exposed side. Those edge ducks kept watch far more than the ones in the middle, who could afford to sleep with both eyes shut."
+    },
+    {
+      "opening": "Turning around",
+      "linkId": null,
+      "text": "Ducks are not stuck with one side. In the study, edge ducks sometimes turned to face the other way, swapping which eye was open and which half of the brain got its turn to rest."
+    }
+  ],
+  "tags": [
+    "sleep",
+    "animal-minds",
+    "brains",
+    "perception"
+  ],
+  "related": [
+    "horses-sleep-standing",
+    "swifts-airborne",
+    "emperor-penguin-huddle",
+    "hummingbird-torpor",
+    "segmented-sleep"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "koala-fingerprints",
+  "title": "Koalas have fingerprints like ours",
+  "category": "Animals",
+  "hook": "Koala fingerprints are so like ours that experts struggle to tell them apart.",
+  "peek": "Koalas have swirling fingerprints with the same loops and ridges as human ones. Even under a microscope the two are hard to tell apart, yet koalas and people evolved them completely separately.",
+  "lede": "Most mammals have no fingerprints at all. Koalas do, and theirs are startlingly like ours. In the mid-1990s, researchers at the University of Adelaide led by the anatomist Maciej Henneberg looked at koala prints closely and found the same loops, whorls and ridge patterns seen on human fingertips. Even under a microscope, they reported, the two are hard to tell apart.",
+  "bullets": [
+    {
+      "opening": "The Adelaide study",
+      "linkId": null,
+      "text": "Henneberg's team compared the ridges in detail and found no simple feature that reliably separates a koala print from a human one. The ridge shapes, their spacing and the way they branch all fall within the human range."
+    },
+    {
+      "opening": "Evolving fingerprints twice",
+      "linkId": null,
+      "text": "Koalas are marsupials, and our last shared ancestor lived well over 100 million years ago without fingerprints. Their nearest relatives, wombats and kangaroos, lack them. So koalas grew fingerprints on their own, a textbook case of convergent evolution."
+    },
+    {
+      "opening": "Gripping eucalyptus branches",
+      "linkId": null,
+      "text": "Ridged skin is thought to improve grip and touch. Koalas spend almost their whole lives climbing and picking through eucalyptus leaves, so sensitive, ridged fingertips may help them hold branches and feel which leaves to choose."
+    },
+    {
+      "opening": "Two thumbs on each hand",
+      "linkId": null,
+      "text": "Koala front paws are built for grabbing. Each one has two digits that work like thumbs, set against the other three fingers, so the animal can clamp around a branch from both sides."
+    }
+  ],
+  "tags": [
+    "animal-minds",
+    "evolution",
+    "patterns",
+    "australia"
+  ],
+  "related": [
+    "platypus-glow",
+    "sea-otters-hands",
+    "narwhal-tusk",
+    "pruney-fingers",
+    "flamingo-pink"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "swifts-airborne",
+  "title": "Swifts stay in the air for ten months",
+  "category": "Animals",
+  "hook": "Some common swifts fly for ten months straight without once touching the ground.",
+  "peek": "Common swifts spend almost their whole lives in the air. Tiny trackers have shown that some stay aloft for about ten months at a time, eating flying prey and probably sleeping on the wing, landing only to nest.",
+  "lede": "Common swifts arrive in Europe to nest each spring, then leave for Africa. For years people suspected they barely landed while away. In 2016 a Swedish team led by Anders Hedenström fixed tiny data loggers to swifts and confirmed it. Some birds stayed in the air for about ten months without landing once, and the rest landed only for brief spells.",
+  "bullets": [
+    {
+      "opening": "The Lund data loggers",
+      "linkId": null,
+      "text": "The tiny loggers recorded whether each bird was flapping, gliding or sitting still. Back at the nest the next summer, the researchers read them off. Some swifts had not stopped moving since leaving the summer before."
+    },
+    {
+      "opening": "Sleeping on the wing",
+      "linkId": null,
+      "text": "Nobody has yet recorded a swift's brain waves in flight, but the birds probably sleep aloft. Swifts climb high at dusk and dawn, and may snatch short naps while slowly gliding down."
+    },
+    {
+      "opening": "A bird without feet",
+      "linkId": null,
+      "text": "The scientific name Apus means footless. Swifts do have feet, but they are tiny and made for clinging to walls, not walking or perching. A swift on flat ground can find it hard to take off."
+    },
+    {
+      "opening": "Young swifts aloft",
+      "linkId": null,
+      "text": "After leaving the nest, a young swift is thought to stay airborne until it is ready to breed, which can take two or more years. That would make its first flight the longest of its life."
+    }
+  ],
+  "tags": [
+    "birds",
+    "migration",
+    "sleep",
+    "records"
+  ],
+  "related": [
+    "arctic-tern",
+    "ducks-one-eye-open",
+    "wisdom-albatross",
+    "hummingbird-torpor",
+    "horses-sleep-standing"
+  ]
+}

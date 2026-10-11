@@ -1,0 +1,43 @@
+{
+  "id": "wisdom-albatross",
+  "title": "Wisdom, the oldest wild bird",
+  "category": "Animals",
+  "hook": "A wild albatross banded in 1956 was still laying eggs more than 65 years later.",
+  "peek": "Wisdom is a Laysan albatross on Midway Atoll in the Pacific. She was first banded in 1956, when she was already an adult, and she was still laying eggs and raising chicks in her seventies.",
+  "lede": "In 1956 the American bird scientist Chandler Robbins put a leg band on a nesting Laysan albatross on Midway Atoll. Albatrosses do not breed until they are about five, so she was already at least that old. Decades later the same bird, now named Wisdom, was still returning to Midway to nest. She is the oldest known wild bird in the world.",
+  "bullets": [
+    {
+      "opening": "Chandler Robbins finds her again",
+      "linkId": null,
+      "text": "In 2002 Robbins, by then in his eighties, returned to Midway and found the very bird he had banded 46 years earlier. Her worn band had been replaced over the years, so her record stayed unbroken."
+    },
+    {
+      "opening": "One egg a year",
+      "linkId": null,
+      "text": "Laysan albatrosses lay a single egg per breeding season and share the work of raising the chick. Wisdom has laid dozens of eggs, and wildlife officials think as many as 30 of her chicks have fledged."
+    },
+    {
+      "opening": "Still nesting in her seventies",
+      "linkId": null,
+      "text": "Wisdom was raising chicks in her late sixties and beyond. In late 2024, aged at least 74, she was seen laying another egg with a new partner, after her long-time mate had stopped returning."
+    },
+    {
+      "opening": "Millions of miles flown",
+      "linkId": null,
+      "text": "Albatrosses glide huge distances over the ocean in search of food. By one wildlife service estimate, Wisdom has flown around three million miles in her lifetime, enough to reach the Moon and back several times."
+    }
+  ],
+  "tags": [
+    "birds",
+    "records",
+    "oceans",
+    "time"
+  ],
+  "related": [
+    "arctic-tern",
+    "swifts-airborne",
+    "greenland-shark-age",
+    "penguin-pebbles",
+    "emperor-penguin-huddle"
+  ]
+}

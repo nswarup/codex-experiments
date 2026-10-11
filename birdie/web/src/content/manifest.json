@@ -4638,5 +4638,65 @@
   "id": "aloha-shirt",
   "title": "The aloha shirt's kimono roots",
   "category": "Fashion"
+ },
+ {
+  "id": "seahorse-fathers",
+  "title": "Seahorse fathers give birth",
+  "category": "Animals"
+ },
+ {
+  "id": "koala-fingerprints",
+  "title": "Koalas have fingerprints like ours",
+  "category": "Animals"
+ },
+ {
+  "id": "imo-sweet-potatoes",
+  "title": "Imo the sweet-potato-washing macaque",
+  "category": "Animals"
+ },
+ {
+  "id": "squirrels-plant-forests",
+  "title": "Squirrels plant forests by forgetting",
+  "category": "Animals"
+ },
+ {
+  "id": "ducks-one-eye-open",
+  "title": "Ducks sleep with one eye open",
+  "category": "Animals"
+ },
+ {
+  "id": "swifts-airborne",
+  "title": "Swifts stay in the air for ten months",
+  "category": "Animals"
+ },
+ {
+  "id": "wisdom-albatross",
+  "title": "Wisdom, the oldest wild bird",
+  "category": "Animals"
+ },
+ {
+  "id": "snowball-cockatoo",
+  "title": "Snowball the dancing cockatoo",
+  "category": "Animals"
+ },
+ {
+  "id": "reindeer-eyes",
+  "title": "Reindeer eyes change colour",
+  "category": "Animals"
+ },
+ {
+  "id": "great-wave",
+  "title": "The Great Wave's tiny mountain",
+  "category": "Art"
+ },
+ {
+  "id": "girl-pearl-earring",
+  "title": "Girl with a Pearl Earring is not a portrait",
+  "category": "Art"
+ },
+ {
+  "id": "night-watch",
+  "title": "The Night Watch is set in daytime",
+  "category": "Art"
  }
 ]

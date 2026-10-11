@@ -1,0 +1,44 @@
+{
+  "id": "night-watch",
+  "title": "The Night Watch is set in daytime",
+  "category": "Art",
+  "hook": "Rembrandt's Night Watch shows daytime, and only got dark as its varnish aged.",
+  "peek": "Rembrandt's most famous painting was never meant to show night. The name came along more than a century later, once old varnish and grime had darkened the scene. Its real subject is a company of Amsterdam civic guards heading out by day.",
+  "lede": "Rembrandt finished his huge group portrait of an Amsterdam civic guard company in 1642. Its proper title is long and plain, naming Captain Frans Banninck Cocq and Lieutenant Willem van Ruytenburch. The nickname The Night Watch only appeared in the late 1700s, after layers of varnish and dirt had darkened the canvas so much that people took the scene for night.",
+  "bullets": [
+    {
+      "opening": "Rembrandt's spotlight",
+      "linkId": null,
+      "text": "Part of the confusion is Rembrandt's own style. He set bright figures against deep shadow, so even when clean the painting looks dramatic. But the light falls like daylight, and cleanings have shown a far brighter scene than its nickname suggests."
+    },
+    {
+      "opening": "The trimmed edges",
+      "linkId": null,
+      "text": "In 1715 the painting was moved to Amsterdam's town hall and cut down to fit between two doors. Strips were removed from all four sides, mostly on the left, taking two figures with them. A smaller copy by Gerrit Lundens shows the full scene."
+    },
+    {
+      "opening": "Operation Night Watch",
+      "linkId": null,
+      "text": "Since 2019 the Rijksmuseum has studied and restored the painting in public, inside a glass room visitors can watch. In 2021 it hung computer-made reconstructions of the missing strips alongside it, based on the Lundens copy."
+    },
+    {
+      "opening": "The girl in gold",
+      "linkId": null,
+      "text": "Among the guards stands a small, glowing girl in a golden dress. She seems to be a living emblem of the company, carrying its symbols at her belt, rather than a real member."
+    }
+  ],
+  "tags": [
+    "painting",
+    "names",
+    "myths-busted",
+    "dutch-golden-age"
+  ],
+  "related": [
+    "girl-pearl-earring",
+    "arnolfini-mirror",
+    "whistlers-mother",
+    "mona-lisa-theft",
+    "mondrian-upside-down",
+    "american-gothic"
+  ]
+}

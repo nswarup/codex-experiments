@@ -1,0 +1,43 @@
+{
+  "id": "reindeer-eyes",
+  "title": "Reindeer eyes change colour",
+  "category": "Animals",
+  "hook": "The back of a reindeer's eye turns from gold in summer to deep blue in winter.",
+  "peek": "Arctic reindeer live through months of near-constant light and months of near-darkness. To cope, the reflective layer at the back of their eyes changes colour with the seasons, from gold to deep blue, helping them see in the long winter gloom.",
+  "lede": "Many animals have a mirror-like layer behind the retina that makes their eyes glow in torchlight. In Arctic reindeer, this layer changes with the seasons. In summer it shines gold. In winter it turns a deep blue. A team led by Glen Jeffery in London and Karl-Arne Stokkan in Tromsø described the change in 2013, and showed it helps reindeer catch more light in the dark months.",
+  "bullets": [
+    {
+      "opening": "The tapetum lucidum",
+      "linkId": null,
+      "text": "The colour change is in this reflective layer, not the iris, so it shows up as eyeshine. Light that passes the retina once bounces back off the tapetum for a second chance to be caught."
+    },
+    {
+      "opening": "Pressure in the winter eye",
+      "linkId": null,
+      "text": "In the long dark, reindeer pupils stay wide open. That seems to raise the fluid pressure inside the eye, squeezing the fibres of the tapetum closer together. The tighter spacing reflects blue light instead of gold."
+    },
+    {
+      "opening": "Brighter but blurrier",
+      "linkId": null,
+      "text": "A blue tapetum scatters more light across the retina. That makes the eye more sensitive in dim light, at the cost of a less sharp image. In an Arctic winter, seeing anything at all matters more."
+    },
+    {
+      "opening": "Seeing ultraviolet light",
+      "linkId": null,
+      "text": "Reindeer can also see ultraviolet, unlike most mammals. Snow reflects UV strongly while lichen, their main winter food, absorbs it, so lichen should stand out as dark patches on a bright white ground."
+    }
+  ],
+  "tags": [
+    "color",
+    "light",
+    "perception",
+    "arctic"
+  ],
+  "related": [
+    "platypus-glow",
+    "flamingo-pink",
+    "arctic-tern",
+    "emperor-penguin-huddle",
+    "cats-eyes-road-studs"
+  ]
+}

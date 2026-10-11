@@ -1,0 +1,43 @@
+{
+  "id": "snowball-cockatoo",
+  "title": "Snowball the dancing cockatoo",
+  "category": "Animals",
+  "hook": "A cockatoo named Snowball dances to the beat and keeps time when the tempo changes.",
+  "peek": "Snowball, a sulphur-crested cockatoo, became famous online for dancing to the Backstreet Boys. Scientists then tested him and found he really does follow the beat, speeding up and slowing down with the music, and invents his own moves.",
+  "lede": "In 2007 a video of a sulphur-crested cockatoo bobbing his head and kicking his feet to the Backstreet Boys spread across the internet. His name was Snowball. The neuroscientist Aniruddh Patel wondered whether the bird was truly following the beat or just copying his owner. So he and his colleagues tested Snowball with the same song played at different speeds.",
+  "bullets": [
+    {
+      "opening": "The tempo experiment",
+      "linkId": null,
+      "text": "The team sped up and slowed down the song without changing its pitch. In a 2009 study they reported that Snowball adjusted his bobbing to match many of the new tempos, among the first clear evidence of an animal moving to a musical beat."
+    },
+    {
+      "opening": "Fourteen dance moves",
+      "linkId": null,
+      "text": "A 2019 follow-up filmed Snowball dancing to Queen and Cyndi Lauper. The researchers counted 14 distinct moves, from head swings to foot lifts, plus combinations of them. His owner had not taught him these; he came up with them himself."
+    },
+    {
+      "opening": "The vocal learning idea",
+      "linkId": null,
+      "text": "Patel suggests that beat-keeping may come with vocal learning, the ability to copy new sounds. Cockatoos and people both learn sounds by ear, and both seem able to lock their bodies to a rhythm."
+    },
+    {
+      "opening": "Life at the bird shelter",
+      "linkId": null,
+      "text": "Snowball lives at a bird rescue in Indiana run by Irena Schulz, who took him in after his first owner gave him up, along with a CD of his favourite music. She is a co-author on the dance studies."
+    }
+  ],
+  "tags": [
+    "animal-minds",
+    "music",
+    "rhythm",
+    "birds"
+  ],
+  "related": [
+    "alex-the-parrot",
+    "lyrebird-mimicry",
+    "mozart-starling",
+    "parrotlet-names",
+    "maelzel-metronome"
+  ]
+}

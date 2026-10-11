@@ -1,0 +1,44 @@
+{
+  "id": "great-wave",
+  "title": "The Great Wave's tiny mountain",
+  "category": "Art",
+  "hook": "The world's most famous wave is, officially, a picture of a mountain.",
+  "peek": "Hokusai's Great Wave is one of the best-known images ever made, but the wave is not its subject. It belongs to a series of views of Mount Fuji, and Fuji sits small and calm beneath the curling water.",
+  "lede": "Look past the claws of foam in Hokusai's Great Wave and you find a small snowy peak. That is Mount Fuji, and it is the real subject. The woodblock print, made around 1831, is properly called Under the Wave off Kanagawa. It was the first in Hokusai's series Thirty-Six Views of Mount Fuji, published when he was about 70.",
+  "bullets": [
+    {
+      "opening": "Thirty-Six Views of Mount Fuji",
+      "linkId": null,
+      "text": "Each print in the series shows Fuji from a different place and season, sometimes huge, sometimes a speck. The series sold so well that the publisher added ten more prints, making 46 views in all."
+    },
+    {
+      "opening": "The small wave's echo",
+      "linkId": null,
+      "text": "In the foreground, a smaller wave rises in a peak that mirrors Fuji's shape, as if the sea were making its own mountain. Hokusai sets the near and the far in a quiet visual rhyme."
+    },
+    {
+      "opening": "Prussian blue",
+      "linkId": null,
+      "text": "The rich blue was new to Japan. Prussian blue, a synthetic pigment first made in Berlin in the early 1700s, had recently become cheap enough to import. It held its colour far better than the plant blues printers used before."
+    },
+    {
+      "opening": "Prints made by the thousand",
+      "linkId": null,
+      "text": "The Great Wave was a cheap print, not a one-off painting. Carved woodblocks let a workshop press many copies, and wear on the blocks lets experts tell early impressions from later ones. Copies are now held by museums around the world."
+    }
+  ],
+  "tags": [
+    "color",
+    "prints",
+    "japan",
+    "design"
+  ],
+  "related": [
+    "ultramarine",
+    "klein-blue",
+    "yinmn-blue",
+    "draupner-rogue-wave",
+    "scream-versions",
+    "perkin-mauve"
+  ]
+}

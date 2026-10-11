@@ -1,0 +1,43 @@
+{
+  "id": "seahorse-fathers",
+  "title": "Seahorse fathers give birth",
+  "category": "Animals",
+  "hook": "In seahorses it is the father who gets pregnant and gives birth.",
+  "peek": "Female seahorses hand their eggs to the male, who carries them in a pouch on his belly for weeks. Then he goes into labour and pushes out a cloud of tiny, fully formed babies, sometimes hundreds at once.",
+  "lede": "Seahorses turn the usual roles around. The female lays her eggs not in the water but into a pouch on the male's belly. He fertilises them there and carries them for a few weeks. Then the father gives birth, pumping out baby seahorses that are tiny copies of their parents, ready to swim off alone.",
+  "bullets": [
+    {
+      "opening": "The brood pouch",
+      "linkId": null,
+      "text": "The pouch is far more than a pocket. Its lining wraps the eggs in a rich supply of vessels, brings them oxygen, and slowly adjusts the water inside to match the sea outside, a little like a placenta."
+    },
+    {
+      "opening": "Morning greeting dances",
+      "linkId": null,
+      "text": "In many species a pair meets at dawn for a short dance, changing colour and circling together, sometimes holding the same strand of seagrass with their tails. The greeting may help keep them in step for the next handover of eggs."
+    },
+    {
+      "opening": "Giving birth to hundreds",
+      "linkId": null,
+      "text": "Birth can take hours. The male bends and pumps his body to push the young out in bursts. Depending on species and size, a brood can be a few dozen babies or well over a thousand."
+    },
+    {
+      "opening": "Why the father carries",
+      "linkId": null,
+      "text": "Biologists think sharing the work lets the pair breed faster. While the male is pregnant, the female can get her next batch of eggs ready, so a new brood can begin soon after the last one is born."
+    }
+  ],
+  "tags": [
+    "animal-minds",
+    "oceans",
+    "parenting",
+    "myths-busted"
+  ],
+  "related": [
+    "sea-otters-hands",
+    "emperor-penguin-huddle",
+    "penguin-pebbles",
+    "narwhal-tusk",
+    "platypus-glow"
+  ]
+}

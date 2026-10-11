@@ -1,0 +1,44 @@
+{
+  "id": "girl-pearl-earring",
+  "title": "Girl with a Pearl Earring is not a portrait",
+  "category": "Art",
+  "hook": "Vermeer's famous girl was probably never a real sitter, and her pearl may be paint and air.",
+  "peek": "Girl with a Pearl Earring looks like a portrait, but Vermeer most likely painted an imagined face, a type of study called a tronie. And close up, the famous pearl turns out to be just a couple of strokes of white paint.",
+  "lede": "Johannes Vermeer painted Girl with a Pearl Earring around 1665, and it hangs in the Mauritshuis in The Hague. People often wonder who she was. The likely answer is nobody in particular. The painting is a tronie, a Dutch type of picture showing a face, a character or an expression, often in exotic dress, rather than a portrait of a known person.",
+  "bullets": [
+    {
+      "opening": "What a tronie is",
+      "linkId": null,
+      "text": "Dutch painters made tronies to show off faces and costumes, and buyers collected them as studies of character. The girl's blue and yellow turban, never everyday Dutch dress, fits the type. A model may have posed, but she was not being recorded as herself."
+    },
+    {
+      "opening": "The floating pearl",
+      "linkId": null,
+      "text": "Under magnification the earring has no hook and no outline. It is a few touches of thin grey and a bright white highlight, leaving the eye to supply the rest. The drop is also very large for a real pearl, and some have suggested it was polished tin or glass."
+    },
+    {
+      "opening": "The Girl in the Spotlight study",
+      "linkId": null,
+      "text": "In 2018 the Mauritshuis studied the painting with modern scans. The team found that the dark background was once a green curtain that has faded, and that the girl has fine eyelashes too faint to see with the naked eye."
+    },
+    {
+      "opening": "Sold for two guilders",
+      "linkId": null,
+      "text": "In 1881 the painting was so little valued that it sold at auction in The Hague for about two guilders. The buyer, Arnoldus des Tombe, left it to the Mauritshuis when he died in 1902."
+    }
+  ],
+  "tags": [
+    "painting",
+    "myths-busted",
+    "dutch-golden-age",
+    "color"
+  ],
+  "related": [
+    "arnolfini-mirror",
+    "ultramarine",
+    "night-watch",
+    "american-gothic",
+    "whistlers-mother",
+    "scream-versions"
+  ]
+}
