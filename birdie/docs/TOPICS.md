@@ -396,7 +396,7 @@ Regenerate with `python3 scripts/topics_md.py`.
 - **Cat's eyes on the road**: Cat's eyes road studs clean themselves every time a car drives over them.
 - **Mary Anderson's windscreen wiper**: A tram ride in New York sleet led one woman to invent the windscreen wiper.
 - **The dishwasher built to save china**: The first practical dishwasher was built to protect a set of heirloom china.
-- **Margaret Knight's flat-bottomed bag**: The flat-bottomed paper bag came from a woman who had to prove it in court.
+- **Margaret Knight's flat-bottomed bag**: The flat-bottomed paper bag came from a woman who had to prove it was hers.
 - **The horse-drawn vacuum cleaner**: The first powered vacuum cleaner was so big it was pulled through London by horses.
 - **The lawn mower came from a cloth mill**: The lawn mower began as a machine for giving woollen cloth a smooth finish.
 - **Elisha Otis cuts the rope**: Lifts won people's trust when a man stood on one and had its rope cut.
@@ -572,13 +572,13 @@ Regenerate with `python3 scripts/topics_md.py`.
 - **The Hobbit began on an exam paper**: Tolkien wrote the first line of The Hobbit on a student's exam script.
 - **A Christmas Carol was self-published**: A Christmas Carol sold out in days, yet Dickens made only a small profit.
 - **Sherlock Holmes's missing deerstalker**: In Conan Doyle's stories, Holmes never wears a deerstalker.
-- **Gadsby, the novel without an E**: A 1939 novel of about 50,000 words never once uses the letter E.
+- **Gadsby, the novel without an E**: A 1939 novel of about 50,000 words was written almost entirely without the letter E.
 - **The Martian began as a free blog**: A bestselling space novel started as free chapters on its author's website.
 - **E. M. Forster's The Machine Stops**: In 1909 a novelist imagined people living alone and talking through screens.
 - **The First Folio**: Half of Shakespeare's plays exist because two of his fellow actors saved them.
 - **Project Gutenberg's first ebook**: The first ebook was typed into a mainframe on the Fourth of July, 1971.
 - **The Bodleian's no-lending rule**: Oxford's great library would not even lend a book to the king.
-- **Biblioburro, the donkey library**: A Colombian teacher takes books to remote villages on two donkeys.
+- **Biblioburro, the donkey library**: A Colombian teacher spent years taking books to remote villages on two donkeys.
 - **Hay-on-Wye's self-crowned king**: A bookseller filled a Welsh town with bookshops and then crowned himself king.
 - **Shakespeare and Company's Tumbleweeds**: A Paris bookshop lets young writers sleep among its shelves for free.
 - **Pippi Longstocking's name came from a child**: A sick seven-year-old invented the name Pippi Longstocking out of thin air.
@@ -620,7 +620,7 @@ Regenerate with `python3 scripts/topics_md.py`.
 - **The octothorpe**: Telephone engineers gave the # key a strange name, and nobody agrees why.
 - **How the ampersand got its name**: Children once recited & as the last letter of the alphabet, and slurred its name.
 - **The interrobang**: In 1962 an ad man fused the question mark and exclamation mark into one.
-- **The pilcrow**: The ¶ mark began as a letter C, and its missing ink gave us indents.
+- **The pilcrow**: The ¶ mark began as a letter C, and its missing ink may have given us indents.
 - **What the world calls @**: In Italy the @ is a snail. In the Netherlands it is a monkey's tail.
 - **The quick brown fox**: A sentence about a fox and a dog has been testing letters since the 1880s.
 - **Lorem ipsum**: Designers' dummy text is a chopped-up passage by Cicero, cut mid-word.
@@ -675,12 +675,12 @@ Regenerate with `python3 scripts/topics_md.py`.
 - **The Great Stalacpipe Organ**: In a Virginia cave, an organ plays tunes by tapping on ancient stalactites.
 - **Tuvan throat singing**: Singers from Tuva can sing two notes at once with a single voice.
 - **Mozart's starling**: Mozart bought a pet bird that could already sing a tune from his new concerto.
-- **The man who didn't patent karaoke**: The inventor of the karaoke machine never patented it and missed out on a fortune.
+- **The man who didn't patent karaoke**: An early karaoke inventor never patented his machine and missed out on a fortune.
 - **How Shazam hears a song**: Shazam throws away almost all of a song and keeps only a sparse map of peaks.
 - **Haydn's Farewell Symphony**: A symphony where the players walk out one by one, until only two violins remain.
 - **The musical road that plays off-key**: A California road plays the William Tell Overture under your tyres, badly.
 - **Bach's musical signature**: Johann Sebastian Bach could spell his own surname in musical notes.
-- **The clarinet wail of Rhapsody in Blue**: The most famous clarinet slide in music started as a joke in rehearsal.
+- **The clarinet wail of Rhapsody in Blue**: The most famous clarinet slide in music is said to have started as a joke in rehearsal.
 - **The Big Ben chimes**: The world's most famous clock chime was written for a church in Cambridge.
 - **Auto-Tune's oil-field origins**: The pitch-fixing software in pop music began as maths for finding oil.
 - **Tom's Diner and the MP3**: One quiet a cappella song was played over and over to perfect the MP3.
@@ -714,7 +714,7 @@ Regenerate with `python3 scripts/topics_md.py`.
 - **The THX Deep Note**: The swelling THX sound before films was written as computer code, not played.
 - **How the lightsaber got its hum**: The lightsaber's hum is an old projector motor mixed with a TV's buzz.
 - **The ruby slippers were silver**: In the book, Dorothy's magic shoes are silver. The film turned them red.
-- **Luxo Jr., Pixar's lamp**: Pixar's hopping lamp starred in the first computer-animated film up for an Oscar.
+- **Luxo Jr., Pixar's lamp**: Pixar's hopping lamp starred in the first 3D computer-animated film up for an Oscar.
 - **The Matrix's sushi code**: The green code raining down in The Matrix came from Japanese cookbooks.
 - **The MacGuffin**: The thing everyone in a thriller chases often doesn't matter at all.
 - **Blade Runner's borrowed title**: Blade Runner took its title from a different book about smuggling medical supplies.
@@ -772,10 +772,10 @@ Regenerate with `python3 scripts/topics_md.py`.
 - **The goalkeeper who invented the penalty**: Football's penalty kick was dreamed up by a goalkeeper from a small Irish village.
 - **Traffic lights and the yellow card**: Football's red and yellow cards were dreamed up at a set of London traffic lights.
 - **The referee's vanishing spray**: The white line a referee sprays at a free kick is meant to vanish within a minute.
-- **The 1930 World Cup final's two balls**: The first World Cup final was played with two different balls, one each half.
+- **The 1930 World Cup final's two balls**: The first World Cup final is said to have used two different balls, one each half.
 - **Curling stones from one island**: Most Olympic curling stones come from one small, empty island off Scotland.
 - **Why the Tour de France leader wears yellow**: The Tour de France leader wears yellow because of the newspaper that started the race.
-- **Snooker was invented in India**: Snooker was invented by bored army officers in central India in 1875.
+- **Snooker was invented in India**: Snooker is usually traced to bored army officers in central India in 1875.
 - **Jai alai, the fastest ball**: A jai alai ball once hit 302 km/h, flung from a wicker basket at a stone wall.
 - **Ping-Pong was a trademark**: The sport is called table tennis because Ping-Pong was once a company's brand name.
 - **The LZR Racer swimsuit**: One swimsuit helped smash so many world records that its kind was banned.
@@ -794,7 +794,7 @@ Regenerate with `python3 scripts/topics_md.py`.
 - **The clap skate**: A hinged skate blade let speed skaters push longer, and records tumbled.
 - **The V-style ski jump**: One ski jumper was marked down for his style, then everyone copied him.
 - **The javelin that flew too far**: One throw went so far that the men's javelin had to be rebuilt to fly shorter.
-- **Why the shot clock is 24 seconds**: Basketball's 24-second shot clock came from one owner doing some simple division.
+- **Why the shot clock is 24 seconds**: Basketball's 24-second shot clock came from some simple division at the Syracuse Nationals.
 - **Dennis Lillee's aluminium bat**: A fast bowler walked out to bat with a metal bat, and cricket rewrote its laws.
 - **Jamaica's 1988 bobsled team**: A country with no snow sent a bobsled team to the 1988 Winter Olympics.
 
@@ -864,7 +864,7 @@ Regenerate with `python3 scripts/topics_md.py`.
 - **Coober Pedy**: An outback opal town where many people live in homes dug into the hills.
 - **Setenil de las Bodegas**: A Spanish town where whole streets of houses use a cliff as their roof.
 - **Longyearbyen, where cats are banned**: In one Arctic town you can keep a sled dog, but you cannot keep a cat.
-- **Monowi, the town of one**: One woman was the whole population, the mayor and the librarian of her town.
+- **Monowi, the town of one**: One woman has been the whole population, the mayor and the librarian of her town.
 - **The Principality of Sealand**: A wartime sea fort off England has called itself a country since 1967.
 - **The 58-letter village name**: A Welsh village stretched its name to 58 letters to tempt railway travellers.
 - **Westward Ho!**: A seaside town in Devon was built to cash in on a bestselling novel.
@@ -875,7 +875,7 @@ Regenerate with `python3 scripts/topics_md.py`.
 - **Gibraltar's road across the runway**: In Gibraltar, cars once waited at the barrier while planes landed across the road.
 - **Barra's beach airport**: On the Scottish island of Barra, the plane lands on the beach when the tide is out.
 - **Märket's zigzag border**: A rocky islet split by a border that bends around a lighthouse.
-- **Tristan da Cunha**: About 250 people live on an island more than 2,000 km from the next town.
+- **Tristan da Cunha**: About 220 people live on an island more than 2,000 km from the next town.
 - **Büsingen, the German town in Switzerland**: A German town ringed by Switzerland that pays in Swiss francs.
 - **The whisky war over Hans Island**: Two countries fought over a rock by leaving each other bottles of booze.
 - **Gustave Eiffel's secret apartment**: At the top of the Eiffel Tower is a small flat where Eiffel hosted Edison.
@@ -910,7 +910,7 @@ Regenerate with `python3 scripts/topics_md.py`.
 - **The green flash**: In the last instant of sunset, the top of the Sun can turn bright green.
 - **The rainbow eucalyptus**: A tree whose trunk is striped green, blue, purple and orange at the same time.
 - **Bamboo that flowers once a century**: A bamboo that blooms about every 120 years, everywhere in the world at once.
-- **Welwitschia**: A desert plant that grows only two leaves in a life of more than a thousand years.
+- **Welwitschia**: A desert plant that grows only two leaves in a life that can pass a thousand years.
 - **The sailing stones of Racetrack Playa**: Rocks that crawl across a dry lakebed, finally caught moving on camera in 2014.
 - **The Chinook wind**: A warm wind once lifted a Montana town's temperature by 57 °C in a single day.
 - **Fata Morgana**: A mirage that lifts ships and coastlines into the sky and stacks them like castles.
@@ -976,7 +976,7 @@ Regenerate with `python3 scripts/topics_md.py`.
 - **Bob Ross and The Joy of Painting**: A soft-spoken former Air Force sergeant painted a landscape in half an hour on TV.
 - **The Great Wave's tiny mountain**: The world's most famous wave is, officially, a picture of a mountain.
 - **Girl with a Pearl Earring is not a portrait**: Vermeer's famous girl was probably never a real sitter, and her pearl may be paint and air.
-- **The Night Watch is set in daytime**: Rembrandt's Night Watch shows daytime, and only got dark as its varnish aged.
+- **The Night Watch is set in daytime**: Rembrandt's Night Watch shows daytime, and got its name once its varnish darkened.
 - **Michelangelo's David came from a rejected block**: Michelangelo's David was carved from a marble block other sculptors gave up on.
 - **Michelangelo painted the Sistine ceiling standing up**: Michelangelo did not lie on his back to paint the Sistine Chapel ceiling.
 - **Ultramarine, the blue worth more than gold**: For centuries the finest blue paint was ground from a stone mined in Afghanistan.
@@ -1004,7 +1004,7 @@ Regenerate with `python3 scripts/topics_md.py`.
 - **Michel Siffre's summer in a cave**: A caver spent two months underground with no clock and lost nearly a month.
 - **Why yawns are catching**: Seeing, hearing or even reading about a yawn can be enough to start one.
 - **The human nose is better than its reputation**: The idea that humans have a poor sense of smell goes back to one 1800s scientist.
-- **Why fingers wrinkle in the bath**: Wrinkly bath fingers are not soggy skin: your nerves make the wrinkles on purpose.
+- **Why fingers wrinkle in the bath**: Wrinkly bath fingers are not soggy skin: your nerves actively make the wrinkles.
 - **The blind spot in every eye**: Each eye has a hole in its view, and your brain quietly paints over it.
 - **You are taller in the morning**: Most people are about a centimetre taller when they wake than at bedtime.
 - **Why you can't tickle yourself**: Your brain predicts your own touch so well that it cancels the tickle.
@@ -1040,7 +1040,7 @@ Regenerate with `python3 scripts/topics_md.py`.
 - **The tuxedo's name**: The tuxedo is named after a private enclave in the hills of New York.
 - **Crocs began as a boating shoe**: The foam clog everyone loves to mock was first sold at a boat show.
 - **High heels were made for men**: High heels were first worn by men, and they started on horseback.
-- **The handkerchief bra**: A 19-year-old made a bra from two silk handkerchiefs and patented it.
+- **The handkerchief bra**: A New York debutante made a bra from two silk handkerchiefs and patented it.
 - **Why Chanel No. 5 is No. 5**: The world's most famous perfume is named after a sample number.
 - **The fashion dolls that crossed Europe**: Before fashion magazines, Paris sent out its new styles on dolls.
 - **Gore-Tex and the yanked rod**: The waterproof fabric was found when a frustrated inventor yanked a hot rod.
