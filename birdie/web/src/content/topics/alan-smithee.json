@@ -1,0 +1,43 @@
+{
+  "id": "alan-smithee",
+  "title": "Alan Smithee, the director who never was",
+  "category": "Film",
+  "hook": "For 30 years, Hollywood's most prolific unhappy director did not exist.",
+  "peek": "When a director felt a film had been taken out of their hands, the Directors Guild let them swap their name for Alan Smithee. The made-up director collected credits on films and TV for about three decades.",
+  "lede": "Film directors in America are normally bound by guild rules to take their screen credit. But from the late 1960s, a director who could show the Directors Guild that a film had been recut or reshaped against their wishes could ask for a stand-in. The name on screen would read Alan Smithee, a director who never existed.",
+  "bullets": [
+    {
+      "opening": "A 1969 western",
+      "linkId": null,
+      "text": "The name was first used on a 1969 western starring Richard Widmark. One director had been replaced by another partway through, and neither wanted the credit, so the guild invented someone who would."
+    },
+    {
+      "opening": "Choosing the name Smithee",
+      "linkId": null,
+      "text": "The guild first thought of Al Smith, but that name was far too common. Smithee was unusual enough to stand out, which made it a quiet signal to anyone in the know."
+    },
+    {
+      "opening": "The rules of disowning",
+      "linkId": null,
+      "text": "A director had to make the case to a guild panel and, once approved, generally agreed not to talk publicly about why. Smithee also turned up on television cuts, such as the longer TV version of David Lynch's Dune."
+    },
+    {
+      "opening": "Burn Hollywood Burn",
+      "linkId": null,
+      "text": "The guild retired the name around 2000. A 1997 comedy about a director called Alan Smithee who wants to disown his film was itself disowned by its director, Arthur Hiller, and credited to Alan Smithee, which made the joke a little too public."
+    }
+  ],
+  "tags": [
+    "names",
+    "hollywood",
+    "pseudonyms",
+    "credits"
+  ],
+  "related": [
+    "macguffin",
+    "hollywoodland-sign",
+    "blade-runner-title",
+    "trailers-after-film",
+    "play-it-again-sam"
+  ]
+}

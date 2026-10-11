@@ -1,0 +1,43 @@
+{
+  "id": "marathon-distance-1908",
+  "title": "Why the marathon is 26.2 miles",
+  "category": "Sports",
+  "hook": "The marathon's odd length was set by a royal route through London in 1908.",
+  "peek": "Early marathons were roughly 25 miles. Then the 1908 London Olympics laid out a course from Windsor Castle to a finish line in front of the royal box, and its length, 26 miles and 385 yards, became the world standard.",
+  "lede": "The first Olympic marathon, in Athens in 1896, was about 40 kilometres, roughly 25 miles. For the next few Games the distance changed each time. At the 1908 London Olympics the course was planned to start at Windsor Castle and end inside the new stadium at White City, right in front of the royal box. That route came to 26 miles and 385 yards.",
+  "bullets": [
+    {
+      "opening": "The Windsor Castle start",
+      "linkId": null,
+      "text": "The race began on the castle grounds. The story often told is that the start was placed so royal children could watch from the windows, but accounts differ on how much that shaped the route."
+    },
+    {
+      "opening": "The extra 385 yards",
+      "linkId": null,
+      "text": "The final stretch was a lap of part of the stadium track, ending in front of Queen Alexandra's seat. That last loop is why the official distance ends in such an awkward number."
+    },
+    {
+      "opening": "Dorando Pietri's finish",
+      "linkId": null,
+      "text": "The Italian runner Dorando Pietri entered the stadium first but was exhausted and went the wrong way. Officials helped him over the line and he was disqualified. The queen later gave him a gilded silver cup."
+    },
+    {
+      "opening": "Made official in 1921",
+      "linkId": null,
+      "text": "The 1908 distance was used for some later races but not all. Athletics officials only fixed the marathon at 42.195 kilometres in 1921, and it has stayed there since."
+    }
+  ],
+  "tags": [
+    "olympics",
+    "running",
+    "royalty",
+    "measurement"
+  ],
+  "related": [
+    "four-minute-mile",
+    "olympic-tug-of-war",
+    "olympic-art-medals",
+    "olympic-rings-colours",
+    "racehorse-birthday"
+  ]
+}

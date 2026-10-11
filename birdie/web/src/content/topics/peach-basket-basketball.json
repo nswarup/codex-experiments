@@ -1,0 +1,43 @@
+{
+  "id": "peach-basket-basketball",
+  "title": "Basketball's peach baskets",
+  "category": "Sports",
+  "hook": "The first basketball hoops were fruit baskets, and they still had bottoms.",
+  "peek": "When James Naismith invented basketball in 1891, he nailed two peach baskets to a gym balcony. Every time someone scored, the ball had to be fetched out by hand, and the baskets' height set the rule still used today.",
+  "lede": "In December 1891, James Naismith, a teacher at a YMCA training school in Springfield, Massachusetts, needed an indoor game to keep a restless class busy through the winter. He asked the janitor for two boxes to use as goals. The janitor came back with two peach baskets. Naismith nailed them to the balcony rail at each end of the gym.",
+  "bullets": [
+    {
+      "opening": "The ten-foot rail",
+      "linkId": null,
+      "text": "The balcony rail happened to be ten feet off the floor. That accident of building design became the regulation height for basketball hoops, and it has stayed the same ever since."
+    },
+    {
+      "opening": "Fetching the ball out",
+      "linkId": null,
+      "text": "The baskets still had bottoms, so after every score someone had to climb up or use a pole to get the ball back. Open-bottomed metal hoops and nets only became standard in the early 1900s."
+    },
+    {
+      "opening": "The first game in 1891",
+      "linkId": null,
+      "text": "The first game used a soccer ball and nine players a side, because Naismith's class had eighteen men. It ended 1 to 0, a far cry from today's scores."
+    },
+    {
+      "opening": "Naismith's 13 rules",
+      "linkId": null,
+      "text": "Naismith typed up 13 rules and pinned them to the gym's notice board. Running with the ball was banned and players had to pass from where they caught it. Dribbling came later."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "history-of-things",
+    "basketball",
+    "accidents"
+  ],
+  "related": [
+    "mintonette",
+    "shot-clock-24",
+    "webb-ellis-legend",
+    "penalty-kick-invention",
+    "hat-trick"
+  ]
+}

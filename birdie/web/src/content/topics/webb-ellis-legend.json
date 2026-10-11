@@ -1,0 +1,43 @@
+{
+  "id": "webb-ellis-legend",
+  "title": "The William Webb Ellis legend",
+  "category": "Sports",
+  "hook": "The schoolboy who supposedly invented rugby may never have done it.",
+  "peek": "Legend says William Webb Ellis picked up the ball and ran with it at Rugby School in 1823, inventing rugby. The story first appeared more than 50 years later, from a man who had not seen it, and historians doubt it.",
+  "lede": "Every four years the winners of the Rugby World Cup lift the Webb Ellis Cup. It honours a schoolboy who, the story goes, caught the ball during a football match at Rugby School in 1823 and ran with it, breaking the rules and inventing a new game. It is a lovely origin story. The evidence for it is very thin.",
+  "bullets": [
+    {
+      "opening": "Matthew Bloxam's 1876 letter",
+      "linkId": null,
+      "text": "The tale first appeared in 1876, in a letter to a school magazine from Matthew Bloxam, a former pupil. He had left the school before 1823 and said he had heard it from someone else."
+    },
+    {
+      "opening": "The 1895 school inquiry",
+      "linkId": null,
+      "text": "In 1895 a committee of old boys looked into rugby's origins. It could not find anyone who had seen the run, but it accepted the story anyway, and the school put up a plaque the same year."
+    },
+    {
+      "opening": "Running with the ball",
+      "linkId": null,
+      "text": "At Rugby School in the 1820s, catching the ball was allowed but running forward with it was not. By the early 1840s running had become legal there, so the game was clearly changing around that time."
+    },
+    {
+      "opening": "The Webb Ellis Cup",
+      "linkId": null,
+      "text": "When the Rugby World Cup began in 1987, its trophy was named after Webb Ellis. Historians mostly see the legend as a myth, but it remains rugby's favourite story about itself."
+    }
+  ],
+  "tags": [
+    "myths-busted",
+    "rugby",
+    "origins",
+    "schools"
+  ],
+  "related": [
+    "peach-basket-basketball",
+    "hat-trick",
+    "penalty-kick-invention",
+    "snooker-jabalpur",
+    "lincoln-wrestler"
+  ]
+}

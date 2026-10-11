@@ -1,0 +1,43 @@
+{
+  "id": "metropolis-buenos-aires",
+  "title": "Metropolis found in Buenos Aires",
+  "category": "Film",
+  "hook": "A quarter of an hour of a lost classic waited 80 years in an Argentine archive.",
+  "peek": "Fritz Lang's Metropolis was cut down soon after its 1927 premiere, and the missing scenes were thought gone for good. In 2008 a worn 16mm copy in a Buenos Aires film museum turned out to hold about 25 minutes of them.",
+  "lede": "Fritz Lang's Metropolis premiered in Berlin in 1927 at around two and a half hours. Within months, distributors had cut it heavily, and the full version seemed to vanish. For decades, restorers worked from shortened prints and written notes. Then in 2008, a scratched 16mm copy in the Museo del Cine in Buenos Aires turned out to contain about 25 minutes of the missing footage.",
+  "bullets": [
+    {
+      "opening": "The 1928 Argentine print",
+      "linkId": null,
+      "text": "An Argentine distributor brought a long version of the film to Buenos Aires in 1928. It passed through a private collection and on to the museum, where a 16mm copy was made from it decades later. The original print did not survive."
+    },
+    {
+      "opening": "Fernando Peña's hunch",
+      "linkId": null,
+      "text": "The film historian Fernando Peña had heard years earlier that someone had watched an unusually long Metropolis in Buenos Aires. In 2008 he and the museum's director, Paula Félix-Didier, checked the reel and found the scenes everyone had given up on."
+    },
+    {
+      "opening": "The 2010 Berlin premiere",
+      "linkId": null,
+      "text": "The restored film, now close to Lang's original, premiered at the Berlin Film Festival in 2010. It was shown in a theatre and on a big outdoor screen at the Brandenburg Gate on the same night, with a live orchestra playing the original score."
+    },
+    {
+      "opening": "The scratches left in",
+      "linkId": null,
+      "text": "The recovered footage was too worn to match the rest, so restorers left its scratches and darker frame visible. Viewers can see exactly which moments came back from Argentina. A few minutes are still missing."
+    }
+  ],
+  "tags": [
+    "lost-and-found",
+    "silent-film",
+    "restoration",
+    "archives"
+  ],
+  "related": [
+    "jazz-singer-dialogue",
+    "lumiere-train-panic",
+    "rotoscope",
+    "kuleshov-effect",
+    "toy-story-2-deleted"
+  ]
+}

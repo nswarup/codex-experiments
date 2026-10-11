@@ -1,0 +1,43 @@
+{
+  "id": "fosbury-flop",
+  "title": "The Fosbury Flop",
+  "category": "Sports",
+  "hook": "A high jumper went over the bar backwards and won Olympic gold.",
+  "peek": "At the 1968 Mexico City Olympics, Dick Fosbury cleared the bar head first and face up, landing on his back. Rivals laughed at the style, then copied it. Soft foam landing mats, new at the time, made it possible.",
+  "lede": "For decades, high jumpers went over the bar facing it, rolling or scissoring their legs across. Dick Fosbury, a student from Oregon, did the opposite. He ran in on a curve, turned his back to the bar and arched over it head first. At the 1968 Olympics in Mexico City he won gold with an Olympic record of 2.24 metres.",
+  "bullets": [
+    {
+      "opening": "A high school experiment",
+      "linkId": null,
+      "text": "Fosbury struggled with the standard straddle technique as a teenager in Medford, Oregon. He started with the old scissors style and gradually leaned back further, until he was going over flat on his back."
+    },
+    {
+      "opening": "Foam landing mats",
+      "linkId": null,
+      "text": "The flop only became sensible once schools replaced pits of sand or wood chips with thick foam mats in the 1960s. Landing on your shoulders into sand would have been unthinkable."
+    },
+    {
+      "opening": "Bending around the bar",
+      "linkId": null,
+      "text": "Arching backwards lets the body drape around the bar. A jumper's centre of mass can pass very close to it, or even just beneath it, while each part of the body clears in turn."
+    },
+    {
+      "opening": "Debbie Brill's bend",
+      "linkId": null,
+      "text": "Fosbury was not the only one. The Canadian jumper Debbie Brill worked out a very similar backwards style on her own in the 1960s, known as the Brill Bend."
+    }
+  ],
+  "tags": [
+    "olympics",
+    "technique",
+    "physics",
+    "inventors"
+  ],
+  "related": [
+    "v-style-ski-jump",
+    "clap-skate",
+    "javelin-redesign",
+    "four-minute-mile",
+    "lzr-racer-suit"
+  ]
+}

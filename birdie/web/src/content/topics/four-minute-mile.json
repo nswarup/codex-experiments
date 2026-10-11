@@ -1,0 +1,43 @@
+{
+  "id": "four-minute-mile",
+  "title": "Roger Bannister's four-minute mile",
+  "category": "Sports",
+  "hook": "The four-minute mile fell in 1954, and the new record lasted only 46 days.",
+  "peek": "On a windy evening in Oxford in 1954, a medical student ran a mile in 3 minutes 59.4 seconds. The barrier had stood for years, yet once it fell, his Australian rival John Landy ran faster just 46 days later.",
+  "lede": "On 6 May 1954, at the Iffley Road track in Oxford, Roger Bannister ran a mile in 3 minutes 59.4 seconds. He was a medical student who trained around his studies, often for less than an hour a day. The mile record had stuck just above four minutes for nine years, and the number had taken on a near magical status.",
+  "bullets": [
+    {
+      "opening": "Brasher and Chataway pacing",
+      "linkId": null,
+      "text": "Two friends, Chris Brasher and Chris Chataway, set the pace for the first three laps so Bannister could save himself for the end. The wind had been strong all day and only eased shortly before the start."
+    },
+    {
+      "opening": "The stadium announcement",
+      "linkId": null,
+      "text": "The announcer, Norris McWhirter, built the suspense by reading out the full meeting record first. When he got to the words 'three minutes', the crowd's cheering drowned out the rest."
+    },
+    {
+      "opening": "John Landy's 46 days",
+      "linkId": null,
+      "text": "On 21 June 1954, in Turku, Finland, the Australian John Landy ran 3 minutes 57.9 seconds. Bannister's world record had lasted just 46 days."
+    },
+    {
+      "opening": "The Miracle Mile",
+      "linkId": null,
+      "text": "The two men finally met that August at the Commonwealth Games in Vancouver. Both ran under four minutes, and Bannister won after Landy glanced over his left shoulder as Bannister passed on the right."
+    }
+  ],
+  "tags": [
+    "running",
+    "records",
+    "myths-busted",
+    "rivals"
+  ],
+  "related": [
+    "marathon-distance-1908",
+    "fosbury-flop",
+    "isner-mahut",
+    "eddie-the-eagle",
+    "jamaican-bobsled-1988"
+  ]
+}

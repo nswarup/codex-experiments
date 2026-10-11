@@ -1,0 +1,43 @@
+{
+  "id": "lincoln-wrestler",
+  "title": "Abraham Lincoln, wrestler",
+  "category": "Sports",
+  "hook": "Before he was president, Abraham Lincoln was the local wrestling champion.",
+  "peek": "As a young man in Illinois, Abraham Lincoln was known for his wrestling more than his politics. He is in the National Wrestling Hall of Fame, though the famous claim of one loss in about 300 matches is hard to check.",
+  "lede": "Long before the beard and the stovepipe hat, Abraham Lincoln was a tall, strong young man working odd jobs on the Illinois frontier. Wrestling was a popular pastime there, and Lincoln was very good at it. In 1992 the National Wrestling Hall of Fame in Oklahoma honoured him as an Outstanding American.",
+  "bullets": [
+    {
+      "opening": "The Jack Armstrong match",
+      "linkId": null,
+      "text": "His best-known bout came around 1831 in New Salem, Illinois, against Jack Armstrong, leader of a local gang of young men. Accounts of who won differ, but the match earned Lincoln the respect of the town."
+    },
+    {
+      "opening": "One loss in 300",
+      "linkId": null,
+      "text": "The often repeated record of about 300 matches and a single loss comes from later retellings, not from any kept score. Historians treat the exact numbers as folklore, though his skill is well attested."
+    },
+    {
+      "opening": "Lincoln's only recorded defeat",
+      "linkId": null,
+      "text": "The loss people cite came in 1832, when he was a militia captain. A man named Hank Thompson threw him in a match, and Lincoln is said to have accepted the result with good humour."
+    },
+    {
+      "opening": "Catch-as-catch-can wrestling",
+      "linkId": null,
+      "text": "Frontier wrestling was rough and loosely ruled, close to the catch-as-catch-can style. At about six foot four with long arms, Lincoln had reach that suited it."
+    }
+  ],
+  "tags": [
+    "presidents",
+    "wrestling",
+    "folklore",
+    "hall-of-fame"
+  ],
+  "related": [
+    "napoleon-height",
+    "emperor-norton",
+    "webb-ellis-legend",
+    "four-minute-mile",
+    "eddie-the-eagle"
+  ]
+}

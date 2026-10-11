@@ -1,0 +1,43 @@
+{
+  "id": "mintonette",
+  "title": "Volleyball began as Mintonette",
+  "category": "Sports",
+  "hook": "Volleyball was invented as a gentle game for businessmen, called Mintonette.",
+  "peek": "In 1895 a YMCA instructor in Massachusetts wanted a game for older men who found basketball too rough. He raised a tennis net, borrowed ideas from several sports and called the result Mintonette. A year later it had a better name.",
+  "lede": "In 1895 William G. Morgan was running exercise classes at a YMCA in Holyoke, Massachusetts. Many of his members were businessmen who wanted something less bruising than basketball, which had been invented just four years earlier and a few miles away. Morgan's answer was a new indoor game with no physical contact at all. He named it Mintonette.",
+  "bullets": [
+    {
+      "opening": "Borrowing from tennis",
+      "linkId": null,
+      "text": "Morgan mixed ideas from tennis, basketball, baseball and handball. He raised a tennis net to about six and a half feet, just above the head of an average man, and had players knock the ball back and forth over it."
+    },
+    {
+      "opening": "Morgan and Naismith",
+      "linkId": null,
+      "text": "Morgan had studied at the Springfield YMCA college, where he met James Naismith, the inventor of basketball. Both games came out of the same push to find good indoor sports for winter."
+    },
+    {
+      "opening": "Renaming it volley ball",
+      "linkId": null,
+      "text": "At a demonstration in Springfield in 1896, a professor named Alfred Halstead pointed out that the players were volleying the ball, and suggested the name volley ball. It was written as two words for decades."
+    },
+    {
+      "opening": "Finding the right ball",
+      "linkId": null,
+      "text": "A basketball proved too heavy and its inner bladder too light, so Morgan asked a sporting goods firm to make something in between. Volleyball joined the Olympics in Tokyo in 1964."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "names",
+    "history-of-things",
+    "volleyball"
+  ],
+  "related": [
+    "peach-basket-basketball",
+    "ping-pong-trademark",
+    "snooker-jabalpur",
+    "ultimate-spirit-of-the-game",
+    "jai-alai-speed"
+  ]
+}

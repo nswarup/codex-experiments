@@ -1,0 +1,43 @@
+{
+  "id": "olympic-art-medals",
+  "title": "Olympic medals for art",
+  "category": "Sports",
+  "hook": "The Olympics once gave gold medals for painting, music and poetry.",
+  "peek": "From 1912 to 1948, artists could win Olympic medals for sport-inspired painting, sculpture, music, writing and architecture. The founder of the modern Games, Pierre de Coubertin, won a gold medal for a poem he entered under a false name.",
+  "lede": "Pierre de Coubertin, who revived the Olympic Games, wanted them to celebrate the mind as well as the body. So from 1912 until 1948 the Olympics held art competitions alongside the races and matches. Medals were awarded in five fields: architecture, literature, music, painting and sculpture. Every entry had to be inspired by sport.",
+  "bullets": [
+    {
+      "opening": "Coubertin's Ode to Sport",
+      "linkId": null,
+      "text": "At the 1912 Stockholm Games, the gold for literature went to Ode to Sport, entered by two authors with German and French names. Both were pen names for Coubertin himself."
+    },
+    {
+      "opening": "Alfréd Hajós's two medals",
+      "linkId": null,
+      "text": "The Hungarian Alfréd Hajós won swimming gold at the first modern Games in 1896. In 1924 he won a silver in architecture for a stadium design, one of very few people with medals in both sport and art."
+    },
+    {
+      "opening": "About 150 medals",
+      "linkId": null,
+      "text": "Around 150 art medals were handed out in total. Some years judges gave no gold in a category at all, saying none of the entries were good enough."
+    },
+    {
+      "opening": "Why the art medals ended",
+      "linkId": null,
+      "text": "Most artists were professionals who sold their work, which clashed with the Olympics' strict rules on amateurism. After 1948 the competitions were replaced by art exhibitions, and the medals were removed from the official tables."
+    }
+  ],
+  "tags": [
+    "olympics",
+    "art",
+    "music",
+    "poetry"
+  ],
+  "related": [
+    "olympic-tug-of-war",
+    "olympic-gold-medals",
+    "olympic-rings-colours",
+    "marathon-distance-1908",
+    "eddie-the-eagle"
+  ]
+}

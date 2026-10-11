@@ -3708,5 +3708,65 @@
   "id": "muybridge-horse",
   "title": "Muybridge's galloping horse",
   "category": "Film"
+ },
+ {
+  "id": "alan-smithee",
+  "title": "Alan Smithee, the director who never was",
+  "category": "Film"
+ },
+ {
+  "id": "metropolis-buenos-aires",
+  "title": "Metropolis found in Buenos Aires",
+  "category": "Film"
+ },
+ {
+  "id": "lincoln-wrestler",
+  "title": "Abraham Lincoln, wrestler",
+  "category": "Sports"
+ },
+ {
+  "id": "peach-basket-basketball",
+  "title": "Basketball's peach baskets",
+  "category": "Sports"
+ },
+ {
+  "id": "mintonette",
+  "title": "Volleyball began as Mintonette",
+  "category": "Sports"
+ },
+ {
+  "id": "marathon-distance-1908",
+  "title": "Why the marathon is 26.2 miles",
+  "category": "Sports"
+ },
+ {
+  "id": "olympic-tug-of-war",
+  "title": "Tug of war was an Olympic sport",
+  "category": "Sports"
+ },
+ {
+  "id": "olympic-art-medals",
+  "title": "Olympic medals for art",
+  "category": "Sports"
+ },
+ {
+  "id": "fosbury-flop",
+  "title": "The Fosbury Flop",
+  "category": "Sports"
+ },
+ {
+  "id": "four-minute-mile",
+  "title": "Roger Bannister's four-minute mile",
+  "category": "Sports"
+ },
+ {
+  "id": "shuttlecock-feathers",
+  "title": "The 16 feathers in a shuttlecock",
+  "category": "Sports"
+ },
+ {
+  "id": "webb-ellis-legend",
+  "title": "The William Webb Ellis legend",
+  "category": "Sports"
  }
 ]

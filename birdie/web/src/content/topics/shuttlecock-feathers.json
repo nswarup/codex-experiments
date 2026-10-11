@@ -1,0 +1,43 @@
+{
+  "id": "shuttlecock-feathers",
+  "title": "The 16 feathers in a shuttlecock",
+  "category": "Sports",
+  "hook": "A top badminton shuttle is made from exactly 16 goose feathers.",
+  "peek": "The rules of badminton say a feathered shuttle must have 16 feathers set in a cork base. Makers try to take them all from the same side of a goose, so they curve the same way and the shuttle spins and flies true.",
+  "lede": "A badminton shuttlecock looks simple, but the rules are precise. The game's world body says a feathered shuttle has 16 feathers fixed into a rounded cork base, each between 62 and 70 millimetres long, and the whole thing weighs about five grams. At the top level those feathers come from geese, and their exact shape matters.",
+  "bullets": [
+    {
+      "opening": "Feathers from one wing",
+      "linkId": null,
+      "text": "Feathers from a bird's left and right wings curve in opposite directions. Makers sort them so a shuttle uses feathers from one side only, which is said to help it spin smoothly in one direction. The left wing is often claimed to be best, though that is debated."
+    },
+    {
+      "opening": "Goose versus duck feathers",
+      "linkId": null,
+      "text": "Goose feathers are stiffer and last longer, so they are used for tournament shuttles. Cheaper club shuttles often use duck feathers, and many casual players use plastic skirts instead."
+    },
+    {
+      "opening": "Fast smash, quick stop",
+      "linkId": null,
+      "text": "The open feather skirt creates heavy drag. A smash can leave the racket at well over 400 kilometres an hour, yet the shuttle slows sharply and drops steeply, which makes the game possible on a small court."
+    },
+    {
+      "opening": "Testing a shuttle's speed",
+      "linkId": null,
+      "text": "Before a match, players can test a shuttle by hitting it from one baseline. Its landing spot shows whether it suits the hall's air, and makers sell shuttles in different speeds for warm, cold or high-altitude venues."
+    }
+  ],
+  "tags": [
+    "badminton",
+    "feathers",
+    "design",
+    "physics"
+  ],
+  "related": [
+    "golf-ball-dimples",
+    "jai-alai-speed",
+    "baseball-rubbing-mud",
+    "ailsa-craig-curling-stones",
+    "ping-pong-trademark"
+  ]
+}
