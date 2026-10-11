@@ -1,0 +1,44 @@
+{
+  "id": "backgammon-doubling-cube",
+  "title": "The backgammon doubling cube",
+  "category": "Games",
+  "hook": "Backgammon's roots are ancient, but its doubling cube only dates from the 1920s.",
+  "peek": "Games like backgammon have been played for about 5,000 years. The cube marked 2 to 64, which lets players raise the stakes in the middle of a game, was added in New York clubs in the 1920s by someone nobody recorded.",
+  "lede": "Race games in which pieces travel around a board to the throw of dice go back about 5,000 years, to boards found in Iran and Mesopotamia. Backgammon itself got its name in 17th-century England. Its best-known piece of equipment is far younger: the doubling cube, which appeared in New York clubs in the 1920s and changed how the game is played.",
+  "bullets": [
+    {
+      "opening": "Offering a double",
+      "linkId": null,
+      "text": "Before rolling, a player can turn the cube to offer to double the stakes. The opponent either accepts and takes control of the cube, or resigns the game at its current value. Only the player holding the cube can double next."
+    },
+    {
+      "opening": "Faces from 2 to 64",
+      "linkId": null,
+      "text": "The cube shows 2, 4, 8, 16, 32 and 64. At the start of a game it sits in the middle with 64 facing up, which stands for 1, since no face shows a 1."
+    },
+    {
+      "opening": "The unknown inventor",
+      "linkId": null,
+      "text": "Nobody recorded who first added the cube to backgammon. Because a player can resign rather than accept a double, it ends many games early and turns each one into a test of judgement about when to raise the stakes."
+    },
+    {
+      "opening": "The Crawford rule",
+      "linkId": null,
+      "text": "In match play, a rule named after the player John R. Crawford bans doubling for one game once a player is a single point from winning the match. Without it, the trailing player would double at every chance."
+    }
+  ],
+  "tags": [
+    "games",
+    "dice",
+    "probability",
+    "history-of-things"
+  ],
+  "related": [
+    "royal-game-of-ur",
+    "nontransitive-dice",
+    "monte-carlo-black-26",
+    "contract-bridge-cruise",
+    "elo-rating",
+    "moksha-patam"
+  ]
+}

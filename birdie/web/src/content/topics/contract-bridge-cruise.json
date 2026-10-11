@@ -1,0 +1,44 @@
+{
+  "id": "contract-bridge-cruise",
+  "title": "The cruise that made contract bridge",
+  "category": "Games",
+  "hook": "Modern bridge scoring was worked out on a cruise ship in 1925.",
+  "peek": "In 1925 the American millionaire Harold Vanderbilt, cruising through the Panama Canal, rewrote the scoring of auction bridge to make it fairer and more exciting. His contract bridge took over the card tables within a few years.",
+  "lede": "Bridge grew out of whist, and by the 1920s the popular form was auction bridge. In late 1925 Harold Vanderbilt, a keen player, was on the steamship Finland, travelling from California to Havana through the Panama Canal. Over several evenings he and his friends tried out a new scoring system he had drafted, building on a French variant called plafond. That system became contract bridge.",
+  "bullets": [
+    {
+      "opening": "Scoring only the contract",
+      "linkId": null,
+      "text": "In contract bridge, a side earns points towards game only for the tricks it bid and then won. Extra tricks count for less. That rewards accurate bidding, which is why bridge players put so much effort into it."
+    },
+    {
+      "opening": "The word vulnerable",
+      "linkId": null,
+      "text": "Vanderbilt added vulnerability: a side that has already won a game faces bigger rewards and bigger penalties. The story goes that a fellow passenger on the cruise suggested the word vulnerable for it."
+    },
+    {
+      "opening": "The contract bridge craze",
+      "linkId": null,
+      "text": "The new scoring spread through New York clubs in 1926 and soon replaced auction bridge. In the 1930s the writer Ely Culbertson turned bridge into a national craze with books, newspaper columns and a famous challenge match."
+    },
+    {
+      "opening": "The Vanderbilt Cup",
+      "linkId": null,
+      "text": "Vanderbilt gave a trophy in 1928 for a team championship. The Vanderbilt Knockout Teams is still one of the major events of North American bridge, played for the cup he donated."
+    }
+  ],
+  "tags": [
+    "games",
+    "card-games",
+    "inventors",
+    "rules"
+  ],
+  "related": [
+    "backgammon-doubling-cube",
+    "joker-euchre",
+    "ace-of-spades-tax",
+    "uno-stacking",
+    "fifty-two-factorial",
+    "windows-solitaire"
+  ]
+}

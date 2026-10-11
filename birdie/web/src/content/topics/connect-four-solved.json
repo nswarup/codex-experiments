@@ -1,0 +1,44 @@
+{
+  "id": "connect-four-solved",
+  "title": "Connect Four is solved",
+  "category": "Games",
+  "hook": "Go first, start in the middle column, play perfectly, and you always win.",
+  "peek": "In 1988 two researchers, working separately, proved that Connect Four is a win for the first player. The winning line starts in the middle column. Start anywhere else and a perfect opponent can at least hold you to a draw.",
+  "lede": "Connect Four, sold by Milton Bradley from 1974, has a grid of seven columns and six rows. It looks too simple to hide a secret, yet it has more than 4 trillion possible positions. In October 1988, James Dow Allen and Victor Allis independently showed that the first player can always force a win, as long as the first disc goes in the middle column.",
+  "bullets": [
+    {
+      "opening": "Two proofs in one month",
+      "linkId": null,
+      "text": "Allen announced his result on 1 October 1988, and Allis followed about two weeks later. Allis, then a student in the Netherlands, built a program called Victor that combined computer search with strategic rules that strong players use."
+    },
+    {
+      "opening": "The other opening columns",
+      "linkId": null,
+      "text": "Where the first disc goes matters. Opening in a column next to the centre lets a perfect opponent force a draw, and opening in any of the four outer columns hands the win to the second player."
+    },
+    {
+      "opening": "A slow forced win",
+      "linkId": null,
+      "text": "Even the first player cannot win quickly. Against the best defence, the winning line takes most of the game, and the final four-in-a-row arrives only when the board is nearly full."
+    },
+    {
+      "opening": "Connect Four solvers",
+      "linkId": null,
+      "text": "Today a small program can play Connect Four perfectly on an ordinary laptop. Online solvers show, for any position, whether it is a win, loss or draw with best play."
+    }
+  ],
+  "tags": [
+    "games",
+    "solved-games",
+    "ai",
+    "strategy"
+  ],
+  "related": [
+    "checkers-solved-chinook",
+    "hex-game",
+    "shannon-number",
+    "nimrod-computer",
+    "menace-matchboxes",
+    "gods-number"
+  ]
+}

@@ -3168,5 +3168,65 @@
   "id": "nicaraguan-sign-language",
   "title": "Nicaraguan Sign Language",
   "category": "Language"
+ },
+ {
+  "id": "tamagotchi",
+  "title": "The Tamagotchi's egg-watch name",
+  "category": "Games"
+ },
+ {
+  "id": "magic-8-ball",
+  "title": "What's inside a Magic 8 Ball",
+  "category": "Games"
+ },
+ {
+  "id": "spilsbury-jigsaw",
+  "title": "The first jigsaw puzzles were maps",
+  "category": "Games"
+ },
+ {
+  "id": "royal-game-of-ur",
+  "title": "The Royal Game of Ur",
+  "category": "Games"
+ },
+ {
+  "id": "lewis-chessmen",
+  "title": "The Lewis chessmen",
+  "category": "Games"
+ },
+ {
+  "id": "chess-queen-power",
+  "title": "How the chess queen became powerful",
+  "category": "Games"
+ },
+ {
+  "id": "backgammon-doubling-cube",
+  "title": "The backgammon doubling cube",
+  "category": "Games"
+ },
+ {
+  "id": "contract-bridge-cruise",
+  "title": "The cruise that made contract bridge",
+  "category": "Games"
+ },
+ {
+  "id": "uno-stacking",
+  "title": "Uno's no-stacking rule",
+  "category": "Games"
+ },
+ {
+  "id": "trivial-pursuit-scrabble",
+  "title": "Trivial Pursuit and the missing Scrabble tiles",
+  "category": "Games"
+ },
+ {
+  "id": "connect-four-solved",
+  "title": "Connect Four is solved",
+  "category": "Games"
+ },
+ {
+  "id": "checkers-solved-chinook",
+  "title": "Checkers is a draw",
+  "category": "Games"
  }
 ]

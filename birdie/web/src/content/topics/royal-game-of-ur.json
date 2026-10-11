@@ -1,0 +1,44 @@
+{
+  "id": "royal-game-of-ur",
+  "title": "The Royal Game of Ur",
+  "category": "Games",
+  "hook": "A 4,500-year-old board game whose rules turned up on a clay tablet.",
+  "peek": "Boards for the Royal Game of Ur are about 4,500 years old, but nobody knew how to play until a British Museum curator read a cuneiform tablet written by a Babylonian scribe more than two thousand years later.",
+  "lede": "In the 1920s the archaeologist Leonard Woolley, excavating the ancient city of Ur in what is now southern Iraq, found several beautiful game boards from about 2600 BC. Each had 20 squares, some marked with rosettes. For decades the rules were a mystery. Then Irving Finkel, a curator at the British Museum, realised that a cuneiform tablet in the museum's collection explained how to play.",
+  "bullets": [
+    {
+      "opening": "The Babylonian rules tablet",
+      "linkId": null,
+      "text": "The tablet was written around 177 BC by a Babylonian scribe named Itti-Marduk-balatu, more than 2,000 years after the Ur boards were made. It sets out moves for a game on the same 20-square board, and Finkel pieced together the rest from the boards themselves."
+    },
+    {
+      "opening": "Pyramid dice and rosettes",
+      "linkId": null,
+      "text": "It is a race game for two players with seven pieces each. Players throw four-sided pyramid dice, and landing on a rosette gives another throw, so the game mixes luck with decisions about which piece to move."
+    },
+    {
+      "opening": "Boards scratched by guards",
+      "linkId": null,
+      "text": "Finkel later found the same board pattern scratched into the base of huge stone guardian statues from the Assyrian palace at Khorsabad. Palace guards probably carved it to pass the time on duty."
+    },
+    {
+      "opening": "The game in Kochi",
+      "linkId": null,
+      "text": "The game outlived the empires that played it. A version was still played by the Jewish community of Kochi, in southern India, into the 20th century, roughly 4,000 years after the boards at Ur were made."
+    }
+  ],
+  "tags": [
+    "games",
+    "archaeology",
+    "history-of-things",
+    "board-games"
+  ],
+  "related": [
+    "cuneiform-accounts",
+    "ea-nasir-complaint",
+    "kushim",
+    "moksha-patam",
+    "backgammon-doubling-cube",
+    "lewis-chessmen"
+  ]
+}

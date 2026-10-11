@@ -1,0 +1,44 @@
+{
+  "id": "spilsbury-jigsaw",
+  "title": "The first jigsaw puzzles were maps",
+  "category": "Games",
+  "hook": "The first jigsaw puzzles were maps of the world, cut along country borders.",
+  "peek": "In the 1760s a London engraver named John Spilsbury glued maps to wooden boards and cut around each country. Children learned geography by putting the world back together, and the jigsaw puzzle was born.",
+  "lede": "Around 1766 John Spilsbury, a London engraver and mapmaker, pasted a map onto a thin board of wood and cut it apart along the borders between countries. He sold these dissected maps as teaching aids, so that children could learn where each kingdom sat by fitting it back into place. For decades, jigsaw puzzles were mostly for lessons, not for fun.",
+  "bullets": [
+    {
+      "opening": "Spilsbury's dissected maps",
+      "linkId": null,
+      "text": "Spilsbury offered maps of the world, of separate continents and of parts of the British Isles, mounted on hardwood. Each piece was a whole country or county, so every shape was itself part of the geography lesson."
+    },
+    {
+      "opening": "Lady Charlotte Finch's maps",
+      "linkId": null,
+      "text": "Historians have found that Lady Charlotte Finch, governess to the children of George III, used dissected maps to teach the young royals. She may even have had them before Spilsbury, so his title as inventor is not certain."
+    },
+    {
+      "opening": "Puzzles without interlocking pieces",
+      "linkId": null,
+      "text": "Early map puzzles had no knobs or sockets. The pieces simply sat side by side along the borders, and one knock could scatter a continent. Interlocking pieces only became common in the early 1900s."
+    },
+    {
+      "opening": "The name jigsaw puzzle",
+      "linkId": null,
+      "text": "For about a century these were called dissected puzzles. The name jigsaw puzzle caught on in the early 1900s, borrowed from the saws used to cut them, although most were really cut with fretsaws."
+    }
+  ],
+  "tags": [
+    "maps",
+    "games",
+    "history-of-things",
+    "inventors"
+  ],
+  "related": [
+    "waldseemuller-map",
+    "monopoly-escape-maps",
+    "fifteen-puzzle",
+    "first-crossword",
+    "scrabble-letters",
+    "landlords-game"
+  ]
+}

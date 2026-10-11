@@ -1,0 +1,44 @@
+{
+  "id": "chess-queen-power",
+  "title": "How the chess queen became powerful",
+  "category": "Games",
+  "hook": "The strongest chess piece spent centuries creeping one square at a time.",
+  "peek": "In medieval chess the queen began as a royal adviser who could move just one square diagonally. In the late 1400s, players in Spain let her sweep across the whole board, and the game has never been the same.",
+  "lede": "Chess reached Europe from the Islamic world, where the piece beside the king was the ferz, or vizier, a royal adviser. It could step only one square diagonally, which made it one of the weakest pieces on the board. In Europe it gradually became a queen, but she kept the same tiny move for centuries. Then, around 1475, the rules changed.",
+  "bullets": [
+    {
+      "opening": "From ferz to queen",
+      "linkId": null,
+      "text": "European players turned the adviser into a queen, perhaps because a royal couple suited the board. The old name lingered in French as fierce or fierge before the piece became the dame."
+    },
+    {
+      "opening": "The poem Scachs d'amor",
+      "linkId": null,
+      "text": "The earliest known game with the new queen is described in Scachs d'amor, a Catalan poem from Valencia written around 1475. Spanish writers came to call the new version the chess of the queen."
+    },
+    {
+      "opening": "Lucena's 1497 chess book",
+      "linkId": null,
+      "text": "Luis Ramirez de Lucena's chess book, printed in Salamanca in 1497, taught the new rules, in which the bishop also gained its long diagonal move. Within decades the faster game had spread across Europe."
+    },
+    {
+      "opening": "The Isabella theory",
+      "linkId": null,
+      "text": "Some historians, such as Marilyn Yalom, link the powerful queen to Isabella of Castile, who reigned in Spain at the time. It is an appealing idea, but nobody has found direct proof that she inspired the rule."
+    }
+  ],
+  "tags": [
+    "chess",
+    "games",
+    "history-of-things",
+    "rules"
+  ],
+  "related": [
+    "lewis-chessmen",
+    "shannon-number",
+    "alphazero-chess",
+    "el-ajedrecista",
+    "elo-rating",
+    "ace-of-spades-tax"
+  ]
+}

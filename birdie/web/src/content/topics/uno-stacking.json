@@ -1,0 +1,44 @@
+{
+  "id": "uno-stacking",
+  "title": "Uno's no-stacking rule",
+  "category": "Games",
+  "hook": "Under Uno's official rules, you cannot pass a Draw Two along with another.",
+  "peek": "In 2019 the official Uno account reminded players that stacking a Draw Two on a Draw Two is not in the rules. Thousands of families who had always played that way were surprised, and many said they would carry on anyway.",
+  "lede": "In many homes, if someone plays a Draw Two on you, you can answer with your own and push four cards onto the next player. It feels like a rule, but it is not one. In 2019 Mattel's official Uno account said so on Twitter: if a Draw Two lands on you, you draw two cards and miss your turn, with no passing it on.",
+  "bullets": [
+    {
+      "opening": "The 2019 Uno tweet",
+      "linkId": null,
+      "text": "The post drew a flood of replies from players who had stacked for years, many promising to keep doing it. Stacking is a house rule, and plenty of families treat it as part of the game."
+    },
+    {
+      "opening": "Wild Draw Four challenges",
+      "linkId": null,
+      "text": "The official rules also limit the Wild Draw Four: you may play it only when you hold no card of the current colour. The next player can challenge, and if you were bluffing, you draw the four cards instead."
+    },
+    {
+      "opening": "Merle Robbins' barbershop",
+      "linkId": null,
+      "text": "Uno was invented in 1971 by Merle Robbins, a barber in Reading, Ohio, after a family argument over the rules of Crazy Eights. He sold early decks from his shop before selling the rights, and Mattel took over the game in 1992."
+    },
+    {
+      "opening": "Uno Show 'Em No Mercy",
+      "linkId": null,
+      "text": "Mattel did eventually make stacking official, but only in a separate edition. Uno Show 'Em No Mercy, released in 2023, lets players stack draw cards on purpose."
+    }
+  ],
+  "tags": [
+    "games",
+    "card-games",
+    "rules",
+    "myths-busted"
+  ],
+  "related": [
+    "contract-bridge-cruise",
+    "joker-euchre",
+    "landlords-game",
+    "nintendo-hanafuda",
+    "windows-solitaire",
+    "scrabble-letters"
+  ]
+}

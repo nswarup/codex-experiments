@@ -1,0 +1,44 @@
+{
+  "id": "lewis-chessmen",
+  "title": "The Lewis chessmen",
+  "category": "Games",
+  "hook": "Medieval chess pieces found on a Scottish island, with rooks biting their shields.",
+  "peek": "In 1831 a hoard of 12th-century chess pieces, carved mostly from walrus ivory, came to light on the Isle of Lewis. The kings look glum, the queens rest their cheeks on their hands, and some rooks bite their shields.",
+  "lede": "In 1831 a hoard of small carved figures came to light near Uig Bay on the Isle of Lewis, in the Outer Hebrides. Most were chess pieces, made in the late 1100s from walrus ivory and whale teeth. There were 78 of them, from at least four sets, along with 14 plain game counters and a buckle. Exactly who found them, and how, is told in several versions.",
+  "bullets": [
+    {
+      "opening": "The shield-biting warders",
+      "linkId": null,
+      "text": "The rooks are not castles but standing warriors called warders. A few glare over the rims of their shields and bite them, like the berserkers of Norse sagas, fighters said to work themselves into a wild frenzy."
+    },
+    {
+      "opening": "Carved in Norway",
+      "linkId": null,
+      "text": "Most experts think the chessmen were carved in Norway, possibly in Trondheim, where similar ivory work has been found. The Hebrides were ruled from Norway at the time, and one idea is that the pieces were a merchant's stock."
+    },
+    {
+      "opening": "Split between two museums",
+      "linkId": null,
+      "text": "The British Museum holds 82 of the objects and the National Museum of Scotland in Edinburgh has 11. Many people on Lewis would like them displayed on the island, and a few are now on long-term loan to the museum in Stornoway."
+    },
+    {
+      "opening": "The warder in a drawer",
+      "linkId": null,
+      "text": "One of the missing chessmen turned up in 2019. An Edinburgh antiques dealer had bought it in 1964 for 5 pounds, and his family kept it in a drawer for decades. It sold at auction for 735,000 pounds."
+    }
+  ],
+  "tags": [
+    "chess",
+    "games",
+    "archaeology",
+    "history-of-things"
+  ],
+  "related": [
+    "chess-queen-power",
+    "viking-horned-helmets",
+    "royal-game-of-ur",
+    "el-ajedrecista",
+    "shannon-number",
+    "alphazero-chess"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "magic-8-ball",
+  "title": "What's inside a Magic 8 Ball",
+  "category": "Games",
+  "hook": "Shake it and a 20-sided die floats up through dark blue liquid to answer you.",
+  "peek": "The Magic 8 Ball's answers are printed on the faces of a single 20-sided die, floating in dark liquid. Ten of the answers say yes, five say no, and five politely refuse to commit.",
+  "lede": "Turn a Magic 8 Ball over and an answer drifts up into the little window: It is certain, or Reply hazy, try again. There is no stack of answers inside, just one plastic die with 20 triangular faces, each carrying a reply in raised letters. The die floats in dark blue liquid, and whichever face settles against the window is your answer.",
+  "bullets": [
+    {
+      "opening": "The twenty answers",
+      "linkId": null,
+      "text": "Ten answers are yes, such as Without a doubt. Five are no, such as Don't count on it. The other five, like Ask again later, dodge the question, so the ball says yes half the time."
+    },
+    {
+      "opening": "The icosahedron die",
+      "linkId": null,
+      "text": "A 20-sided die, an icosahedron, suits the job because all its faces are identical triangles, so the shape favours no answer. The dark liquid hides every face except the one pressed close to the window."
+    },
+    {
+      "opening": "Albert Carter's fortune tube",
+      "linkId": null,
+      "text": "The toy began with Albert Carter, whose mother was a clairvoyant in Cincinnati. In the 1940s he and his brother-in-law Abe Bookman turned his idea into a fortune-telling tube with an answer floating inside."
+    },
+    {
+      "opening": "Why it became an 8 ball",
+      "linkId": null,
+      "text": "Around 1950 the billiards company Brunswick ordered a version shaped like a black pool ball for a promotion. The 8 ball look stuck, and the toy has kept it ever since. Mattel makes it today."
+    }
+  ],
+  "tags": [
+    "games",
+    "toys",
+    "probability",
+    "inventors"
+  ],
+  "related": [
+    "nontransitive-dice",
+    "etch-a-sketch",
+    "lava-lamp",
+    "tamagotchi",
+    "twister-tonight-show",
+    "uno-stacking"
+  ]
+}

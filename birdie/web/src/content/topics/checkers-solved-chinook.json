@@ -1,0 +1,44 @@
+{
+  "id": "checkers-solved-chinook",
+  "title": "Checkers is a draw",
+  "category": "Games",
+  "hook": "A computer spent 18 years proving that perfect checkers always ends in a draw.",
+  "peek": "In 2007 Jonathan Schaeffer's team at the University of Alberta announced that checkers is solved. Their program, Chinook, had shown that if neither player ever makes a mistake, the game always ends in a draw.",
+  "lede": "Jonathan Schaeffer began writing a checkers program, Chinook, at the University of Alberta in 1989. At first he wanted it to beat the best human players. Then he set a bigger goal: to work out the game completely. In 2007, after 18 years of computation on dozens of computers, his team published the answer in the journal Science. With perfect play on both sides, checkers is a draw.",
+  "bullets": [
+    {
+      "opening": "Marion Tinsley, Chinook's rival",
+      "linkId": null,
+      "text": "Chinook's great rival was Marion Tinsley, a mathematics professor who was the world's best checkers player for decades and lost only a handful of games in his career. He beat Chinook in a 1992 match by 4 wins to 2, with 33 draws."
+    },
+    {
+      "opening": "Chinook's 1994 world title",
+      "linkId": null,
+      "text": "In 1994 Chinook became the first computer program to win a world championship title against humans, after Tinsley withdrew from their rematch and Chinook took the crown."
+    },
+    {
+      "opening": "Five hundred billion billion positions",
+      "linkId": null,
+      "text": "Checkers has about 500 billion billion possible positions, far too many to check one by one. The team built a database of every endgame with ten or fewer pieces, then searched forward from the opening until the lines met it."
+    },
+    {
+      "opening": "A weak solution",
+      "linkId": null,
+      "text": "The proof is what mathematicians call a weak solution. It shows that the starting position is a draw and gives a way never to lose from it, but it does not say what is best in every possible position."
+    }
+  ],
+  "tags": [
+    "games",
+    "solved-games",
+    "ai",
+    "records"
+  ],
+  "related": [
+    "connect-four-solved",
+    "shannon-number",
+    "alphazero-chess",
+    "move-37",
+    "hex-game",
+    "menace-matchboxes"
+  ]
+}

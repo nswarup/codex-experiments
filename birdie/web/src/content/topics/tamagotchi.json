@@ -1,0 +1,45 @@
+{
+  "id": "tamagotchi",
+  "title": "The Tamagotchi's egg-watch name",
+  "category": "Games",
+  "hook": "A pocket egg from 1996 that needed feeding, playing with and putting to bed.",
+  "peek": "In 1996 the Japanese toy company Bandai released a small egg-shaped gadget with a pixel pet inside. Its name blends the Japanese word for egg with the English word watch, and it went on to sell tens of millions.",
+  "lede": "The Tamagotchi arrived in Japan in November 1996: a plastic egg on a keychain, with three buttons and a tiny screen. Inside lived a pet that hatched, grew and beeped for attention. Its name joins tamago, Japanese for egg, with uotchi, a Japanese spelling of the English word watch, because it was meant to be carried everywhere like one.",
+  "bullets": [
+    {
+      "opening": "Aki Maita's idea",
+      "linkId": null,
+      "text": "Aki Maita, who worked at Bandai, wanted a pet that children could look after anywhere, even if they had no room for a real one. She developed it with Akihiro Yokoi of the toy design firm WiZ."
+    },
+    {
+      "opening": "The Tamagotchi craze",
+      "linkId": null,
+      "text": "Shops in Japan struggled to keep it in stock, and buyers queued for new deliveries. The craze followed it to the United States and Europe in 1997, and Bandai has since sold more than 80 million worldwide."
+    },
+    {
+      "opening": "Tamagotchi school bans",
+      "linkId": null,
+      "text": "The beeping pets went to school with their owners and asked for care in the middle of lessons. Many schools in several countries banned them, because a hungry pet could not simply wait for the bell."
+    },
+    {
+      "opening": "The 1997 Ig Nobel Prize",
+      "linkId": null,
+      "text": "Maita and Yokoi shared the 1997 Ig Nobel Prize in Economics, a tongue-in-cheek award, for drawing millions of hours of work time into the care of pets that did not exist."
+    }
+  ],
+  "tags": [
+    "games",
+    "toys",
+    "names",
+    "etymology",
+    "inventors"
+  ],
+  "related": [
+    "game-and-watch",
+    "nintendo-hanafuda",
+    "pac-man-name",
+    "speak-and-spell",
+    "tetris-origin",
+    "jenga-name"
+  ]
+}

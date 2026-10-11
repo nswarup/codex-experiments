@@ -1,0 +1,44 @@
+{
+  "id": "trivial-pursuit-scrabble",
+  "title": "Trivial Pursuit and the missing Scrabble tiles",
+  "category": "Games",
+  "hook": "A Scrabble set with missing tiles led to one of the best-selling board games.",
+  "peek": "In December 1979, two friends in Montreal sat down to play Scrabble and found pieces missing. Instead of giving up, they started inventing their own game. Trivial Pursuit went on to sell tens of millions of copies.",
+  "lede": "Chris Haney, a photo editor at the Montreal Gazette, and Scott Abbott, a sports journalist, sat down to play Scrabble in December 1979 and found their set was missing tiles. They decided to invent a game of their own instead, and the idea they sketched out was a trivia game. With two partners, they spent the next two years writing thousands of questions.",
+  "bullets": [
+    {
+      "opening": "Shares for the artist",
+      "linkId": null,
+      "text": "To pay for the first sets, the partners sold shares to friends and colleagues. The 18-year-old artist Michael Wurstlin designed the board and logo in return for five shares, a stake later worth millions."
+    },
+    {
+      "opening": "Six categories and wedges",
+      "linkId": null,
+      "text": "Players travel around a wheel-shaped board answering questions in six categories, winning a coloured wedge for each to fill a round playing piece. The original six included geography, history, and science and nature."
+    },
+    {
+      "opening": "The 1984 Trivial Pursuit boom",
+      "linkId": null,
+      "text": "Early sales were slow, but by 1984 the game was a craze, with more than 20 million copies sold that year in the United States alone."
+    },
+    {
+      "opening": "The Columbo question",
+      "linkId": null,
+      "text": "Fred Worth, author of a trivia encyclopedia, sued, saying the game copied his book. He had planted a false fact, that the TV detective Columbo's first name was Philip, and it appeared in the game. Courts ruled for the creators."
+    }
+  ],
+  "tags": [
+    "games",
+    "board-games",
+    "inventors",
+    "accidents"
+  ],
+  "related": [
+    "scrabble-letters",
+    "landlords-game",
+    "first-crossword",
+    "jenga-name",
+    "twister-tonight-show",
+    "meeple-word"
+  ]
+}
