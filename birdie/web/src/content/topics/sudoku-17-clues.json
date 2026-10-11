@@ -1,0 +1,43 @@
+{
+  "id": "sudoku-17-clues",
+  "title": "The 17-clue sudoku",
+  "category": "Math",
+  "hook": "No proper sudoku can start with fewer than 17 numbers, and proving it took a supercomputer.",
+  "peek": "Puzzle fans had found tens of thousands of sudokus that start with 17 given numbers, but never one with 16. In 2012 three mathematicians in Dublin used about seven million hours of computer time to show that none exists.",
+  "lede": "A proper sudoku has exactly one solution. The fewer numbers it starts with, the harder it tends to be, so enthusiasts hunted for the smallest possible starting grid. They found many with 17 clues and none with 16. In January 2012 Gary McGuire, Bastian Tugemann and Gilles Civario of University College Dublin announced a proof that 17 really is the floor.",
+  "bullets": [
+    {
+      "opening": "Gordon Royle's collection",
+      "linkId": null,
+      "text": "The mathematician Gordon Royle in Western Australia gathered 17-clue puzzles sent in from around the world, eventually listing nearly 50,000 of them. The steady flow of 17s and total absence of 16s made people suspect a hard limit."
+    },
+    {
+      "opening": "Five and a half billion grids",
+      "linkId": null,
+      "text": "Counting rotations, relabellings and other symmetries as the same, there are about 5.5 billion essentially different completed sudoku grids. The Dublin team checked every one of them for a hidden 16-clue puzzle."
+    },
+    {
+      "opening": "Unavoidable sets",
+      "linkId": null,
+      "text": "Their trick was to look for unavoidable sets: groups of cells that could be swapped around to give a second valid answer. A starting grid must put a clue in each such group, which let the program skip almost all of the possible choices."
+    },
+    {
+      "opening": "Seven million CPU hours",
+      "linkId": null,
+      "text": "Even with those shortcuts, the search took about seven million processor hours on a supercomputer at the Irish Centre for High-End Computing. It found no 16-clue sudoku with a unique answer."
+    }
+  ],
+  "tags": [
+    "games",
+    "records",
+    "patterns",
+    "computing"
+  ],
+  "related": [
+    "sudoku-number-place",
+    "four-color-theorem",
+    "gods-number",
+    "checkers-solved-chinook",
+    "fifteen-puzzle"
+  ]
+}

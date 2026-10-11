@@ -1,0 +1,44 @@
+{
+  "id": "clock-of-the-long-now",
+  "title": "The Clock of the Long Now",
+  "category": "Tech",
+  "hook": "A clock inside a Texas mountain is built to tick once a year for 10,000 years.",
+  "peek": "Deep inside a mountain in west Texas, a giant mechanical clock is being assembled to run for ten thousand years. Its century hand moves once every hundred years, and a cuckoo is due to appear once every millennium.",
+  "lede": "In 1995 the computer designer Danny Hillis proposed a clock for people who think in centuries. The Long Now Foundation took up the idea, and a full-size version is being built inside a mountain in the Sierra Diablo range of west Texas. It ticks once a year, its century hand advances every hundred years, and its cuckoo comes out once a millennium.",
+  "bullets": [
+    {
+      "opening": "The London prototype",
+      "linkId": null,
+      "text": "A first working prototype, about eight feet tall, was finished just in time for the last night of 1999. It chimed twice at midnight to welcome the year 2000, and it is now kept at the Science Museum in London."
+    },
+    {
+      "opening": "Powered by day and night",
+      "linkId": null,
+      "text": "The clock keeps running on the daily swing between warm days and cool nights, and a lens catches the noon sun to correct its drift. Its dial only catches up when a visitor winds it, so it shows the time of the last visit until then."
+    },
+    {
+      "opening": "Brian Eno's chimes",
+      "linkId": null,
+      "text": "The musician Brian Eno designed the rules for the clock's ten bells. They are set to ring a different sequence every day, so the chimes should never repeat in the clock's 10,000 years."
+    },
+    {
+      "opening": "Jeff Bezos's mountain",
+      "linkId": null,
+      "text": "The clock sits on land owned by Jeff Bezos, who has put about 42 million dollars into the project. Visitors will have to hike up a mountain trail and climb a shaft hundreds of feet tall to reach it."
+    }
+  ],
+  "tags": [
+    "time",
+    "clocks",
+    "design",
+    "scale"
+  ],
+  "related": [
+    "harrison-clocks",
+    "organ-aslsp",
+    "pitch-drop-experiment",
+    "arctic-code-vault",
+    "sagrada-familia",
+    "westminster-quarters"
+  ]
+}

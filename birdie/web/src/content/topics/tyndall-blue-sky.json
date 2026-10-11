@@ -1,0 +1,43 @@
+{
+  "id": "tyndall-blue-sky",
+  "title": "Tyndall's blue sky in a tube",
+  "category": "Science",
+  "hook": "In the 1860s John Tyndall made a little blue sky inside a glass tube.",
+  "peek": "The Irish physicist John Tyndall shone a beam of light through a glass tube holding a very fine mist, and the mist glowed sky blue. He thought he had found why the sky is blue. He was nearly right, and the true answer came soon after.",
+  "lede": "In the late 1860s the Irish-born physicist John Tyndall, working in London, sent a strong beam of light through a long glass tube filled with chemical vapours. As the light acted on them, a fine cloud formed, and it glowed a delicate blue from the side. It looked like a small piece of sky, and Tyndall thought it explained the real one.",
+  "bullets": [
+    {
+      "opening": "Scattering by tiny particles",
+      "linkId": null,
+      "text": "Very small particles scatter blue light much more strongly than red. So when you look at the beam from the side, you see mostly the scattered blue. This is now called the Tyndall effect."
+    },
+    {
+      "opening": "Sky-like polarised light",
+      "linkId": null,
+      "text": "Tyndall noticed that the blue light from his cloud was polarised, much as light from the open sky is. That made the match between his tube and the sky even more convincing."
+    },
+    {
+      "opening": "Lord Rayleigh's correction",
+      "linkId": null,
+      "text": "Tyndall believed fine dust and droplets made the sky blue. From 1871 Lord Rayleigh worked out the maths of the scattering and later showed that the air molecules themselves are enough. No dust is needed."
+    },
+    {
+      "opening": "Milk in a glass of water",
+      "linkId": null,
+      "text": "The effect is easy to see at home. Stir a few drops of milk into a glass of water and shine a torch through it. From the side it looks faintly blue, and looking straight through at the torch it looks orange."
+    }
+  ],
+  "tags": [
+    "light",
+    "color",
+    "experiments",
+    "weather"
+  ],
+  "related": [
+    "olbers-paradox",
+    "magenta-no-wavelength",
+    "newton-indigo",
+    "rainbow-circles",
+    "michelson-morley"
+  ]
+}

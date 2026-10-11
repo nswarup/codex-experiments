@@ -1,0 +1,43 @@
+{
+  "id": "tea-leaf-paradox",
+  "title": "Einstein's tea leaves",
+  "category": "Science",
+  "hook": "Stir a cup of tea and the leaves crowd into the middle, not the edge.",
+  "peek": "You might expect a spinning cup to fling tea leaves outward. Instead they gather in a neat pile at the centre of the bottom. In 1926 Albert Einstein explained why, in a paper that was really about how rivers bend.",
+  "lede": "Stir loose-leaf tea and let it settle, and the leaves drift to the centre of the cup's floor. That seems backwards, since spinning things usually push heavy bits outward. In 1926 Albert Einstein published a short paper on why rivers wind into meanders, and he opened it with this teacup as the everyday example of the same hidden flow.",
+  "bullets": [
+    {
+      "opening": "The hidden circulation",
+      "linkId": null,
+      "text": "As the tea spins, friction slows the water touching the bottom of the cup. That slower layer cannot resist the inward push of pressure, so it creeps towards the centre, rises up the middle and flows back out across the top."
+    },
+    {
+      "opening": "Leaves too heavy to rise",
+      "linkId": null,
+      "text": "The inward current along the bottom sweeps the leaves to the middle. The upward current there is too weak to lift them, so they pile up in a small heap at the centre."
+    },
+    {
+      "opening": "Einstein's 1926 river paper",
+      "linkId": null,
+      "text": "Einstein pointed out that water flowing round a river bend sets up the same circulation. It scrapes the outer bank and drops sediment on the inner one, so the bend slowly grows into a loop."
+    },
+    {
+      "opening": "Brewers' whirlpools",
+      "linkId": null,
+      "text": "Brewers put the effect to work. After boiling, beer is spun in a whirlpool tank, and the leftover hops and proteins collect in a cone at the centre, where they are easy to leave behind."
+    }
+  ],
+  "tags": [
+    "physics",
+    "rivers",
+    "paradoxes",
+    "everyday-science"
+  ],
+  "related": [
+    "coffee-ring-effect",
+    "brazil-nut-effect",
+    "foucault-pendulum",
+    "leidenfrost-effect",
+    "oobleck"
+  ]
+}

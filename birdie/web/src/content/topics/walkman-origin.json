@@ -1,0 +1,43 @@
+{
+  "id": "walkman-origin",
+  "title": "The Walkman and the opera fan",
+  "category": "Tech",
+  "hook": "Sony's Walkman began as a gadget for one boss who wanted music on long flights.",
+  "peek": "In 1979 Sony launched a small cassette player that let people carry music in their pocket. It started as a one-off request from co-founder Masaru Ibuka, who wanted to listen to opera on his long flights across the Pacific.",
+  "lede": "Masaru Ibuka, one of Sony's founders, flew often between Japan and the United States and wanted to listen to opera on the way. Sony's portable recorders were heavy, so he asked engineers for something smaller that just played tapes in stereo. They adapted an existing model. His fellow founder Akio Morita saw the result and decided ordinary people would want one too.",
+  "bullets": [
+    {
+      "opening": "The Pressman recorder",
+      "linkId": null,
+      "text": "The engineers started from the Pressman, a small mono recorder made for journalists. They removed the recording parts and the speaker, added stereo playback, and relied on light headphones to deliver the sound."
+    },
+    {
+      "opening": "Launch in July 1979",
+      "linkId": null,
+      "text": "The Walkman TPS-L2 went on sale in Japan on 1 July 1979. It had two headphone sockets and an orange button that lowered the music so two listeners could talk, since Morita worried that listening alone would seem rude."
+    },
+    {
+      "opening": "Soundabout and Stowaway",
+      "linkId": null,
+      "text": "Some at Sony thought Walkman was poor English, so early exports used other names: Soundabout in the United States and Stowaway in Britain. Walkman spread anyway and became the name everywhere."
+    },
+    {
+      "opening": "A pocket full of music",
+      "linkId": null,
+      "text": "The cassette Walkman sold hundreds of millions of units across its many models. It made music something people carried through their day, an idea every phone with headphones still follows."
+    }
+  ],
+  "tags": [
+    "music-tech",
+    "inventors",
+    "names",
+    "history-of-things"
+  ],
+  "related": [
+    "game-boy",
+    "cd-74-minutes",
+    "toms-diner-mp3",
+    "karaoke-inoue",
+    "nokia-tune"
+  ]
+}

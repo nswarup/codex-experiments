@@ -1,0 +1,44 @@
+{
+  "id": "maxwells-demon",
+  "title": "Maxwell's demon",
+  "category": "Science",
+  "hook": "A tiny imaginary doorkeeper puzzled physicists for over a hundred years.",
+  "peek": "James Clerk Maxwell imagined a little being that sorts fast molecules from slow ones, making heat flow the wrong way for free. Explaining why it fails took about a century, and the answer was that information has a physical cost.",
+  "lede": "Heat flows from hot to cold, never the other way on its own. That rule is the second law of thermodynamics. In 1867 James Clerk Maxwell, in a letter to his friend Peter Guthrie Tait, imagined a way round it. A tiny being guards a door between two boxes of gas, letting fast molecules into one side and slow ones into the other.",
+  "bullets": [
+    {
+      "opening": "The sorting door",
+      "linkId": null,
+      "text": "Without doing any obvious work, the doorkeeper makes one box hotter and the other colder. That difference could then run an engine, which seemed to break one of the firmest laws in physics."
+    },
+    {
+      "opening": "Kelvin names the demon",
+      "linkId": null,
+      "text": "Maxwell called it a finite being. The physicist William Thomson, later Lord Kelvin, named it Maxwell's demon in the 1870s, meaning a helpful spirit rather than anything sinister."
+    },
+    {
+      "opening": "Landauer's principle",
+      "linkId": null,
+      "text": "In 1961 Rolf Landauer at IBM showed that erasing information always releases a little heat. In 1982 Charles Bennett used this to explain the paradox: the demon must remember each molecule, and clearing its memory pays the cost."
+    },
+    {
+      "opening": "Measuring the cost of a bit",
+      "linkId": null,
+      "text": "In 2012 physicists in France measured the tiny heat released when one bit of information was erased using a single bead held by a laser. It matched Landauer's prediction."
+    }
+  ],
+  "tags": [
+    "physics",
+    "thought-experiments",
+    "information",
+    "paradoxes"
+  ],
+  "related": [
+    "brownian-motion",
+    "rubber-band-heat",
+    "shannon-number",
+    "leidenfrost-effect",
+    "hilberts-hotel",
+    "double-slit-experiment"
+  ]
+}

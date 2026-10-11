@@ -1,0 +1,44 @@
+{
+  "id": "buys-ballot-trumpeters",
+  "title": "The Doppler effect on a train",
+  "category": "Science",
+  "hook": "In 1845 the Doppler effect was tested with horn players riding on a train.",
+  "peek": "To test a new idea about sound and motion, a Dutch scientist hired a locomotive and a group of horn players. As they rolled past musicians with perfect pitch, the note rose as they came near and fell as they went away.",
+  "lede": "In 1842 the Austrian physicist Christian Doppler argued that a wave's pitch should change when its source moves toward or away from you. Not everyone was convinced. In 1845 the Dutch scientist Christophorus Buys Ballot tested it with sound, on the new railway near Utrecht. He put horn players on an open carriage and asked musicians beside the track to say what they heard.",
+  "bullets": [
+    {
+      "opening": "The listeners by the track",
+      "linkId": null,
+      "text": "Buys Ballot chose musicians with perfect pitch, who could name a note without a reference. As the train approached, they heard the horns' steady note sound higher, and once it passed, lower."
+    },
+    {
+      "opening": "Testing it both ways",
+      "linkId": null,
+      "text": "He also ran the experiment the other way round, with horns playing beside the track while listeners rode the train. The shift appeared again, which showed it depends on motion between source and listener, not on which one moves."
+    },
+    {
+      "opening": "A sceptic proves it",
+      "linkId": null,
+      "text": "Buys Ballot did not set out to support Doppler. He doubted Doppler's claim that the effect explained the colours of double stars, and that doubt held up, even as his own test confirmed the effect for sound."
+    },
+    {
+      "opening": "Buys Ballot's law",
+      "linkId": null,
+      "text": "He is better known today for weather. His rule says that if you stand with your back to the wind in the northern hemisphere, low pressure lies to your left."
+    }
+  ],
+  "tags": [
+    "acoustics",
+    "experiments",
+    "trains",
+    "perfect-pitch"
+  ],
+  "related": [
+    "whip-crack",
+    "perfect-pitch",
+    "a440-concert-pitch",
+    "michelson-morley",
+    "fizeau-toothed-wheel",
+    "foucault-pendulum"
+  ]
+}

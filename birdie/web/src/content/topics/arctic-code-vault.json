@@ -1,0 +1,44 @@
+{
+  "id": "arctic-code-vault",
+  "title": "The Arctic Code Vault",
+  "category": "Tech",
+  "hook": "GitHub stored a copy of the world's open-source code in an Arctic mine.",
+  "peek": "In 2020 GitHub wrote about 21 terabytes of open-source code onto reels of archival film and stored them in a disused coal mine in Svalbard. The film is meant to last 1,000 years, along with guides for reading it.",
+  "lede": "On 2 February 2020, GitHub took a snapshot of the active public code projects on its site. That July it stored the result, about 21 terabytes, on 186 reels of special film inside a decommissioned coal mine in Svalbard, Norway, deep in the permafrost. The aim is that the software of our era could still be read in a thousand years.",
+  "bullets": [
+    {
+      "opening": "Piql archival film",
+      "linkId": null,
+      "text": "The code was written onto film made by the Norwegian company Piql. The data is stored as dense patterns of tiny dots that a camera and software can read back, and the film needs no electricity to keep."
+    },
+    {
+      "opening": "The Arctic World Archive",
+      "linkId": null,
+      "text": "The reels sit in the Arctic World Archive, about 250 metres inside a mountain near Longyearbyen. The cold, dry and stable conditions help preserve the film. The Svalbard Global Seed Vault is not far away."
+    },
+    {
+      "opening": "The Tech Tree",
+      "linkId": null,
+      "text": "Nobody knows what computers will look like in 1,000 years, so the archive includes the Tech Tree, a collection of works explaining computing and open-source software, and a guide in several languages on how to decode the film."
+    },
+    {
+      "opening": "The contributor badge",
+      "linkId": null,
+      "text": "Developers whose code made it into the snapshot received an Arctic Code Vault Contributor badge on their GitHub profile. Many learned this way that their weekend projects had been put away in a thousand-year archive."
+    }
+  ],
+  "tags": [
+    "time",
+    "records",
+    "archives",
+    "software"
+  ],
+  "related": [
+    "clock-of-the-long-now",
+    "golden-record",
+    "project-gutenberg",
+    "voyager-computers",
+    "rosetta-stone",
+    "ibm-ramac"
+  ]
+}

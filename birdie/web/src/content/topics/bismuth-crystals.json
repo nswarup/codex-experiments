@@ -1,0 +1,44 @@
+{
+  "id": "bismuth-crystals",
+  "title": "Bismuth's rainbow staircases",
+  "category": "Science",
+  "hook": "Melted bismuth cools into hollow, stepped crystals in rainbow colours.",
+  "peek": "Bismuth is a heavy grey metal, yet crystals grown from it look like tiny rainbow-coloured staircases. The steps come from the way the crystals grow, and the colours from a film of oxide thinner than a soap bubble.",
+  "lede": "Plain bismuth is a dull, silvery metal. Melt it, let it cool slowly and lift out what forms, and you get something that looks designed: square spirals of nested steps, hollow in the middle, shining gold, pink, green and blue. Both the shape and the colour come from simple physics, and bismuth melts at about 271 °C, low enough for a kitchen stove.",
+  "bullets": [
+    {
+      "opening": "Hopper crystals",
+      "linkId": null,
+      "text": "Bismuth crystals grow faster along their edges than across their faces, because the edges reach more of the surrounding melt. The rims race ahead, leaving the centres hollow and stepped. Crystals with this shape are called hopper crystals."
+    },
+    {
+      "opening": "The oxide layer",
+      "linkId": null,
+      "text": "As the hot metal meets the air, a very thin layer of bismuth oxide forms on its surface. Light reflecting from the top and bottom of this layer interferes, like the colours on a soap bubble, and the colour depends on the layer's thickness."
+    },
+    {
+      "opening": "Expanding as it freezes",
+      "linkId": null,
+      "text": "Like water, bismuth expands when it turns solid, one of only a few substances that do. Solid bismuth is less dense than the liquid, so a freshly formed crystal floats on the molten metal it grew from."
+    },
+    {
+      "opening": "Almost not radioactive",
+      "linkId": null,
+      "text": "In 2003 researchers in France found that bismuth is very slightly radioactive. Its half-life is about a billion times the age of the universe, so for every practical purpose it is stable."
+    }
+  ],
+  "tags": [
+    "crystals",
+    "color",
+    "metals",
+    "patterns"
+  ],
+  "related": [
+    "gold-leaf-green",
+    "gallium-spoon",
+    "tonic-water-glow",
+    "snowflake-bentley",
+    "giants-causeway",
+    "rainbow-eucalyptus"
+  ]
+}

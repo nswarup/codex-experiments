@@ -1,0 +1,43 @@
+{
+  "id": "first-digital-photo",
+  "title": "The first digital photo",
+  "category": "Tech",
+  "hook": "The first digital image was a tiny scan of an engineer's baby son, made in 1957.",
+  "peek": "In 1957 the engineer Russell Kirsch fed a photo of his baby son into a computer. The result, 176 pixels square, was the first scanned digital image, and Kirsch spent his later years wishing he had not made the pixels square.",
+  "lede": "In 1957 Russell Kirsch and his colleagues at the US National Bureau of Standards built a scanner for SEAC, one of the first computers that could store its own programs. The picture they chose to scan was a photo of Kirsch's three-month-old son, Walden. The image was 176 pixels on each side and about five centimetres across.",
+  "bullets": [
+    {
+      "opening": "Only black or white",
+      "linkId": null,
+      "text": "SEAC's memory could hold each pixel only as black or white. To get shades of grey, the team scanned the photo several times at different settings and combined the results."
+    },
+    {
+      "opening": "Kirsch's square pixels",
+      "linkId": null,
+      "text": "Kirsch later called square pixels a mistake the whole world had been living with. In his eighties he worked on a method that let pixels take different shapes, which could make smoother images from fewer of them."
+    },
+    {
+      "opening": "SEAC, the computer behind it",
+      "linkId": null,
+      "text": "SEAC, the Standards Eastern Automatic Computer, went into service in 1950. Kirsch's team used the scanner to explore whether computers could recognise letters and shapes, early work on what became image processing."
+    },
+    {
+      "opening": "Life magazine's list",
+      "linkId": null,
+      "text": "In 2003 Life magazine included the picture of baby Walden in its list of 100 photographs that changed the world, next to far more famous images."
+    }
+  ],
+  "tags": [
+    "photography",
+    "firsts",
+    "history-of-things",
+    "inventors"
+  ],
+  "related": [
+    "boulevard-du-temple",
+    "first-text-message",
+    "voyager-computers",
+    "eniac-programmers",
+    "difference-engine-built"
+  ]
+}

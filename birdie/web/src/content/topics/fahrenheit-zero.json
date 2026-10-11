@@ -1,0 +1,43 @@
+{
+  "id": "fahrenheit-zero",
+  "title": "Where Fahrenheit's zero came from",
+  "category": "Science",
+  "hook": "Zero degrees Fahrenheit was a bucket of ice, water and salt.",
+  "peek": "Daniel Fahrenheit did not pick his zero at random. He set it at the temperature of a freezing salty slush he could make on demand, which is why water freezes at the strange-looking figure of 32.",
+  "lede": "In the early 1700s Daniel Gabriel Fahrenheit, an instrument maker from Danzig working in Amsterdam, needed fixed points that anyone could reproduce. In a 1724 paper he described his zero: a mix of ice, water and sal ammoniac, a type of salt. Salt lowers the freezing point, so the slush settles at a temperature well below that of plain ice water.",
+  "bullets": [
+    {
+      "opening": "The three fixed points",
+      "linkId": null,
+      "text": "Fahrenheit used three markers. Zero was the salty ice mix, 32 was ice in plain water, and 96 was the warmth of a healthy person, measured in the mouth or under the arm."
+    },
+    {
+      "opening": "Ole Rømer's scale",
+      "linkId": null,
+      "text": "Fahrenheit visited the Danish astronomer Ole Rømer in Copenhagen in 1708. Rømer already used a scale with fixed points for freezing water and body heat, and Fahrenheit adapted it, multiplying the numbers to give finer degrees."
+    },
+    {
+      "opening": "The cold winter story",
+      "linkId": null,
+      "text": "A popular story says zero was the coldest day of the hard winter of 1708 to 1709 in Danzig. It makes a neat tale, but Fahrenheit's own paper describes the salt mixture instead."
+    },
+    {
+      "opening": "How 98.6 crept in",
+      "linkId": null,
+      "text": "The scale was later recalibrated so that water boils at exactly 212 degrees, 180 above freezing. That small shift moved normal body temperature from 96 to about 98.6."
+    }
+  ],
+  "tags": [
+    "measurement",
+    "inventors",
+    "history-of-things",
+    "temperature"
+  ],
+  "related": [
+    "celsius-upside-down",
+    "water-densest-at-4c",
+    "supercooled-water",
+    "metre-from-meridian",
+    "caesium-second"
+  ]
+}

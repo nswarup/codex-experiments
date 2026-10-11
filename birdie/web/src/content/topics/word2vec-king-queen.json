@@ -1,0 +1,43 @@
+{
+  "id": "word2vec-king-queen",
+  "title": "King minus man plus woman",
+  "category": "Tech",
+  "hook": "A 2013 program found that king minus man plus woman lands right next to queen.",
+  "peek": "In 2013 a Google team trained a program called word2vec on billions of words of news. It turned every word into a list of numbers, and doing arithmetic on those lists produced analogies: king minus man plus woman came out closest to queen.",
+  "lede": "In 2013, a team at Google led by Tomas Mikolov released word2vec, a method that turns each word into a list of a few hundred numbers. Nobody told it what words meant. It learned only from which words appear near each other in text. Yet taking the numbers for king, subtracting man and adding woman gave a result closest to queen.",
+  "bullets": [
+    {
+      "opening": "Words as points in space",
+      "linkId": null,
+      "text": "Each word becomes a point in a space with hundreds of dimensions. Words used in similar ways end up near each other, so cat lands close to dog, and the direction from one word to another can capture a relationship."
+    },
+    {
+      "opening": "The company a word keeps",
+      "linkId": null,
+      "text": "word2vec rests on an old idea in linguistics, summed up in 1957 by J. R. Firth: \"You shall know a word by the company it keeps.\" The model learned by predicting the words around each word in a large collection of Google News text."
+    },
+    {
+      "opening": "Paris minus France plus Italy",
+      "linkId": null,
+      "text": "The same arithmetic worked for other relationships. Paris minus France plus Italy came out near Rome, and similar sums matched verbs to their past tenses and countries to their capitals."
+    },
+    {
+      "opening": "A small catch in the trick",
+      "linkId": null,
+      "text": "The famous result has a footnote. The standard analogy test leaves out the words in the question, and without that rule the closest answer to king minus man plus woman is often king itself, with queen a close second."
+    }
+  ],
+  "tags": [
+    "ai",
+    "language",
+    "patterns",
+    "math-tricks"
+  ],
+  "related": [
+    "attention-is-all-you-need",
+    "google-cat-neuron",
+    "perceptron-1958",
+    "etaoin-shrdlu",
+    "eliza-chatbot"
+  ]
+}

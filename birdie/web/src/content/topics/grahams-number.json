@@ -1,0 +1,43 @@
+{
+  "id": "grahams-number",
+  "title": "Graham's number",
+  "category": "Math",
+  "hook": "A number too large to write in the universe, yet we know how it ends.",
+  "peek": "Graham's number came out of a real maths problem and was once listed as the largest number used in a proof. It is far too big to write down, even one digit per particle, yet mathematicians can tell you exactly what its last digits are.",
+  "lede": "Graham's number is a bound from a real problem in a branch of maths called Ramsey theory. It is so large that the observable universe could not hold its digits, even writing one digit in each smallest possible region of space. Yet because of how it is built, its final digits can be worked out exactly: it ends in 2464195387.",
+  "bullets": [
+    {
+      "opening": "Knuth's up-arrow notation",
+      "linkId": null,
+      "text": "It is built with Donald Knuth's up-arrows, where each extra arrow means repeating the previous operation. The first step, 3 with four arrows then 3, is already unimaginable, and Graham's number repeats that kind of step 64 times."
+    },
+    {
+      "opening": "Why the last digits are known",
+      "linkId": null,
+      "text": "The number is a tower of powers of 3. The last digits of powers of 3 settle into repeating cycles, so the end of the tower can be computed without ever knowing the rest."
+    },
+    {
+      "opening": "Martin Gardner and Guinness",
+      "linkId": null,
+      "text": "Ronald Graham explained the number to Martin Gardner, who wrote it up in Scientific American in 1977. In 1980 Guinness listed it as the largest number ever used in a mathematical proof."
+    },
+    {
+      "opening": "The answer may be 13",
+      "linkId": null,
+      "text": "Graham's number was only an upper limit. The true answer to the problem could be much smaller, and later work showed it is at least 13, leaving a vast gap that mathematicians have since narrowed from above."
+    }
+  ],
+  "tags": [
+    "scale",
+    "infinity",
+    "numbers",
+    "records"
+  ],
+  "related": [
+    "googol-name",
+    "fifty-two-factorial",
+    "largest-known-prime",
+    "gardner-mathematical-games",
+    "hilberts-hotel"
+  ]
+}

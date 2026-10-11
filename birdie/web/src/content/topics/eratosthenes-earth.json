@@ -1,0 +1,43 @@
+{
+  "id": "eratosthenes-earth",
+  "title": "Eratosthenes measures the Earth",
+  "category": "Science",
+  "hook": "Around 240 BC a librarian measured the whole Earth using a shadow.",
+  "peek": "More than 2,000 years ago, Eratosthenes worked out the size of the Earth from a shadow at noon and the distance between two Egyptian cities. His answer was close to the real figure, though how close depends on a unit nobody can pin down.",
+  "lede": "Eratosthenes ran the great Library of Alexandria in the third century BC. He heard that at noon on the summer solstice, the Sun stood directly overhead in Syene, the modern city of Aswan. In Alexandria, to the north, it did not. From that difference and some geometry, he estimated the size of the whole round Earth.",
+  "bullets": [
+    {
+      "opening": "The shadow in Alexandria",
+      "linkId": null,
+      "text": "At noon on the solstice, an upright rod in Alexandria cast a shadow showing the Sun about one fiftieth of a circle away from overhead. That meant the two cities were one fiftieth of the way around the Earth."
+    },
+    {
+      "opening": "5,000 stadia to Syene",
+      "linkId": null,
+      "text": "He took the distance from Alexandria to Syene as about 5,000 stadia. Fifty times that gave a circumference of 250,000 stadia, which he later refined to 252,000."
+    },
+    {
+      "opening": "The puzzle of the stadion",
+      "linkId": null,
+      "text": "Nobody is sure how long his stadion was, so his accuracy is debated. Depending on the length chosen, his answer lands within a few percent of the true 40,000 km, or around 15% too large."
+    },
+    {
+      "opening": "Cleomedes' account",
+      "linkId": null,
+      "text": "Eratosthenes' own book is lost. The famous version of the method comes from the astronomer Cleomedes, writing centuries later, so the details are secondhand. The famous sunlit well in Syene comes from other ancient writers."
+    }
+  ],
+  "tags": [
+    "maps",
+    "measurement",
+    "scale",
+    "ancient-science"
+  ],
+  "related": [
+    "metre-from-meridian",
+    "cavendish-weighs-earth",
+    "flat-earth-myth",
+    "geoid",
+    "rope-around-earth"
+  ]
+}

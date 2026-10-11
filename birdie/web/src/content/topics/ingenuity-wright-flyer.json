@@ -1,0 +1,48 @@
+{
+  "id": "ingenuity-wright-flyer",
+  "title": "The Wright Flyer fabric on Mars",
+  "category": "Space",
+  "hook": "The first aircraft to fly on Mars carried a scrap of the Wright brothers' plane.",
+  "peek": "When NASA's Ingenuity helicopter made the first powered flight on another planet in 2021, a stamp-sized piece of fabric from the 1903 Wright Flyer was tucked on board. Two firsts in flight, 118 years apart, travelled together.",
+  "lede": "On 19 April 2021, NASA's small Ingenuity helicopter rose about 3 metres above Jezero Crater, hovered and landed. It was the first powered, controlled flight on another planet. Beneath its solar panel, wrapped around a cable, was a piece of muslin about the size of a postage stamp, cut from the wing of the Wright brothers' 1903 Flyer.",
+  "bullets": [
+    {
+      "opening": "The swatch from Dayton",
+      "linkId": null,
+      "text": "The fabric came from Carillon Historical Park in Dayton, Ohio, the Wrights' home town, with the support of the Wright family. It was a bottom-left wing fabric from the plane that flew at Kitty Hawk."
+    },
+    {
+      "opening": "Wright Brothers Field",
+      "linkId": null,
+      "text": "NASA named the patch of Jezero Crater where Ingenuity first flew Wright Brothers Field. The UN's civil aviation agency, ICAO, gave it an airfield code, JZRO, and gave Ingenuity a type designation, IGY."
+    },
+    {
+      "opening": "Flying in thin air",
+      "linkId": null,
+      "text": "Mars's air is about 1% as dense as Earth's, so the 1.8 kilogram helicopter spun its two rotors at about 2,400 turns a minute, far faster than a helicopter on Earth would need."
+    },
+    {
+      "opening": "Five flights planned, 72 flown",
+      "linkId": null,
+      "text": "Ingenuity was meant as a test of five flights. It ended up flying 72 times over almost three years, until a damaged rotor blade grounded it in January 2024."
+    },
+    {
+      "opening": "Flyer pieces on the Moon",
+      "linkId": null,
+      "text": "It was not the first trip into space for the Flyer. Neil Armstrong carried a piece of its wood and fabric to the Moon on Apollo 11 in 1969."
+    }
+  ],
+  "tags": [
+    "space-exploration",
+    "mars",
+    "inventors",
+    "flight"
+  ],
+  "related": [
+    "curiosity-morse-wheels",
+    "moon-trees",
+    "mars-blue-sunset",
+    "montgolfier-balloon",
+    "aldrin-felt-pen"
+  ]
+}

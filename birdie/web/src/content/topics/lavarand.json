@@ -1,0 +1,43 @@
+{
+  "id": "lavarand",
+  "title": "Cloudflare's lava lamp wall",
+  "category": "Tech",
+  "hook": "A wall of lava lamps in San Francisco helps keep web traffic secure.",
+  "peek": "In the lobby of Cloudflare's San Francisco office, about 100 lava lamps bubble away on shelves. A camera films them, and the ever-changing blobs help feed the random numbers used to encrypt a large share of internet traffic.",
+  "lede": "Secure connections on the web depend on random numbers that nobody can predict. Computers are bad at true randomness, because they follow instructions exactly. So Cloudflare, which handles traffic for millions of websites, looks at something that never repeats: a wall of about 100 lava lamps in its San Francisco lobby. Their slowly drifting wax is very hard to predict.",
+  "bullets": [
+    {
+      "opening": "The wall of entropy",
+      "linkId": null,
+      "text": "A camera photographs the lamps regularly. Every image differs in tiny ways, from the wax shapes to the light and the people walking past. Those pixel values are turned into data that seeds Cloudflare's random-number generators."
+    },
+    {
+      "opening": "Silicon Graphics' Lavarand",
+      "linkId": null,
+      "text": "The idea is older than Cloudflare. In the 1990s engineers at Silicon Graphics built Lavarand, which used photos of lava lamps to generate random numbers, and patented the method."
+    },
+    {
+      "opening": "Mixed with other randomness",
+      "linkId": null,
+      "text": "The lamps are not the only source. Cloudflare blends their data with randomness from its computers' own hardware, so even someone who could watch the wall would not be able to predict the result."
+    },
+    {
+      "opening": "London's pendulums and Singapore's decay",
+      "linkId": null,
+      "text": "Cloudflare's other offices have their own displays. London has used chaotic double pendulums, and Singapore has measured the decay of a small radioactive source, each adding another unpredictable stream."
+    }
+  ],
+  "tags": [
+    "probability",
+    "patterns",
+    "design",
+    "light"
+  ],
+  "related": [
+    "lava-lamp",
+    "million-dollar-homepage",
+    "brownian-motion",
+    "galton-board",
+    "trojan-room-coffee-pot"
+  ]
+}

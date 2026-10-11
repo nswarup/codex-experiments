@@ -1,0 +1,42 @@
+{
+  "id": "hello-on-the-phone",
+  "title": "Why we say hello on the phone",
+  "category": "Tech",
+  "hook": "Alexander Graham Bell wanted us to answer the telephone with ahoy.",
+  "peek": "When the telephone was new, nobody knew what to say when it rang. Alexander Graham Bell favoured the sailor's ahoy. Thomas Edison pushed hello, a fairly rare word at the time, and Edison won.",
+  "lede": "In the 1870s the telephone arrived without any manners. There was no agreed way to open a call, and early users tried all sorts of things. Alexander Graham Bell, its inventor, liked ahoy, borrowed from ships. Thomas Edison, working on rival telephone designs, suggested hello instead. Within a few years hello had won, and it soon spread far beyond the phone.",
+  "bullets": [
+    {
+      "opening": "Edison's 1877 letter",
+      "linkId": null,
+      "text": "In a letter of 1877 to a telegraph company executive, Edison argued that a call bell was unnecessary because a shouted hello could be heard 10 to 20 feet away. It is the earliest known record of hello proposed for the phone."
+    },
+    {
+      "opening": "Bell's ahoy",
+      "linkId": null,
+      "text": "Bell is said to have kept answering with ahoy for the rest of his life, though the evidence is mostly anecdote. The idea lives on as a joke: Mr Burns in The Simpsons answers with ahoy-hoy."
+    },
+    {
+      "opening": "Hello before the telephone",
+      "linkId": null,
+      "text": "Hello existed before, alongside hallo and hullo, mainly as a shout to get someone's attention or show surprise. It was not yet a polite everyday greeting. The telephone turned it into one."
+    },
+    {
+      "opening": "The hello girls",
+      "linkId": null,
+      "text": "Early telephone exchanges hired young women to connect calls, and they became known as hello girls. Their constant use of the word helped make it the normal way to begin a call."
+    }
+  ],
+  "tags": [
+    "etymology",
+    "communication",
+    "inventors",
+    "language-change"
+  ],
+  "related": [
+    "goodbye-origin",
+    "ok-origin",
+    "fax-before-telephone",
+    "first-text-message"
+  ]
+}

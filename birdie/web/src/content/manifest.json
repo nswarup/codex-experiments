@@ -708,5 +708,1145 @@
   "id": "eliza-chatbot",
   "title": "ELIZA, the first chatbot",
   "category": "Tech"
+ },
+ {
+  "id": "medieval-glass-myth",
+  "title": "Old windows aren't flowing glass",
+  "category": "Science"
+ },
+ {
+  "id": "supercooled-water",
+  "title": "Supercooled water",
+  "category": "Science"
+ },
+ {
+  "id": "wint-o-green-sparks",
+  "title": "Wint-O-Green sparks",
+  "category": "Science"
+ },
+ {
+  "id": "michelson-morley",
+  "title": "The Michelson–Morley experiment",
+  "category": "Science"
+ },
+ {
+  "id": "eratosthenes-earth",
+  "title": "Eratosthenes measures the Earth",
+  "category": "Science"
+ },
+ {
+  "id": "fizeau-toothed-wheel",
+  "title": "Fizeau's spinning cog",
+  "category": "Science"
+ },
+ {
+  "id": "double-slit-experiment",
+  "title": "The double-slit experiment",
+  "category": "Science"
+ },
+ {
+  "id": "rubber-band-heat",
+  "title": "Rubber bands warm up when stretched",
+  "category": "Science"
+ },
+ {
+  "id": "lotus-effect",
+  "title": "The lotus effect",
+  "category": "Science"
+ },
+ {
+  "id": "coffee-ring-effect",
+  "title": "The coffee ring effect",
+  "category": "Science"
+ },
+ {
+  "id": "tyndall-blue-sky",
+  "title": "Tyndall's blue sky in a tube",
+  "category": "Science"
+ },
+ {
+  "id": "gallium-spoon",
+  "title": "Gallium, the metal that melts in your hand",
+  "category": "Science"
+ },
+ {
+  "id": "ctrl-alt-del",
+  "title": "Ctrl-Alt-Del",
+  "category": "Tech"
+ },
+ {
+  "id": "core-rope-memory",
+  "title": "Core rope memory",
+  "category": "Tech"
+ },
+ {
+  "id": "trojan-room-coffee-pot",
+  "title": "The Trojan Room coffee pot",
+  "category": "Tech"
+ },
+ {
+  "id": "vague-but-exciting",
+  "title": "\"Vague but exciting\"",
+  "category": "Tech"
+ },
+ {
+  "id": "kurita-emoji",
+  "title": "Shigetaka Kurita's 176 emoji",
+  "category": "Tech"
+ },
+ {
+  "id": "fahlman-smiley",
+  "title": "The first :-)",
+  "category": "Tech"
+ },
+ {
+  "id": "email-at-sign",
+  "title": "The @ in email",
+  "category": "Tech"
+ },
+ {
+  "id": "spam-monty-python",
+  "title": "Why junk email is called spam",
+  "category": "Tech"
+ },
+ {
+  "id": "wifi-black-holes",
+  "title": "Wi-Fi and the hunt for black holes",
+  "category": "Tech"
+ },
+ {
+  "id": "bluetooth-king",
+  "title": "Bluetooth's Viking king",
+  "category": "Tech"
+ },
+ {
+  "id": "hedy-lamarr",
+  "title": "Hedy Lamarr's frequency hopping",
+  "category": "Tech"
+ },
+ {
+  "id": "engelbart-mouse",
+  "title": "The first computer mouse",
+  "category": "Tech"
+ },
+ {
+  "id": "ibm-ramac",
+  "title": "The IBM 350 hard drive",
+  "category": "Tech"
+ },
+ {
+  "id": "floppy-save-icon",
+  "title": "The floppy disk save icon",
+  "category": "Tech"
+ },
+ {
+  "id": "year-2038-problem",
+  "title": "The year 2038 problem",
+  "category": "Tech"
+ },
+ {
+  "id": "linux-just-a-hobby",
+  "title": "Linux was \"just a hobby\"",
+  "category": "Tech"
+ },
+ {
+  "id": "javascript-ten-days",
+  "title": "JavaScript was written in 10 days",
+  "category": "Tech"
+ },
+ {
+  "id": "recaptcha-books",
+  "title": "reCAPTCHA and the old books",
+  "category": "Tech"
+ },
+ {
+  "id": "turing-imitation-game",
+  "title": "Turing's imitation game",
+  "category": "Tech"
+ },
+ {
+  "id": "mechanical-turk",
+  "title": "The Mechanical Turk",
+  "category": "Tech"
+ },
+ {
+  "id": "perceptron-1958",
+  "title": "The 1958 perceptron",
+  "category": "Tech"
+ },
+ {
+  "id": "dartmouth-ai-summer",
+  "title": "The summer that named AI",
+  "category": "Tech"
+ },
+ {
+  "id": "shakey-robot",
+  "title": "Shakey the robot",
+  "category": "Tech"
+ },
+ {
+  "id": "word2vec-king-queen",
+  "title": "King minus man plus woman",
+  "category": "Tech"
+ },
+ {
+  "id": "apple-i-price",
+  "title": "The Apple I's $666.66 price",
+  "category": "Tech"
+ },
+ {
+  "id": "hello-world",
+  "title": "Hello, world",
+  "category": "Tech"
+ },
+ {
+  "id": "first-text-message",
+  "title": "The first text message",
+  "category": "Tech"
+ },
+ {
+  "id": "first-digital-photo",
+  "title": "The first digital photo",
+  "category": "Tech"
+ },
+ {
+  "id": "bitcoin-pizza-day",
+  "title": "Bitcoin Pizza Day",
+  "category": "Tech"
+ },
+ {
+  "id": "rubber-duck-debugging",
+  "title": "Rubber duck debugging",
+  "category": "Tech"
+ },
+ {
+  "id": "pigeon-vs-broadband",
+  "title": "The pigeon that beat broadband",
+  "category": "Tech"
+ },
+ {
+  "id": "moores-law",
+  "title": "Moore's law",
+  "category": "Tech"
+ },
+ {
+  "id": "first-transistor",
+  "title": "The paper-clip transistor",
+  "category": "Tech"
+ },
+ {
+  "id": "intel-4004",
+  "title": "The Intel 4004",
+  "category": "Tech"
+ },
+ {
+  "id": "arpanet-lo",
+  "title": "The internet's first word: \"lo\"",
+  "category": "Tech"
+ },
+ {
+  "id": "symbolics-dotcom",
+  "title": "Symbolics.com, the first .com",
+  "category": "Tech"
+ },
+ {
+  "id": "google-googol",
+  "title": "How Google got its name",
+  "category": "Tech"
+ },
+ {
+  "id": "ethernet-ether",
+  "title": "Ethernet and the luminiferous ether",
+  "category": "Tech"
+ },
+ {
+  "id": "daisy-bell-computer",
+  "title": "Daisy Bell, the first computer song",
+  "category": "Tech"
+ },
+ {
+  "id": "hello-on-the-phone",
+  "title": "Why we say hello on the phone",
+  "category": "Tech"
+ },
+ {
+  "id": "phone-keypad-layout",
+  "title": "Why phone and calculator keypads differ",
+  "category": "Tech"
+ },
+ {
+  "id": "gps-relativity",
+  "title": "GPS needs Einstein",
+  "category": "Tech"
+ },
+ {
+  "id": "walkman-origin",
+  "title": "The Walkman and the opera fan",
+  "category": "Tech"
+ },
+ {
+  "id": "excel-1900-leap-year",
+  "title": "Excel's imaginary 29 February 1900",
+  "category": "Tech"
+ },
+ {
+  "id": "deep-dream-dogs",
+  "title": "Why Deep Dream saw dogs everywhere",
+  "category": "Tech"
+ },
+ {
+  "id": "watson-toronto",
+  "title": "Watson's Toronto answer",
+  "category": "Tech"
+ },
+ {
+  "id": "lavarand",
+  "title": "Cloudflare's lava lamp wall",
+  "category": "Tech"
+ },
+ {
+  "id": "million-dollar-homepage",
+  "title": "The Million Dollar Homepage",
+  "category": "Tech"
+ },
+ {
+  "id": "attention-is-all-you-need",
+  "title": "Attention Is All You Need",
+  "category": "Tech"
+ },
+ {
+  "id": "imagenet-labelers",
+  "title": "ImageNet's army of labellers",
+  "category": "Tech"
+ },
+ {
+  "id": "google-cat-neuron",
+  "title": "The Google cat neuron",
+  "category": "Tech"
+ },
+ {
+  "id": "difference-engine-built",
+  "title": "Babbage's engine, finished in 1991",
+  "category": "Tech"
+ },
+ {
+  "id": "lovelace-note-g",
+  "title": "Ada Lovelace's Note G",
+  "category": "Tech"
+ },
+ {
+  "id": "jacquard-punch-cards",
+  "title": "The Jacquard loom's punched cards",
+  "category": "Tech"
+ },
+ {
+  "id": "eniac-programmers",
+  "title": "The women who programmed ENIAC",
+  "category": "Tech"
+ },
+ {
+  "id": "antikythera-mechanism",
+  "title": "The Antikythera mechanism",
+  "category": "Tech"
+ },
+ {
+  "id": "nokia-tune",
+  "title": "The Nokia ringtone",
+  "category": "Tech"
+ },
+ {
+  "id": "windows-95-sound",
+  "title": "The Windows 95 start-up sound",
+  "category": "Tech"
+ },
+ {
+  "id": "clarus-dogcow",
+  "title": "Clarus the dogcow",
+  "category": "Tech"
+ },
+ {
+  "id": "command-key-symbol",
+  "title": "The ⌘ command key",
+  "category": "Tech"
+ },
+ {
+  "id": "aerogel",
+  "title": "Aerogel, the frozen smoke",
+  "category": "Science"
+ },
+ {
+  "id": "graphene-sticky-tape",
+  "title": "Graphene and the sticky tape",
+  "category": "Science"
+ },
+ {
+  "id": "superfluid-helium",
+  "title": "Superfluid helium climbs walls",
+  "category": "Science"
+ },
+ {
+  "id": "slow-light",
+  "title": "Slowing light to bicycle speed",
+  "category": "Science"
+ },
+ {
+  "id": "ytterby",
+  "title": "Ytterby, the village in the periodic table",
+  "category": "Science"
+ },
+ {
+  "id": "mendeleev-gaps",
+  "title": "Mendeleev's empty squares",
+  "category": "Science"
+ },
+ {
+  "id": "diamonds-burn",
+  "title": "Diamonds burn",
+  "category": "Science"
+ },
+ {
+  "id": "van-helmont-willow",
+  "title": "Van Helmont's willow tree",
+  "category": "Science"
+ },
+ {
+  "id": "mendel-peas",
+  "title": "Gregor Mendel's peas",
+  "category": "Science"
+ },
+ {
+  "id": "wegener-continental-drift",
+  "title": "Wegener and the drifting continents",
+  "category": "Science"
+ },
+ {
+  "id": "magnetic-stripes",
+  "title": "The magnetic stripes on the seafloor",
+  "category": "Science"
+ },
+ {
+  "id": "kola-borehole",
+  "title": "The Kola Superdeep Borehole",
+  "category": "Science"
+ },
+ {
+  "id": "caesium-second",
+  "title": "How long is a second",
+  "category": "Science"
+ },
+ {
+  "id": "hafele-keating",
+  "title": "Clocks flown around the world",
+  "category": "Science"
+ },
+ {
+  "id": "fahrenheit-zero",
+  "title": "Where Fahrenheit's zero came from",
+  "category": "Science"
+ },
+ {
+  "id": "celsius-upside-down",
+  "title": "Celsius's scale was upside down",
+  "category": "Science"
+ },
+ {
+  "id": "tea-leaf-paradox",
+  "title": "Einstein's tea leaves",
+  "category": "Science"
+ },
+ {
+  "id": "franklin-oil-pond",
+  "title": "Benjamin Franklin's spoonful of oil",
+  "category": "Science"
+ },
+ {
+  "id": "why-ice-is-slippery",
+  "title": "Why ice is slippery",
+  "category": "Science"
+ },
+ {
+  "id": "water-densest-at-4c",
+  "title": "Water is heaviest at 4°C",
+  "category": "Science"
+ },
+ {
+  "id": "galileo-pisa-myth",
+  "title": "Galileo and the Leaning Tower",
+  "category": "Science"
+ },
+ {
+  "id": "archimedes-eureka",
+  "title": "Archimedes and the bath",
+  "category": "Science"
+ },
+ {
+  "id": "newtons-apple-tree",
+  "title": "Newton's apple tree",
+  "category": "Science"
+ },
+ {
+  "id": "chladni-figures",
+  "title": "Chladni figures",
+  "category": "Science"
+ },
+ {
+  "id": "fax-before-telephone",
+  "title": "The fax machine came before the telephone",
+  "category": "Tech"
+ },
+ {
+  "id": "clock-of-the-long-now",
+  "title": "The Clock of the Long Now",
+  "category": "Tech"
+ },
+ {
+  "id": "arctic-code-vault",
+  "title": "The Arctic Code Vault",
+  "category": "Tech"
+ },
+ {
+  "id": "le-grand-k",
+  "title": "Le Grand K, the kilogram in a vault",
+  "category": "Science"
+ },
+ {
+  "id": "metre-from-meridian",
+  "title": "The metre measured from the meridian",
+  "category": "Science"
+ },
+ {
+  "id": "leidenfrost-effect",
+  "title": "The Leidenfrost effect",
+  "category": "Science"
+ },
+ {
+  "id": "brazil-nut-effect",
+  "title": "The Brazil nut effect",
+  "category": "Science"
+ },
+ {
+  "id": "oobleck",
+  "title": "Oobleck, the liquid you can run on",
+  "category": "Science"
+ },
+ {
+  "id": "prince-ruperts-drop",
+  "title": "Prince Rupert's drop",
+  "category": "Science"
+ },
+ {
+  "id": "cavendish-weighs-earth",
+  "title": "Henry Cavendish weighs the Earth",
+  "category": "Science"
+ },
+ {
+  "id": "foucault-pendulum",
+  "title": "Foucault's pendulum",
+  "category": "Science"
+ },
+ {
+  "id": "helium-voice",
+  "title": "Helium doesn't raise your voice",
+  "category": "Science"
+ },
+ {
+  "id": "whip-crack",
+  "title": "A whip's crack is a sonic boom",
+  "category": "Science"
+ },
+ {
+  "id": "buys-ballot-trumpeters",
+  "title": "The Doppler effect on a train",
+  "category": "Science"
+ },
+ {
+  "id": "newton-indigo",
+  "title": "Why the rainbow has indigo",
+  "category": "Science"
+ },
+ {
+  "id": "tonic-water-glow",
+  "title": "Tonic water glows",
+  "category": "Science"
+ },
+ {
+  "id": "bismuth-crystals",
+  "title": "Bismuth's rainbow staircases",
+  "category": "Science"
+ },
+ {
+  "id": "gold-leaf-green",
+  "title": "Gold leaf is see-through green",
+  "category": "Science"
+ },
+ {
+  "id": "methuselah-date-palm",
+  "title": "Methuselah, the 2,000-year-old seed",
+  "category": "Science"
+ },
+ {
+  "id": "alphafold",
+  "title": "AlphaFold and the protein-folding puzzle",
+  "category": "Science"
+ },
+ {
+  "id": "maxwells-demon",
+  "title": "Maxwell's demon",
+  "category": "Science"
+ },
+ {
+  "id": "brownian-motion",
+  "title": "Brownian motion",
+  "category": "Science"
+ },
+ {
+  "id": "faraday-cage",
+  "title": "Faraday's cage",
+  "category": "Science"
+ },
+ {
+  "id": "earths-hum",
+  "title": "The Earth hums",
+  "category": "Science"
+ },
+ {
+  "id": "geoid",
+  "title": "Sea level isn't level",
+  "category": "Science"
+ },
+ {
+  "id": "ice-core-air",
+  "title": "Ancient air in ice cores",
+  "category": "Science"
+ },
+ {
+  "id": "grace-hopper-nanosecond",
+  "title": "Grace Hopper's nanosecond",
+  "category": "Science"
+ },
+ {
+  "id": "smoot",
+  "title": "The Smoot",
+  "category": "Science"
+ },
+ {
+  "id": "magdeburg-hemispheres",
+  "title": "The Magdeburg hemispheres",
+  "category": "Science"
+ },
+ {
+  "id": "turing-patterns",
+  "title": "Turing's stripes and spots",
+  "category": "Science"
+ },
+ {
+  "id": "olympus-mons",
+  "title": "Olympus Mons, the mountain you can't see from its top",
+  "category": "Space"
+ },
+ {
+  "id": "mars-blue-sunset",
+  "title": "Blue sunsets on Mars",
+  "category": "Space"
+ },
+ {
+  "id": "martian-canals",
+  "title": "The canals of Mars",
+  "category": "Space"
+ },
+ {
+  "id": "phobos-falling",
+  "title": "Phobos is falling toward Mars",
+  "category": "Space"
+ },
+ {
+  "id": "swift-mars-moons",
+  "title": "Jonathan Swift's moons of Mars",
+  "category": "Space"
+ },
+ {
+  "id": "ingenuity-wright-flyer",
+  "title": "The Wright Flyer fabric on Mars",
+  "category": "Space"
+ },
+ {
+  "id": "curiosity-morse-wheels",
+  "title": "Curiosity's Morse code wheels",
+  "category": "Space"
+ },
+ {
+  "id": "europa-ocean",
+  "title": "Europa's hidden ocean",
+  "category": "Space"
+ },
+ {
+  "id": "enceladus-geysers",
+  "title": "The geysers of Enceladus",
+  "category": "Space"
+ },
+ {
+  "id": "titan-methane-lakes",
+  "title": "Titan's lakes of methane",
+  "category": "Space"
+ },
+ {
+  "id": "io-volcanoes",
+  "title": "Io's volcanoes and Linda Morabito",
+  "category": "Space"
+ },
+ {
+  "id": "ganymede-bigger-than-mercury",
+  "title": "Ganymede is bigger than Mercury",
+  "category": "Space"
+ },
+ {
+  "id": "great-red-spot",
+  "title": "Jupiter's Great Red Spot",
+  "category": "Space"
+ },
+ {
+  "id": "saturn-would-float",
+  "title": "Saturn would float",
+  "category": "Space"
+ },
+ {
+  "id": "iapetus-two-tone",
+  "title": "Iapetus, the two-faced moon",
+  "category": "Space"
+ },
+ {
+  "id": "uranus-tilt",
+  "title": "Uranus rolls on its side",
+  "category": "Space"
+ },
+ {
+  "id": "herschel-georges-star",
+  "title": "Uranus was nearly called George",
+  "category": "Space"
+ },
+ {
+  "id": "neptune-math",
+  "title": "Neptune, found with a pencil",
+  "category": "Space"
+ },
+ {
+  "id": "pluto-venetia-burney",
+  "title": "The girl who named Pluto",
+  "category": "Space"
+ },
+ {
+  "id": "pluto-heart",
+  "title": "Pluto's heart",
+  "category": "Space"
+ },
+ {
+  "id": "mercury-ice",
+  "title": "Ice on Mercury",
+  "category": "Space"
+ },
+ {
+  "id": "earthshine-leonardo",
+  "title": "Leonardo da Vinci and earthshine",
+  "category": "Space"
+ },
+ {
+  "id": "moon-far-side",
+  "title": "The far side of the Moon isn't dark",
+  "category": "Space"
+ },
+ {
+  "id": "apollo-12-lightning",
+  "title": "Apollo 12 and 'SCE to Aux'",
+  "category": "Space"
+ },
+ {
+  "id": "aldrin-felt-pen",
+  "title": "The felt-tip pen that flew home from the Moon",
+  "category": "Space"
+ },
+ {
+  "id": "moon-trees",
+  "title": "The Moon trees",
+  "category": "Space"
+ },
+ {
+  "id": "apollo-playtex-suits",
+  "title": "Apollo spacesuits were sewn by a bra maker",
+  "category": "Space"
+ },
+ {
+  "id": "snoopy-charlie-brown",
+  "title": "Snoopy and Charlie Brown went to the Moon",
+  "category": "Space"
+ },
+ {
+  "id": "gagarin-parachute",
+  "title": "Gagarin didn't land in his capsule",
+  "category": "Space"
+ },
+ {
+  "id": "tereshkova-chaika",
+  "title": "Valentina Tereshkova, call sign Seagull",
+  "category": "Space"
+ },
+ {
+  "id": "gemini-corned-beef",
+  "title": "The corned beef sandwich in orbit",
+  "category": "Space"
+ },
+ {
+  "id": "space-pen-myth",
+  "title": "The space pen myth",
+  "category": "Space"
+ },
+ {
+  "id": "zero-g-indicator",
+  "title": "The zero-g indicator",
+  "category": "Space"
+ },
+ {
+  "id": "space-smell",
+  "title": "What space smells like",
+  "category": "Space"
+ },
+ {
+  "id": "microgravity-flame",
+  "title": "Candle flames in space are round",
+  "category": "Space"
+ },
+ {
+  "id": "space-oddity-hadfield",
+  "title": "Space Oddity on the ISS",
+  "category": "Space"
+ },
+ {
+  "id": "shuttle-woodpeckers",
+  "title": "The woodpeckers that grounded a shuttle",
+  "category": "Space"
+ },
+ {
+  "id": "hubble-mirror-flaw",
+  "title": "Hubble's glasses",
+  "category": "Space"
+ },
+ {
+  "id": "hubble-deep-field",
+  "title": "The Hubble Deep Field",
+  "category": "Space"
+ },
+ {
+  "id": "jwst-gold",
+  "title": "The gold on James Webb's mirrors",
+  "category": "Space"
+ },
+ {
+  "id": "arecibo-message",
+  "title": "The Arecibo message",
+  "category": "Space"
+ },
+ {
+  "id": "wow-signal",
+  "title": "The Wow! signal",
+  "category": "Space"
+ },
+ {
+  "id": "andromeda-merger",
+  "title": "When Andromeda meets the Milky Way",
+  "category": "Space"
+ },
+ {
+  "id": "eclipse-coincidence",
+  "title": "The eclipse coincidence",
+  "category": "Space"
+ },
+ {
+  "id": "carrington-event",
+  "title": "The Carrington Event",
+  "category": "Space"
+ },
+ {
+  "id": "parker-solar-probe",
+  "title": "Parker Solar Probe, the fastest thing we've built",
+  "category": "Space"
+ },
+ {
+  "id": "oumuamua",
+  "title": "ʻOumuamua, the visitor from another star",
+  "category": "Space"
+ },
+ {
+  "id": "dart-dimorphos",
+  "title": "DART, the asteroid nudge",
+  "category": "Space"
+ },
+ {
+  "id": "cecilia-payne",
+  "title": "Cecilia Payne and what the Sun is made of",
+  "category": "Space"
+ },
+ {
+  "id": "arrokoth-snowman",
+  "title": "Arrokoth, the snowman at the edge",
+  "category": "Space"
+ },
+ {
+  "id": "galactic-year",
+  "title": "The galactic year",
+  "category": "Space"
+ },
+ {
+  "id": "taxicab-number-1729",
+  "title": "Ramanujan's taxicab number",
+  "category": "Math"
+ },
+ {
+  "id": "gauss-schoolboy-sum",
+  "title": "Young Gauss adds 1 to 100",
+  "category": "Math"
+ },
+ {
+  "id": "achilles-and-the-tortoise",
+  "title": "Achilles and the tortoise",
+  "category": "Math"
+ },
+ {
+  "id": "mobius-strip",
+  "title": "The Möbius strip",
+  "category": "Math"
+ },
+ {
+  "id": "banach-tarski-paradox",
+  "title": "The Banach-Tarski paradox",
+  "category": "Math"
+ },
+ {
+  "id": "indiana-pi-bill",
+  "title": "The Indiana Pi Bill",
+  "category": "Math"
+ },
+ {
+  "id": "gabriels-horn",
+  "title": "Gabriel's horn",
+  "category": "Math"
+ },
+ {
+  "id": "collatz-conjecture",
+  "title": "The Collatz conjecture",
+  "category": "Math"
+ },
+ {
+  "id": "fermats-last-theorem",
+  "title": "Fermat's Last Theorem",
+  "category": "Math"
+ },
+ {
+  "id": "ulam-spiral",
+  "title": "The Ulam spiral",
+  "category": "Math"
+ },
+ {
+  "id": "erdos-number",
+  "title": "The Erdős number",
+  "category": "Math"
+ },
+ {
+  "id": "kaprekar-constant",
+  "title": "6174, Kaprekar's constant",
+  "category": "Math"
+ },
+ {
+  "id": "googol-name",
+  "title": "The googol",
+  "category": "Math"
+ },
+ {
+  "id": "grahams-number",
+  "title": "Graham's number",
+  "category": "Math"
+ },
+ {
+  "id": "infinite-monkey-theorem",
+  "title": "The infinite monkey theorem",
+  "category": "Math"
+ },
+ {
+  "id": "friendship-paradox",
+  "title": "The friendship paradox",
+  "category": "Math"
+ },
+ {
+  "id": "sixty-minute-hour",
+  "title": "Why an hour has 60 minutes",
+  "category": "Math"
+ },
+ {
+  "id": "quipu-knots",
+  "title": "Inca quipu",
+  "category": "Math"
+ },
+ {
+  "id": "slide-rule-apollo",
+  "title": "The slide rule on the Moon",
+  "category": "Math"
+ },
+ {
+  "id": "sophie-germain-leblanc",
+  "title": "Sophie Germain, alias Monsieur LeBlanc",
+  "category": "Math"
+ },
+ {
+  "id": "perelman-prize",
+  "title": "Perelman turns down a million",
+  "category": "Math"
+ },
+ {
+  "id": "point-nine-recurring",
+  "title": "0.999... equals 1",
+  "category": "Math"
+ },
+ {
+  "id": "barber-paradox",
+  "title": "The barber paradox",
+  "category": "Math"
+ },
+ {
+  "id": "pascal-triangle-sierpinski",
+  "title": "The pattern hidden in Pascal's triangle",
+  "category": "Math"
+ },
+ {
+  "id": "coastline-paradox",
+  "title": "The coastline paradox",
+  "category": "Math"
+ },
+ {
+  "id": "mandelbrot-set",
+  "title": "The Mandelbrot set",
+  "category": "Math"
+ },
+ {
+  "id": "travelling-salesman-pubs",
+  "title": "The shortest UK pub crawl",
+  "category": "Math"
+ },
+ {
+  "id": "bayes-theorem",
+  "title": "Bayes' theorem",
+  "category": "Math"
+ },
+ {
+  "id": "galton-board",
+  "title": "The Galton board",
+  "category": "Math"
+ },
+ {
+  "id": "galton-ox-guess",
+  "title": "The ox-weighing contest",
+  "category": "Math"
+ },
+ {
+  "id": "sudoku-17-clues",
+  "title": "The 17-clue sudoku",
+  "category": "Math"
+ },
+ {
+  "id": "tower-of-hanoi",
+  "title": "The Tower of Hanoi",
+  "category": "Math"
+ },
+ {
+  "id": "paper-folding-limit",
+  "title": "Folding paper 12 times",
+  "category": "Math"
+ },
+ {
+  "id": "rope-around-earth",
+  "title": "The rope around the Earth",
+  "category": "Math"
+ },
+ {
+  "id": "game-of-life",
+  "title": "Conway's Game of Life",
+  "category": "Math"
+ },
+ {
+  "id": "nasa-pi-digits",
+  "title": "How much pi NASA needs",
+  "category": "Math"
+ },
+ {
+  "id": "cake-cutting",
+  "title": "I cut, you choose",
+  "category": "Math"
+ },
+ {
+  "id": "stable-matching",
+  "title": "The stable marriage problem",
+  "category": "Math"
+ },
+ {
+  "id": "fifteen-puzzle",
+  "title": "The 15 puzzle craze",
+  "category": "Math"
+ },
+ {
+  "id": "pulsar-lgm1",
+  "title": "LGM-1, the 'little green men' star",
+  "category": "Space"
+ },
+ {
+  "id": "cmb-tv-static",
+  "title": "The Big Bang in your TV static",
+  "category": "Space"
+ },
+ {
+  "id": "m87-hard-drives",
+  "title": "The black hole photo that travelled by plane",
+  "category": "Space"
+ },
+ {
+  "id": "ligo-chirp",
+  "title": "LIGO and the chirp of black holes",
+  "category": "Space"
+ },
+ {
+  "id": "51-pegasi-b",
+  "title": "51 Pegasi b, the planet that shouldn't exist",
+  "category": "Space"
+ },
+ {
+  "id": "drake-equation",
+  "title": "The Drake equation",
+  "category": "Space"
+ },
+ {
+  "id": "betelgeuse-dimming",
+  "title": "The Great Dimming of Betelgeuse",
+  "category": "Space"
+ },
+ {
+  "id": "polaris-precession",
+  "title": "The North Star is temporary",
+  "category": "Space"
+ },
+ {
+  "id": "neutron-star-teaspoon",
+  "title": "A teaspoon of neutron star",
+  "category": "Space"
+ },
+ {
+  "id": "cosmic-latte",
+  "title": "Cosmic latte, the colour of the universe",
+  "category": "Space"
+ },
+ {
+  "id": "raspberry-galaxy-centre",
+  "title": "The centre of the galaxy tastes of raspberries",
+  "category": "Space"
+ },
+ {
+  "id": "perseus-black-hole-note",
+  "title": "The black hole that hums a B-flat",
+  "category": "Space"
  }
 ]

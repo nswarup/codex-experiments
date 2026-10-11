@@ -1,0 +1,43 @@
+{
+  "id": "ganymede-bigger-than-mercury",
+  "title": "Ganymede is bigger than Mercury",
+  "category": "Space",
+  "hook": "Jupiter's moon Ganymede is wider than the planet Mercury and has its own magnetism.",
+  "peek": "Ganymede, the largest moon in the Solar System, is about 8% wider than the planet Mercury. It is also the only moon known to make its own magnetic field, which lights up auroras near its poles.",
+  "lede": "Ganymede measures about 5,270 kilometres across, against Mercury's 4,880. That makes Jupiter's biggest moon wider than a planet. It is not heavier, though. Ganymede is a mix of rock and ice, so it has less than half of Mercury's mass. Galileo Galilei spotted it in January 1610, and in 1996 a spacecraft named after him found its most unusual trait.",
+  "bullets": [
+    {
+      "opening": "The 1996 magnetic discovery",
+      "linkId": null,
+      "text": "During its first close pass in 1996, NASA's Galileo probe found that Ganymede produces a magnetic field of its own, probably generated in a churning iron core. No other moon is known to do this."
+    },
+    {
+      "opening": "Ganymede's auroras",
+      "linkId": null,
+      "text": "That field gives Ganymede auroras, glowing belts of light around its poles. Because the moon sits inside Jupiter's far larger magnetic field, its auroras rock back and forth as Jupiter rotates."
+    },
+    {
+      "opening": "An ocean revealed by auroras",
+      "linkId": null,
+      "text": "In 2015 astronomers used the Hubble Space Telescope to measure that rocking. It was smaller than expected, pointing to a deep layer of salty water under the ice that damps the swing. That ocean may hold more water than Earth's."
+    },
+    {
+      "opening": "The JUICE mission",
+      "linkId": null,
+      "text": "The European Space Agency's JUICE probe, launched in 2023, is due to begin orbiting Ganymede in the 2030s. It would be the first spacecraft ever to orbit a moon other than our own."
+    }
+  ],
+  "tags": [
+    "moons",
+    "scale",
+    "jupiter",
+    "space-exploration"
+  ],
+  "related": [
+    "europa-ocean",
+    "io-volcanoes",
+    "great-red-spot",
+    "mercury-ice",
+    "titan-methane-lakes"
+  ]
+}

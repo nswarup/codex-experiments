@@ -1,0 +1,43 @@
+{
+  "id": "recaptcha-books",
+  "title": "reCAPTCHA and the old books",
+  "category": "Tech",
+  "hook": "Typing squiggly words to prove you were human helped digitise old books.",
+  "peek": "For years, websites asked people to type two warped words before signing up. One word checked that you were human. The other came from a scanned book or newspaper that a computer could not read, so millions of visitors were quietly transcribing archives.",
+  "lede": "CAPTCHAs, the distorted letters websites use to block bots, cost people a few seconds each, many millions of times a day. Luis von Ahn, a computer scientist at Carnegie Mellon University who helped invent them, wanted that effort to do some good. In 2007 his team launched reCAPTCHA, which turned each test into a tiny piece of book transcription.",
+  "bullets": [
+    {
+      "opening": "Two words, one test",
+      "linkId": null,
+      "text": "Each reCAPTCHA showed two words. One was already known, and getting it right proved you were human. The other was a word from a scanned page that reading software had failed on, and your answer counted as a vote for what it said."
+    },
+    {
+      "opening": "Votes from strangers",
+      "linkId": null,
+      "text": "Once enough people typed the same answer for an unknown word, it was accepted. A 2008 paper in Science reported that the system was transcribing old text about as accurately as professional human typists."
+    },
+    {
+      "opening": "The New York Times archive",
+      "linkId": null,
+      "text": "Google bought reCAPTCHA in 2009. The words people typed helped digitise decades of The New York Times archive and pages for Google Books, especially smudged or faded words that machines found hardest."
+    },
+    {
+      "opening": "From words to pictures",
+      "linkId": null,
+      "text": "As reading software improved, distorted words stopped stopping bots. reCAPTCHA moved on to house numbers from Street View photos, then to picking out traffic lights and crosswalks in images, and later to tests that often run without any puzzle at all."
+    }
+  ],
+  "tags": [
+    "ai",
+    "books",
+    "crowdsourcing",
+    "history-of-things"
+  ],
+  "related": [
+    "imagenet-labelers",
+    "mechanical-turk",
+    "turing-imitation-game",
+    "qr-code-go",
+    "etaoin-shrdlu"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "pascal-triangle-sierpinski",
+  "title": "The pattern hidden in Pascal's triangle",
+  "category": "Math",
+  "hook": "Colour in the odd numbers of Pascal's triangle and a fractal appears.",
+  "peek": "Pascal's triangle is built by adding pairs of numbers, a school exercise. But shade only the odd entries and a striking picture emerges: triangles within triangles within triangles, the fractal known as the Sierpiński triangle.",
+  "lede": "Pascal's triangle starts with a 1 at the top. Each number below is the sum of the two above it. Now colour every odd number and leave the even ones blank. A pattern appears: a large triangle with an empty triangle in its middle, and the same shape repeated in each corner, smaller and smaller. It is the Sierpiński triangle.",
+  "bullets": [
+    {
+      "opening": "Yang Hui's triangle",
+      "linkId": null,
+      "text": "The triangle is far older than Blaise Pascal's treatise of the 1650s. It was studied in Persia and India, and in China it is still called Yang Hui's triangle after a 13th-century mathematician."
+    },
+    {
+      "opening": "Wacław Sierpiński's 1915 shape",
+      "linkId": null,
+      "text": "The Polish mathematician Wacław Sierpiński described his triangle in 1915. Its holes take up more and more space as you zoom, so the finished shape has no area at all, yet it never falls apart."
+    },
+    {
+      "opening": "Odd and even arithmetic",
+      "linkId": null,
+      "text": "The pattern appears because only oddness matters. Odd plus even is odd, and two odds or two evens make even. Each row follows from the one above using just that rule, which naturally copies itself."
+    },
+    {
+      "opening": "All-odd rows",
+      "linkId": null,
+      "text": "Rows that are entirely odd come at regular doubling steps: counting the top as row 0, rows 1, 3, 7, 15 and 31 are all odd. These rows form the full base of each larger triangle."
+    },
+    {
+      "opening": "Other remainders, other patterns",
+      "linkId": null,
+      "text": "Shade numbers by their remainder after dividing by 3 or 5 instead, and different fractal patterns appear, each built from copies of itself."
+    }
+  ],
+  "tags": [
+    "patterns",
+    "fractals",
+    "infinity"
+  ],
+  "related": [
+    "mandelbrot-set",
+    "fibonacci-sunflowers",
+    "ulam-spiral",
+    "coastline-paradox",
+    "game-of-life",
+    "galton-board"
+  ]
+}

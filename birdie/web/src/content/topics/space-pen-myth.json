@@ -1,0 +1,43 @@
+{
+  "id": "space-pen-myth",
+  "title": "The space pen myth",
+  "category": "Space",
+  "hook": "NASA never spent millions on a space pen while the Soviets used pencils.",
+  "peek": "A popular story says NASA poured a fortune into a pen that writes in zero gravity, while the Soviets simply used pencils. In fact a private pen maker paid for the work himself, and both space programmes bought his pens.",
+  "lede": "The joke goes like this: NASA spent millions developing a pen that writes upside down and in weightlessness, and the Soviets used a pencil. It is a neat story, but it is not true. The pressurised Space Pen was developed by an American businessman, Paul Fisher, using his own money. NASA tested it and bought it, and so, later, did the Soviet space programme.",
+  "bullets": [
+    {
+      "opening": "Paul Fisher's own money",
+      "linkId": null,
+      "text": "Fisher, who ran a pen company, reportedly spent around a million dollars of his own developing the pen. He patented it in 1965 and offered it to NASA, which put it through tough tests before agreeing to use it."
+    },
+    {
+      "opening": "The pressurised ink cartridge",
+      "linkId": null,
+      "text": "Ordinary ballpoints rely on gravity to feed ink. Fisher's cartridge is sealed and pushed by compressed nitrogen, and the thick ink only turns runny when the ball rolls, so it writes upside down and in the cold."
+    },
+    {
+      "opening": "Why pencils were a problem",
+      "linkId": null,
+      "text": "Both programmes used pencils at first, but pencil tips break off and graphite dust conducts electricity, which is unwelcome near electronics. Wood shavings would also burn easily in a capsule's oxygen-rich air."
+    },
+    {
+      "opening": "Soviet cosmonauts and the pen",
+      "linkId": null,
+      "text": "NASA ordered about 400 pens, at a price of a few dollars each. In 1969 the Soviet Union also bought Fisher pens and refills for its cosmonauts, so in the end both sides wrote with the same pen."
+    }
+  ],
+  "tags": [
+    "myths-busted",
+    "space-exploration",
+    "inventors",
+    "history-of-things"
+  ],
+  "related": [
+    "aldrin-felt-pen",
+    "gemini-corned-beef",
+    "apollo-playtex-suits",
+    "core-rope-memory",
+    "voyager-computers"
+  ]
+}

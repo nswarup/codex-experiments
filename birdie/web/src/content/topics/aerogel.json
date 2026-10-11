@@ -1,0 +1,48 @@
+{
+  "id": "aerogel",
+  "title": "Aerogel, the frozen smoke",
+  "category": "Science",
+  "hook": "A solid that is almost all air, and still keeps a flower safe from a flame.",
+  "peek": "Aerogel looks like a block of pale blue mist you could put your hand through. It is a real solid, often more than 99 percent air, and it is one of the best heat insulators ever made.",
+  "lede": "Hold a piece of silica aerogel up to the light and it barely seems to be there: a faint blue haze with crisp edges. It is a glass-like solid made of a sponge of tiny silica strands, and in the lightest versions more than 99 percent of its volume is air. That airy structure makes it a superb insulator.",
+  "bullets": [
+    {
+      "opening": "Samuel Kistler's bet",
+      "linkId": null,
+      "text": "Aerogel was first made around 1931 by the American chemist Samuel Kistler. The story goes that he and a colleague wondered whether the liquid in a jelly could be replaced with gas without the jelly shrinking. Kistler showed it could."
+    },
+    {
+      "opening": "Supercritical drying",
+      "linkId": null,
+      "text": "The trick is removing the liquid without letting it evaporate normally. As a liquid dries, surface tension pulls the delicate pores shut. Heating it under high pressure past its critical point turns it into a fluid that leaves without tugging, so the sponge keeps its shape."
+    },
+    {
+      "opening": "The flower and the flame",
+      "linkId": null,
+      "text": "A well-known NASA photo shows a flower sitting on a thin slab of aerogel above a hot flame, unharmed. Heat struggles to cross the material because the tiny pores trap air and the solid strands are so thin."
+    },
+    {
+      "opening": "Why aerogel looks blue",
+      "linkId": null,
+      "text": "The silica strands are far smaller than the wavelength of light, so they scatter blue light more than red, much as air does in the sky. Against a dark background aerogel glows faintly blue, and against a bright one it looks slightly yellow."
+    },
+    {
+      "opening": "Stardust's comet catcher",
+      "linkId": null,
+      "text": "NASA's Stardust probe used tiles of aerogel to catch dust from the comet Wild 2. The grains hit at about six kilometres per second and slowed gently in the foam, leaving carrot-shaped tracks. The samples came back to Earth in 2006."
+    }
+  ],
+  "tags": [
+    "materials",
+    "light",
+    "insulation",
+    "space-exploration"
+  ],
+  "related": [
+    "tyndall-blue-sky",
+    "graphene-sticky-tape",
+    "superfluid-helium",
+    "oobleck",
+    "prince-ruperts-drop"
+  ]
+}

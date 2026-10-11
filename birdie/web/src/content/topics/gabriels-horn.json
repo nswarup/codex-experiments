@@ -1,0 +1,43 @@
+{
+  "id": "gabriels-horn",
+  "title": "Gabriel's horn",
+  "category": "Math",
+  "hook": "A horn you could fill with paint, yet whose surface could never be painted.",
+  "peek": "Spin a simple curve around an axis and you get an endless trumpet. It holds a finite amount of paint, but its surface goes on forever, so there would never be enough paint to coat it. Torricelli found it in the 1640s and unsettled his contemporaries.",
+  "lede": "Take the curve y = 1/x, starting at x = 1, and spin it around the x-axis. You get an infinitely long horn that narrows forever. Its volume works out to exactly pi cubic units, a small finite amount. Its surface area, though, is infinite. In paint terms, the horn could be filled to the brim, yet its inside surface could never be coated.",
+  "bullets": [
+    {
+      "opening": "Torricelli's trumpet",
+      "linkId": null,
+      "text": "The Italian mathematician Evangelista Torricelli, better known for inventing the barometer, worked out the horn's volume in the 1640s. It is also called Torricelli's trumpet, and the name Gabriel's horn nods to the angel's trumpet in old paintings."
+    },
+    {
+      "opening": "Why the area runs out",
+      "linkId": null,
+      "text": "The horn's radius shrinks like 1/x, so each slice of surface adds about 1/x of area. Those amounts add up without limit, while the volume, which shrinks like 1/x squared, settles on pi."
+    },
+    {
+      "opening": "The painter's paradox",
+      "linkId": null,
+      "text": "The way out of the paint puzzle is that real paint has thickness. Far enough down, the horn is thinner than any coat, so filling it does not actually paint the walls. Mathematical paint has no thickness and could fill it."
+    },
+    {
+      "opening": "A shock to philosophers",
+      "linkId": null,
+      "text": "In the 17th century the horn caused real arguments. An infinitely long object with finite volume seemed impossible, and the philosopher Thomas Hobbes was among those who refused to accept the result."
+    }
+  ],
+  "tags": [
+    "infinity",
+    "paradoxes",
+    "geometry",
+    "calculus"
+  ],
+  "related": [
+    "hilberts-hotel",
+    "banach-tarski-paradox",
+    "coastline-paradox",
+    "achilles-and-the-tortoise",
+    "point-nine-recurring"
+  ]
+}

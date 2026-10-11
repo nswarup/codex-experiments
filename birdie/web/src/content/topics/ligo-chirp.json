@@ -1,0 +1,43 @@
+{
+  "id": "ligo-chirp",
+  "title": "LIGO and the chirp of black holes",
+  "category": "Space",
+  "hook": "In 2015 two black holes collided, and a pair of detectors heard them chirp.",
+  "peek": "On 14 September 2015 a ripple in space itself passed through Earth and stretched two huge L-shaped instruments by far less than the width of a proton. Turned into sound, the signal is a quick rising whoop.",
+  "lede": "Einstein predicted a century earlier that colliding heavy objects would send ripples through space, but he doubted anyone could ever measure them. On 14 September 2015, the two LIGO detectors in the United States did. A wave from two merging black holes, about 1.3 billion light-years away, briefly stretched and squeezed their 4-kilometre arms by far less than a proton's width.",
+  "bullets": [
+    {
+      "opening": "Two detectors 3,000 km apart",
+      "linkId": null,
+      "text": "LIGO has one detector in Hanford, Washington, and another in Livingston, Louisiana. The wave reached Louisiana first and Washington about 7 milliseconds later, a sign it came from space and not from a passing lorry."
+    },
+    {
+      "opening": "The sound of the chirp",
+      "linkId": null,
+      "text": "The signal lasted about a fifth of a second and climbed in pitch as the black holes spiralled together faster and faster. Its frequencies fall within human hearing, so played through a speaker it is a short rising whoop, which physicists call a chirp."
+    },
+    {
+      "opening": "Three Suns turned to waves",
+      "linkId": null,
+      "text": "The black holes weighed about 36 and 29 times as much as the Sun. The merged one came to about 62, so roughly three Suns' worth of mass turned into gravitational waves in a fraction of a second."
+    },
+    {
+      "opening": "A Nobel two years later",
+      "linkId": null,
+      "text": "The discovery was announced in February 2016, and in 2017 Rainer Weiss, Barry Barish and Kip Thorne shared the Nobel Prize in Physics for building LIGO and making the detection."
+    }
+  ],
+  "tags": [
+    "black-holes",
+    "gravity",
+    "acoustics",
+    "experiments"
+  ],
+  "related": [
+    "m87-hard-drives",
+    "michelson-morley",
+    "perseus-black-hole-note",
+    "neutron-star-teaspoon",
+    "earths-hum"
+  ]
+}

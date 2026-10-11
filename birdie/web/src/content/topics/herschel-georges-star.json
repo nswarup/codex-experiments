@@ -1,0 +1,43 @@
+{
+  "id": "herschel-georges-star",
+  "title": "Uranus was nearly called George",
+  "category": "Space",
+  "hook": "The man who discovered Uranus wanted to name it after King George III.",
+  "peek": "When William Herschel found a new planet in 1781, he called it Georgium Sidus, George's Star, in honour of his king. Britain kept the name for decades, but the rest of the world preferred a Greek god of the sky, and Uranus won.",
+  "lede": "On 13 March 1781, William Herschel, a German-born musician living in Bath, was scanning the sky with a telescope he had built himself. He spotted a small disc that moved against the stars and at first took it for a comet. Within months it was clear he had found the first new planet since ancient times, and he wanted to name it after George III.",
+  "bullets": [
+    {
+      "opening": "Georgium Sidus",
+      "linkId": null,
+      "text": "In 1782 Herschel proposed Georgium Sidus, Latin for George's Star. He argued that the ancients had named planets after gods, but that in a more modern age it was fitting to honour the king under whom the planet was found."
+    },
+    {
+      "opening": "The King's Astronomer",
+      "linkId": null,
+      "text": "The king was pleased. He granted Herschel a yearly salary of 200 pounds so he could leave music and work on astronomy full time, and Herschel moved near Windsor Castle to show the royal family the sky."
+    },
+    {
+      "opening": "Johann Bode's Uranus",
+      "linkId": null,
+      "text": "Astronomers abroad were less keen on a British king in the heavens. The German astronomer Johann Bode suggested Uranus, the Greek god of the sky and father of Saturn, keeping the old mythological family. Some French astronomers simply called the planet Herschel."
+    },
+    {
+      "opening": "Britain's long holdout",
+      "linkId": null,
+      "text": "In Britain the name Georgian lingered. The Nautical Almanac, the official British guide for navigators, did not switch to Uranus until 1850, three decades after George III's reign had ended."
+    }
+  ],
+  "tags": [
+    "names",
+    "etymology",
+    "uranus",
+    "astronomers"
+  ],
+  "related": [
+    "uranus-tilt",
+    "neptune-math",
+    "pluto-venetia-burney",
+    "waldseemuller-map",
+    "harrison-clocks"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "pigeon-vs-broadband",
+  "title": "The pigeon that beat broadband",
+  "category": "Tech",
+  "hook": "In 2009 a pigeon carried a memory card faster than a South African internet line.",
+  "peek": "In 2009 a South African company raced a carrier pigeon against its own broadband connection. The pigeon flew a memory card about 60 km in a little over an hour. In the same time the internet line had moved only a sliver of the data.",
+  "lede": "In September 2009, Unlimited IT, a company in KwaZulu-Natal, South Africa, was fed up with its slow internet connection. To make the point, it strapped a 4 GB memory card to an 11-month-old pigeon named Winston and released him from its office in Howick. His destination was Hillcrest, about 60 km away as the pigeon flies (often reported as 80 km), while the same data went down the phone line.",
+  "bullets": [
+    {
+      "opening": "Winston's flight time",
+      "linkId": null,
+      "text": "Winston landed after about one hour and eight minutes. Including the time to copy the data off the card, the whole delivery took a little over two hours."
+    },
+    {
+      "opening": "The broadband side of the race",
+      "linkId": null,
+      "text": "By the time the data from the pigeon had been copied, the internet transfer had managed only about 4 percent of the same file. The company's point about the speed of its line made news around the world."
+    },
+    {
+      "opening": "IP over Avian Carriers",
+      "linkId": null,
+      "text": "The stunt echoed a famous joke standard from 1990, published on April Fools' Day, that described sending internet data by pigeon. Winston showed the joke had a serious side."
+    },
+    {
+      "opening": "Bandwidth versus delay",
+      "linkId": null,
+      "text": "The race shows a real rule of networking: physically carrying a lot of data can beat a slow connection. A pigeon has terrible delay but huge capacity, because a memory card holds so much."
+    }
+  ],
+  "tags": [
+    "birds",
+    "internet",
+    "records",
+    "communication"
+  ],
+  "related": [
+    "m87-hard-drives",
+    "pigeons-monet-picasso",
+    "arpanet-lo",
+    "ethernet-ether",
+    "trojan-room-coffee-pot"
+  ]
+}

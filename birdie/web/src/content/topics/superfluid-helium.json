@@ -1,0 +1,44 @@
+{
+  "id": "superfluid-helium",
+  "title": "Superfluid helium climbs walls",
+  "category": "Science",
+  "hook": "Cool liquid helium enough and it creeps up the walls and out of its cup.",
+  "peek": "Below about 2 degrees above absolute zero, liquid helium turns into a superfluid that flows with no friction at all. It leaks through gaps too fine for any ordinary liquid, and a thin film of it climbs up and over the walls of its container.",
+  "lede": "Helium turns liquid at about 4 degrees above absolute zero. Cool it a little further, below about 2.17 kelvin, and it changes into something stranger: a superfluid. It flows with no viscosity at all, so nothing slows it down. Leave some in an open cup and a thin film of it will climb up the inside, over the rim and drip off the bottom.",
+  "bullets": [
+    {
+      "opening": "Discovery of superfluidity",
+      "linkId": null,
+      "text": "Superfluid helium was reported in 1938 by Pyotr Kapitsa in Moscow and, separately, by John Allen and Don Misener in Cambridge. Both teams found liquid helium flowing through narrow channels far more easily than any normal liquid could. Kapitsa later won a Nobel Prize."
+    },
+    {
+      "opening": "The creeping Rollin film",
+      "linkId": null,
+      "text": "The climbing layer is called a Rollin film. Helium atoms cling to the container walls, forming a film only tens of nanometres thick, and with no friction to hold it back the liquid keeps flowing along the film until the levels inside and outside match."
+    },
+    {
+      "opening": "The superfluid fountain effect",
+      "linkId": null,
+      "text": "Gently warming superfluid helium on one side of a tightly packed powder plug makes it rush through toward the heat. In a 1938 demonstration by Allen and Jones, this pushed a jet of liquid helium up into a fountain."
+    },
+    {
+      "opening": "Quantum behaviour you can see",
+      "linkId": null,
+      "text": "At such low temperatures, many of the helium atoms settle into the same quantum state and move as one. That is why the liquid has no friction, and why it is one of the few places quantum effects show up at a scale people can watch."
+    }
+  ],
+  "tags": [
+    "physics",
+    "cold",
+    "quantum",
+    "experiments"
+  ],
+  "related": [
+    "helium-voice",
+    "supercooled-water",
+    "slow-light",
+    "oobleck",
+    "leidenfrost-effect",
+    "maxwells-demon"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "magnetic-stripes",
+  "title": "The magnetic stripes on the seafloor",
+  "category": "Science",
+  "hook": "The ocean floor is striped like a barcode, written by Earth's flipping magnetism.",
+  "peek": "Rocks on the seafloor are magnetised in bands that alternate north and south, mirrored on either side of mid-ocean ridges. The pattern records Earth's magnetic field reversing again and again, and it proved that the seafloor spreads.",
+  "lede": "In the 1950s ships towing magnetometers across the Pacific off North America found something odd. The rocks of the seafloor were magnetised in long, parallel stripes. In one stripe they pointed the way a compass does today, in the next the opposite way. Mapped out, the ocean floor looked like a zebra or a barcode, hundreds of kilometres long.",
+  "bullets": [
+    {
+      "opening": "Lava as a magnetic recorder",
+      "linkId": null,
+      "text": "Fresh lava contains tiny grains of magnetite. As it cools, the grains line up with Earth's magnetic field and are frozen in place. Each new strip of rock keeps a record of which way north pointed at the moment it set."
+    },
+    {
+      "opening": "Earth's magnetic field reversals",
+      "linkId": null,
+      "text": "Every so often, at irregular intervals usually hundreds of thousands of years apart, Earth's field flips so that compasses would point south. The last full reversal happened about 780,000 years ago."
+    },
+    {
+      "opening": "The Vine-Matthews explanation",
+      "linkId": null,
+      "text": "In 1963 Fred Vine and Drummond Matthews, and separately Lawrence Morley, explained the stripes. New seafloor forms at mid-ocean ridges and spreads outward, recording each reversal. So the pattern on one side of a ridge mirrors the other."
+    },
+    {
+      "opening": "Wegener's drifting continents",
+      "linkId": "wegener-continental-drift",
+      "text": "The stripes gave the missing evidence for continental drift. They showed the ocean floor really moves, a few centimetres a year, roughly as fast as fingernails grow, carrying continents along. Within a few years plate tectonics was widely accepted."
+    }
+  ],
+  "tags": [
+    "geology",
+    "patterns",
+    "magnetism",
+    "plate-tectonics"
+  ],
+  "related": [
+    "wegener-continental-drift",
+    "kola-borehole",
+    "carrington-event",
+    "surtsey-island",
+    "earths-hum"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "indiana-pi-bill",
+  "title": "The Indiana Pi Bill",
+  "category": "Math",
+  "hook": "In 1897 Indiana's House voted 67 to 0 for a bill built on bad maths about pi.",
+  "peek": "An Indiana doctor believed he had squared the circle, and offered the state his method for free. The House passed his bill without a single vote against. It was stopped only because a Purdue maths professor happened to be at the statehouse that week.",
+  "lede": "In 1897 Edwin Goodwin, a doctor and amateur mathematician from Indiana, believed he had solved the ancient problem of squaring the circle. He persuaded his state representative to introduce House Bill 246, which offered Indiana's schools free use of his 'new mathematical truth'. Buried in its wording were claims that imply wrong values for pi. The House passed it 67 to 0.",
+  "bullets": [
+    {
+      "opening": "Goodwin's value of pi",
+      "linkId": null,
+      "text": "The bill never states a number outright, and its muddled geometry implies several different values. The one usually quoted is 3.2, which is badly off the true value of about 3.14159."
+    },
+    {
+      "opening": "From canals to education",
+      "linkId": null,
+      "text": "The bill was first sent to the House Committee on Canals, then passed on to the Committee on Education, which recommended it. Few members seem to have tried to follow the mathematics."
+    },
+    {
+      "opening": "Professor Waldo's lucky visit",
+      "linkId": null,
+      "text": "Clarence Waldo, a mathematics professor at Purdue, was at the statehouse on other business while the bill was being debated. A member showed him the bill and offered to introduce him to its author. He declined, and instead explained its errors to senators."
+    },
+    {
+      "opening": "The Senate's indefinite postponement",
+      "linkId": null,
+      "text": "The Senate's committee on temperance reported it favourably, but by then newspapers were mocking it. The Senate postponed it indefinitely, and it has never come up again, so Indiana never made a value of pi law."
+    }
+  ],
+  "tags": [
+    "pi",
+    "myths-busted",
+    "history-of-things",
+    "laws"
+  ],
+  "related": [
+    "nasa-pi-digits",
+    "fermats-last-theorem",
+    "gauss-schoolboy-sum",
+    "equals-sign",
+    "perelman-prize"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "hello-world",
+  "title": "Hello, world",
+  "category": "Tech",
+  "hook": "Most programmers' first program prints two words chosen at Bell Labs in the 1970s.",
+  "peek": "Learning almost any programming language starts with making the computer say \"hello, world\". The habit traces back to Brian Kernighan's tutorials at Bell Labs in the 1970s, and it spread around the world with the C language.",
+  "lede": "Open nearly any programming book and the first exercise is the same: make the computer print \"hello, world\". The tradition began with Brian Kernighan at Bell Labs. He used the phrase in a 1972 tutorial for the language B, then in a 1974 C tutorial, and finally in the 1978 book The C Programming Language, which carried it to programmers everywhere.",
+  "bullets": [
+    {
+      "opening": "The B language tutorial",
+      "linkId": null,
+      "text": "In Kernighan's 1972 B tutorial the greeting had to be split into short chunks, because B packed only a few characters into each value. The famous phrase arrived in pieces such as \"hell\" and \"o, w\"."
+    },
+    {
+      "opening": "The C Programming Language",
+      "linkId": null,
+      "text": "Kernighan and Dennis Ritchie's 1978 book opens with a tiny program that prints hello, world in lower case. The book became the standard guide to C, and its first example became a ritual."
+    },
+    {
+      "opening": "Kernighan's hazy memory",
+      "linkId": null,
+      "text": "Kernighan has said he no longer remembers exactly why he chose the words. He has mentioned a cartoon of a chick hatching from an egg, but treats even that as a vague recollection."
+    },
+    {
+      "opening": "A test of the whole toolchain",
+      "linkId": null,
+      "text": "The program is useful as well as traditional. If hello, world appears on screen, the editor, compiler and output all work, so programmers still write it first when they set up a new language or machine."
+    }
+  ],
+  "tags": [
+    "history-of-things",
+    "programming",
+    "inventors",
+    "communication"
+  ],
+  "related": [
+    "javascript-ten-days",
+    "linux-just-a-hobby",
+    "lovelace-note-g",
+    "etaoin-shrdlu",
+    "rubber-duck-debugging"
+  ]
+}

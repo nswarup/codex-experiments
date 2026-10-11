@@ -1,0 +1,44 @@
+{
+  "id": "earths-hum",
+  "title": "The Earth hums",
+  "category": "Science",
+  "hook": "The whole planet rings with a faint, endless hum far too low to hear.",
+  "peek": "Seismometers show that the Earth is never quite still. Even on days with no earthquakes, the planet vibrates with a constant hum, thousands of times too low for human ears, mostly driven by ocean waves pounding the seafloor.",
+  "lede": "After a very large earthquake the whole Earth rings like a bell for days, swelling and shrinking in slow vibrations that take minutes each. Scientists long assumed the ringing stopped between big quakes. In 1998 a team in Japan, studying years of records from sensitive instruments, reported that it never does. The planet hums all the time.",
+  "bullets": [
+    {
+      "opening": "Far below hearing",
+      "linkId": null,
+      "text": "The hum's vibrations take several minutes each, at roughly 2 to 7 thousandths of a cycle per second. Human hearing starts at about 20 cycles per second, so the hum is thousands of times too low to hear."
+    },
+    {
+      "opening": "Ocean waves on the seafloor",
+      "linkId": null,
+      "text": "Most researchers now trace the hum to the oceans. Long, slow swells from storms press on the seafloor near coasts. In 2004 a study found it comes mostly from the northern oceans in northern winter and the southern oceans in southern winter."
+    },
+    {
+      "opening": "Listening on the ocean floor",
+      "linkId": null,
+      "text": "The hum was first measured on land. In 2015 a team in France reported recording it with seismometers placed on the floor of the Indian Ocean, which may help map the Earth's interior."
+    },
+    {
+      "opening": "Not the Taos hum",
+      "linkId": null,
+      "text": "The Earth's hum is unrelated to the Taos hum, a low droning sound that some people in places like Taos, New Mexico, report hearing. Its cause is still unclear."
+    }
+  ],
+  "tags": [
+    "acoustics",
+    "earth-science",
+    "oceans",
+    "waves"
+  ],
+  "related": [
+    "perseus-black-hole-note",
+    "kola-borehole",
+    "draupner-rogue-wave",
+    "singing-dunes",
+    "bay-of-fundy-tides",
+    "magnetic-stripes"
+  ]
+}

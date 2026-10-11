@@ -1,0 +1,43 @@
+{
+  "id": "parker-solar-probe",
+  "title": "Parker Solar Probe, the fastest thing we've built",
+  "category": "Space",
+  "hook": "A spacecraft skimming the Sun hit about 690,000 km/h, faster than anything else built.",
+  "peek": "NASA's Parker Solar Probe flies through the Sun's outer atmosphere. At its closest passes, in late 2024 and 2025, it reached about 690,000 km/h, the fastest speed of any object people have made, while a heat shield kept its instruments near room temperature.",
+  "lede": "Launched in 2018, NASA's Parker Solar Probe was built to do something no spacecraft had done: fly through the Sun's corona, its outer atmosphere. On 24 December 2024 it passed about 6.1 million km from the Sun's surface, moving at about 690,000 km/h. That is fast enough to go from New York to Tokyo in under a minute.",
+  "bullets": [
+    {
+      "opening": "Why reaching the Sun is hard",
+      "linkId": null,
+      "text": "Earth carries everything on it around the Sun at about 30 km per second. To fall inwards, a spacecraft must cancel most of that sideways speed, which takes more energy than leaving the Solar System. Parker used seven flybys of Venus to brake."
+    },
+    {
+      "opening": "Parker's heat shield",
+      "linkId": null,
+      "text": "A carbon foam shield about 11 cm thick faces the Sun at temperatures near 1,400°C. Behind it, the instruments stay close to room temperature, and the craft steers itself to keep the shield pointed the right way."
+    },
+    {
+      "opening": "Touching the corona",
+      "linkId": null,
+      "text": "In April 2021 the probe crossed into the corona for the first time, the first spacecraft ever to do so. NASA described it as touching the Sun."
+    },
+    {
+      "opening": "Eugene Parker",
+      "linkId": null,
+      "text": "The probe is named after Eugene Parker, who predicted the solar wind in the 1950s when many doubted it. It was the first NASA spacecraft named after a living person, and he watched its launch at the age of 91."
+    }
+  ],
+  "tags": [
+    "sun",
+    "records",
+    "space-exploration",
+    "speed"
+  ],
+  "related": [
+    "carrington-event",
+    "eclipse-coincidence",
+    "cecilia-payne",
+    "dart-dimorphos",
+    "golden-record"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "phobos-falling",
+  "title": "Phobos is falling toward Mars",
+  "category": "Space",
+  "hook": "Mars's larger moon is spiralling inward and will one day break up.",
+  "peek": "Phobos orbits Mars closer than any other moon orbits its planet, and it is slowly sinking. In tens of millions of years it will either crash into Mars or be pulled apart into a ring.",
+  "lede": "Phobos is a small, lumpy moon about 22 kilometres across, orbiting only about 6,000 kilometres above the Martian surface. That is closer than any other known moon to its planet. Our Moon is drifting away from Earth, but Phobos is doing the reverse. It drops about 2 metres closer every century, and in roughly 30 to 50 million years its time as a moon will end.",
+  "bullets": [
+    {
+      "opening": "Faster than a Martian day",
+      "linkId": null,
+      "text": "Phobos goes around Mars in about seven and a half hours, quicker than Mars spins. Seen from the surface, it rises in the west and sets in the east, two or three times a day."
+    },
+    {
+      "opening": "The tidal bulge",
+      "linkId": null,
+      "text": "Phobos raises a slight bulge in Mars. Because the moon outpaces the planet's spin, the bulge trails behind and tugs it backwards, slowly draining its orbital energy so it sinks."
+    },
+    {
+      "opening": "A ring or a crash",
+      "linkId": null,
+      "text": "As Phobos sinks, Mars's pull on its near side will grow much stronger than on its far side. Many researchers expect this to tear the loosely packed moon apart into a ring, though it might strike the planet first."
+    },
+    {
+      "opening": "The grooves on Phobos",
+      "linkId": null,
+      "text": "Long parallel grooves cross its surface. One idea is that they are early stretch marks from the same tides, though others link them to rubble thrown up by impacts, and the question is still open."
+    }
+  ],
+  "tags": [
+    "mars",
+    "moons",
+    "gravity",
+    "time"
+  ],
+  "related": [
+    "moon-drifting",
+    "swift-mars-moons",
+    "olympus-mons",
+    "kamooalewa",
+    "dart-dimorphos"
+  ]
+}

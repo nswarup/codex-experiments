@@ -1,0 +1,44 @@
+{
+  "id": "attention-is-all-you-need",
+  "title": "Attention Is All You Need",
+  "category": "Tech",
+  "hook": "The paper behind today's chatbots lists its eight authors in random order.",
+  "peek": "In 2017 eight Google researchers published a short paper on machine translation. It introduced the Transformer, the design inside most modern chatbots, and it came with a footnote saying the order of their names was random.",
+  "lede": "In 2017 a team of eight researchers, mostly at Google, published a paper called \"Attention Is All You Need\". It described the Transformer, a new way for computers to handle language, and it became one of the most cited papers of the century. Its first footnote says something rare: every author contributed equally, and the order of their names is random.",
+  "bullets": [
+    {
+      "opening": "The random author order",
+      "linkId": null,
+      "text": "The footnote goes on to say who did what, from writing the first code to proposing the core idea. Listing names at random was a way of saying the work was truly shared, which is unusual in a field where first place on a paper matters a great deal."
+    },
+    {
+      "opening": "The Beatles in the title",
+      "linkId": null,
+      "text": "The title riffs on the Beatles song \"All You Need Is Love\". Co-author Llion Jones is credited with suggesting it, because the paper's claim was that one mechanism, called attention, could do the job on its own."
+    },
+    {
+      "opening": "How attention works",
+      "linkId": null,
+      "text": "Older systems read a sentence one word at a time. The Transformer lets every word look at every other word at once and decide which ones matter for its meaning, which also made training much faster on modern chips."
+    },
+    {
+      "opening": "From translation to chatbots",
+      "linkId": null,
+      "text": "The paper set out to improve machine translation, testing English to German and English to French. The design spread to almost everything, and the T in GPT stands for Transformer. All eight authors later left Google, several to start their own companies, though Noam Shazeer returned in 2024."
+    }
+  ],
+  "tags": [
+    "ai",
+    "inventors",
+    "names",
+    "language-models"
+  ],
+  "related": [
+    "word2vec-king-queen",
+    "perceptron-1958",
+    "eliza-chatbot",
+    "move-37",
+    "google-cat-neuron",
+    "imagenet-labelers"
+  ]
+}

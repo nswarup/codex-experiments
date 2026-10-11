@@ -1,0 +1,44 @@
+{
+  "id": "lovelace-note-g",
+  "title": "Ada Lovelace's Note G",
+  "category": "Tech",
+  "hook": "In 1843 Ada Lovelace wrote out a program for a computer that did not yet exist.",
+  "peek": "Ada Lovelace's notes on Charles Babbage's Analytical Engine included a step-by-step method for calculating Bernoulli numbers. It is often called the first published computer program, and she guessed such machines might one day write music.",
+  "lede": "In 1843 Ada Lovelace translated an Italian engineer's article about Charles Babbage's Analytical Engine, a planned general-purpose calculating machine. She added her own notes, labelled A to G, which ended up about three times longer than the article. The last, Note G, set out step by step how the engine could calculate a series called the Bernoulli numbers.",
+  "bullets": [
+    {
+      "opening": "The Bernoulli numbers table",
+      "linkId": null,
+      "text": "Note G includes a large table showing each operation the engine would perform and where every value would be stored. It is often called the first published computer program, though some historians argue Babbage had sketched similar sequences earlier."
+    },
+    {
+      "opening": "A machine that composes music",
+      "linkId": null,
+      "text": "Lovelace saw that the engine could work on more than numbers. She suggested it might compose elaborate pieces of music of any complexity, if the rules of harmony could be expressed in its terms."
+    },
+    {
+      "opening": "Lady Lovelace's Objection",
+      "linkId": null,
+      "text": "She also wrote that the engine had no pretensions to originate anything, and could only do what it was ordered to. In 1950 Alan Turing named this point Lady Lovelace's Objection and argued against it."
+    },
+    {
+      "opening": "The Ada programming language",
+      "linkId": null,
+      "text": "The notes were signed only with her initials, A.A.L. In 1980 the US Department of Defense named a programming language Ada in her honour, and Ada Lovelace Day is now held every October."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "computing-history",
+    "music-tech",
+    "ai"
+  ],
+  "related": [
+    "difference-engine-built",
+    "jacquard-punch-cards",
+    "turing-imitation-game",
+    "hello-world",
+    "eniac-programmers",
+    "illiac-suite"
+  ]
+}

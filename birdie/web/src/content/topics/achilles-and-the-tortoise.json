@@ -1,0 +1,43 @@
+{
+  "id": "achilles-and-the-tortoise",
+  "title": "Achilles and the tortoise",
+  "category": "Math",
+  "hook": "Zeno argued a fast runner can never catch a tortoise with a head start.",
+  "peek": "About 2,500 years ago the Greek philosopher Zeno argued that swift Achilles could never overtake a slow tortoise. Each time he reached where it had been, it had moved on. It took the maths of infinite sums to show exactly where the argument slips.",
+  "lede": "Zeno of Elea lived in the fifth century BC and is known for puzzles about motion. In the most famous one, Achilles gives a tortoise a head start. To catch it, he must first reach where it started. By then the tortoise has moved a little further. Then he must reach that point, and so on forever. So, Zeno said, Achilles never catches up.",
+  "bullets": [
+    {
+      "opening": "Known through Aristotle",
+      "linkId": null,
+      "text": "None of Zeno's own writing survives. The puzzle comes to us mainly through Aristotle, who described it in his Physics about a century later and tried to answer it."
+    },
+    {
+      "opening": "Adding infinitely many steps",
+      "linkId": null,
+      "text": "Say Achilles runs ten times faster and the tortoise starts 100 metres ahead. The gaps he must close are 100 metres, then 10, then 1, then 0.1. Infinitely many steps, but they add up to just 111.1 recurring metres, where he draws level."
+    },
+    {
+      "opening": "Limits and convergent series",
+      "linkId": null,
+      "text": "Mathematicians in the 1800s, such as Augustin-Louis Cauchy, gave precise definitions of limits. They showed that an infinite list of shrinking numbers can have a finite sum, and that the steps also take a finite total time."
+    },
+    {
+      "opening": "Is the paradox solved",
+      "linkId": null,
+      "text": "Most mathematicians say the sums settle it. Some philosophers argue a question remains about how anyone can actually finish infinitely many tasks, so Zeno still gets discussed today."
+    }
+  ],
+  "tags": [
+    "infinity",
+    "paradoxes",
+    "philosophy",
+    "patterns"
+  ],
+  "related": [
+    "point-nine-recurring",
+    "hilberts-hotel",
+    "gabriels-horn",
+    "barber-paradox",
+    "coastline-paradox"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "michelson-morley",
+  "title": "The Michelson–Morley experiment",
+  "category": "Science",
+  "hook": "The most famous failed experiment in physics set out to find something that wasn't there.",
+  "peek": "In 1887 two American scientists built an exquisitely sensitive instrument to detect the ether, the invisible substance light was thought to travel through. They found nothing at all, and that empty result helped make room for Einstein's relativity.",
+  "lede": "In the 1800s physicists assumed light needed something to travel through, as sound needs air. They called it the luminiferous ether. As the Earth moved through it, light should travel slightly faster in some directions than others. In 1887, in Cleveland, Albert Michelson and Edward Morley set out to measure that difference. They found none.",
+  "bullets": [
+    {
+      "opening": "Michelson's interferometer",
+      "linkId": null,
+      "text": "Their instrument split a beam of light in two, sent the halves along paths at right angles, then brought them back together. Any difference in speed would shift the pattern of light and dark bands where the beams met."
+    },
+    {
+      "opening": "A stone slab on mercury",
+      "linkId": null,
+      "text": "To cut out vibration, they mounted the mirrors on a heavy sandstone slab floating in a trough of mercury, so it could be turned smoothly. They watched as it rotated, checking every direction."
+    },
+    {
+      "opening": "The missing fringe shift",
+      "linkId": null,
+      "text": "Theory predicted the bands would move by about four tenths of a band. The shift they saw was tiny, within the errors of the experiment. Later, sharper versions agreed: the ether wind did not show up."
+    },
+    {
+      "opening": "Clearing the way for relativity",
+      "linkId": null,
+      "text": "In 1905 Einstein's special relativity did away with the ether, taking the speed of light to be the same for everyone. Historians still debate how much the experiment itself influenced him. Michelson became the first American to win a Nobel Prize in science, in 1907."
+    }
+  ],
+  "tags": [
+    "light",
+    "physics",
+    "experiments",
+    "myths-busted"
+  ],
+  "related": [
+    "fizeau-toothed-wheel",
+    "double-slit-experiment",
+    "gps-relativity",
+    "hafele-keating",
+    "slow-light",
+    "maxwells-demon"
+  ]
+}

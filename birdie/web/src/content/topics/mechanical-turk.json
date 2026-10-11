@@ -1,0 +1,49 @@
+{
+  "id": "mechanical-turk",
+  "title": "The Mechanical Turk",
+  "category": "Tech",
+  "hook": "A chess-playing machine beat challengers for decades with a human hidden inside.",
+  "peek": "In 1770 a Hungarian inventor unveiled a life-size figure seated at a cabinet that played chess against all comers. It toured Europe and America on and off for decades. The secret was a strong human player tucked inside, moving the pieces from below.",
+  "lede": "In 1770, Wolfgang von Kempelen presented a remarkable machine at the Habsburg court in Vienna. A carved figure in Turkish-style robes sat behind a wooden cabinet full of gears and played chess against human opponents, usually winning. Before each game the doors were opened to show clockwork inside. Hidden behind the machinery, though, sat a skilled human player.",
+  "bullets": [
+    {
+      "opening": "The hidden chess master",
+      "linkId": null,
+      "text": "The operator sat on a sliding seat that let him shift out of view as each door was opened. He followed the game through magnets under the board and moved the figure's arm with levers, lighting a candle inside to see."
+    },
+    {
+      "opening": "Napoleon and Babbage",
+      "linkId": null,
+      "text": "The Turk met famous opponents. It is said to have played Napoleon in 1809, and Charles Babbage, who later designed early computers, played it twice in 1819 and lost both times."
+    },
+    {
+      "opening": "Maelzel's tours",
+      "linkId": null,
+      "text": "After Kempelen died, the showman Johann Nepomuk Maelzel bought the Turk and toured it across Europe and the United States. Several strong players took turns as the hidden operator."
+    },
+    {
+      "opening": "Edgar Allan Poe's essay",
+      "linkId": null,
+      "text": "In 1836 Poe wrote an essay arguing that the Turk could not be a pure machine and must be operated by a person. Some of his reasoning was wrong, but his main conclusion was right."
+    },
+    {
+      "opening": "Amazon Mechanical Turk",
+      "linkId": null,
+      "text": "In 2005 Amazon named its service for small online tasks done by people after the Turk, because it lets software quietly pass work to hidden humans."
+    }
+  ],
+  "tags": [
+    "games",
+    "illusions",
+    "inventors",
+    "ai"
+  ],
+  "related": [
+    "deep-blue-move-44",
+    "alphazero-chess",
+    "difference-engine-built",
+    "turing-imitation-game",
+    "clever-hans",
+    "recaptcha-books"
+  ]
+}

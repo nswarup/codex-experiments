@@ -1,0 +1,43 @@
+{
+  "id": "curiosity-morse-wheels",
+  "title": "Curiosity's Morse code wheels",
+  "category": "Space",
+  "hook": "The Mars rover Curiosity prints 'JPL' in Morse code with every turn of its wheels.",
+  "peek": "Each of Curiosity's aluminium wheels has a row of small square and long rectangular holes. Read as dots and dashes, they spell JPL, the initials of the lab that built the rover, and they leave that pattern in the Martian soil.",
+  "lede": "Curiosity landed in Gale Crater on Mars in August 2012. It rolls on six aluminium wheels, each about half a metre across. Look closely at the tread and you find a row of small square holes and longer rectangular ones. They are dots and dashes, and together they spell J, P and L in Morse code: the initials of NASA's Jet Propulsion Laboratory.",
+  "bullets": [
+    {
+      "opening": "Dots and dashes in the soil",
+      "linkId": null,
+      "text": "In Morse code, J is a dot and three dashes, P is dot, dash, dash, dot, and L is dot, dash, dot, dot. As each wheel turns, the holes leave a matching pattern in the tracks behind the rover."
+    },
+    {
+      "opening": "A ruler for visual odometry",
+      "linkId": null,
+      "text": "The pattern has a job. The rover's cameras photograph its own tracks, and the evenly spaced marks give a known distance to measure against. That helps drivers on Earth check how far Curiosity really moved and how much its wheels slipped."
+    },
+    {
+      "opening": "Why Morse, not letters",
+      "linkId": null,
+      "text": "The story usually told is that an early design cut the plain letters JPL into the wheels, and NASA did not want a lab's logo stamped across Mars. Morse code kept the initials while looking like ordinary tread."
+    },
+    {
+      "opening": "Wheels worn by Martian rocks",
+      "linkId": null,
+      "text": "From 2013 the thin aluminium began to show dents and tears from sharp rocks. Engineers changed routes and driving software to spare the wheels, and Curiosity has kept rolling, and printing its initials, for more than a decade."
+    }
+  ],
+  "tags": [
+    "space-exploration",
+    "mars",
+    "codes",
+    "design"
+  ],
+  "related": [
+    "ingenuity-wright-flyer",
+    "mars-blue-sunset",
+    "olympus-mons",
+    "golden-record",
+    "chappe-telegraph-hack"
+  ]
+}

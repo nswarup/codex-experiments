@@ -1,0 +1,48 @@
+{
+  "id": "brazil-nut-effect",
+  "title": "The Brazil nut effect",
+  "category": "Science",
+  "hook": "Shake a jar of mixed nuts and the biggest ones tend to rise to the top.",
+  "peek": "In a shaken bag of mixed nuts or muesli, the largest pieces rise to the surface even though they are the heaviest. Physicists call it the Brazil nut effect, and they are still working out all the reasons why.",
+  "lede": "Open a tin of mixed nuts that has been jostled on its way to the shop and the Brazil nuts are often sitting on top. It seems backwards: they are the biggest and heaviest pieces, so they should sink. But in a shaken mix of grains, size matters more than weight, and the large pieces work their way upward.",
+  "bullets": [
+    {
+      "opening": "The 1987 paper",
+      "linkId": null,
+      "text": "The name caught on after a 1987 paper by Anthony Rosato and colleagues called Why the Brazil Nuts Are on Top. Using computer simulations, they showed how shaking alone can sort particles by size."
+    },
+    {
+      "opening": "Small pieces filling gaps",
+      "linkId": null,
+      "text": "Each shake briefly lifts the whole mix. Small pieces can drop into the gaps that open beneath a big nut, but the big nut cannot drop into the small gaps around it. Step by step, it is pushed higher."
+    },
+    {
+      "opening": "Convection in the jar",
+      "linkId": null,
+      "text": "Shaking also sets up slow currents, with grains rising in the middle and sliding down near the walls. The downward band at the walls is too narrow for big pieces, so they are carried up and stranded at the top."
+    },
+    {
+      "opening": "The reverse Brazil nut effect",
+      "linkId": null,
+      "text": "The effect is not a law. With the right mix of sizes, densities, air and shaking, the big pieces can sink instead, which researchers call the reverse Brazil nut effect."
+    },
+    {
+      "opening": "Unmixing in factories",
+      "linkId": null,
+      "text": "The effect is a real headache in industry. Factories blending powders and grains for cereals and medicine tablets have to stop their carefully mixed ingredients from sorting themselves back out."
+    }
+  ],
+  "tags": [
+    "physics",
+    "patterns",
+    "granular-matter",
+    "food-history"
+  ],
+  "related": [
+    "oobleck",
+    "tea-leaf-paradox",
+    "coffee-ring-effect",
+    "galton-board",
+    "pringles-shape"
+  ]
+}

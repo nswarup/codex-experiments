@@ -1,0 +1,38 @@
+{
+  "id": "rope-around-earth",
+  "title": "The rope around the Earth",
+  "category": "Math",
+  "hook": "Add one metre to a rope around the Earth and it rises about 16 cm all the way round.",
+  "peek": "Tie a rope snugly around the Earth's equator, then add just one metre to it. Most people guess the slack would be far too thin to notice. In fact the rope would float about 16 centimetres above the ground everywhere, high enough for a mouse to run underneath.",
+  "lede": "The Earth's equator is about 40,000 kilometres long. Wrap a rope tightly around it, then add one metre and spread the slack evenly. Asked how far the rope now sits above the ground, most people guess something tiny, a hair's width perhaps. The answer is about 16 centimetres, all the way round the planet.",
+  "bullets": [
+    {
+      "opening": "The circumference formula",
+      "linkId": null,
+      "text": "A circle's circumference is 2 times pi times its radius. Adding one metre to the circumference therefore adds one metre divided by 2 pi to the radius, which is about 15.9 centimetres. The size of the circle never enters the sum."
+    },
+    {
+      "opening": "The same gap for an orange",
+      "linkId": null,
+      "text": "That means the trick works for anything round. One extra metre of string around an orange, a football or the Sun lifts it by the same 16 centimetres. Our intuition expects the Earth's huge size to swallow the extra length."
+    },
+    {
+      "opening": "Lifting the rope at one point",
+      "linkId": null,
+      "text": "A variant is stranger still. Instead of spreading the slack evenly, pull the rope up at a single point until it is taut again. That extra metre lets it rise about 120 metres, roughly the height of a 40-storey building."
+    }
+  ],
+  "tags": [
+    "scale",
+    "myths-busted",
+    "maps",
+    "patterns"
+  ],
+  "related": [
+    "eratosthenes-earth",
+    "nasa-pi-digits",
+    "geoid",
+    "coastline-paradox",
+    "paper-folding-limit"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "collatz-conjecture",
+  "title": "The Collatz conjecture",
+  "category": "Math",
+  "hook": "A child can follow the rule, yet nobody can prove where every number ends up.",
+  "peek": "Pick a number. If it is even, halve it. If it is odd, triple it and add one. Repeat. Every number ever tried ends up at 1, but no one has been able to prove that they all do, and some of the best mathematicians have tried.",
+  "lede": "The rule fits on a sticky note. Start with any whole number. If it is even, halve it. If it is odd, multiply by three and add one. Keep going. Every starting number checked so far eventually reaches 1, then loops through 4, 2, 1 forever. Lothar Collatz posed the question in 1937, and it is still unsolved.",
+  "bullets": [
+    {
+      "opening": "The journey of 27",
+      "linkId": null,
+      "text": "Small numbers can take long trips. Starting from 27 takes 111 steps to reach 1, and along the way the sequence climbs as high as 9,232 before it finally tumbles down."
+    },
+    {
+      "opening": "Hailstone numbers",
+      "linkId": null,
+      "text": "The sequences are often called hailstone numbers, because they rise and fall unpredictably like hailstones in a storm cloud before coming down to earth. The puzzle also goes by the name 3n + 1."
+    },
+    {
+      "opening": "Checked by computer",
+      "linkId": null,
+      "text": "Computer searches have tested every starting number up to about 2 to the power 68, roughly 300 billion billion, and all reached 1. That is strong evidence, but a single stubborn number further out would still sink the conjecture."
+    },
+    {
+      "opening": "Terence Tao's near miss",
+      "linkId": null,
+      "text": "In 2019 Terence Tao proved that almost all starting numbers eventually fall to nearly bounded values. It is the strongest result so far, but it still stops short of showing every number reaches 1."
+    }
+  ],
+  "tags": [
+    "unsolved",
+    "patterns",
+    "numbers",
+    "proofs"
+  ],
+  "related": [
+    "fermats-last-theorem",
+    "ulam-spiral",
+    "kaprekar-constant",
+    "game-of-life",
+    "largest-known-prime"
+  ]
+}

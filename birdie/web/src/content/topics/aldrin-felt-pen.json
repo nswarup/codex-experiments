@@ -1,0 +1,43 @@
+{
+  "id": "aldrin-felt-pen",
+  "title": "The felt-tip pen that flew home from the Moon",
+  "category": "Space",
+  "hook": "Buzz Aldrin fixed a broken switch on the Moon with a felt-tip pen.",
+  "peek": "After their moonwalk, the Apollo 11 crew found a small switch snapped off inside their lunar module, one needed for the engine that would lift them off. Buzz Aldrin pushed the circuit in with a felt-tip pen, and it worked.",
+  "lede": "In July 1969, after their moonwalk, Neil Armstrong and Buzz Aldrin climbed back into the lunar module Eagle. Aldrin spotted a small broken piece lying on the floor. Looking up at the rows of circuit breakers, he found the gap: the knob of the breaker that armed the ascent engine, the one that would carry them off the Moon, had snapped off.",
+  "bullets": [
+    {
+      "opening": "The broken circuit breaker",
+      "linkId": null,
+      "text": "The breaker was probably knocked by one of their bulky life-support backpacks as they moved around the cramped cabin. With the knob gone, there was no easy way to push it in and close the circuit before liftoff."
+    },
+    {
+      "opening": "Why not a metal tool",
+      "linkId": null,
+      "text": "Aldrin did not want to poke the slot with a finger or anything metal, in case it caused a short circuit. A felt-tip marker pen from his shoulder pocket had a plastic body, so it seemed the safest thing to hand."
+    },
+    {
+      "opening": "Pushing it in",
+      "linkId": null,
+      "text": "When the time came, Aldrin pushed the pen into the slot and the breaker closed. The ascent engine fired, and Eagle lifted off on schedule to rejoin Michael Collins in Columbia."
+    },
+    {
+      "opening": "Keeping the pen",
+      "linkId": null,
+      "text": "Aldrin brought the pen back to Earth and kept it, along with the broken breaker. He later said he still had both, small souvenirs of a flight that relied on a quick fix as much as on careful planning."
+    }
+  ],
+  "tags": [
+    "space-exploration",
+    "history-of-things",
+    "accidents",
+    "design"
+  ],
+  "related": [
+    "space-pen-myth",
+    "apollo-12-lightning",
+    "slide-rule-apollo",
+    "moon-golf",
+    "futura-moon-plaque"
+  ]
+}

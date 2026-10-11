@@ -1,0 +1,43 @@
+{
+  "id": "cosmic-latte",
+  "title": "Cosmic latte, the colour of the universe",
+  "category": "Space",
+  "hook": "The average colour of the universe is a creamy beige called cosmic latte.",
+  "peek": "In 2002 two astronomers blended the light of hundreds of thousands of galaxies into a single shade. They first announced it was turquoise, then found a software error. The real answer was a pale, milky beige.",
+  "lede": "In 2002 Karl Glazebrook and Ivan Baldry of Johns Hopkins University were studying the light from more than 200,000 galaxies in a large sky survey. Adding all of it together gives one average colour for the universe, the shade a human eye would see if all that light arrived at once. The answer was a creamy off-white, a little warmer than pure white.",
+  "bullets": [
+    {
+      "opening": "The turquoise mistake",
+      "linkId": null,
+      "text": "Their first announcement, in January 2002, said the universe was pale turquoise. They then found an error in the software that turned the light into an on-screen colour, which used the wrong white point. Corrected, it came out beige."
+    },
+    {
+      "opening": "Naming the colour",
+      "linkId": null,
+      "text": "The pair invited the public to suggest a name. Entries included univeige and skyvory, and they settled on cosmic latte, put forward by a reader named Peter Drum."
+    },
+    {
+      "opening": "Hex code FFF8E7",
+      "linkId": null,
+      "text": "Written as a web colour, cosmic latte is roughly #FFF8E7, the sort of cream you might find on a paint chart. It is close to white because the mix contains stars of every colour."
+    },
+    {
+      "opening": "Slowly turning redder",
+      "linkId": null,
+      "text": "The universe's colour has been getting redder over billions of years. Fewer hot, blue stars are being born than in the past, so cooler, older red stars make up more of the light."
+    }
+  ],
+  "tags": [
+    "color",
+    "light",
+    "names",
+    "accidents"
+  ],
+  "related": [
+    "perkin-mauve",
+    "magenta-no-wavelength",
+    "hubble-deep-field",
+    "olbers-paradox",
+    "cmb-tv-static"
+  ]
+}

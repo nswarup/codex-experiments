@@ -1,0 +1,49 @@
+{
+  "id": "oumuamua",
+  "title": "ʻOumuamua, the visitor from another star",
+  "category": "Space",
+  "hook": "In 2017 an object from another star system sped through ours and left.",
+  "peek": "ʻOumuamua was the first object ever confirmed to come from outside the Solar System. It was oddly long and thin, it tumbled as it went, and it sped up slightly in a way gravity alone could not explain.",
+  "lede": "On 19 October 2017 the astronomer Robert Weryk spotted a faint moving dot in images from the Pan-STARRS telescope in Hawaii. Its path showed it was moving far too fast to be bound to the Sun. It had come from interstellar space and was already heading out again. It was the first such visitor ever seen.",
+  "bullets": [
+    {
+      "opening": "The name ʻOumuamua",
+      "linkId": null,
+      "text": "The Hawaiian name roughly means a scout, or a messenger from afar arriving first. Its official label, 1I/2017 U1, marks it as the first known interstellar object."
+    },
+    {
+      "opening": "A strange shape",
+      "linkId": null,
+      "text": "No telescope saw it as more than a dot, but its brightness changed about tenfold as it tumbled. That suggests it was several times longer than it was wide, like a cigar, or possibly flat like a pancake."
+    },
+    {
+      "opening": "The unexplained push",
+      "linkId": null,
+      "text": "As it left, ʻOumuamua sped up slightly more than gravity allowed. Comets do this when gas escapes, but no tail or gas was seen. One leading idea is hydrogen gas quietly leaking from ice inside it."
+    },
+    {
+      "opening": "The alien light sail idea",
+      "linkId": null,
+      "text": "The astronomer Avi Loeb suggested it might be an artificial light sail pushed by sunlight. Most astronomers think a natural object explains it well, but the debate made ʻOumuamua famous."
+    },
+    {
+      "opening": "Interstellar visitors since",
+      "linkId": null,
+      "text": "The comet 2I/Borisov followed in 2019, and 3I/ATLAS in 2025. Telescopes now expect to find more, since visitors like ʻOumuamua may pass through quite often unseen."
+    }
+  ],
+  "tags": [
+    "interstellar",
+    "comets",
+    "space-exploration",
+    "mysteries"
+  ],
+  "related": [
+    "kamooalewa",
+    "wow-signal",
+    "arrokoth-snowman",
+    "dart-dimorphos",
+    "drake-equation",
+    "pulsar-lgm1"
+  ]
+}

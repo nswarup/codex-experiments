@@ -1,0 +1,43 @@
+{
+  "id": "galton-board",
+  "title": "The Galton board",
+  "category": "Math",
+  "hook": "Beads bounce at random through pegs, yet always pile up into the same bell curve.",
+  "peek": "Drop a few thousand beads through rows of pegs and each one takes a path of pure chance. Yet together they settle into a smooth bell-shaped heap, every time. Francis Galton built the board in the 1870s to show how order comes out of randomness.",
+  "lede": "A Galton board is an upright board studded with staggered rows of pegs, with a row of slots at the bottom. Each bead that falls hits a peg and goes left or right, like a coin toss, again and again. No single bead can be predicted. But pour in thousands and the slots fill into the same bell-shaped curve, tallest in the middle.",
+  "bullets": [
+    {
+      "opening": "Francis Galton's quincunx",
+      "linkId": null,
+      "text": "The Victorian scientist Francis Galton built his board in the 1870s and called it a quincunx, after the five-dot pattern on a die that the pegs repeat. He used it in lectures and in his 1889 book Natural Inheritance."
+    },
+    {
+      "opening": "Pascal's triangle in the pegs",
+      "linkId": null,
+      "text": "The number of routes to each slot follows Pascal's triangle. A bead needs a near-even mix of lefts and rights to land in the middle, and there are far more ways to do that than to go all left or all right."
+    },
+    {
+      "opening": "The central limit theorem",
+      "linkId": null,
+      "text": "The board is a working model of one of the great results in statistics: add up many small random nudges and the total tends towards a bell curve. It is a large part of why heights, measurement errors and exam marks often look bell-shaped."
+    },
+    {
+      "opening": "Galton's two-stage board",
+      "linkId": null,
+      "text": "Galton also described a board with a second stage below the first, to show that a bell curve made of many smaller bell curves is still a bell curve. He was using it to think about how traits pass from parents to children."
+    }
+  ],
+  "tags": [
+    "probability",
+    "patterns",
+    "inventors",
+    "experiments"
+  ],
+  "related": [
+    "galton-ox-guess",
+    "pascal-triangle-sierpinski",
+    "buffons-needle",
+    "birthday-paradox",
+    "brazil-nut-effect"
+  ]
+}

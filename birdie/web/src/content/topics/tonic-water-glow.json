@@ -1,0 +1,44 @@
+{
+  "id": "tonic-water-glow",
+  "title": "Tonic water glows",
+  "category": "Science",
+  "hook": "Under a black light, a glass of tonic water glows a bright, clear blue.",
+  "peek": "Shine an ultraviolet lamp on tonic water and it lights up blue. The glow comes from quinine, the bitter ingredient, which soaks up invisible ultraviolet light and gives it back as visible blue.",
+  "lede": "Tonic water looks as plain as water in daylight. Put it under an ultraviolet lamp, the kind used in clubs and bowling alleys, and it glows an eerie blue. The cause is quinine, the ingredient that gives tonic its bitter taste. Quinine is strongly fluorescent: it absorbs ultraviolet light, which our eyes cannot see, and sends it back out as blue light, which they can.",
+  "bullets": [
+    {
+      "opening": "How fluorescence works",
+      "linkId": null,
+      "text": "A quinine molecule absorbs a burst of ultraviolet energy, loses a little of it as heat, and releases the rest as light. Because some energy is lost, the light comes out at a longer wavelength, in the visible blue."
+    },
+    {
+      "opening": "John Herschel's blue film",
+      "linkId": null,
+      "text": "In 1845 the astronomer John Herschel noticed a faint blue sheen on the surface of a quinine solution held in sunlight. He could describe the glow but not explain it."
+    },
+    {
+      "opening": "George Stokes names it",
+      "linkId": null,
+      "text": "In 1852 the physicist George Stokes showed that the quinine was changing invisible light into visible light. He named the effect fluorescence, after the mineral fluorite, which glows in a similar way."
+    },
+    {
+      "opening": "A scientific yardstick",
+      "linkId": null,
+      "text": "Quinine's glow is so dependable that chemists still use quinine solutions as a standard when calibrating instruments that measure fluorescence."
+    }
+  ],
+  "tags": [
+    "light",
+    "color",
+    "chemistry",
+    "food-history"
+  ],
+  "related": [
+    "bismuth-crystals",
+    "gold-leaf-green",
+    "wint-o-green-sparks",
+    "magenta-no-wavelength",
+    "tyndall-blue-sky",
+    "menthol-cold"
+  ]
+}

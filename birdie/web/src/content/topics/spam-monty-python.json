@@ -1,0 +1,43 @@
+{
+  "id": "spam-monty-python",
+  "title": "Why junk email is called spam",
+  "category": "Tech",
+  "hook": "Junk email is named after Vikings singing in a Monty Python café.",
+  "peek": "In a 1970 Monty Python sketch, a café serves almost nothing without Spam, and a group of Vikings keeps bursting into song about it until no one can speak. Early internet users borrowed the joke for messages that drown out everything else.",
+  "lede": "In 1970 Monty Python's Flying Circus aired a sketch set in a small café where nearly every dish comes with Spam, the tinned meat. A couple try to order something without it, while a table of Vikings breaks into a chant of \"Spam, Spam, Spam\" that grows louder and louder until nobody can be heard. Two decades later, that chant gave a name to junk messages.",
+  "bullets": [
+    {
+      "opening": "Chat rooms in the 1980s",
+      "linkId": null,
+      "text": "In early online games and chat systems, people who flooded a channel with repeated text were said to be spamming. Some literally typed the word Spam over and over, copying the Vikings."
+    },
+    {
+      "opening": "The 1994 Green Card message",
+      "linkId": null,
+      "text": "The name went mainstream in 1994, when two lawyers posted an advert for immigration services to thousands of Usenet discussion groups at once. Angry readers called it spam, and the label stuck."
+    },
+    {
+      "opening": "Gary Thuerk's 1978 email",
+      "linkId": null,
+      "text": "The first mass unsolicited email is usually traced to 1978, when Gary Thuerk of the computer maker DEC sent an invitation to a product demonstration to a few hundred ARPANET users. Nobody called it spam yet."
+    },
+    {
+      "opening": "Hormel's lowercase truce",
+      "linkId": null,
+      "text": "Hormel, which makes Spam, does not object to the slang. It asks that junk mail be written as lowercase spam and keeps capital SPAM for its tinned meat, which has been sold since 1937."
+    }
+  ],
+  "tags": [
+    "etymology",
+    "internet",
+    "names",
+    "comedy"
+  ],
+  "related": [
+    "email-at-sign",
+    "fahlman-smiley",
+    "sandwich-earl",
+    "symbolics-dotcom",
+    "ok-origin"
+  ]
+}

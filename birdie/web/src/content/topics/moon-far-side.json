@@ -1,0 +1,43 @@
+{
+  "id": "moon-far-side",
+  "title": "The far side of the Moon isn't dark",
+  "category": "Space",
+  "hook": "The Moon's far side gets just as much sunlight; we simply never see it.",
+  "peek": "The Moon always keeps the same face toward Earth, so its far side is often called its dark side. In fact it gets as much sunlight as the near side. Nobody saw it at all until a Soviet probe photographed it in 1959.",
+  "lede": "People often call it the dark side of the Moon, but the far side is not dark. It gets the same share of sunlight as the side we see. During a new Moon, when the near side faces away from the Sun, the far side is in full daylight. It is only dark in the old sense of unknown: from Earth, it is always hidden.",
+  "bullets": [
+    {
+      "opening": "Tidal locking",
+      "linkId": null,
+      "text": "The Moon turns once on its axis in the same time it takes to orbit Earth, about 27 days. Earth's gravity slowed its spin long ago until the two matched, so the same face always points at us."
+    },
+    {
+      "opening": "Luna 3's photographs",
+      "linkId": null,
+      "text": "In October 1959 the Soviet probe Luna 3 swung behind the Moon and took the first photos of the far side, covering about 70% of it. The grainy images were developed on board and sent back to Earth by radio."
+    },
+    {
+      "opening": "A face without seas",
+      "linkId": null,
+      "text": "The pictures held a surprise. The near side is covered in dark plains called maria, or seas, but the far side has very few. Its crust is thicker, which seems to have stopped lava from flooding its basins."
+    },
+    {
+      "opening": "Apollo 8 and Chang'e 4",
+      "linkId": null,
+      "text": "The first people to see the far side with their own eyes were the Apollo 8 crew in December 1968. The first spacecraft to land there was China's Chang'e 4, in January 2019."
+    }
+  ],
+  "tags": [
+    "moon",
+    "myths-busted",
+    "space-exploration",
+    "light"
+  ],
+  "related": [
+    "moon-drifting",
+    "earthshine-leonardo",
+    "eclipse-coincidence",
+    "moon-illusion",
+    "kamooalewa"
+  ]
+}

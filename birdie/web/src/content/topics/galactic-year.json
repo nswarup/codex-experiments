@@ -1,0 +1,43 @@
+{
+  "id": "galactic-year",
+  "title": "The galactic year",
+  "category": "Space",
+  "hook": "One lap of the Sun around our galaxy takes about 230 million years.",
+  "peek": "The Sun carries the whole Solar System around the centre of the Milky Way. One trip takes roughly 230 million years, so the last time the Sun was where it is today, the first dinosaurs were just appearing.",
+  "lede": "The Sun sits about 26,000 light-years from the centre of the Milky Way, and it is in orbit around that centre like a planet around a star. Astronomers estimate one full lap, a galactic year, takes somewhere between about 220 and 250 million years. A round figure of 230 million is often quoted.",
+  "bullets": [
+    {
+      "opening": "The Sun's orbital speed",
+      "linkId": null,
+      "text": "To complete that lap, the Sun and everything around it move at roughly 230 km per second, about 800,000 km/h. We feel none of it, because Earth and the whole Solar System travel together."
+    },
+    {
+      "opening": "The last time we were here",
+      "linkId": null,
+      "text": "One galactic year ago puts us in the Late Triassic period, around 230 million years ago. That is about when the earliest known dinosaurs appear in the fossil record."
+    },
+    {
+      "opening": "About twenty laps",
+      "linkId": null,
+      "text": "The Sun is about 4.6 billion years old, so it has gone around the galaxy only about 20 times. Earth has orbited the Sun billions of times in the same span."
+    },
+    {
+      "opening": "The galactic centre",
+      "linkId": null,
+      "text": "The Sun's path depends on the mass of the galaxy inside its orbit, including a black hole at the centre called Sagittarius A*. Better measurements of distances and speeds, many from the Gaia spacecraft, keep refining the length of the galactic year."
+    }
+  ],
+  "tags": [
+    "galaxies",
+    "time",
+    "scale",
+    "deep-time"
+  ],
+  "related": [
+    "andromeda-merger",
+    "raspberry-galaxy-centre",
+    "polaris-precession",
+    "tree-ring-dating",
+    "venus-day"
+  ]
+}

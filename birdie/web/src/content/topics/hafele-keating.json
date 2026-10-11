@@ -1,0 +1,43 @@
+{
+  "id": "hafele-keating",
+  "title": "Clocks flown around the world",
+  "category": "Science",
+  "hook": "In 1971 atomic clocks flew round the world on airliners to test Einstein.",
+  "peek": "In 1971 four atomic clocks took ordinary passenger flights around the world, once heading east and once heading west. When they came home they no longer agreed with the clocks they had left behind, by just the amounts relativity predicted.",
+  "lede": "Einstein's relativity says that moving clocks run slow and that clocks higher above the Earth run fast. In October 1971 the physicist Joseph Hafele and the astronomer Richard Keating tested both ideas cheaply. They took four caesium atomic clocks on regular commercial flights around the world, first eastward and then westward, and compared them with clocks at the US Naval Observatory.",
+  "bullets": [
+    {
+      "opening": "East versus west",
+      "linkId": null,
+      "text": "The clocks that flew east lost about 59 billionths of a second. The clocks that flew west gained about 273 billionths. Both results matched the predictions within the margins of error."
+    },
+    {
+      "opening": "Why direction matters",
+      "linkId": null,
+      "text": "Seen from space, the ground is already moving east as the Earth spins. A plane flying east adds to that speed, so its clocks slow down more. A plane flying west partly cancels it, so its clocks slow down less than the ones on the ground."
+    },
+    {
+      "opening": "The altitude effect",
+      "linkId": null,
+      "text": "Gravity is slightly weaker at cruising height, and general relativity says clocks there tick a little faster. For the westward trip this effect and the speed effect pointed the same way, which is why that gain was so large."
+    },
+    {
+      "opening": "Clocks as passengers",
+      "linkId": null,
+      "text": "The clocks rode in the passenger cabin, and the two scientists travelled with them, checking them at every stop. The results were published in the journal Science in 1972 and became a classic of practical physics."
+    }
+  ],
+  "tags": [
+    "time",
+    "relativity",
+    "experiments",
+    "physics"
+  ],
+  "related": [
+    "caesium-second",
+    "gps-relativity",
+    "michelson-morley",
+    "foucault-pendulum",
+    "harrison-clocks"
+  ]
+}

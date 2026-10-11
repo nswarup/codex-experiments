@@ -1,0 +1,43 @@
+{
+  "id": "million-dollar-homepage",
+  "title": "The Million Dollar Homepage",
+  "category": "Tech",
+  "hook": "A student sold a web page one pixel at a time and made a million dollars.",
+  "peek": "In 2005 a 21-year-old British student named Alex Tew set up a web page with a million pixels and sold them for a dollar each to pay for university. Within five months every pixel was gone.",
+  "lede": "In August 2005 Alex Tew, a 21-year-old from Wiltshire about to start a business degree at the University of Nottingham, wanted a way to pay for it. He made a single web page, 1,000 by 1,000 pixels, and offered the space to advertisers at one dollar a pixel. Each buyer got a small image and a link. The idea caught on fast.",
+  "bullets": [
+    {
+      "opening": "Ten-by-ten pixel blocks",
+      "linkId": null,
+      "text": "Pixels were sold in blocks of 100, so the smallest ad cost 100 dollars. Buyers ranged from small websites to bigger firms, and the page became a dense, colourful patchwork of tiny logos."
+    },
+    {
+      "opening": "Press coverage and word of mouth",
+      "linkId": null,
+      "text": "After a few early sales to friends and family, news stories picked it up. Each article sent more visitors, and more visitors persuaded more advertisers. The page drew huge traffic for months."
+    },
+    {
+      "opening": "The final eBay auction",
+      "linkId": null,
+      "text": "Tew auctioned the last 1,000 pixels on eBay in January 2006, and they fetched 38,100 dollars. In total the page brought in just over a million dollars before costs."
+    },
+    {
+      "opening": "The fading links",
+      "linkId": null,
+      "text": "The page is still online, frozen as it was in 2006, but many of the sites it links to have since vanished. It has become a snapshot of the early web and of how quickly links stop working."
+    }
+  ],
+  "tags": [
+    "records",
+    "history-of-things",
+    "design",
+    "scale"
+  ],
+  "related": [
+    "bitcoin-pizza-day",
+    "google-googol",
+    "project-gutenberg",
+    "apple-i-price",
+    "lavarand"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "jacquard-punch-cards",
+  "title": "The Jacquard loom's punched cards",
+  "category": "Tech",
+  "hook": "Computer punch cards began as a way to weave patterned silk in France.",
+  "peek": "In 1804 Joseph Marie Jacquard showed a loom that wove complex patterns by reading a chain of punched cards. The idea inspired Charles Babbage's computers and later the cards used in early data processing.",
+  "lede": "Weaving a patterned fabric once meant a helper sitting on top of the loom, lifting the right threads by hand for every row. In 1804 the French weaver Joseph Marie Jacquard demonstrated a loom attachment that did the job by reading a chain of punched cards. A hole meant lift this thread, no hole meant leave it. The pattern was now stored information.",
+  "bullets": [
+    {
+      "opening": "Bouchon's perforated paper",
+      "linkId": null,
+      "text": "Jacquard built on earlier attempts. In 1725 Basile Bouchon, a Lyon textile worker and the son of an organ maker, used a roll of perforated paper to select threads, and Jacques de Vaucanson later tried automating the idea. Jacquard's version was the first to work reliably at scale."
+    },
+    {
+      "opening": "The woven portrait of Jacquard",
+      "linkId": null,
+      "text": "In 1839 a Lyon workshop wove a portrait of Jacquard in silk so fine it looks like an engraving. It took about 24,000 cards. Charles Babbage owned a copy and liked to ask visitors how they thought it was made."
+    },
+    {
+      "opening": "Cards in the Analytical Engine",
+      "linkId": null,
+      "text": "Babbage planned to feed instructions and numbers into his Analytical Engine on Jacquard-style cards. Ada Lovelace wrote that the engine weaves algebraic patterns just as the Jacquard loom weaves flowers and leaves."
+    },
+    {
+      "opening": "Hollerith's census cards",
+      "linkId": null,
+      "text": "Herman Hollerith used punched cards to count the 1890 US census, and his company grew into IBM. Punched cards stayed central to computing until the 1970s. Jacquard looms, now run by computers, still weave patterned fabric today."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "history-of-things",
+    "computing-history",
+    "patterns",
+    "textiles"
+  ],
+  "related": [
+    "hollerith-census",
+    "difference-engine-built",
+    "lovelace-note-g",
+    "core-rope-memory",
+    "paisley-pattern",
+    "ibm-ramac"
+  ]
+}

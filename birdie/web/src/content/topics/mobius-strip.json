@@ -1,0 +1,49 @@
+{
+  "id": "mobius-strip",
+  "title": "The Möbius strip",
+  "category": "Math",
+  "hook": "Give a paper strip one half-twist and it has only one side and one edge.",
+  "peek": "Tape the ends of a paper strip together with a single half-twist and you get a loop with one side. Draw a line along it and you cover both faces. Cut it down the middle and it stays in one piece.",
+  "lede": "Take a strip of paper, give one end a half-twist and tape the ends together. The result looks like an ordinary loop, but it has only one side and one edge. A pencil line drawn along the middle comes back to its start having covered what seemed to be both faces. Then the scissors make it stranger still.",
+  "bullets": [
+    {
+      "opening": "Cutting down the middle",
+      "linkId": null,
+      "text": "Cut along that centre line and you might expect two thin loops. Instead you get one loop, twice as long, with two full twists in it. That new loop has two sides, so it is no longer a Möbius strip."
+    },
+    {
+      "opening": "Cutting a third of the way",
+      "linkId": null,
+      "text": "Cut a third of the way in from the edge and keep going. The scissors go round twice before meeting their start, leaving two linked loops: a thinner Möbius strip of the same length and a two-sided loop twice as long."
+    },
+    {
+      "opening": "Möbius and Listing in 1858",
+      "linkId": null,
+      "text": "The strip is named after the German mathematician August Möbius, but Johann Listing described the same shape independently in the same year, 1858. It became a founding example in topology, the maths of shapes that can be stretched but not torn."
+    },
+    {
+      "opening": "One-sided conveyor belts",
+      "linkId": null,
+      "text": "Engineers have patented belts made as Möbius strips, because a one-sided belt wears evenly over its whole surface rather than on one face. Some continuous recording tapes and typewriter ribbons were designed with the same twist."
+    },
+    {
+      "opening": "The recycling symbol",
+      "linkId": "recycling-symbol",
+      "text": "The three chasing arrows of the recycling symbol, designed by student Gary Anderson in 1970, are often drawn as a Möbius strip, with one arrow given a twist so the loop has a single side."
+    }
+  ],
+  "tags": [
+    "topology",
+    "paper",
+    "shapes",
+    "patterns"
+  ],
+  "related": [
+    "hairy-ball-theorem",
+    "brouwer-coffee-cup",
+    "konigsberg-bridges",
+    "hyperbolic-crochet",
+    "recycling-symbol",
+    "klein-blue"
+  ]
+}

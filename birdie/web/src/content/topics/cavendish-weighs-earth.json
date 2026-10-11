@@ -1,0 +1,49 @@
+{
+  "id": "cavendish-weighs-earth",
+  "title": "Henry Cavendish weighs the Earth",
+  "category": "Science",
+  "hook": "In 1798 Henry Cavendish weighed the Earth using lead balls in a shed.",
+  "peek": "Henry Cavendish worked out the density of the whole Earth by measuring the faint pull between lead balls. The force was so small that he watched the experiment through a telescope from outside the room, to keep his body heat from disturbing it.",
+  "lede": "Gravity between everyday objects is extremely weak. In 1797 and 1798 Henry Cavendish, a wealthy and famously shy London scientist, set out to measure it anyway. By watching how lead balls tugged on each other, he found the average density of the Earth, and with it the planet's mass. His answer was only about 1% off today's value.",
+  "bullets": [
+    {
+      "opening": "John Michell's apparatus",
+      "linkId": null,
+      "text": "The design was not his own. The geologist and clergyman John Michell built a torsion balance for the job but died in 1793 before he could use it. The equipment passed to Cavendish, who rebuilt much of it."
+    },
+    {
+      "opening": "The torsion balance",
+      "linkId": null,
+      "text": "A wooden rod about six feet long hung from a thin wire, with a small lead ball at each end. Two large lead balls of about 350 pounds were swung close, and their gravity twisted the rod by a tiny amount."
+    },
+    {
+      "opening": "Telescopes in the wall",
+      "linkId": null,
+      "text": "A draught or a warm body could swamp the force, so Cavendish sealed the apparatus in a shed at his house in Clapham. He read the rod's movements through telescopes set into the walls, lit by lamps outside."
+    },
+    {
+      "opening": "5.448 times water",
+      "linkId": null,
+      "text": "He reported that the Earth is about 5.48 times as dense as water, later corrected to 5.448 when an arithmetic slip was found. The modern figure is about 5.51, far denser than surface rock, which hinted at a heavy core."
+    },
+    {
+      "opening": "The gravitational constant",
+      "linkId": null,
+      "text": "Cavendish never wrote down the gravitational constant, G. Later scientists worked it out from his results, which is why the experiment is often called the first measurement of G."
+    }
+  ],
+  "tags": [
+    "physics",
+    "experiments",
+    "gravity",
+    "scale"
+  ],
+  "related": [
+    "le-grand-k",
+    "eratosthenes-earth",
+    "foucault-pendulum",
+    "geoid",
+    "kola-borehole",
+    "magdeburg-hemispheres"
+  ]
+}

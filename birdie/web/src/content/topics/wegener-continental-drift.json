@@ -1,0 +1,48 @@
+{
+  "id": "wegener-continental-drift",
+  "title": "Wegener and the drifting continents",
+  "category": "Science",
+  "hook": "A weather scientist said the continents move. Most geologists said no for decades.",
+  "peek": "In 1912 Alfred Wegener argued that the continents once fitted together and have since drifted apart. Most geologists rejected the idea. It took evidence from the ocean floor in the 1960s to show he had been right.",
+  "lede": "Alfred Wegener was a German meteorologist and polar explorer, not a geologist. In 1912 he gave a lecture arguing that the continents had once been joined in one giant landmass and had slowly drifted apart. He set out the case in a 1915 book, The Origin of Continents and Oceans. For most of his lifetime, the experts in the field dismissed it.",
+  "bullets": [
+    {
+      "opening": "Matching coastlines",
+      "linkId": null,
+      "text": "The idea started with the map. The bulge of South America fits neatly into the hollow of West Africa. Others had noticed this before, but Wegener went looking for evidence that the fit was more than a coincidence."
+    },
+    {
+      "opening": "Fossils on both shores",
+      "linkId": null,
+      "text": "Fossils of the same ancient plants and animals turn up on continents now separated by oceans. The fern-like plant Glossopteris is found across South America, Africa, India, Antarctica and Australia, and so is evidence of the same ancient glaciers."
+    },
+    {
+      "opening": "Pangaea, the supercontinent",
+      "linkId": null,
+      "text": "Wegener called the joined landmass Pangaea, from the Greek for all lands. He pictured it splitting up over hundreds of millions of years into the continents we know today."
+    },
+    {
+      "opening": "No mechanism for drift",
+      "linkId": null,
+      "text": "The main objection was that Wegener could not explain what moved the continents. The forces he suggested were far too weak to push land through the solid ocean floor, and critics seized on that."
+    },
+    {
+      "opening": "Proven by the seafloor",
+      "linkId": null,
+      "text": "In the 1950s and 1960s, maps of the ocean floor showed it spreading outward from long underwater ridges, carrying the continents with it. Plate tectonics was accepted. Wegener, who died on a Greenland expedition in 1930, did not see it."
+    }
+  ],
+  "tags": [
+    "geology",
+    "maps",
+    "myths-busted",
+    "plate-tectonics"
+  ],
+  "related": [
+    "magnetic-stripes",
+    "kola-borehole",
+    "mendel-peas",
+    "surtsey-island",
+    "giants-causeway"
+  ]
+}

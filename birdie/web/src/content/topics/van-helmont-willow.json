@@ -1,0 +1,44 @@
+{
+  "id": "van-helmont-willow",
+  "title": "Van Helmont's willow tree",
+  "category": "Science",
+  "hook": "A willow gained over 70 kilograms in five years, yet its soil barely changed.",
+  "peek": "In the early 1600s Jan Baptist van Helmont grew a willow in a pot of weighed soil. Five years later the tree was far heavier and the soil had lost almost nothing. His conclusion was wrong, but his experiment pointed to something remarkable about trees.",
+  "lede": "Where does a tree's weight come from? The Flemish chemist Jan Baptist van Helmont tried to find out with one of the first careful experiments in plant biology. He planted a willow sapling weighing 5 pounds in 200 pounds of dried soil, watered it for five years, then weighed both again. The tree weighed about 169 pounds. The soil had lost just 2 ounces.",
+  "bullets": [
+    {
+      "opening": "Van Helmont's careful setup",
+      "linkId": null,
+      "text": "He covered the pot with a perforated metal lid so that no dust could blow in and add weight, and he gave the tree only rainwater or distilled water. The account was published in 1648, after his death."
+    },
+    {
+      "opening": "The wrong conclusion",
+      "linkId": null,
+      "text": "Since the soil was nearly unchanged and he had added only water, van Helmont decided the tree was made of water. It was a sensible guess, and he was partly right: water does supply some of a tree's mass and its hydrogen."
+    },
+    {
+      "opening": "Wood made from air",
+      "linkId": null,
+      "text": "Most of a tree's dry weight is carbon, and that carbon comes from carbon dioxide in the air. Through photosynthesis, leaves pull the gas in and build it into sugars and wood. The willow was largely built out of thin air."
+    },
+    {
+      "opening": "The man who named gas",
+      "linkId": null,
+      "text": "There is an irony here. Van Helmont is credited with coining the word gas, and he studied the gas given off by burning charcoal, which we now call carbon dioxide. He never connected it to the growth of his willow."
+    }
+  ],
+  "tags": [
+    "trees",
+    "experiments",
+    "plants",
+    "myths-busted"
+  ],
+  "related": [
+    "mendel-peas",
+    "ice-core-air",
+    "tree-ring-dating",
+    "pando",
+    "hyperion-redwood",
+    "diamonds-burn"
+  ]
+}

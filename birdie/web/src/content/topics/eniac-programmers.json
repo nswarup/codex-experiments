@@ -1,0 +1,44 @@
+{
+  "id": "eniac-programmers",
+  "title": "The women who programmed ENIAC",
+  "category": "Tech",
+  "hook": "Six women programmed a famous early computer, then went missing from its story.",
+  "peek": "ENIAC's first programmers were six women who taught themselves the machine from wiring diagrams. At the 1946 public unveiling they went unintroduced, and for decades many people thought the women in the photos were models.",
+  "lede": "ENIAC, completed in 1945 at the University of Pennsylvania, was one of the first general-purpose electronic computers. Its first programmers were six women: Kay McNulty, Betty Snyder, Marlyn Wescoff, Ruth Lichterman, Betty Jean Jennings and Frances Bilas. They had been hired as human \"computers\" doing calculations by hand, and they worked out how to program a machine that came without a manual.",
+  "bullets": [
+    {
+      "opening": "Programming from wiring diagrams",
+      "linkId": null,
+      "text": "At first they were not allowed into the room with ENIAC. They studied its block diagrams and wiring plans instead, then programmed it by plugging cables and setting thousands of switches, with no programming language at all."
+    },
+    {
+      "opening": "The 1946 unveiling",
+      "linkId": null,
+      "text": "For the public demonstration in February 1946 the women set up a calculation that ran perfectly. The press praised the engineers. The programmers were not introduced, and Jean Jennings Bartik later recalled not being invited to the celebration dinner."
+    },
+    {
+      "opening": "Kathy Kleiman's research",
+      "linkId": null,
+      "text": "In the 1980s Kathy Kleiman found old photos of women at ENIAC and was told they were models posing with the machine. She tracked down the programmers, recorded their stories and helped bring them recognition in the 1990s."
+    },
+    {
+      "opening": "Betty Holberton's later work",
+      "linkId": null,
+      "text": "Several kept working in computing. Betty Snyder Holberton helped develop programming for the UNIVAC and contributed to early versions of the COBOL language, and Jean Bartik worked on the stored-program upgrade of ENIAC itself."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "computing-history",
+    "women-in-science",
+    "myths-busted"
+  ],
+  "related": [
+    "katherine-johnson",
+    "grace-hopper-nanosecond",
+    "lovelace-note-g",
+    "computer-job-title",
+    "hedy-lamarr",
+    "core-rope-memory"
+  ]
+}

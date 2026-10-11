@@ -1,0 +1,44 @@
+{
+  "id": "cecilia-payne",
+  "title": "Cecilia Payne and what the Sun is made of",
+  "category": "Space",
+  "hook": "A 1925 thesis showed stars are mostly hydrogen, and she was told to doubt it.",
+  "peek": "In 1925 a young astronomer at Harvard, Cecilia Payne, worked out that stars are made mostly of hydrogen and helium. The result was so unexpected that she was persuaded to call it almost certainly not real. Four years later it was accepted.",
+  "lede": "In the early 1920s most astronomers believed the Sun was made of roughly the same stuff as Earth, just much hotter. Cecilia Payne, a graduate student at Harvard College Observatory, studied the light of stars and reached a different answer. In her 1925 thesis she showed that stars are overwhelmingly hydrogen and helium, the two lightest elements.",
+  "bullets": [
+    {
+      "opening": "Reading starlight with physics",
+      "linkId": null,
+      "text": "Payne used new ideas from the Indian physicist Meghnad Saha about how heat strips electrons from atoms. That let her show that differences between stars' spectra mostly came from temperature, not from different ingredients."
+    },
+    {
+      "opening": "Almost certainly not real",
+      "linkId": null,
+      "text": "The leading astronomer Henry Norris Russell told her the hydrogen result could not be right. Her thesis described the huge abundance as almost certainly not real. In 1929 Russell reached the same conclusion himself and was often credited for it."
+    },
+    {
+      "opening": "Stellar Atmospheres",
+      "linkId": null,
+      "text": "Her thesis was published as a book, Stellar Atmospheres. The astronomer Otto Struve later called it the most brilliant PhD thesis ever written in astronomy."
+    },
+    {
+      "opening": "Payne-Gaposchkin at Harvard",
+      "linkId": null,
+      "text": "She stayed at Harvard for decades, often with low pay and modest titles. In 1956 she became the first woman promoted to full professor there from within the faculty, and later the first woman to chair a Harvard department."
+    }
+  ],
+  "tags": [
+    "sun",
+    "stars",
+    "inventors",
+    "myths-busted"
+  ],
+  "related": [
+    "eclipse-coincidence",
+    "parker-solar-probe",
+    "pulsar-lgm1",
+    "51-pegasi-b",
+    "katherine-johnson",
+    "cosmic-latte"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "drake-equation",
+  "title": "The Drake equation",
+  "category": "Space",
+  "hook": "The famous formula for counting alien civilisations began as a meeting agenda.",
+  "peek": "In 1961 Frank Drake hosted a small meeting about searching for alien radio signals. Needing an agenda, he wrote one line of seven factors on the board. It became the best-known equation in the search for life beyond Earth.",
+  "lede": "In November 1961 the radio astronomer Frank Drake hosted about ten scientists at the National Radio Astronomy Observatory in Green Bank, West Virginia, to discuss listening for alien signals. To organise the talk, he wrote down everything you would need to know to estimate how many civilisations in our galaxy might be sending signals. That list, multiplied together, is the Drake equation.",
+  "bullets": [
+    {
+      "opening": "The seven factors",
+      "linkId": null,
+      "text": "It starts with how many stars form in the galaxy each year, then asks what share have planets, how many could support life, and how often life, intelligence and radio technology appear. The last factor is how long a civilisation keeps broadcasting."
+    },
+    {
+      "opening": "Project Ozma",
+      "linkId": null,
+      "text": "The meeting followed Drake's own first search, Project Ozma, in 1960. He pointed a Green Bank radio dish at two nearby Sun-like stars, Tau Ceti and Epsilon Eridani, and heard nothing unusual."
+    },
+    {
+      "opening": "The Order of the Dolphin",
+      "linkId": null,
+      "text": "The guests included a young Carl Sagan and the dolphin researcher John Lilly, and the group jokingly named itself the Order of the Dolphin. The chemist Melvin Calvin learned during the meeting that he had won a Nobel Prize."
+    },
+    {
+      "opening": "Answers from one to millions",
+      "linkId": null,
+      "text": "Astronomers now know that most stars have planets, so the early factors are well measured. The rest are still guesses, and honest answers range from just us to millions. Drake saw it as a way to frame the question, not to produce a single number."
+    }
+  ],
+  "tags": [
+    "aliens",
+    "equations",
+    "radio-astronomy",
+    "probability"
+  ],
+  "related": [
+    "wow-signal",
+    "arecibo-message",
+    "golden-record",
+    "pulsar-lgm1",
+    "51-pegasi-b"
+  ]
+}

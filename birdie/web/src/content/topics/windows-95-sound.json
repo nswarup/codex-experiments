@@ -1,0 +1,39 @@
+{
+  "id": "windows-95-sound",
+  "title": "The Windows 95 start-up sound",
+  "category": "Tech",
+  "hook": "Brian Eno wrote 84 tiny tunes on a Mac before picking the Windows 95 chime.",
+  "peek": "Microsoft asked the ambient musician Brian Eno for a start-up sound that was inspiring, optimistic and just over three seconds long. He wrote 84 little pieces, and he made them on a Mac.",
+  "lede": "When Microsoft was preparing Windows 95, it asked Brian Eno, known for ambient music and for producing bands such as U2, to create the sound that would greet users. The brief came with a long list of moods, including inspiring, universal, optimistic and emotional. It also asked for the piece to last about three and a quarter seconds.",
+  "bullets": [
+    {
+      "opening": "Eighty-four tiny pieces",
+      "linkId": null,
+      "text": "Eno said he wrote 84 short pieces before settling on one. He compared the work to making a tiny jewel, and said he became so attuned to small slivers of time that it changed how he heard music. The chosen sound runs about six seconds."
+    },
+    {
+      "opening": "Made on a Mac",
+      "linkId": null,
+      "text": "Eno later said he composed it on a Mac, adding that he had never used a PC in his life. The sound was released as part of Windows 95, played on huge numbers of computers each morning."
+    },
+    {
+      "opening": "Breaking a creative block",
+      "linkId": null,
+      "text": "Eno said he had been completely bereft of ideas for a while before the job arrived. Working on pieces so tiny, he said, really broke a logjam in his own work."
+    }
+  ],
+  "tags": [
+    "music-tech",
+    "sound-design",
+    "design",
+    "computing-history"
+  ],
+  "related": [
+    "nokia-tune",
+    "thx-deep-note",
+    "windows-solitaire",
+    "ctrl-alt-del",
+    "clarus-dogcow",
+    "musical-road-lancaster"
+  ]
+}

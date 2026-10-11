@@ -1,0 +1,43 @@
+{
+  "id": "betelgeuse-dimming",
+  "title": "The Great Dimming of Betelgeuse",
+  "category": "Space",
+  "hook": "When Betelgeuse suddenly faded, people wondered if it was about to explode.",
+  "peek": "In late 2019 the bright red star at Orion's shoulder lost more than half its light in a few months. Stargazers hoped for a supernova. Close-up images showed something calmer: the star had puffed out a cloud of gas that cooled into dust.",
+  "lede": "Betelgeuse, the red star at Orion's shoulder, is normally one of the ten brightest stars in the night sky. In late 2019 it began to fade, and by February 2020 it had lost more than half its usual brightness, far fainter than astronomers had seen it in decades. Because it is a huge, ageing star expected to explode one day, many people wondered if this was it.",
+  "bullets": [
+    {
+      "opening": "A star wider than Mars's orbit",
+      "linkId": null,
+      "text": "Betelgeuse is a red supergiant. Placed where the Sun is, it would swallow the orbits of Mercury, Venus, Earth and probably Mars. Estimates of its distance range from about 500 to 700 light-years."
+    },
+    {
+      "opening": "The outburst seen by Hubble",
+      "linkId": null,
+      "text": "Hubble observations suggest that in 2019 the star threw off a huge piece of its surface, several times the mass of our Moon. The gas drifted outwards from the star in the months before the dimming."
+    },
+    {
+      "opening": "The dust cloud over its face",
+      "linkId": null,
+      "text": "In 2021 a team using the Very Large Telescope in Chile published sharp images showing the star's southern half darkened. The ejected gas had cooled, likely helped by a cooler patch on the surface, and formed dust that blocked some of its light."
+    },
+    {
+      "opening": "When it does explode",
+      "linkId": null,
+      "text": "Betelgeuse is expected to go supernova sometime within roughly the next 100,000 years. It could then shine about as brightly as a half Moon and be visible in daylight, while being far too distant to harm Earth."
+    }
+  ],
+  "tags": [
+    "stars",
+    "supernovas",
+    "myths-busted",
+    "light"
+  ],
+  "related": [
+    "neutron-star-teaspoon",
+    "polaris-precession",
+    "cecilia-payne",
+    "carrington-event",
+    "olbers-paradox"
+  ]
+}

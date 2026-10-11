@@ -1,0 +1,43 @@
+{
+  "id": "space-smell",
+  "title": "What space smells like",
+  "category": "Space",
+  "hook": "Astronauts say space leaves a smell on their suits like seared steak and hot metal.",
+  "peek": "Nobody can sniff the vacuum of space directly, but astronauts coming back inside after a spacewalk notice a distinct smell on their suits and tools. They describe it as seared steak, hot metal and welding fumes.",
+  "lede": "Space itself is a near vacuum, so there is nothing to breathe and nothing to smell. Yet when astronauts return through the airlock after a spacewalk and take off their helmets, many notice the same odour clinging to their suits, gloves and tools. Descriptions vary a little, but they keep returning to seared steak, hot metal, burnt cake and the fumes of a welding torch.",
+  "bullets": [
+    {
+      "opening": "Don Pettit's description",
+      "linkId": null,
+      "text": "NASA astronaut Don Pettit wrote that the smell reminded him of welding fumes from his summers working on engines, a sweet, metallic scent. Several other spacewalkers have reported something very similar."
+    },
+    {
+      "opening": "Where the smell comes from",
+      "linkId": null,
+      "text": "Scientists are not certain. One leading idea is that lone oxygen atoms, common in low orbit, stick to the suit and react when they meet the cabin air, forming ozone and other sharp-smelling compounds."
+    },
+    {
+      "opening": "Recreating the smell of space",
+      "linkId": null,
+      "text": "Around 2008 NASA asked chemist Steve Pearce to recreate the smell so that astronauts in training would not be surprised. His formula later inspired a fragrance called Eau de Space."
+    },
+    {
+      "opening": "Moon dust and gunpowder",
+      "linkId": null,
+      "text": "Apollo astronauts found a different smell on the Moon. Lunar dust carried back into the module on their suits smelled to them like spent gunpowder, even though it contains nothing like gunpowder."
+    }
+  ],
+  "tags": [
+    "space-exploration",
+    "smell",
+    "astronauts",
+    "chemistry"
+  ],
+  "related": [
+    "human-smell",
+    "petrichor",
+    "smell-receptor-genes",
+    "overview-effect",
+    "microgravity-flame"
+  ]
+}

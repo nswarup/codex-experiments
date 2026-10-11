@@ -1,0 +1,43 @@
+{
+  "id": "bayes-theorem",
+  "title": "Bayes' theorem",
+  "category": "Math",
+  "hook": "The rule behind spam filters was found in a minister's papers after he was gone.",
+  "peek": "Thomas Bayes, an English minister with a gift for mathematics, worked out a way to update a belief as new evidence arrives. He never published it. A friend found the essay among his papers, and it now runs inside spam filters and much of modern AI.",
+  "lede": "Thomas Bayes was a Presbyterian minister in Tunbridge Wells who did mathematics on the side. Sometime in the 1740s or 1750s he worked out how to turn evidence around: from how likely the evidence is if an idea is true, to how likely the idea is given the evidence. He put the work aside, and it stayed in his papers until 1761.",
+  "bullets": [
+    {
+      "opening": "Richard Price's discovery",
+      "linkId": null,
+      "text": "His friend Richard Price, another minister, went through the papers, recognised the essay's worth and edited it. He had it read to the Royal Society in 1763 and published, with his own introduction, under the title An Essay towards solving a Problem in the Doctrine of Chances."
+    },
+    {
+      "opening": "The billiard table thought experiment",
+      "linkId": null,
+      "text": "Bayes framed his problem with a ball rolled across a table. Someone else notes only whether later balls stop to its left or right, and must guess where the first one lies. Each new roll sharpens the guess, which is the whole idea in miniature."
+    },
+    {
+      "opening": "Laplace's version",
+      "linkId": null,
+      "text": "The French mathematician Pierre-Simon Laplace found the same idea on his own in 1774 and developed it much further. The tidy formula taught today owes a great deal to Laplace, though the name that stuck is Bayes."
+    },
+    {
+      "opening": "Bayesian spam filters",
+      "linkId": null,
+      "text": "In 2002 the programmer Paul Graham described a filter that learns how often words such as \"free\" turn up in junk mail compared with real mail, then weighs each new message. Filters built on Bayes' rule quickly became standard."
+    }
+  ],
+  "tags": [
+    "probability",
+    "history-of-things",
+    "ai",
+    "inventors"
+  ],
+  "related": [
+    "monty-hall",
+    "linda-problem",
+    "simpsons-paradox",
+    "hot-hand",
+    "secretary-problem"
+  ]
+}

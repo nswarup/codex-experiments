@@ -1,0 +1,43 @@
+{
+  "id": "raspberry-galaxy-centre",
+  "title": "The centre of the galaxy tastes of raspberries",
+  "category": "Space",
+  "hook": "A gas cloud near the Milky Way's heart holds a molecule that flavours raspberries.",
+  "peek": "In 2009 radio astronomers combing a giant cloud near the centre of our galaxy found ethyl formate, a molecule that helps give raspberries their taste and smells a little of rum. They were really looking for the building blocks of life.",
+  "lede": "Sagittarius B2 is a huge cloud of gas and dust about 26,000 light-years away, close to the centre of the Milky Way. In 2009 a team led by Arnaud Belloche at the Max Planck Institute for Radio Astronomy sifted its radio signals and found ethyl formate, a molecule partly responsible for the flavour of raspberries and the smell of rum.",
+  "bullets": [
+    {
+      "opening": "Fingerprints in radio light",
+      "linkId": null,
+      "text": "Nobody sampled the cloud. Each kind of molecule spins in its own way and gives off radio waves at its own set of frequencies, so the team matched signals recorded by the IRAM 30-metre telescope in Spain against lab measurements."
+    },
+    {
+      "opening": "Hunting for amino acids",
+      "linkId": null,
+      "text": "The real target was glycine, the simplest amino acid, which would hint that life's ingredients form in space. They did not find it, but ethyl formate was one of the most complex molecules yet seen in such a cloud."
+    },
+    {
+      "opening": "Sagittarius B2's alcohol",
+      "linkId": null,
+      "text": "The cloud is also rich in ethanol and many other carbon-based molecules, which is why astronomers treat it as a natural chemistry lab for studying how complex molecules build up."
+    },
+    {
+      "opening": "The raspberry headlines",
+      "linkId": null,
+      "text": "Newspapers reported that the centre of the galaxy tastes of raspberries and smells of rum. That is a stretch: ethyl formate is only one of many molecules behind the fruit's flavour, and the cloud is far too thin to taste."
+    }
+  ],
+  "tags": [
+    "molecules",
+    "taste",
+    "radio-astronomy",
+    "myths-busted"
+  ],
+  "related": [
+    "space-smell",
+    "umami",
+    "vanilla-edmond-albius",
+    "cosmic-latte",
+    "galactic-year"
+  ]
+}

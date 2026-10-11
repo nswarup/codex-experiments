@@ -1,0 +1,44 @@
+{
+  "id": "water-densest-at-4c",
+  "title": "Water is heaviest at 4°C",
+  "category": "Science",
+  "hook": "Water is at its densest a few degrees above freezing, not at 0°C.",
+  "peek": "Almost every liquid gets denser as it cools. Fresh water stops doing so at about 4°C and starts to expand. That small quirk is why lakes freeze from the top down and stay liquid underneath.",
+  "lede": "Most liquids shrink steadily as they get colder. Fresh water shrinks only until it reaches about 4°C. Cool it further and it starts to expand again, and when it freezes it grows by about 9%. So the densest water in a lake is not the coldest. It is water at around 4°C, and that water sinks to the bottom.",
+  "bullets": [
+    {
+      "opening": "Lakes freezing from the top",
+      "linkId": null,
+      "text": "In autumn, surface water cools, sinks and stirs the lake until all of it reaches about 4°C. After that, colder water stays on top and freezes, and the ice cap insulates the liquid below, which stays near 4°C all winter."
+    },
+    {
+      "opening": "Hydrogen bonds and open ice",
+      "linkId": null,
+      "text": "Water molecules cling to each other with hydrogen bonds. As water cools, more of them lock into open, ice-like rings that hold molecules further apart. Below about 4°C that spreading wins over normal shrinking."
+    },
+    {
+      "opening": "Seawater has no 4°C peak",
+      "linkId": null,
+      "text": "Salt changes the rule. Ordinary seawater keeps getting denser all the way down to its freezing point, about minus 2°C, so oceans do not settle into the same layers as freshwater lakes."
+    },
+    {
+      "opening": "The original kilogram",
+      "linkId": null,
+      "text": "French scientists in 1799 defined the kilogram as the mass of a litre of water at its densest, around 4°C. They picked that temperature because a small change either side barely affects the density."
+    }
+  ],
+  "tags": [
+    "physics",
+    "temperature",
+    "molecules",
+    "everyday-science"
+  ],
+  "related": [
+    "le-grand-k",
+    "why-ice-is-slippery",
+    "supercooled-water",
+    "mpemba-effect",
+    "lake-baikal",
+    "celsius-upside-down"
+  ]
+}

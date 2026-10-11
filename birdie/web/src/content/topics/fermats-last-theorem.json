@@ -1,0 +1,43 @@
+{
+  "id": "fermats-last-theorem",
+  "title": "Fermat's Last Theorem",
+  "category": "Math",
+  "hook": "A note in a book margin from about 1637 took 358 years to prove.",
+  "peek": "Pierre de Fermat jotted in the margin of a book that he had a marvellous proof, but the margin was too narrow to hold it. Mathematicians spent more than three centuries looking for it, until Andrew Wiles finally proved the theorem in the 1990s.",
+  "lede": "Around 1637 the French lawyer and amateur mathematician Pierre de Fermat wrote in his copy of an ancient Greek maths book that no cube splits into two cubes, and more generally that a^n + b^n = c^n has no whole-number answers for any n above 2. He added that he had a marvellous proof, which the margin was too small to contain.",
+  "bullets": [
+    {
+      "opening": "Diophantus's Arithmetica",
+      "linkId": null,
+      "text": "The note sat in Fermat's copy of the Arithmetica by Diophantus. After Fermat died, his son published an edition with the margin notes in 1670. This was the last of his claims left unproved, hence the name."
+    },
+    {
+      "opening": "Fermat's proof for fourth powers",
+      "linkId": null,
+      "text": "Fermat did leave a proof for the case of fourth powers. Most historians doubt he had a full general proof, since the eventual one needed mathematics invented centuries after him."
+    },
+    {
+      "opening": "Andrew Wiles's library book",
+      "linkId": null,
+      "text": "Andrew Wiles first read about the problem at the age of ten in a library book in Cambridge. As a professor he worked on it largely in secret for about seven years."
+    },
+    {
+      "opening": "The 1993 gap",
+      "linkId": null,
+      "text": "Wiles announced a proof at a Cambridge lecture in 1993, but a reviewer found a gap. After a tense year, he fixed it with help from his former student Richard Taylor, and the proof was published in 1995."
+    }
+  ],
+  "tags": [
+    "proofs",
+    "unsolved",
+    "numbers",
+    "history-of-things"
+  ],
+  "related": [
+    "collatz-conjecture",
+    "perelman-prize",
+    "sophie-germain-leblanc",
+    "taxicab-number-1729",
+    "four-color-theorem"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "polaris-precession",
+  "title": "The North Star is temporary",
+  "category": "Space",
+  "hook": "Polaris is only the North Star for now, because Earth's axis slowly wobbles.",
+  "peek": "Earth's axis slowly traces a circle in the sky, like a spinning top that has begun to lean. Over about 26,000 years the spot above the North Pole drifts among the stars, so the pole star keeps changing.",
+  "lede": "Polaris sits almost exactly above Earth's North Pole, which is why it seems to stay still while the other stars wheel around it. But Earth's axis wobbles slowly, like a leaning spinning top, tracing a full circle about every 26,000 years. As it does, the point the axis aims at drifts across the sky, and Polaris will eventually lose the job.",
+  "bullets": [
+    {
+      "opening": "Thuban and the pyramids",
+      "linkId": null,
+      "text": "Around 4,500 years ago, when the great Egyptian pyramids were built, the pole lay near Thuban, a fainter star in the constellation Draco. Some writers claim pyramid shafts were aimed at it, an idea Egyptologists still debate."
+    },
+    {
+      "opening": "Polaris at its closest",
+      "linkId": null,
+      "text": "Polaris is still creeping towards the pole. It will be closest around the year 2100, less than half a degree away, and then slowly drift off again."
+    },
+    {
+      "opening": "Vega in 12,000 years",
+      "linkId": null,
+      "text": "In roughly 12,000 years the pole will lie near Vega, one of the brightest stars in the sky, though not as close to it as Polaris is today. Then the circle carries on, back towards Polaris."
+    },
+    {
+      "opening": "Hipparchus spots the drift",
+      "linkId": null,
+      "text": "The Greek astronomer Hipparchus noticed the shift around 130 BC by comparing his own star positions with records made about 150 years earlier. The slow wobble is now called the precession of the equinoxes."
+    }
+  ],
+  "tags": [
+    "stars",
+    "time",
+    "navigation",
+    "patterns"
+  ],
+  "related": [
+    "galactic-year",
+    "moon-drifting",
+    "eclipse-coincidence",
+    "betelgeuse-dimming",
+    "foucault-pendulum"
+  ]
+}

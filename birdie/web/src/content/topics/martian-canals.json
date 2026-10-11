@@ -1,0 +1,44 @@
+{
+  "id": "martian-canals",
+  "title": "The canals of Mars",
+  "category": "Space",
+  "hook": "For decades astronomers mapped canals on Mars that never existed.",
+  "peek": "In 1877 an Italian astronomer drew fine lines on Mars and called them canali, channels. In English they became canals, and Percival Lowell spent years mapping hundreds of them. Spacecraft found none.",
+  "lede": "In 1877, when Mars swung close to Earth, the Italian astronomer Giovanni Schiaparelli drew a map covered in fine dark lines. He called them canali, Italian for channels, a word that did not have to mean anything built. English readers heard canals. Soon some astronomers were seeing a network of waterways, and wondering who had dug them.",
+  "bullets": [
+    {
+      "opening": "Percival Lowell's observatory",
+      "linkId": null,
+      "text": "The wealthy Bostonian Percival Lowell built an observatory in Flagstaff, Arizona, in 1894 largely to study Mars. He drew hundreds of canals and argued in popular books that Martians had built them to carry water from the poles."
+    },
+    {
+      "opening": "Maunder's schoolboy test",
+      "linkId": null,
+      "text": "In 1903 the British astronomers Edward Maunder and Joseph Evans showed schoolboys disks marked with faint, scattered dots and smudges. Boys sitting far enough away drew straight lines that were not there, much as the eye joins details at the limit of vision."
+    },
+    {
+      "opening": "Mariner 4 in 1965",
+      "linkId": null,
+      "text": "The first close photos of Mars, from NASA's Mariner 4 flyby, showed craters and no canals. In 1971 Mariner 9 mapped the whole planet from orbit, and the network was gone for good."
+    },
+    {
+      "opening": "Real channels on Mars",
+      "linkId": null,
+      "text": "Mars does have dry river valleys and the vast Valles Marineris canyon, which Mariner 9 revealed. None line up with the canals on the old maps."
+    }
+  ],
+  "tags": [
+    "mars",
+    "myths-busted",
+    "perception",
+    "maps"
+  ],
+  "related": [
+    "swift-mars-moons",
+    "pareidolia",
+    "great-moon-hoax",
+    "war-of-the-worlds-panic",
+    "pluto-venetia-burney",
+    "olympus-mons"
+  ]
+}

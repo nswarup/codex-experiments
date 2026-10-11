@@ -1,0 +1,39 @@
+{
+  "id": "clarus-dogcow",
+  "title": "Clarus the dogcow",
+  "category": "Tech",
+  "hook": "A spotted Mac doodle became Apple's dogcow, and her official sound is \"Moof\".",
+  "peek": "Susan Kare drew a small spotted dog for an early Macintosh picture font. Apple later used it to show page orientation in printer settings, where people decided it looked like a cow too, and named her Clarus.",
+  "lede": "In the early 1980s the designer Susan Kare drew a little spotted dog for Cairo, a Macintosh font made of pictures. Apple later put the image in the Page Setup dialog, where it flipped and turned to show how a page would print. Its long body and spots looked half dog, half cow, and Apple's engineers took the joke and ran with it.",
+  "bullets": [
+    {
+      "opening": "Susan Kare's Cairo font",
+      "linkId": null,
+      "text": "Kare designed many of the original Mac icons and fonts, including the happy Mac and the trash can. Cairo was a font full of small pictures, and the dogcow began there simply as a dog."
+    },
+    {
+      "opening": "Technote 31",
+      "linkId": null,
+      "text": "Apple's developer support team gave her a name, Clarus, and her sound, \"Moof\", in a tongue-in-cheek technical note in the late 1980s. The name played on Claris, an Apple software company of the time. Clarus is officially a she."
+    },
+    {
+      "opening": "The Page Setup dialog",
+      "linkId": null,
+      "text": "The dogcow showed options like flipping a page or inverting its colours. She was dropped from Mac printing settings for years, then quietly returned in macOS Ventura in 2022, to the delight of longtime fans."
+    }
+  ],
+  "tags": [
+    "design",
+    "computing-history",
+    "icons",
+    "names"
+  ],
+  "related": [
+    "command-key-symbol",
+    "floppy-save-icon",
+    "windows-95-sound",
+    "kurita-emoji",
+    "fahlman-smiley",
+    "helvetica"
+  ]
+}

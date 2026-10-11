@@ -1,0 +1,48 @@
+{
+  "id": "ice-core-air",
+  "title": "Ancient air in ice cores",
+  "category": "Science",
+  "hook": "Bubbles in Antarctic ice hold real air from 800,000 years ago.",
+  "peek": "As snow piles up in Antarctica and turns to ice, it seals in tiny bubbles of the air above. Drill deep enough and you can pull up samples of the atmosphere from hundreds of thousands of years ago, and measure them directly.",
+  "lede": "Most clues about the distant past are indirect, read from fossils or rock. Ice cores are different. Each year's snow in Antarctica is buried by the next, squeezed into ice, and the air between the grains gets trapped in small bubbles. Scientists can crush the ice in a vacuum and measure air that last mixed with the sky up to 800,000 years ago.",
+  "bullets": [
+    {
+      "opening": "The EPICA Dome C core",
+      "linkId": null,
+      "text": "A European team drilling at Dome C in East Antarctica reached about 3,270 metres down in 2004. The ice at the bottom was about 800,000 years old, the longest continuous record of past air yet recovered."
+    },
+    {
+      "opening": "Air younger than its ice",
+      "linkId": null,
+      "text": "Snow stays loose and porous for decades, so air keeps swapping with the sky until the bubbles close off, often 50 to 100 metres down. The trapped air is therefore younger than the ice around it, at Dome C by thousands of years."
+    },
+    {
+      "opening": "Carbon dioxide through the ice ages",
+      "linkId": null,
+      "text": "The bubbles show carbon dioxide rising and falling with the ice ages, between roughly 180 and 300 parts per million, for the whole 800,000 years. Today's air is above 400, outside that whole range."
+    },
+    {
+      "opening": "Fizzing ice",
+      "linkId": null,
+      "text": "Deep down, the pressure squeezes the bubbles into the ice crystals themselves, and the ice turns clear. Brought to the surface, it relaxes, and old ice can crackle and pop as the ancient air escapes."
+    },
+    {
+      "opening": "The Beyond EPICA project",
+      "linkId": null,
+      "text": "In January 2025 a new European team reached bedrock at Little Dome C, nearby, recovering ice thought to be at least 1.2 million years old, which they hope will extend the air record further back."
+    }
+  ],
+  "tags": [
+    "time",
+    "weather",
+    "records",
+    "antarctica"
+  ],
+  "related": [
+    "tree-ring-dating",
+    "year-without-summer",
+    "magnetic-stripes",
+    "methuselah-date-palm",
+    "kola-borehole"
+  ]
+}

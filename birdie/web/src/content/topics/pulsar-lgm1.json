@@ -1,0 +1,44 @@
+{
+  "id": "pulsar-lgm1",
+  "title": "LGM-1, the 'little green men' star",
+  "category": "Space",
+  "hook": "The first pulsar ticked so steadily that its finders nicknamed it Little Green Men.",
+  "peek": "In 1967 a Cambridge graduate student spotted a strange smudge on her chart paper. It pulsed every 1.3 seconds, as regular as a clock, and for a few weeks nobody could rule out that someone out there was signalling.",
+  "lede": "In 1967 Jocelyn Bell, a graduate student at Cambridge, was checking long rolls of chart paper from a new radio telescope when she noticed a small patch of what she called scruff. Looked at closely, it was a string of pulses arriving every 1.3 seconds with clockwork precision. Nothing natural was known to tick like that, so the team half-jokingly labelled it LGM-1, for Little Green Men.",
+  "bullets": [
+    {
+      "opening": "A second pulsar at Christmas",
+      "linkId": null,
+      "text": "Just before Christmas 1967, Bell found another pulsing source in a different part of the sky. Two separate alien groups signalling in the same odd way seemed very unlikely, so the Little Green Men idea was quietly dropped."
+    },
+    {
+      "opening": "Spinning neutron stars",
+      "linkId": null,
+      "text": "Pulsars turned out to be neutron stars, the collapsed cores of big stars, spinning and sweeping a radio beam past Earth like a lighthouse. LGM-1 is now catalogued as PSR B1919+21."
+    },
+    {
+      "opening": "The Unknown Pleasures cover",
+      "linkId": null,
+      "text": "The stacked wavy lines on Joy Division's 1979 album Unknown Pleasures are a chart of this same pulsar's pulses. The image came from a 1970 astronomy thesis and was reprinted in an encyclopedia of astronomy, where the band found it."
+    },
+    {
+      "opening": "The Nobel Prize she missed",
+      "linkId": null,
+      "text": "The 1974 Nobel Prize in Physics for pulsars went to her supervisor Antony Hewish and to Martin Ryle, not to Bell, which many astronomers questioned. In 2018 she won a $3 million Breakthrough Prize and gave it all to fund physics students."
+    }
+  ],
+  "tags": [
+    "radio-astronomy",
+    "neutron-stars",
+    "accidents",
+    "names"
+  ],
+  "related": [
+    "wow-signal",
+    "neutron-star-teaspoon",
+    "arecibo-message",
+    "drake-equation",
+    "cecilia-payne",
+    "cmb-tv-static"
+  ]
+}

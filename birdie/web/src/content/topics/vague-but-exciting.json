@@ -1,0 +1,43 @@
+{
+  "id": "vague-but-exciting",
+  "title": "\"Vague but exciting\"",
+  "category": "Tech",
+  "hook": "The proposal for the World Wide Web came back with three words scribbled on top.",
+  "peek": "In 1989 a young software engineer at CERN wrote a proposal for linking documents across computers. His boss read it and wrote a short verdict in the margin: \"Vague but exciting\". That cautious note was enough to let the web begin.",
+  "lede": "In March 1989 Tim Berners-Lee, a British engineer at the CERN physics laboratory near Geneva, wrote a document called \"Information Management: A Proposal\". It described a way to link pages of information stored on different computers. His manager, Mike Sendall, read it and wrote three words at the top of the cover page: \"Vague but exciting\". He did not approve a project, but he did not say no.",
+  "bullets": [
+    {
+      "opening": "Mike Sendall's quiet support",
+      "linkId": null,
+      "text": "Sendall let Berners-Lee keep working on the idea alongside his normal job and helped him get a NeXT computer to try it out. Berners-Lee has credited him with giving the web the room it needed."
+    },
+    {
+      "opening": "The WorldWideWeb program",
+      "linkId": null,
+      "text": "By the end of 1990, Berners-Lee had written the first web browser and server on that NeXT machine. He named the browser WorldWideWeb, and the first web page explained what the project was."
+    },
+    {
+      "opening": "A gift to everyone",
+      "linkId": null,
+      "text": "In April 1993 CERN released the web software into the public domain, so anyone could use and build on it without paying. That decision helped the web spread far faster than rival systems."
+    },
+    {
+      "opening": "The annotated cover page",
+      "linkId": null,
+      "text": "The copy with Sendall's handwriting survives, and CERN has shown it at anniversaries of the proposal. It is one of the best known pieces of paper in computing history."
+    }
+  ],
+  "tags": [
+    "internet",
+    "inventors",
+    "history-of-things",
+    "words"
+  ],
+  "related": [
+    "trojan-room-coffee-pot",
+    "symbolics-dotcom",
+    "arpanet-lo",
+    "email-at-sign",
+    "linux-just-a-hobby"
+  ]
+}

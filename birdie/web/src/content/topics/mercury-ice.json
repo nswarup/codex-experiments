@@ -1,0 +1,43 @@
+{
+  "id": "mercury-ice",
+  "title": "Ice on Mercury",
+  "category": "Space",
+  "hook": "The planet closest to the Sun keeps water ice in craters that never see daylight.",
+  "peek": "Mercury's days are hot enough to melt lead, yet there is water ice near its poles. It hides on the floors of deep craters where sunlight never reaches, and a NASA spacecraft confirmed it in 2012.",
+  "lede": "Mercury is the closest planet to the Sun, and its daytime surface can reach about 430 degrees Celsius. Yet near its north and south poles there is water ice. The trick is Mercury's almost upright spin: it barely tilts, so the Sun always sits low on the horizon at the poles, and the floors of deep craters there stay in permanent shadow.",
+  "bullets": [
+    {
+      "opening": "The Arecibo radar spots",
+      "linkId": null,
+      "text": "The first clue came in 1991, when scientists bounced radar off Mercury from Earth, including with the Arecibo telescope. Bright, radar-reflective patches showed up at the poles, exactly where ice would be expected, but radar alone could not prove it."
+    },
+    {
+      "opening": "MESSENGER's confirmation",
+      "linkId": null,
+      "text": "NASA's MESSENGER spacecraft, which orbited Mercury from 2011 to 2015, settled it. In 2012 its instruments found hydrogen at the poles, matching water ice, and in some places a dark coating over the ice that may be carbon-rich material."
+    },
+    {
+      "opening": "Cold crater floors",
+      "linkId": null,
+      "text": "In permanently shadowed crater floors, temperatures are thought to stay around minus 170 degrees Celsius or colder. Ice there can last for very long periods without melting or drifting away into space."
+    },
+    {
+      "opening": "Ice in Prokofiev crater",
+      "linkId": null,
+      "text": "MESSENGER even photographed ice directly, using faint sunlight bounced off crater walls into Prokofiev crater near the north pole. NASA estimated the total ice could cover Washington, DC, in a layer about three kilometres deep."
+    }
+  ],
+  "tags": [
+    "planets",
+    "ice",
+    "space-exploration",
+    "myths-busted"
+  ],
+  "related": [
+    "ganymede-bigger-than-mercury",
+    "venus-day",
+    "moon-far-side",
+    "europa-ocean",
+    "parker-solar-probe"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "why-ice-is-slippery",
+  "title": "Why ice is slippery",
+  "category": "Science",
+  "hook": "Skates do not melt ice by pressing on it, despite what school taught.",
+  "peek": "The familiar explanation is that a skater's weight melts the ice beneath the blade. The numbers do not add up. The real answer lies in a thin, restless layer of water molecules on the surface of all ice.",
+  "lede": "Many of us learned that ice is slippery because pressure from a skate blade melts it into water. Pressure does lower the melting point, but only a little: each degree takes well over a hundred times normal air pressure. That cannot explain why ice stays slippery at minus 20 degrees, or why you slip while simply standing still on it.",
+  "bullets": [
+    {
+      "opening": "The pressure melting idea",
+      "linkId": null,
+      "text": "The pressure explanation was popularised in the 1880s, when the Irish physicist John Joly applied it to skating. It sounded tidy and spread into textbooks, though later calculations showed it falls far short."
+    },
+    {
+      "opening": "Faraday's wet surface",
+      "linkId": null,
+      "text": "Back in 1850 Michael Faraday suggested that ice carries a thin liquid-like film on its surface. He noticed that two blocks of ice pressed together freeze into one, as if a wet skin between them had set."
+    },
+    {
+      "opening": "Molecules that roll",
+      "linkId": null,
+      "text": "Experiments by a team in Amsterdam, published in 2018, found that the top layer of molecules is only loosely held. They tumble across the surface like tiny ball bearings, which keeps friction low."
+    },
+    {
+      "opening": "The best temperature for skating",
+      "linkId": null,
+      "text": "The same study found ice is most slippery at around minus 7 degrees Celsius. Much colder, and the surface molecules move less freely, so the ice becomes noticeably less slippery."
+    }
+  ],
+  "tags": [
+    "myths-busted",
+    "physics",
+    "molecules",
+    "everyday-science"
+  ],
+  "related": [
+    "water-densest-at-4c",
+    "supercooled-water",
+    "leidenfrost-effect",
+    "mpemba-effect",
+    "snowflake-bentley"
+  ]
+}

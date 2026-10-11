@@ -1,0 +1,43 @@
+{
+  "id": "moores-law",
+  "title": "Moore's law",
+  "category": "Tech",
+  "hook": "Gordon Moore's famous 1965 prediction was meant to last only ten years.",
+  "peek": "In 1965 Gordon Moore guessed that the number of parts on a computer chip would keep doubling for the next decade. He was not trying to predict the next fifty years, yet the chip industry kept his curve going for about that long.",
+  "lede": "In 1965 the magazine Electronics asked Gordon Moore, then a chemist at Fairchild Semiconductor, to predict the future of chips. He noticed that the number of components on a chip had been doubling every year, and guessed it would continue until 1975. It was a short forecast for the next decade, not a law of nature.",
+  "bullets": [
+    {
+      "opening": "The 1975 revision",
+      "linkId": null,
+      "text": "In 1975, with his ten years up, Moore revised the forecast to a doubling about every two years. That slower pace is the version most people mean when they talk about Moore's law."
+    },
+    {
+      "opening": "Carver Mead names it",
+      "linkId": null,
+      "text": "Moore never called it a law. The name is usually credited to his friend Carver Mead, a Caltech professor, around 1970. By then Moore had already co-founded Intel, in 1968."
+    },
+    {
+      "opening": "The 18-month myth",
+      "linkId": null,
+      "text": "The often quoted figure of 18 months did not come from Moore. It is usually traced to David House, an Intel executive, who was talking about chip performance rather than the number of transistors."
+    },
+    {
+      "opening": "A self-fulfilling forecast",
+      "linkId": null,
+      "text": "Chip makers planned their research around the curve, so the prediction partly made itself come true. Since the 2010s the doubling has slowed, as transistors approach the size of a few dozen atoms."
+    }
+  ],
+  "tags": [
+    "predictions",
+    "scale",
+    "inventors",
+    "chips"
+  ],
+  "related": [
+    "intel-4004",
+    "first-transistor",
+    "ibm-ramac",
+    "apple-i-price",
+    "voyager-computers"
+  ]
+}

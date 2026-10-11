@@ -1,0 +1,42 @@
+{
+  "id": "perelman-prize",
+  "title": "Perelman turns down a million",
+  "category": "Math",
+  "hook": "He solved a century-old puzzle, then refused the medal and the million dollars.",
+  "peek": "In 2002 and 2003 a Russian mathematician quietly posted online a proof of the Poincaré conjecture, one of the hardest problems in maths. Grigori Perelman then declined the Fields Medal and a $1 million prize, and stepped away from mathematics.",
+  "lede": "The Poincaré conjecture, posed by Henri Poincaré in 1904, asks a deceptively simple question about the shape of three-dimensional spaces. For about a century nobody could settle it. Then, between 2002 and 2003, Grigori Perelman of St Petersburg posted three papers online that did. Experts spent years checking them and found the proof sound.",
+  "bullets": [
+    {
+      "opening": "Papers posted to arXiv",
+      "linkId": null,
+      "text": "Perelman never submitted his proof to a journal. He uploaded it to arXiv, a free website for research papers, and let other mathematicians work through the details. Several teams later published full explanations."
+    },
+    {
+      "opening": "Richard Hamilton's Ricci flow",
+      "linkId": null,
+      "text": "The proof built on a method called Ricci flow, developed by the American mathematician Richard Hamilton, which smooths out a shape over time like heat spreading. Perelman found ways past the obstacles that had stalled it."
+    },
+    {
+      "opening": "The declined Fields Medal",
+      "linkId": null,
+      "text": "In 2006 he was awarded the Fields Medal, often called the top honour in mathematics. He did not accept it, and did not attend the ceremony."
+    },
+    {
+      "opening": "The Millennium Prize",
+      "linkId": null,
+      "text": "In 2010 the Clay Mathematics Institute awarded him $1 million, its first Millennium Prize. He declined, reportedly saying Hamilton's contribution was no less than his own. Of the seven Millennium problems, it remains the only one solved."
+    }
+  ],
+  "tags": [
+    "records",
+    "topology",
+    "inventors"
+  ],
+  "related": [
+    "fermats-last-theorem",
+    "mobius-strip",
+    "hairy-ball-theorem",
+    "collatz-conjecture",
+    "nicolas-bourbaki"
+  ]
+}

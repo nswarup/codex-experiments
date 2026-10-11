@@ -1,0 +1,43 @@
+{
+  "id": "first-transistor",
+  "title": "The paper-clip transistor",
+  "category": "Tech",
+  "hook": "The first transistor was germanium, gold foil and a spring bent from a paper clip.",
+  "peek": "In December 1947, two scientists at Bell Labs made a crude device that could amplify an electrical signal. It was built from a chip of germanium, a strip of gold foil and a bent paper clip, and it was the first transistor.",
+  "lede": "In December 1947, John Bardeen and Walter Brattain, working at Bell Labs in New Jersey, built a device that would change electronics. Brattain wrapped gold foil around a small plastic triangle, slit it at the tip with a razor blade and pressed it onto a slab of germanium using a spring made from a paper clip. The point-contact transistor worked.",
+  "bullets": [
+    {
+      "opening": "The 23 December demonstration",
+      "linkId": null,
+      "text": "On 23 December 1947 Bardeen and Brattain showed it to Bell Labs managers. Speaking into a microphone, they used the transistor to make a voice louder in a pair of headphones."
+    },
+    {
+      "opening": "William Shockley's junction transistor",
+      "linkId": null,
+      "text": "Their group leader, William Shockley, was frustrated not to have been part of the breakthrough. Within weeks he worked out the junction transistor, a sturdier design that soon replaced the point-contact version."
+    },
+    {
+      "opening": "Naming the transistor",
+      "linkId": null,
+      "text": "Bell Labs held an internal vote on a name. The winner, transistor, was suggested by the engineer John Pierce, combining the words transfer and resistor."
+    },
+    {
+      "opening": "The 1956 Nobel Prize",
+      "linkId": null,
+      "text": "Bardeen, Brattain and Shockley shared the Nobel Prize in Physics in 1956. Bardeen later won a second physics prize, for superconductivity, the only person to do so."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "history-of-things",
+    "chips",
+    "physics"
+  ],
+  "related": [
+    "moores-law",
+    "intel-4004",
+    "hello-world",
+    "core-rope-memory",
+    "eniac-programmers"
+  ]
+}

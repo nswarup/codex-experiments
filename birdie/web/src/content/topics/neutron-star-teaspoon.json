@@ -1,0 +1,44 @@
+{
+  "id": "neutron-star-teaspoon",
+  "title": "A teaspoon of neutron star",
+  "category": "Space",
+  "hook": "A teaspoon of neutron star would weigh about a billion tonnes on Earth.",
+  "peek": "When a big star collapses, its core can be crushed into a ball about 20 kilometres across that holds more mass than the Sun. The stuff inside is so dense that a single teaspoon would outweigh every person on Earth put together.",
+  "lede": "A neutron star is what can be left when a star much bigger than the Sun runs out of fuel and its core collapses. Gravity squeezes more than a Sun's worth of mass into a ball about the width of a city. The atoms are crushed so tightly that a teaspoonful of the material, brought to Earth, would weigh about a billion tonnes.",
+  "bullets": [
+    {
+      "opening": "Squeezing atoms into neutrons",
+      "linkId": null,
+      "text": "Ordinary atoms are mostly empty space. In the collapse, electrons are forced into protons to make neutrons, and the neutrons pack together about as tightly as the particles in an atomic nucleus. The whole star is a bit like one giant nucleus."
+    },
+    {
+      "opening": "Spinning hundreds of times a second",
+      "linkId": null,
+      "text": "As the core shrinks it spins faster, like a skater pulling in her arms. The fastest neutron star known turns 716 times a second, and many sweep beams of radio waves past Earth, which we see as pulsars."
+    },
+    {
+      "opening": "Nuclear pasta",
+      "linkId": null,
+      "text": "Physicists think that just under the crust, neutrons and protons arrange into shapes nicknamed nuclear pasta: sheets like lasagne, rods like spaghetti and blobs like gnocchi. Computer simulations suggest it may be the strongest material in the universe."
+    },
+    {
+      "opening": "A city-sized star",
+      "linkId": null,
+      "text": "A typical neutron star is only about 20 kilometres across, small enough to fit inside a large city, yet it can hold around one and a half times the mass of the Sun."
+    }
+  ],
+  "tags": [
+    "neutron-stars",
+    "scale",
+    "stars",
+    "physics"
+  ],
+  "related": [
+    "pulsar-lgm1",
+    "ligo-chirp",
+    "betelgeuse-dimming",
+    "saturn-would-float",
+    "le-grand-k",
+    "cavendish-weighs-earth"
+  ]
+}

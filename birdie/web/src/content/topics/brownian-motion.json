@@ -1,0 +1,44 @@
+{
+  "id": "brownian-motion",
+  "title": "Brownian motion",
+  "category": "Science",
+  "hook": "A jiggle seen in a microscope in 1827 helped prove that atoms are real.",
+  "peek": "Specks from pollen grains, floating in water, never stop jittering. The botanist Robert Brown saw it in 1827. In 1905 Albert Einstein explained it as the push of invisible molecules, and measuring the jiggle convinced doubters that atoms exist.",
+  "lede": "In 1827 the Scottish botanist Robert Brown was studying pollen from a wildflower under his microscope. Tiny particles from inside the pollen grains, floating in water, were moving in restless zigzags that never stopped. At first he wondered if they were alive. Then he saw the same dance in specks of powdered glass and rock, which could not be alive at all.",
+  "bullets": [
+    {
+      "opening": "Einstein's 1905 paper",
+      "linkId": null,
+      "text": "In 1905 Albert Einstein showed that the jiggling is caused by water molecules bumping into the particle from every side. At any instant the hits do not quite balance, so the particle is nudged in a random direction."
+    },
+    {
+      "opening": "A random walk",
+      "linkId": null,
+      "text": "Einstein predicted that the drift should grow with the square root of time: watching four times longer should show a particle wandering only about twice as far. That gave experimenters something precise to measure."
+    },
+    {
+      "opening": "Jean Perrin's measurements",
+      "linkId": null,
+      "text": "From 1908 the French physicist Jean Perrin tracked tiny particles under the microscope and confirmed Einstein's predictions. From the results he estimated how many molecules a given amount of matter contains. He won the 1926 Nobel Prize in Physics."
+    },
+    {
+      "opening": "Doubters come round",
+      "linkId": null,
+      "text": "Around 1900 several respected scientists, among them the chemist Wilhelm Ostwald, still doubted that atoms really existed. After Perrin's work Ostwald accepted that they did."
+    }
+  ],
+  "tags": [
+    "physics",
+    "atoms",
+    "experiments",
+    "microscopes"
+  ],
+  "related": [
+    "maxwells-demon",
+    "tea-leaf-paradox",
+    "galton-board",
+    "brazil-nut-effect",
+    "coffee-ring-effect",
+    "mendel-peas"
+  ]
+}

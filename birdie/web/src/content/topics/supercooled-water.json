@@ -1,0 +1,43 @@
+{
+  "id": "supercooled-water",
+  "title": "Supercooled water",
+  "category": "Science",
+  "hook": "Very pure water can stay liquid below freezing, then turn to slush in seconds.",
+  "peek": "Water does not have to freeze at 0°C. Clean, still water can stay liquid well below that, waiting for something to start the ice off. Tap the bottle or pour it onto an ice cube and it turns to slush before your eyes.",
+  "lede": "We learn that water freezes at 0°C, but that is only where ice can start to form. To freeze, water needs a seed: a speck of dust, a scratch, or a bit of existing ice for the crystals to grow on. Very clean, undisturbed water can lack that seed and stay liquid several degrees below freezing.",
+  "bullets": [
+    {
+      "opening": "The freezer bottle trick",
+      "linkId": null,
+      "text": "Leave a bottle of purified water in a freezer for a couple of hours and it may come out still liquid. A sharp tap, or pouring it onto an ice cube, sets off a wave of crystals that sweeps through in seconds."
+    },
+    {
+      "opening": "Why it turns to slush",
+      "linkId": null,
+      "text": "Freezing releases heat. As the first ice forms, that heat warms the rest of the water back up towards 0°C, so only part of it freezes. The result is slush rather than a solid block."
+    },
+    {
+      "opening": "The minus 40 limit",
+      "linkId": null,
+      "text": "Tiny, very pure droplets can stay liquid down to about minus 40°C. Below that, the water molecules line up into ice on their own, without any seed to help them."
+    },
+    {
+      "opening": "Supercooled cloud droplets",
+      "linkId": null,
+      "text": "Clouds are often full of liquid droplets far below freezing. When they hit a cold surface they freeze on contact, which is how freezing rain glazes roads and why aircraft carry de-icing systems."
+    }
+  ],
+  "tags": [
+    "water",
+    "ice",
+    "physics",
+    "weather"
+  ],
+  "related": [
+    "mpemba-effect",
+    "water-densest-at-4c",
+    "why-ice-is-slippery",
+    "leidenfrost-effect",
+    "tudor-ice-trade"
+  ]
+}

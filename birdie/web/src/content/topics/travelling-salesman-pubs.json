@@ -1,0 +1,48 @@
+{
+  "id": "travelling-salesman-pubs",
+  "title": "The shortest UK pub crawl",
+  "category": "Math",
+  "hook": "Mathematicians proved the shortest route visiting nearly 50,000 UK pubs.",
+  "peek": "In 2018 a team led by William Cook found the shortest possible walk visiting almost every pub in the United Kingdom, and then proved no shorter one exists. It was a showcase for the travelling salesman problem, one of maths' most famous hard puzzles.",
+  "lede": "The travelling salesman problem asks for the shortest round trip through a list of places. It sounds easy, yet no one knows a fast method that always works for big lists. In 2018 the mathematician William Cook and colleagues solved it for 49,687 pubs across the United Kingdom, finding a tour of roughly 64,000 kilometres and proving it is the shortest.",
+  "bullets": [
+    {
+      "opening": "Too many routes to check",
+      "linkId": null,
+      "text": "The number of possible tours explodes. Even 20 stops allow more than 60 million billion different round trips, so checking them one by one is hopeless for 50,000 pubs."
+    },
+    {
+      "opening": "The Concorde solver",
+      "linkId": null,
+      "text": "Cook's team used Concorde, a program built for this problem. It finds a very good tour, then uses linear programming to prove a lower limit on any tour's length. When the two meet, the route is proven best."
+    },
+    {
+      "opening": "The 1954 forty-nine cities",
+      "linkId": null,
+      "text": "The method traces back to 1954, when George Dantzig, Ray Fulkerson and Selmer Johnson solved a tour of 49 American cities by hand-guided calculation, a record at the time."
+    },
+    {
+      "opening": "A smaller crawl first",
+      "linkId": null,
+      "text": "The 2018 route followed a 2016 effort by the same team covering about 24,700 pubs. The longer list mapped the pubs of the UK almost completely."
+    },
+    {
+      "opening": "Why the problem matters",
+      "linkId": null,
+      "text": "Fast routes save money for delivery vans, circuit-board drilling and telescope scheduling. Finding a method that always solves such problems quickly is tied to the P versus NP question, a $1 million Millennium Prize problem."
+    }
+  ],
+  "tags": [
+    "maps",
+    "records",
+    "puzzles",
+    "computing"
+  ],
+  "related": [
+    "konigsberg-bridges",
+    "stable-matching",
+    "braess-paradox",
+    "four-color-theorem",
+    "perelman-prize"
+  ]
+}

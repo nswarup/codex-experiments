@@ -1,0 +1,43 @@
+{
+  "id": "bitcoin-pizza-day",
+  "title": "Bitcoin Pizza Day",
+  "category": "Tech",
+  "hook": "In 2010 two pizzas cost 10,000 bitcoins, later worth over a billion dollars.",
+  "peek": "On 22 May 2010 a programmer in Florida paid 10,000 bitcoins for two pizzas. It is usually counted as the first purchase of real goods with bitcoin. Those coins would later be worth more than a billion dollars.",
+  "lede": "On 18 May 2010, Laszlo Hanyecz, a programmer in Jacksonville, Florida, posted on a bitcoin forum offering 10,000 bitcoins to anyone who would get him two large pizzas. Four days later, on 22 May, another forum member ordered them for him from Papa John's. It is widely regarded as the first known purchase of real-world goods with bitcoin.",
+  "bullets": [
+    {
+      "opening": "Jeremy Sturdivant's side of the deal",
+      "linkId": null,
+      "text": "The pizzas were ordered by Jeremy Sturdivant, a teenager in California who paid about $25 for them and received the 10,000 coins. He has said he spent the bitcoins on travel and did not keep them."
+    },
+    {
+      "opening": "What 10,000 bitcoins became",
+      "linkId": null,
+      "text": "At the time the coins were worth roughly $40. At bitcoin's later peaks they would have been worth more than a billion dollars, making them the most expensive pizzas ever bought."
+    },
+    {
+      "opening": "Laszlo Hanyecz the miner",
+      "linkId": null,
+      "text": "Hanyecz was also an early bitcoin developer. He is credited with first mining bitcoin on a graphics card, which is partly why he had so many coins to spend."
+    },
+    {
+      "opening": "No regrets about the pizzas",
+      "linkId": null,
+      "text": "Hanyecz has said in interviews that he does not regret the purchase. He saw it as proof that bitcoin could buy something real, and the community now marks 22 May as Bitcoin Pizza Day."
+    }
+  ],
+  "tags": [
+    "money",
+    "food-history",
+    "firsts",
+    "internet-culture"
+  ],
+  "related": [
+    "million-dollar-homepage",
+    "rai-stones",
+    "hawaiian-pizza-canada",
+    "lavarand",
+    "symbolics-dotcom"
+  ]
+}

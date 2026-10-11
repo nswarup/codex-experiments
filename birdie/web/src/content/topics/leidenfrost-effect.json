@@ -1,0 +1,49 @@
+{
+  "id": "leidenfrost-effect",
+  "title": "The Leidenfrost effect",
+  "category": "Science",
+  "hook": "Water lasts longer on a very hot pan than on one that is merely hot.",
+  "peek": "Flick water onto a warm pan and it boils away fast. Flick it onto a much hotter one and the drops skate around for a minute or more, floating on a thin cushion of their own steam.",
+  "lede": "Drop water on a pan at about 100 degrees Celsius and it fizzes away in seconds. Heat the pan to around 200 degrees or more and something odd happens: the water beads up into shiny balls that glide about and can last a minute or more. The underside of each drop boils so fast that it lifts the drop on a layer of vapour.",
+  "bullets": [
+    {
+      "opening": "Johann Gottlob Leidenfrost",
+      "linkId": null,
+      "text": "The German doctor Johann Gottlob Leidenfrost described the effect in 1756, in a book about the qualities of water. He placed drops on a red-hot iron spoon and timed how long they lasted."
+    },
+    {
+      "opening": "The vapour cushion",
+      "linkId": null,
+      "text": "The layer of steam under the drop is only a fraction of a millimetre thick, but vapour carries heat poorly. So the drop is shielded from the very surface that should boil it, and evaporates far more slowly."
+    },
+    {
+      "opening": "The Leidenfrost point",
+      "linkId": null,
+      "text": "The temperature where the effect starts is called the Leidenfrost point. For water on a metal pan it is somewhere around 200 degrees Celsius, though it shifts with the surface, its roughness and the liquid."
+    },
+    {
+      "opening": "The water droplet test",
+      "linkId": null,
+      "text": "Some cooks use the effect to check a stainless steel pan. When flicked water forms rolling beads instead of sizzling away, the pan is hot enough for food to sear and stick less."
+    },
+    {
+      "opening": "Drops that climb ratchets",
+      "linkId": null,
+      "text": "In 2006 physicists showed that drops on a hot surface cut with sawtooth ridges travel in one direction by themselves, and can even roll slightly uphill."
+    }
+  ],
+  "tags": [
+    "physics",
+    "water",
+    "heat",
+    "cooking"
+  ],
+  "related": [
+    "mpemba-effect",
+    "supercooled-water",
+    "maillard-reaction",
+    "water-densest-at-4c",
+    "why-ice-is-slippery",
+    "oobleck"
+  ]
+}

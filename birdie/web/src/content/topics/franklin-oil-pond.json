@@ -1,0 +1,43 @@
+{
+  "id": "franklin-oil-pond",
+  "title": "Benjamin Franklin's spoonful of oil",
+  "category": "Science",
+  "hook": "A teaspoon of oil calmed half an acre of pond for Benjamin Franklin.",
+  "peek": "In 1773 Benjamin Franklin tipped a spoonful of oil onto a windy London pond and watched it smooth a huge patch of water. He never did the sum, but his numbers hold a clue to how small molecules are.",
+  "lede": "Sailors had long claimed that oil poured on rough water calms it. Benjamin Franklin decided to test the idea. On a windy day in 1773, at a pond on Clapham Common in London, he poured out no more than a teaspoon of oil. It spread across the water by itself and left perhaps half an acre as smooth as glass.",
+  "bullets": [
+    {
+      "opening": "Oil in a hollow cane",
+      "linkId": null,
+      "text": "Franklin was so taken with the trick that he carried a little oil in the hollow top of his bamboo walking cane, ready to repeat the demonstration for friends beside any pond or stream."
+    },
+    {
+      "opening": "Franklin's letter of 1774",
+      "linkId": null,
+      "text": "He described the experiment in a letter that the Royal Society published in 1774. He noted how quickly the oil spread and that the film grew too thin to see, but he did not work out its thickness."
+    },
+    {
+      "opening": "Lord Rayleigh's measurement",
+      "linkId": null,
+      "text": "In 1890 Lord Rayleigh did the calculation with careful oil-film experiments. Dividing the volume of oil by the area it covered gives a layer about a millionth of a millimetre thick, roughly one molecule deep."
+    },
+    {
+      "opening": "Why the waves flatten",
+      "linkId": null,
+      "text": "The oil film changes the water's surface tension and resists stretching, which damps the tiny ripples that wind needs to grip the surface. Franklin found it could flatten small waves, though not a large swell at sea."
+    }
+  ],
+  "tags": [
+    "experiments",
+    "molecules",
+    "scale",
+    "inventors"
+  ],
+  "related": [
+    "coffee-ring-effect",
+    "lotus-effect",
+    "brownian-motion",
+    "franklin-daylight-joke",
+    "cavendish-weighs-earth"
+  ]
+}

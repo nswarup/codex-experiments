@@ -1,0 +1,43 @@
+{
+  "id": "gauss-schoolboy-sum",
+  "title": "Young Gauss adds 1 to 100",
+  "category": "Math",
+  "hook": "A schoolboy is said to have added 1 to 100 in moments by pairing the ends.",
+  "peek": "The story goes that the young Carl Friedrich Gauss was set the task of adding every number from 1 to 100, and handed in the answer, 5,050, almost at once. The trick is pairing numbers from each end. Historians think the details grew with retelling.",
+  "lede": "Carl Friedrich Gauss became one of the greatest mathematicians in history, and one story about his childhood is told in classrooms everywhere. A teacher, the tale goes, kept a class busy by asking them to add up every whole number from 1 to 100. The young Gauss wrote a single number on his slate almost immediately: 5,050.",
+  "bullets": [
+    {
+      "opening": "Fifty pairs of 101",
+      "linkId": null,
+      "text": "The trick is to add from both ends. 1 plus 100 is 101, 2 plus 99 is 101, and so on down to 50 plus 51. That makes fifty pairs of 101, which comes to 5,050 with no long adding at all."
+    },
+    {
+      "opening": "Where the story comes from",
+      "linkId": null,
+      "text": "The tale first appears in an 1856 memoir by Gauss's friend Wolfgang Sartorius von Waltershausen, written after Gauss's lifetime. It says Gauss was about nine and the teacher was named Büttner, but it gives no exact numbers."
+    },
+    {
+      "opening": "A story that keeps growing",
+      "linkId": null,
+      "text": "The writer Brian Hayes collected over a hundred versions in 2006. The numbers 1 to 100 appear in later tellings, and other details shift too, so historians treat the specifics as legend even if the event was real."
+    },
+    {
+      "opening": "The triangular number formula",
+      "linkId": null,
+      "text": "The pairing trick gives a general rule: the sum from 1 to n is n times n plus 1, divided by two. These totals are called triangular numbers, and the idea was known long before Gauss was born."
+    }
+  ],
+  "tags": [
+    "numbers",
+    "patterns",
+    "myths-busted",
+    "inventors"
+  ],
+  "related": [
+    "taxicab-number-1729",
+    "pascal-triangle-sierpinski",
+    "archimedes-eureka",
+    "newtons-apple-tree",
+    "sophie-germain-leblanc"
+  ]
+}

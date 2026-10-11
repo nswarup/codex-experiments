@@ -1,0 +1,48 @@
+{
+  "id": "olympus-mons",
+  "title": "Olympus Mons, the mountain you can't see from its top",
+  "category": "Space",
+  "hook": "Mars has a volcano so wide that from its summit the edges lie over the horizon.",
+  "peek": "Olympus Mons on Mars is about 600 kilometres across and over 20 kilometres high. Its slopes are so gentle and its base so broad that someone standing at the top would see only gently sloping ground, with the edges hidden by the curve of the planet.",
+  "lede": "Olympus Mons is the tallest volcano known in the solar system, rising more than 20 kilometres, over twice the height of Everest above sea level. The surprise is its width. At about 600 kilometres across it would cover much of France. Its sides slope at only a few degrees, so from the summit the mountain's edge is hidden beyond the horizon.",
+  "bullets": [
+    {
+      "opening": "A shield volcano",
+      "linkId": null,
+      "text": "It is the same kind of volcano as those of Hawaii: built from runny lava that spread far before cooling, giving a wide, gently sloping dome rather than a steep cone."
+    },
+    {
+      "opening": "No moving plates",
+      "linkId": null,
+      "text": "On Earth, the crust drifts over a hot spot, so Hawaii is a chain of islands. Mars's crust stays still, so lava kept piling up in one place for a very long time and built a single giant volcano."
+    },
+    {
+      "opening": "The summit calderas",
+      "linkId": null,
+      "text": "The top holds several overlapping craters, together about 80 kilometres across and up to about 3 kilometres deep, where the ground sank as magma drained away."
+    },
+    {
+      "opening": "Cliffs around the base",
+      "linkId": null,
+      "text": "Much of the volcano is ringed by a cliff, in places several kilometres high. So the mountain begins with a sudden wall and then rises gently for hundreds of kilometres."
+    },
+    {
+      "opening": "Nix Olympica",
+      "linkId": null,
+      "text": "Nineteenth-century astronomers saw a bright patch there and called it Nix Olympica, the Snows of Olympus. In 1971 Mariner 9 arrived during a global dust storm and saw the summit poking above the dust."
+    }
+  ],
+  "tags": [
+    "mars",
+    "records",
+    "scale",
+    "volcanoes"
+  ],
+  "related": [
+    "phobos-falling",
+    "mars-blue-sunset",
+    "martian-canals",
+    "io-volcanoes",
+    "chimborazo-summit"
+  ]
+}

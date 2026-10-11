@@ -1,0 +1,43 @@
+{
+  "id": "stable-matching",
+  "title": "The stable marriage problem",
+  "category": "Math",
+  "hook": "A 1962 matching puzzle now places doctors in hospitals and helped win a Nobel Prize.",
+  "peek": "Two mathematicians asked how to pair people up so that no two would both rather be with each other. Their simple answer, published in 1962, now assigns young doctors to hospitals and pupils to schools, and earned a Nobel Prize in economics.",
+  "lede": "In 1962 David Gale and Lloyd Shapley published a short paper about pairing up people who each rank the others. A matching is stable if no two people would both rather be together than with their assigned partners. Gale and Shapley proved a stable matching always exists, and gave a simple recipe for finding one, called deferred acceptance.",
+  "bullets": [
+    {
+      "opening": "Deferred acceptance",
+      "linkId": null,
+      "text": "One side makes offers to its top choices. Each person on the other side holds on to the best offer so far and turns down the rest. Rejected people move down their lists and try again, until no offers remain."
+    },
+    {
+      "opening": "The proposing side does best",
+      "linkId": null,
+      "text": "The recipe has a curious lean. Whichever side makes the offers ends up with the best partner it could have in any stable matching, while the receiving side ends up with its worst stable partner."
+    },
+    {
+      "opening": "The medical residency match",
+      "linkId": null,
+      "text": "Alvin Roth later found that the American system matching new doctors to hospitals had used essentially the same method since the early 1950s. In the 1990s he helped redesign it, including a way for couples to be placed together."
+    },
+    {
+      "opening": "The 2012 Nobel Prize",
+      "linkId": null,
+      "text": "Shapley and Roth shared the 2012 Nobel Memorial Prize in Economic Sciences for this work on stable matching. Gale-Shapley ideas also now assign pupils to schools in cities such as New York and Boston."
+    }
+  ],
+  "tags": [
+    "probability",
+    "patterns",
+    "history-of-things",
+    "games"
+  ],
+  "related": [
+    "cake-cutting",
+    "secretary-problem",
+    "braess-paradox",
+    "erdos-number",
+    "friendship-paradox"
+  ]
+}

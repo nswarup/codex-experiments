@@ -1,0 +1,44 @@
+{
+  "id": "newton-indigo",
+  "title": "Why the rainbow has indigo",
+  "category": "Science",
+  "hook": "Newton gave the rainbow seven colours partly to match the musical scale.",
+  "peek": "Isaac Newton first described the spectrum with five colours. He later added orange and indigo to make seven, in part because he believed colours and the notes of a musical scale followed the same pattern.",
+  "lede": "A rainbow is a smooth blend, with no real borders between its colours. Someone had to decide where to draw the lines, and that was Isaac Newton. In his early notes on splitting sunlight with a prism he listed five main colours: red, yellow, green, blue and violet. Later he added orange and indigo, giving seven, the number of notes in a musical scale.",
+  "bullets": [
+    {
+      "opening": "The musical scale of colour",
+      "linkId": null,
+      "text": "Newton thought harmony might run through nature. In his book Opticks of 1704 he divided the spectrum into bands whose widths matched the string lengths of a musical scale, so each colour lined up with a note."
+    },
+    {
+      "opening": "What Newton meant by blue",
+      "linkId": null,
+      "text": "Historians suggest colour words have drifted. Newton's indigo may be close to what we now call blue, and his blue nearer to the greenish blue we call cyan."
+    },
+    {
+      "opening": "The indigo debate",
+      "linkId": null,
+      "text": "Many people say they cannot pick out indigo as a separate band at all. Some modern science books drop it and list six colours, while others keep Newton's seven."
+    },
+    {
+      "opening": "Roy G. Biv",
+      "linkId": null,
+      "text": "Seven colours gave English speakers their mnemonics: the name Roy G. Biv in America, and in Britain the line Richard Of York Gave Battle In Vain."
+    }
+  ],
+  "tags": [
+    "color",
+    "light",
+    "names",
+    "music-theory"
+  ],
+  "related": [
+    "rainbow-circles",
+    "magenta-no-wavelength",
+    "newtons-apple-tree",
+    "pythagorean-comma",
+    "tyndall-blue-sky",
+    "double-slit-experiment"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "first-text-message",
+  "title": "The first text message",
+  "category": "Tech",
+  "hook": "The first text message said Merry Christmas and was typed on a computer.",
+  "peek": "In December 1992 an engineer in England sent the first text message to a mobile phone. It said Merry Christmas. He had to type it on a computer, and the man who received it had no way to text back.",
+  "lede": "On 3 December 1992, Neil Papworth, a 22-year-old engineer working on Vodafone's network in England, sent the first SMS. It read \"Merry Christmas\" and went to Richard Jarvis, a Vodafone director, who was at a staff Christmas party with his phone. Papworth typed it on a computer, because no handset could yet write a text.",
+  "bullets": [
+    {
+      "opening": "The Orbitel 901 handset",
+      "linkId": null,
+      "text": "Jarvis received the message on an Orbitel 901, a phone that weighed about two kilograms. It could display a text but not send one, so the very first message never got a reply."
+    },
+    {
+      "opening": "The first phones that could text",
+      "linkId": null,
+      "text": "Nokia's handsets were among the first to let people type and send texts, from 1993. Even then, texting between different networks took several more years to arrive."
+    },
+    {
+      "opening": "Friedhelm Hillebrand's 160 characters",
+      "linkId": null,
+      "text": "The 160-character limit came from the German engineer Friedhelm Hillebrand. He typed sentences and questions on a typewriter and counted, and found that most short messages fit comfortably in that space."
+    }
+  ],
+  "tags": [
+    "communication",
+    "history-of-things",
+    "phones",
+    "firsts"
+  ],
+  "related": [
+    "fahlman-smiley",
+    "kurita-emoji",
+    "nokia-tune",
+    "hello-on-the-phone",
+    "arpanet-lo",
+    "email-at-sign"
+  ]
+}

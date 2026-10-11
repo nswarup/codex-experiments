@@ -1,0 +1,48 @@
+{
+  "id": "sixty-minute-hour",
+  "title": "Why an hour has 60 minutes",
+  "category": "Math",
+  "hook": "Our minutes and degrees still count in the base 60 of ancient Babylon.",
+  "peek": "Sixty minutes in an hour and 360 degrees in a circle are leftovers from Mesopotamian mathematics, which counted in sixties. Sixty splits evenly into halves, thirds, quarters, fifths and sixths, which made it a gift for people doing sums by hand.",
+  "lede": "Over 4,000 years ago, scribes in Mesopotamia did their arithmetic in base 60. The Babylonians inherited the system and used it for astronomy. It never went away. When we split an hour into 60 minutes, a minute into 60 seconds, or a circle into 360 degrees, we are still counting the way they did.",
+  "bullets": [
+    {
+      "opening": "Twelve ways to divide",
+      "linkId": null,
+      "text": "Sixty can be split evenly by 1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30 and 60. That makes fractions like a third or a quarter come out as whole numbers, which is handy without a calculator."
+    },
+    {
+      "opening": "The Egyptian 24 hours",
+      "linkId": null,
+      "text": "The number of hours came from elsewhere. Ancient Egyptians split the day and the night into 12 parts each, giving 24. Babylonian sixties were later used to divide those hours into smaller pieces."
+    },
+    {
+      "opening": "Greek astronomers' fractions",
+      "linkId": null,
+      "text": "Greek astronomers, including Ptolemy, adopted base-60 fractions for precise measurements of the sky. Splitting a degree, and later an hour, into sixtieths and then sixtieths again came through this tradition."
+    },
+    {
+      "opening": "First and second small parts",
+      "linkId": null,
+      "text": "In medieval Latin a sixtieth was pars minuta prima, the first small part, and a sixtieth of that was pars minuta secunda. Those phrases gave English the words minute and second."
+    },
+    {
+      "opening": "The 360-degree circle",
+      "linkId": null,
+      "text": "Why 360 degrees is less certain. A popular idea links it to the roughly 360 days of the year, but historians are not sure. What is clear is that 360 is six sixties and divides beautifully."
+    }
+  ],
+  "tags": [
+    "time",
+    "history-of-things",
+    "etymology",
+    "patterns"
+  ],
+  "related": [
+    "caesium-second",
+    "french-republican-calendar",
+    "leibniz-binary",
+    "grace-hopper-nanosecond",
+    "kushim"
+  ]
+}

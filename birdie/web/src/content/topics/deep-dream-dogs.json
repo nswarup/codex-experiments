@@ -1,0 +1,43 @@
+{
+  "id": "deep-dream-dogs",
+  "title": "Why Deep Dream saw dogs everywhere",
+  "category": "Tech",
+  "hook": "Google's dreaming neural network turned clouds and paintings into dogs.",
+  "peek": "In 2015 Google released Deep Dream, a tool that made a neural network exaggerate whatever it saw in a picture. Clouds became animals and skies filled with dog faces, because the images it learned from were full of dog breeds.",
+  "lede": "In 2015 a Google engineer, Alexander Mordvintsev, found a way to ask an image-recognition network what it was seeing, and then make it see more. Each pass strengthened the patterns it had spotted. The pictures that came out were swirling and strange, and almost always full of dogs. The reason lay in the photos the network had been trained on.",
+  "bullets": [
+    {
+      "opening": "Amplifying what the network sees",
+      "linkId": null,
+      "text": "Deep Dream feeds an image through the network, finds which features it is responding to, then nudges the image to boost them. Repeat that many times and a faint hint of fur or an eye grows into a full animal."
+    },
+    {
+      "opening": "The ImageNet dog breeds",
+      "linkId": null,
+      "text": "The network had learned from a popular ImageNet collection of 1,000 categories, and about 120 of them were dog breeds. Telling a husky from a malamute mattered a lot to its score, so dog features were everywhere in its vision."
+    },
+    {
+      "opening": "Inceptionism",
+      "linkId": null,
+      "text": "Google's researchers called the technique inceptionism in their blog post, after the Inception network they used. The images spread quickly online, and people ran their own photos and famous paintings through it."
+    },
+    {
+      "opening": "A window into the network",
+      "linkId": null,
+      "text": "The dogs were a useful lesson. Deep Dream showed what a network had actually learned, revealing that its idea of the world was shaped heavily by the quirks of its training pictures."
+    }
+  ],
+  "tags": [
+    "ai",
+    "perception",
+    "illusions",
+    "patterns"
+  ],
+  "related": [
+    "imagenet-labelers",
+    "google-cat-neuron",
+    "pareidolia",
+    "clever-hans",
+    "perceptron-1958"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "ulam-spiral",
+  "title": "The Ulam spiral",
+  "category": "Math",
+  "hook": "A doodle in a dull 1963 talk showed the primes lining up in diagonal streaks.",
+  "peek": "Write the whole numbers in a square spiral and circle the primes. They ought to look scattered at random, but they bunch along diagonal lines. Stanisław Ulam spotted this while doodling through a boring talk in 1963.",
+  "lede": "In 1963 the mathematician Stanisław Ulam sat through a long, dull talk at a scientific meeting and began doodling. He wrote 1 in the middle of a grid, then 2, 3, 4 and onward in a square spiral, and circled the prime numbers. Primes are famously irregular, yet on his page they clustered along diagonal lines.",
+  "bullets": [
+    {
+      "opening": "The Los Alamos computer plots",
+      "linkId": null,
+      "text": "Back at Los Alamos, Ulam and colleagues used the MANIAC II computer to plot the spiral out to tens of thousands of numbers. The diagonal streaks did not fade, which showed the doodle was no fluke."
+    },
+    {
+      "opening": "Martin Gardner's column",
+      "linkId": "gardner-mathematical-games",
+      "text": "The spiral appeared on the cover of Scientific American in March 1964, alongside Martin Gardner's Mathematical Games column. That brought Ulam's doodle to a wide audience of puzzle fans."
+    },
+    {
+      "opening": "Diagonals as formulas",
+      "linkId": null,
+      "text": "Each diagonal line on the spiral matches a simple formula with an n squared in it. Some such formulas are unusually rich in primes, and the spiral makes that richness visible as bright streaks."
+    },
+    {
+      "opening": "Euler's prime formula",
+      "linkId": null,
+      "text": "One famous example is n squared + n + 41, found by Leonhard Euler. It gives a prime for every n from 0 to 39, and in a spiral started at 41 those primes line up along one long diagonal."
+    }
+  ],
+  "tags": [
+    "primes",
+    "patterns",
+    "numbers",
+    "accidents"
+  ],
+  "related": [
+    "largest-known-prime",
+    "collatz-conjecture",
+    "kaprekar-constant",
+    "gardner-mathematical-games",
+    "pascal-triangle-sierpinski"
+  ]
+}

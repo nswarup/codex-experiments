@@ -1,0 +1,44 @@
+{
+  "id": "helium-voice",
+  "title": "Helium doesn't raise your voice",
+  "category": "Science",
+  "hook": "Helium makes your voice squeaky, but it does not change its pitch.",
+  "peek": "A breath of helium makes anyone sound like a cartoon duck. Yet the vocal cords keep vibrating at the same rate as before. What changes is how sound travels through the gas filling the throat and mouth.",
+  "lede": "The squeaky helium voice is not a higher voice in the musical sense. Vocal cords vibrate at the same rate whatever gas is in the lungs, so the basic pitch stays put. But sound travels almost three times faster in helium than in air, and that shifts the resonances of the throat and mouth upward, changing the voice's tone.",
+  "bullets": [
+    {
+      "opening": "Vocal tract resonances",
+      "linkId": null,
+      "text": "The throat, mouth and nose act like a set of tubes that boost certain bands of frequencies, called formants. Where they sit depends on the speed of sound. In helium they move much higher, so the voice's higher overtones get louder."
+    },
+    {
+      "opening": "Pitch versus timbre",
+      "linkId": null,
+      "text": "The note you hear comes from how often the vocal cords open and close each second. Helium changes timbre instead, the quality that tells a flute from a violin playing the same note."
+    },
+    {
+      "opening": "Sulfur hexafluoride's deep voice",
+      "linkId": null,
+      "text": "A much heavier gas, sulfur hexafluoride, does the opposite. Sound travels more slowly in it, the resonances shift down, and voices sound deep and booming, again with little change to the pitch itself."
+    },
+    {
+      "opening": "Divers' helium speech",
+      "linkId": null,
+      "text": "Deep-sea divers breathe gas mixtures rich in helium, which makes their speech hard to follow. Diving teams use electronic unscramblers that shift the resonances back down so voices sound clear again."
+    }
+  ],
+  "tags": [
+    "acoustics",
+    "perception",
+    "myths-busted",
+    "physics"
+  ],
+  "related": [
+    "superfluid-helium",
+    "missing-fundamental",
+    "recorded-voice",
+    "voder",
+    "shepard-tone",
+    "tuvan-throat-singing"
+  ]
+}

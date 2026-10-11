@@ -1,0 +1,43 @@
+{
+  "id": "fahlman-smiley",
+  "title": "The first :-)",
+  "category": "Tech",
+  "hook": "Three keyboard characters were first suggested in 1982 to mark which posts were jokes.",
+  "peek": "On a Carnegie Mellon University message board in 1982, a joke was taken seriously and caused a mild fuss. Computer scientist Scott Fahlman suggested a simple fix: tag joking posts with a colon, a hyphen and a bracket, and read them sideways.",
+  "lede": "In September 1982, people at Carnegie Mellon University in Pittsburgh used an online bulletin board to chat, argue and joke. Sarcasm kept getting misread in plain text. After one tongue-in-cheek post caused confusion, Scott Fahlman proposed a marker for jokes: :-). He suggested its frowning partner, :-(, for posts that were serious. Readers were told to tilt their heads to see the faces.",
+  "bullets": [
+    {
+      "opening": "The mercury joke",
+      "linkId": null,
+      "text": "The trigger was a physics puzzle about an elevator. Someone posted a mock warning that a lift had been contaminated with mercury, and some readers took it at face value. A joke label suddenly looked useful."
+    },
+    {
+      "opening": "Read it sideways",
+      "linkId": null,
+      "text": "Fahlman's post was short and practical. He wrote that people should read the symbol sideways and that, given recent trends, it might be more useful to mark the things that were not jokes."
+    },
+    {
+      "opening": "The lost post found again",
+      "linkId": null,
+      "text": "The original message was not kept, and for years nobody could prove what it said. In 2002 a team at Carnegie Mellon searched old backup tapes and recovered it, confirming the date as 19 September 1982."
+    },
+    {
+      "opening": "Scott Fahlman's other work",
+      "linkId": null,
+      "text": "Fahlman spent his career researching artificial intelligence at Carnegie Mellon. He never tried to profit from the smiley, which spread from the board to other universities over early computer networks."
+    }
+  ],
+  "tags": [
+    "communication",
+    "inventors",
+    "history-of-things",
+    "internet"
+  ],
+  "related": [
+    "kurita-emoji",
+    "email-at-sign",
+    "spam-monty-python",
+    "first-text-message",
+    "hello-world"
+  ]
+}

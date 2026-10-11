@@ -1,0 +1,44 @@
+{
+  "id": "chladni-figures",
+  "title": "Chladni figures",
+  "category": "Science",
+  "hook": "Bow the edge of a metal plate and sand on it draws a pattern of sound.",
+  "peek": "Sprinkle sand on a thin metal plate and stroke its edge with a violin bow. As the plate sings, the sand leaps into crisp lines, stars and grids. Each pattern is a picture of how the plate is vibrating.",
+  "lede": "In 1787 the German physicist and musician Ernst Chladni published a book on the theory of sound with a striking demonstration. He clamped a thin plate at its centre, sprinkled it with sand and drew a violin bow along the edge. As the plate rang, the sand bounced off the moving parts and gathered along still lines, drawing intricate geometric patterns.",
+  "bullets": [
+    {
+      "opening": "Nodal lines",
+      "linkId": null,
+      "text": "The plate does not vibrate everywhere at once. It splits into regions that move in opposite directions, separated by lines that hardly move at all. The sand is shaken off the busy regions and comes to rest on these quiet lines."
+    },
+    {
+      "opening": "Higher notes, finer patterns",
+      "linkId": null,
+      "text": "Bowing at a different spot, or touching the plate with a finger, makes it ring at another note. Higher notes split the plate into more regions, so the figures become denser and more intricate."
+    },
+    {
+      "opening": "Chladni and Napoleon",
+      "linkId": null,
+      "text": "Chladni toured Europe showing his figures. In 1809 he demonstrated them to Napoleon, who paid for a French translation of his book and backed a prize for a mathematical theory of vibrating plates."
+    },
+    {
+      "opening": "Tuning violin plates",
+      "linkId": null,
+      "text": "Violin and guitar makers still use the method. They sprinkle glitter or tea leaves on an unfinished top plate, vibrate it with a loudspeaker and shave the wood until the patterns look right."
+    }
+  ],
+  "tags": [
+    "acoustics",
+    "patterns",
+    "physics",
+    "music-tech"
+  ],
+  "related": [
+    "sophie-germain-leblanc",
+    "stradivarius",
+    "singing-dunes",
+    "turing-patterns",
+    "glass-armonica",
+    "missing-fundamental"
+  ]
+}

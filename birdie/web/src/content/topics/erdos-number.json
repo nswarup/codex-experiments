@@ -1,0 +1,48 @@
+{
+  "id": "erdos-number",
+  "title": "The Erdős number",
+  "category": "Math",
+  "hook": "Mathematicians still count how many steps they are from one wandering man.",
+  "peek": "Paul Erdős wrote around 1,500 papers with more than 500 co-authors, travelling with little more than a suitcase. Mathematicians honour him with a number: 1 if you wrote a paper with him, 2 if you wrote with one of his co-authors, and so on.",
+  "lede": "Paul Erdős, a Hungarian mathematician who lived from 1913 to 1996, had no fixed home for much of his life. He travelled from one university to the next with a half-empty suitcase, staying with colleagues and working on problems with them. He wrote around 1,500 papers with more than 500 co-authors, so many that mathematicians began measuring their distance from him.",
+  "bullets": [
+    {
+      "opening": "How the number works",
+      "linkId": null,
+      "text": "Erdős himself has Erdős number 0. Anyone who wrote a paper with him has 1, their co-authors who did not have 2, and so on. People with no chain of co-authors back to him have an infinite Erdős number."
+    },
+    {
+      "opening": "The Erdős Number Project",
+      "linkId": null,
+      "text": "Researchers at Oakland University track the collaboration network. They have found that most working mathematicians are only a few steps away, with a typical Erdős number of about 5."
+    },
+    {
+      "opening": "Erdős's cash prizes",
+      "linkId": null,
+      "text": "Erdős offered his own money for solutions to problems he posed, from a few dollars up to thousands. Some winners framed his cheques instead of cashing them."
+    },
+    {
+      "opening": "The coffee quip",
+      "linkId": null,
+      "text": "Erdős loved to repeat that a mathematician is a machine for turning coffee into theorems. The line is usually credited to him, but it seems to have come from his friend and collaborator Alfréd Rényi."
+    },
+    {
+      "opening": "The Erdős-Bacon number",
+      "linkId": null,
+      "text": "A playful extension adds your Erdős number to your Bacon number, the steps to the actor Kevin Bacon through shared films. A few people, including some actors who have co-written science papers, have a finite score."
+    }
+  ],
+  "tags": [
+    "collaboration",
+    "networks",
+    "mathematicians",
+    "names"
+  ],
+  "related": [
+    "friendship-paradox",
+    "konigsberg-bridges",
+    "nicolas-bourbaki",
+    "perelman-prize",
+    "gardner-mathematical-games"
+  ]
+}

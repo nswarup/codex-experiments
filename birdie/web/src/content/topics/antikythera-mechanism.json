@@ -1,0 +1,44 @@
+{
+  "id": "antikythera-mechanism",
+  "title": "The Antikythera mechanism",
+  "category": "Tech",
+  "hook": "A lump from a Greek shipwreck turned out to be a 2,000-year-old geared calculator.",
+  "peek": "Divers recovered a corroded lump of bronze from a Roman-era shipwreck in 1901. Inside were dozens of finely cut gears that modelled the sky, predicting eclipses and the phases of the Moon.",
+  "lede": "In 1900 sponge divers found an ancient shipwreck off the Greek island of Antikythera. Among the statues and pottery raised in 1901 was a shoebox-sized lump of corroded bronze and wood. The next year an archaeologist noticed a gear wheel in it. It took most of the next century to understand that it was a hand-cranked model of the heavens, made around 2,000 years ago.",
+  "bullets": [
+    {
+      "opening": "The 2005 X-ray scans",
+      "linkId": null,
+      "text": "Detailed CT scans in 2005 looked inside the 82 surviving fragments. They revealed at least 30 bronze gears with tiny triangular teeth, and thousands of characters of inscriptions that work like a user's manual."
+    },
+    {
+      "opening": "The eclipse prediction dial",
+      "linkId": null,
+      "text": "A spiral dial on the back follows the 18-year Saros cycle used to predict eclipses. Another small dial tracks the four-year cycle of athletic games, including the Olympics. A rotating ball on the front showed the Moon's phase."
+    },
+    {
+      "opening": "The Moon's changing speed",
+      "linkId": null,
+      "text": "A clever pin-and-slot pair of gears makes the Moon pointer speed up and slow down, matching how the real Moon appears to move. The gearing for the five known planets is lost, but the inscriptions show the device displayed them."
+    },
+    {
+      "opening": "Derek de Solla Price",
+      "linkId": null,
+      "text": "The historian Derek de Solla Price spent years on the fragments from the 1950s and made the full case that it was a gear-driven calculator. Nothing of similar complexity is known again until medieval astronomical clocks, over a thousand years later."
+    }
+  ],
+  "tags": [
+    "history-of-things",
+    "space-exploration",
+    "machines",
+    "calendars"
+  ],
+  "related": [
+    "difference-engine-built",
+    "harrison-clocks",
+    "eclipse-coincidence",
+    "royal-game-of-ur",
+    "rosetta-stone",
+    "clock-of-the-long-now"
+  ]
+}

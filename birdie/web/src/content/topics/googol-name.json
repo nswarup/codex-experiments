@@ -1,0 +1,43 @@
+{
+  "id": "googol-name",
+  "title": "The googol",
+  "category": "Math",
+  "hook": "A nine-year-old named the number 1 followed by a hundred zeros.",
+  "peek": "A googol is 1 followed by 100 zeros, more than the number of atoms in the observable universe. Its name came from a nine-year-old boy asked by his mathematician uncle, and a misspelling of it later named a search engine.",
+  "lede": "Around 1920 the American mathematician Edward Kasner wanted a friendly name for a very large number, 1 followed by 100 zeros. He asked his nine-year-old nephew, Milton Sirotta, what to call it. Milton suggested googol. Kasner liked it enough to put it in print, and a child's made-up word became a recognised mathematical term.",
+  "bullets": [
+    {
+      "opening": "Mathematics and the Imagination",
+      "linkId": null,
+      "text": "Kasner made the word famous in Mathematics and the Imagination, a 1940 popular book written with James Newman. He used the googol to show that a number can be huge yet still exactly defined."
+    },
+    {
+      "opening": "More than every atom",
+      "linkId": null,
+      "text": "A googol is far larger than the number of atoms in the observable universe, usually estimated at around 10 to the power 80. Yet it is easy to write down: 10 to the power 100."
+    },
+    {
+      "opening": "The googolplex",
+      "linkId": null,
+      "text": "Milton also proposed the googolplex, which he described as a 1 followed by zeros until your hand gets tired. Kasner fixed it as 1 followed by a googol zeros, a number with too many digits to write out in the universe."
+    },
+    {
+      "opening": "Google's name",
+      "linkId": "google-googol",
+      "text": "The search engine's name is the googol misspelt. The usual story is that the spelling google came from a slip while checking whether a web address was free."
+    }
+  ],
+  "tags": [
+    "names",
+    "etymology",
+    "scale",
+    "numbers"
+  ],
+  "related": [
+    "google-googol",
+    "grahams-number",
+    "fifty-two-factorial",
+    "largest-known-prime",
+    "shannon-number"
+  ]
+}

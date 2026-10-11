@@ -1,0 +1,44 @@
+{
+  "id": "perseus-black-hole-note",
+  "title": "The black hole that hums a B-flat",
+  "category": "Space",
+  "hook": "A black hole in the Perseus cluster sounds a B-flat 57 octaves below middle C.",
+  "peek": "In 2003 the Chandra X-ray telescope spotted ripples in the hot gas around a giant black hole 250 million light-years away. They are sound waves, and their pitch works out to a B-flat far too deep for any ear to hear.",
+  "lede": "The Perseus galaxy cluster is filled with thin, very hot gas, and sound can travel through it. In 2003 Andrew Fabian and colleagues used NASA's Chandra X-ray Observatory to image ripples spreading out from the giant black hole at the cluster's centre. Working out their pitch gave a B-flat about 57 octaves below middle C, the deepest note known from any object in the universe.",
+  "bullets": [
+    {
+      "opening": "One wave every 10 million years",
+      "linkId": null,
+      "text": "Each ripple takes about 10 million years to pass. That makes the note more than a million billion times lower than the deepest sound a human can hear."
+    },
+    {
+      "opening": "Bubbles blown by jets",
+      "linkId": null,
+      "text": "The waves start with jets of material blasted out as matter falls towards the black hole. The jets inflate huge bubbles in the gas, and their pushing sets off ripples that show in Chandra's images as faint rings."
+    },
+    {
+      "opening": "Keeping the cluster warm",
+      "linkId": null,
+      "text": "The sound waves carry energy outwards and help heat the surrounding gas. That may explain a long-standing puzzle: why the gas in clusters like Perseus has not cooled and formed far more new stars than astronomers see."
+    },
+    {
+      "opening": "Made audible in 2022",
+      "linkId": null,
+      "text": "NASA turned the data into sound in 2022 by raising the waves 57 and 58 octaves, about 144 and 288 quadrillion times their real frequency. The result is a deep, shifting hum."
+    }
+  ],
+  "tags": [
+    "black-holes",
+    "acoustics",
+    "music",
+    "scale"
+  ],
+  "related": [
+    "missing-fundamental",
+    "ligo-chirp",
+    "m87-hard-drives",
+    "organ-aslsp",
+    "thx-deep-note",
+    "shepard-tone"
+  ]
+}

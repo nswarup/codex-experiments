@@ -1,0 +1,48 @@
+{
+  "id": "mandelbrot-set",
+  "title": "The Mandelbrot set",
+  "category": "Math",
+  "hook": "A one-line rule produces a shape with endless detail at every zoom.",
+  "peek": "Take a number, square it, add a constant, and repeat. Depending on the constant, the result either stays small or flies off to infinity. Colour the constants that stay small and you get the Mandelbrot set, a shape that never runs out of detail.",
+  "lede": "The rule fits on one line: start at zero, square the number and add a fixed number c, then repeat. For some values of c the result stays bounded forever. For others it races off to infinity. Plot every c that stays bounded on the plane of complex numbers and a black, bulbous figure appears, fringed with spirals, tendrils and miniature copies of itself.",
+  "bullets": [
+    {
+      "opening": "Benoit Mandelbrot at IBM",
+      "linkId": null,
+      "text": "Working at IBM's research centre in New York, Benoit Mandelbrot used its computers to plot the shape around 1980. A cruder picture had been published in 1978 by Robert Brooks and Peter Matelski."
+    },
+    {
+      "opening": "The escape test",
+      "linkId": null,
+      "text": "Computers draw it with a simple check: once the running number is more than 2 away from zero, it is certain to escape. The colourful bands in famous images show how many steps each point took to cross that line."
+    },
+    {
+      "opening": "Douady and Hubbard",
+      "linkId": null,
+      "text": "The French mathematician Adrien Douady and the American John Hubbard named the set after Mandelbrot. In 1982 they proved it is connected, meaning it is all one piece, despite looking scattered at the edges."
+    },
+    {
+      "opening": "Mini Mandelbrots",
+      "linkId": null,
+      "text": "Zoom into the boundary and small copies of the whole set keep turning up, each surrounded by its own new decoration. The copies are close relatives rather than perfect duplicates."
+    },
+    {
+      "opening": "The dimension of the boundary",
+      "linkId": null,
+      "text": "In 1998 Mitsuhiro Shishikura proved that the edge of the set has a fractal dimension of 2, the highest possible for a curve in a flat plane. It is about as wiggly as a line can get."
+    }
+  ],
+  "tags": [
+    "fractals",
+    "infinity",
+    "patterns",
+    "computing"
+  ],
+  "related": [
+    "coastline-paradox",
+    "pascal-triangle-sierpinski",
+    "game-of-life",
+    "ulam-spiral",
+    "collatz-conjecture"
+  ]
+}

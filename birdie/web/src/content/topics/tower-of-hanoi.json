@@ -1,0 +1,43 @@
+{
+  "id": "tower-of-hanoi",
+  "title": "The Tower of Hanoi",
+  "category": "Math",
+  "hook": "A toy puzzle whose 64-disc legend would take about 585 billion years to finish.",
+  "peek": "Move a stack of discs from one peg to another, one at a time, never putting a bigger disc on a smaller one. With eight discs it is a pleasant puzzle. With the 64 golden discs of its made-up legend, it would outlast the universe many times over.",
+  "lede": "The Tower of Hanoi has three pegs and a stack of discs, largest at the bottom. The goal is to move the whole stack to another peg, one disc at a time, never placing a larger disc on a smaller one. Three discs take 7 moves. Each extra disc roughly doubles the work, so n discs need 2 to the power n, minus one, moves.",
+  "bullets": [
+    {
+      "opening": "Édouard Lucas",
+      "linkId": null,
+      "text": "The French mathematician Édouard Lucas brought the puzzle out in 1883 under the name N. Claus de Siam, an anagram of Lucas d'Amiens. The toy came in a box with eight wooden discs and a story about its origins."
+    },
+    {
+      "opening": "The legend of Benares",
+      "linkId": null,
+      "text": "The story told of priests in a great temple moving 64 golden discs, and that the world would end when they finished. It reads like ancient lore, but historians think Lucas or his circle invented it to sell the puzzle."
+    },
+    {
+      "opening": "Eighteen quintillion moves",
+      "linkId": null,
+      "text": "Sixty-four discs need 18,446,744,073,709,551,615 moves. At one move per second without a break, that is about 585 billion years, more than 40 times the present age of the universe."
+    },
+    {
+      "opening": "A binary counting pattern",
+      "linkId": null,
+      "text": "The fastest solution follows a neat rhythm. The smallest disc moves on every other turn, always cycling in the same direction, and the disc moved at each step matches the digit that changes when you count up in binary."
+    }
+  ],
+  "tags": [
+    "games",
+    "infinity",
+    "scale",
+    "patterns"
+  ],
+  "related": [
+    "fifteen-puzzle",
+    "grahams-number",
+    "fifty-two-factorial",
+    "leibniz-binary",
+    "gods-number"
+  ]
+}

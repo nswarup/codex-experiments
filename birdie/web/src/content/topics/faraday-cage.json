@@ -1,0 +1,44 @@
+{
+  "id": "faraday-cage",
+  "title": "Faraday's cage",
+  "category": "Science",
+  "hook": "Michael Faraday sat inside a metal-covered room while sparks flew outside.",
+  "peek": "In 1836 Michael Faraday built a wooden room, covered it in metal, climbed inside and had it charged with powerful sparks. His instruments inside showed nothing at all, because electric charge stays on the outside of a conductor.",
+  "lede": "In 1836 Michael Faraday built a wooden cube about 12 feet on each side at the Royal Institution in London and covered it with copper wire and tin foil. He went inside with his most sensitive instruments, and an electrical machine charged the outside so strongly that sparks leapt from its surface. Inside, he found no sign of electricity at all.",
+  "bullets": [
+    {
+      "opening": "Charge on the outside",
+      "linkId": null,
+      "text": "Charges on a conductor push one another apart, so they spread over its outer surface and arrange themselves to cancel any electric field inside. A closed metal box, or a fine mesh, keeps the inside calm."
+    },
+    {
+      "opening": "The microwave oven door",
+      "linkId": null,
+      "text": "A microwave oven is a Faraday cage. The metal mesh in its door has holes small enough to block the microwaves, which are several centimetres long, while letting through visible light, so you can watch your food."
+    },
+    {
+      "opening": "Cars and lightning",
+      "linkId": null,
+      "text": "People often credit rubber tyres for keeping a car safe in a lightning storm. The real reason is the metal body: the current travels around the outside and into the ground."
+    },
+    {
+      "opening": "Lifts and lost signal",
+      "linkId": null,
+      "text": "Phones often lose signal in a lift because its metal box acts like a rough Faraday cage. Rooms that hold sensitive scanners are deliberately lined with metal for the same effect."
+    }
+  ],
+  "tags": [
+    "electricity",
+    "experiments",
+    "inventors",
+    "physics"
+  ],
+  "related": [
+    "gold-leaf-green",
+    "lightning-strikes-twice",
+    "microwave-chocolate",
+    "magdeburg-hemispheres",
+    "catatumbo-lightning",
+    "carrington-event"
+  ]
+}

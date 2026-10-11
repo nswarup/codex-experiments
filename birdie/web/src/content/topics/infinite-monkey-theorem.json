@@ -1,0 +1,44 @@
+{
+  "id": "infinite-monkey-theorem",
+  "title": "The infinite monkey theorem",
+  "category": "Math",
+  "hook": "Random typing will produce Shakespeare in the end, but not in this universe.",
+  "peek": "Given infinite time, a monkey hitting keys at random will almost surely type the complete works of Shakespeare. The catch is the wait. Even a single short play would take so long that the age of the universe is a rounding error.",
+  "lede": "The idea is simple. A monkey pressing typewriter keys at random, forever, will with probability one eventually type any text you like, including all of Shakespeare. Any finite string of letters has some tiny chance of appearing at each attempt, and endless attempts make it certain. The surprise is in the numbers: certain in theory, hopeless in practice.",
+  "bullets": [
+    {
+      "opening": "Émile Borel's typing monkeys",
+      "linkId": null,
+      "text": "The French mathematician Émile Borel used the image in 1913 to talk about events so unlikely that, while possible, they would never be seen in practice. His monkeys were aiming at the books of the world's great libraries."
+    },
+    {
+      "opening": "The size of the wait",
+      "linkId": null,
+      "text": "Hamlet runs to well over 100,000 characters. With about 30 keys, the chance of typing it correctly in one go is roughly one in 10 to the power of more than 150,000, a number that dwarfs any count of atoms or seconds."
+    },
+    {
+      "opening": "The 2024 chimpanzee estimate",
+      "linkId": null,
+      "text": "In 2024 two Australian mathematicians, Stephen Woodcock and Jay Falletta, worked out that even every chimpanzee alive, typing until the universe winds down, would almost certainly never finish Shakespeare. One chimp would have about a 5% chance of typing bananas."
+    },
+    {
+      "opening": "The Paignton Zoo keyboard",
+      "linkId": null,
+      "text": "In 2003 students from Plymouth gave a keyboard to six macaques at Paignton Zoo for a month. They produced about five pages, mostly the letter S, which ended any hope of a sonnet."
+    }
+  ],
+  "tags": [
+    "probability",
+    "infinity",
+    "scale",
+    "myths-busted"
+  ],
+  "related": [
+    "library-of-babel",
+    "fifty-two-factorial",
+    "monte-carlo-black-26",
+    "hilberts-hotel",
+    "buffons-needle",
+    "grahams-number"
+  ]
+}

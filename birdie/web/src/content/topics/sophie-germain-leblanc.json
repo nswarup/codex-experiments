@@ -1,0 +1,44 @@
+{
+  "id": "sophie-germain-leblanc",
+  "title": "Sophie Germain, alias Monsieur LeBlanc",
+  "category": "Math",
+  "hook": "A self-taught Parisian wrote to the greatest mathematician alive as a man.",
+  "peek": "Sophie Germain could not enrol at France's top science school because she was a woman. So she borrowed a man's name, Monsieur LeBlanc, and used it to correspond with Lagrange and Gauss, who only later learned who she really was.",
+  "lede": "Sophie Germain, born in Paris in 1776, taught herself mathematics from her father's books, reportedly against her family's wishes at first. When the École Polytechnique opened in 1794, it did not admit women. Germain got hold of the lecture notes anyway and sent in her work under the name of a former student, Monsieur LeBlanc.",
+  "bullets": [
+    {
+      "opening": "Lagrange finds her out",
+      "linkId": null,
+      "text": "The mathematician Joseph-Louis Lagrange was so struck by LeBlanc's work that he asked to meet the student. He discovered Germain and, rather than turning her away, encouraged her and became a mentor."
+    },
+    {
+      "opening": "Letters to Gauss",
+      "linkId": null,
+      "text": "From 1804 she wrote to Carl Friedrich Gauss as LeBlanc, sharing ideas on number theory. He learned her identity in 1806 and wrote back warmly, praising the courage and talent it took a woman to reach such work."
+    },
+    {
+      "opening": "Sophie Germain primes",
+      "linkId": null,
+      "text": "Her work on Fermat's Last Theorem proved a major special case for a family of primes. A prime p for which 2p + 1 is also prime is still called a Sophie Germain prime, such as 11 and 23."
+    },
+    {
+      "opening": "The vibrating plates prize",
+      "linkId": null,
+      "text": "In 1816 she won a prize from the French Academy of Sciences for a theory of how elastic surfaces vibrate, inspired by Chladni's sand patterns. She was the first woman to win one of its prizes."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "names",
+    "patterns",
+    "history-of-things"
+  ],
+  "related": [
+    "fermats-last-theorem",
+    "chladni-figures",
+    "lovelace-note-g",
+    "katherine-johnson",
+    "gauss-schoolboy-sum",
+    "hedy-lamarr"
+  ]
+}

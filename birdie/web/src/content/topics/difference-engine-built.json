@@ -1,0 +1,44 @@
+{
+  "id": "difference-engine-built",
+  "title": "Babbage's engine, finished in 1991",
+  "category": "Tech",
+  "hook": "Charles Babbage's calculating engine was finally built 142 years after he drew it.",
+  "peek": "Charles Babbage designed his Difference Engine No. 2 in the 1840s but never built it. In 1991, the Science Museum in London made one from his drawings, using only the precision available in his day, and it worked.",
+  "lede": "Charles Babbage, the Victorian mathematician, spent decades designing machines that could calculate mathematical tables without human error. He finished the drawings for his Difference Engine No. 2 between 1847 and 1849, but it was never made. In 1991, for the 200th anniversary of his birth, the Science Museum in London built the calculating section from his plans. It worked.",
+  "bullets": [
+    {
+      "opening": "Doron Swade's project",
+      "linkId": null,
+      "text": "The museum's curator Doron Swade led the build. A big question was whether Victorian workshops could have made the parts precisely enough, so the team kept to tolerances that were achievable in Babbage's time. The answer was yes."
+    },
+    {
+      "opening": "Eight thousand parts",
+      "linkId": null,
+      "text": "The finished engine has about 8,000 parts of bronze, cast iron and steel, weighs around five tonnes and is about 3.4 metres long. It is worked by turning a hand crank, and it calculates using numbers up to 31 digits long."
+    },
+    {
+      "opening": "The printer, added in 2000",
+      "linkId": null,
+      "text": "Babbage also designed a printer that would set results directly into type, to remove copying errors. The museum completed it in 2000. It too works, and it can produce printing plates."
+    },
+    {
+      "opening": "Difference Engine No. 1",
+      "linkId": null,
+      "text": "Babbage's earlier engine was abandoned in the 1830s after a dispute with his engineer, Joseph Clement, and the government stopped funding it. Only a demonstration piece was assembled, which Babbage showed to guests at his parties."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "history-of-things",
+    "computing-history",
+    "machines"
+  ],
+  "related": [
+    "lovelace-note-g",
+    "jacquard-punch-cards",
+    "antikythera-mechanism",
+    "harrison-clocks",
+    "slide-rule-apollo",
+    "eniac-programmers"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "apple-i-price",
+  "title": "The Apple I's $666.66 price",
+  "category": "Tech",
+  "hook": "Apple's first computer cost $666.66 because Wozniak liked repeating digits.",
+  "peek": "In 1976 the Apple I went on sale for $666.66. The number had nothing to do with omens: Steve Wozniak simply liked how repeating digits looked, and the sum was a tidy markup on the dealer price.",
+  "lede": "In July 1976 a small company called Apple started selling its first computer, the Apple I, for $666.66. Steve Wozniak, who designed it, later explained the odd figure: he liked numbers with repeating digits, and it was roughly a one-third markup on the $500 a shop paid for each board. He said he had no idea anyone would read anything darker into it.",
+  "bullets": [
+    {
+      "opening": "The Byte Shop order",
+      "linkId": null,
+      "text": "Paul Terrell, who ran the Byte Shop in Mountain View, California, ordered 50 machines at $500 each. That order turned Apple from a hobby into a business, and set the price the retail figure was built on."
+    },
+    {
+      "opening": "Selling a van and a calculator",
+      "linkId": null,
+      "text": "To pay for parts, Steve Jobs sold his Volkswagen van and Wozniak sold his HP-65 programmable calculator. The two founders raised about $1,300 between them."
+    },
+    {
+      "opening": "A computer without a case",
+      "linkId": null,
+      "text": "Buyers got a fully assembled circuit board and little else. They had to add their own keyboard, power supply, display and usually a wooden case. Only about 200 were made."
+    },
+    {
+      "opening": "Apple I auction prices",
+      "linkId": null,
+      "text": "Surviving working boards now sell at auction for hundreds of thousands of dollars, many hundreds of times the original $666.66."
+    }
+  ],
+  "tags": [
+    "history-of-things",
+    "inventors",
+    "numbers",
+    "personal-computers"
+  ],
+  "related": [
+    "intel-4004",
+    "moores-law",
+    "engelbart-mouse",
+    "command-key-symbol",
+    "clarus-dogcow",
+    "linux-just-a-hobby"
+  ]
+}

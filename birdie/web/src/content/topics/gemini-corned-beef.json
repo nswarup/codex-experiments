@@ -1,0 +1,43 @@
+{
+  "id": "gemini-corned-beef",
+  "title": "The corned beef sandwich in orbit",
+  "category": "Space",
+  "hook": "An astronaut smuggled a deli sandwich into orbit, and Congress heard about it.",
+  "peek": "On the first crewed Gemini flight in 1965, John Young pulled a corned beef sandwich from his spacesuit pocket and offered it to his commander. It floated, it crumbled, and it ended up being discussed in a congressional hearing.",
+  "lede": "Gemini 3 flew in March 1965 with Gus Grissom and John Young aboard, the first American spacecraft to carry two people. The crew was meant to taste-test official space food. Partway through the flight, Young produced something else: a corned beef sandwich on rye, smuggled aboard in a pocket of his spacesuit. Grissom took a bite before crumbs began drifting around the cabin.",
+  "bullets": [
+    {
+      "opening": "Wolfie's in Cocoa Beach",
+      "linkId": null,
+      "text": "The sandwich came from Wolfie's, a deli in Cocoa Beach, Florida. Fellow astronaut Wally Schirra, a famous joker, bought it and helped Young slip it aboard before launch."
+    },
+    {
+      "opening": "Floating crumbs in the cabin",
+      "linkId": null,
+      "text": "Rye bread crumbles, and in weightlessness the crumbs did not fall. Loose bits could drift into instruments or be breathed in, so Grissom quickly stowed the sandwich away."
+    },
+    {
+      "opening": "The congressional hearing",
+      "linkId": null,
+      "text": "Members of the House Appropriations Committee raised the sandwich at a hearing, asking whether the stunt had spoiled a planned food experiment. NASA promised it would not happen again, and Young received a formal reprimand."
+    },
+    {
+      "opening": "Why space bread changed",
+      "linkId": null,
+      "text": "The episode showed why food in orbit had to be crumb-free. Later crews switched to tortillas, which hold together, and that is still a staple on the International Space Station."
+    }
+  ],
+  "tags": [
+    "space-exploration",
+    "food-history",
+    "astronauts",
+    "rule-breaking"
+  ],
+  "related": [
+    "space-pen-myth",
+    "aldrin-felt-pen",
+    "sandwich-earl",
+    "zero-g-indicator",
+    "moon-golf"
+  ]
+}

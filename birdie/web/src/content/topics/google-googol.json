@@ -1,0 +1,43 @@
+{
+  "id": "google-googol",
+  "title": "How Google got its name",
+  "category": "Tech",
+  "hook": "Google began life as BackRub, and its name is a misspelt giant number.",
+  "peek": "Before it was Google, the Stanford search project of Larry Page and Sergey Brin was called BackRub. Its new name came from googol, a 1 followed by 100 zeros, spelt the wrong way when someone checked a web address.",
+  "lede": "In 1996 two Stanford graduate students, Larry Page and Sergey Brin, built a search engine that ranked pages by the links pointing to them. They called it BackRub, after those backlinks. When it needed a grander name, they reached for a number: the googol, a 1 followed by 100 zeros. The spelling they ended up with was a happy accident.",
+  "bullets": [
+    {
+      "opening": "The BackRub search engine",
+      "linkId": null,
+      "text": "BackRub ran on Stanford's own network and judged a page by how many other pages linked to it, and how important those were. That idea, later called PageRank, became the heart of Google."
+    },
+    {
+      "opening": "The misspelt domain check",
+      "linkId": null,
+      "text": "The usual account is that a fellow student, Sean Anderson, typed google.com instead of googol.com while checking whether the name was free. Page liked it, and the google.com domain was registered in September 1997."
+    },
+    {
+      "opening": "Milton Sirotta's googol",
+      "linkId": null,
+      "text": "The word googol was coined around 1920 by Milton Sirotta, the nine-year-old nephew of the mathematician Edward Kasner. Kasner wanted a fun name for a huge number, and he made it famous in a 1940 book."
+    },
+    {
+      "opening": "The Googleplex",
+      "linkId": null,
+      "text": "The joke carried on. Google's headquarters in Mountain View is the Googleplex, a nod to the googolplex, which is 1 followed by a googol zeros, far too many to write out even with every atom in the universe."
+    }
+  ],
+  "tags": [
+    "names",
+    "etymology",
+    "inventors",
+    "scale"
+  ],
+  "related": [
+    "googol-name",
+    "grahams-number",
+    "ok-origin",
+    "javascript-ten-days",
+    "linux-just-a-hobby"
+  ]
+}

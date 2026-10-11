@@ -1,0 +1,43 @@
+{
+  "id": "magdeburg-hemispheres",
+  "title": "The Magdeburg hemispheres",
+  "category": "Science",
+  "hook": "Two teams of horses could not pull apart two bowls held together by air.",
+  "peek": "In the 1650s Otto von Guericke pumped the air out of two copper half-spheres. With nothing inside, the outside air held them shut so hard that teams of horses could not separate them. Open a valve and they fell apart by hand.",
+  "lede": "Otto von Guericke was the mayor of Magdeburg in Germany and a keen experimenter. Around 1650 he built one of the first air pumps. He fitted two copper half-spheres together with a greased rim and pumped out the air between them. Nothing held them shut except the air outside, yet teams of horses pulling in opposite directions could not drag them apart.",
+  "bullets": [
+    {
+      "opening": "The Regensburg demonstration",
+      "linkId": null,
+      "text": "Guericke showed the trick in 1654 before Emperor Ferdinand III at the Imperial Diet in Regensburg, and again in Magdeburg. Accounts of the number of horses vary; the famous engraving shows two teams of eight."
+    },
+    {
+      "opening": "The air doing the pushing",
+      "linkId": null,
+      "text": "Nothing inside was sucking. The air around us presses on every surface, about a kilogram on each square centimetre. With the air inside removed, there was nothing to push back, and that pressure clamped the halves together."
+    },
+    {
+      "opening": "Opening the valve",
+      "linkId": null,
+      "text": "Once the horses gave up, Guericke opened a small valve. Air hissed back in, the pressure inside matched the outside, and the hemispheres simply came apart in his hands."
+    },
+    {
+      "opening": "One team would have done",
+      "linkId": null,
+      "text": "The second team of horses was showmanship. Tying one half to a post would have pulled just as hard, since the post pushes back as firmly as a second team. Guericke wanted a spectacle, and got one."
+    }
+  ],
+  "tags": [
+    "experiments",
+    "physics",
+    "air-pressure",
+    "inventors"
+  ],
+  "related": [
+    "cavendish-weighs-earth",
+    "foucault-pendulum",
+    "montgolfier-balloon",
+    "prince-ruperts-drop",
+    "galileo-pisa-myth"
+  ]
+}

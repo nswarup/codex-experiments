@@ -1,0 +1,44 @@
+{
+  "id": "core-rope-memory",
+  "title": "Core rope memory",
+  "category": "Tech",
+  "hook": "The software that flew Apollo to the Moon was woven by hand, one wire at a time.",
+  "peek": "The Apollo Guidance Computer kept its programs in core rope memory: copper wire threaded through or around tiny magnetic rings. Skilled workers at a Massachusetts factory wove the code, and once a rope was finished, the program could not be changed.",
+  "lede": "The computer that steered Apollo spacecraft did not store its programs on a disk or a chip. They were woven. Each bit was set by a strand of copper wire: passing through a small magnetic ring meant a 1, going around it meant a 0. Finished ropes were packed into modules and sealed, so the software was quite literally built into the hardware.",
+  "bullets": [
+    {
+      "opening": "Weaving at Raytheon",
+      "linkId": null,
+      "text": "The ropes were made at a Raytheon plant near Boston, largely by women with backgrounds in textiles and watchmaking. Guided by a machine that showed which core came next, they fed a needle of wire through the right cores, a job that took weeks for each program."
+    },
+    {
+      "opening": "\"LOL memory\"",
+      "linkId": null,
+      "text": "Engineers at MIT nicknamed it LOL memory, short for \"little old lady\", after the weavers. The nickname is affectionate shorthand, but the workers' precision was the reason the method worked at all."
+    },
+    {
+      "opening": "Many wires per core",
+      "linkId": null,
+      "text": "Each ring could carry dozens of wires, which made core rope far denser than ordinary magnetic memory of the time. It was also very hard to damage, an advantage in a spacecraft that shook and swung through extreme temperatures."
+    },
+    {
+      "opening": "Software frozen months early",
+      "linkId": null,
+      "text": "Because a rope could not be rewritten, programs had to be finished long before launch. A late fix meant weaving a new rope, which pushed the MIT team to test their code with unusual care."
+    }
+  ],
+  "tags": [
+    "space-exploration",
+    "memory",
+    "computers",
+    "craft"
+  ],
+  "related": [
+    "voyager-computers",
+    "apollo-12-lightning",
+    "slide-rule-apollo",
+    "katherine-johnson",
+    "apollo-playtex-suits",
+    "jacquard-punch-cards"
+  ]
+}

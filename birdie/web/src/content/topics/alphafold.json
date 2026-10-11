@@ -1,0 +1,44 @@
+{
+  "id": "alphafold",
+  "title": "AlphaFold and the protein-folding puzzle",
+  "category": "Science",
+  "hook": "An AI cracked a 50-year biology puzzle and shared a Nobel Prize for it.",
+  "peek": "Proteins fold into precise 3D shapes, and for half a century working out a shape from the recipe alone was one of biology's great puzzles. In 2020 an AI system called AlphaFold got close enough to solve it for most proteins.",
+  "lede": "Every protein is a chain of building blocks that folds into a particular 3D shape, and the shape decides what it does. In 1972 the chemist Christian Anfinsen argued that the chain's sequence alone should decide the fold. Predicting that fold became a famous puzzle. In 2020 AlphaFold, from Google DeepMind, began predicting many shapes almost as accurately as lab experiments.",
+  "bullets": [
+    {
+      "opening": "The CASP competition",
+      "linkId": null,
+      "text": "Since 1994 scientists have held a contest every two years called CASP, where teams predict protein shapes that have been measured but not yet published. At CASP14 in 2020, AlphaFold's predictions were far ahead of every other team."
+    },
+    {
+      "opening": "Levinthal's paradox",
+      "linkId": null,
+      "text": "In 1969 Cyrus Levinthal pointed out that a protein could never fold by trying every possible shape, as that would take longer than the age of the universe. Yet real proteins fold in a fraction of a second."
+    },
+    {
+      "opening": "200 million structures",
+      "linkId": null,
+      "text": "In 2022 DeepMind and the European Bioinformatics Institute released predicted shapes for more than 200 million proteins, nearly every one known to science, free for anyone to use."
+    },
+    {
+      "opening": "The 2024 Nobel Prize",
+      "linkId": null,
+      "text": "Demis Hassabis and John Jumper of Google DeepMind shared half of the 2024 Nobel Prize in Chemistry for AlphaFold. The other half went to David Baker for designing new proteins."
+    }
+  ],
+  "tags": [
+    "ai",
+    "biology",
+    "puzzles",
+    "nobel-prize"
+  ],
+  "related": [
+    "move-37",
+    "alphazero-chess",
+    "attention-is-all-you-need",
+    "imagenet-labelers",
+    "mendel-peas",
+    "turing-patterns"
+  ]
+}

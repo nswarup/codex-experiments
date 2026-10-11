@@ -1,0 +1,43 @@
+{
+  "id": "io-volcanoes",
+  "title": "Io's volcanoes and Linda Morabito",
+  "category": "Space",
+  "hook": "Jupiter's moon Io has hundreds of active volcanoes, first spotted in a navigation photo.",
+  "peek": "In 1979 a Voyager engineer named Linda Morabito was checking star positions in a photo of Io when she saw a strange crescent on its edge. It was a volcanic plume, and Io turned out to be the most volcanic world we know.",
+  "lede": "Io is a little larger than Earth's Moon, and it has around 400 active volcanoes, more than anywhere else in the Solar System. Nobody knew this until March 1979, after Voyager 1 swept past Jupiter. Linda Morabito, a navigation engineer at NASA's Jet Propulsion Laboratory, was studying an overexposed image of Io and noticed a faint, umbrella-shaped cloud rising off its rim.",
+  "bullets": [
+    {
+      "opening": "Linda Morabito's crescent",
+      "linkId": null,
+      "text": "She was using the stars behind Io to pin down the spacecraft's exact path, so the moon itself was overexposed. The odd shape beside it was no star or moon. It was a plume hundreds of kilometres high, from a volcano later named Pele."
+    },
+    {
+      "opening": "A prediction days earlier",
+      "linkId": null,
+      "text": "Only days before the flyby, Stanton Peale, Patrick Cassen and Ray Reynolds had published a paper arguing that tides from Jupiter should heat Io's interior enough to melt rock. Their forecast was confirmed almost at once."
+    },
+    {
+      "opening": "Squeezed by Jupiter",
+      "linkId": null,
+      "text": "Regular tugs from Europa and Ganymede keep Io's orbit slightly oval. As its distance from Jupiter changes, the giant planet's gravity flexes the moon, and that constant kneading makes enough heat to keep its volcanoes erupting."
+    },
+    {
+      "opening": "Loki Patera",
+      "linkId": null,
+      "text": "Io's biggest volcanic feature is Loki Patera, a lake of lava about 200 kilometres across that brightens and dims in cycles. Close flybys by NASA's Juno spacecraft in 2023 and 2024 photographed it in new detail."
+    }
+  ],
+  "tags": [
+    "moons",
+    "volcanoes",
+    "jupiter",
+    "space-exploration"
+  ],
+  "related": [
+    "europa-ocean",
+    "ganymede-bigger-than-mercury",
+    "great-red-spot",
+    "olympus-mons",
+    "golden-record"
+  ]
+}

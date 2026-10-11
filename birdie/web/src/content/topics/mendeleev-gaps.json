@@ -1,0 +1,43 @@
+{
+  "id": "mendeleev-gaps",
+  "title": "Mendeleev's empty squares",
+  "category": "Science",
+  "hook": "Mendeleev left holes in his table and described the elements that would fill them.",
+  "peek": "When Dmitri Mendeleev drew up his periodic table in 1869, he left blank spaces for elements no one had found. He predicted their weights and behaviour, and within 17 years three of them turned up, looking much as he said.",
+  "lede": "Several chemists in the 1860s noticed that elements fell into repeating families when sorted by weight. Dmitri Mendeleev, a professor in St Petersburg, did something bolder in 1869. Where the pattern called for an element nobody knew, he left a gap rather than force the table to fit. Then he described what the missing elements should be like.",
+  "bullets": [
+    {
+      "opening": "Eka-aluminium and gallium",
+      "linkId": "gallium-spoon",
+      "text": "Mendeleev predicted an element below aluminium. In 1875 Paul-Émile Lecoq de Boisbaudran found gallium. Mendeleev wrote that its measured density must be wrong and should be close to 5.9. The French chemist rechecked with purer metal and got about 5.9."
+    },
+    {
+      "opening": "Eka-silicon and germanium",
+      "linkId": null,
+      "text": "His most famous forecast was eka-silicon. When Clemens Winkler discovered germanium in 1886, its atomic weight, density and compounds came very close to Mendeleev's numbers. He had predicted an atomic weight of about 72; germanium's is about 72.6."
+    },
+    {
+      "opening": "Eka-boron and scandium",
+      "linkId": null,
+      "text": "The third gap was filled in 1879, when Lars Fredrik Nilson found scandium in Scandinavian minerals. Its properties matched Mendeleev's eka-boron well, and the matching predictions helped win over chemists who had doubted his table."
+    },
+    {
+      "opening": "Mendeleev's wrong predictions",
+      "linkId": null,
+      "text": "Not every forecast worked. He also proposed elements lighter than hydrogen, which do not exist. The popular story that the whole table came to him in a dream is also doubtful, resting on a later account rather than his own notes."
+    }
+  ],
+  "tags": [
+    "elements",
+    "chemistry",
+    "patterns",
+    "predictions"
+  ],
+  "related": [
+    "ytterby",
+    "gallium-spoon",
+    "neptune-math",
+    "cecilia-payne",
+    "diamonds-burn"
+  ]
+}

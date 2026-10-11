@@ -1,0 +1,43 @@
+{
+  "id": "uranus-tilt",
+  "title": "Uranus rolls on its side",
+  "category": "Space",
+  "hook": "Uranus is tipped on its side, so its poles get 42 years of day, then 42 of night.",
+  "peek": "Most planets spin roughly upright as they circle the Sun. Uranus is tilted by about 98 degrees, so it rolls along its orbit, and each pole spends decades in sunlight and then decades in darkness.",
+  "lede": "Earth's axis is tilted about 23 degrees, which gives us seasons. Uranus is tilted about 98 degrees, so it lies almost on its side and seems to roll around the Sun. One Uranian year lasts 84 Earth years. For about half of that, one pole points roughly toward the Sun, and the regions around it get some 42 years of daylight, then 42 years of night.",
+  "bullets": [
+    {
+      "opening": "Seasons on Uranus",
+      "linkId": null,
+      "text": "Near the solstices the Sun hangs over one pole for years on end. Around the equinoxes, the most recent in 2007, it shines on the equator instead, and the whole planet gets an ordinary day and night, each turn lasting about 17 hours."
+    },
+    {
+      "opening": "Voyager 2 in 1986",
+      "linkId": null,
+      "text": "When Voyager 2 flew past in January 1986, still the only spacecraft to visit, Uranus's south pole was pointing almost straight at the Sun. Its photos showed a pale, nearly featureless blue-green ball."
+    },
+    {
+      "opening": "Tilted rings and moons",
+      "linkId": null,
+      "text": "Uranus's rings and its larger moons orbit around its tipped-over equator, so the whole system is tilted together. That suggests whatever knocked the planet over happened early, while its moons could still form or settle around the new equator."
+    },
+    {
+      "opening": "A giant collision",
+      "linkId": null,
+      "text": "The leading explanation is that a body several times the mass of Earth struck young Uranus, or that several impacts did. Some researchers instead suggest a slow tilt caused by gravitational nudges over millions of years. The question is still open."
+    }
+  ],
+  "tags": [
+    "uranus",
+    "seasons",
+    "time",
+    "space-exploration"
+  ],
+  "related": [
+    "herschel-georges-star",
+    "neptune-math",
+    "venus-day",
+    "polaris-precession",
+    "golden-record"
+  ]
+}

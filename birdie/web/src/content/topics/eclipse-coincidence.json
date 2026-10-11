@@ -1,0 +1,43 @@
+{
+  "id": "eclipse-coincidence",
+  "title": "The eclipse coincidence",
+  "category": "Space",
+  "hook": "The Sun is 400 times wider than the Moon and 400 times farther away.",
+  "peek": "Total solar eclipses depend on a lucky match. The Sun is about 400 times wider than the Moon, and also about 400 times farther away, so from Earth the two discs look almost exactly the same size in the sky.",
+  "lede": "From Earth, the Sun and the Moon both cover about half a degree of sky. That is a coincidence of scale: the Sun is roughly 400 times wider than the Moon and roughly 400 times farther away. So when the Moon passes in front, it can cover the bright disc almost perfectly while leaving the Sun's faint outer atmosphere glowing around the edge.",
+  "bullets": [
+    {
+      "opening": "Annular eclipses",
+      "linkId": null,
+      "text": "The match is not exact. The Moon's orbit is slightly oval, so sometimes it is a little farther away and looks a little smaller. Then it cannot cover the whole Sun, and a thin ring of sunlight stays visible."
+    },
+    {
+      "opening": "Seeing the solar corona",
+      "linkId": null,
+      "text": "Because the Moon blocks the bright surface but not much more, a total eclipse reveals the corona, the Sun's pale outer atmosphere. In 1868 eclipse observations of the Sun's light led to the discovery of helium."
+    },
+    {
+      "opening": "The 1919 eclipse test",
+      "linkId": null,
+      "text": "During a total eclipse in 1919, Arthur Eddington's teams photographed stars near the darkened Sun. Their positions were shifted by the amount Einstein's general relativity predicted, which made Einstein famous almost overnight."
+    },
+    {
+      "opening": "The drifting Moon",
+      "linkId": "moon-drifting",
+      "text": "The Moon is moving away from Earth by about 3.8 cm a year. Over hundreds of millions of years it will look slightly smaller, and total eclipses will give way to annular ones only."
+    }
+  ],
+  "tags": [
+    "eclipses",
+    "scale",
+    "light",
+    "coincidences"
+  ],
+  "related": [
+    "moon-drifting",
+    "earthshine-leonardo",
+    "moon-far-side",
+    "carrington-event",
+    "cecilia-payne"
+  ]
+}

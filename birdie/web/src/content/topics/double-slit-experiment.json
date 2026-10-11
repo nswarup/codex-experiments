@@ -1,0 +1,48 @@
+{
+  "id": "double-slit-experiment",
+  "title": "The double-slit experiment",
+  "category": "Science",
+  "hook": "Send particles through two slits one by one and they still make stripes.",
+  "peek": "Fire electrons at a barrier with two slits, one at a time, and each lands as a single dot. Yet over thousands of shots the dots build up stripes, a pattern that looks as if each electron passed through both slits at once.",
+  "lede": "Shine light through two narrow slits and it makes a row of bright and dark stripes, the mark of waves overlapping. That much was shown around 1801. The surprise came later. Send light or electrons through so weakly that only one passes at a time, and each still lands as a single dot. Yet the dots slowly build the same stripes.",
+  "bullets": [
+    {
+      "opening": "Thomas Young's experiment",
+      "linkId": null,
+      "text": "Around 1801 the English scientist Thomas Young showed that light passing through two openings forms stripes of light and dark. It was strong evidence that light behaves as a wave."
+    },
+    {
+      "opening": "Tonomura's electron film",
+      "linkId": null,
+      "text": "In 1989 Akira Tonomura's team at Hitachi filmed electrons arriving one at a time. The screen begins with scattered random dots, and over thousands of arrivals the striped pattern fills in."
+    },
+    {
+      "opening": "Watching which slit",
+      "linkId": null,
+      "text": "If a detector checks which slit each particle uses, the stripes disappear and the dots form two plain bands. Gaining that information changes the result."
+    },
+    {
+      "opening": "Molecules through slits",
+      "linkId": null,
+      "text": "In 1999 a team in Vienna, led by Anton Zeilinger and Markus Arndt, saw the same stripes using buckyballs, football-shaped molecules made of 60 carbon atoms. The effect is not limited to tiny particles."
+    },
+    {
+      "opening": "The most beautiful experiment",
+      "linkId": null,
+      "text": "In 2002, readers of the magazine Physics World voted the single-electron version the most beautiful experiment in physics. Richard Feynman had said it holds the central mystery of quantum mechanics."
+    }
+  ],
+  "tags": [
+    "light",
+    "physics",
+    "experiments",
+    "quantum"
+  ],
+  "related": [
+    "michelson-morley",
+    "brownian-motion",
+    "maxwells-demon",
+    "slow-light",
+    "fizeau-toothed-wheel"
+  ]
+}

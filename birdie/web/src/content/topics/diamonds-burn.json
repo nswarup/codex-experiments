@@ -1,0 +1,43 @@
+{
+  "id": "diamonds-burn",
+  "title": "Diamonds burn",
+  "category": "Science",
+  "hook": "A diamond is pure carbon, and with enough heat it burns away like charcoal.",
+  "peek": "Diamonds are famous for lasting forever, but heat one in air until it glows and it slowly vanishes, leaving only carbon dioxide. In the 1770s Antoine Lavoisier used a huge lens to prove it.",
+  "lede": "A diamond is made of the same element as coal and pencil lead: carbon, packed into a very tight crystal. Heat it in air to somewhere around 700 to 900°C and it will slowly burn, combining with oxygen to form carbon dioxide. Nothing is left behind, not even ash. Chemists in the 1600s and 1700s found this out the expensive way.",
+  "bullets": [
+    {
+      "opening": "The Florentine burning glass",
+      "linkId": null,
+      "text": "In 1694 two scholars in Florence, Giuseppe Averani and Cipriano Targioni, focused sunlight through a large burning glass onto a diamond. It cracked and then disappeared. Nobody yet knew where it had gone."
+    },
+    {
+      "opening": "Lavoisier's great lens",
+      "linkId": null,
+      "text": "In 1772 Antoine Lavoisier sealed a diamond in a glass vessel and heated it with a giant burning lens. The diamond vanished and the air inside now contained what was then called fixed air, the gas we call carbon dioxide, the same thing charcoal gives off."
+    },
+    {
+      "opening": "Smithson Tennant's proof",
+      "linkId": null,
+      "text": "In 1797 the English chemist Smithson Tennant burned a weighed diamond and measured the gas it made. The amount matched what the same weight of charcoal produced, which showed diamond was pure carbon."
+    },
+    {
+      "opening": "Diamond turning to graphite",
+      "linkId": null,
+      "text": "At everyday temperatures diamond is not the most stable form of carbon: graphite is. In principle diamonds are slowly becoming graphite, but the change is so slow that no one will ever see it happen."
+    }
+  ],
+  "tags": [
+    "chemistry",
+    "myths-busted",
+    "experiments",
+    "materials"
+  ],
+  "related": [
+    "graphene-sticky-tape",
+    "van-helmont-willow",
+    "mendeleev-gaps",
+    "prince-ruperts-drop",
+    "gold-leaf-green"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "nasa-pi-digits",
+  "title": "How much pi NASA needs",
+  "category": "Math",
+  "hook": "Pi is known to trillions of digits, yet NASA's spacecraft navigation uses about 15.",
+  "peek": "Computers have worked out pi to hundreds of trillions of decimal places. But engineers steering spacecraft between the planets use just 15 of them. A few dozen digits would be enough to measure the whole visible universe to within the width of an atom.",
+  "lede": "Record attempts have now pushed pi to hundreds of trillions of decimal places. So how many do the people who fly spacecraft actually use? In 2016 Marc Rayman of NASA's Jet Propulsion Laboratory answered a reader's question: for its most precise interplanetary navigation, JPL uses 3.141592653589793. That is 15 decimal places, and no more.",
+  "bullets": [
+    {
+      "opening": "The Voyager 1 example",
+      "linkId": null,
+      "text": "Rayman showed why that is plenty. Voyager 1 was then about 20 billion kilometres away. A circle that size, worked out with 15 decimal places of pi, would be off by only about 4 centimetres around its whole circumference."
+    },
+    {
+      "opening": "Pi for the visible universe",
+      "linkId": null,
+      "text": "With roughly 40 decimal places, you could work out the circumference of the visible universe to within the width of a single hydrogen atom. Every digit beyond that is far smaller than anything that could ever be measured."
+    },
+    {
+      "opening": "Double-precision numbers",
+      "linkId": null,
+      "text": "Fifteen or so decimal places is also what a standard double-precision number in a computer can hold. That makes it a natural, practical choice for software, not just a figure picked for convenience."
+    },
+    {
+      "opening": "Why records keep climbing",
+      "linkId": null,
+      "text": "If nobody needs the extra digits, people still chase them. Computing trillions of digits tests new hardware and algorithms, and the results are checked by a second method, so pi has become a demanding benchmark."
+    }
+  ],
+  "tags": [
+    "space-exploration",
+    "records",
+    "scale",
+    "myths-busted"
+  ],
+  "related": [
+    "indiana-pi-bill",
+    "rope-around-earth",
+    "voyager-computers",
+    "katherine-johnson",
+    "buffons-needle"
+  ]
+}

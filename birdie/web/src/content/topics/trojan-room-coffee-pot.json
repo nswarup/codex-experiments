@@ -1,0 +1,43 @@
+{
+  "id": "trojan-room-coffee-pot",
+  "title": "The Trojan Room coffee pot",
+  "category": "Tech",
+  "hook": "The first famous webcam watched a coffee pot so nobody climbed the stairs for nothing.",
+  "peek": "At Cambridge University's computer lab, researchers on other floors kept arriving at the coffee pot to find it empty. So they pointed a camera at it. When the picture went onto the web in 1993, people around the world tuned in to watch coffee.",
+  "lede": "In 1991, researchers at the University of Cambridge Computer Laboratory had a small problem. Their shared coffee pot sat in a corridor outside the Trojan Room, and people working elsewhere in the building often made the trip only to find it drained. Quentin Stafford-Fraser and Paul Jardetzky fixed it with a camera, a frame grabber and a little program that showed the pot on their screens.",
+  "bullets": [
+    {
+      "opening": "XCoffee on the lab network",
+      "linkId": null,
+      "text": "The first version, called XCoffee, only worked inside the lab. It showed a small greyscale picture that refreshed a few times a minute, which was plenty to tell a full pot from an empty one."
+    },
+    {
+      "opening": "Onto the web in 1993",
+      "linkId": null,
+      "text": "Two years later, Daniel Gordon and Martyn Johnson connected the camera to the new World Wide Web. Anyone with a browser could now see the pot, and it is often called the first webcam."
+    },
+    {
+      "opening": "A tourist attraction",
+      "linkId": null,
+      "text": "Thousands of people logged on to look at a coffee pot in Cambridge, and newspapers and television picked up the story. For many people it was among the first things they ever saw on the web."
+    },
+    {
+      "opening": "Sold on eBay",
+      "linkId": null,
+      "text": "When the lab moved buildings in 2001, the camera was switched off. The last pot was auctioned on eBay, where the German news site Spiegel Online bought it for about 3,350 pounds."
+    }
+  ],
+  "tags": [
+    "history-of-things",
+    "internet",
+    "coffee",
+    "inventors"
+  ],
+  "related": [
+    "vague-but-exciting",
+    "million-dollar-homepage",
+    "first-digital-photo",
+    "lavarand",
+    "symbolics-dotcom"
+  ]
+}

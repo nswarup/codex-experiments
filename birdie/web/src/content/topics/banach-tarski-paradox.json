@@ -1,0 +1,43 @@
+{
+  "id": "banach-tarski-paradox",
+  "title": "The Banach-Tarski paradox",
+  "category": "Math",
+  "hook": "A proven theorem says one ball can be cut up and rebuilt into two identical balls.",
+  "peek": "In 1924 two Polish mathematicians proved that a solid ball can be split into a handful of pieces and reassembled, by only moving and turning them, into two balls each the same size as the first. The catch lies in what those pieces are.",
+  "lede": "In 1924 Stefan Banach and Alfred Tarski proved something that sounds like a magic trick. Take a solid ball, split it into a finite number of pieces, then move and rotate those pieces without stretching them. Put them back together the right way and you have two solid balls, each exactly the size of the original. It is a real theorem, not a trick.",
+  "bullets": [
+    {
+      "opening": "Just five pieces",
+      "linkId": null,
+      "text": "Banach and Tarski did not say how few pieces were needed. In 1947 Raphael Robinson showed that five are enough, and that fewer will not do. One of the five can be a single point."
+    },
+    {
+      "opening": "Pieces with no volume",
+      "linkId": null,
+      "text": "The pieces are not chunks you could carve. They are infinitely scattered clouds of points so strange that they have no volume at all, which is why the total volume can double without breaking any rule."
+    },
+    {
+      "opening": "The axiom of choice",
+      "linkId": null,
+      "text": "The proof relies on the axiom of choice, a rule that lets mathematicians pick one item from each of infinitely many sets without saying how. Most accept it, and Banach-Tarski is the best-known oddity it brings with it."
+    },
+    {
+      "opening": "No doubling in the flat",
+      "linkId": null,
+      "text": "The trick needs three dimensions. Banach showed that a flat disc cannot be doubled by cutting and rigidly moving its pieces, because rotations in the plane are too tame to build the paradox."
+    }
+  ],
+  "tags": [
+    "infinity",
+    "paradoxes",
+    "geometry",
+    "proofs"
+  ],
+  "related": [
+    "hilberts-hotel",
+    "barber-paradox",
+    "gabriels-horn",
+    "point-nine-recurring",
+    "achilles-and-the-tortoise"
+  ]
+}

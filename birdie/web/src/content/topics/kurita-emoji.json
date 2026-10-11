@@ -1,0 +1,44 @@
+{
+  "id": "kurita-emoji",
+  "title": "Shigetaka Kurita's 176 emoji",
+  "category": "Tech",
+  "hook": "The emoji that won the world began as 176 pictures, each 12 pixels square.",
+  "peek": "In 1999 a Japanese phone company asked a young designer for little pictures that could fit in a text message. Shigetaka Kurita drew 176 of them on a tiny grid, and today the originals belong to the Museum of Modern Art in New York.",
+  "lede": "In 1999 the Japanese mobile operator NTT Docomo launched i-mode, an early way to use the internet on a phone. Screens were tiny and messages short, so Shigetaka Kurita, on the i-mode team, designed a set of 176 symbols to help say more with less. Each one fit on a grid just 12 pixels wide and 12 pixels tall.",
+  "bullets": [
+    {
+      "opening": "Weather symbols and manga",
+      "linkId": null,
+      "text": "Kurita drew on the symbols of weather forecasts, road signs and the visual shorthand of manga, such as a light bulb for an idea. He wanted pictures that worked at a glance on a small screen."
+    },
+    {
+      "opening": "Not quite the first",
+      "linkId": null,
+      "text": "Kurita's set is the most famous early one, but not the very first. The rival operator J-Phone had put about 90 symbols on one of its phones in 1997. Docomo's set is the one that spread."
+    },
+    {
+      "opening": "Emoji is not emotion",
+      "linkId": null,
+      "text": "The word sounds like \"emotion\" but comes from Japanese: e means picture and moji means character. The resemblance is a coincidence that probably helped the word catch on in English."
+    },
+    {
+      "opening": "MoMA's 2016 acquisition",
+      "linkId": null,
+      "text": "In 2016 the Museum of Modern Art added Kurita's original 176 emoji to its collection, alongside other digital designs. The set was a gift from NTT Docomo, the company that first asked Kurita to draw it."
+    }
+  ],
+  "tags": [
+    "design",
+    "communication",
+    "etymology",
+    "history-of-things"
+  ],
+  "related": [
+    "fahlman-smiley",
+    "helvetica",
+    "first-text-message",
+    "email-at-sign",
+    "nokia-tune",
+    "clarus-dogcow"
+  ]
+}

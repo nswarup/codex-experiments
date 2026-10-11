@@ -1,0 +1,43 @@
+{
+  "id": "floppy-save-icon",
+  "title": "The floppy disk save icon",
+  "category": "Tech",
+  "hook": "Millions save their work by clicking a picture of a disk they have never touched.",
+  "peek": "The little square with a metal shutter that means save is a 3.5-inch floppy disk. Most computers stopped having floppy drives decades ago, but the picture stayed, and many people who click it every day have never held the real thing.",
+  "lede": "The save button in many programs shows a small square with a sliding shutter and a label. It is a 3.5-inch floppy disk, the kind people carried around in the 1980s and 1990s. Floppy drives vanished from new computers long ago, yet the icon survived, so it now stands for an action rather than an object most users would recognise.",
+  "bullets": [
+    {
+      "opening": "The 3.5-inch floppy",
+      "linkId": null,
+      "text": "Sony introduced the 3.5-inch disk in the early 1980s. Its hard plastic case and metal shutter made it sturdier than older bendy disks, and the common high-density version held 1.44 megabytes, less than a single phone photo today."
+    },
+    {
+      "opening": "The iMac without a floppy drive",
+      "linkId": null,
+      "text": "Apple's 1998 iMac shipped with no floppy drive at all, a choice many people thought was reckless at the time. Other makers followed over the next decade, and Sony stopped making floppy disks in 2011."
+    },
+    {
+      "opening": "An icon that outlived its object",
+      "linkId": null,
+      "text": "Designers call this kind of leftover a skeuomorph: a picture that borrows the look of an older physical thing. Like the phone handset icon for calls, the floppy kept working because everyone had already learned what it meant."
+    },
+    {
+      "opening": "Apps that dropped the button",
+      "linkId": null,
+      "text": "Some modern apps save automatically and quietly drop the button altogether. The floppy still lives on elsewhere, including as a standard emoji, so the image may outlast anyone's memory of using one."
+    }
+  ],
+  "tags": [
+    "design",
+    "history-of-things",
+    "symbols",
+    "computer-history"
+  ],
+  "related": [
+    "ibm-ramac",
+    "command-key-symbol",
+    "clarus-dogcow",
+    "game-boy",
+    "walkman-origin"
+  ]
+}

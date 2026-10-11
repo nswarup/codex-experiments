@@ -1,0 +1,43 @@
+{
+  "id": "europa-ocean",
+  "title": "Europa's hidden ocean",
+  "category": "Space",
+  "hook": "Under Europa's ice there may be twice as much water as in all of Earth's oceans.",
+  "peek": "Jupiter's moon Europa is a little smaller than our Moon, yet beneath its cracked shell of ice lies a salty ocean that probably holds about twice the water of every sea on Earth. That makes it one of the best places to look for life.",
+  "lede": "Europa is a little smaller than Earth's Moon, and its surface is a bright, frozen crust colder than minus 140°C. But underneath, scientists are confident, lies a global ocean of salty liquid water, perhaps 60 to 150 kilometres deep. Because that ocean wraps the whole moon, it probably holds about twice as much water as all of Earth's oceans combined.",
+  "bullets": [
+    {
+      "opening": "Galileo's magnetic clue",
+      "linkId": null,
+      "text": "The strongest evidence came from NASA's Galileo spacecraft in the late 1990s. As Europa moved through Jupiter's magnetic field, it produced a field of its own that changed in step, the signature of a layer of salty, electrically conducting water beneath the ice."
+    },
+    {
+      "opening": "A young, cracked surface",
+      "linkId": null,
+      "text": "Europa has very few craters, so its surface must be young, renewed by moving ice. It is criss-crossed by long dark cracks and patches of jumbled chaos terrain, where blocks of crust seem to have broken apart and refrozen."
+    },
+    {
+      "opening": "Heated by Jupiter's pull",
+      "linkId": null,
+      "text": "The ocean stays liquid thanks to tides. Regular tugs from its neighbours Io and Ganymede keep Europa's orbit slightly oval, so Jupiter's gravity squeezes and relaxes the moon constantly, and that flexing warms its interior."
+    },
+    {
+      "opening": "The Europa Clipper mission",
+      "linkId": null,
+      "text": "NASA launched Europa Clipper in October 2024, due to reach Jupiter in 2030. It will fly past Europa dozens of times to measure the ice shell and the ocean, and to judge whether this hidden sea could support life."
+    }
+  ],
+  "tags": [
+    "moons",
+    "oceans",
+    "jupiter",
+    "space-exploration"
+  ],
+  "related": [
+    "enceladus-geysers",
+    "ganymede-bigger-than-mercury",
+    "io-volcanoes",
+    "titan-methane-lakes",
+    "great-red-spot"
+  ]
+}

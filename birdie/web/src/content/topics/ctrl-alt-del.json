@@ -1,0 +1,43 @@
+{
+  "id": "ctrl-alt-del",
+  "title": "Ctrl-Alt-Del",
+  "category": "Tech",
+  "hook": "The three-key salute was a shortcut for engineers, never meant for the rest of us.",
+  "peek": "In 1981 an IBM engineer wrote a quick restart command so his team could stop switching their test computers off and on. He picked three keys no one would press by accident. Then Windows made the whole world learn them.",
+  "lede": "In 1981 David Bradley was one of the engineers building the original IBM PC. Restarting a test machine meant switching it off and waiting, which wasted time every day. So he wrote a small routine that rebooted the computer when three keys were held at once: Control, Alt and Delete. It was meant for the people building the machine, not the people buying it.",
+  "bullets": [
+    {
+      "opening": "Keys spread far apart",
+      "linkId": null,
+      "text": "Bradley chose the combination because it was hard to press by mistake. Delete sat on the far side of the keyboard from Control and Alt, so an accidental restart in the middle of someone's work was very unlikely."
+    },
+    {
+      "opening": "A few minutes of code",
+      "linkId": null,
+      "text": "Bradley has said the routine took him only a few minutes to write. It was one of many small tools on the project and was never meant for customers to use."
+    },
+    {
+      "opening": "The 2001 anniversary panel",
+      "linkId": null,
+      "text": "At an event marking the PC's 20th anniversary, Bradley shared a stage with Bill Gates and joked: \"I may have invented it, but Bill made it famous.\" Windows had turned the shortcut into the cure for a frozen screen."
+    },
+    {
+      "opening": "Ctrl-Alt-Del to log in",
+      "linkId": null,
+      "text": "Windows NT later asked people to press the keys before signing in, because ordinary programs could not intercept them. Gates said years later that he would have preferred a single dedicated button."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "history-of-things",
+    "design",
+    "computers"
+  ],
+  "related": [
+    "qwerty",
+    "command-key-symbol",
+    "windows-95-sound",
+    "floppy-save-icon",
+    "rubber-duck-debugging"
+  ]
+}

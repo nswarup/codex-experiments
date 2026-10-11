@@ -1,0 +1,43 @@
+{
+  "id": "wifi-black-holes",
+  "title": "Wi-Fi and the hunt for black holes",
+  "category": "Tech",
+  "hook": "A key piece of Wi-Fi came from astronomers looking for tiny exploding black holes.",
+  "peek": "In the 1970s an Australian radio astronomer searched the sky for the faint signal of evaporating black holes. He never found one. But the maths he used to pull a clear signal from a messy one later helped make fast wireless networks work indoors.",
+  "lede": "Stephen Hawking predicted in 1974 that small black holes should slowly evaporate and finally vanish in a burst of energy. John O'Sullivan, a radio astronomer later at CSIRO, Australia's national science agency, went looking for the radio flash such a burst might make. The search came up empty. The techniques he worked on, for sharpening blurred radio signals, turned out to be useful somewhere else entirely.",
+  "bullets": [
+    {
+      "opening": "The 1978 Nature paper",
+      "linkId": null,
+      "text": "O'Sullivan and colleagues reported their search for exploding black holes in the journal Nature in 1978. They saw no bursts, and nobody has confirmed one since, but the work gave O'Sullivan a deep feel for faint, smeared signals."
+    },
+    {
+      "opening": "Echoes in an office",
+      "linkId": null,
+      "text": "In the early 1990s, O'Sullivan's CSIRO team tackled wireless networking. Indoors, radio waves bounce off walls and furniture, so each signal arrives many times over, slightly delayed. Their solution drew on the same signal processing used in astronomy."
+    },
+    {
+      "opening": "The 1992 CSIRO patent",
+      "linkId": null,
+      "text": "CSIRO filed a patent on the method in 1992, and it became part of the Wi-Fi standards. Wi-Fi has many inventors, so the patent covers one important piece rather than the whole thing."
+    },
+    {
+      "opening": "Settlements with tech firms",
+      "linkId": null,
+      "text": "CSIRO later went to court to have its patent recognised. Major technology companies settled, and by 2012 the agency had collected more than 400 million Australian dollars, which went back into research."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "accidents",
+    "space-exploration",
+    "radio"
+  ],
+  "related": [
+    "hedy-lamarr",
+    "bluetooth-king",
+    "wow-signal",
+    "gps-relativity",
+    "ethernet-ether"
+  ]
+}

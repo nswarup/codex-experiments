@@ -1,0 +1,43 @@
+{
+  "id": "celsius-upside-down",
+  "title": "Celsius's scale was upside down",
+  "category": "Science",
+  "hook": "In the first Celsius scale, water boiled at 0 and froze at 100.",
+  "peek": "When the Swedish astronomer Anders Celsius proposed his temperature scale in 1742, it ran the opposite way from the one we use. Hotter meant a lower number. Someone flipped it soon after he died, and historians still argue about who.",
+  "lede": "In 1742 Anders Celsius, an astronomer at Uppsala in Sweden, presented a paper to the Royal Swedish Academy of Sciences describing a thermometer with 100 steps between two fixed points. He put 0 at the boiling point of water and 100 at the freezing point. On his scale a cold Swedish winter day would have read well above 100 degrees.",
+  "bullets": [
+    {
+      "opening": "Celsius's careful experiments",
+      "linkId": null,
+      "text": "Celsius showed that melting snow gives the same reading whatever the latitude or air pressure, making it a reliable fixed point. He also found that the boiling point does change with pressure, so he specified a standard pressure for it."
+    },
+    {
+      "opening": "Who flipped the scale",
+      "linkId": null,
+      "text": "The scale was turned the right way up around 1744 to 1745, shortly after Celsius died. Credit is often given to the botanist Carl Linnaeus, who ordered a flipped thermometer for his greenhouse, but others name instrument makers or colleagues at Uppsala."
+    },
+    {
+      "opening": "Jean-Pierre Christin in Lyon",
+      "linkId": null,
+      "text": "In 1743 the French scientist Jean-Pierre Christin independently proposed a scale with 0 for freezing and 100 for boiling. For a time it was known in France as the Lyon thermometer."
+    },
+    {
+      "opening": "From centigrade to Celsius",
+      "linkId": null,
+      "text": "For two centuries the scale was widely called centigrade, meaning a hundred steps. In 1948 an international conference on weights and measures officially renamed it after Celsius."
+    }
+  ],
+  "tags": [
+    "measurement",
+    "names",
+    "history-of-things",
+    "temperature"
+  ],
+  "related": [
+    "fahrenheit-zero",
+    "water-densest-at-4c",
+    "supercooled-water",
+    "metre-from-meridian",
+    "swedish-february-30"
+  ]
+}

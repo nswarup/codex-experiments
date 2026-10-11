@@ -1,0 +1,43 @@
+{
+  "id": "gps-relativity",
+  "title": "GPS needs Einstein",
+  "category": "Tech",
+  "hook": "Without Einstein's relativity, GPS satellite clocks would slip 38 microseconds a day.",
+  "peek": "The clocks on GPS satellites run fast by about 38 microseconds a day, because of both of Einstein's theories of relativity. Engineers correct for it before launch. Without that fix, the timing errors would add up to kilometres every day.",
+  "lede": "A GPS receiver works out where it is by timing signals from satellites about 20,000 kilometres up. Light travels about 30 centimetres in a nanosecond, so the clocks must be extraordinarily precise. The trouble is that, seen from the ground, those clocks do not tick at our rate. Relativity makes them gain about 38 millionths of a second every day.",
+  "bullets": [
+    {
+      "opening": "Special relativity's slowdown",
+      "linkId": null,
+      "text": "The satellites move at almost 4 kilometres a second. Einstein's special relativity says moving clocks run slow, and at that speed the satellite clocks lose about 7 microseconds a day compared with clocks on the ground."
+    },
+    {
+      "opening": "General relativity's speedup",
+      "linkId": null,
+      "text": "General relativity says clocks run faster where gravity is weaker. Far above Earth, that effect makes the satellite clocks gain about 45 microseconds a day, outweighing the slowdown and leaving a net gain of about 38."
+    },
+    {
+      "opening": "The tuned-down clocks",
+      "linkId": null,
+      "text": "Engineers set the satellite clocks to tick very slightly slower than intended before launch, so that once in orbit they match ground time. Receivers also make smaller corrections for each satellite's orbit."
+    },
+    {
+      "opening": "Kilometres of error",
+      "linkId": null,
+      "text": "Thirty-eight microseconds sounds tiny, but light covers more than 11 kilometres in that time. Popular accounts say positions would drift about 10 kilometres a day. The real effect is messier, since receivers absorb some shared clock error, but GPS would soon stop being useful."
+    }
+  ],
+  "tags": [
+    "time",
+    "space-exploration",
+    "maps",
+    "scale"
+  ],
+  "related": [
+    "hafele-keating",
+    "caesium-second",
+    "michelson-morley",
+    "harrison-clocks",
+    "null-island"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "phone-keypad-layout",
+  "title": "Why phone and calculator keypads differ",
+  "category": "Tech",
+  "hook": "Phone keypads put 1 at the top, while calculators start with 7 and 8 and 9.",
+  "peek": "Look at a phone and a calculator side by side: their number pads are upside down relative to each other. The calculator order came from older adding machines, while the phone order was chosen by Bell Labs after careful tests with ordinary users.",
+  "lede": "The number pad on a calculator has 7, 8 and 9 across the top. The one on a phone has 1, 2 and 3. Most people use both every day without noticing. The two layouts have different histories. Adding machines settled on their order long before electronics, while the telephone layout was one of the first products designed by testing real people.",
+  "bullets": [
+    {
+      "opening": "Bell Labs keypad studies",
+      "linkId": null,
+      "text": "Before push-button phones launched, Bell Labs tried many layouts on volunteers, including circles, rows, and the calculator arrangement. A 1960 study reported that the 1-2-3 top row worked well and suited what people expected."
+    },
+    {
+      "opening": "John Karlin's human factors team",
+      "linkId": null,
+      "text": "The tests were run by a group led by the psychologist John Karlin, an early champion of designing machines around human behaviour. His team also studied how many digits people could reliably dial."
+    },
+    {
+      "opening": "Touch-Tone in 1963",
+      "linkId": null,
+      "text": "Bell's push-button Touch-Tone phones went on sale in 1963. Each key sends a pair of tones, which is why every number makes its own small chord. The star and hash keys came a few years later."
+    },
+    {
+      "opening": "The adding machine order",
+      "linkId": null,
+      "text": "Calculators inherited 7-8-9 on top from mechanical adding machines and cash registers, though why those put bigger digits higher is not well documented. A popular story says Bell flipped the order to slow down fast typists, but the published research does not support it."
+    }
+  ],
+  "tags": [
+    "design",
+    "history-of-things",
+    "myths-busted",
+    "perception"
+  ],
+  "related": [
+    "qwerty",
+    "octothorpe",
+    "ctrl-alt-del",
+    "command-key-symbol",
+    "magical-number-seven"
+  ]
+}

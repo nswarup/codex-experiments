@@ -1,0 +1,43 @@
+{
+  "id": "excel-1900-leap-year",
+  "title": "Excel's imaginary 29 February 1900",
+  "category": "Tech",
+  "hook": "Excel still believes there was a 29 February in 1900, and that is on purpose.",
+  "peek": "Type 29 February 1900 into Excel and it accepts the date without complaint, though no such day existed. The mistake began in Lotus 1-2-3, and Microsoft copied it so that old spreadsheets would keep giving the same answers.",
+  "lede": "Leap years come every four years, except century years, which only count when they divide by 400. So 2000 was a leap year, but 1900 was not. Excel disagrees. It treats 29 February 1900 as a real day. This is not an oversight Microsoft forgot to fix. It is a mistake copied from a rival program, and kept deliberately for decades.",
+  "bullets": [
+    {
+      "opening": "The Lotus 1-2-3 mistake",
+      "linkId": null,
+      "text": "Lotus 1-2-3, the leading spreadsheet of the 1980s, counted 1900 as a leap year. When Microsoft built Excel, matching Lotus mattered more than matching the calendar, so Excel adopted the same count."
+    },
+    {
+      "opening": "Excel's date serial numbers",
+      "linkId": null,
+      "text": "Excel stores each date as a number of days, with 1 January 1900 as day 1. The phantom leap day is day 60. Fixing it would shift almost every later date by one day and quietly change results in countless saved files."
+    },
+    {
+      "opening": "Wrong weekdays before March 1900",
+      "linkId": null,
+      "text": "Because of the extra day, Excel gives the wrong day of the week for dates from January and February 1900. Microsoft's documentation acknowledges this and says the cost of fixing it outweighs the benefit."
+    },
+    {
+      "opening": "The 1904 date system",
+      "linkId": null,
+      "text": "Early Excel for the Mac sidestepped the problem by counting days from 1904 instead. Both systems still exist, which is why copying dates between some workbooks can shift them by four years and a day."
+    }
+  ],
+  "tags": [
+    "calendars",
+    "time",
+    "accidents",
+    "myths-busted"
+  ],
+  "related": [
+    "eleven-days-1752",
+    "year-2038-problem",
+    "year-of-confusion",
+    "swedish-february-30",
+    "no-year-zero"
+  ]
+}

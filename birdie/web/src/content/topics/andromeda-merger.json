@@ -1,0 +1,43 @@
+{
+  "id": "andromeda-merger",
+  "title": "When Andromeda meets the Milky Way",
+  "category": "Space",
+  "hook": "Two galaxies may one day collide, and almost no stars would touch.",
+  "peek": "The Andromeda galaxy is drifting towards us at about 110 km per second. If it does merge with the Milky Way, billions of years from now, the stars inside would almost all slip past each other, because the gaps between them are so huge.",
+  "lede": "Andromeda is the nearest big galaxy, about 2.5 million light-years away, and it is moving towards us at roughly 110 km per second. In 2012 Hubble measurements suggested the two galaxies would collide in about 4 to 5 billion years. Yet a galaxy collision is mostly empty space meeting empty space. Stars are so far apart that direct hits would be vanishingly rare.",
+  "bullets": [
+    {
+      "opening": "Measuring Andromeda's sideways drift",
+      "linkId": null,
+      "text": "Knowing a galaxy is approaching is easy; knowing whether it will hit is not. Astronomers used Hubble to track Andromeda's stars against distant background galaxies for years, measuring a tiny sideways motion that pointed to a head-on course."
+    },
+    {
+      "opening": "The space between stars",
+      "linkId": null,
+      "text": "If the Sun were shrunk to the size of a grain of sand, its nearest neighbour would be another grain several kilometres away. Two galaxies can pass through each other like two clouds of such grains, with gravity reshaping them rather than crashes."
+    },
+    {
+      "opening": "Gaia's new odds",
+      "linkId": null,
+      "text": "A 2025 study using newer data from the Gaia telescope, and the pull of nearby galaxies, made the future less certain. It put the chance of a merger within the next 10 billion years at only about 50%."
+    },
+    {
+      "opening": "Milkomeda",
+      "linkId": null,
+      "text": "If the merger happens, the two spiral galaxies would slowly settle into one large, rounded galaxy, sometimes nicknamed Milkomeda. The Sun would most likely survive the process, perhaps flung into a wider orbit."
+    }
+  ],
+  "tags": [
+    "galaxies",
+    "scale",
+    "collisions",
+    "deep-time"
+  ],
+  "related": [
+    "galactic-year",
+    "hubble-deep-field",
+    "raspberry-galaxy-centre",
+    "olbers-paradox",
+    "cmb-tv-static"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "lotus-effect",
+  "title": "The lotus effect",
+  "category": "Science",
+  "hook": "Lotus leaves grow in muddy ponds and stay spotless, thanks to tiny bumps.",
+  "peek": "The lotus rises from muddy water yet its leaves stay clean. Under a microscope they are covered in tiny wax-coated bumps that make water bead up and roll off, picking up dust as it goes. Engineers have copied the trick in self-cleaning paint.",
+  "lede": "Lotus plants grow in shallow, muddy water, yet their broad leaves always look clean. Pour water on one and it does not spread out. It forms bright, round beads that skitter across the surface and roll off, taking dust with them. The secret is not a special chemical alone but the leaf's shape at a scale far too small to see.",
+  "bullets": [
+    {
+      "opening": "Wilhelm Barthlott's microscope",
+      "linkId": null,
+      "text": "In the 1970s the German botanist Wilhelm Barthlott studied plant leaves under a scanning electron microscope and noticed that the cleanest ones were the roughest. He later named the self-cleaning trick the lotus effect."
+    },
+    {
+      "opening": "Bumps coated in wax",
+      "linkId": null,
+      "text": "A lotus leaf is covered in tiny bumps, which are themselves coated with even smaller crystals of wax. Water rests only on the tips, with air trapped beneath, so a drop barely touches the leaf."
+    },
+    {
+      "opening": "Rolling drops collect dust",
+      "linkId": null,
+      "text": "Because the drops roll rather than slide, dust particles stick to the water better than to the leaf. Each drop rolls off carrying dirt with it, washing the leaf clean."
+    },
+    {
+      "opening": "Self-cleaning paint",
+      "linkId": null,
+      "text": "The idea has been copied in products such as Lotusan, a facade paint launched in 1999 that stays cleaner in the rain. Similar coatings are used on glass and fabrics."
+    }
+  ],
+  "tags": [
+    "water",
+    "plants",
+    "design",
+    "materials"
+  ],
+  "related": [
+    "coffee-ring-effect",
+    "franklin-oil-pond",
+    "leidenfrost-effect",
+    "rainbow-eucalyptus",
+    "raindrop-shape"
+  ]
+}

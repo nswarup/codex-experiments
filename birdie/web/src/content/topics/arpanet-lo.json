@@ -1,0 +1,44 @@
+{
+  "id": "arpanet-lo",
+  "title": "The internet's first word: \"lo\"",
+  "category": "Tech",
+  "hook": "The first message sent across the early internet was meant to say login.",
+  "peek": "In October 1969 a student at UCLA tried to log in to a computer at Stanford Research Institute over the new ARPANET. He typed two letters before the system crashed, so the network's first message was simply \"lo\".",
+  "lede": "On the evening of 29 October 1969, Charley Kline, a student programmer in Leonard Kleinrock's lab at UCLA, tried to log in to a computer at Stanford Research Institute, about 560 km away. He typed L and O, while Bill Duvall at SRI confirmed each letter by telephone. Then, on G, the SRI system crashed. The first message was \"lo\".",
+  "bullets": [
+    {
+      "opening": "The second attempt",
+      "linkId": null,
+      "text": "After about an hour of fixes, Kline tried again and the full login went through. That night the two computers became the first link of ARPANET, the network that grew into the internet."
+    },
+    {
+      "opening": "The IMP log book",
+      "linkId": null,
+      "text": "The event is recorded in a handwritten log at UCLA. An entry for 22:30 notes that Kline talked to the SRI host, a modest line for one of the key moments in computing."
+    },
+    {
+      "opening": "Lo and behold",
+      "linkId": null,
+      "text": "Kleinrock has often joked that the message could not have been better chosen, as in lo and behold. Werner Herzog took the phrase as the title of his 2016 film about the internet."
+    },
+    {
+      "opening": "Leonard Kleinrock's lab",
+      "linkId": null,
+      "text": "Kleinrock's lab hosted the first ARPANET node because it was to be the network's measurement centre, building on his mathematical work on how data flows through networks. By December 1969 the network had four connected sites."
+    }
+  ],
+  "tags": [
+    "internet",
+    "firsts",
+    "communication",
+    "accidents"
+  ],
+  "related": [
+    "symbolics-dotcom",
+    "email-at-sign",
+    "first-text-message",
+    "trojan-room-coffee-pot",
+    "ethernet-ether",
+    "hello-world"
+  ]
+}

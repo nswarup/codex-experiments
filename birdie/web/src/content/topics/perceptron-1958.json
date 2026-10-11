@@ -1,0 +1,43 @@
+{
+  "id": "perceptron-1958",
+  "title": "The 1958 perceptron",
+  "category": "Tech",
+  "hook": "In 1958 a newspaper said a learning machine would one day walk, talk and be conscious.",
+  "peek": "In July 1958 the US Navy showed reporters a computer program that taught itself to tell whether a mark was on the left or right of a card. The New York Times wrote that it was the embryo of a machine that would walk, talk and be aware of itself.",
+  "lede": "In July 1958, the Office of Naval Research demonstrated the perceptron, an idea by the psychologist Frank Rosenblatt at the Cornell Aeronautical Laboratory. Running on a room-sized IBM 704 computer, it learned to tell cards marked on the left from cards marked on the right after about 50 tries. The New York Times reported something far grander.",
+  "bullets": [
+    {
+      "opening": "The New York Times report",
+      "linkId": null,
+      "text": "The paper described it as the embryo of a computer the Navy expected to \"walk, talk, see, write, reproduce itself and be conscious of its existence.\" The actual achievement was learning one simple distinction."
+    },
+    {
+      "opening": "How the perceptron learned",
+      "linkId": null,
+      "text": "The perceptron was a simple model of a brain cell. It added up weighted inputs and gave a yes or no answer. When it was wrong, the weights were nudged, so it slowly improved from examples rather than by being told a rule."
+    },
+    {
+      "opening": "The Mark I Perceptron",
+      "linkId": null,
+      "text": "Rosenblatt's team later built dedicated hardware, the Mark I Perceptron, with a camera of 400 light sensors and adjustable weights turned by electric motors. It learned to recognise simple shapes and letters, and it is now held by the Smithsonian."
+    },
+    {
+      "opening": "Minsky and Papert's book",
+      "linkId": null,
+      "text": "In 1969 Marvin Minsky and Seymour Papert published Perceptrons, showing tasks a single-layer perceptron could never learn. Interest cooled for years, but networks of many such units are now the basis of modern deep learning."
+    }
+  ],
+  "tags": [
+    "ai",
+    "inventors",
+    "myths-busted",
+    "computer-history"
+  ],
+  "related": [
+    "dartmouth-ai-summer",
+    "google-cat-neuron",
+    "shakey-robot",
+    "attention-is-all-you-need",
+    "word2vec-king-queen"
+  ]
+}

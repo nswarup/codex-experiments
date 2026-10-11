@@ -1,0 +1,48 @@
+{
+  "id": "prince-ruperts-drop",
+  "title": "Prince Rupert's drop",
+  "category": "Science",
+  "hook": "A glass drop that shrugs off a hammer but bursts if you snap its tail.",
+  "peek": "Drip molten glass into cold water and you get a tadpole-shaped drop. Its round head can take a blow from a hammer, but break the thin tail and the whole drop shatters into fine powder in a fraction of a second.",
+  "lede": "A Prince Rupert's drop is made by letting a blob of molten glass fall into cold water. It sets into a teardrop with a long, thin tail. The rounded head is so strong it can survive a hammer blow on an anvil. Yet nick or snap the tail and the entire drop bursts into glittering powder almost instantly.",
+  "bullets": [
+    {
+      "opening": "Prince Rupert of the Rhine",
+      "linkId": null,
+      "text": "The drops were known in Germany and the Netherlands before they reached England. Prince Rupert of the Rhine brought some to King Charles II in 1660, and the king passed them to the new Royal Society to study."
+    },
+    {
+      "opening": "Robert Hooke's Micrographia",
+      "linkId": null,
+      "text": "Robert Hooke wrote about the drops in his 1665 book Micrographia. He suggested, broadly correctly, that the glass was locked in a strained state set up as it cooled."
+    },
+    {
+      "opening": "Squeezed outside, pulled inside",
+      "linkId": null,
+      "text": "The outer skin cools and hardens first. As the hot core cools later it shrinks, pulling the surface inward. That leaves the skin under strong compression, which resists cracks, while the inside is under tension."
+    },
+    {
+      "opening": "Cracks at kilometres per second",
+      "linkId": null,
+      "text": "Breaking the tail lets a crack reach the tense interior and release the stored energy. High-speed cameras show cracks racing through the glass at well over a kilometre per second, far too fast for the eye."
+    },
+    {
+      "opening": "Toughened glass",
+      "linkId": null,
+      "text": "Toughened glass, used in car side windows and shower doors, relies on the same idea: it is cooled quickly so its surface stays in compression. That is why it breaks into small chunks rather than long shards."
+    }
+  ],
+  "tags": [
+    "physics",
+    "glass",
+    "materials",
+    "history-of-things"
+  ],
+  "related": [
+    "medieval-glass-myth",
+    "laminated-glass",
+    "pitch-drop-experiment",
+    "bismuth-crystals",
+    "oobleck"
+  ]
+}

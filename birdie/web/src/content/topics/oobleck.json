@@ -1,0 +1,44 @@
+{
+  "id": "oobleck",
+  "title": "Oobleck, the liquid you can run on",
+  "category": "Science",
+  "hook": "A mix of cornflour and water that pours like cream but can hold a runner.",
+  "peek": "Stir cornflour into water and you get a mixture that flows when handled gently but turns hard when struck. People have run across whole pools of it, as long as they keep moving. Stand still and they slowly sink.",
+  "lede": "Mix about two parts cornflour with one part water and you get a strange material. Tilt the bowl and it flows. Push a finger in slowly and it sinks. Tap the surface hard and it feels solid. Scientists call it a shear-thickening fluid: the harder and faster you push, the stiffer it gets.",
+  "bullets": [
+    {
+      "opening": "Dr. Seuss's oobleck",
+      "linkId": null,
+      "text": "The name comes from Bartholomew and the Oobleck, a 1949 Dr. Seuss book in which a sticky green substance falls from the sky over a kingdom. Science teachers borrowed the word for the cornflour mix, and it stuck."
+    },
+    {
+      "opening": "Running on a pool",
+      "linkId": null,
+      "text": "Television shows and science demonstrations have filled pools with the mixture and had people run across. Each quick footstep stiffens the surface underfoot, but anyone who stops sinks slowly and has to pull out gently."
+    },
+    {
+      "opening": "The jamming front",
+      "linkId": null,
+      "text": "In 2012 physicists at the University of Chicago filmed impacts on oobleck at high speed. A sudden push packs the starch grains into a solid-like region that spreads down from the point of impact, squeezing the water aside."
+    },
+    {
+      "opening": "Oobleck on a loudspeaker",
+      "linkId": null,
+      "text": "Spread a thin layer on a loudspeaker playing a low tone and the vibration makes it rise into wobbling fingers and towers that seem to move on their own, a classroom favourite sometimes called cornstarch monsters."
+    }
+  ],
+  "tags": [
+    "physics",
+    "materials",
+    "names",
+    "experiments"
+  ],
+  "related": [
+    "pitch-drop-experiment",
+    "brazil-nut-effect",
+    "silly-putty",
+    "leidenfrost-effect",
+    "play-doh",
+    "green-eggs-and-ham"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "fizeau-toothed-wheel",
+  "title": "Fizeau's spinning cog",
+  "category": "Science",
+  "hook": "In 1849 a spinning cogwheel was used to time light racing across Paris.",
+  "peek": "Hippolyte Fizeau sent a beam of light through the gaps in a spinning toothed wheel, off a mirror about 8 km away, and back. By spinning the wheel just fast enough to block the returning light, he timed it, the first measurement of light's speed on Earth.",
+  "lede": "Before 1849, the speed of light had only been estimated from astronomy, using moons and stars. The French physicist Hippolyte Fizeau found a way to measure it on the ground. He shone light through the gaps between the teeth of a spinning wheel, bounced it off a distant mirror, and watched whether it came back through a gap or hit a tooth.",
+  "bullets": [
+    {
+      "opening": "Suresnes to Montmartre",
+      "linkId": null,
+      "text": "His light source and wheel stood in Suresnes, west of Paris, and the mirror on the hill of Montmartre, about 8 km away. The light made a round trip of roughly 17 km."
+    },
+    {
+      "opening": "Spinning the wheel faster",
+      "linkId": null,
+      "text": "At low speed, the returning light slipped through the same gap it left by. Spin the wheel faster and the next tooth arrived just in time to block it, and the light vanished. From the wheel's speed and the distance, Fizeau worked out the travel time."
+    },
+    {
+      "opening": "About 5% too fast",
+      "linkId": null,
+      "text": "His result was roughly 313,000 km per second, about 5% above the modern value of nearly 300,000. For a cogwheel and a hilltop mirror, that was remarkably close."
+    },
+    {
+      "opening": "Foucault's rotating mirror",
+      "linkId": null,
+      "text": "Fizeau's rival Léon Foucault soon improved on the idea with a fast-spinning mirror instead of a wheel. In 1862 he got within about 1% of the true figure."
+    }
+  ],
+  "tags": [
+    "light",
+    "measurement",
+    "experiments",
+    "physics"
+  ],
+  "related": [
+    "michelson-morley",
+    "slow-light",
+    "grace-hopper-nanosecond",
+    "foucault-pendulum",
+    "eratosthenes-earth"
+  ]
+}

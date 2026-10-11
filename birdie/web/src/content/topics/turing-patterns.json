@@ -1,0 +1,43 @@
+{
+  "id": "turing-patterns",
+  "title": "Turing's stripes and spots",
+  "category": "Science",
+  "hook": "Alan Turing worked out how a leopard might get its spots, using chemistry.",
+  "peek": "In 1952 Alan Turing, better known for codes and computers, showed how two chemicals spreading and reacting could draw stripes and spots by themselves. Decades later, biologists found his patterns on fish, in mouse paws and in the lab.",
+  "lede": "Alan Turing is famous for computers and code-breaking, but one of his last papers was about biology. In 1952 he asked how an embryo, starting out the same all over, could grow stripes or spots. His answer was two chemicals that react with each other and spread at different speeds. The maths showed they could organise into regular patterns on their own.",
+  "bullets": [
+    {
+      "opening": "The Chemical Basis of Morphogenesis",
+      "linkId": null,
+      "text": "That was the title of Turing's 1952 paper. Morphogenesis means the making of shape. He worked through the equations partly by hand and partly on the early Manchester computer, the Ferranti Mark 1."
+    },
+    {
+      "opening": "Activator and inhibitor",
+      "linkId": null,
+      "text": "In the usual version, one chemical boosts its own production and that of a second, which holds the first back. If the inhibitor spreads faster, each spot of activity fences itself off, and spots or stripes appear at regular spacing."
+    },
+    {
+      "opening": "The angelfish stripes",
+      "linkId": null,
+      "text": "In 1995 Shigeru Kondo and Rihito Asai showed that the stripes of a marine angelfish, Pomacanthus, split and add new lines as the fish grows, just as Turing-style simulations predicted. Fixed patterns would simply stretch."
+    },
+    {
+      "opening": "Turing patterns in a dish",
+      "linkId": null,
+      "text": "In 1990 chemists in Bordeaux made the first clear Turing pattern in a lab, a stable field of spots in a gel. Later work suggested the same mechanism helps space the fingers of a mouse paw."
+    }
+  ],
+  "tags": [
+    "patterns",
+    "math-in-nature",
+    "animals",
+    "inventors"
+  ],
+  "related": [
+    "turing-imitation-game",
+    "fibonacci-sunflowers",
+    "game-of-life",
+    "chladni-figures",
+    "penrose-tiling"
+  ]
+}

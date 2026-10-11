@@ -1,0 +1,43 @@
+{
+  "id": "space-oddity-hadfield",
+  "title": "Space Oddity on the ISS",
+  "category": "Space",
+  "hook": "An astronaut sang Bowie's Space Oddity while floating in orbit, guitar and all.",
+  "peek": "Just before leaving the International Space Station in 2013, Canadian astronaut Chris Hadfield recorded a version of David Bowie's Space Oddity in orbit. The video, often called the first music video made in space, was watched millions of times.",
+  "lede": "Chris Hadfield was the first Canadian to command the International Space Station. In May 2013, near the end of his five months aboard, he released a video of himself singing David Bowie's Space Oddity, playing a guitar and drifting through the station's modules with Earth turning in the window behind him. It is widely described as the first music video filmed in space.",
+  "bullets": [
+    {
+      "opening": "The guitar on the station",
+      "linkId": null,
+      "text": "Hadfield played a Larrivée acoustic guitar that was already on the space station for the crew to use. He sang and filmed his parts in orbit, and the backing track was arranged by musicians on the ground."
+    },
+    {
+      "opening": "Rewritten lyrics",
+      "linkId": null,
+      "text": "Hadfield changed some words to match his real trip home. Instead of drifting off like Bowie's Major Tom, his version nods to the Soyuz capsule and a safe return to Earth."
+    },
+    {
+      "opening": "Bowie's blessing",
+      "linkId": null,
+      "text": "Bowie gave his approval and praised the video publicly. It drew millions of views within days and became one of the most watched videos ever made in space."
+    },
+    {
+      "opening": "A licence for one year",
+      "linkId": null,
+      "text": "The original permission to use the song lasted only a year, so the video came offline in 2014. A new agreement soon brought it back."
+    }
+  ],
+  "tags": [
+    "music-tech",
+    "space-exploration",
+    "astronauts",
+    "cover-songs"
+  ],
+  "related": [
+    "golden-record",
+    "jingle-bells-space",
+    "zero-g-indicator",
+    "overview-effect",
+    "pale-blue-dot"
+  ]
+}

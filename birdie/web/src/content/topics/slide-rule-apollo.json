@@ -1,0 +1,48 @@
+{
+  "id": "slide-rule-apollo",
+  "title": "The slide rule on the Moon",
+  "category": "Math",
+  "hook": "Apollo astronauts packed a pocket slide rule, a calculator from the 1600s.",
+  "peek": "Alongside one of the most advanced computers of its day, Apollo crews carried a small yellow Pickett slide rule. It could multiply and divide by sliding two rulers past each other, an idea dating back to the 1620s.",
+  "lede": "The Apollo spacecraft had a guidance computer that steered crews to the Moon. Astronauts also carried something much older: a Pickett N600-ES pocket slide rule, about 15 centimetres long. It could not do anything the computer could not, but it never needed power, never crashed and could check a quick sum in seconds.",
+  "bullets": [
+    {
+      "opening": "Adding lengths to multiply",
+      "linkId": null,
+      "text": "A slide rule uses logarithmic scales, where distance stands for the logarithm of a number. Adding two lengths adds their logarithms, which multiplies the numbers. Line one scale up against another and the answer is read off directly."
+    },
+    {
+      "opening": "William Oughtred's invention",
+      "linkId": null,
+      "text": "The English mathematician William Oughtred built the first slide rules around the 1620s, soon after John Napier introduced logarithms in 1614. The basic design changed little for over three centuries."
+    },
+    {
+      "opening": "Three figures of accuracy",
+      "linkId": null,
+      "text": "A pocket slide rule gives answers to about three significant figures, and the user has to keep track of the decimal point. For engineers, that was usually close enough."
+    },
+    {
+      "opening": "The Pickett N600-ES",
+      "linkId": null,
+      "text": "The model flown on Apollo was made of aluminium and coloured yellow, which Pickett promoted as easier on the eyes. Several astronauts' slide rules are now in museums and private collections."
+    },
+    {
+      "opening": "Pocket calculators take over",
+      "linkId": null,
+      "text": "Within a few years of the HP-35 calculator arriving in 1972, slide rules disappeared from classrooms and offices. The Apollo era turned out to be one of their last big moments."
+    }
+  ],
+  "tags": [
+    "space-exploration",
+    "history-of-things",
+    "inventors",
+    "design"
+  ],
+  "related": [
+    "core-rope-memory",
+    "katherine-johnson",
+    "voyager-computers",
+    "difference-engine-built",
+    "antikythera-mechanism"
+  ]
+}

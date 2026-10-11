@@ -1,0 +1,44 @@
+{
+  "id": "iapetus-two-tone",
+  "title": "Iapetus, the two-faced moon",
+  "category": "Space",
+  "hook": "One of Saturn's moons is dark as coal on one side and bright as ice on the other.",
+  "peek": "In 1671 Giovanni Cassini noticed he could see Saturn's moon Iapetus on one side of the planet but not the other. He guessed why, correctly: one face of the moon is far darker than the other. A spacecraft named after him helped explain it.",
+  "lede": "Giovanni Cassini discovered Iapetus in 1671 and soon noticed something odd. When the moon was west of Saturn he could see it easily. When it was on the east side, it vanished. He reasoned that Iapetus always keeps the same face toward Saturn, and that one half of it is much darker than the other. More than 330 years later, close-up photos proved him right.",
+  "bullets": [
+    {
+      "opening": "Cassini Regio",
+      "linkId": null,
+      "text": "The dark half, named Cassini Regio, covers the side that faces forward as Iapetus orbits. It reflects only a few percent of the sunlight that hits it, like charcoal, while the trailing side reflects roughly ten times as much."
+    },
+    {
+      "opening": "Dust from the Phoebe ring",
+      "linkId": null,
+      "text": "In 2009 the Spitzer Space Telescope found a vast, faint ring of dust far outside Saturn's main rings, fed by the distant moon Phoebe. As Iapetus moves through it, its leading side sweeps up dust, like a windscreen collecting snow."
+    },
+    {
+      "opening": "A runaway darkening",
+      "linkId": null,
+      "text": "The dust alone is not enough. Darkened ground soaks up more sunlight and warms, so its ice slowly turns to vapour and refreezes on the colder, brighter areas. Over millions of years, the dark side grew darker and the bright side brighter."
+    },
+    {
+      "opening": "The equatorial ridge",
+      "linkId": null,
+      "text": "Iapetus has another oddity: a ridge of mountains running along much of its equator, in places about 20 kilometres high. It gives the moon the look of a walnut, and scientists still argue about how it formed."
+    }
+  ],
+  "tags": [
+    "moons",
+    "saturn",
+    "color",
+    "space-exploration"
+  ],
+  "related": [
+    "enceladus-geysers",
+    "titan-methane-lakes",
+    "saturn-hexagon",
+    "saturn-would-float",
+    "moon-far-side",
+    "arrokoth-snowman"
+  ]
+}

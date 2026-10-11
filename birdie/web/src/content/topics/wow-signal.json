@@ -1,0 +1,43 @@
+{
+  "id": "wow-signal",
+  "title": "The Wow! signal",
+  "category": "Space",
+  "hook": "In 1977 an astronomer circled a burst of radio noise and wrote one word beside it.",
+  "peek": "In August 1977 a radio telescope in Ohio picked up a strong, narrow signal from the direction of Sagittarius. Astronomer Jerry Ehman circled it on the printout and wrote Wow in the margin. Nobody has detected it again.",
+  "lede": "On 15 August 1977, the Big Ear radio telescope at Ohio State University was scanning the sky for signals from other civilisations. A few days later, volunteer astronomer Jerry Ehman was checking the computer printouts by hand. He spotted a burst far stronger than the background, circled it in red pen and wrote Wow beside it. The name stuck.",
+  "bullets": [
+    {
+      "opening": "The code 6EQUJ5",
+      "linkId": null,
+      "text": "The printout recorded signal strength as numbers and letters. The run 6EQUJ5 showed the signal rising and then falling, with the letter U marking a level about 30 times the usual background noise."
+    },
+    {
+      "opening": "Exactly 72 seconds",
+      "linkId": null,
+      "text": "Big Ear stayed fixed while it listened, letting Earth's turning sweep its view across the sky, so any fixed source would be seen for about 72 seconds. The signal lasted just that long, as a distant source should."
+    },
+    {
+      "opening": "Near the hydrogen line",
+      "linkId": null,
+      "text": "The signal sat close to 1,420 megahertz, the natural radio frequency of hydrogen. Searchers had long guessed that others might choose that frequency, since any astronomer would know it."
+    },
+    {
+      "opening": "Never heard again",
+      "linkId": null,
+      "text": "Ehman and later teams pointed telescopes at the same patch of sky many times and found nothing. Ideas range from a passing comet to a flaring hydrogen cloud, but none is accepted, and the signal remains unexplained."
+    }
+  ],
+  "tags": [
+    "seti",
+    "communication",
+    "radio",
+    "mysteries"
+  ],
+  "related": [
+    "arecibo-message",
+    "drake-equation",
+    "pulsar-lgm1",
+    "golden-record",
+    "oumuamua"
+  ]
+}

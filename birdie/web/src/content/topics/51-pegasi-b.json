@@ -1,0 +1,43 @@
+{
+  "id": "51-pegasi-b",
+  "title": "51 Pegasi b, the planet that shouldn't exist",
+  "category": "Space",
+  "hook": "The first planet found around a Sun-like star broke the rules of its day.",
+  "peek": "In 1995 two Swiss astronomers found a planet at least half as heavy as Jupiter circling its star in just over four days. Theory said giants like that could only form far from their stars, so many astronomers were doubtful at first.",
+  "lede": "Before 1995 nobody knew for sure whether stars like the Sun had planets. Then Michel Mayor and Didier Queloz of the University of Geneva announced one around 51 Pegasi, a star about 50 light-years away. It was a gas giant at least half the mass of Jupiter, and it went round its star in just 4.2 days, far closer than Mercury is to the Sun.",
+  "bullets": [
+    {
+      "opening": "Measuring a star's wobble",
+      "linkId": null,
+      "text": "They never saw the planet itself. They saw its star moving towards and away from Earth by about 50 metres a second as the planet tugged it, measured from tiny shifts in the star's light at the Haute-Provence Observatory in France."
+    },
+    {
+      "opening": "The first hot Jupiter",
+      "linkId": null,
+      "text": "The planet orbits at about an eighth of Mercury's distance from the Sun, and its upper atmosphere is thought to be around 1,000 degrees Celsius. Planets like it are now called hot Jupiters."
+    },
+    {
+      "opening": "Planets that move inwards",
+      "linkId": null,
+      "text": "To explain it, astronomers took seriously the idea that giant planets form far out and then migrate towards their stars. Thousands of exoplanets later, hot Jupiters turn out to be fairly rare, but real."
+    },
+    {
+      "opening": "Dimidium and a Nobel",
+      "linkId": null,
+      "text": "In 2015 a public naming contest gave the planet the name Dimidium, Latin for half, after its mass. Mayor and Queloz shared the 2019 Nobel Prize in Physics for the discovery."
+    }
+  ],
+  "tags": [
+    "exoplanets",
+    "discoveries",
+    "myths-busted",
+    "names"
+  ],
+  "related": [
+    "kamooalewa",
+    "drake-equation",
+    "neptune-math",
+    "venus-day",
+    "pulsar-lgm1"
+  ]
+}

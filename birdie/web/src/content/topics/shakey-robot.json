@@ -1,0 +1,43 @@
+{
+  "id": "shakey-robot",
+  "title": "Shakey the robot",
+  "category": "Tech",
+  "hook": "The pathfinding trick inside countless apps and games was made for a wobbly robot.",
+  "peek": "In the late 1960s, researchers in California built Shakey, a tall, trembling robot on wheels that could look around a room and plan its route. To help it find the shortest path, they invented A*, an algorithm now used in maps, games and robots everywhere.",
+  "lede": "From 1966 to 1972, researchers at the Stanford Research Institute in California built Shakey, the first mobile robot that could reason about its own actions. It had a TV camera, a range finder and bump sensors, and was linked by radio to a large computer. In 1968, to help it plan routes around rooms, its team published the A* search algorithm.",
+  "bullets": [
+    {
+      "opening": "Why it was called Shakey",
+      "linkId": null,
+      "text": "The robot was a tall stack of equipment on a small wheeled base, and it wobbled as it moved. One of its makers reportedly said that it shook like hell, and the name followed."
+    },
+    {
+      "opening": "The A* search algorithm",
+      "linkId": null,
+      "text": "Peter Hart, Nils Nilsson and Bertram Raphael designed A* to find the shortest route without checking every possibility. It weighs the distance travelled so far against an estimate of the distance left, and versions of it still guide characters in video games and directions in map apps."
+    },
+    {
+      "opening": "Rooms of painted blocks",
+      "linkId": null,
+      "text": "Shakey worked in a set of rooms with large painted blocks and doorways. Given a typed command such as pushing a block, it worked out the steps for itself, using a planning system called STRIPS."
+    },
+    {
+      "opening": "The first electronic person",
+      "linkId": null,
+      "text": "A 1970 Life magazine article called Shakey the first electronic person, which overstated a robot that took a long time to think between moves. Shakey itself is now on display at the Computer History Museum."
+    }
+  ],
+  "tags": [
+    "ai",
+    "robots",
+    "inventors",
+    "games"
+  ],
+  "related": [
+    "dartmouth-ai-summer",
+    "perceptron-1958",
+    "travelling-salesman-pubs",
+    "konigsberg-bridges",
+    "voyager-computers"
+  ]
+}

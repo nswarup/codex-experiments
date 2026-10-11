@@ -1,0 +1,43 @@
+{
+  "id": "apollo-12-lightning",
+  "title": "Apollo 12 and 'SCE to Aux'",
+  "category": "Space",
+  "hook": "Apollo 12 was hit by lightning twice at launch and saved by one odd switch.",
+  "peek": "Seconds after Apollo 12 left the pad in 1969, lightning struck it twice and its instruments went haywire. A young flight controller named John Aaron remembered an obscure switch, and four words over the radio put the mission back on track.",
+  "lede": "On 14 November 1969, Apollo 12 lifted off through rain clouds in Florida. About 36 seconds later, lightning struck the rocket, and again around 52 seconds. Warning lights lit up, the spacecraft's power supply dropped offline, and the data reaching Mission Control turned to gibberish. The crew of Pete Conrad, Dick Gordon and Alan Bean kept climbing while the ground tried to work out what had happened.",
+  "bullets": [
+    {
+      "opening": "John Aaron's hunch",
+      "linkId": null,
+      "text": "Flight controller John Aaron, then 26, recognised the strange pattern of numbers. He had seen it a year earlier during a test, and knew it could be fixed by switching a small unit called Signal Conditioning Equipment, or SCE, to its backup power."
+    },
+    {
+      "opening": "The SCE to Aux call",
+      "linkId": null,
+      "text": "Aaron told the flight director, 'Try SCE to Aux.' Hardly anyone knew the switch. The call went up to the crew, and Alan Bean remembered where it was from training, flipped it, and the data came back."
+    },
+    {
+      "opening": "Rocket-triggered lightning",
+      "linkId": null,
+      "text": "Investigators concluded that the Saturn V had triggered the strikes itself. The tall rocket and its long, electrically conducting exhaust trail gave the charged clouds an easy path to the ground."
+    },
+    {
+      "opening": "Steely-eyed missile man",
+      "linkId": null,
+      "text": "After the flight, Aaron became known around NASA as a steely-eyed missile man, the highest praise in Mission Control. Apollo 12 went on to make a precise landing on the Moon five days later."
+    }
+  ],
+  "tags": [
+    "space-exploration",
+    "weather",
+    "accidents",
+    "inventors"
+  ],
+  "related": [
+    "aldrin-felt-pen",
+    "slide-rule-apollo",
+    "snoopy-charlie-brown",
+    "moon-golf",
+    "apollo-playtex-suits"
+  ]
+}

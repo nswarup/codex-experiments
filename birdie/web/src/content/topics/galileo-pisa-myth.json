@@ -1,0 +1,43 @@
+{
+  "id": "galileo-pisa-myth",
+  "title": "Galileo and the Leaning Tower",
+  "category": "Science",
+  "hook": "Galileo probably never dropped anything from the Leaning Tower of Pisa.",
+  "peek": "The tale of Galileo dropping two balls from the Leaning Tower to prove that heavy and light objects fall together is one of science's best-known stories. Galileo himself never mentioned it, and historians doubt it happened.",
+  "lede": "The story goes that around 1590 Galileo, then a young professor at Pisa, climbed the Leaning Tower and dropped two balls of different weights. They hit the ground together, overturning Aristotle's claim that heavier things fall faster. The tale comes from a biography written by his student Vincenzo Viviani in 1654, more than 60 years later. Most historians think it is a legend.",
+  "bullets": [
+    {
+      "opening": "Viviani's biography",
+      "linkId": null,
+      "text": "Vincenzo Viviani lived with Galileo as his assistant in the last years of Galileo's life and wrote an admiring account afterwards. He may have retold something Galileo said, or polished a thought experiment into a public event."
+    },
+    {
+      "opening": "Galileo's silence",
+      "linkId": null,
+      "text": "Galileo wrote at length about falling bodies, yet none of his surviving writings describes a drop from the Leaning Tower. For a man who liked to publicise his results, that silence is telling."
+    },
+    {
+      "opening": "Galileo's inclined planes",
+      "linkId": null,
+      "text": "What Galileo did document was rolling balls down gentle ramps. Slowing the fall let him time it with a water clock, and showed that distance grows with the square of the time."
+    },
+    {
+      "opening": "The Delft church tower",
+      "linkId": null,
+      "text": "A real drop test did happen in 1586, when the Flemish engineer Simon Stevin and Jan Cornets de Groot dropped two lead balls from a church tower in Delft. They landed at the same moment."
+    }
+  ],
+  "tags": [
+    "myths-busted",
+    "physics",
+    "experiments",
+    "history-of-things"
+  ],
+  "related": [
+    "newtons-apple-tree",
+    "archimedes-eureka",
+    "foucault-pendulum",
+    "cavendish-weighs-earth",
+    "flat-earth-myth"
+  ]
+}

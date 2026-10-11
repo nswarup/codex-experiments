@@ -1,0 +1,43 @@
+{
+  "id": "arrokoth-snowman",
+  "title": "Arrokoth, the snowman at the edge",
+  "category": "Space",
+  "hook": "The farthest world ever visited is two flat lumps gently stuck together.",
+  "peek": "On New Year's Day 2019, NASA's New Horizons flew past Arrokoth, about 6.6 billion km from the Sun. It turned out to be two flattened lumps that touched at walking pace, almost unchanged since the Solar System formed.",
+  "lede": "After flying past Pluto in 2015, NASA's New Horizons spacecraft headed deeper into the Kuiper Belt, a ring of icy bodies beyond Neptune. On 1 January 2019 it passed a small object about 36 km long. The first pictures showed a shape like a reddish snowman. It is still the most distant world any spacecraft has visited up close.",
+  "bullets": [
+    {
+      "opening": "Finding a flyby target",
+      "linkId": null,
+      "text": "Arrokoth was only discovered in 2014, when astronomers searched with the Hubble Space Telescope for something New Horizons could reach after Pluto. Before the flyby it was a faint dot of light."
+    },
+    {
+      "opening": "Snowman to pancakes",
+      "linkId": null,
+      "text": "Later images taken as the craft sped away showed the two lobes are not round balls. The larger one is flattened like a pancake, and the smaller is shaped more like a dented walnut."
+    },
+    {
+      "opening": "A gentle merger",
+      "linkId": null,
+      "text": "The neck between the lobes shows no sign of a violent crash. The two pieces probably orbited each other and drifted together at walking speed or slower, a clue that such bodies formed gently from clouds of pebbles."
+    },
+    {
+      "opening": "The name Arrokoth",
+      "linkId": null,
+      "text": "Its early nickname was Ultima Thule. In 2019 it was renamed Arrokoth, a word for sky in the Powhatan language, with consent from Powhatan elders."
+    }
+  ],
+  "tags": [
+    "kuiper-belt",
+    "space-exploration",
+    "names",
+    "deep-time"
+  ],
+  "related": [
+    "pluto-heart",
+    "pluto-venetia-burney",
+    "oumuamua",
+    "dart-dimorphos",
+    "pale-blue-dot"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "coffee-ring-effect",
+  "title": "The coffee ring effect",
+  "category": "Science",
+  "hook": "A coffee drop dries as a dark ring because the liquid races to its edge.",
+  "peek": "A spilled drop of coffee dries into a dark ring rather than an even stain. Physicists worked out why in 1997: as the edge dries, liquid flows outward to replace it, carrying the coffee grains along. Whisky, oddly, does not do it.",
+  "lede": "Spill a drop of coffee on a table and let it dry. Instead of an even brown spot, you get a pale middle with a dark rim. It looks as if the coffee was pushed outward, and it was. In 1997 a team of physicists at the University of Chicago explained it in the journal Nature, and the answer is a flow too slow to notice.",
+  "bullets": [
+    {
+      "opening": "The pinned edge",
+      "linkId": null,
+      "text": "As a drop starts to dry, its edge often sticks in place on the surface. The drop cannot shrink inward, so it flattens instead, losing liquid fastest at the thin rim."
+    },
+    {
+      "opening": "Flowing out to the rim",
+      "linkId": null,
+      "text": "To replace what evaporates at the edge, liquid flows outward from the middle. It carries tiny coffee particles with it, and they pile up along the rim, leaving the dark ring."
+    },
+    {
+      "opening": "Particle shape matters",
+      "linkId": null,
+      "text": "In 2011 researchers at the University of Pennsylvania found that stretched, egg-shaped particles largely avoid the ring. They clump together at the surface and settle evenly, while round ones flow to the edge."
+    },
+    {
+      "opening": "Why whisky doesn't ring",
+      "linkId": null,
+      "text": "In 2016 a Princeton team found that drops of whisky dry into an even film. Flows driven by the alcohol, plus natural substances from the barrel, keep the particles spread out instead."
+    },
+    {
+      "opening": "Printing without rings",
+      "linkId": null,
+      "text": "The effect is a real nuisance for inkjet printing and coatings, where an even layer matters. Understanding it has helped engineers design inks that dry smoothly."
+    }
+  ],
+  "tags": [
+    "water",
+    "physics",
+    "patterns",
+    "drinks"
+  ],
+  "related": [
+    "lotus-effect",
+    "tea-leaf-paradox",
+    "franklin-oil-pond",
+    "brazil-nut-effect",
+    "brownian-motion"
+  ]
+}

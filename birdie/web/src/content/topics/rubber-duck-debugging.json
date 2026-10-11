@@ -1,0 +1,43 @@
+{
+  "id": "rubber-duck-debugging",
+  "title": "Rubber duck debugging",
+  "category": "Tech",
+  "hook": "Programmers really do fix their code by explaining it to a rubber duck.",
+  "peek": "When a program will not behave, many programmers explain it, line by line, to a rubber duck on the desk. The trick was popularised by a 1999 book, and it works because saying your assumptions out loud exposes the wrong one.",
+  "lede": "Rubber duck debugging is exactly what it sounds like. When code misbehaves, you explain it out loud, one line at a time, to a rubber duck. Somewhere along the way you usually spot the mistake yourself. The name comes from the 1999 book The Pragmatic Programmer, by Andrew Hunt and David Thomas, which made the duck famous.",
+  "bullets": [
+    {
+      "opening": "Greg Pugh's yellow duck",
+      "linkId": null,
+      "text": "The book credits the idea to Greg Pugh, a developer David Thomas worked with at Imperial College London. For months Pugh carried a small yellow rubber duck and set it on his terminal while he coded."
+    },
+    {
+      "opening": "Why explaining works",
+      "linkId": null,
+      "text": "Reading code silently, the mind skims over what it expects to see. Explaining forces each step into words, and the gap between what you say a line does and what it actually does becomes obvious."
+    },
+    {
+      "opening": "The help desk teddy bear",
+      "linkId": null,
+      "text": "Brian Kernighan and Rob Pike's 1999 book The Practice of Programming describes a university computing centre that kept a teddy bear by its help desk. Students had to explain their problem to the bear before talking to a human."
+    },
+    {
+      "opening": "The self-explanation effect",
+      "linkId": null,
+      "text": "Research on learning backs up the duck. In studies led by Michelene Chi from 1989, students who explained worked examples to themselves understood the material better than those who only read them."
+    }
+  ],
+  "tags": [
+    "programming",
+    "problem-solving",
+    "toys",
+    "communication"
+  ],
+  "related": [
+    "hello-world",
+    "clever-hans",
+    "javascript-ten-days",
+    "eliza-chatbot",
+    "trojan-room-coffee-pot"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "friendship-paradox",
+  "title": "The friendship paradox",
+  "category": "Math",
+  "hook": "On average, your friends have more friends than you do.",
+  "peek": "Most people have fewer friends than their friends have, on average. It is not bad luck or a social failing. People with lots of friends turn up in lots of friend lists, so they get counted again and again.",
+  "lede": "In 1991 the sociologist Scott Feld published a paper with a cheeky title: \"Why your friends have more friends than you do\". His point was purely mathematical. When you look at the friends of a typical person, the most sociable people are overrepresented, because they appear in so many circles. So most people find that their friends are, on average, better connected than they are.",
+  "bullets": [
+    {
+      "opening": "A star-shaped friend group",
+      "linkId": null,
+      "text": "Picture one popular person with ten friends who know only that person. Across all eleven, the average is under two friends each. Yet ten of the eleven have a friend with ten friends, so nearly everyone is outnumbered."
+    },
+    {
+      "opening": "Counted many times over",
+      "linkId": null,
+      "text": "The effect comes from sampling. Pick a random person and you get an ordinary one. Pick a random friend of a random person and you are far more likely to land on someone popular, since they can be reached from many directions."
+    },
+    {
+      "opening": "Facebook and Twitter networks",
+      "linkId": null,
+      "text": "Large studies of online networks found the pattern holding strongly. On Facebook in 2011, most users had fewer friends than their friends did on average, and studies of Twitter found the same for followers."
+    },
+    {
+      "opening": "Not a judgement on you",
+      "linkId": null,
+      "text": "The paradox is about averages, not individuals. It holds in almost any network where some people are much better connected than others, so feeling less popular than your friends is mostly arithmetic."
+    }
+  ],
+  "tags": [
+    "probability",
+    "paradoxes",
+    "patterns",
+    "myths-busted"
+  ],
+  "related": [
+    "birthday-paradox",
+    "simpsons-paradox",
+    "erdos-number",
+    "benfords-law",
+    "braess-paradox"
+  ]
+}

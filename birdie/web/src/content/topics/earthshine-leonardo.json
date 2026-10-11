@@ -1,0 +1,43 @@
+{
+  "id": "earthshine-leonardo",
+  "title": "Leonardo da Vinci and earthshine",
+  "category": "Space",
+  "hook": "Leonardo worked out why the dark part of a crescent Moon faintly glows.",
+  "peek": "On a clear evening with a thin crescent Moon, the rest of the disc often glows a faint grey. Around 500 years ago Leonardo da Vinci explained why in his notebooks: it is sunlight bouncing off Earth and lighting up the Moon.",
+  "lede": "Look at a thin crescent Moon after sunset and you can often see the rest of the disc, glowing a dim ashen grey. Leonardo da Vinci puzzled over this and, in notes written in the early 1500s, gave the right answer. Sunlight hits Earth, bounces off it and lands on the Moon's night side, which then reflects a little of it back to us.",
+  "bullets": [
+    {
+      "opening": "The Codex Leicester",
+      "linkId": null,
+      "text": "Leonardo's explanation is in the Codex Leicester, a notebook from around 1506 to 1510 filled with his studies of water, rocks and light. Bill Gates bought the notebook in 1994, and it is still one of his best-known purchases."
+    },
+    {
+      "opening": "Leonardo's seas theory",
+      "linkId": null,
+      "text": "Leonardo thought Earth's oceans did most of the reflecting. The basic idea was right, but the detail was off: today we know that clouds, which are much brighter than seawater, reflect a large share of the light."
+    },
+    {
+      "opening": "Michael Maestlin's explanation",
+      "linkId": null,
+      "text": "Because Leonardo's notebooks were not published, the idea was worked out again later. The German astronomer Michael Maestlin, Johannes Kepler's teacher, explained earthshine in the late 1500s, and Kepler spread the idea in his own writing."
+    },
+    {
+      "opening": "Measuring Earth with earthshine",
+      "linkId": null,
+      "text": "Earthshine is brightest near a thin crescent, because from the Moon, Earth then looks almost full. Modern astronomers measure earthshine to track how much sunlight our planet reflects, a figure that matters for understanding climate."
+    }
+  ],
+  "tags": [
+    "light",
+    "inventors",
+    "moon",
+    "art"
+  ],
+  "related": [
+    "moon-far-side",
+    "pale-blue-dot",
+    "moon-illusion",
+    "eclipse-coincidence",
+    "moon-drifting"
+  ]
+}

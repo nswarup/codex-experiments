@@ -1,0 +1,44 @@
+{
+  "id": "caesium-second",
+  "title": "How long is a second",
+  "category": "Science",
+  "hook": "A second is officially 9,192,631,770 ticks of a caesium atom.",
+  "peek": "For most of history a second was a sliver of a day. Since 1967 it has been defined by atoms instead, because the Earth turned out to be a wobbly, slowing clock.",
+  "lede": "For centuries a second was simply 1/86,400 of a day. The trouble is that the Earth is a poor timekeeper: its spin wobbles and slowly winds down. So in 1967 scientists cut the second loose from the sky. It became exactly 9,192,631,770 cycles of the microwave radiation that a caesium-133 atom absorbs when it flips between two energy states.",
+  "bullets": [
+    {
+      "opening": "Louis Essen's caesium clock",
+      "linkId": null,
+      "text": "In 1955 the physicist Louis Essen and his colleague Jack Parry built the first practical caesium clock at the National Physical Laboratory near London. It kept time far more steadily than any clock based on the stars."
+    },
+    {
+      "opening": "Why such an odd number",
+      "linkId": null,
+      "text": "The figure 9,192,631,770 was not picked for neatness. It was measured so that the new atomic second would match the old astronomical second as closely as possible, keeping every existing clock and calendar in step."
+    },
+    {
+      "opening": "Leap seconds",
+      "linkId": null,
+      "text": "Atomic time and the turning Earth slowly drift apart, so since 1972 timekeepers have added occasional leap seconds to keep them aligned. In 2022 they voted to stop doing so by 2035, because the extra seconds upset computer systems."
+    },
+    {
+      "opening": "Optical clocks",
+      "linkId": null,
+      "text": "Newer clocks use atoms that tick tens of thousands of times faster, at the frequencies of light. They are so steady that metrologists expect to redefine the second around them in the coming years."
+    }
+  ],
+  "tags": [
+    "time",
+    "measurement",
+    "physics",
+    "atoms"
+  ],
+  "related": [
+    "hafele-keating",
+    "harrison-clocks",
+    "le-grand-k",
+    "metre-from-meridian",
+    "grace-hopper-nanosecond",
+    "gps-relativity"
+  ]
+}

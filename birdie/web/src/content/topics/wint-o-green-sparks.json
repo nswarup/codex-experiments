@@ -1,0 +1,43 @@
+{
+  "id": "wint-o-green-sparks",
+  "title": "Wint-O-Green sparks",
+  "category": "Science",
+  "hook": "Bite a Wint-O-Green Life Saver in the dark and it gives off a blue flash.",
+  "peek": "Crunch a wintergreen Life Saver in a dark room, facing a mirror, and you will see tiny blue sparks. Breaking sugar crystals makes miniature lightning, and the wintergreen flavouring turns it into light you can actually see.",
+  "lede": "Stand in a pitch-dark room in front of a mirror, let your eyes adjust, and crunch a Wint-O-Green Life Saver with your mouth open. You will see faint blue-green flashes. The effect is called triboluminescence: light made by breaking or rubbing something. Here, the candy's sugar crystals and its flavouring work together to do it.",
+  "bullets": [
+    {
+      "opening": "Cracking sugar crystals",
+      "linkId": null,
+      "text": "When a sugar crystal breaks, positive and negative charges end up on opposite sides of the crack. The gap is tiny, and the charges jump across it in a minute electrical spark, much like lightning."
+    },
+    {
+      "opening": "Sparks in the air",
+      "linkId": null,
+      "text": "Those sparks excite nitrogen in the air, which glows mostly in ultraviolet light that our eyes cannot see. Only a faint trace of the glow is visible blue."
+    },
+    {
+      "opening": "Wintergreen oil fluorescence",
+      "linkId": null,
+      "text": "The flavouring, methyl salicylate, is fluorescent. It soaks up the invisible ultraviolet and gives it back as blue light, making the flash far brighter than plain sugar could manage."
+    },
+    {
+      "opening": "Linda Sweeting's research",
+      "linkId": null,
+      "text": "The chemist Linda Sweeting of Towson University in Maryland studied the effect in the 1980s and helped explain it. Ordinary sugar cubes crushed in the dark spark too, just more faintly."
+    }
+  ],
+  "tags": [
+    "light",
+    "candy",
+    "chemistry",
+    "experiments"
+  ],
+  "related": [
+    "tonic-water-glow",
+    "catatumbo-lightning",
+    "platypus-glow",
+    "cotton-candy-dentist",
+    "bismuth-crystals"
+  ]
+}

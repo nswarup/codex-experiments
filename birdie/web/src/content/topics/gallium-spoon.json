@@ -1,0 +1,48 @@
+{
+  "id": "gallium-spoon",
+  "title": "Gallium, the metal that melts in your hand",
+  "category": "Science",
+  "hook": "Gallium is a solid metal that melts at about 30°C, warm enough for a hand.",
+  "peek": "Gallium looks like a dull silvery metal, but it melts at about 30°C. Hold a piece and it turns to a shining liquid in your palm. Stir tea with a gallium spoon and the spoon slumps away into the cup.",
+  "lede": "Gallium is a soft, silvery metal that stays solid on a cool day. Its melting point is just under 30°C, a little below body temperature. Hold a lump in your hand and it slowly turns into a liquid that looks like mercury. A spoon cast from it will melt away in a cup of hot tea, an old trick played on unsuspecting guests.",
+  "bullets": [
+    {
+      "opening": "Mendeleev's eka-aluminium",
+      "linkId": "mendeleev-gaps",
+      "text": "In 1871 Dmitri Mendeleev predicted an undiscovered element he called eka-aluminium, below aluminium in his table. Gallium, found in 1875, fitted his description closely."
+    },
+    {
+      "opening": "Paul-Émile Lecoq de Boisbaudran",
+      "linkId": null,
+      "text": "The French chemist Lecoq de Boisbaudran discovered gallium and named it after Gallia, Latin for France. Mendeleev wrote to say his density figure was too low, and after purifying more, Lecoq found Mendeleev was right."
+    },
+    {
+      "opening": "Expanding when it freezes",
+      "linkId": null,
+      "text": "Like water, gallium grows slightly larger when it turns solid. It is usually stored in plastic rather than glass, since a full glass bottle can crack as the metal freezes."
+    },
+    {
+      "opening": "Gallium and aluminium",
+      "linkId": null,
+      "text": "Liquid gallium seeps between the grains of aluminium and makes it weak and crumbly. A small drop can turn a sturdy aluminium sheet brittle enough to snap by hand."
+    },
+    {
+      "opening": "Gallium in blue LEDs",
+      "linkId": null,
+      "text": "Today most gallium ends up in electronics. Gallium nitride is the material behind blue and white LEDs, an invention that won the 2014 Nobel Prize in Physics."
+    }
+  ],
+  "tags": [
+    "metals",
+    "chemistry",
+    "elements",
+    "materials"
+  ],
+  "related": [
+    "mendeleev-gaps",
+    "ytterby",
+    "bismuth-crystals",
+    "gold-leaf-green",
+    "diamonds-burn"
+  ]
+}

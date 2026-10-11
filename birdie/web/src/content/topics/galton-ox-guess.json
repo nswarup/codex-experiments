@@ -1,0 +1,43 @@
+{
+  "id": "galton-ox-guess",
+  "title": "The ox-weighing contest",
+  "category": "Math",
+  "hook": "Some 800 fairgoers guessed an ox's weight, and their middle guess was within 1%.",
+  "peek": "At a 1906 livestock show in Plymouth, hundreds of people paid sixpence to guess the weight of an ox. Francis Galton collected the tickets afterwards. The middle guess of the whole crowd was off by just nine pounds, closer than most of the individual guesses.",
+  "lede": "In 1906 the scientist Francis Galton, then in his eighties, visited the West of England Fat Stock and Poultry Exhibition in Plymouth. Visitors paid sixpence each to guess the weight of an ox, with prizes for the closest. Galton borrowed the tickets afterwards and lined up the guesses. The middle one, the median, was 1,207 pounds. The ox weighed 1,198.",
+  "bullets": [
+    {
+      "opening": "The 787 usable tickets",
+      "linkId": null,
+      "text": "About 800 tickets were sold, and Galton threw out 13 that were defective or illegible, leaving 787. Some guessers were butchers and farmers, but many were ordinary visitors with no special knowledge of cattle."
+    },
+    {
+      "opening": "Vox Populi in Nature",
+      "linkId": null,
+      "text": "Galton wrote up the result in a short paper called Vox Populi, published in the journal Nature in March 1907. He had expected the crowd to do poorly, and was struck that its median landed within 1% of the true weight."
+    },
+    {
+      "opening": "The median versus the mean",
+      "linkId": null,
+      "text": "Galton chose the median because a few wild guesses barely move it. Later readers worked out the plain average from his figures and found it even closer, within a few pounds of the real weight."
+    },
+    {
+      "opening": "The Wisdom of Crowds",
+      "linkId": null,
+      "text": "The contest became famous again through James Surowiecki's 2004 book The Wisdom of Crowds. The lesson has a catch: it works best when people guess independently, since copying each other spreads the same mistakes."
+    }
+  ],
+  "tags": [
+    "probability",
+    "experiments",
+    "history-of-things",
+    "myths-busted"
+  ],
+  "related": [
+    "galton-board",
+    "benfords-law",
+    "friendship-paradox",
+    "linda-problem",
+    "simpsons-paradox"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "graphene-sticky-tape",
+  "title": "Graphene and the sticky tape",
+  "category": "Science",
+  "hook": "A Nobel Prize material was first peeled off a lump of graphite with sticky tape.",
+  "peek": "Graphene is a sheet of carbon just one atom thick. Physicists long doubted it could exist on its own, until two researchers in Manchester pulled it from a lump of graphite with ordinary sticky tape and won a Nobel Prize for it.",
+  "lede": "Graphite, the grey stuff in pencils, is a stack of carbon sheets, each one atom thick. A single sheet is called graphene, and for decades many physicists thought it would be too unstable to exist alone. In 2004 Andre Geim and Konstantin Novoselov at the University of Manchester isolated it using a surprisingly humble tool: sticky tape.",
+  "bullets": [
+    {
+      "opening": "Geim's Friday night experiments",
+      "linkId": null,
+      "text": "Geim liked to set aside Friday evenings for odd, low-cost side projects. The graphene work grew out of one of them. Researchers already used tape to clean graphite surfaces, and the used tape held thin flakes that were worth a closer look."
+    },
+    {
+      "opening": "Peeling graphite flakes",
+      "linkId": null,
+      "text": "Pressing tape onto graphite and pulling it off lifts a thin layer. Folding the tape and peeling again splits the flakes thinner each time. After enough peels, a few flakes are only one atom thick."
+    },
+    {
+      "opening": "Seeing a single atom layer",
+      "linkId": null,
+      "text": "A sheet one atom thick should be invisible, but on a silicon wafer with an oxide coating of just the right thickness, light interference makes graphene show up under an ordinary microscope. That made the flakes possible to find."
+    },
+    {
+      "opening": "The 2010 Nobel Prize",
+      "linkId": null,
+      "text": "Geim and Novoselov shared the 2010 Nobel Prize in Physics, only six years after their paper. Graphene turned out to be extremely strong for its weight, a very good conductor of electricity and heat, and almost transparent."
+    },
+    {
+      "opening": "Graphene in pencil lines",
+      "linkId": null,
+      "text": "Every pencil line is made of graphite flakes rubbed onto paper, and some of those flakes are probably only a few layers thick, perhaps even single sheets. People had been making tiny bits of graphene for centuries without knowing it."
+    }
+  ],
+  "tags": [
+    "materials",
+    "accidents",
+    "inventors",
+    "physics"
+  ],
+  "related": [
+    "aerogel",
+    "diamonds-burn",
+    "superfluid-helium",
+    "gold-leaf-green",
+    "bismuth-crystals"
+  ]
+}

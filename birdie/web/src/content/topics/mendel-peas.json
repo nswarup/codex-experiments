@@ -1,0 +1,48 @@
+{
+  "id": "mendel-peas",
+  "title": "Gregor Mendel's peas",
+  "category": "Science",
+  "hook": "A monk's pea garden revealed the rules of heredity, then sat ignored for 35 years.",
+  "peek": "In a monastery garden in Brno, Gregor Mendel crossed thousands of pea plants and counted their offspring. He found that traits pass down in neat, predictable ratios. Almost nobody noticed until 1900.",
+  "lede": "Gregor Mendel was an Augustinian friar at St Thomas's Abbey in Brno, in what is now the Czech Republic. Between 1856 and 1863 he grew and crossed tens of thousands of pea plants, tracking traits such as flower colour and seed shape. He found that traits are passed on in separate units, which we now call genes, and in predictable ratios.",
+  "bullets": [
+    {
+      "opening": "The seven pea traits",
+      "linkId": null,
+      "text": "Mendel chose seven traits that came in two clear forms, such as round or wrinkled seeds and yellow or green peas. Peas suited him well: they grow fast, have clear differences, and he could control which plants pollinated which."
+    },
+    {
+      "opening": "The three-to-one ratio",
+      "linkId": null,
+      "text": "When he crossed two pure lines, one form vanished in the first generation. In the next, it came back in about one plant in four. That 3 to 1 pattern suggested each plant carried two units for a trait, one from each parent."
+    },
+    {
+      "opening": "The 1865 lecture",
+      "linkId": null,
+      "text": "Mendel presented his results to the Natural History Society of Brno in 1865 and published them in 1866. The paper was read by few and understood by fewer. In 1868 he became abbot, and his time for research shrank."
+    },
+    {
+      "opening": "Rediscovery in 1900",
+      "linkId": null,
+      "text": "In 1900 botanists including Hugo de Vries and Carl Correns, working separately, reached the same rules and then found Mendel's paper. Credit went back to him, years after his time had passed."
+    },
+    {
+      "opening": "Mendel's too-tidy numbers",
+      "linkId": null,
+      "text": "In 1936 the statistician Ronald Fisher argued that Mendel's ratios fit theory almost too well. Whether that reflects bias, a helper's tidying or simple luck is still debated, but the rules themselves are not in doubt."
+    }
+  ],
+  "tags": [
+    "plants",
+    "genetics",
+    "experiments",
+    "patterns"
+  ],
+  "related": [
+    "van-helmont-willow",
+    "wegener-continental-drift",
+    "smell-receptor-genes",
+    "methuselah-date-palm",
+    "bamboo-mass-flowering"
+  ]
+}

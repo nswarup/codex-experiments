@@ -1,0 +1,43 @@
+{
+  "id": "tereshkova-chaika",
+  "title": "Valentina Tereshkova, call sign Seagull",
+  "category": "Space",
+  "hook": "The first woman in space flew solo for three days as Seagull.",
+  "peek": "In 1963 Valentina Tereshkova, a former textile worker and amateur skydiver, flew alone around Earth 48 times. Her radio call sign was Chaika, Russian for seagull, and she spent more time in orbit than all the American astronauts before her put together.",
+  "lede": "On 16 June 1963, Valentina Tereshkova launched aboard Vostok 6 and became the first woman in space. She was 26. Over almost three days she circled Earth 48 times, alone. Her radio call sign was Chaika, Russian for seagull, and her first words from orbit were reported as 'I am Seagull', a phrase that became famous in the Soviet Union.",
+  "bullets": [
+    {
+      "opening": "A textile worker who skydived",
+      "linkId": null,
+      "text": "Tereshkova worked in a textile factory in Yaroslavl and was a keen amateur parachutist. That mattered: Vostok pilots ejected and landed by parachute, so skydiving experience helped her win a place among five women chosen for training in 1962."
+    },
+    {
+      "opening": "Forty-eight orbits",
+      "linkId": null,
+      "text": "Her flight lasted about 71 hours. That was more time in space than all six of America's Mercury astronauts had logged between them by then, and more orbits than all the Mercury flights combined."
+    },
+    {
+      "opening": "Only solo woman in orbit",
+      "linkId": null,
+      "text": "She is still the only woman to have flown a space mission entirely on her own. The next woman in space, Svetlana Savitskaya, did not fly until 1982, almost twenty years later."
+    },
+    {
+      "opening": "Tereshkova crater",
+      "linkId": null,
+      "text": "Her name is on the Moon: a crater on the far side is called Tereshkova. An asteroid discovered in 1969 was named Chaika, after her call sign."
+    }
+  ],
+  "tags": [
+    "space-exploration",
+    "records",
+    "names",
+    "communication"
+  ],
+  "related": [
+    "gagarin-parachute",
+    "jingle-bells-space",
+    "cecilia-payne",
+    "moon-far-side",
+    "pale-blue-dot"
+  ]
+}

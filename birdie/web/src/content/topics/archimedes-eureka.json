@@ -1,0 +1,43 @@
+{
+  "id": "archimedes-eureka",
+  "title": "Archimedes and the bath",
+  "category": "Science",
+  "hook": "The Eureka story was first written down two centuries after Archimedes.",
+  "peek": "Archimedes leaping from his bath and running through the streets shouting Eureka is a great story. It first appears about 200 years after his time, and the trick it describes would have been almost impossible to carry out.",
+  "lede": "The tale goes like this. King Hiero II of Syracuse suspected that a goldsmith had mixed silver into a gold crown. Archimedes, stepping into a bath, saw the water rise and realised he could measure the crown's volume. He ran home naked shouting heureka, Greek for I have found it. Our only source is the Roman architect Vitruvius, writing about two centuries later.",
+  "bullets": [
+    {
+      "opening": "Vitruvius's version",
+      "linkId": null,
+      "text": "Vitruvius says Archimedes compared the water spilled by the crown with that spilled by an equal weight of pure gold. If the crown held silver, which is lighter, it would be bulkier and spill more."
+    },
+    {
+      "opening": "Too small to see",
+      "linkId": null,
+      "text": "Modern estimates suggest that for a crown of realistic size, the extra spill would raise the water in a bowl by less than a millimetre. Surface tension and drips would swamp a difference that small."
+    },
+    {
+      "opening": "Galileo's little balance",
+      "linkId": null,
+      "text": "In 1586 the young Galileo wrote a short essay, La Bilancetta, arguing that Archimedes more likely hung the crown and gold from a balance and lowered both into water. Any difference in volume would tip the scale."
+    },
+    {
+      "opening": "On Floating Bodies",
+      "linkId": null,
+      "text": "Archimedes really did work out the principle of buoyancy in his treatise On Floating Bodies. It says that an object in water is pushed up by the weight of the water it displaces, but the treatise never mentions a crown or a bath."
+    }
+  ],
+  "tags": [
+    "myths-busted",
+    "physics",
+    "inventors",
+    "history-of-things"
+  ],
+  "related": [
+    "galileo-pisa-myth",
+    "newtons-apple-tree",
+    "eratosthenes-earth",
+    "antikythera-mechanism",
+    "cavendish-weighs-earth"
+  ]
+}

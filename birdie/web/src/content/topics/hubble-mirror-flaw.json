@@ -1,0 +1,43 @@
+{
+  "id": "hubble-mirror-flaw",
+  "title": "Hubble's glasses",
+  "category": "Space",
+  "hook": "The Hubble telescope launched with blurry vision, so astronauts fitted it with glasses.",
+  "peek": "When Hubble reached orbit in 1990, its main mirror turned out to be the wrong shape by a sliver far thinner than a human hair. In 1993 astronauts installed corrective optics that worked like a pair of spectacles.",
+  "lede": "The Hubble Space Telescope launched in April 1990, and its first images were disappointingly fuzzy. Its 2.4 metre main mirror had been polished very precisely, but to the wrong shape. Towards its edge it was too flat by about two micrometres, roughly a fiftieth of the width of a human hair. That tiny error was enough to smear starlight into a blurry halo.",
+  "bullets": [
+    {
+      "opening": "The misplaced lens",
+      "linkId": null,
+      "text": "The mirror had been ground using a testing device called a null corrector. One of its lenses was out of position by about 1.3 millimetres, so the device said the mirror was perfect when it was not."
+    },
+    {
+      "opening": "Measuring the exact error",
+      "linkId": null,
+      "text": "Because the mirror was wrong in a very consistent way, engineers could work out the error precisely from Hubble's own blurry pictures. Knowing the exact flaw meant they could design a prescription to cancel it."
+    },
+    {
+      "opening": "The 1993 servicing mission",
+      "linkId": null,
+      "text": "In December 1993 astronauts on shuttle Endeavour made five spacewalks to fit COSTAR, a box of small corrective mirrors, and a new main camera with its own correction built in. The sharpened images were stunning."
+    },
+    {
+      "opening": "COSTAR in a museum",
+      "linkId": null,
+      "text": "Later instruments had the correction built in, so COSTAR was no longer needed. Astronauts removed it in 2009, and it is now on display at the Smithsonian National Air and Space Museum."
+    }
+  ],
+  "tags": [
+    "telescopes",
+    "space-exploration",
+    "accidents",
+    "light"
+  ],
+  "related": [
+    "hubble-deep-field",
+    "jwst-gold",
+    "barry-lyndon-lenses",
+    "pale-blue-dot",
+    "shuttle-woodpeckers"
+  ]
+}

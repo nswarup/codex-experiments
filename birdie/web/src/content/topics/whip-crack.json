@@ -1,0 +1,43 @@
+{
+  "id": "whip-crack",
+  "title": "A whip's crack is a sonic boom",
+  "category": "Science",
+  "hook": "The crack of a whip is a tiny sonic boom made by its tip.",
+  "peek": "A flick of the wrist sends a wave down a whip that speeds up as the whip gets thinner. By the end, part of it is moving faster than sound, and the crack you hear is a miniature sonic boom.",
+  "lede": "A whip's crack sounds like leather slapping leather, but nothing hits anything. The sound is a small sonic boom. The whip is moving faster than sound, about 343 metres a second in air, and pushes a shock wave ahead of it. That makes the whip a strong candidate for the first human-made thing to break the sound barrier, thousands of years before jets.",
+  "bullets": [
+    {
+      "opening": "The tapering whip",
+      "linkId": null,
+      "text": "A flick of the handle sends a loop rolling down the whip. As the whip narrows, the same energy is carried by less and less material, so the loop speeds up, until near the tip it outruns sound."
+    },
+    {
+      "opening": "Photographing the crack",
+      "linkId": null,
+      "text": "In 1927 the French physicist Z. Carrière used spark photography to catch a cracking whip and saw a shock wave leaving its end. It was the first direct evidence that the crack was a sonic boom."
+    },
+    {
+      "opening": "The loop, not the tip",
+      "linkId": null,
+      "text": "Later work refined the picture. Studies around 2002 by mathematicians Alain Goriely and Tyler McMillen suggested the boom comes from the travelling loop as it reaches the end, which can move faster than the tip itself."
+    },
+    {
+      "opening": "The cracker at the end",
+      "linkId": null,
+      "text": "Most whips end in a small tuft of string or nylon called the cracker or popper. It is the fastest-moving part, takes the most wear, and is replaced regularly by people who crack whips for sport or shows."
+    }
+  ],
+  "tags": [
+    "acoustics",
+    "physics",
+    "speed",
+    "history-of-things"
+  ],
+  "related": [
+    "buys-ballot-trumpeters",
+    "parker-solar-probe",
+    "prince-ruperts-drop",
+    "foley-art",
+    "singing-dunes"
+  ]
+}

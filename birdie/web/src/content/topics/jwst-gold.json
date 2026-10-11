@@ -1,0 +1,43 @@
+{
+  "id": "jwst-gold",
+  "title": "The gold on James Webb's mirrors",
+  "category": "Space",
+  "hook": "All the gold on the Webb telescope's giant mirror weighs about as much as a golf ball.",
+  "peek": "The James Webb Space Telescope's golden mirror is 6.5 metres across, yet its gold coating is so thin that all of it together weighs only about 48 grams. That is roughly the mass of a golf ball.",
+  "lede": "The James Webb Space Telescope, launched on Christmas Day 2021, has a main mirror 6.5 metres wide, made of 18 hexagonal segments that shine gold. They are not solid gold. Each segment is made of the light metal beryllium, with a coating of gold only about 100 nanometres thick. Across the whole mirror, that adds up to roughly 48 grams, about the mass of a golf ball.",
+  "bullets": [
+    {
+      "opening": "Why gold for infrared",
+      "linkId": null,
+      "text": "Webb looks mainly at infrared light, the kind given off by warm objects and by very distant galaxies. Gold reflects infrared light especially well, sending back almost all of it."
+    },
+    {
+      "opening": "Coating with vaporised gold",
+      "linkId": null,
+      "text": "The gold was applied in a vacuum chamber, where it was turned to vapour and allowed to settle evenly onto each segment. A very thin layer of glass was added on top to protect the soft gold from scratches."
+    },
+    {
+      "opening": "Beryllium mirror segments",
+      "linkId": null,
+      "text": "Beryllium is strong, light and keeps its shape in the deep cold where Webb works. That cold matters, because a warm telescope would glow in infrared and drown out what it is trying to see."
+    },
+    {
+      "opening": "A mirror that unfolded",
+      "linkId": null,
+      "text": "The mirror was too wide to fit inside its Ariane 5 rocket, so it was folded for launch. Once in space, its outer panels swung into place and the 18 segments were aligned to work as one."
+    }
+  ],
+  "tags": [
+    "telescopes",
+    "gold",
+    "light",
+    "scale"
+  ],
+  "related": [
+    "hubble-mirror-flaw",
+    "hubble-deep-field",
+    "golf-ball-dimples",
+    "cosmic-latte",
+    "51-pegasi-b"
+  ]
+}

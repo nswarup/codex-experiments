@@ -1,0 +1,44 @@
+{
+  "id": "email-at-sign",
+  "title": "The @ in email",
+  "category": "Tech",
+  "hook": "Email got its @ because it was an unused key that already meant \"at\".",
+  "peek": "In 1971 Ray Tomlinson sent the first email between two computers on the ARPANET. To separate a person's name from their machine's name, he needed a symbol nobody used in names. He looked down at his keyboard and chose @.",
+  "lede": "Programmers could already leave messages for each other on a single shared computer. In 1971 Ray Tomlinson, an engineer at the firm BBN, found a way to send them across the ARPANET to a different machine. Addresses needed to say who and where. He wanted a character that would never appear in a name, and @ was sitting on his keyboard, rarely used, already meaning \"at\".",
+  "bullets": [
+    {
+      "opening": "Two computers side by side",
+      "linkId": null,
+      "text": "The first networked messages went between two machines in the same room, linked through the ARPANET. Tomlinson sent test messages back and forth and has said he cannot remember what they said, probably something like QWERTYUIOP."
+    },
+    {
+      "opening": "At the rate of",
+      "linkId": null,
+      "text": "Before email, @ was mainly a shopkeeper's symbol, as in \"5 apples @ 10 cents\". It was on Tomlinson's Teletype keyboard for that reason, which is why it was available and why few people had a use for it."
+    },
+    {
+      "opening": "Snails and monkey tails",
+      "linkId": null,
+      "text": "Many languages give the email @ a playful nickname. Italians call it chiocciola, a snail. Dutch speakers say apenstaartje, a little monkey's tail, and Swedes call it snabel-a, an elephant's trunk a."
+    },
+    {
+      "opening": "MoMA's 2010 acquisition",
+      "linkId": null,
+      "text": "In 2010 the Museum of Modern Art added the @ sign to its design collection. It was an unusual acquisition, since nobody can own a symbol, and the museum cited the way email gave it new life."
+    }
+  ],
+  "tags": [
+    "communication",
+    "internet",
+    "inventors",
+    "etymology"
+  ],
+  "related": [
+    "arpanet-lo",
+    "spam-monty-python",
+    "fahlman-smiley",
+    "qwerty",
+    "vague-but-exciting",
+    "kurita-emoji"
+  ]
+}

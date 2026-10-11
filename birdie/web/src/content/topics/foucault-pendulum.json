@@ -1,0 +1,44 @@
+{
+  "id": "foucault-pendulum",
+  "title": "Foucault's pendulum",
+  "category": "Science",
+  "hook": "In 1851 a swinging ball under the Panthéon's dome let Paris watch the Earth turn.",
+  "peek": "Léon Foucault hung a heavy ball from a 67-metre wire in Paris and set it swinging. Over the hours its swing slowly turned across the floor, not because the pendulum changed course, but because the Earth rotated underneath it.",
+  "lede": "In 1851 the physicist Léon Foucault hung a 28-kilogram ball from a wire 67 metres long inside the dome of the Panthéon in Paris. A pendulum keeps swinging in the same direction unless something pushes it. Yet over the hours, the line of its swing slowly turned. What was really turning was the floor, carried round by the spinning Earth.",
+  "bullets": [
+    {
+      "opening": "The cellar and the Observatory",
+      "linkId": null,
+      "text": "Foucault first tried the idea in January 1851 with a 2-metre pendulum in his cellar. He then showed a longer one at the Paris Observatory, sending out invitations to come and see the Earth turn."
+    },
+    {
+      "opening": "The ring of sand",
+      "linkId": null,
+      "text": "A point under the bob traced marks in a ring of sand on the floor, so watchers could see each swing land a little further round than the one before."
+    },
+    {
+      "opening": "32 hours in Paris",
+      "linkId": null,
+      "text": "The speed depends on latitude. At the North or South Pole the swing would turn a full circle in about a day. In Paris it takes about 32 hours, and at the equator it does not turn at all."
+    },
+    {
+      "opening": "Pendulums around the world",
+      "linkId": null,
+      "text": "The demonstration caused a sensation, and copies were soon swinging in cities across Europe and America. Science museums still hang them today, and a replica swings again in the Panthéon."
+    }
+  ],
+  "tags": [
+    "physics",
+    "experiments",
+    "time",
+    "earth"
+  ],
+  "related": [
+    "cavendish-weighs-earth",
+    "harrison-clocks",
+    "eratosthenes-earth",
+    "galileo-pisa-myth",
+    "flat-earth-myth",
+    "moon-drifting"
+  ]
+}

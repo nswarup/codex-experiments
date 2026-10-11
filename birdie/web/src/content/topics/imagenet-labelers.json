@@ -1,0 +1,44 @@
+{
+  "id": "imagenet-labelers",
+  "title": "ImageNet's army of labellers",
+  "category": "Tech",
+  "hook": "Modern AI vision was built on photos sorted by tens of thousands of online workers.",
+  "peek": "To teach computers to see, the researcher Fei-Fei Li needed millions of photos labelled by hand. Her team found the people to do it on Amazon Mechanical Turk, and the dataset they built kick-started the deep learning boom.",
+  "lede": "In 2007 the computer scientist Fei-Fei Li set out to build a picture collection big enough to teach machines what the world looks like. Labelling it with students would have taken many years. Instead her team turned to Amazon Mechanical Turk, a site that pays people small sums for quick online tasks. Tens of thousands of workers ended up sorting about 14 million images.",
+  "bullets": [
+    {
+      "opening": "Amazon Mechanical Turk workers",
+      "linkId": null,
+      "text": "Li has said roughly 49,000 workers in 167 countries took part. Each was shown a batch of photos and asked whether a word like \"husky\" or \"teapot\" really described them, and several people checked each image to catch mistakes."
+    },
+    {
+      "opening": "Categories borrowed from WordNet",
+      "linkId": null,
+      "text": "The labels came from WordNet, a dictionary-like database that groups English nouns by meaning. That gave ImageNet more than 20,000 categories, from everyday objects to dozens of dog breeds."
+    },
+    {
+      "opening": "A modest debut in 2009",
+      "linkId": null,
+      "text": "ImageNet was first presented as a poster at a computer vision conference in 2009, and many researchers saw little point in so much data. Li started a yearly contest built on a smaller slice of 1,000 categories."
+    },
+    {
+      "opening": "The 2012 AlexNet result",
+      "linkId": null,
+      "text": "In 2012 a neural network called AlexNet won that contest by a wide margin, cutting the error rate far below its rivals. The result is widely seen as the moment deep learning took off, and it depended on all those human clicks."
+    }
+  ],
+  "tags": [
+    "ai",
+    "crowdsourcing",
+    "history-of-things",
+    "computer-vision"
+  ],
+  "related": [
+    "mechanical-turk",
+    "google-cat-neuron",
+    "recaptcha-books",
+    "attention-is-all-you-need",
+    "deep-dream-dogs",
+    "perceptron-1958"
+  ]
+}

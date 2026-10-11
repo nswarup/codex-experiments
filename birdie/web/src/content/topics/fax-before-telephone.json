@@ -1,0 +1,43 @@
+{
+  "id": "fax-before-telephone",
+  "title": "The fax machine came before the telephone",
+  "category": "Tech",
+  "hook": "The first fax machine was patented in 1843, 33 years before the telephone.",
+  "peek": "In 1843 a Scottish clockmaker named Alexander Bain patented a way to send images down a telegraph wire. Fax machines were carrying handwriting between French cities by the 1860s, a decade before anyone made a phone call.",
+  "lede": "We tend to think of the fax as an office gadget that came after the phone. It is much older. In 1843 Alexander Bain, a Scottish clockmaker, patented a method for copying an image over a telegraph wire. Alexander Graham Bell's telephone patent came in 1876, more than 30 years later.",
+  "bullets": [
+    {
+      "opening": "Bain's pendulum patent",
+      "linkId": null,
+      "text": "Bain's design used two pendulums, one at each end of the wire, swinging in step. A stylus swept across a raised metal original line by line, and a matching stylus at the far end marked chemically treated paper whenever the first one made contact."
+    },
+    {
+      "opening": "Bakewell's copying telegraph",
+      "linkId": null,
+      "text": "The English physicist Frederick Bakewell improved the idea by replacing the pendulums with rotating cylinders, a layout later fax machines used for decades. He showed his copying telegraph at the Great Exhibition in London in 1851."
+    },
+    {
+      "opening": "Caselli's pantelegraph",
+      "linkId": null,
+      "text": "The Italian priest and physicist Giovanni Caselli built the first fax service people could actually pay to use. From 1865 his pantelegraph carried handwritten messages and drawings between Paris and Lyon, with the backing of Napoleon III."
+    },
+    {
+      "opening": "Fax over phone lines",
+      "linkId": null,
+      "text": "The fax only became an everyday office machine once it could run over ordinary telephone lines using shared standards, in the 1970s and 1980s. The old invention found its boom thanks to the newer one."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "history-of-things",
+    "communication",
+    "telegraph"
+  ],
+  "related": [
+    "transatlantic-cable-1858",
+    "chappe-telegraph-hack",
+    "hello-on-the-phone",
+    "paris-pneumatic-post",
+    "first-digital-photo"
+  ]
+}

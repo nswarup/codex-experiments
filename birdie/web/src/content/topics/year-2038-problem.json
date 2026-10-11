@@ -1,0 +1,43 @@
+{
+  "id": "year-2038-problem",
+  "title": "The year 2038 problem",
+  "category": "Tech",
+  "hook": "On 19 January 2038, some computers will think it is suddenly 1901.",
+  "peek": "Many computers keep time by counting seconds since the start of 1970. On older systems that count is stored in a number that runs out of room early on 19 January 2038, when the clock can wrap round to December 1901.",
+  "lede": "Unix and many systems descended from it measure time as the number of seconds since midnight on 1 January 1970. For decades that count was stored as a signed 32-bit number, which can go no higher than 2,147,483,647. That limit arrives at 03:14:07 UTC on 19 January 2038. One second later, an unfixed system's count flips negative and its clock reads 13 December 1901.",
+  "bullets": [
+    {
+      "opening": "Unix time",
+      "linkId": null,
+      "text": "Counting seconds from one fixed moment makes dates easy to compare and subtract. The start, midnight on 1 January 1970, was simply a convenient recent date when Unix was being written, and it is often called the epoch."
+    },
+    {
+      "opening": "Why the clock jumps to 1901",
+      "linkId": null,
+      "text": "In a signed number the top bit marks whether it is negative. When the count grows past its maximum, that bit flips, and the computer reads the value as about 2.1 billion seconds before 1970, which lands in December 1901."
+    },
+    {
+      "opening": "Switching to 64-bit time",
+      "linkId": null,
+      "text": "The fix is to store time in a 64-bit number, which will not run out for about 292 billion years. Most modern computers already do this, and the Linux kernel added 64-bit time for 32-bit machines in 2020."
+    },
+    {
+      "opening": "Embedded systems that linger",
+      "linkId": null,
+      "text": "The worry is small devices that are rarely updated, such as controllers inside machines and older equipment. Some will still be running in 2038, and engineers are checking them now in the way Y2K checks were done before 2000."
+    }
+  ],
+  "tags": [
+    "time",
+    "calendars",
+    "computer-history",
+    "glitches"
+  ],
+  "related": [
+    "excel-1900-leap-year",
+    "caesium-second",
+    "eleven-days-1752",
+    "linux-just-a-hobby",
+    "gps-relativity"
+  ]
+}

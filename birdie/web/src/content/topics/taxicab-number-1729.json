@@ -1,0 +1,43 @@
+{
+  "id": "taxicab-number-1729",
+  "title": "Ramanujan's taxicab number",
+  "category": "Math",
+  "hook": "A taxi number Hardy found dull turned out to be special in a moment.",
+  "peek": "The mathematician G. H. Hardy once mentioned that his taxi's number, 1729, seemed rather dull. Srinivasa Ramanujan replied at once that it was very interesting: the smallest number that is the sum of two cubes in two different ways.",
+  "lede": "G. H. Hardy, the Cambridge mathematician who brought Srinivasa Ramanujan to England, later told a story about visiting him in Putney. Hardy said his taxi was number 1729, which seemed a rather dull number. Ramanujan disagreed straight away. It was, he said, the smallest number you can write as the sum of two cubes in two different ways.",
+  "bullets": [
+    {
+      "opening": "Two pairs of cubes",
+      "linkId": null,
+      "text": "1729 is 1 cubed plus 12 cubed, which is 1 plus 1,728. It is also 9 cubed plus 10 cubed, which is 729 plus 1,000. No smaller whole number can be split into two cubes in two ways."
+    },
+    {
+      "opening": "Ramanujan's notebooks",
+      "linkId": null,
+      "text": "He had not worked it out in the cab. Later study of his notebooks showed 1729 in his own calculations, in work on near misses to a famous equation about cubes connected to Fermat's last theorem."
+    },
+    {
+      "opening": "Frénicle de Bessy",
+      "linkId": null,
+      "text": "Ramanujan was not the first to notice. The French mathematician Bernard Frénicle de Bessy mentioned the property of 1729 in the 1650s, though the taxi story is what made it famous."
+    },
+    {
+      "opening": "Taxicab numbers",
+      "linkId": null,
+      "text": "Mathematicians now call the smallest number that is a sum of two cubes in n different ways the nth taxicab number. 1729 is the second. Only six are known, and the sixth has 24 digits."
+    }
+  ],
+  "tags": [
+    "numbers",
+    "patterns",
+    "inventors",
+    "names"
+  ],
+  "related": [
+    "erdos-number",
+    "fermats-last-theorem",
+    "kaprekar-constant",
+    "gauss-schoolboy-sum",
+    "largest-known-prime"
+  ]
+}

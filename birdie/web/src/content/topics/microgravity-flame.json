@@ -1,0 +1,43 @@
+{
+  "id": "microgravity-flame",
+  "title": "Candle flames in space are round",
+  "category": "Space",
+  "hook": "In orbit a candle flame is not a teardrop but a dim blue ball.",
+  "peek": "On Earth, hot air rises and pulls a candle flame into its familiar pointed shape. In weightlessness nothing rises, so the flame spreads out evenly into a faint blue sphere that burns slowly and quietly.",
+  "lede": "A candle flame's teardrop shape is really the work of gravity. Hot gases are lighter than the air around them, so they rise, drawing fresh air in at the bottom and stretching the flame upwards. In orbit there is no up and no rising. Experiments on the space shuttle and the Mir station showed that a candle flame there becomes a dim, blue, almost spherical glow.",
+  "bullets": [
+    {
+      "opening": "No rising hot air",
+      "linkId": null,
+      "text": "Without that upward draught, oxygen reaches the wick only by slowly spreading in from all directions, a process called diffusion. The flame takes the shape of that oxygen supply, which is roughly a ball."
+    },
+    {
+      "opening": "Why the flame turns blue",
+      "linkId": null,
+      "text": "The yellow in an ordinary candle flame comes from glowing specks of soot. A round flame in microgravity burns cooler and makes little soot, so most of what remains is the faint blue light of burning gas."
+    },
+    {
+      "opening": "Candles on Mir",
+      "linkId": null,
+      "text": "In the 1990s, candle tests flown on the shuttle and on the Russian space station Mir found that flames could keep burning steadily for many minutes, though dimly, once they settled into their spherical shape."
+    },
+    {
+      "opening": "Cool flames on the ISS",
+      "linkId": null,
+      "text": "Later combustion experiments on the International Space Station found cool flames, which keep burning at far lower temperatures and are nearly invisible. They help engineers design cleaner engines on Earth."
+    }
+  ],
+  "tags": [
+    "space-exploration",
+    "physics",
+    "light",
+    "experiments"
+  ],
+  "related": [
+    "space-smell",
+    "raindrop-shape",
+    "zero-g-indicator",
+    "supercooled-water",
+    "tyndall-blue-sky"
+  ]
+}

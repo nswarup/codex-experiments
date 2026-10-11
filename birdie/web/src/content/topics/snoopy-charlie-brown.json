@@ -1,0 +1,43 @@
+{
+  "id": "snoopy-charlie-brown",
+  "title": "Snoopy and Charlie Brown went to the Moon",
+  "category": "Space",
+  "hook": "On Apollo 10, Snoopy flew close to the Moon while Charlie Brown waited above.",
+  "peek": "Apollo 10, the dress rehearsal for the first Moon landing, named its two spacecraft after the Peanuts characters. The lunar module Snoopy swooped low over the Moon, and the command module Charlie Brown orbited overhead.",
+  "lede": "In May 1969, two months before Apollo 11, the crew of Apollo 10 flew a full rehearsal of a Moon landing, stopping just short of touching down. Astronauts Tom Stafford, John Young and Gene Cernan named their command module Charlie Brown and their lunar module Snoopy. The idea was that Snoopy would go off and snoop around the landing site.",
+  "bullets": [
+    {
+      "opening": "Snoopy's low pass",
+      "linkId": null,
+      "text": "Stafford and Cernan took Snoopy down to about 15 kilometres above the Moon's surface, scouting the area where Apollo 11 would land. Then they climbed back up and docked with John Young in Charlie Brown."
+    },
+    {
+      "opening": "The Silver Snoopy award",
+      "linkId": null,
+      "text": "Snoopy was already part of NASA. Since 1968, workers who did outstanding work for flight safety have been given a silver Snoopy pin flown in space, with artwork drawn by Peanuts creator Charles Schulz."
+    },
+    {
+      "opening": "Charlie Brown in London",
+      "linkId": null,
+      "text": "The command module came home and is on display at the Science Museum in London, on loan from the Smithsonian. It still shows the scorch marks of its fiery return through the atmosphere."
+    },
+    {
+      "opening": "Searching for Snoopy",
+      "linkId": null,
+      "text": "After the rehearsal, Snoopy's upper stage was sent into orbit around the Sun, and it is thought to still be out there. In 2019, astronomers suggested a small object called 2018 AP7 might be it, but that has not been confirmed."
+    }
+  ],
+  "tags": [
+    "names",
+    "space-exploration",
+    "comics",
+    "history-of-things"
+  ],
+  "related": [
+    "moon-golf",
+    "apollo-12-lightning",
+    "aldrin-felt-pen",
+    "golden-record",
+    "jingle-bells-space"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "kola-borehole",
+  "title": "The Kola Superdeep Borehole",
+  "category": "Science",
+  "hook": "The deepest hole ever drilled is about 12 km deep and narrower than a dinner plate.",
+  "peek": "In the Soviet Arctic, scientists drilled for almost 20 years and reached more than 12 kilometres down. It is still the deepest artificial point on Earth, yet it barely scratches the planet: about 0.2 percent of the way to the centre.",
+  "lede": "In 1970 Soviet scientists began drilling on the Kola Peninsula, near the Norwegian border, simply to learn what the deep crust was like. By 1989 the main branch reached 12,262 metres, about 12 kilometres. It remains the deepest hole people have ever made. The Earth's centre is about 6,370 kilometres down, so the hole went roughly 0.2 percent of the way.",
+  "bullets": [
+    {
+      "opening": "A hole 23 centimetres wide",
+      "linkId": null,
+      "text": "For all its depth, the borehole is only about 23 centimetres across at the surface. Today the abandoned site is sealed with a small welded metal cap, which looks a little like a rusty manhole cover."
+    },
+    {
+      "opening": "Hotter than expected",
+      "linkId": null,
+      "text": "Planners expected about 100°C at the bottom. It was about 180°C. At that heat the rock behaved more like plastic than stone, and the drill could not go further. Work stopped in the early 1990s."
+    },
+    {
+      "opening": "The missing basalt layer",
+      "linkId": null,
+      "text": "Geologists had expected to hit a switch from granite to basalt a few kilometres down. It was not there. The change in seismic signals that had been read as a new rock layer came from granite altered by heat and pressure."
+    },
+    {
+      "opening": "Water and microfossils deep down",
+      "linkId": null,
+      "text": "Surprisingly, the rock deep down held water, squeezed out of minerals and trapped beneath an impermeable layer. At around 6 kilometres, drillers also found microscopic fossils of single-celled plankton, perfectly preserved."
+    },
+    {
+      "opening": "Longer wells, not deeper",
+      "linkId": null,
+      "text": "Some oil wells, in Qatar and off Russia's Sakhalin Island, are now longer than the Kola hole, but they run sideways. In straight depth below the surface, Kola still holds the record."
+    }
+  ],
+  "tags": [
+    "geology",
+    "records",
+    "scale",
+    "drilling"
+  ],
+  "related": [
+    "magnetic-stripes",
+    "wegener-continental-drift",
+    "earths-hum",
+    "cavendish-weighs-earth",
+    "chimborazo-summit",
+    "rope-around-earth"
+  ]
+}

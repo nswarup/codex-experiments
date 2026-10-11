@@ -1,0 +1,39 @@
+{
+  "id": "command-key-symbol",
+  "title": "The ⌘ command key",
+  "category": "Tech",
+  "hook": "The looped square on Mac keys came from Swedish signs for places of interest.",
+  "peek": "When Steve Jobs decided there were too many Apple logos on the Mac's menus, the designer Susan Kare looked through a symbol dictionary for a replacement. She found a looped square used in Scandinavia to mark sights worth visiting.",
+  "lede": "Early Apple computers marked their command key with the Apple logo, and menus showed the logo next to each keyboard shortcut. In 1983, the story goes, Steve Jobs saw the screen crowded with apples and said they were taking the logo in vain. The designer Susan Kare searched a symbol dictionary and chose ⌘, a square with looped corners.",
+  "bullets": [
+    {
+      "opening": "Swedish place-of-interest signs",
+      "linkId": null,
+      "text": "In Sweden and other Nordic countries, the symbol marks sights and attractions on road signs and maps. In Unicode its official name is still \"place of interest sign\". It was the meaning Kare liked: something worth noticing."
+    },
+    {
+      "opening": "Saint John's Arms",
+      "linkId": null,
+      "text": "The motif is far older than road signs. In Nordic folk tradition it is called Saint John's Arms and was used as a protective mark, and elsewhere it is known as the Bowen knot or the looped square."
+    },
+    {
+      "opening": "The Apple logo on the key",
+      "linkId": null,
+      "text": "From the late 1980s, Mac command keys carried both symbols for about two decades: ⌘ and a small Apple logo side by side. Apple dropped the logo from its keyboards in 2007, leaving the looped square on its own."
+    }
+  ],
+  "tags": [
+    "design",
+    "symbols",
+    "computing-history",
+    "maps"
+  ],
+  "related": [
+    "clarus-dogcow",
+    "ctrl-alt-del",
+    "floppy-save-icon",
+    "octothorpe",
+    "ampersand",
+    "qwerty"
+  ]
+}

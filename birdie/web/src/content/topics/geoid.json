@@ -1,0 +1,43 @@
+{
+  "id": "geoid",
+  "title": "Sea level isn't level",
+  "category": "Science",
+  "hook": "The open ocean has hills and dips, and off India it sits 100 metres low.",
+  "peek": "Gravity is not the same everywhere on Earth, and the sea follows it. South of India the ocean surface dips about 100 metres below the average shape of the planet, while near New Guinea it bulges up by about 80 metres.",
+  "lede": "We treat sea level as the one flat reference for every height on Earth. In fact the ocean surface is lumpy. Rock of different densities inside the planet pulls a little harder in some places than others, and the water piles up or sinks to match. South of India the sea sits about 100 metres lower than average, and near New Guinea about 80 metres higher.",
+  "bullets": [
+    {
+      "opening": "The geoid",
+      "linkId": null,
+      "text": "Geodesists call this lumpy shape the geoid: the surface the oceans would take under gravity and spin alone, with no tides or currents. Extended under the continents, it is the true zero from which mountain heights are measured."
+    },
+    {
+      "opening": "The Indian Ocean Geoid Low",
+      "linkId": null,
+      "text": "The deepest dip, south of the tip of India, is about 106 metres below the smooth reference ellipsoid. Scientists still debate its cause, with recent work pointing to lighter, hotter rock rising deep in the mantle beneath it."
+    },
+    {
+      "opening": "Hills you cannot sail up",
+      "linkId": null,
+      "text": "No ship notices the slopes. They stretch over thousands of kilometres, and because the surface follows gravity, water feels it as level and does not flow downhill. Only satellites measuring tiny differences in gravity can see the shape."
+    },
+    {
+      "opening": "The Potsdam gravity potato",
+      "linkId": null,
+      "text": "Scientists at the GFZ research centre in Potsdam made a 3D model of the geoid with its bumps exaggerated thousands of times. It looks like a knobbly potato, and the nickname stuck. ESA's GOCE satellite, flying from 2009 to 2013, mapped it in fine detail."
+    }
+  ],
+  "tags": [
+    "maps",
+    "scale",
+    "gravity",
+    "oceans"
+  ],
+  "related": [
+    "chimborazo-summit",
+    "eratosthenes-earth",
+    "metre-from-meridian",
+    "cavendish-weighs-earth",
+    "point-nemo"
+  ]
+}

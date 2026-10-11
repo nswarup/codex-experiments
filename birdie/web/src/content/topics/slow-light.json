@@ -1,0 +1,43 @@
+{
+  "id": "slow-light",
+  "title": "Slowing light to bicycle speed",
+  "category": "Science",
+  "hook": "In 1999 a Harvard team slowed light to about 17 metres per second.",
+  "peek": "Light normally covers about 300,000 kilometres every second. In 1999 the physicist Lene Hau and her team slowed a pulse of it to roughly the speed of a fast cyclist, by sending it through a cloud of atoms colder than anywhere in nature.",
+  "lede": "In empty space light travels at about 300,000 kilometres per second. Glass or water slow it a little, but only by a third or so. In 1999 the Danish physicist Lene Hau and her team at Harvard slowed a pulse of laser light to about 17 metres per second, around 60 kilometres an hour. A cyclist sprinting downhill could have kept pace.",
+  "bullets": [
+    {
+      "opening": "Bose-Einstein condensate of sodium",
+      "linkId": null,
+      "text": "The light passed through a tiny cloud of sodium atoms cooled to a fraction of a millionth of a degree above absolute zero. At that temperature the atoms form a Bose-Einstein condensate, a state where they act together in a single quantum state."
+    },
+    {
+      "opening": "Electromagnetically induced transparency",
+      "linkId": null,
+      "text": "Normally that cloud would absorb the light completely. A second laser, shone in from the side, made it transparent to the first beam in a narrow band of colours. Inside that window the light's speed drops dramatically."
+    },
+    {
+      "opening": "A pulse squeezed small",
+      "linkId": null,
+      "text": "As the front of the pulse slowed on entering the cloud, the back caught up, so the pulse was squashed from about a kilometre long in the air to a fraction of a millimetre inside the atoms."
+    },
+    {
+      "opening": "Stopping light in 2001",
+      "linkId": null,
+      "text": "In 2001 Hau's group went further and brought a light pulse to a full stop, storing its information in the atoms. Switching the side laser back on released the pulse, which carried on its way."
+    }
+  ],
+  "tags": [
+    "light",
+    "physics",
+    "quantum",
+    "records"
+  ],
+  "related": [
+    "fizeau-toothed-wheel",
+    "superfluid-helium",
+    "michelson-morley",
+    "double-slit-experiment",
+    "grace-hopper-nanosecond"
+  ]
+}

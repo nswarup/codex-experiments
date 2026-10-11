@@ -1,0 +1,48 @@
+{
+  "id": "point-nine-recurring",
+  "title": "0.999... equals 1",
+  "category": "Math",
+  "hook": "Nines that go on forever do not get close to 1. They are exactly 1.",
+  "peek": "Write 0.999 with the nines continuing forever and you have not written a number just shy of 1. You have written 1 itself, in a second way. Several short proofs show it, and maths teachers know it is one of the hardest facts to accept.",
+  "lede": "Many people feel that 0.999..., with nines running on forever, must fall just short of 1, by some tiny amount. It does not. The two are the same number written in two different ways, much as one half and 0.5 are. The gap people sense is a feature of how we write decimals, not of the numbers themselves.",
+  "bullets": [
+    {
+      "opening": "The one-third proof",
+      "linkId": null,
+      "text": "One third is 0.333..., with threes forever. Multiply both sides by three. On the left you get exactly 1, and on the right you get 0.999... So the two must be equal."
+    },
+    {
+      "opening": "The times-ten trick",
+      "linkId": null,
+      "text": "Call the number x. Then 10x is 9.999... Subtract x from 10x and every nine after the point cancels, leaving 9x = 9. Divide by nine and x is 1."
+    },
+    {
+      "opening": "No number in between",
+      "linkId": null,
+      "text": "Two different numbers always have another number between them, such as their average. Try to find one between 0.999... and 1 and there is nothing left over, because the nines never stop."
+    },
+    {
+      "opening": "Two names for many numbers",
+      "linkId": null,
+      "text": "It is not special to 1. Every decimal that ends has a twin with trailing nines, so 0.25 is also 0.24999... Most mathematicians simply choose the shorter one."
+    },
+    {
+      "opening": "Why it feels wrong",
+      "linkId": null,
+      "text": "Education researchers have studied students' doubts about 0.999... for decades. The resistance usually comes from picturing the nines being written one at a time, rather than all being there at once."
+    }
+  ],
+  "tags": [
+    "infinity",
+    "myths-busted",
+    "paradoxes",
+    "patterns"
+  ],
+  "related": [
+    "achilles-and-the-tortoise",
+    "hilberts-hotel",
+    "gabriels-horn",
+    "barber-paradox",
+    "grahams-number"
+  ]
+}

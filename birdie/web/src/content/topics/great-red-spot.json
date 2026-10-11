@@ -1,0 +1,43 @@
+{
+  "id": "great-red-spot",
+  "title": "Jupiter's Great Red Spot",
+  "category": "Space",
+  "hook": "Jupiter has a storm wider than Earth, and it has been blowing for at least 150 years.",
+  "peek": "The Great Red Spot is a giant high-pressure storm on Jupiter, tracked by astronomers since the 1800s. It is still wider than our planet, but it is now less than half the length it was 150 years ago, and nobody is sure why.",
+  "lede": "The Great Red Spot is an enormous storm in Jupiter's southern hemisphere, turning anticlockwise about once every six days. It has been tracked continuously since the 1800s. In the late 1800s it was about 40,000 kilometres long, enough to hold three Earths side by side. Today it is around 16,000 kilometres, still wider than Earth, and still shrinking.",
+  "bullets": [
+    {
+      "opening": "Cassini's 1665 spot",
+      "linkId": null,
+      "text": "Giovanni Cassini described a permanent spot on Jupiter in 1665, and for a long time it was assumed to be the same storm. A 2024 study of old drawings concluded it probably was not: that spot faded, and today's storm was first recorded in the 1830s."
+    },
+    {
+      "opening": "Winds faster than hurricanes",
+      "linkId": null,
+      "text": "Winds around the storm's edge reach more than 400 kilometres per hour, far beyond the strongest hurricanes on Earth. Measurements by NASA's Juno spacecraft showed that the storm also reaches hundreds of kilometres down into Jupiter's clouds."
+    },
+    {
+      "opening": "The shrinking spot",
+      "linkId": null,
+      "text": "Old records and spacecraft images show the storm getting smaller and rounder since at least the 1870s, with faster shrinking seen in recent decades. Scientists debate why, and whether it will one day vanish or settle at a smaller size."
+    },
+    {
+      "opening": "Why the spot is red",
+      "linkId": null,
+      "text": "Nobody is sure what colours the storm. A leading idea is that simple chemicals lifted high into the clouds are broken apart by sunlight, forming reddish compounds. The colour itself varies over the years, from brick red to pale salmon."
+    }
+  ],
+  "tags": [
+    "weather",
+    "jupiter",
+    "records",
+    "space-exploration"
+  ],
+  "related": [
+    "saturn-hexagon",
+    "io-volcanoes",
+    "ganymede-bigger-than-mercury",
+    "europa-ocean",
+    "uranus-tilt"
+  ]
+}

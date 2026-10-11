@@ -1,0 +1,43 @@
+{
+  "id": "engelbart-mouse",
+  "title": "The first computer mouse",
+  "category": "Tech",
+  "hook": "The first computer mouse was a wooden box with two metal wheels and one button.",
+  "peek": "In 1968 Douglas Engelbart showed a stunned San Francisco audience a hand-held pointer for moving a dot around a screen. It was a carved wooden block on two wheels with a cord trailing like a tail, so his team called it a mouse.",
+  "lede": "In the 1960s, Douglas Engelbart ran a lab at the Stanford Research Institute that wanted to help people think and work together with computers. One problem was pointing at things on a screen. His team tried light pens, knee controls and joysticks. The winner was a small wooden block, designed by Engelbart and built by engineer Bill English in 1964.",
+  "bullets": [
+    {
+      "opening": "Two wheels at right angles",
+      "linkId": null,
+      "text": "Under the box sat two metal wheels set at right angles. One tracked side-to-side movement and the other forward and back, so rolling the box moved a dot across the screen. A single red button sat on top."
+    },
+    {
+      "opening": "Why it is called a mouse",
+      "linkId": null,
+      "text": "The cord came out of the back of the box like a tail, and the name stuck in the lab. Nobody remembers exactly who said it first, and the team assumed a more dignified name would replace it."
+    },
+    {
+      "opening": "The Mother of All Demos",
+      "linkId": null,
+      "text": "On 9 December 1968, Engelbart showed the mouse in San Francisco during a 90-minute demonstration that also included linked text, shared editing and video calls. It later earned the nickname the Mother of All Demos."
+    },
+    {
+      "opening": "A patent with no royalties",
+      "linkId": null,
+      "text": "The patent, granted in 1970, belonged to SRI rather than Engelbart. SRI later licensed it to Apple for about 40,000 dollars, and Engelbart received no royalties from the billions of mice that followed."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "design",
+    "history-of-things",
+    "computers"
+  ],
+  "related": [
+    "qwerty",
+    "ctrl-alt-del",
+    "command-key-symbol",
+    "vague-but-exciting",
+    "shakey-robot"
+  ]
+}

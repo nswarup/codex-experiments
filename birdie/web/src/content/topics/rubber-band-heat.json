@@ -1,0 +1,43 @@
+{
+  "id": "rubber-band-heat",
+  "title": "Rubber bands warm up when stretched",
+  "category": "Science",
+  "hook": "Stretch a rubber band fast against your lip and it warms; let go and it cools.",
+  "peek": "Hold a thick rubber band against your lip and stretch it quickly: it warms up. Let it relax and it feels cool. A blind English scientist noticed this over 200 years ago, and the reason has to do with tangled molecules.",
+  "lede": "Take a wide rubber band, touch it to your lower lip, and stretch it quickly. You will feel it get warmer. Hold it stretched for a moment, then let it snap back while still touching your lip, and it feels cool. Rubber behaves quite unlike a metal spring, and the reason lies in the long, tangled molecules it is made of.",
+  "bullets": [
+    {
+      "opening": "John Gough's lip test",
+      "linkId": null,
+      "text": "The effect was first described in 1805 by John Gough, a blind natural philosopher from Kendal in England. He used his lips, which are very sensitive to temperature, to feel the change."
+    },
+    {
+      "opening": "Tangled rubber molecules",
+      "linkId": null,
+      "text": "Rubber is made of long chain molecules that are normally jumbled. Stretching pulls them into tidier lines, and that tidying gives off heat. When the chains tangle up again, they take heat back from their surroundings."
+    },
+    {
+      "opening": "Heated rubber shrinks",
+      "linkId": null,
+      "text": "Most materials expand when heated, but a stretched rubber band does the opposite and pulls tighter. James Joule measured this in the 1850s, and it is now called the Gough-Joule effect."
+    },
+    {
+      "opening": "Rubber band refrigerators",
+      "linkId": null,
+      "text": "Engineers are studying this warming and cooling, called the elastocaloric effect, as a possible way to build fridges without the usual refrigerant gases."
+    }
+  ],
+  "tags": [
+    "physics",
+    "heat",
+    "experiments",
+    "materials"
+  ],
+  "related": [
+    "oobleck",
+    "brownian-motion",
+    "maxwells-demon",
+    "leidenfrost-effect",
+    "prince-ruperts-drop"
+  ]
+}

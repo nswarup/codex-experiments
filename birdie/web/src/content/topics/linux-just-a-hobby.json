@@ -1,0 +1,43 @@
+{
+  "id": "linux-just-a-hobby",
+  "title": "Linux was \"just a hobby\"",
+  "category": "Tech",
+  "hook": "Linux was announced as a hobby that would never be big. It now runs every Android phone.",
+  "peek": "In August 1991 a 21-year-old student in Helsinki posted that he was writing a free operating system, adding that it was just a hobby and would not be big and professional. Today Linux runs every Android phone and every one of the world's fastest supercomputers.",
+  "lede": "On 25 August 1991, Linus Torvalds, a computer science student at the University of Helsinki, posted to an online discussion group about a project he had started. He was writing a free operating system for his PC, he said, \"just a hobby, won't be big and professional like gnu\". The kernel he released weeks later became Linux.",
+  "bullets": [
+    {
+      "opening": "The comp.os.minix post",
+      "linkId": null,
+      "text": "Torvalds posted on Usenet in a group about Minix, a small teaching operating system. He asked what features people would like to see, and warned that his project would probably never support anything but the AT hard disks he owned."
+    },
+    {
+      "opening": "The name Freax",
+      "linkId": null,
+      "text": "Torvalds has said he thought the name Linux sounded too egotistical and planned to call it Freax. Ari Lemmke, who gave the project space on a university file server, named the folder linux instead, and the name stuck."
+    },
+    {
+      "opening": "Open source by many hands",
+      "linkId": null,
+      "text": "Torvalds released the code for anyone to read and change, and later adopted the GPL licence. Volunteers, and eventually companies, sent improvements, and thousands of developers now contribute to the kernel, which he still oversees."
+    },
+    {
+      "opening": "Android and supercomputers",
+      "linkId": null,
+      "text": "Every Android phone runs on the Linux kernel, as do a large share of the servers behind websites. Since 2017, every machine on the Top500 list of the world's fastest supercomputers has run Linux."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "computer-history",
+    "open-source",
+    "myths-busted"
+  ],
+  "related": [
+    "javascript-ten-days",
+    "year-2038-problem",
+    "hello-world",
+    "rubber-duck-debugging",
+    "symbolics-dotcom"
+  ]
+}

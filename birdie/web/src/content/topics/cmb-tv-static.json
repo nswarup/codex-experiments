@@ -1,0 +1,44 @@
+{
+  "id": "cmb-tv-static",
+  "title": "The Big Bang in your TV static",
+  "category": "Space",
+  "hook": "Some of the snow on an old TV set was light left over from the Big Bang.",
+  "peek": "Tune an old analogue television between channels and you got a fizz of grey snow. A small share of it, often put at about one percent, was microwave light that had been crossing the universe for almost 14 billion years.",
+  "lede": "The hiss and snow on an untuned analogue TV came mostly from the set's own electronics and from radio noise on Earth. But a small slice, often put at about one percent, came from the sky in every direction at once. It was the cosmic microwave background, the oldest light there is, released when the universe was a few hundred thousand years old.",
+  "bullets": [
+    {
+      "opening": "The hiss at Bell Labs",
+      "linkId": null,
+      "text": "In 1964 Arno Penzias and Robert Wilson could not get rid of a faint, steady hiss in a big horn-shaped antenna in New Jersey. It was the same day and night, whichever direction they pointed it."
+    },
+    {
+      "opening": "The pigeons in the antenna",
+      "linkId": null,
+      "text": "Suspecting their equipment, they moved out a pair of pigeons that had nested inside the horn and cleaned it thoroughly. The hiss stayed. It was real, and it earned them the 1978 Nobel Prize in Physics."
+    },
+    {
+      "opening": "Light from 380,000 years",
+      "linkId": null,
+      "text": "The glow dates from about 380,000 years after the Big Bang, when the universe had cooled enough for light to travel freely. Expansion has since stretched it into microwaves, now only about 2.7 degrees above absolute zero."
+    },
+    {
+      "opening": "Why digital TVs lost it",
+      "linkId": null,
+      "text": "Modern digital sets show a blank screen or a message when there is no signal, so the Big Bang has quietly vanished from living-room television. An old analogue set tuned between channels still picks up its trace."
+    }
+  ],
+  "tags": [
+    "big-bang",
+    "light",
+    "radio-astronomy",
+    "accidents"
+  ],
+  "related": [
+    "olbers-paradox",
+    "pulsar-lgm1",
+    "hubble-deep-field",
+    "cosmic-latte",
+    "pot-black",
+    "galactic-year"
+  ]
+}

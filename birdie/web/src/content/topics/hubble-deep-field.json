@@ -1,0 +1,44 @@
+{
+  "id": "hubble-deep-field",
+  "title": "The Hubble Deep Field",
+  "category": "Space",
+  "hook": "Hubble stared at a dark speck of sky for ten days and found 3,000 galaxies.",
+  "peek": "In 1995 astronomers pointed the Hubble Space Telescope at a tiny patch of sky that looked completely empty, and kept it there for about ten days. The picture that came back was full of galaxies, around 3,000 of them.",
+  "lede": "In December 1995 the Hubble team tried something many colleagues thought might waste precious telescope time. They aimed at a patch of sky near the Big Dipper that seemed to hold nothing at all, and collected light there for about ten days. The finished image, the Hubble Deep Field, showed around 3,000 galaxies, some so far away that we see them as they were billions of years ago.",
+  "bullets": [
+    {
+      "opening": "Robert Williams's gamble",
+      "linkId": null,
+      "text": "The idea came from Robert Williams, then director of the institute that runs Hubble. He used the director's own share of observing time, so if the empty patch stayed empty, the loss was his to explain."
+    },
+    {
+      "opening": "A speck of sky",
+      "linkId": null,
+      "text": "The patch was tiny, about the size of a tennis ball seen from 100 metres away. It was chosen because it had few nearby stars and little dust from our own galaxy in the way."
+    },
+    {
+      "opening": "342 separate exposures",
+      "linkId": null,
+      "text": "Hubble did not take one long photo. It made 342 exposures through four colour filters, which were then stacked into a single image that revealed faint galaxies no single shot could show."
+    },
+    {
+      "opening": "The Ultra Deep Field",
+      "linkId": null,
+      "text": "The result was so useful that astronomers repeated the trick. The Hubble Ultra Deep Field of 2004 found about 10,000 galaxies in an even smaller patch of sky."
+    }
+  ],
+  "tags": [
+    "telescopes",
+    "scale",
+    "galaxies",
+    "light"
+  ],
+  "related": [
+    "hubble-mirror-flaw",
+    "olbers-paradox",
+    "pale-blue-dot",
+    "jwst-gold",
+    "galactic-year",
+    "cosmic-latte"
+  ]
+}

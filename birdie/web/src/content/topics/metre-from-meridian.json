@@ -1,0 +1,44 @@
+{
+  "id": "metre-from-meridian",
+  "title": "The metre measured from the meridian",
+  "category": "Science",
+  "hook": "The metre was meant to be one ten-millionth of the way from pole to equator.",
+  "peek": "In the 1790s two French astronomers spent years surveying a line from Dunkirk to Barcelona to define a new unit of length. Their metre came out a fraction of a millimetre short, and one of them quietly hid a troubling discrepancy.",
+  "lede": "In 1791 the French Academy of Sciences decided that a new unit of length should come from the Earth itself. The metre would be one ten-millionth of the distance from the North Pole to the equator, along the meridian through Paris. To find that distance, two astronomers set out to measure the stretch from Dunkirk to Barcelona.",
+  "bullets": [
+    {
+      "opening": "Delambre and Méchain",
+      "linkId": null,
+      "text": "Jean-Baptiste Delambre surveyed the northern part, from Dunkirk to Rodez, and Pierre Méchain the southern part, from Barcelona to Rodez. Using chains of triangles between church towers and hilltops, they worked from 1792 to 1798, through the upheaval of the Revolution."
+    },
+    {
+      "opening": "Méchain's secret",
+      "linkId": null,
+      "text": "In Barcelona, Méchain found that two of his measurements of latitude did not agree. He kept the discrepancy to himself and was troubled by it for the rest of his life. The historian Ken Alder tells the story in The Measure of All Things."
+    },
+    {
+      "opening": "The Mètre des Archives",
+      "linkId": null,
+      "text": "In 1799 the result was made into a platinum bar, the Mètre des Archives, which became the official metre. It was about 0.2 millimetres short of the intended length, mainly because the Earth is not as neatly shaped as the surveyors assumed."
+    },
+    {
+      "opening": "From meridian to light",
+      "linkId": null,
+      "text": "The Earth-based definition did not last. Since 1983 the metre has been the distance light travels in a vacuum in 1/299,792,458 of a second, so it no longer depends on any survey or bar."
+    }
+  ],
+  "tags": [
+    "measurement",
+    "units",
+    "maps",
+    "history-of-things"
+  ],
+  "related": [
+    "le-grand-k",
+    "eratosthenes-earth",
+    "geoid",
+    "smoot",
+    "caesium-second",
+    "french-republican-calendar"
+  ]
+}

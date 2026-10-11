@@ -1,0 +1,42 @@
+{
+  "id": "daisy-bell-computer",
+  "title": "Daisy Bell, the first computer song",
+  "category": "Tech",
+  "hook": "The first song a computer ever sang was a Victorian tune about a bicycle.",
+  "peek": "In 1961 a computer at Bell Labs sang Daisy Bell, the 1890s song about a bicycle built for two. Arthur C. Clarke heard the demonstration, and years later the same song became HAL's last performance in 2001: A Space Odyssey.",
+  "lede": "Computers had played simple tunes since the early 1950s, but none had sung. In 1961, at Bell Labs in New Jersey, researchers made an IBM 7094 do it. The song they chose was Daisy Bell, a music hall hit from 1892 better known by its line about a bicycle built for two. The thin, wobbly voice went on to have a famous second life.",
+  "bullets": [
+    {
+      "opening": "John Kelly and Carol Lochbaum",
+      "linkId": null,
+      "text": "The physicist John Kelly and his colleague Carol Lochbaum programmed the voice by modelling the human vocal tract mathematically. Max Mathews, a pioneer of computer music, wrote the accompaniment."
+    },
+    {
+      "opening": "Harry Dacre's 1892 song",
+      "linkId": null,
+      "text": "Daisy Bell was written by the English songwriter Harry Dacre and became a hit on both sides of the Atlantic. By 1961 it was an old, cheerful tune that almost everyone could recognise."
+    },
+    {
+      "opening": "Arthur C. Clarke's visit",
+      "linkId": null,
+      "text": "The writer Arthur C. Clarke heard the demonstration while visiting his friend John Pierce at Bell Labs. He never forgot it, and the song found its way into the story of 2001: A Space Odyssey."
+    },
+    {
+      "opening": "HAL singing Daisy",
+      "linkId": null,
+      "text": "In Stanley Kubrick's 1968 film, the computer HAL 9000 sings Daisy Bell as its memory is switched off, its voice slowing and deepening. It was a quiet tribute to the real machine that sang first."
+    }
+  ],
+  "tags": [
+    "music-tech",
+    "ai",
+    "history-of-things",
+    "communication"
+  ],
+  "related": [
+    "voder",
+    "illiac-suite",
+    "eliza-chatbot",
+    "fantasia-hp-oscillators"
+  ]
+}

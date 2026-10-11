@@ -1,0 +1,44 @@
+{
+  "id": "google-cat-neuron",
+  "title": "The Google cat neuron",
+  "category": "Tech",
+  "hook": "A computer watched YouTube for three days and taught itself what a cat looks like.",
+  "peek": "In 2012 Google researchers showed a huge neural network 10 million still frames from YouTube, with no labels at all. When they looked inside, one artificial neuron had learned to respond to cat faces.",
+  "lede": "In 2012 a Google team led by Andrew Ng, Jeff Dean and Quoc Le built one of the largest neural networks of its day and fed it 10 million small images taken from YouTube videos. Nobody told it what was in them. When the researchers probed the trained network, they found a single unit that lit up for cats.",
+  "bullets": [
+    {
+      "opening": "Learning without labels",
+      "linkId": null,
+      "text": "The network was trained only to compress and rebuild the images it saw. With no names attached, it had to find patterns by itself. Cats are so common on YouTube that a cat detector turned out to be a useful pattern to learn."
+    },
+    {
+      "opening": "16,000 processor cores",
+      "linkId": null,
+      "text": "The training ran for about three days on 16,000 computer processors spread across 1,000 machines, and the network had about a billion connections. The New York Times headline asked how many computers it takes to identify a cat."
+    },
+    {
+      "opening": "The dreamy cat face",
+      "linkId": null,
+      "text": "To see what the neuron wanted, the team computed the image that excited it most. The result was a blurry, ghostly cat face. Other units responded to human faces and to human bodies."
+    },
+    {
+      "opening": "The start of Google Brain",
+      "linkId": null,
+      "text": "The work was an early showcase for the project that became Google Brain. It also improved results on a large ImageNet test by a big relative margin, helping convince the industry that scale mattered."
+    }
+  ],
+  "tags": [
+    "ai",
+    "cats",
+    "computer-vision",
+    "patterns"
+  ],
+  "related": [
+    "deep-dream-dogs",
+    "imagenet-labelers",
+    "cats-purr",
+    "attention-is-all-you-need",
+    "pareidolia",
+    "perceptron-1958"
+  ]
+}

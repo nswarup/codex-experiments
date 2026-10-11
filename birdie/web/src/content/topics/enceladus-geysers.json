@@ -1,0 +1,43 @@
+{
+  "id": "enceladus-geysers",
+  "title": "The geysers of Enceladus",
+  "category": "Space",
+  "hook": "A tiny moon of Saturn sprays so much ice that it feeds one of the planet's rings.",
+  "peek": "Enceladus is only about 500 kilometres across, yet jets of icy spray shoot from cracks at its south pole. Much of that spray stays in orbit around Saturn, where it builds the broad, faint E ring.",
+  "lede": "Enceladus is a small moon of Saturn, about 500 kilometres across. In 2005 the Cassini spacecraft found jets of water vapour and ice grains streaming from its south pole into space. Many of those grains never fall back. They spread out along the moon's orbit and form Saturn's E ring, a wide, faint halo made largely of Enceladus's spray.",
+  "bullets": [
+    {
+      "opening": "The tiger stripes",
+      "linkId": null,
+      "text": "The jets rise from four long, roughly parallel cracks near the south pole, nicknamed tiger stripes. Cassini found that these fractures are warmer than the ice around them, and spotted around a hundred separate jets along them."
+    },
+    {
+      "opening": "Flying through the plume",
+      "linkId": null,
+      "text": "Cassini later flew straight through the spray to sample it. It found water, salt, tiny silica grains and carbon-rich molecules, and in 2023 scientists reported phosphates too, a key ingredient for life as we know it."
+    },
+    {
+      "opening": "An ocean under the ice",
+      "linkId": null,
+      "text": "In 2015 researchers showed that Enceladus wobbles slightly as it orbits, too much for a moon that is solid all the way through. Its icy crust must float on a global ocean, and the geysers are that ocean escaping into space."
+    },
+    {
+      "opening": "The whitest world",
+      "linkId": null,
+      "text": "Fresh frost from the plumes coats the moon, making Enceladus one of the most reflective objects in the Solar System. It bounces back almost all the sunlight that hits it, which helps keep its surface near minus 200°C."
+    }
+  ],
+  "tags": [
+    "moons",
+    "oceans",
+    "saturn",
+    "space-exploration"
+  ],
+  "related": [
+    "europa-ocean",
+    "titan-methane-lakes",
+    "iapetus-two-tone",
+    "saturn-hexagon",
+    "saturn-would-float"
+  ]
+}

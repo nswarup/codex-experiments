@@ -1,0 +1,44 @@
+{
+  "id": "nokia-tune",
+  "title": "The Nokia ringtone",
+  "category": "Tech",
+  "hook": "The famous Nokia ringtone is a few bars of a Spanish guitar waltz from 1902.",
+  "peek": "Before it rang in billions of pockets, the Nokia tune was part of Gran Vals, a solo guitar piece by Francisco Tárrega. Nokia picked a short phrase from it in the 1990s and made it a global sound.",
+  "lede": "The four-bar phrase that rang from Nokia phones around the world was not written for a phone. It comes from Gran Vals, a waltz for solo guitar by the Spanish composer Francisco Tárrega, from 1902. Nokia lifted a short passage from it in the early 1990s, and it became one of the most recognised tunes on the planet.",
+  "bullets": [
+    {
+      "opening": "Francisco Tárrega's guitar",
+      "linkId": null,
+      "text": "Tárrega was a guitarist and composer from Spain, often credited with helping the classical guitar become a serious concert instrument. His best-known piece is Recuerdos de la Alhambra. Gran Vals is a light, playful work by comparison."
+    },
+    {
+      "opening": "The Nokia 2110 in 1994",
+      "linkId": null,
+      "text": "The phrase appeared as a ringtone called Grande Valse on the Nokia 2110, released in 1994. As the phones spread it was renamed Nokia Tune, and it became the default sound on many models."
+    },
+    {
+      "opening": "Heard 20,000 times a second",
+      "linkId": null,
+      "text": "At its peak Nokia estimated the tune was heard about 1.8 billion times a day, or roughly 20,000 times a second. That is a company estimate, but it makes the phrase a strong candidate for the most-played piece of music ever."
+    },
+    {
+      "opening": "Remakes of the Nokia Tune",
+      "linkId": null,
+      "text": "Nokia kept the melody as its sonic logo and released new arrangements over the years, in styles from soft piano to dance music. Because the original is over a century old, Tárrega's waltz itself is in the public domain."
+    }
+  ],
+  "tags": [
+    "music-tech",
+    "sound-design",
+    "history-of-things",
+    "records"
+  ],
+  "related": [
+    "windows-95-sound",
+    "first-text-message",
+    "westminster-quarters",
+    "thx-deep-note",
+    "happy-birthday-copyright",
+    "walkman-origin"
+  ]
+}

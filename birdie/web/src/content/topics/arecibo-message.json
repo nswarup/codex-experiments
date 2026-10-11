@@ -1,0 +1,43 @@
+{
+  "id": "arecibo-message",
+  "title": "The Arecibo message",
+  "category": "Space",
+  "hook": "A 1974 radio message to the stars was 1,679 bits long, a number chosen as a clue.",
+  "peek": "In 1974 the Arecibo radio telescope beamed a short message towards a distant star cluster. Its length, 1,679 bits, was a deliberate hint: it can only be split into 23 rows of 73, or 73 rows of 23, and one of those makes a picture.",
+  "lede": "On 16 November 1974, the Arecibo Observatory in Puerto Rico celebrated an upgrade by sending a radio message into space. Frank Drake designed it, with help from Carl Sagan and others. It was a string of 1,679 on and off pulses. That number was a puzzle in itself: 1,679 is 23 times 73, and those two primes are its only factors.",
+  "bullets": [
+    {
+      "opening": "A grid of 23 by 73",
+      "linkId": null,
+      "text": "A receiver curious enough to try the only possible rectangles would find that 73 rows of 23 columns produce a simple picture. The other way round gives nonsense, which is itself a clue."
+    },
+    {
+      "opening": "What the picture shows",
+      "linkId": null,
+      "text": "The image includes the numbers one to ten, the elements that make up DNA, a sketch of its double helix, a human figure, our solar system with Earth singled out, and the Arecibo dish itself."
+    },
+    {
+      "opening": "Aimed at M13",
+      "linkId": null,
+      "text": "The message was beamed at M13, a cluster of several hundred thousand stars about 25,000 light years away. It will take about that long to arrive, and the stars will have moved by then."
+    },
+    {
+      "opening": "A demonstration, not a call",
+      "linkId": null,
+      "text": "Drake and his team never expected a reply. The broadcast, which lasted about three minutes, was mainly a demonstration of what the newly upgraded telescope could do."
+    }
+  ],
+  "tags": [
+    "communication",
+    "patterns",
+    "prime-numbers",
+    "seti"
+  ],
+  "related": [
+    "golden-record",
+    "wow-signal",
+    "drake-equation",
+    "pale-blue-dot",
+    "pulsar-lgm1"
+  ]
+}

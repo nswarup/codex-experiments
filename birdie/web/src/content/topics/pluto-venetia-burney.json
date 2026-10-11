@@ -1,0 +1,43 @@
+{
+  "id": "pluto-venetia-burney",
+  "title": "The girl who named Pluto",
+  "category": "Space",
+  "hook": "Pluto got its name from an 11-year-old girl in Oxford, over breakfast.",
+  "peek": "When a new planet was found in 1930, the winning name came from Venetia Burney, an Oxford schoolgirl. She suggested it at the breakfast table, her grandfather passed it on, and the astronomers at Lowell Observatory voted for it.",
+  "lede": "In March 1930, newspapers reported that astronomers at Lowell Observatory in Arizona had found a new planet beyond Neptune. In Oxford, 11-year-old Venetia Burney heard the news over breakfast with her grandfather, Falconer Madan. She had been reading about the Greek and Roman gods, and she suggested Pluto, the god of the dark underworld. The name stuck.",
+  "bullets": [
+    {
+      "opening": "Falconer Madan's letter",
+      "linkId": null,
+      "text": "Her grandfather, a retired librarian of Oxford's Bodleian Library, liked the idea and passed it to his friend Herbert Hall Turner, an Oxford astronomy professor. Turner sent the suggestion on to the Lowell Observatory in the United States."
+    },
+    {
+      "opening": "The Lowell Observatory vote",
+      "linkId": null,
+      "text": "Staff at Lowell weighed several names, including Minerva and Cronus. Pluto won every vote. It suited a cold, dark world far from the Sun, and its first two letters matched the initials of Percival Lowell, the observatory's founder."
+    },
+    {
+      "opening": "A five-pound reward",
+      "linkId": null,
+      "text": "The name was announced on 1 May 1930. Venetia's grandfather was so pleased that he gave her a five-pound note as a reward, a generous sum for a schoolgirl at the time."
+    },
+    {
+      "opening": "The Venetia Burney dust counter",
+      "linkId": null,
+      "text": "She grew up to teach maths and economics. When NASA's New Horizons spacecraft set off for Pluto in 2006, it carried a student-built dust detector named after her, the first NASA science instrument designed by students."
+    }
+  ],
+  "tags": [
+    "names",
+    "space-exploration",
+    "planets",
+    "inventors"
+  ],
+  "related": [
+    "pluto-heart",
+    "herschel-georges-star",
+    "neptune-math",
+    "arrokoth-snowman",
+    "swift-mars-moons"
+  ]
+}

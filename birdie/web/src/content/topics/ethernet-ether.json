@@ -1,0 +1,44 @@
+{
+  "id": "ethernet-ether",
+  "title": "Ethernet and the luminiferous ether",
+  "category": "Tech",
+  "hook": "The cable behind most office networks is named after a substance that does not exist.",
+  "peek": "Ethernet, the wired network in offices and homes, takes its name from the luminiferous ether, the invisible medium that 19th-century physicists thought carried light. The ether turned out not to exist, but the name stuck.",
+  "lede": "In 1973, at Xerox's research centre in Palo Alto, the engineer Bob Metcalfe wrote a memo describing a way to link computers through one shared cable. He needed a name, and borrowed one from old physics. Scientists had long believed light travelled through an invisible luminiferous ether filling all of space. Metcalfe's cable would carry signals to every machine the same way.",
+  "bullets": [
+    {
+      "opening": "The luminiferous ether",
+      "linkId": null,
+      "text": "Sound needs air and waves need water, so physicists assumed light needed a medium too. They pictured the ether as perfectly still, filling space, and somehow letting the planets pass straight through it."
+    },
+    {
+      "opening": "The Michelson-Morley experiment",
+      "linkId": "michelson-morley",
+      "text": "In 1887 Albert Michelson and Edward Morley tried to detect Earth moving through the ether by timing light beams sent in different directions. They found no difference, and by 1905 Einstein's relativity did without the ether entirely."
+    },
+    {
+      "opening": "Metcalfe's 1973 memo",
+      "linkId": null,
+      "text": "Metcalfe's idea was that the cable, like the ether, was a passive medium. Every computer listened to it, and if two spoke at once, both waited a random moment and tried again. The first version ran at about 3 megabits a second."
+    },
+    {
+      "opening": "From Xerox to IEEE 802.3",
+      "linkId": null,
+      "text": "Metcalfe left Xerox to found 3Com and promote the system, and in 1983 Ethernet became an official standard. Faster versions still carry the name, half a century after it was coined."
+    }
+  ],
+  "tags": [
+    "names",
+    "etymology",
+    "myths-busted",
+    "light",
+    "history-of-things"
+  ],
+  "related": [
+    "michelson-morley",
+    "bluetooth-king",
+    "wifi-black-holes",
+    "arpanet-lo",
+    "google-googol"
+  ]
+}

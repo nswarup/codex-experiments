@@ -1,0 +1,44 @@
+{
+  "id": "methuselah-date-palm",
+  "title": "Methuselah, the 2,000-year-old seed",
+  "category": "Science",
+  "hook": "A date palm called Methuselah grew from a seed about 2,000 years old.",
+  "peek": "In 2005 a botanist in Israel planted a date seed found in the ruins of Masada, roughly 2,000 years old. It sprouted. The palm, named Methuselah, has grown tall and its pollen has helped another ancient palm bear fruit.",
+  "lede": "In the 1960s archaeologists digging at Masada, an ancient hilltop fortress beside the Dead Sea, found a jar of date seeds and put them in storage. Decades later, in 2005, the botanist Elaine Solowey soaked three of them and planted them at Kibbutz Ketura in southern Israel. One sprouted. Radiocarbon dating put the seed at about 2,000 years old.",
+  "bullets": [
+    {
+      "opening": "The Judean date palm",
+      "linkId": null,
+      "text": "Ancient writers praised the dates grown around Judea for their size and sweetness. The local variety disappeared centuries ago, so Methuselah offered a living look at a lost crop."
+    },
+    {
+      "opening": "Dating the seed",
+      "linkId": null,
+      "text": "The team dated fragments of the seed coat left on the sprout. The results placed the seed around the turn of the first century, which made it one of the oldest seeds ever brought to life."
+    },
+    {
+      "opening": "Methuselah's pollen",
+      "linkId": null,
+      "text": "Date palms are either male or female, and Methuselah turned out to be male. It grew well over two metres tall and began producing flowers and pollen."
+    },
+    {
+      "opening": "Hannah and the new dates",
+      "linkId": null,
+      "text": "In 2020 the researchers reported growing six more palms from ancient seeds, including a female they named Hannah. Pollen from Methuselah was used to fertilise her, and she went on to produce dates."
+    }
+  ],
+  "tags": [
+    "plants",
+    "archaeology",
+    "time",
+    "records"
+  ],
+  "related": [
+    "wollemi-pine",
+    "moon-trees",
+    "pando",
+    "tree-ring-dating",
+    "hyperion-redwood",
+    "welwitschia"
+  ]
+}

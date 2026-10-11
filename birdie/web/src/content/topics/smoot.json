@@ -1,0 +1,43 @@
+{
+  "id": "smoot",
+  "title": "The Smoot",
+  "category": "Science",
+  "hook": "A bridge in Boston is measured in a student's height, and he later led ISO.",
+  "peek": "In 1958, MIT students measured the Harvard Bridge by laying a classmate, Oliver Smoot, end to end across it. The painted marks are still there, and Smoot later became president of the world's top standards body.",
+  "lede": "One night in October 1958, members of an MIT fraternity needed a task for their new pledges. They picked the shortest, Oliver Smoot, at 5 feet 7 inches, and used him as a ruler. He lay down on the Harvard Bridge, they marked his length in paint, and he stood, moved up and lay down again, all the way across the Charles River.",
+  "bullets": [
+    {
+      "opening": "364.4 smoots and an ear",
+      "linkId": null,
+      "text": "The bridge came out at 364.4 smoots, plus or minus one ear, the margin painted at the end. Smoot grew tired partway, so his friends carried him for the later lengths. Marks every ten smoots run along the pavement."
+    },
+    {
+      "opening": "Repainting the marks",
+      "linkId": null,
+      "text": "Each year the fraternity's members repaint the marks. When the bridge was rebuilt in the late 1980s, the new pavement was laid in smoot-length slabs rather than the usual 6 feet, and the city kept the markings."
+    },
+    {
+      "opening": "Smoot at the ISO",
+      "linkId": null,
+      "text": "Oliver Smoot went on to a career in standards. He chaired the American National Standards Institute and served as president of the International Organization for Standardization, ISO, from 2003 to 2004."
+    },
+    {
+      "opening": "The smoot in dictionaries",
+      "linkId": null,
+      "text": "The unit has outgrown the bridge. It appears in the American Heritage Dictionary, and Google's calculator and Google Earth have both offered the smoot as a unit of length."
+    }
+  ],
+  "tags": [
+    "names",
+    "scale",
+    "units",
+    "history-of-things"
+  ],
+  "related": [
+    "le-grand-k",
+    "metre-from-meridian",
+    "barleycorn-shoe-sizes",
+    "caesium-second",
+    "mill-ends-park"
+  ]
+}

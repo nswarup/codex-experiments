@@ -1,0 +1,43 @@
+{
+  "id": "symbolics-dotcom",
+  "title": "Symbolics.com, the first .com",
+  "category": "Tech",
+  "hook": "The first .com address was registered in 1985 by a maker of AI computers.",
+  "peek": "On 15 March 1985, a Massachusetts computer company called Symbolics registered symbolics.com. It was the first .com domain name ever, and decades later the address is still online, now as a small museum of internet history.",
+  "lede": "Every website ending in .com follows one that came first. On 15 March 1985, Symbolics, a computer maker in Cambridge, Massachusetts, registered symbolics.com. It was the first .com domain name. There was no rush to follow: only a handful of other .com names were registered that whole year, and anyone who wanted one could simply ask.",
+  "bullets": [
+    {
+      "opening": "Symbolics Lisp machines",
+      "linkId": null,
+      "text": "Symbolics built Lisp machines, powerful workstations designed to run Lisp, a programming language popular in artificial intelligence research. Its customers were mostly universities, research labs and big companies."
+    },
+    {
+      "opening": "The other 1985 registrations",
+      "linkId": null,
+      "text": "Only six .com names were registered in 1985. After symbolics.com came bbn.com, think.com, mcc.com, dec.com and northrop.com, all belonging to computer and engineering firms."
+    },
+    {
+      "opening": "The 2009 sale",
+      "linkId": null,
+      "text": "The company faded in the 1990s, but the name stayed registered. In 2009 symbolics.com was sold to an investment firm, which turned it into a page about the history of the internet."
+    },
+    {
+      "opening": "Paul Mockapetris and DNS",
+      "linkId": null,
+      "text": "Domain names only existed because Paul Mockapetris designed the Domain Name System in 1983. It replaced a single shared list of computer names with a system that could grow."
+    }
+  ],
+  "tags": [
+    "internet",
+    "firsts",
+    "names",
+    "ai"
+  ],
+  "related": [
+    "arpanet-lo",
+    "google-googol",
+    "million-dollar-homepage",
+    "email-at-sign",
+    "dartmouth-ai-summer"
+  ]
+}

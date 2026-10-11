@@ -1,0 +1,43 @@
+{
+  "id": "medieval-glass-myth",
+  "title": "Old windows aren't flowing glass",
+  "category": "Science",
+  "hook": "Old church windows are thicker at the bottom, but the glass never flowed.",
+  "peek": "A popular story says glass is a slow liquid that has sagged in old church windows over the centuries. It hasn't. The lumpy panes were made that way, and at room temperature glass would take far longer than the age of the universe to droop.",
+  "lede": "Look closely at a very old window and the panes often seem thicker at the bottom. For decades teachers explained this as glass slowly flowing downwards, like a very thick liquid. It makes a good story, but it is a myth. The unevenness was there from the day the glass was made, and room-temperature glass is far too stiff to move.",
+  "bullets": [
+    {
+      "opening": "Spinning crown glass",
+      "linkId": null,
+      "text": "Much early window glass was made by spinning a blob of hot glass into a wide disc. The disc came out thicker near the centre and thinner at the edge, so every pane cut from it was uneven to begin with."
+    },
+    {
+      "opening": "How glaziers set panes",
+      "linkId": null,
+      "text": "Glaziers often fitted the heavier edge at the bottom, which made sense for stability. But surveys of old windows also find panes set with the thick edge at the top or the side, which a flowing liquid could never explain."
+    },
+    {
+      "opening": "Edgar Zanotto's calculation",
+      "linkId": null,
+      "text": "In 1998 the Brazilian materials scientist Edgar Zanotto estimated how fast cathedral glass could flow at room temperature. Any visible sag would take far longer than the age of the universe."
+    },
+    {
+      "opening": "Roman glass and old lenses",
+      "linkId": null,
+      "text": "Glass objects far older than any cathedral window, from Roman bottles to centuries-old telescope lenses, have kept their shapes. If glass drifted noticeably over a few hundred years, they would be warped."
+    }
+  ],
+  "tags": [
+    "myths-busted",
+    "glass",
+    "physics",
+    "architecture"
+  ],
+  "related": [
+    "pitch-drop-experiment",
+    "prince-ruperts-drop",
+    "laminated-glass",
+    "oobleck",
+    "raindrop-shape"
+  ]
+}

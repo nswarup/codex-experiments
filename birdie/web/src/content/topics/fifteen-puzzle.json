@@ -1,0 +1,43 @@
+{
+  "id": "fifteen-puzzle",
+  "title": "The 15 puzzle craze",
+  "category": "Math",
+  "hook": "In 1880 a sliding-tile puzzle gripped America, and half its positions are impossible.",
+  "peek": "In early 1880 a little box of 15 numbered sliding tiles became a national obsession in America. Many people tried to swap the last two tiles, 14 and 15. Mathematicians had already proved it could not be done, and the reason is a hidden rule about pairs of swaps.",
+  "lede": "The 15 puzzle is a square tray holding 15 numbered tiles and one gap, so tiles can slide around. In the first months of 1880 it swept the United States, then Europe. Newspapers wrote about it and employers grumbled. A favourite challenge was to start with 14 and 15 swapped and put them in order. Nobody ever managed it.",
+  "bullets": [
+    {
+      "opening": "Noyes Chapman's invention",
+      "linkId": null,
+      "text": "Historians credit Noyes Chapman, a postmaster in Canastota, New York, who made versions in the 1870s. The puzzle maker Sam Loyd later claimed he had invented it, but researchers have found no evidence that he was involved."
+    },
+    {
+      "opening": "Sam Loyd's $1,000 prize",
+      "linkId": null,
+      "text": "Loyd also said he had offered $1,000 to anyone who could solve the 14-15 swap. The story is widely repeated, but it comes from Loyd himself many years later and historians doubt the prize was ever offered."
+    },
+    {
+      "opening": "The 1879 parity proof",
+      "linkId": null,
+      "text": "In 1879 William Johnson and William Story proved in the American Journal of Mathematics that exactly half of all arrangements can be reached. Every slide changes a hidden parity, and a single swap of two tiles is always on the wrong side of it."
+    },
+    {
+      "opening": "Ten trillion positions",
+      "linkId": null,
+      "text": "That still leaves about 10 trillion reachable arrangements. Computer searches have since shown that any of them can be solved in at most 80 single-tile moves."
+    }
+  ],
+  "tags": [
+    "games",
+    "history-of-things",
+    "myths-busted",
+    "patterns"
+  ],
+  "related": [
+    "tower-of-hanoi",
+    "gods-number",
+    "sudoku-17-clues",
+    "gardner-mathematical-games",
+    "spilsbury-jigsaw"
+  ]
+}

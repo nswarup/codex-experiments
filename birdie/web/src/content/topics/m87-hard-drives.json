@@ -1,0 +1,44 @@
+{
+  "id": "m87-hard-drives",
+  "title": "The black hole photo that travelled by plane",
+  "category": "Space",
+  "hook": "The first black hole image was too big to send online, so it went by plane.",
+  "peek": "In 2017 eight radio observatories around the world watched the same black hole for several nights. They gathered so much data that sending it over the internet was hopeless, so crates of hard drives were flown to two labs to be combined.",
+  "lede": "In April 2017 the Event Horizon Telescope linked eight radio dishes, from Hawaii to Spain to the South Pole, into one virtual telescope roughly the size of Earth. Over several nights they recorded about 5 petabytes of data on the black hole at the centre of the galaxy M87. That was far too much for the internet, so the team shipped the hard drives instead.",
+  "bullets": [
+    {
+      "opening": "Half a tonne of hard drives",
+      "linkId": null,
+      "text": "The recordings filled roughly half a tonne of hard drives. They were flown to MIT's Haystack Observatory in Massachusetts and the Max Planck Institute for Radio Astronomy in Bonn, where supercomputers lined up the signals from every dish."
+    },
+    {
+      "opening": "Waiting for the South Pole",
+      "linkId": null,
+      "text": "The South Pole Telescope's drives could not leave until the Antarctic winter ended and flights resumed. The team waited months for that last piece of the puzzle before the full image could be made."
+    },
+    {
+      "opening": "The orange ring of M87",
+      "linkId": null,
+      "text": "The image, released in April 2019, shows a glowing orange ring around a dark shadow. The black hole inside is about 55 million light-years away and weighs about 6.5 billion times as much as the Sun."
+    },
+    {
+      "opening": "Sagittarius A* in 2022",
+      "linkId": null,
+      "text": "The same telescope network and the same fly-the-drives method later produced a picture of Sagittarius A*, the black hole at the heart of our own Milky Way, released in May 2022."
+    }
+  ],
+  "tags": [
+    "black-holes",
+    "data",
+    "scale",
+    "photography"
+  ],
+  "related": [
+    "pigeon-vs-broadband",
+    "ligo-chirp",
+    "perseus-black-hole-note",
+    "hubble-deep-field",
+    "ibm-ramac",
+    "pale-blue-dot"
+  ]
+}

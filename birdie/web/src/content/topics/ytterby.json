@@ -1,0 +1,48 @@
+{
+  "id": "ytterby",
+  "title": "Ytterby, the village in the periodic table",
+  "category": "Science",
+  "hook": "One small Swedish village gave its name to four chemical elements.",
+  "peek": "Yttrium, ytterbium, terbium and erbium are all named after Ytterby, a village on an island near Stockholm. Its old quarry produced a heavy black rock that kept chemists busy for more than a century.",
+  "lede": "Ytterby is a small village on the island of Resarö, in the archipelago outside Stockholm. It has a better claim to the periodic table than most countries. Four elements are named after it: yttrium, ytterbium, terbium and erbium. All of them came out of a single mineral dug from the village's quarry, which was mined for feldspar used in porcelain.",
+  "bullets": [
+    {
+      "opening": "Arrhenius's black rock",
+      "linkId": null,
+      "text": "In 1787 Carl Axel Arrhenius, a Swedish army officer with an interest in minerals, picked up an unusually heavy black stone at the Ytterby quarry. He suspected it held something new and sent samples to chemists."
+    },
+    {
+      "opening": "Johan Gadolin's yttria",
+      "linkId": null,
+      "text": "In 1794 the Finnish chemist Johan Gadolin found a new earth, an oxide, in the rock. It was named yttria. The mineral itself was later called gadolinite in his honour."
+    },
+    {
+      "opening": "Splitting yttria apart",
+      "linkId": null,
+      "text": "Yttria turned out to be a mixture. In 1843 Carl Gustaf Mosander split off two more oxides and named them after the village as well, which became erbium and terbium. The two names were later swapped in the confusion, and in 1878 a further split gave ytterbium."
+    },
+    {
+      "opening": "Ytterby's other elements",
+      "linkId": null,
+      "text": "More elements were teased out of Ytterby's minerals, including holmium, thulium, scandium and gadolinium, though they were named after other places and people. Most belong to the rare earths, now used in magnets, screens and lasers."
+    },
+    {
+      "opening": "The plaque at the mine",
+      "linkId": null,
+      "text": "The quarry closed in the 1930s. In 1989 ASM International, a materials society, put up a plaque at the old mine marking it as a historic landmark, and chemists still make the trip to see it."
+    }
+  ],
+  "tags": [
+    "names",
+    "elements",
+    "chemistry",
+    "maps"
+  ],
+  "related": [
+    "mendeleev-gaps",
+    "gallium-spoon",
+    "bismuth-crystals",
+    "cecilia-payne",
+    "diamonds-burn"
+  ]
+}

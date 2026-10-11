@@ -1,0 +1,43 @@
+{
+  "id": "moon-trees",
+  "title": "The Moon trees",
+  "category": "Space",
+  "hook": "Hundreds of tree seeds orbited the Moon in 1971, then grew up on Earth.",
+  "peek": "On Apollo 14, astronaut Stuart Roosa carried a canister of tree seeds around the Moon. Back on Earth they sprouted, and the seedlings became Moon trees, planted across the United States and beyond. Many still stand, though nobody kept a full list.",
+  "lede": "Stuart Roosa had worked as a smokejumper for the US Forest Service, parachuting in to fight wildfires, before he became an astronaut. When he flew on Apollo 14 in February 1971, the Forest Service asked him to take a canister of roughly 500 tree seeds along. While his crewmates walked on the Moon, Roosa circled it alone in the command module, the seeds stowed in his kit.",
+  "bullets": [
+    {
+      "opening": "Five kinds of seed",
+      "linkId": null,
+      "text": "The canister held seeds of loblolly pine, sycamore, sweetgum, redwood and Douglas fir. The idea was to see whether a trip around the Moon changed how they grew. Back on Earth, the canister burst open during cleaning, but many seeds still sprouted."
+    },
+    {
+      "opening": "Bicentennial plantings",
+      "linkId": null,
+      "text": "The seedlings were given away in the mid-1970s, many around the 1976 US bicentennial. They went to parks, schools and state capitols, and a few travelled abroad. The trees grew just like ordinary ones, which was the answer to the experiment."
+    },
+    {
+      "opening": "Tracking down the trees",
+      "linkId": null,
+      "text": "Nobody kept a careful record of where they all went. In 1996 a schoolteacher in Indiana asked NASA about one, and NASA scientist Dave Williams began building a list. Dozens have since been found, and the search continues."
+    },
+    {
+      "opening": "Artemis Moon trees",
+      "linkId": null,
+      "text": "The idea came back in 2022. NASA's uncrewed Artemis I mission carried tree seeds around the Moon, and the new seedlings began going out to schools and other groups in 2024."
+    }
+  ],
+  "tags": [
+    "space-exploration",
+    "trees",
+    "experiments",
+    "history-of-things"
+  ],
+  "related": [
+    "newtons-apple-tree",
+    "tree-ring-dating",
+    "moon-golf",
+    "apollo-playtex-suits",
+    "aldrin-felt-pen"
+  ]
+}

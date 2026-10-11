@@ -1,0 +1,43 @@
+{
+  "id": "quipu-knots",
+  "title": "Inca quipu",
+  "category": "Math",
+  "hook": "The Inca kept an empire's accounts in knots tied on hanging cords.",
+  "peek": "The Inca had no known writing system, yet they tracked people, goods and taxes across a huge empire. They did it with quipu: bundles of coloured cords whose knots recorded numbers in base ten.",
+  "lede": "The Inca Empire stretched along the Andes for thousands of kilometres, with no known system of writing. Its records lived on quipu, also spelled khipu: a main cord with dozens or even hundreds of hanging strings, each tied with knots. In the early 1900s researchers showed that many of those knots were numbers, written in base ten.",
+  "bullets": [
+    {
+      "opening": "Leland Locke's decoding",
+      "linkId": null,
+      "text": "In 1912 the American scholar Leland Locke worked out the number system. Clusters of knots stood for ones, tens, hundreds and so on, with the units at the bottom of each cord and higher powers of ten above."
+    },
+    {
+      "opening": "Three kinds of knot",
+      "linkId": null,
+      "text": "Simple knots marked tens and higher places. Long knots, with several turns, gave the units from two to nine, and a figure-of-eight knot stood for one. An empty space on the cord worked as a zero."
+    },
+    {
+      "opening": "The quipu keepers",
+      "linkId": null,
+      "text": "Specialists called khipukamayuq made and read the cords. They tracked things like herds, harvests, labour and population, and could add up totals by tying summary cords that collected the values of others."
+    },
+    {
+      "opening": "Numbers or also words",
+      "linkId": null,
+      "text": "Several hundred quipu survive in museums. Some do not fit the number pattern, and researchers still debate whether certain cords recorded names, stories or other language. Nobody has yet read one as text."
+    }
+  ],
+  "tags": [
+    "communication",
+    "history-of-things",
+    "patterns",
+    "myths-busted"
+  ],
+  "related": [
+    "kushim",
+    "leibniz-binary",
+    "jacquard-punch-cards",
+    "rai-stones",
+    "antikythera-mechanism"
+  ]
+}

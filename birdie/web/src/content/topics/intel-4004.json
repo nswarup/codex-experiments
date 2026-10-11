@@ -1,0 +1,43 @@
+{
+  "id": "intel-4004",
+  "title": "The Intel 4004",
+  "category": "Tech",
+  "hook": "The first commercial microprocessor was made for a Japanese desktop calculator.",
+  "peek": "In 1971 Intel released the 4004, a whole computer processor on one small chip. It was designed for a calculator made by Busicom, a Japanese company, and Intel had to buy back the rights before it could sell the chip to anyone else.",
+  "lede": "In 1969 the Japanese company Busicom asked Intel, then a young memory-chip maker, to build a set of custom chips for a new desktop calculator. The Intel engineer Ted Hoff suggested something simpler: one general-purpose processor that could be programmed to do the calculator's work. The result, released in November 1971, was the Intel 4004.",
+  "bullets": [
+    {
+      "opening": "Federico Faggin's design",
+      "linkId": null,
+      "text": "Hoff's idea was turned into a working chip by Federico Faggin, with Busicom's engineer Masatoshi Shima. Faggin etched his initials, F.F., onto the chip itself."
+    },
+    {
+      "opening": "2,300 transistors",
+      "linkId": null,
+      "text": "The 4004 held about 2,300 transistors and handled numbers four bits at a time. It ran at under one megahertz, but it fit a computer's processor onto a chip about the size of a fingernail."
+    },
+    {
+      "opening": "Buying back the rights",
+      "linkId": null,
+      "text": "Busicom owned the design at first. When it ran into money troubles, Intel offered a lower price in return for the right to sell the chip for uses other than calculators, which opened the microprocessor to everyone."
+    },
+    {
+      "opening": "The Pioneer 10 myth",
+      "linkId": null,
+      "text": "A popular story says the 4004 flew aboard the Pioneer 10 space probe. It did not, since the probe's electronics were designed before the chip existed, though the chip did go on to run many other machines."
+    }
+  ],
+  "tags": [
+    "chips",
+    "inventors",
+    "history-of-things",
+    "calculators"
+  ],
+  "related": [
+    "moores-law",
+    "first-transistor",
+    "apple-i-price",
+    "voyager-computers",
+    "slide-rule-apollo"
+  ]
+}

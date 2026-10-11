@@ -1,0 +1,43 @@
+{
+  "id": "swift-mars-moons",
+  "title": "Jonathan Swift's moons of Mars",
+  "category": "Space",
+  "hook": "Gulliver's Travels gave Mars two moons 151 years before anyone saw them.",
+  "peek": "In 1726 Jonathan Swift wrote that the astronomers of the flying island of Laputa had found two moons circling Mars. Astronomers did not actually find Phobos and Deimos until 1877. It looks like prophecy, but it was more like a good guess.",
+  "lede": "In Gulliver's Travels, published in 1726, Jonathan Swift describes the astronomers of Laputa, a flying island, who have discovered two small moons circling Mars. Real telescopes could not see them. Only in August 1877 did Asaph Hall, at the US Naval Observatory in Washington, find the two tiny moons now called Phobos and Deimos.",
+  "bullets": [
+    {
+      "opening": "Kepler's guess",
+      "linkId": null,
+      "text": "Swift probably borrowed the idea. In 1610 Johannes Kepler suggested that if Earth had one moon and Jupiter four, Mars might have two. It was number-pattern reasoning, not evidence, and it happened to come out right."
+    },
+    {
+      "opening": "Swift's orbital numbers",
+      "linkId": null,
+      "text": "Swift gave his moons orbits of 10 and 21.5 hours, at 3 and 5 Mars diameters from the centre. The pair fit Kepler's third law of planetary motion, though the real moons orbit in about 7.7 and 30 hours."
+    },
+    {
+      "opening": "Asaph Hall's search",
+      "linkId": null,
+      "text": "Hall had nearly given up hunting near the planet's glare, but his wife, Angeline Stickney, urged him on. The largest crater on Phobos is named Stickney after her."
+    },
+    {
+      "opening": "Swift and Voltaire craters",
+      "linkId": null,
+      "text": "Two craters on Deimos are named Swift and Voltaire. Voltaire's 1752 story Micromégas also gave Mars two moons, so both writers got a crater."
+    }
+  ],
+  "tags": [
+    "mars",
+    "moons",
+    "coincidences",
+    "books"
+  ],
+  "related": [
+    "mars-blue-sunset",
+    "phobos-falling",
+    "martian-canals",
+    "neptune-math",
+    "herschel-georges-star"
+  ]
+}

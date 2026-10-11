@@ -1,0 +1,43 @@
+{
+  "id": "zero-g-indicator",
+  "title": "The zero-g indicator",
+  "category": "Space",
+  "hook": "Many crews carry a small plush toy to tell them the moment they reach orbit.",
+  "peek": "Strapped into their seats in bulky suits, astronauts cannot easily feel the instant they become weightless. So many crews hang a small soft toy in the cabin. When it starts to float, everyone knows they have made it to space.",
+  "lede": "During launch, astronauts are pressed into their seats, gloved, helmeted and busy. Reaching weightlessness is a big moment, but it can be hard to notice through all that gear. The answer is charmingly simple: a small plush toy on a tether, hanging in view. While the engines push, it hangs tight. When they cut off and the toy drifts up, the crew is in free fall.",
+  "bullets": [
+    {
+      "opening": "The Soyuz tradition",
+      "linkId": null,
+      "text": "Russian Soyuz crews have used soft toys this way for decades, often dangling them from a string above the seats. The toy is frequently chosen by a crew member's child, which gives it a personal meaning."
+    },
+    {
+      "opening": "Tremor the dinosaur",
+      "linkId": null,
+      "text": "On SpaceX's first crewed flight in 2020, astronauts Bob Behnken and Doug Hurley carried Tremor, a sparkly sequined dinosaur picked by their young sons. It later stayed on the space station for a while."
+    },
+    {
+      "opening": "Snoopy on Artemis I",
+      "linkId": null,
+      "text": "When NASA's uncrewed Artemis I mission flew around the Moon in 2022, its zero-g indicator was a small Snoopy in an orange spacesuit, nodding to Snoopy's long history as a NASA mascot."
+    },
+    {
+      "opening": "Why a toy works",
+      "linkId": null,
+      "text": "A soft toy is light, safe to bump into and easy to see on the cabin cameras, so people watching from the ground can see the moment of weightlessness too."
+    }
+  ],
+  "tags": [
+    "space-exploration",
+    "astronauts",
+    "toys",
+    "traditions"
+  ],
+  "related": [
+    "snoopy-charlie-brown",
+    "gemini-corned-beef",
+    "gagarin-parachute",
+    "space-oddity-hadfield",
+    "overview-effect"
+  ]
+}

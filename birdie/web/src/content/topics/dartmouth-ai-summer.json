@@ -1,0 +1,43 @@
+{
+  "id": "dartmouth-ai-summer",
+  "title": "The summer that named AI",
+  "category": "Tech",
+  "hook": "The phrase artificial intelligence was coined for a summer project expected to make real headway.",
+  "peek": "In 1955 four researchers asked for funding for a two-month summer workshop at Dartmouth College. Their proposal coined the term artificial intelligence and suggested a small team could make a significant advance in a single summer. The field is still working on it.",
+  "lede": "In August 1955, John McCarthy, Marvin Minsky, Nathaniel Rochester and Claude Shannon wrote a funding proposal for \"a 2 month, 10 man study of artificial intelligence\" at Dartmouth College in the summer of 1956. It was the first use of the phrase. They wrote that a carefully chosen group working together for a summer could make a significant advance.",
+  "bullets": [
+    {
+      "opening": "John McCarthy's new term",
+      "linkId": null,
+      "text": "McCarthy, then a young mathematics professor at Dartmouth, picked the name. He later said he chose it partly to steer clear of cybernetics, the existing field closely tied to Norbert Wiener."
+    },
+    {
+      "opening": "The 1955 proposal",
+      "linkId": null,
+      "text": "The proposal listed problems including getting machines to use language, form concepts, improve themselves and solve problems then reserved for humans. It rested on the idea that every feature of learning could in principle be described precisely enough for a machine to copy it."
+    },
+    {
+      "opening": "The Logic Theorist",
+      "linkId": null,
+      "text": "Allen Newell and Herbert Simon arrived with one of the few working programs, the Logic Theorist, which proved theorems from Principia Mathematica, a classic work of mathematical logic. It is often called the first artificial intelligence program."
+    },
+    {
+      "opening": "A loose, drifting workshop",
+      "linkId": null,
+      "text": "The workshop did not go as planned. Participants came and went over the summer, few stayed the whole time, and there was no single breakthrough. Its lasting result was the name and the community it brought together."
+    }
+  ],
+  "tags": [
+    "ai",
+    "names",
+    "inventors",
+    "computer-history"
+  ],
+  "related": [
+    "turing-imitation-game",
+    "perceptron-1958",
+    "shakey-robot",
+    "eliza-chatbot",
+    "vague-but-exciting"
+  ]
+}

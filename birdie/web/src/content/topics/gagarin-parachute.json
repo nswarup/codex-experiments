@@ -1,0 +1,43 @@
+{
+  "id": "gagarin-parachute",
+  "title": "Gagarin didn't land in his capsule",
+  "category": "Space",
+  "hook": "The first man in space finished his flight by parachute, not inside his capsule.",
+  "peek": "Yuri Gagarin's 1961 flight made him the first person in space. What the Soviet Union kept quiet was that he ejected during the descent and floated down separately, because record rules then said a pilot had to land in the craft.",
+  "lede": "On 12 April 1961, Yuri Gagarin circled Earth once in Vostok 1, in a flight of about 108 minutes. Official accounts said he landed safely with his spacecraft. In fact the Vostok capsule had no way to slow down enough for a gentle landing. At a height of about 7 kilometres, Gagarin ejected from his seat and came down by parachute on his own.",
+  "bullets": [
+    {
+      "opening": "Vostok's ejection seat",
+      "linkId": null,
+      "text": "This was the plan from the start, not an emergency. The Vostok capsule landed hard under its own parachute, so every Vostok pilot was meant to eject and land separately. Skydiving skills were part of cosmonaut training."
+    },
+    {
+      "opening": "The FAI record rules",
+      "linkId": null,
+      "text": "At the time, the international body that certified aviation records, the FAI, expected a pilot to land with the craft. The Soviet Union described the flight as a full landing in the capsule and only openly admitted the parachute descent around 1971."
+    },
+    {
+      "opening": "Landing in a field",
+      "linkId": null,
+      "text": "Gagarin came down in farmland near the Volga River, in the Saratov region. Among the first people to see him were a farm woman and her granddaughter, surprised by a figure in a bright orange suit."
+    },
+    {
+      "opening": "Records still approved",
+      "linkId": null,
+      "text": "The FAI recognised Gagarin's records anyway. It accepted that what mattered was the launch, the orbit and the safe return of the pilot, wherever he touched down."
+    }
+  ],
+  "tags": [
+    "space-exploration",
+    "records",
+    "myths-busted",
+    "history-of-things"
+  ],
+  "related": [
+    "tereshkova-chaika",
+    "jingle-bells-space",
+    "moon-golf",
+    "apollo-12-lightning",
+    "pale-blue-dot"
+  ]
+}

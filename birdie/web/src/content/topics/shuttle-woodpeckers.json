@@ -1,0 +1,43 @@
+{
+  "id": "shuttle-woodpeckers",
+  "title": "The woodpeckers that grounded a shuttle",
+  "category": "Space",
+  "hook": "In 1995 woodpeckers delayed a space shuttle launch by more than a month.",
+  "peek": "A few weeks before space shuttle Discovery was due to launch in 1995, woodpeckers at Kennedy Space Center pecked about 200 holes in the foam on its huge orange fuel tank. NASA had to roll the shuttle back for repairs.",
+  "lede": "Space shuttle Discovery was on the launch pad in Florida in May 1995, ready for mission STS-70. Then workers noticed holes in the orange foam insulation covering its external fuel tank. The culprits were northern flickers, a type of woodpecker, in their nesting season. They had made about 200 holes, and the shuttle had to go back to its hangar.",
+  "bullets": [
+    {
+      "opening": "Northern flickers at Kennedy",
+      "linkId": null,
+      "text": "Kennedy Space Center sits inside a wildlife refuge, home to many birds. The flickers seem to have treated the foam, soft and easy to dig into, as a promising place to make a nest."
+    },
+    {
+      "opening": "Rolling back for repairs",
+      "linkId": null,
+      "text": "A damaged tank was not safe to fly, and the holes were too many to patch on the pad. Discovery returned to the Vehicle Assembly Building, and launch slipped from early June to 13 July 1995."
+    },
+    {
+      "opening": "Plastic owls and air horns",
+      "linkId": null,
+      "text": "NASA set up a bird team to stop it happening again. It tried plastic owl decoys, balloons painted with large eyes and loud air horns to scare the woodpeckers away from the pad."
+    },
+    {
+      "opening": "Woody Woodpecker mascot",
+      "linkId": null,
+      "text": "The STS-70 crew took the delay with good humour. The cartoon character Woody Woodpecker became the mission's unofficial mascot, and the flight is still nicknamed after him."
+    }
+  ],
+  "tags": [
+    "space-exploration",
+    "birds",
+    "accidents",
+    "animals"
+  ],
+  "related": [
+    "moon-golf",
+    "gemini-corned-beef",
+    "hubble-mirror-flaw",
+    "crows-faces",
+    "murmurations"
+  ]
+}

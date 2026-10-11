@@ -1,0 +1,43 @@
+{
+  "id": "carrington-event",
+  "title": "The Carrington Event",
+  "category": "Space",
+  "hook": "In 1859 a solar storm let telegraphs run with their batteries unplugged.",
+  "peek": "In September 1859 the biggest solar storm on record lit up skies far from the poles and sent currents surging through telegraph wires. Some operators disconnected their batteries and kept sending messages on the storm's power alone.",
+  "lede": "On 1 September 1859 the English astronomer Richard Carrington was sketching sunspots when two brilliant patches of white light flared up on the Sun. About 17 hours later, a huge cloud of solar material reached Earth. The magnetic storm that followed is still the strongest on record, and it arrived in the age of the telegraph.",
+  "bullets": [
+    {
+      "opening": "Carrington's white-light flare",
+      "linkId": null,
+      "text": "Carrington watched the flare for about five minutes. Another amateur, Richard Hodgson, saw it independently, which helped convince others it was real. It was the first solar flare ever recorded."
+    },
+    {
+      "opening": "Auroras near the tropics",
+      "linkId": null,
+      "text": "Northern and southern lights were reported as far from the poles as Cuba, Hawaii and Colombia. In the Rocky Mountains the glow was so bright that some gold miners reportedly got up and began making breakfast, thinking it was dawn."
+    },
+    {
+      "opening": "Telegraphs on auroral current",
+      "linkId": null,
+      "text": "The storm drove strong currents through telegraph lines. Operators between Boston and Portland, Maine, unplugged their batteries and found the line still worked, sending messages for about two hours on the storm's current alone."
+    },
+    {
+      "opening": "A modern Carrington storm",
+      "linkId": null,
+      "text": "A storm that size today could disrupt satellites, GPS and power grids. In 2012 a comparable burst of solar material crossed Earth's orbit, missing us by about a week, and space weather forecasters now watch the Sun constantly."
+    }
+  ],
+  "tags": [
+    "sun",
+    "space-weather",
+    "telegraph",
+    "light"
+  ],
+  "related": [
+    "parker-solar-probe",
+    "transatlantic-cable-1858",
+    "chappe-telegraph-hack",
+    "year-without-summer",
+    "eclipse-coincidence"
+  ]
+}

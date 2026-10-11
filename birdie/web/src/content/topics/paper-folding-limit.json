@@ -1,0 +1,43 @@
+{
+  "id": "paper-folding-limit",
+  "title": "Folding paper 12 times",
+  "category": "Math",
+  "hook": "Paper supposedly could not be folded in half more than seven times. A student did 12.",
+  "peek": "For years people repeated that no sheet of paper could be folded in half more than seven times. In 2002 a California high-school student, Britney Gallivan, worked out exactly how much paper each fold uses up, then folded a very long strip 12 times.",
+  "lede": "Each fold in half doubles the thickness and halves the length, so the paper runs out of room quickly. After seven folds a sheet is 128 layers thick and barely bends, which gave rise to the popular claim that seven was the limit. In 2002 Britney Gallivan, then a junior at high school in Pomona, California, decided to test it properly.",
+  "bullets": [
+    {
+      "opening": "Gallivan's folding formula",
+      "linkId": null,
+      "text": "Gallivan noticed that each fold wastes some paper in the curved edge, and that the waste grows fast. She worked out an equation for the length of paper needed for any number of folds in one direction, based on the paper's thickness."
+    },
+    {
+      "opening": "The 1.2-kilometre strip",
+      "linkId": null,
+      "text": "Her formula said 12 folds in one direction needed a strip about 1.2 kilometres long. She bought a giant roll of thin toilet paper, laid it out in a shopping mall and spent hours folding. The result was 4,096 layers thick."
+    },
+    {
+      "opening": "The MythBusters attempt",
+      "linkId": null,
+      "text": "In 2007 the television show MythBusters folded a sheet the size of a football field. With the help of a forklift and a steamroller, they got it to 11 folds before it would bend no further."
+    },
+    {
+      "opening": "Thirteen folds in Massachusetts",
+      "linkId": null,
+      "text": "In 2011 students and teachers at St Mark's School in Southborough, Massachusetts, used about 16 kilometres of toilet paper laid along corridors to reach 13 folds, beating Gallivan's mark."
+    }
+  ],
+  "tags": [
+    "myths-busted",
+    "records",
+    "scale",
+    "experiments"
+  ],
+  "related": [
+    "grahams-number",
+    "mobius-strip",
+    "hyperbolic-crochet",
+    "googol-name",
+    "rope-around-earth"
+  ]
+}

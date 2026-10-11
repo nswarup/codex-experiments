@@ -1,0 +1,43 @@
+{
+  "id": "watson-toronto",
+  "title": "Watson's Toronto answer",
+  "category": "Tech",
+  "hook": "IBM's Watson beat two Jeopardy champions, then named Toronto as a US city.",
+  "peek": "In 2011 IBM's Watson computer won a televised Jeopardy match against the show's two greatest champions. Its most famous moment was a miss: in the category U.S. Cities, it answered Toronto, with a string of question marks showing its doubt.",
+  "lede": "In February 2011 IBM's Watson faced Ken Jennings and Brad Rutter, the two most successful players in Jeopardy history, over two televised games. Watson won comfortably. Yet the moment many viewers remember came in Final Jeopardy on the second night, when the category was U.S. Cities and the computer confidently wrote down a city in Canada. Well, not quite confidently.",
+  "bullets": [
+    {
+      "opening": "The Chicago airports clue",
+      "linkId": null,
+      "text": "The clue asked for a city whose largest airport was named after a war hero and its second largest after a battle. The answer was Chicago, home of O'Hare and Midway. Both human players got it."
+    },
+    {
+      "opening": "Question marks and a small bet",
+      "linkId": null,
+      "text": "Watson wrote What is Toronto, followed by several question marks, the programmers' way of showing low confidence. It had wagered only 947 dollars, so the slip barely dented its lead."
+    },
+    {
+      "opening": "Why Watson guessed Toronto",
+      "linkId": null,
+      "text": "IBM explained that Watson had learned category titles are often loose hints, so it gave them little weight. Several American towns are called Toronto, and Toronto's baseball team plays in the American League."
+    },
+    {
+      "opening": "Ken Jennings' overlords note",
+      "linkId": null,
+      "text": "Watson won the match with more than 77,000 dollars. Jennings wrote under his final answer that he, for one, welcomed our new computer overlords, borrowing a line from The Simpsons."
+    }
+  ],
+  "tags": [
+    "ai",
+    "games",
+    "accidents",
+    "records"
+  ],
+  "related": [
+    "deep-blue-move-44",
+    "move-37",
+    "alphazero-chess",
+    "eliza-chatbot",
+    "turing-imitation-game"
+  ]
+}

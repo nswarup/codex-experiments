@@ -1,0 +1,44 @@
+{
+  "id": "titan-methane-lakes",
+  "title": "Titan's lakes of methane",
+  "category": "Space",
+  "hook": "On Saturn's moon Titan it rains and the rain fills lakes, but the rain is methane.",
+  "peek": "Titan is the only world besides Earth known to have rivers, lakes and seas on its surface. At about minus 180°C water is as hard as rock, so the liquid is methane and ethane, falling as rain from a thick orange haze.",
+  "lede": "Titan, Saturn's largest moon, is wrapped in a hazy nitrogen atmosphere thicker than Earth's. Its surface sits at about minus 180°C, cold enough for methane and ethane, gases on Earth, to be liquid. They behave the way water does here: they form clouds, fall as rain, carve river channels and collect in lakes and seas, mostly near the poles.",
+  "bullets": [
+    {
+      "opening": "Kraken Mare",
+      "linkId": null,
+      "text": "Titan's largest sea, near the north pole, covers roughly as much area as the Caspian Sea. Radar on the Cassini spacecraft mapped it and dozens of smaller lakes, and showed that some of them are more than 100 metres deep."
+    },
+    {
+      "opening": "The Huygens landing",
+      "linkId": null,
+      "text": "In January 2005 the Huygens probe parachuted through the haze and landed, the most distant landing ever made. Its photos showed branching channels and ground scattered with rounded pebbles of water ice, smoothed as if by flowing liquid."
+    },
+    {
+      "opening": "Ice as hard as rock",
+      "linkId": null,
+      "text": "On Titan, water plays the part of stone. Its pebbles, hills and bedrock are frozen water, while methane does the job of water, evaporating from the lakes and returning as large drops that drift down far more slowly than rain on Earth."
+    },
+    {
+      "opening": "The Dragonfly mission",
+      "linkId": null,
+      "text": "NASA's next visit will be Dragonfly, a car-sized drone with eight rotors. Thick air and low gravity make flying easy on Titan, so in the 2030s it will hop between sites to study the chemistry of its dunes and craters."
+    }
+  ],
+  "tags": [
+    "moons",
+    "weather",
+    "saturn",
+    "space-exploration"
+  ],
+  "related": [
+    "enceladus-geysers",
+    "europa-ocean",
+    "saturn-would-float",
+    "iapetus-two-tone",
+    "mars-blue-sunset",
+    "raindrop-shape"
+  ]
+}

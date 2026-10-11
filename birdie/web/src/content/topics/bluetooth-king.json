@@ -1,0 +1,43 @@
+{
+  "id": "bluetooth-king",
+  "title": "Bluetooth's Viking king",
+  "category": "Tech",
+  "hook": "Your wireless earbuds are named after a Danish king who died over a thousand years ago.",
+  "peek": "Harald Bluetooth ruled Denmark in the 900s and is remembered for bringing Danish lands together. In 1997 an engineer borrowed his name for a radio link that would bring computers and phones together. The logo is his initials in runes.",
+  "lede": "In the 10th century, Harald Gormsson ruled Denmark and, for a time, Norway. He was known by the nickname Blåtand, or Bluetooth, and is remembered for uniting Danish territory. In the late 1990s, engineers from rival companies were working on a short-range radio standard to connect phones and computers. They needed a name, and a Danish king who brought people together seemed fitting.",
+  "bullets": [
+    {
+      "opening": "Jim Kardach's code name",
+      "linkId": null,
+      "text": "Intel engineer Jim Kardach suggested Bluetooth in 1997 after reading The Long Ships, a novel about Vikings that features Harald. It was meant as a temporary code name until marketing teams chose something better."
+    },
+    {
+      "opening": "The name that stayed",
+      "linkId": null,
+      "text": "Other names were considered, including PAN, but they ran into trademark trouble or failed to catch on. With the launch approaching, the code name stayed, and the standard was released as Bluetooth."
+    },
+    {
+      "opening": "A logo of two runes",
+      "linkId": null,
+      "text": "The Bluetooth logo is a bind rune, two runes joined into one shape. It combines ᚼ for H and ᛒ for B, Harald's initials, from the Younger Futhark alphabet used in Viking-age Scandinavia."
+    },
+    {
+      "opening": "Why \"Bluetooth\"",
+      "linkId": null,
+      "text": "Nobody knows for sure why Harald got the nickname. A popular story says he had a dark, discoloured tooth, but historians are not certain, and some suggest the word once meant something like \"dark chieftain\"."
+    }
+  ],
+  "tags": [
+    "names",
+    "etymology",
+    "design",
+    "radio"
+  ],
+  "related": [
+    "wifi-black-holes",
+    "hedy-lamarr",
+    "viking-horned-helmets",
+    "google-googol",
+    "command-key-symbol"
+  ]
+}

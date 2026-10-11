@@ -1,0 +1,43 @@
+{
+  "id": "javascript-ten-days",
+  "title": "JavaScript was written in 10 days",
+  "category": "Tech",
+  "hook": "The language behind almost every web page was first written in about ten days.",
+  "peek": "In May 1995 a Netscape engineer named Brendan Eich built the first version of a scripting language for the web in roughly ten days. It was called Mocha, then LiveScript, and finally JavaScript, a name chosen to ride on the popularity of Java.",
+  "lede": "In May 1995, Netscape wanted a simple language that would let web pages respond to clicks and typing. Brendan Eich, newly hired, wrote the first working version in about ten days. Rushed out to beat competitors, it shipped in the Netscape Navigator browser that year. Almost every website today still runs code in that language, now called JavaScript.",
+  "bullets": [
+    {
+      "opening": "Mocha and LiveScript",
+      "linkId": null,
+      "text": "The language was first called Mocha, then LiveScript when it shipped in a test release. In December 1995 Netscape and Sun Microsystems announced it as JavaScript, a marketing choice that borrowed the buzz around Sun's new Java language."
+    },
+    {
+      "opening": "Not related to Java",
+      "linkId": null,
+      "text": "Despite the name, JavaScript is a different language with different ideas. Eich was asked to make it look a bit like Java, so it borrowed curly braces and some syntax, but its insides drew more on languages such as Scheme and Self."
+    },
+    {
+      "opening": "The typeof null quirk",
+      "linkId": null,
+      "text": "Some oddities from those ten days could never be removed, because changing them would break existing websites. A famous one is that asking JavaScript what type null is returns object, a mistake Eich has acknowledged."
+    },
+    {
+      "opening": "ECMAScript",
+      "linkId": null,
+      "text": "To make it a shared standard, the language was handed to the Ecma standards body, which published it as ECMAScript in 1997. The name JavaScript stayed in everyday use, though the trademark is now owned by Oracle."
+    }
+  ],
+  "tags": [
+    "names",
+    "inventors",
+    "computer-history",
+    "accidents"
+  ],
+  "related": [
+    "linux-just-a-hobby",
+    "hello-world",
+    "rubber-duck-debugging",
+    "symbolics-dotcom",
+    "spam-monty-python"
+  ]
+}

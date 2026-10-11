@@ -1,0 +1,43 @@
+{
+  "id": "le-grand-k",
+  "title": "Le Grand K, the kilogram in a vault",
+  "category": "Science",
+  "hook": "For 130 years, the kilogram was a single metal cylinder in a vault near Paris.",
+  "peek": "Until 2019, every kilogram on Earth was defined by one small cylinder of platinum and iridium kept near Paris. When it was compared with its official copies, their masses had slowly drifted apart, and nobody could say which had changed.",
+  "lede": "From 1889 until 2019 the kilogram was not a formula but an object: the International Prototype of the Kilogram, nicknamed Le Grand K. It is a cylinder of platinum and iridium about the size of a golf ball, kept under three nested glass bell jars in a vault at Sèvres, just outside Paris. By definition, it weighed exactly one kilogram.",
+  "bullets": [
+    {
+      "opening": "The three keys",
+      "linkId": null,
+      "text": "Opening the vault takes three separate keys, held by different officials. The cylinder was taken out only rarely, for careful cleaning and for comparison with its copies."
+    },
+    {
+      "opening": "The drifting copies",
+      "linkId": null,
+      "text": "Dozens of official copies were made and sent to countries around the world. When they were checked against the original, some had drifted by up to about 50 micrograms over a century, or 50 millionths of a gram."
+    },
+    {
+      "opening": "Which kilogram changed",
+      "linkId": null,
+      "text": "The awkward part was that no one could tell whether the copies had gained mass or Le Grand K had lost it. Since the cylinder was the kilogram by definition, it could never officially be wrong."
+    },
+    {
+      "opening": "The Kibble balance",
+      "linkId": null,
+      "text": "In 2019 the kilogram was redefined using the Planck constant, a fixed number of nature. Labs now realise it with instruments such as the Kibble balance, which weighs an object against an electromagnetic force."
+    }
+  ],
+  "tags": [
+    "measurement",
+    "units",
+    "history-of-things",
+    "physics"
+  ],
+  "related": [
+    "metre-from-meridian",
+    "caesium-second",
+    "cavendish-weighs-earth",
+    "smoot",
+    "barleycorn-shoe-sizes"
+  ]
+}

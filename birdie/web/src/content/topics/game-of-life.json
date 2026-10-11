@@ -1,0 +1,44 @@
+{
+  "id": "game-of-life",
+  "title": "Conway's Game of Life",
+  "category": "Math",
+  "hook": "A few rules on a grid of squares are enough to build a working computer.",
+  "peek": "In 1970 the mathematician John Conway invented a game with no players. Squares on a grid switch on or off according to a handful of simple rules. From them come gliders that crawl across the screen, guns that fire them, and patterns that can run any computer program.",
+  "lede": "The Game of Life is played on an endless grid of square cells, each either on or off. At every tick, an on cell with two or three on neighbours stays on, any other on cell switches off, and an off cell with exactly three on neighbours switches on. That is the whole game. John Conway devised it in 1970, and the results still surprise researchers.",
+  "bullets": [
+    {
+      "opening": "Martin Gardner's column",
+      "linkId": null,
+      "text": "Life reached the world through Martin Gardner's Mathematical Games column in Scientific American in October 1970. Readers with access to early computers began running it, and it became one of the most popular programs of the decade."
+    },
+    {
+      "opening": "The glider",
+      "linkId": null,
+      "text": "A small pattern of five cells reshapes itself every few ticks and ends up shifted one square diagonally, so it seems to crawl across the grid forever. It was spotted soon after the game was invented."
+    },
+    {
+      "opening": "Gosper's glider gun",
+      "linkId": null,
+      "text": "Conway offered a $50 prize for any pattern that grows without limit. In 1970 a team led by Bill Gosper at MIT won it with a glider gun, a pattern that fires out a fresh glider every 30 ticks."
+    },
+    {
+      "opening": "A universal computer",
+      "linkId": null,
+      "text": "Streams of gliders can act as signals and logic gates. Conway and others showed in 1982 that Life can, in principle, compute anything an ordinary computer can, and later fans built working patterns that run programs, and even Life itself."
+    }
+  ],
+  "tags": [
+    "patterns",
+    "computing",
+    "games",
+    "infinity"
+  ],
+  "related": [
+    "gardner-mathematical-games",
+    "turing-patterns",
+    "mandelbrot-set",
+    "penrose-tiling",
+    "menace-matchboxes",
+    "ulam-spiral"
+  ]
+}

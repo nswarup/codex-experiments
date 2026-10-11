@@ -1,0 +1,44 @@
+{
+  "id": "gold-leaf-green",
+  "title": "Gold leaf is see-through green",
+  "category": "Science",
+  "hook": "Hold gold leaf up to a lamp and the light that comes through is green.",
+  "peek": "Gold can be hammered so thin that light shines through it. Seen that way it is not golden at all: the light that passes through is a soft green, because gold keeps the reds and yellows for itself.",
+  "lede": "Gold is the most malleable metal. Gold beaters can hammer it into leaf about a ten-thousandth of a millimetre thick, so thin that a single gram covers roughly half a square metre. At that thickness gold becomes partly see-through. Look at a bright light through a sheet of gold leaf and the light is green, or greenish blue, rather than gold.",
+  "bullets": [
+    {
+      "opening": "Why gold looks yellow",
+      "linkId": null,
+      "text": "Gold absorbs blue light strongly and reflects reds and yellows, which gives it its warm colour. Physicists trace this to relativity: the inner electrons of such a heavy atom move fast enough to shift which colours gold absorbs."
+    },
+    {
+      "opening": "The light that gets through",
+      "linkId": null,
+      "text": "Thin gold leaf reflects most of the red and yellow and absorbs much of the blue. What is left to pass through is mostly green, the colour in the middle that gold neither reflects nor absorbs very strongly."
+    },
+    {
+      "opening": "Faraday's gold leaf",
+      "linkId": null,
+      "text": "In 1857 Michael Faraday studied gold leaf and tiny gold particles under the microscope. He noted the green light passing through leaf, and found that gold broken into very fine particles could turn a liquid ruby red."
+    },
+    {
+      "opening": "Gold beating by hand",
+      "linkId": null,
+      "text": "Gold leaf was traditionally made by hammering a small square of gold between layers of thin membrane, then cutting and stacking it and hammering again, for hours, until the leaf was thinner than any page."
+    }
+  ],
+  "tags": [
+    "color",
+    "light",
+    "metals",
+    "history-of-things"
+  ],
+  "related": [
+    "jwst-gold",
+    "olympic-gold-medals",
+    "kintsugi",
+    "bismuth-crystals",
+    "faraday-cage",
+    "tonic-water-glow"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "turing-imitation-game",
+  "title": "Turing's imitation game",
+  "category": "Tech",
+  "hook": "The Turing test began as a party game about guessing whether a writer was a man or a woman.",
+  "peek": "In 1950 Alan Turing asked whether machines can think, then swapped the question for a game. In its original form, a judge passes typed notes to a hidden man and woman and tries to tell which is which. Turing asked what would happen if a machine took one of their places.",
+  "lede": "Alan Turing's 1950 paper \"Computing Machinery and Intelligence\" opens by asking, \"Can machines think?\" He found the question too vague, so he replaced it with what he called the imitation game. A man and a woman sit in another room. An interrogator, communicating only by typed messages, tries to work out which is which. Then Turing puts a machine in the man's place.",
+  "bullets": [
+    {
+      "opening": "The original imitation game",
+      "linkId": null,
+      "text": "In Turing's version, the man tries to fool the interrogator and the woman tries to help. Using typed answers removed clues like voice and handwriting. Turing then asked whether a machine could fool the interrogator as often as the man did."
+    },
+    {
+      "opening": "Turing's prediction for 2000",
+      "linkId": null,
+      "text": "Turing guessed that in about fifty years, computers would play so well that an average interrogator would have no more than a 70% chance of the right identification after five minutes of questions."
+    },
+    {
+      "opening": "Lady Lovelace's objection",
+      "linkId": null,
+      "text": "Turing answered a series of objections in the paper. One came from Ada Lovelace's 1843 note that the Analytical Engine could only do what it was ordered to do. Turing replied that machines could still surprise their makers, and often surprised him."
+    },
+    {
+      "opening": "The child machine",
+      "linkId": null,
+      "text": "Near the end, Turing suggested that instead of programming an adult mind, it might be easier to build a machine like a child's mind and teach it. That idea of a machine that learns sits close to how much of modern AI works."
+    }
+  ],
+  "tags": [
+    "ai",
+    "games",
+    "inventors",
+    "computer-history"
+  ],
+  "related": [
+    "eliza-chatbot",
+    "lovelace-note-g",
+    "dartmouth-ai-summer",
+    "turing-patterns",
+    "mechanical-turk",
+    "perceptron-1958"
+  ]
+}

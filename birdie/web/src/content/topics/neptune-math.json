@@ -1,0 +1,44 @@
+{
+  "id": "neptune-math",
+  "title": "Neptune, found with a pencil",
+  "category": "Space",
+  "hook": "Neptune was found with arithmetic before anyone knowingly saw it in a telescope.",
+  "peek": "In 1846 the French mathematician Urbain Le Verrier used the odd drift of Uranus to work out where an unseen planet must be. He sent the position to Berlin, and an astronomer found Neptune there the very night his letter arrived.",
+  "lede": "By the 1840s, Uranus was misbehaving. It kept drifting from the path that Newton's gravity predicted, sometimes ahead, sometimes behind. Urbain Le Verrier, in Paris, suspected the pull of an undiscovered planet further out and calculated where it would have to be. On 23 September 1846, Johann Galle in Berlin aimed a telescope at that spot and found Neptune, within about a degree of the prediction.",
+  "bullets": [
+    {
+      "opening": "Galle and d'Arrest's search",
+      "linkId": null,
+      "text": "Galle received Le Verrier's letter that very day. With the student Heinrich d'Arrest, he compared the sky with a new star chart and found a star that was not on it. The next night it had moved: a planet."
+    },
+    {
+      "opening": "John Couch Adams",
+      "linkId": null,
+      "text": "In England, the young mathematician John Couch Adams had made similar calculations a little earlier, but they were not acted on quickly. Who deserved credit for predicting Neptune became a long dispute between British and French astronomers."
+    },
+    {
+      "opening": "Missed at Cambridge",
+      "linkId": null,
+      "text": "James Challis at Cambridge had begun searching from Adams's figures that summer. Checking his notes afterwards, he found he had recorded Neptune twice in August 1846 without realising, because he had not yet compared his observations."
+    },
+    {
+      "opening": "Galileo's 1612 sighting",
+      "linkId": null,
+      "text": "Galileo saw Neptune more than two centuries earlier. His notebooks from 1612 and 1613 mark a star near Jupiter at Neptune's position, and one entry hints he noticed it shift, but he never followed it up."
+    }
+  ],
+  "tags": [
+    "mathematics",
+    "neptune",
+    "gravity",
+    "discoveries"
+  ],
+  "related": [
+    "herschel-georges-star",
+    "uranus-tilt",
+    "mendeleev-gaps",
+    "pluto-venetia-burney",
+    "cavendish-weighs-earth",
+    "51-pegasi-b"
+  ]
+}

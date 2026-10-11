@@ -1,0 +1,44 @@
+{
+  "id": "grace-hopper-nanosecond",
+  "title": "Grace Hopper's nanosecond",
+  "category": "Science",
+  "hook": "A computer pioneer handed out bits of wire to show what a billionth of a second is.",
+  "peek": "Grace Hopper, the US Navy computer scientist, carried lengths of wire about 30 centimetres long. Each was a nanosecond: the distance light travels in a billionth of a second. It made an invisible delay something you could hold.",
+  "lede": "Grace Hopper helped program some of the first computers and pushed for programming languages written in words. She also had a gift for explaining them. When admirals asked why messages via satellite took so long, she handed them a piece of wire 11.8 inches long, about 30 centimetres. That, she said, was a nanosecond: as far as light can go in a billionth of a second.",
+  "bullets": [
+    {
+      "opening": "Why 11.8 inches",
+      "linkId": null,
+      "text": "Light covers about 300,000 kilometres a second, so in a billionth of a second it gets just under 30 centimetres. A satellite tens of thousands of kilometres up is a great many of Hopper's wires away, and each one costs time."
+    },
+    {
+      "opening": "Light, not electricity",
+      "linkId": null,
+      "text": "The wire stood for light in empty space. Real signals moving through a cable travel somewhat slower, often around two thirds as fast, so the true nanosecond of a computer wire is shorter still."
+    },
+    {
+      "opening": "Hopper's microsecond",
+      "linkId": null,
+      "text": "She also showed a coil of wire about 300 metres long, roughly 984 feet: a microsecond, a thousand nanoseconds. She used it to argue that programmers should not waste even a millionth of a second."
+    },
+    {
+      "opening": "Picoseconds of pepper",
+      "linkId": null,
+      "text": "For a picosecond, a thousandth of a nanosecond, she is said to have handed out grains of pepper, a length far too short to cut from wire. She kept giving out nanoseconds in talks for decades, including on television in the 1980s."
+    }
+  ],
+  "tags": [
+    "time",
+    "scale",
+    "light",
+    "inventors"
+  ],
+  "related": [
+    "eniac-programmers",
+    "fizeau-toothed-wheel",
+    "caesium-second",
+    "katherine-johnson",
+    "core-rope-memory",
+    "lovelace-note-g"
+  ]
+}

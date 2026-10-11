@@ -1,0 +1,43 @@
+{
+  "id": "hedy-lamarr",
+  "title": "Hedy Lamarr's frequency hopping",
+  "category": "Tech",
+  "hook": "A Hollywood star and a composer patented a radio trick inspired by player pianos.",
+  "peek": "In 1942 the film star Hedy Lamarr and the composer George Antheil were granted a patent for a radio system that jumped between frequencies to avoid jamming. The idea borrowed from paper piano rolls and, decades later, became a familiar part of wireless engineering.",
+  "lede": "Hedy Lamarr was one of MGM's biggest stars in the 1940s, and in her spare time she tinkered with inventions. During the Second World War she and George Antheil, an avant-garde composer, worked on a way to guide a radio-controlled torpedo without the enemy jamming its signal. Their answer was to hop rapidly between frequencies in a pattern only the sender and receiver knew.",
+  "bullets": [
+    {
+      "opening": "Piano rolls for radio",
+      "linkId": null,
+      "text": "Antheil had written his piece Ballet Mécanique for a group of synchronised player pianos. The patent used a similar idea: matching punched paper rolls at each end would keep the transmitter and receiver switching frequencies in step."
+    },
+    {
+      "opening": "Eighty-eight frequencies",
+      "linkId": null,
+      "text": "Their design hopped among 88 frequencies, the same number as the keys on a piano. Patent 2,292,387, titled Secret Communication System, was granted in August 1942."
+    },
+    {
+      "opening": "Shelved by the Navy",
+      "linkId": null,
+      "text": "The US Navy did not adopt the system during the war. Electronics of the time made it hard to build, and the patent expired before frequency hopping came into wide use, so Lamarr and Antheil never earned money from it."
+    },
+    {
+      "opening": "Recognition in the 1990s",
+      "linkId": null,
+      "text": "Frequency hopping later became common in military and civilian radio, and Bluetooth uses a form of it. Historians debate how directly later engineers drew on the patent, but Lamarr received an Electronic Frontier Foundation award in 1997."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "radio",
+    "music-tech",
+    "film"
+  ],
+  "related": [
+    "bluetooth-king",
+    "wifi-black-holes",
+    "theremin",
+    "eniac-programmers",
+    "hollywoodland-sign"
+  ]
+}

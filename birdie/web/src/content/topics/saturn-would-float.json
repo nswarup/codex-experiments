@@ -1,0 +1,44 @@
+{
+  "id": "saturn-would-float",
+  "title": "Saturn would float",
+  "category": "Space",
+  "hook": "Saturn is less dense than water, so in a big enough bathtub it would float.",
+  "peek": "Saturn is 95 times as massive as Earth, but it is so large and so full of light hydrogen and helium that its average density is only about 70% of water's. It is the only planet in the Solar System less dense than water.",
+  "lede": "Saturn has 95 times the mass of Earth, yet more than 700 Earths would fit inside it. Spread that mass through that volume and you get an average density of about 0.69 grams per cubic centimetre. Water's is 1. So by the numbers, in a bathtub large enough to hold it, Saturn would float.",
+  "bullets": [
+    {
+      "opening": "Hydrogen and helium",
+      "linkId": null,
+      "text": "Saturn is made mostly of hydrogen and helium, the two lightest elements. Deep inside, the gas is squeezed into liquid and there is probably a dense core, but the vast, light outer layers pull the average far down."
+    },
+    {
+      "opening": "Why the bathtub fails",
+      "linkId": null,
+      "text": "The bathtub is only a way to picture the numbers. Saturn has no solid surface: it is a ball of gas held together by its own gravity. Its average density is lower than water's, but a real planet could never bob like a cork."
+    },
+    {
+      "opening": "The flattest planet",
+      "linkId": null,
+      "text": "Saturn spins once in about ten and a half hours. Because it is light and turns fast, its middle bulges: it is about 10% wider at the equator than from pole to pole, a squashed shape you can see in a small telescope."
+    },
+    {
+      "opening": "Saturn versus Earth",
+      "linkId": null,
+      "text": "Earth is the densest planet, at about 5.5 times the density of water. That makes it roughly eight times as dense as Saturn, even though Saturn outweighs it 95 times over."
+    }
+  ],
+  "tags": [
+    "scale",
+    "saturn",
+    "physics",
+    "density"
+  ],
+  "related": [
+    "saturn-hexagon",
+    "titan-methane-lakes",
+    "enceladus-geysers",
+    "neutron-star-teaspoon",
+    "archimedes-eureka",
+    "water-densest-at-4c"
+  ]
+}

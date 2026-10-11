@@ -1,0 +1,43 @@
+{
+  "id": "pluto-heart",
+  "title": "Pluto's heart",
+  "category": "Space",
+  "hook": "The bright heart on Pluto is partly a vast, slowly churning sheet of nitrogen ice.",
+  "peek": "When New Horizons flew past Pluto in 2015, it photographed a pale heart shape on its surface. Its left half turned out to be a basin of frozen nitrogen that slowly turns itself over, keeping the surface fresh and free of craters.",
+  "lede": "In July 2015, NASA's New Horizons spacecraft became the first to fly past Pluto. Its sharpest photos showed a huge, pale, heart-shaped patch, which was named Tombaugh Regio after Clyde Tombaugh, who discovered Pluto. The left lobe of the heart, called Sputnik Planitia, turned out to be the surprise: a basin about 1,000 kilometres across, filled with soft, frozen nitrogen that is still moving.",
+  "bullets": [
+    {
+      "opening": "Sputnik Planitia's ice cells",
+      "linkId": null,
+      "text": "Close up, the nitrogen plain is split into polygon-shaped cells, each tens of kilometres wide. Scientists think warmth from inside Pluto makes the ice rise in the middle of each cell and sink at its edges, like a very slow pot of soup."
+    },
+    {
+      "opening": "A surface with no craters",
+      "linkId": null,
+      "text": "New Horizons found no impact craters at all on Sputnik Planitia. Because the ice keeps renewing itself, the surface is thought to be less than about 10 million years old, very young for an object in the Solar System."
+    },
+    {
+      "opening": "Nitrogen glaciers",
+      "linkId": null,
+      "text": "Around the edges, nitrogen ice flows down from the surrounding highlands into the basin in glaciers. Blocks of water ice, which is lighter than nitrogen ice, seem to drift on the plain like icebergs."
+    },
+    {
+      "opening": "Not one heart but two halves",
+      "linkId": null,
+      "text": "The two lobes are different. The right half of the heart is a separate region of high, bright terrain dusted with frost, not part of the churning basin, even though from far away they look like one shape."
+    }
+  ],
+  "tags": [
+    "planets",
+    "space-exploration",
+    "ice",
+    "patterns"
+  ],
+  "related": [
+    "pluto-venetia-burney",
+    "arrokoth-snowman",
+    "europa-ocean",
+    "titan-methane-lakes",
+    "enceladus-geysers"
+  ]
+}

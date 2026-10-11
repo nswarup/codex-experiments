@@ -1,0 +1,43 @@
+{
+  "id": "ibm-ramac",
+  "title": "The IBM 350 hard drive",
+  "category": "Tech",
+  "hook": "The first hard drive weighed about a tonne and held less than one song's worth of data.",
+  "peek": "In 1956 IBM shipped the first computer with a hard disk drive. Its 50 spinning platters filled a cabinet the size of two refrigerators, and the whole thing stored about 5 million characters, roughly one modern MP3.",
+  "lede": "In 1956 IBM introduced the 305 RAMAC computer, and with it the IBM 350, the first commercial hard disk drive. It stacked 50 metal platters, each 24 inches across, in a cabinet that weighed about a tonne. All of that stored 5 million characters. Because each character used 6 bits, that is about 3.75 megabytes in today's terms.",
+  "bullets": [
+    {
+      "opening": "Random access for accounting",
+      "linkId": null,
+      "text": "RAMAC stood for Random Access Method of Accounting and Control. Before it, business records lived on tape or punched cards and had to be read in order. A disk let the machine jump straight to any record, such as one customer's account."
+    },
+    {
+      "opening": "One arm for 50 platters",
+      "linkId": null,
+      "text": "A single access arm moved up and down the stack to reach the right platter, then slid in to the right track. Finding a record took most of a second, which felt quick next to rewinding a reel of tape."
+    },
+    {
+      "opening": "Renting by the month",
+      "linkId": null,
+      "text": "Customers usually leased rather than bought. IBM charged about $3,200 a month for the RAMAC system, so each megabyte of storage cost far more per month than a whole modern hard drive."
+    },
+    {
+      "opening": "Moving one by forklift",
+      "linkId": null,
+      "text": "Shipping a drive meant heavy lifting. A well-known IBM photo shows a RAMAC unit being loaded into an aircraft's cargo hold with a forklift, a reminder of how physical data storage once was."
+    }
+  ],
+  "tags": [
+    "history-of-things",
+    "scale",
+    "records",
+    "computer-history"
+  ],
+  "related": [
+    "core-rope-memory",
+    "floppy-save-icon",
+    "intel-4004",
+    "moores-law",
+    "voyager-computers"
+  ]
+}

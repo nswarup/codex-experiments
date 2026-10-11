@@ -1,0 +1,44 @@
+{
+  "id": "newtons-apple-tree",
+  "title": "Newton's apple tree",
+  "category": "Science",
+  "hook": "The apple tree from Newton's famous story is still alive in England.",
+  "peek": "The apple that set Isaac Newton thinking about gravity fell from a real tree in his family's garden. That same tree still grows at Woolsthorpe Manor in Lincolnshire, and its descendants stand outside universities around the world.",
+  "lede": "In the mid-1660s, while Cambridge University was closed, the young Isaac Newton went home to Woolsthorpe Manor in Lincolnshire. There, the story goes, a falling apple set him wondering whether the force that pulled it down also reached as far as the Moon. It sounds like a legend, but Newton told the story himself, and the tree is still there.",
+  "bullets": [
+    {
+      "opening": "William Stukeley's memoir",
+      "linkId": null,
+      "text": "In 1726, in his eighties, Newton told the story to his friend William Stukeley over tea under some apple trees. Stukeley wrote it down in his memoir of Newton, and nothing in his account says the apple hit Newton's head."
+    },
+    {
+      "opening": "The tree at Woolsthorpe Manor",
+      "linkId": null,
+      "text": "The tree is a cooking apple called Flower of Kent. It was blown over around 1820 but rerooted and kept growing. The house now belongs to the National Trust, which looks after the tree."
+    },
+    {
+      "opening": "Grafted descendants",
+      "linkId": null,
+      "text": "Cuttings from the tree have been grafted and planted outside Trinity College, Cambridge, and at universities and observatories in several countries, so many students can stand under a relative of the original."
+    },
+    {
+      "opening": "A piece in orbit",
+      "linkId": null,
+      "text": "In 2010 the astronaut Piers Sellers took a small piece of the tree's wood to the International Space Station for the Royal Society's 350th anniversary, where it floated rather than fell."
+    }
+  ],
+  "tags": [
+    "myths-busted",
+    "physics",
+    "trees",
+    "history-of-things"
+  ],
+  "related": [
+    "galileo-pisa-myth",
+    "archimedes-eureka",
+    "newton-indigo",
+    "moon-trees",
+    "apple-clones",
+    "cavendish-weighs-earth"
+  ]
+}

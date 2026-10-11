@@ -1,0 +1,44 @@
+{
+  "id": "coastline-paradox",
+  "title": "The coastline paradox",
+  "category": "Math",
+  "hook": "Britain's coastline gets longer the more carefully you measure it.",
+  "peek": "Measure Britain's coast with a 100 km ruler and you get one answer. Use a 10 km ruler and you get a longer one, because you follow more bays and headlands. Keep shrinking the ruler and the length keeps growing, with no fixed end.",
+  "lede": "It sounds like a simple question: how long is the coast of Britain? The answer depends on the length of your measuring stick. A long stick skips over inlets and rocky points. A shorter one follows them, and adds length. Shorter still, it traces every cove and boulder. For a wiggly coast the total keeps rising, without settling on a final number.",
+  "bullets": [
+    {
+      "opening": "Lewis Fry Richardson's borders",
+      "linkId": null,
+      "text": "The British scientist Lewis Fry Richardson noticed the problem while studying borders. Spain and Portugal, for instance, quoted noticeably different lengths for the border they share, partly because they measured at different scales."
+    },
+    {
+      "opening": "Mandelbrot's 1967 paper",
+      "linkId": null,
+      "text": "Benoit Mandelbrot took up Richardson's data in a 1967 paper in Science titled \"How Long Is the Coast of Britain?\". He argued that coastlines are better described by how fast their length grows as the ruler shrinks."
+    },
+    {
+      "opening": "Fractal dimension",
+      "linkId": null,
+      "text": "That growth rate gives a number between 1 and 2, called a fractal dimension. A smooth line scores 1. Richardson's data put the west coast of Britain at about 1.25, well into wiggly territory."
+    },
+    {
+      "opening": "Official coastline figures",
+      "linkId": null,
+      "text": "The effect is why published coastline lengths vary so widely between atlases and agencies. A figure only means something when it comes with the scale used to measure it."
+    }
+  ],
+  "tags": [
+    "maps",
+    "fractals",
+    "borders",
+    "scale",
+    "infinity"
+  ],
+  "related": [
+    "mandelbrot-set",
+    "pascal-triangle-sierpinski",
+    "gabriels-horn",
+    "geoid",
+    "metre-from-meridian"
+  ]
+}
