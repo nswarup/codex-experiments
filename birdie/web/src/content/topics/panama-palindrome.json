@@ -1,0 +1,44 @@
+{
+  "id": "panama-palindrome",
+  "title": "A man, a plan, a canal: Panama",
+  "category": "Language",
+  "hook": "The world's best-known palindrome first appeared in a British journal in 1948.",
+  "peek": "\"A man, a plan, a canal: Panama\" reads the same backwards, letter for letter. It was first published in 1948 by Leigh Mercer, a British puzzle lover who sent it to the journal Notes and Queries. It has inspired ever longer versions since.",
+  "lede": "Read \"A man, a plan, a canal: Panama\" backwards, ignoring spaces and punctuation, and you get the same letters in the same order. It is short, sensible and tells a tiny story, which is rare for a palindrome. It first appeared in print on 13 November 1948, sent to the London journal Notes and Queries by a wordplay enthusiast named Leigh Mercer.",
+  "bullets": [
+    {
+      "opening": "Leigh Mercer",
+      "linkId": null,
+      "text": "Mercer was a British puzzle maker who spent years composing palindromes and other word puzzles. He published little and was not widely known, so his Panama line travelled far further than his name did."
+    },
+    {
+      "opening": "Notes and Queries",
+      "linkId": null,
+      "text": "The journal, founded in 1849, was a place where scholars and curious readers swapped questions and small discoveries. Mercer's palindrome ran there among discussions of word origins and old customs."
+    },
+    {
+      "opening": "How the palindrome works",
+      "linkId": null,
+      "text": "Its 21 letters pivot on the c of \"canal\". The ten letters before it, amanaplana, reappear reversed after it as analpanama, so \"a plan\" read backwards becomes the end of \"canal\" and the start of \"Panama\"."
+    },
+    {
+      "opening": "Longer Panama palindromes",
+      "linkId": null,
+      "text": "Wordplay fans and programmers have stretched the pattern by adding more \"a something\" items in the middle. In 2002 the computer scientist Peter Norvig used a program to build a version more than 17,000 words long."
+    }
+  ],
+  "tags": [
+    "patterns",
+    "games",
+    "records",
+    "names"
+  ],
+  "related": [
+    "buffalo-sentence",
+    "quick-brown-fox",
+    "gadsby-no-e",
+    "garden-path-sentence",
+    "spoonerism",
+    "first-crossword"
+  ]
+}

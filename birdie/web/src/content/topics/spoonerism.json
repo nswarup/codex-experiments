@@ -1,0 +1,44 @@
+{
+  "id": "spoonerism",
+  "title": "Spoonerisms",
+  "category": "Language",
+  "hook": "The Oxford don behind the word may have said very few spoonerisms himself.",
+  "peek": "A spoonerism swaps the opening sounds of two words, turning \"a crushing blow\" into \"a blushing crow\". The slips are named after William Spooner of Oxford, but most of the famous lines credited to him were probably made up by others.",
+  "lede": "Swap the first sounds of two words and \"a crushing blow\" becomes \"a blushing crow\". The slip is called a spoonerism after William Archibald Spooner, a long-serving don and later Warden of New College, Oxford. Students and admirers credited him with dozens of perfectly comic swaps. The awkward truth is that very few of them can be traced to Spooner at all.",
+  "bullets": [
+    {
+      "opening": "William Archibald Spooner",
+      "linkId": null,
+      "text": "Spooner taught at New College for about sixty years and was, by most accounts, a kind and well-liked teacher. His habit of absent-minded slips made him a favourite subject of Oxford stories, and the word spoonerism was in use while he was still alive."
+    },
+    {
+      "opening": "The kinquering congs",
+      "linkId": null,
+      "text": "The one slip Spooner is generally believed to have made is announcing the hymn \"Kinquering Congs Their Titles Take\" instead of \"Conquering Kings\", in 1879. Famous lines such as \"You have hissed all my mystery lectures\" are almost certainly student inventions."
+    },
+    {
+      "opening": "Spooner's own view",
+      "linkId": null,
+      "text": "Spooner reportedly disliked his fame for verbal blunders. People who knew him described a sharp, careful scholar rather than a muddled one, and the legend grew mostly through undergraduates retelling and improving each other's stories."
+    },
+    {
+      "opening": "Spoonerisms in the lab",
+      "linkId": null,
+      "text": "Psychologists treat sound swaps as clues to how we plan speech. In 1970s experiments, people primed with tricky word pairs made swaps more often when the result was a real word, like \"barn door\" from \"darn bore\", than when it was nonsense."
+    }
+  ],
+  "tags": [
+    "names",
+    "myths-busted",
+    "communication",
+    "memory"
+  ],
+  "related": [
+    "eggcorn",
+    "tip-of-the-tongue",
+    "panama-palindrome",
+    "garden-path-sentence",
+    "semantic-satiation",
+    "nickname-rebracketing"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "switched-on-bach",
+  "title": "Switched-On Bach",
+  "category": "Music",
+  "hook": "An album of Bach on a synthesizer, built one note at a time, sold a million copies.",
+  "peek": "In 1968 Wendy Carlos released Switched-On Bach, an album of Bach played on a Moog synthesizer. The instrument could play only one note at a time, so every line was recorded separately and layered on tape. It became one of the first classical albums to go platinum.",
+  "lede": "In the late 1960s most people had never heard a synthesizer. Wendy Carlos, a composer and recording engineer in New York, set out to show what one could do by playing Bach on a Moog modular synthesizer. The 1968 result, Switched-On Bach, reached the Billboard top ten, won three Grammy Awards and became one of the first classical albums to sell a million copies.",
+  "bullets": [
+    {
+      "opening": "One note at a time",
+      "linkId": null,
+      "text": "The Moog could sound only one note at once, so Carlos recorded each musical line separately and stacked them on a multitrack tape machine. Chords and counterpoint had to be assembled piece by piece."
+    },
+    {
+      "opening": "Keeping the Moog in tune",
+      "linkId": null,
+      "text": "The early Moog's oscillators drifted with temperature, so Carlos had to check the tuning constantly, often between short takes. Getting a few minutes of finished music could take many sessions."
+    },
+    {
+      "opening": "Carlos and Robert Moog",
+      "linkId": null,
+      "text": "Carlos was one of Robert Moog's early customers and gave him detailed suggestions for new modules. Moog built some of them, so the instrument on the album was partly shaped by its player."
+    },
+    {
+      "opening": "Rachel Elkind and the platinum record",
+      "linkId": null,
+      "text": "The producer Rachel Elkind worked with Carlos throughout, and the musician Benjamin Folkman helped with the recording. The album kept selling for years and was certified platinum in 1986."
+    }
+  ],
+  "tags": [
+    "music-tech",
+    "records",
+    "inventors",
+    "patterns"
+  ],
+  "related": [
+    "midi",
+    "yamaha-dx7",
+    "les-paul-overdub",
+    "bach-motif",
+    "theremin",
+    "roland-tr-808"
+  ]
+}

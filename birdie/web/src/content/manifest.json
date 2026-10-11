@@ -3528,5 +3528,65 @@
   "id": "westminster-quarters",
   "title": "The Big Ben chimes",
   "category": "Music"
+ },
+ {
+  "id": "guugu-yimithirr",
+  "title": "The language with no left or right",
+  "category": "Language"
+ },
+ {
+  "id": "speech-information-rate",
+  "title": "Every language carries about 39 bits a second",
+  "category": "Language"
+ },
+ {
+  "id": "voder",
+  "title": "The Voder, the first electronic voice",
+  "category": "Language"
+ },
+ {
+  "id": "panama-palindrome",
+  "title": "A man, a plan, a canal: Panama",
+  "category": "Language"
+ },
+ {
+  "id": "spoonerism",
+  "title": "Spoonerisms",
+  "category": "Language"
+ },
+ {
+  "id": "auto-tune",
+  "title": "Auto-Tune's oil-field origins",
+  "category": "Music"
+ },
+ {
+  "id": "toms-diner-mp3",
+  "title": "Tom's Diner and the MP3",
+  "category": "Music"
+ },
+ {
+  "id": "cd-74-minutes",
+  "title": "Why a CD holds 74 minutes",
+  "category": "Music"
+ },
+ {
+  "id": "a440-concert-pitch",
+  "title": "How A became 440",
+  "category": "Music"
+ },
+ {
+  "id": "maelzel-metronome",
+  "title": "The metronome Maelzel didn't invent",
+  "category": "Music"
+ },
+ {
+  "id": "switched-on-bach",
+  "title": "Switched-On Bach",
+  "category": "Music"
+ },
+ {
+  "id": "roland-tr-808",
+  "title": "The Roland TR-808",
+  "category": "Music"
  }
 ]

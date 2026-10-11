@@ -1,0 +1,44 @@
+{
+  "id": "toms-diner-mp3",
+  "title": "Tom's Diner and the MP3",
+  "category": "Music",
+  "hook": "One quiet a cappella song was played over and over to perfect the MP3.",
+  "peek": "While designing the MP3 format in Germany, engineer Karlheinz Brandenburg kept testing it on Suzanne Vega's unaccompanied song \"Tom's Diner\". If the codec could make her bare voice sound right, it could handle almost anything. Vega became known as the mother of the MP3.",
+  "lede": "In the late 1980s, Karlheinz Brandenburg and colleagues at Germany's Fraunhofer Institute were trying to shrink music files by throwing away sounds people would not notice. Their early versions worked on full band recordings but stumbled on a single voice. Brandenburg found the perfect test in Suzanne Vega's \"Tom's Diner\", sung with no instruments at all, and played it again and again while refining the format.",
+  "bullets": [
+    {
+      "opening": "Why a bare voice is hard",
+      "linkId": null,
+      "text": "The MP3 saves space by hiding detail behind louder sounds, which our ears mask. With no instruments to hide behind, every flaw in Vega's warm, close voice was exposed. Early versions made her sound distorted, which showed the engineers what to fix."
+    },
+    {
+      "opening": "Perceptual audio coding",
+      "linkId": null,
+      "text": "The format leans on how hearing works rather than how sound works. A loud tone makes nearby quieter frequencies inaudible, so the encoder can drop them. Tuning those choices took endless listening, and \"Tom's Diner\" was Brandenburg's yardstick."
+    },
+    {
+      "opening": "The mother of the MP3",
+      "linkId": null,
+      "text": "When Vega learned of the story, she embraced it. She later visited Fraunhofer and wrote about hearing the early test versions. Newspapers took to calling her the mother of the MP3."
+    },
+    {
+      "opening": "Suzanne Vega's 1987 recording",
+      "linkId": null,
+      "text": "The a cappella song opened her 1987 album Solitude Standing. In 1990 a remix by the British duo DNA added a beat without asking first, and it became a much bigger hit. Vega's label released it officially."
+    }
+  ],
+  "tags": [
+    "music-tech",
+    "acoustics",
+    "perception",
+    "inventors"
+  ],
+  "related": [
+    "cd-74-minutes",
+    "shazam-fingerprint",
+    "walkman-origin",
+    "phonemic-restoration",
+    "missing-fundamental",
+    "auto-tune"
+  ]
+}

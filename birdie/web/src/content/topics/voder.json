@@ -1,0 +1,44 @@
+{
+  "id": "voder",
+  "title": "The Voder, the first electronic voice",
+  "category": "Language",
+  "hook": "At the 1939 World's Fair, women played speech on a keyboard like an organ.",
+  "peek": "Bell Labs' Voder made speech from pure electricity. A trained operator pressed keys and a foot pedal to shape buzzes and hisses into words, live, in front of crowds at the 1939 World's Fair. Learning to play it took about a year.",
+  "lede": "Talking machines are older than electricity: in the 1700s Wolfgang von Kempelen built one with bellows and a leather mouth. The Voder, shown by Bell Labs at the 1939 New York World's Fair, was the first to make speech electronically. It had no recordings inside. A trained operator built every word by hand, in real time, the way a pianist builds a chord.",
+  "bullets": [
+    {
+      "opening": "Homer Dudley's design",
+      "linkId": null,
+      "text": "The Bell Labs engineer Homer Dudley built the Voder from his earlier vocoder, which split the voice into frequency bands. The Voder ran this idea in reverse, starting with a buzz or a hiss and shaping it into vowels and consonants."
+    },
+    {
+      "opening": "Ten keys and a pedal",
+      "linkId": null,
+      "text": "Ten finger keys controlled ten bands of sound. A wrist bar switched between a voiced buzz and a breathy hiss, extra keys made sounds like p and k, and a foot pedal raised and lowered the pitch so sentences could rise into questions."
+    },
+    {
+      "opening": "The Voder's operators",
+      "linkId": null,
+      "text": "Bell Labs trained a team of young women, mostly telephone operators, to play it. Learning took about a year. At the fair a host would ask for a phrase, and the operator made the machine say it, even changing the tune of a sentence to alter its meaning."
+    },
+    {
+      "opening": "From Voder to vocoder music",
+      "linkId": null,
+      "text": "The Voder itself was soon retired, but the vocoder idea lived on. Decades later musicians used vocoders to make robotic singing voices, a sound that traces back to Dudley's work on squeezing speech down telephone lines."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "music-tech",
+    "communication",
+    "history-of-things"
+  ],
+  "related": [
+    "daisy-bell-computer",
+    "speak-and-spell",
+    "phonautograph",
+    "helium-voice",
+    "theremin",
+    "auto-tune"
+  ]
+}

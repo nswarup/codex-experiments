@@ -1,0 +1,44 @@
+{
+  "id": "guugu-yimithirr",
+  "title": "The language with no left or right",
+  "category": "Language",
+  "hook": "Speakers say the cup is north of the plate, and they always know where north is.",
+  "peek": "Guugu Yimithirr, an Aboriginal language from far north Queensland, does not use left and right to say where things are. Its speakers use north, south, east and west instead, even for objects on a table, which means they carry a compass in their heads.",
+  "lede": "Guugu Yimithirr is spoken around Hope Vale, near Cooktown in far north Queensland. Where English speakers say \"the key is to your left\", its speakers say the key is to the west. They use the four compass directions for everything, from distant hills to crumbs on a plate. To talk at all, they have to know which way they are facing, all the time.",
+  "bullets": [
+    {
+      "opening": "Four compass words",
+      "linkId": null,
+      "text": "The language uses words for north, south, east and west where English would use left, right, in front or behind. Linguists call this an absolute frame of reference, because the directions stay fixed however the speaker turns."
+    },
+    {
+      "opening": "John Haviland's fieldwork",
+      "linkId": null,
+      "text": "The anthropologist John Haviland, who studied the language from the 1970s, found that speakers retelling a story kept the compass directions straight years later. Their hand gestures pointed the true way too, even when they were sitting somewhere else."
+    },
+    {
+      "opening": "The rotating table test",
+      "linkId": null,
+      "text": "Researchers led by Stephen Levinson showed people a row of toy animals, turned them around, and asked them to rebuild it. Dutch speakers kept the left-to-right order. Guugu Yimithirr speakers kept the compass order, so their rows came out reversed."
+    },
+    {
+      "opening": "Where \"kangaroo\" came from",
+      "linkId": null,
+      "text": "In 1770 James Cook's crew spent weeks repairing their ship at the Endeavour River and wrote down local words. One was gangurru, a Guugu Yimithirr name for a large grey kangaroo, which is how the word entered English."
+    }
+  ],
+  "tags": [
+    "maps",
+    "communication",
+    "perception",
+    "etymology"
+  ],
+  "related": [
+    "silbo-gomero",
+    "perfect-pitch",
+    "huh-universal",
+    "xhosa-clicks",
+    "speech-information-rate",
+    "bouba-kiki"
+  ]
+}

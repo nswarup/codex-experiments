@@ -1,0 +1,44 @@
+{
+  "id": "roland-tr-808",
+  "title": "The Roland TR-808",
+  "category": "Music",
+  "hook": "A drum machine that flopped for sounding fake became the heartbeat of hip-hop.",
+  "peek": "Roland's TR-808 came out in 1980 and was dropped within about three years. Its drums sounded nothing like a real kit. That unreal, booming bass drum turned out to be exactly what hip-hop, electro and later pop producers wanted.",
+  "lede": "Roland, the Japanese instrument maker founded by Ikutaro Kakehashi, released the TR-808 Rhythm Composer in 1980. It was meant to give musicians a cheap stand-in for a drummer. Reviewers found the sounds thin and toylike, and sales were modest. Production ended around 1983. Then the second-hand machines fell into the hands of young producers, who loved precisely what critics disliked.",
+  "bullets": [
+    {
+      "opening": "Analogue drum synthesis",
+      "linkId": null,
+      "text": "Recorded drum samples were too expensive for a mid-priced machine in 1980, so the 808 built each sound from electronic circuits. The results resembled drums only loosely: a clicky snare, a hissing cymbal, a hand clap that sounded like nobody's hands."
+    },
+    {
+      "opening": "The 808 bass drum",
+      "linkId": null,
+      "text": "The bass drum could be set to ring out for a long time, turning into a deep, humming low note. Producers learned to tune it like a bass line, and the long 808 boom became a defining sound of hip-hop."
+    },
+    {
+      "opening": "Planet Rock and the 1982 hits",
+      "linkId": null,
+      "text": "Afrika Bambaataa's \"Planet Rock\" and Marvin Gaye's \"Sexual Healing\", both from 1982, put the 808 on the radio. Cheap used machines then spread through hip-hop, electro and Miami bass."
+    },
+    {
+      "opening": "Kakehashi's faulty transistors",
+      "linkId": null,
+      "text": "Kakehashi later said the 808's sizzle came partly from a batch of slightly faulty transistors. When better parts replaced them, the sound could not be reproduced, which he said was one reason production stopped. The story comes from his own account."
+    }
+  ],
+  "tags": [
+    "music-tech",
+    "accidents",
+    "design",
+    "inventors"
+  ],
+  "related": [
+    "amen-break",
+    "orchestra-hit",
+    "midi",
+    "yamaha-dx7",
+    "switched-on-bach",
+    "auto-tune"
+  ]
+}

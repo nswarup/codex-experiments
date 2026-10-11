@@ -1,0 +1,44 @@
+{
+  "id": "auto-tune",
+  "title": "Auto-Tune's oil-field origins",
+  "category": "Music",
+  "hook": "The pitch-fixing software in pop music began as maths for finding oil.",
+  "peek": "Auto-Tune was created by Andy Hildebrand, an engineer who had spent years using sound waves to map rock layers for the oil industry. The same maths that found oil underground turned out to be ideal for finding the pitch of a singer's voice.",
+  "lede": "Before he changed how pop music sounds, Andy Hildebrand worked in oil exploration. Companies send sound waves into the ground and study the echoes to map rock layers, and Hildebrand became an expert at the maths that makes sense of those echoes. He later realised the same techniques could track the pitch of a voice. In 1997 his company, Antares, released Auto-Tune.",
+  "bullets": [
+    {
+      "opening": "Seismic signal processing",
+      "linkId": null,
+      "text": "Hildebrand worked for Exxon and then co-founded a firm making software to interpret seismic data. The core tool was autocorrelation, comparing a signal with delayed copies of itself to find patterns that repeat."
+    },
+    {
+      "opening": "The dinner party bet",
+      "linkId": null,
+      "text": "Hildebrand has said the idea came at a dinner, when a guest joked that he should invent a box that would make her sing in tune. He found that autocorrelation could measure a singer's pitch quickly enough to correct it as they sang."
+    },
+    {
+      "opening": "Cher's \"Believe\"",
+      "linkId": null,
+      "text": "Auto-Tune was meant to fix notes invisibly. In 1998 the producers of Cher's \"Believe\" set it to snap between notes instantly, creating a warbling, robotic effect. They were cagey about how they had done it, and the sound became a hit."
+    },
+    {
+      "opening": "The retune speed setting",
+      "linkId": null,
+      "text": "The effect comes from a single control that sets how fast the software pulls a note to pitch. Slow settings sound natural. The fastest setting, zero, gives the stepped sound later made famous by T-Pain and many others."
+    }
+  ],
+  "tags": [
+    "music-tech",
+    "inventors",
+    "accidents",
+    "acoustics"
+  ],
+  "related": [
+    "voder",
+    "toms-diner-mp3",
+    "roland-tr-808",
+    "perfect-pitch",
+    "shazam-fingerprint",
+    "yamaha-dx7"
+  ]
+}

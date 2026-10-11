@@ -1,0 +1,44 @@
+{
+  "id": "cd-74-minutes",
+  "title": "Why a CD holds 74 minutes",
+  "category": "Music",
+  "hook": "The CD's length may have been set by Beethoven's Ninth, or that may be a legend.",
+  "peek": "A popular story says the compact disc holds 74 minutes because a Sony executive wanted Beethoven's Ninth Symphony to fit on one disc. It is a lovely tale, and Sony repeats it, but at least one Philips engineer says the real reasons were more practical.",
+  "lede": "When Philips and Sony agreed the compact disc standard around 1980, Philips had proposed a disc 11.5 centimetres across, holding about an hour. The final disc was 12 centimetres and held 74 minutes. The famous explanation is that Sony wanted room for Beethoven's Ninth Symphony, one of the longest works in the standard repertoire. Engineers who were there tell the story differently.",
+  "bullets": [
+    {
+      "opening": "The Beethoven's Ninth story",
+      "linkId": null,
+      "text": "Sony's version credits Norio Ohga, a trained opera singer who became Sony's president, and in some tellings the conductor Herbert von Karajan. Performances of the Ninth often run past an hour, and a famous 1951 recording conducted by Wilhelm Furtwängler lasts about 74 minutes."
+    },
+    {
+      "opening": "Kees Immink's account",
+      "linkId": null,
+      "text": "Kees Schouhamer Immink, a Philips engineer on the project, has written that the size was a negotiating matter. Philips already had a factory set up for 11.5 centimetre discs, and moving to 12 centimetres put the two companies on an equal footing."
+    },
+    {
+      "opening": "Why both stories survive",
+      "linkId": null,
+      "text": "The two accounts are not exclusive. Executives may have used the symphony as a handy benchmark while the engineering and business choices were settled in other ways. With differing memories from people on both sides, the honest answer is that nobody can be sure."
+    },
+    {
+      "opening": "The 80-minute CD",
+      "linkId": null,
+      "text": "The 74-minute figure was never a hard ceiling. By packing the spiral track slightly tighter, manufacturers later sold 80-minute discs that still play in standard players, though very early machines sometimes struggled with them."
+    }
+  ],
+  "tags": [
+    "music-tech",
+    "myths-busted",
+    "design",
+    "history-of-things"
+  ],
+  "related": [
+    "toms-diner-mp3",
+    "walkman-origin",
+    "a440-concert-pitch",
+    "ravel-bolero",
+    "organ-aslsp",
+    "golden-record"
+  ]
+}

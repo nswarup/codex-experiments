@@ -1,0 +1,44 @@
+{
+  "id": "maelzel-metronome",
+  "title": "The metronome Maelzel didn't invent",
+  "category": "Music",
+  "hook": "The metronome on every piano carries the name of the man who copied it.",
+  "peek": "Johann Maelzel patented the metronome in 1815, and musicians still write \"M.M.\" for Maelzel's Metronome. But the key idea came from a Dutch inventor, Dietrich Winkel, and a Dutch scientific panel later agreed that Winkel deserved the credit.",
+  "lede": "Johann Nepomuk Maelzel was a showman and inventor in Vienna. In 1815 he patented a clockwork metronome with a sliding weight and a numbered scale, and it sold across Europe. The trouble was that Dietrich Nikolaus Winkel, an instrument maker in Amsterdam, had built the essential mechanism a year or so earlier. Maelzel added the scale, filed the patent and took the name.",
+  "bullets": [
+    {
+      "opening": "Dietrich Winkel's pendulum",
+      "linkId": null,
+      "text": "Winkel's insight was a pendulum with weights on both sides of the pivot. Sliding the upper weight changed the beat, letting a short, desk-sized pendulum tick slowly, something a simple pendulum could only do by being very long."
+    },
+    {
+      "opening": "The Dutch commission's ruling",
+      "linkId": null,
+      "text": "Winkel took his case to the Netherlands' Royal Institute of sciences. In 1820 a commission there examined both designs and concluded that Winkel had invented the mechanism. The ruling did little to change who sold metronomes or whose name they carried."
+    },
+    {
+      "opening": "M.M. on the score",
+      "linkId": null,
+      "text": "Composers began writing tempo markings such as \"M.M. 120\", meaning 120 beats a minute on Maelzel's Metronome. The initials are still seen in printed music, a lasting tribute to the man who marketed the device."
+    },
+    {
+      "opening": "Beethoven's metronome marks",
+      "linkId": null,
+      "text": "Beethoven, who knew Maelzel, was one of the first major composers to add metronome markings. Many of his tempos seem very fast, and musicians still argue over whether he meant them, misread his own device, or wanted that energy."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "time",
+    "myths-busted",
+    "music-tech"
+  ],
+  "related": [
+    "mechanical-turk",
+    "a440-concert-pitch",
+    "harrison-clocks",
+    "foucault-pendulum",
+    "haydn-farewell",
+    "satie-vexations"
+  ]
+}

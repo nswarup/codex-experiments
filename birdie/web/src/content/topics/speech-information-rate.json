@@ -1,0 +1,39 @@
+{
+  "id": "speech-information-rate",
+  "title": "Every language carries about 39 bits a second",
+  "category": "Language",
+  "hook": "Fast talkers and slow talkers end up sharing information at the same speed.",
+  "peek": "Some languages sound rapid and others unhurried, but a 2019 study of 17 languages found they all pass along information at about 39 bits a second. Fast languages pack less into each syllable, and slow ones pack in more.",
+  "lede": "Japanese and Spanish can sound like a torrent to outsiders, while Vietnamese can sound measured. In 2019 a team of linguists in Lyon compared recordings of 17 languages read aloud and measured how much information each syllable carried. The speedy languages carried less per syllable, the slow ones more, and both kinds landed close to the same rate: about 39 bits a second.",
+  "bullets": [
+    {
+      "opening": "Measuring bits per syllable",
+      "linkId": null,
+      "text": "The team, led by Christophe Coupé and François Pellegrino, worked out how predictable each syllable was in each language. A syllable with many possible options carries more information than one with few, much like a dice roll compared with a coin toss."
+    },
+    {
+      "opening": "Japanese and Vietnamese",
+      "linkId": null,
+      "text": "Japanese has a small set of simple syllables, so each one carries relatively little, and speakers talk quickly. Vietnamese uses tones and many syllable shapes, so each syllable carries far more, and speech is slower. The two balance out."
+    },
+    {
+      "opening": "A trade-off, not a rule",
+      "linkId": null,
+      "text": "The 39-bit figure is an average across speakers and texts. Individuals still vary, and a nervous talker can speed up. What the study suggests is that languages settle on a comfortable channel, perhaps limited by how fast brains can produce and take in speech."
+    }
+  ],
+  "tags": [
+    "communication",
+    "patterns",
+    "language-change",
+    "perception"
+  ],
+  "related": [
+    "huh-universal",
+    "perfect-pitch",
+    "silbo-gomero",
+    "magical-number-seven",
+    "guugu-yimithirr",
+    "toki-pona"
+  ]
+}

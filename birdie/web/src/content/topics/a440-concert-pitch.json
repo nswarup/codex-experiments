@@ -1,0 +1,44 @@
+{
+  "id": "a440-concert-pitch",
+  "title": "How A became 440",
+  "category": "Music",
+  "hook": "For centuries, the note A could mean a different pitch in every city.",
+  "peek": "Today orchestras around the world tune to an A of about 440 vibrations a second. For most of history there was no such agreement, and A drifted from town to town and decade to decade. A 1939 conference in London finally settled on 440.",
+  "lede": "When an orchestra tunes up, the oboe plays an A, usually at 440 vibrations a second. That number is surprisingly young. For centuries there was no shared standard, and an A in one city's church organ could sit noticeably higher or lower than an A across the border. Only in 1939 did an international meeting in London agree that A should be 440.",
+  "bullets": [
+    {
+      "opening": "Pitch before standards",
+      "linkId": null,
+      "text": "Surviving organs and tuning forks show As ranging from below 400 to above 460 vibrations a second. That gap is close to a semitone or more, so music played in one place could sound noticeably flatter or sharper somewhere else."
+    },
+    {
+      "opening": "The tuning fork",
+      "linkId": null,
+      "text": "The trumpeter John Shore is credited with inventing the tuning fork in 1711. A fork said to have belonged to Handel sounds an A of about 422, well below today's standard."
+    },
+    {
+      "opening": "France's diapason normal",
+      "linkId": null,
+      "text": "In 1859 the French government fixed A at 435, partly to rein in pitch that had crept upwards and strained singers' voices. Many countries followed, but others did not, and the variety continued."
+    },
+    {
+      "opening": "The 1939 London conference",
+      "linkId": null,
+      "text": "An international standards meeting in London in 1939 recommended 440. It became an ISO standard in 1955. Many orchestras still tune slightly higher, often 442 or 443, for a brighter sound, so the standard is followed loosely."
+    }
+  ],
+  "tags": [
+    "acoustics",
+    "history-of-things",
+    "music-tech",
+    "patterns"
+  ],
+  "related": [
+    "pythagorean-comma",
+    "perfect-pitch",
+    "stradivarius",
+    "maelzel-metronome",
+    "missing-fundamental",
+    "caesium-second"
+  ]
+}
