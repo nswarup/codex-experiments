@@ -4,7 +4,7 @@
   "category": "Film",
   "hook": "A stray command wiped most of Toy Story 2, and a home computer saved it.",
   "peek": "In 1998, a command typed on a Pixar server began deleting the files for Toy Story 2, and the backups turned out to be faulty. The film was rescued from a copy one of its technical directors had been keeping at home.",
-  "lede": "Partway through making Toy Story 2, someone at Pixar ran a command on the server that held the film's files. Characters, sets and animation began to vanish, folder by folder, until the machine was unplugged. Most of the work was gone, and the backup system, it turned out, had not been working properly for some time.",
+  "lede": "Partway through making Toy Story 2, in 1998, someone at Pixar ran a command on the server that held the film's files. Characters, sets and animation began to vanish, folder by folder, until the machine was unplugged. Most of the work was gone, and the backup system, it turned out, had not been working properly for some time.",
   "bullets": [
     {
       "opening": "A recursive delete",

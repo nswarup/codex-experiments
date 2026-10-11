@@ -4,7 +4,7 @@
   "category": "Tech",
   "hook": "Modern AI vision was built on photos sorted by tens of thousands of online workers.",
   "peek": "To teach computers to see, the researcher Fei-Fei Li needed millions of photos labelled by hand. Her team found the people to do it on Amazon Mechanical Turk, and the dataset they built kick-started the deep learning boom.",
-  "lede": "In 2007 the computer scientist Fei-Fei Li set out to build a picture collection big enough to teach machines what the world looks like. Labelling it with students would have taken many years. Instead her team turned to Amazon Mechanical Turk, a site that pays people small sums for quick online tasks. Tens of thousands of workers ended up sorting about 14 million images.",
+  "lede": "In 2007 the computer scientist Fei-Fei Li set out to build a picture collection big enough to teach machines what the world looks like. Labelling it with students would have taken many years. Instead her team turned to Amazon Mechanical Turk, a site that paid people small sums for quick online tasks. Tens of thousands of workers ended up sorting about 14 million images.",
   "bullets": [
     {
       "opening": "Amazon Mechanical Turk workers",
