@@ -2,14 +2,14 @@
   "id": "soviet-continuous-week",
   "title": "The Soviet five-day week",
   "category": "History",
-  "hook": "For a decade the Soviet Union tried to get rid of the shared weekend.",
+  "hook": "For about a decade the Soviet Union lived without a seven-day week.",
   "peek": "In 1929 the Soviet Union replaced the seven-day week with a five-day cycle. Workers were split into colour-coded groups with staggered days off, so factories never stopped. Families often found they no longer had a day off together.",
   "lede": "In the autumn of 1929 the Soviet Union introduced the nepreryvka, or continuous working week. The week shrank to five days, and the common day of rest disappeared. Each worker was put into one of five groups, each with its own colour and its own rest day, so that on any given day a fifth of the workforce was off and the factories never closed.",
   "bullets": [
     {
       "opening": "The colour-coded rest days",
       "linkId": null,
-      "text": "Each of the five groups had a colour, and calendars of the time showed every day marked with the colour of the group that had it off. Schedules were often recorded by colour, which led to the name 'the coloured week'."
+      "text": "Each of the five groups had a colour, and calendars of the time showed every day marked with the colour of the group that had it off."
     },
     {
       "opening": "Families on different days",
@@ -19,7 +19,7 @@
     {
       "opening": "The six-day week of 1931",
       "linkId": null,
-      "text": "From 1931 most workers moved to a six-day week with a shared rest day on the 6th, 12th, 18th, 24th and 30th of each month. The weekday names fell out of everyday use."
+      "text": "From 1931 most workers moved to a six-day week with a shared rest day on the 6th, 12th, 18th, 24th and 30th of each month. Official calendars numbered the days instead of naming them."
     },
     {
       "opening": "Return of the seven-day week",
