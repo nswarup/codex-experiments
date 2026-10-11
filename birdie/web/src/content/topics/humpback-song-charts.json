@@ -1,0 +1,43 @@
+{
+  "id": "humpback-song-charts",
+  "title": "Humpback songs go viral",
+  "category": "Animals",
+  "hook": "Humpback whale songs sweep across the Pacific like hit singles.",
+  "peek": "Male humpback whales in a population all sing the same song. Researchers tracking the South Pacific found new songs spreading from Australia eastward to French Polynesia, island group by island group, replacing the old tune within a couple of years.",
+  "lede": "Only male humpback whales sing, and the males in one population share the same long, repeating song, which slowly changes through the season. In 2011 a team led by Ellen Garland published a decade of recordings from across the South Pacific. They found that songs travel. A new song appeared off eastern Australia, then turned up year by year in populations farther east.",
+  "bullets": [
+    {
+      "opening": "Eastern Australia to French Polynesia",
+      "linkId": null,
+      "text": "The songs moved from west to east, from Australia through New Caledonia, Tonga, Samoa and the Cook Islands to French Polynesia. Several different songs made the journey in sequence over about a decade."
+    },
+    {
+      "opening": "The 1996 song revolution",
+      "linkId": null,
+      "text": "Earlier, researchers off eastern Australia heard two whales singing a song from the Indian Ocean population. Within two years, almost every male in the population had switched to the newcomer's song."
+    },
+    {
+      "opening": "Songs built like music",
+      "linkId": null,
+      "text": "Each song is made of short units grouped into phrases, phrases into repeated themes, and themes into a song lasting up to around 20 minutes. Whales may repeat it for hours."
+    },
+    {
+      "opening": "Why males sing",
+      "linkId": null,
+      "text": "No one knows exactly why the songs exist. They are linked to the breeding season and likely matter in how males compete or attract mates, which may be why novelty spreads so fast."
+    }
+  ],
+  "tags": [
+    "whales",
+    "music",
+    "communication",
+    "culture"
+  ],
+  "related": [
+    "lyrebird-mimicry",
+    "goat-accents",
+    "dolphin-names",
+    "golden-record",
+    "prairie-dog-calls"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "lyrebird-mimicry",
+  "title": "The lyrebird's copycat song",
+  "category": "Animals",
+  "hook": "A bird whose song is mostly other birds, and sometimes a camera shutter.",
+  "peek": "Australia's superb lyrebird fills its song with near-perfect copies of the birds around it. Captive lyrebirds have even been filmed imitating camera shutters and car alarms, a clip that made one of them famous.",
+  "lede": "The superb lyrebird lives in the forests of south-eastern Australia. Males sing through the winter breeding season, and most of what they sing is borrowed: copies of kookaburras, whipbirds, parrots and many other species, stitched into long performances. The copies are so good that other birds respond to them. In captivity, lyrebirds have picked up human sounds too.",
+  "bullets": [
+    {
+      "opening": "Male lyrebird display mounds",
+      "linkId": null,
+      "text": "A male clears a few patches of forest floor and sings from them, flipping his long tail forward over his head into a shimmering canopy of feathers while he dances."
+    },
+    {
+      "opening": "David Attenborough's lyrebird",
+      "linkId": null,
+      "text": "In the 1998 series The Life of Birds, David Attenborough showed lyrebirds copying a camera shutter, a car alarm and a chainsaw. The birds in the film lived in captivity near people, not in the wild bush."
+    },
+    {
+      "opening": "Copying a whole flock",
+      "linkId": null,
+      "text": "A 2021 study found that during courtship, males imitate the alarm sounds of a whole mixed flock of birds at once. One idea is that this keeps a female close by making danger sound near."
+    },
+    {
+      "opening": "The lyre-shaped tail",
+      "linkId": null,
+      "text": "The bird is named for its tail, which early museum displays arranged in the shape of a Greek lyre. In real life the bird rarely holds its tail that way."
+    },
+    {
+      "opening": "The flute-song lyrebirds",
+      "linkId": null,
+      "text": "A popular story says lyrebirds in New England National Park in New South Wales still sing flute tunes taught to a pet lyrebird in the 1930s. Researchers have found flute-like notes, though the history is hard to prove."
+    }
+  ],
+  "tags": [
+    "mimicry",
+    "acoustics",
+    "birdsong",
+    "australia"
+  ],
+  "related": [
+    "mozart-starling",
+    "humpback-song-charts",
+    "snowball-cockatoo",
+    "bowerbird-collections",
+    "koala-fingerprints"
+  ]
+}

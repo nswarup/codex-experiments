@@ -1,0 +1,43 @@
+{
+  "id": "greenland-shark-age",
+  "title": "The 400-year-old Greenland shark",
+  "category": "Animals",
+  "hook": "Some Greenland sharks swimming today may have been born before 1700.",
+  "peek": "In 2016 scientists dated Greenland sharks using the proteins in their eyes. The largest was estimated at around 400 years old, making the species the longest-lived animal with a backbone known, and suggesting females mature at about 150.",
+  "lede": "The Greenland shark is a large, slow fish of the cold, deep North Atlantic and Arctic. Its age had always been a puzzle, because it lacks the hard parts other fish use to count years. In 2016 a team led by Julius Nielsen found a way in through the eye, and the answer was startling: some of these sharks may live for around 400 years.",
+  "bullets": [
+    {
+      "opening": "Dating the eye lens",
+      "linkId": null,
+      "text": "The core of the eye lens is made of proteins laid down before birth that never change. By measuring radiocarbon in that core, the team could estimate when each of 28 sharks was born."
+    },
+    {
+      "opening": "The 5-metre shark's age",
+      "linkId": null,
+      "text": "The largest shark, about 5 metres long, came out at roughly 392 years old. The uncertainty is wide, between about 272 and 512 years, but even the low end beats any other known vertebrate."
+    },
+    {
+      "opening": "Growing a centimetre a year",
+      "linkId": null,
+      "text": "Greenland sharks grow very slowly, around a centimetre a year. Combining size and age, the researchers estimated that females are not ready to breed until they are about 150 years old."
+    },
+    {
+      "opening": "Life in the slow lane",
+      "linkId": null,
+      "text": "They are also among the slowest-swimming fish measured, cruising at under 1 km per hour. Very cold water and a slow pace of life probably help explain their great age."
+    }
+  ],
+  "tags": [
+    "sharks",
+    "longevity",
+    "oceans",
+    "records"
+  ],
+  "related": [
+    "wisdom-albatross",
+    "pando",
+    "methuselah-date-palm",
+    "tree-ring-dating",
+    "narwhal-tusk"
+  ]
+}

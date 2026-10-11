@@ -1,0 +1,43 @@
+{
+  "id": "parrotlet-names",
+  "title": "Parrots that name their chicks",
+  "category": "Animals",
+  "hook": "Wild parrotlet parents give each chick its own call, a bit like a name.",
+  "peek": "In Venezuela, green-rumped parrotlets each have a signature call that others use to reach them. Experiments that swapped eggs between nests showed the chicks learn these calls from the parents raising them, not from their genes.",
+  "lede": "Green-rumped parrotlets are small green parrots of northern South America. Each bird has its own contact call, a signature sound that flock mates use when calling to it. Working in Venezuela, the biologist Karl Berg wanted to know where those calls come from. The answer, published in 2011, was that parents give them to their chicks before the young birds can call for themselves.",
+  "bullets": [
+    {
+      "opening": "Cameras in the nest boxes",
+      "linkId": null,
+      "text": "Berg's team studied a wild population on a ranch in Venezuela that nests in boxes made from plastic pipe. Cameras and microphones inside the boxes let them record parents calling to each chick from the day it hatched."
+    },
+    {
+      "opening": "The egg-swap experiment",
+      "linkId": null,
+      "text": "The team moved eggs between nests so chicks were raised by foster parents. The chicks ended up with calls that resembled their foster parents' calls, not those of their genetic parents. The calls were learned."
+    },
+    {
+      "opening": "Making the name their own",
+      "linkId": null,
+      "text": "Chicks did not copy the parental call exactly. Each one adjusted it into its own version, so siblings' calls sounded related but distinct, rather like a family surname with a different first name."
+    },
+    {
+      "opening": "Why call it a name",
+      "linkId": null,
+      "text": "Researchers use the word name loosely. What makes the comparison apt is that the call identifies one particular bird, other birds use it to address that bird, and it is handed down by parents."
+    }
+  ],
+  "tags": [
+    "names",
+    "communication",
+    "animal-minds",
+    "parrots"
+  ],
+  "related": [
+    "dolphin-names",
+    "alex-the-parrot",
+    "prairie-dog-calls",
+    "goat-accents",
+    "snowball-cockatoo"
+  ]
+}

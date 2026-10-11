@@ -1,0 +1,43 @@
+{
+  "id": "flamingo-pink",
+  "title": "Flamingos are pink because of their food",
+  "category": "Animals",
+  "hook": "Flamingos hatch grey and only turn pink from the colour in their food.",
+  "peek": "A flamingo is not born pink. Chicks are grey or white, and the famous colour comes from pigments in the algae and tiny shrimp they eat. Without those pigments, the pink slowly fades.",
+  "lede": "Flamingo chicks hatch with grey or white down. The pink comes later, from food. Flamingos filter algae and small crustaceans such as brine shrimp from salty lakes and lagoons, and these are rich in carotenoids, the same family of pigments that makes carrots orange. The birds store the pigments in their feathers, skin and legs, and it takes a young flamingo two to three years to turn fully pink.",
+  "bullets": [
+    {
+      "opening": "Carotenoid pigments in algae",
+      "linkId": null,
+      "text": "Algae make carotenoids, and brine shrimp take them up by eating the algae. Flamingos break the pigments down and deposit them as they grow new feathers, so diet decides the shade."
+    },
+    {
+      "opening": "Pink zoo flamingos",
+      "linkId": null,
+      "text": "Early zoo flamingos often faded to pale pink or white on ordinary diets. Zoos now add carotenoids such as canthaxanthin to their food to keep them bright."
+    },
+    {
+      "opening": "Shades of different species",
+      "linkId": null,
+      "text": "The American flamingo of the Caribbean is often a deep coral pink, while the greater flamingo is paler. Local food helps explain why the same species can vary from lake to lake."
+    },
+    {
+      "opening": "Flamingo make-up",
+      "linkId": null,
+      "text": "In the breeding season, greater flamingos rub pigmented oil from a gland near the tail onto their neck and chest feathers to look pinker. Researchers have called it cosmetic colouring."
+    }
+  ],
+  "tags": [
+    "color",
+    "myths-busted",
+    "birds",
+    "food-chains"
+  ],
+  "related": [
+    "orange-carrots",
+    "bowerbird-collections",
+    "penguin-pebbles",
+    "arctic-tern",
+    "murmurations"
+  ]
+}

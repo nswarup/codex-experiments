@@ -1,0 +1,43 @@
+{
+  "id": "platypus-glow",
+  "title": "The platypus glows under UV light",
+  "category": "Animals",
+  "hook": "Shine an ultraviolet light on a platypus and its fur glows blue-green.",
+  "peek": "In 2020, researchers shone ultraviolet light on museum platypus specimens and saw the brown fur glow blue-green. Nobody had noticed before, and nobody is yet sure whether it matters to the platypus.",
+  "lede": "In ordinary light, platypus fur is a plain brown. Under ultraviolet light it glows a soft blue-green. Researchers at Northland College in Wisconsin reported this in 2020 after testing platypus specimens held at the Field Museum in Chicago and another museum collection. The glow appeared on males and females from different parts of Australia, so it seems to be normal for the species.",
+  "bullets": [
+    {
+      "opening": "Flying squirrels came first",
+      "linkId": null,
+      "text": "The team had already found that North American flying squirrels glow pink under UV light, a discovery that began with a biologist pointing a UV torch at a tree at night. They then checked other mammals, including the platypus."
+    },
+    {
+      "opening": "How biofluorescence works",
+      "linkId": null,
+      "text": "Some materials absorb ultraviolet light and give it back as visible light of a longer wavelength. Chemicals in the platypus fur do this, so the fur shines a different colour from the light falling on it."
+    },
+    {
+      "opening": "Why the platypus might glow",
+      "linkId": null,
+      "text": "Platypuses are most active at night, dawn and dusk, when ultraviolet light is low. One idea is that the glow helps them stay hidden from predators that see UV. Another is that it does nothing at all."
+    },
+    {
+      "opening": "Glowing museum specimens",
+      "linkId": null,
+      "text": "The study relied on preserved specimens in drawers, some decades old. Later surveys using similar methods found glowing fur in many other mammals too, which suggests the glow may often be a side effect."
+    }
+  ],
+  "tags": [
+    "light",
+    "color",
+    "australia",
+    "perception"
+  ],
+  "related": [
+    "tonic-water-glow",
+    "koala-fingerprints",
+    "narwhal-tusk",
+    "reindeer-eyes",
+    "wint-o-green-sparks"
+  ]
+}

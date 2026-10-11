@@ -1,0 +1,43 @@
+{
+  "id": "pigeons-monet-picasso",
+  "title": "Pigeons that know Monet from Picasso",
+  "category": "Animals",
+  "hook": "Pigeons learned to tell Monet from Picasso, even in paintings new to them.",
+  "peek": "In a 1995 Japanese study, pigeons were trained to peck at paintings by one artist and not the other. Then they sorted Monets and Picassos they had never seen, and grouped other painters by style.",
+  "lede": "In 1995, Shigeru Watanabe and colleagues at Keio University in Tokyo published a study with an unusual title: pigeons' discrimination of paintings by Monet and Picasso. Pigeons were shown slides of paintings and rewarded with food for pecking at works by one of the two artists. They learned the task, and then passed a harder test with paintings they had never seen.",
+  "bullets": [
+    {
+      "opening": "The pigeon training method",
+      "linkId": null,
+      "text": "Each pigeon was rewarded for pecking at works by one artist and got nothing for the other. Over many sessions, the birds came to peck mostly at the right painter's pictures."
+    },
+    {
+      "opening": "New paintings by the same artists",
+      "linkId": null,
+      "text": "The real test used Monets and Picassos the pigeons had not been trained on. They still sorted them well, which showed they had learned something general about each painter, not just memorised pictures."
+    },
+    {
+      "opening": "Impressionists and cubists",
+      "linkId": null,
+      "text": "Birds trained on Monet tended to treat Cezanne and Renoir as Monet-like, while those trained on Picasso grouped Braque and Matisse with him. The pigeons were picking up broad differences in style."
+    },
+    {
+      "opening": "An Ig Nobel Prize in 2003",
+      "linkId": null,
+      "text": "The research won an Ig Nobel Prize in 2003, awarded for work that makes people laugh and then think. It was serious science about how birds see and group images."
+    }
+  ],
+  "tags": [
+    "animal-minds",
+    "perception",
+    "art",
+    "experiments"
+  ],
+  "related": [
+    "pigeon-vs-broadband",
+    "crows-faces",
+    "clever-hans",
+    "alex-the-parrot",
+    "mondrian-upside-down"
+  ]
+}

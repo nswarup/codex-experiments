@@ -4488,5 +4488,125 @@
   "id": "brocken-spectre",
   "title": "The Brocken spectre",
   "category": "Nature"
+ },
+ {
+  "id": "surtsey-island",
+  "title": "Surtsey, the newborn island",
+  "category": "Nature"
+ },
+ {
+  "id": "inky-the-octopus",
+  "title": "Inky the octopus's great escape",
+  "category": "Animals"
+ },
+ {
+  "id": "parrotlet-names",
+  "title": "Parrots that name their chicks",
+  "category": "Animals"
+ },
+ {
+  "id": "alex-the-parrot",
+  "title": "Alex the grey parrot",
+  "category": "Animals"
+ },
+ {
+  "id": "lyrebird-mimicry",
+  "title": "The lyrebird's copycat song",
+  "category": "Animals"
+ },
+ {
+  "id": "bowerbird-collections",
+  "title": "The bowerbird's blue collection",
+  "category": "Animals"
+ },
+ {
+  "id": "pigeons-monet-picasso",
+  "title": "Pigeons that know Monet from Picasso",
+  "category": "Animals"
+ },
+ {
+  "id": "narwhal-tusk",
+  "title": "The narwhal's tusk is a tooth",
+  "category": "Animals"
+ },
+ {
+  "id": "platypus-glow",
+  "title": "The platypus glows under UV light",
+  "category": "Animals"
+ },
+ {
+  "id": "flamingo-pink",
+  "title": "Flamingos are pink because of their food",
+  "category": "Animals"
+ },
+ {
+  "id": "penguin-pebbles",
+  "title": "Penguins that give pebbles",
+  "category": "Animals"
+ },
+ {
+  "id": "emperor-penguin-huddle",
+  "title": "The emperor penguin huddle",
+  "category": "Animals"
+ },
+ {
+  "id": "hummingbird-torpor",
+  "title": "Hummingbirds power down at night",
+  "category": "Animals"
+ },
+ {
+  "id": "arctic-tern",
+  "title": "The Arctic tern's endless summer",
+  "category": "Animals"
+ },
+ {
+  "id": "cats-meow-humans",
+  "title": "Cats meow mainly to people",
+  "category": "Animals"
+ },
+ {
+  "id": "tama-station-master",
+  "title": "Tama, the station master cat",
+  "category": "Animals"
+ },
+ {
+  "id": "puppy-dog-eyes",
+  "title": "Dogs evolved puppy-dog eyes",
+  "category": "Animals"
+ },
+ {
+  "id": "chaser-border-collie",
+  "title": "Chaser, the dog who knew 1,000 words",
+  "category": "Animals"
+ },
+ {
+  "id": "horses-sleep-standing",
+  "title": "How horses sleep standing up",
+  "category": "Animals"
+ },
+ {
+  "id": "pigs-video-games",
+  "title": "Pigs that play video games",
+  "category": "Animals"
+ },
+ {
+  "id": "goat-accents",
+  "title": "Goats pick up accents",
+  "category": "Animals"
+ },
+ {
+  "id": "prairie-dog-calls",
+  "title": "Prairie dogs describe intruders",
+  "category": "Animals"
+ },
+ {
+  "id": "humpback-song-charts",
+  "title": "Humpback songs go viral",
+  "category": "Animals"
+ },
+ {
+  "id": "greenland-shark-age",
+  "title": "The 400-year-old Greenland shark",
+  "category": "Animals"
  }
 ]

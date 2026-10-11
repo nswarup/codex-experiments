@@ -1,0 +1,43 @@
+{
+  "id": "puppy-dog-eyes",
+  "title": "Dogs evolved puppy-dog eyes",
+  "category": "Animals",
+  "hook": "Dogs have an eyebrow muscle that wolves mostly lack, and it works on us.",
+  "peek": "A 2019 study found that dogs have a small muscle that lifts the inner eyebrow, making the sad, wide-eyed look we call puppy-dog eyes. Wolves mostly lack it, which suggests the muscle spread because people respond to it.",
+  "lede": "When a dog raises its inner eyebrows, its eyes look bigger and a little sad, a bit like a human baby or a worried face. In 2019 a team led by psychologist Juliane Kaminski compared the faces of dogs and wolves. They found that dogs reliably have a muscle that makes this expression, while wolves mostly do not.",
+  "bullets": [
+    {
+      "opening": "The eyebrow-raising muscle",
+      "linkId": null,
+      "text": "The muscle is called the levator anguli oculi medialis. In the dogs the team dissected it was well developed, while in wolves it was usually only a few scattered fibres, too weak to make the same movement."
+    },
+    {
+      "opening": "Wolves versus dogs on camera",
+      "linkId": null,
+      "text": "The researchers also filmed dogs and wolves meeting a person. Dogs raised their inner eyebrows more often and more intensely, while wolves rarely made the movement at all."
+    },
+    {
+      "opening": "Shelter dogs and adoption",
+      "linkId": null,
+      "text": "An earlier study by the same group found that shelter dogs that raised their inner eyebrows more often were rehomed sooner. That gives a plausible route for the trait to spread: people favoured dogs that made it."
+    },
+    {
+      "opening": "A fast change in evolution",
+      "linkId": null,
+      "text": "Dogs split from wolves within roughly the last 30,000 years, a short time for a new facial muscle to appear. The authors suggest people's unconscious preference for the look may have sped it along."
+    }
+  ],
+  "tags": [
+    "dogs",
+    "faces",
+    "domestication",
+    "evolution"
+  ],
+  "related": [
+    "dogs-smell",
+    "chaser-border-collie",
+    "cats-meow-humans",
+    "cat-slow-blink",
+    "clever-hans"
+  ]
+}

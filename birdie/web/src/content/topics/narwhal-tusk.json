@@ -1,0 +1,48 @@
+{
+  "id": "narwhal-tusk",
+  "title": "The narwhal's tusk is a tooth",
+  "category": "Animals",
+  "hook": "The narwhal's long spiral horn is actually a tooth growing through its lip.",
+  "peek": "The narwhal's famous tusk is not a horn but a tooth, usually the left one, that grows forward through the upper lip in a long spiral. In medieval Europe it was sold as unicorn horn.",
+  "lede": "Narwhals are Arctic whales, and most males carry a single straight tusk that can grow longer than 2.5 metres. It looks like a horn, but it is a tooth. Usually the left canine of the upper jaw keeps growing forward through the upper lip, twisting in a spiral as it goes. Why narwhals have it is still being worked out.",
+  "bullets": [
+    {
+      "opening": "The left-handed spiral",
+      "linkId": null,
+      "text": "The tusk almost always twists in the same direction, a left-handed spiral when seen from the base. Scientists think the slow turning helps it grow straight rather than curving off to one side."
+    },
+    {
+      "opening": "Females and double tusks",
+      "linkId": null,
+      "text": "Most females have no tusk, though some grow one. Very rarely a narwhal grows two tusks, when the right tooth erupts as well as the left."
+    },
+    {
+      "opening": "A tusk that might sense",
+      "linkId": null,
+      "text": "A 2014 study found tiny channels running from the tusk surface to nerves inside, and suggested it might detect changes in the water around it. The idea is still debated."
+    },
+    {
+      "opening": "Tusking between males",
+      "linkId": null,
+      "text": "Males sometimes rise to the surface and cross or rub their tusks together. The tusk may mainly be for show, like antlers, a sign of a healthy male."
+    },
+    {
+      "opening": "Unicorn horns for sale",
+      "linkId": null,
+      "text": "In medieval and Renaissance Europe, narwhal tusks were sold as unicorn horns and were worth more than their weight in gold. The Danish coronation throne at Rosenborg Castle is decorated with them."
+    }
+  ],
+  "tags": [
+    "myths-busted",
+    "oceans",
+    "whales",
+    "arctic"
+  ],
+  "related": [
+    "greenland-shark-age",
+    "humpback-song-charts",
+    "reindeer-eyes",
+    "platypus-glow",
+    "viking-horned-helmets"
+  ]
+}

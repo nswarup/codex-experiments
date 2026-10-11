@@ -1,0 +1,48 @@
+{
+  "id": "surtsey-island",
+  "title": "Surtsey, the newborn island",
+  "category": "Nature",
+  "hook": "An island born in 1963 that scientists have kept almost to themselves.",
+  "peek": "In 1963 a volcano broke the surface of the sea off Iceland and built a brand-new island. Ever since, almost nobody has been allowed to land, so scientists could watch plants and birds arrive on bare rock from scratch.",
+  "lede": "In November 1963, fishermen off the south coast of Iceland saw smoke rising from the sea. An undersea volcano had reached the surface, and over the next three and a half years it built an island of ash and lava. Iceland protected Surtsey almost at once, and it has stayed nearly off limits ever since, a natural lab for watching life arrive.",
+  "bullets": [
+    {
+      "opening": "The 1963 to 1967 eruption",
+      "linkId": null,
+      "text": "The eruption ran from November 1963 to June 1967. Seawater flashing to steam made towering black ash clouds at first, and later lava flows armoured the island so the waves could not simply wash it away."
+    },
+    {
+      "opening": "The name Surtsey",
+      "linkId": null,
+      "text": "The island was named after Surtur, a fire giant from Norse mythology. Its name means roughly Surtur's island, a fitting title for land made by fire in the middle of a cold sea."
+    },
+    {
+      "opening": "The first plant arrivals",
+      "linkId": null,
+      "text": "Seeds came by sea, by wind and on birds. One of the first flowering plants found was sea rocket, a beach plant, in 1965. Plant life took off after gulls began nesting in the 1980s and enriched the thin soil."
+    },
+    {
+      "opening": "Rules for visiting Surtsey",
+      "linkId": null,
+      "text": "Only a small number of scientists may land, and they must take care not to carry seeds or soil with them. Surtsey became a UNESCO World Heritage Site in 2008."
+    },
+    {
+      "opening": "A slowly shrinking island",
+      "linkId": null,
+      "text": "Waves have worn Surtsey down by roughly half since the eruption ended. The hardest lava core is expected to survive for a very long time, but the island will keep getting smaller."
+    }
+  ],
+  "tags": [
+    "volcanoes",
+    "islands",
+    "ecology",
+    "time"
+  ],
+  "related": [
+    "paricutin-volcano",
+    "giants-causeway",
+    "wollemi-pine",
+    "welwitschia",
+    "pando"
+  ]
+}

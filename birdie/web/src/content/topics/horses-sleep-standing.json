@@ -1,0 +1,43 @@
+{
+  "id": "horses-sleep-standing",
+  "title": "How horses sleep standing up",
+  "category": "Animals",
+  "hook": "Horses can doze on their feet, but they still have to lie down to dream.",
+  "peek": "A horse can nap standing up thanks to a set of tendons and ligaments that lock its legs in place. But for the deepest sleep, the kind linked with dreaming in people, it has to lie down, if only for a short while.",
+  "lede": "Horses spend much of their rest standing, eyes half closed, one back hoof tipped up. They can do this because of a system of tendons and ligaments called the stay apparatus, which holds the legs straight with very little muscle effort. Standing lets a large prey animal run quickly if needed. Yet a horse cannot get all the sleep it needs on its feet.",
+  "bullets": [
+    {
+      "opening": "The stay apparatus",
+      "linkId": null,
+      "text": "In the front legs, tendons and ligaments brace the joints so they cannot fold. In a back leg, the kneecap hooks over a ridge on the thigh bone and locks it, which is why a resting horse often shifts its weight between hind legs."
+    },
+    {
+      "opening": "REM sleep lying down",
+      "linkId": null,
+      "text": "In REM sleep, the stage linked to dreaming in people, the body's muscles go slack, and a standing horse would sink. So horses lie down for it, usually in short spells that add up to under an hour a day."
+    },
+    {
+      "opening": "Only a few hours a day",
+      "linkId": null,
+      "text": "Adult horses sleep surprisingly little, often around three hours in a day, broken into many short naps. Much of it is light dozing on their feet."
+    },
+    {
+      "opening": "Taking turns in the herd",
+      "linkId": null,
+      "text": "In a group, horses rarely all lie down at once. Often one or two stay standing and alert while the others rest, and a horse kept alone may not feel safe enough to lie down."
+    }
+  ],
+  "tags": [
+    "horses",
+    "sleep",
+    "animal-bodies",
+    "myths-busted"
+  ],
+  "related": [
+    "ducks-one-eye-open",
+    "segmented-sleep",
+    "clever-hans",
+    "muybridge-horse",
+    "racehorse-birthday"
+  ]
+}

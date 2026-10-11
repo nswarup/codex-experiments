@@ -1,0 +1,43 @@
+{
+  "id": "arctic-tern",
+  "title": "The Arctic tern's endless summer",
+  "category": "Animals",
+  "hook": "A seabird lighter than a phone flies pole to pole and back every year.",
+  "peek": "Arctic terns breed in the far north and spend the northern winter off Antarctica, chasing summer twice a year. Tracking studies show the round trip can top 70,000 km, the longest regular migration of any animal known.",
+  "lede": "The Arctic tern weighs only about 100 grams, yet it lives in two summers a year. It nests around the Arctic, then heads south to the seas off Antarctica for the southern summer, then comes back. For decades people guessed at the distance. In 2010, scientists fitted terns with tiny trackers and found the round trip averaged about 70,000 km.",
+  "bullets": [
+    {
+      "opening": "The 2010 geolocator study",
+      "linkId": null,
+      "text": "Researchers fitted terns in Greenland and Iceland with trackers weighing about a gram. The birds did not fly straight: they took an S-shaped path down the Atlantic, riding the prevailing winds, which made the trip longer but easier."
+    },
+    {
+      "opening": "A refuelling stop at sea",
+      "linkId": null,
+      "text": "On the way south, many tracked terns paused for weeks in the middle of the North Atlantic, a productive patch of ocean where they could feed before the long leg to Antarctica."
+    },
+    {
+      "opening": "More daylight than any animal",
+      "linkId": null,
+      "text": "Because it swaps the Arctic summer for the Antarctic one, an Arctic tern lives under near constant light for much of the year. It is often said to see more daylight than any other animal."
+    },
+    {
+      "opening": "A lifetime of flying",
+      "linkId": null,
+      "text": "Arctic terns can live for 30 years or more. Researchers estimated a long-lived bird might fly about 2.4 million km in its life, roughly three trips to the Moon and back."
+    }
+  ],
+  "tags": [
+    "birds",
+    "migration",
+    "records",
+    "seasons"
+  ],
+  "related": [
+    "wisdom-albatross",
+    "swifts-airborne",
+    "murmurations",
+    "hummingbird-torpor",
+    "emperor-penguin-huddle"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "pigs-video-games",
+  "title": "Pigs that play video games",
+  "category": "Animals",
+  "hook": "In a lab experiment, pigs steered a joystick with their snouts to hit targets.",
+  "peek": "Researchers taught four pigs to move a cursor on a screen by nudging a joystick with their snouts. The pigs hit targets far more often than chance would allow, though they never quite matched the scores of monkeys on the same kind of task.",
+  "lede": "In the late 1990s, animal scientist Candace Croney and psychologist Sarah Boysen began an unusual test at Penn State. They gave pigs a joystick, adapted from equipment used with primates, and a computer screen. Nudging the stick with their snouts, the pigs learned to move a cursor into target areas on the screen. When they hit a target, a machine dropped a food treat.",
+  "bullets": [
+    {
+      "opening": "Hamlet, Omelette, Ebony and Ivory",
+      "linkId": null,
+      "text": "Four pigs took part: two large Yorkshire pigs named Hamlet and Omelette, and two small Panepinto micro pigs named Ebony and Ivory. The results were finally published in 2021 in Frontiers in Psychology."
+    },
+    {
+      "opening": "Better than chance",
+      "linkId": null,
+      "text": "All four pigs hit the targets well above chance, even as the tasks were made harder. That suggests they understood that their snout movements controlled the cursor."
+    },
+    {
+      "opening": "Playing with poor eyesight",
+      "linkId": null,
+      "text": "Pigs are farsighted and the task was built for hands, not snouts, which made their scores more striking. They did not reach the accuracy of monkeys tested on similar tasks, a gap the authors linked partly to these limits."
+    },
+    {
+      "opening": "Praise instead of treats",
+      "linkId": null,
+      "text": "When the treat dispenser broke down, the pigs kept playing for a while with only encouraging words from the researchers. The team took this as a sign that the social side of the task mattered to them."
+    }
+  ],
+  "tags": [
+    "pigs",
+    "animal-minds",
+    "games",
+    "experiments"
+  ],
+  "related": [
+    "chaser-border-collie",
+    "pigeons-monet-picasso",
+    "clever-hans",
+    "inky-the-octopus",
+    "alex-the-parrot"
+  ]
+}

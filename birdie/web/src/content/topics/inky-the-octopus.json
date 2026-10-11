@@ -1,0 +1,43 @@
+{
+  "id": "inky-the-octopus",
+  "title": "Inky the octopus's great escape",
+  "category": "Animals",
+  "hook": "An octopus slipped out of his aquarium tank and found his own way to the sea.",
+  "peek": "In 2016, staff at New Zealand's National Aquarium arrived to find Inky the octopus gone. A gap in his tank lid, a trail across the floor and a drainpipe to the ocean told the story of a very neat escape.",
+  "lede": "Inky was a common New Zealand octopus living at the National Aquarium of New Zealand in Napier. In early 2016 his tank lid was left slightly open after maintenance. Overnight he climbed out, crossed the floor and slipped into a drain that led to the sea. The story went around the world that April, and Inky was never seen again.",
+  "bullets": [
+    {
+      "opening": "How Inky came to Napier",
+      "linkId": null,
+      "text": "Inky had been caught in a crayfish pot by a local fisher and given to the aquarium. Staff described him as curious and clever, the kind of animal that liked to explore and play with things in his tank."
+    },
+    {
+      "opening": "The trail across the floor",
+      "linkId": null,
+      "text": "Staff worked out the route from the clues. Inky had squeezed through the small gap at the top of the tank, crossed a few metres of floor and found a drain hole leading to a pipe that runs out into Hawke's Bay."
+    },
+    {
+      "opening": "Squeezing through tiny gaps",
+      "linkId": null,
+      "text": "An octopus has no bones. The only hard part of its body is its beak, so it can pass through almost any opening wider than that. A large octopus can fit through a gap the size of a coin."
+    },
+    {
+      "opening": "Why aquariums lock lids",
+      "linkId": null,
+      "text": "Octopuses are famous among keepers as escape artists, and many aquariums weigh down or latch their lids. Inky's story is unusual mainly because he seems to have made it all the way home."
+    }
+  ],
+  "tags": [
+    "animal-minds",
+    "escapes",
+    "oceans",
+    "octopuses"
+  ],
+  "related": [
+    "sea-otters-hands",
+    "seahorse-fathers",
+    "greenland-shark-age",
+    "crows-faces",
+    "dolphin-names"
+  ]
+}

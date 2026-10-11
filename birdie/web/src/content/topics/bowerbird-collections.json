@@ -1,0 +1,48 @@
+{
+  "id": "bowerbird-collections",
+  "title": "The bowerbird's blue collection",
+  "category": "Animals",
+  "hook": "A bird that courts with an avenue of sticks and a hoard of blue objects.",
+  "peek": "Male satin bowerbirds in eastern Australia build a little avenue of sticks and decorate it almost entirely with blue things: feathers, flowers, berries and, these days, bottle caps and drinking straws.",
+  "lede": "The male satin bowerbird of eastern Australia does not win a mate with bright feathers alone. He builds a bower, two parallel walls of sticks forming a short avenue, and decorates the ground in front of it with blue objects. Feathers, flowers and berries were the traditional finds. Near towns, bottle caps, straws and clothes pegs turn up too.",
+  "bullets": [
+    {
+      "opening": "A bower is not a nest",
+      "linkId": null,
+      "text": "The bower is purely for courtship. After mating, the female leaves and builds a cup-shaped nest elsewhere, where she raises the chicks on her own."
+    },
+    {
+      "opening": "Why satin bowerbirds love blue",
+      "linkId": null,
+      "text": "Adult males have glossy blue-black feathers and violet-blue eyes. Blue is rare in nature, which may make blue treasures stand out, and females spend more time at bowers well stocked with them."
+    },
+    {
+      "opening": "Painting the bower walls",
+      "linkId": null,
+      "text": "Some males chew plant material into a coloured paste and smear it on the inner walls of the bower using their beaks, sometimes with a scrap of bark held like a brush."
+    },
+    {
+      "opening": "Stealing from the neighbours",
+      "linkId": null,
+      "text": "Males often raid rival bowers to steal blue items and knock down sticks. A well-kept collection says a male can defend his treasures as well as find them."
+    },
+    {
+      "opening": "Young green males",
+      "linkId": null,
+      "text": "Young males are green like females and take about seven years to gain the blue-black adult plumage. They often practise building simple bowers before then."
+    }
+  ],
+  "tags": [
+    "color",
+    "courtship",
+    "collections",
+    "australia"
+  ],
+  "related": [
+    "lyrebird-mimicry",
+    "penguin-pebbles",
+    "flamingo-pink",
+    "koala-fingerprints",
+    "crows-faces"
+  ]
+}

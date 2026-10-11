@@ -1,0 +1,44 @@
+{
+  "id": "cats-meow-humans",
+  "title": "Cats meow mainly to people",
+  "category": "Animals",
+  "hook": "Grown cats rarely meow at each other. The meow is mostly for us.",
+  "peek": "Kittens meow to their mothers, but adult cats seldom meow to other cats. They hiss, growl and purr instead. The meow is a call that pet cats keep using with people, and each cat shapes its own version for its household.",
+  "lede": "Listen to cats together and you will hear hisses, growls, chirps and purrs, but surprisingly few meows. Kittens meow to get their mother's attention, and most cats grow out of it with each other. Pet cats keep meowing into adulthood, though, and point it at the people who feed them. Researchers think the meow has become a kind of call cats reserve for humans.",
+  "bullets": [
+    {
+      "opening": "Feral cats meowing less",
+      "linkId": null,
+      "text": "Cats living wild in colonies meow far less than pet cats. Observers note they rely on scent, body language and other sounds among themselves, which suggests the adult meow grows mainly out of living with people."
+    },
+    {
+      "opening": "A household's private meows",
+      "linkId": null,
+      "text": "Each cat seems to develop its own set of meows with its owners. In studies, people were somewhat better at telling what their own cat's meows meant than at reading the meows of unfamiliar cats."
+    },
+    {
+      "opening": "Pet meows versus wildcat calls",
+      "linkId": null,
+      "text": "Researcher Nicholas Nicastro compared recordings of domestic cats with African wildcats, their closest wild relatives. Listeners rated the pet cats' meows as more pleasant, hinting that living with people has softened the sound."
+    },
+    {
+      "opening": "The melody of a meow",
+      "linkId": null,
+      "text": "Phonetician Susanne Schötz at Lund University studies how cats vary the pitch of meows. Her work suggests rising meows tend to be friendly requests, while falling ones are more often linked to stress."
+    }
+  ],
+  "tags": [
+    "cats",
+    "communication",
+    "animal-minds",
+    "domestication"
+  ],
+  "related": [
+    "cats-purr",
+    "cat-slow-blink",
+    "larry-the-cat",
+    "tama-station-master",
+    "puppy-dog-eyes",
+    "goat-accents"
+  ]
+}

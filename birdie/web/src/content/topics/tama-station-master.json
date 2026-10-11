@@ -1,0 +1,43 @@
+{
+  "id": "tama-station-master",
+  "title": "Tama, the station master cat",
+  "category": "Animals",
+  "hook": "A calico cat in a station master's cap helped rescue a small Japanese railway.",
+  "peek": "In 2007 a small rural railway in Wakayama, Japan, appointed a calico cat named Tama as station master. Tourists came to see her, ridership rose, and a station was later rebuilt in the shape of a cat's face.",
+  "lede": "By the mid-2000s, the little Kishigawa Line in Wakayama, Japan, was losing money and close to shutting. A new operator, Wakayama Electric Railway, took it over and made its stations unstaffed. At Kishi station lived Tama, a calico cat looked after by a local shop owner. In January 2007 the railway's president made her the official station master.",
+  "bullets": [
+    {
+      "opening": "The station master's cap",
+      "linkId": null,
+      "text": "Tama was given a custom-made cap and a name badge, and she was paid in cat food. Her job was simply to sit at the ticket gate and greet passengers, which she did with great calm."
+    },
+    {
+      "opening": "Tourists on the Kishigawa Line",
+      "linkId": null,
+      "text": "Visitors from across Japan and abroad began riding the line just to see her. Passenger numbers rose, and one economist estimated her fame brought about a billion yen to the local economy."
+    },
+    {
+      "opening": "Promotions up the ranks",
+      "linkId": null,
+      "text": "Tama rose through invented titles, from station master to super station master and eventually an honorary company executive. Few railway staff have been promoted quite so steadily."
+    },
+    {
+      "opening": "The cat-face station",
+      "linkId": null,
+      "text": "In 2010 Kishi station was rebuilt with a roof shaped like a cat's face, with window eyes and pointed ears. Since 2015 the job has belonged to her successor, a calico named Nitama."
+    }
+  ],
+  "tags": [
+    "cats",
+    "japan",
+    "trains",
+    "mascots"
+  ],
+  "related": [
+    "larry-the-cat",
+    "cats-meow-humans",
+    "cat-slow-blink",
+    "longyearbyen-cats",
+    "kit-kat-japan"
+  ]
+}

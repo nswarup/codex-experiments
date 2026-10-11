@@ -1,0 +1,44 @@
+{
+  "id": "hummingbird-torpor",
+  "title": "Hummingbirds power down at night",
+  "category": "Animals",
+  "hook": "Some hummingbirds chill to a few degrees above freezing to get through the night.",
+  "peek": "A hummingbird burns energy so fast that a night without food is a real problem. Its answer is torpor: a deep, cold, slowed-down state that cuts its energy use to a fraction, before it shivers itself warm again at dawn.",
+  "lede": "By day a hummingbird is a tiny engine, its heart beating more than 1,000 times a minute as it hovers from flower to flower. At night it cannot eat, and its small body loses heat quickly. So many hummingbirds switch into torpor: their body temperature drops sharply, their heartbeat slows to a crawl, and they save most of the energy they would otherwise burn.",
+  "bullets": [
+    {
+      "opening": "A heartbeat slowed tenfold",
+      "linkId": null,
+      "text": "In torpor a hummingbird's heart can fall from over 1,000 beats a minute to under 100, and its breathing slows too. Its metabolic rate can drop by more than 90%, stretching a small fuel tank to last until sunrise."
+    },
+    {
+      "opening": "The black metaltail record",
+      "linkId": null,
+      "text": "A 2020 study of hummingbirds in the Andes of Peru found a black metaltail whose body cooled to about 3°C. That is the lowest body temperature ever measured in a bird, from an animal that is usually around 40°C."
+    },
+    {
+      "opening": "Waking up by shivering",
+      "linkId": null,
+      "text": "Coming out of torpor is not instant. The bird shivers its flight muscles to rewarm itself, which can take 20 minutes to an hour, often timed to finish around dawn so it is ready to feed."
+    },
+    {
+      "opening": "Torpor as a choice",
+      "linkId": null,
+      "text": "Hummingbirds do not go torpid every night. Studies suggest a well-fed bird often stays warm, while one with low fat reserves is far more likely to power down, so torpor works like an emergency setting."
+    }
+  ],
+  "tags": [
+    "birds",
+    "sleep",
+    "energy",
+    "animal-bodies"
+  ],
+  "related": [
+    "swifts-airborne",
+    "ducks-one-eye-open",
+    "emperor-penguin-huddle",
+    "birds-chili-heat",
+    "arctic-tern",
+    "segmented-sleep"
+  ]
+}

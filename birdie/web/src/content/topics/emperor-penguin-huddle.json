@@ -1,0 +1,44 @@
+{
+  "id": "emperor-penguin-huddle",
+  "title": "The emperor penguin huddle",
+  "category": "Animals",
+  "hook": "In the Antarctic winter, emperor penguins take turns in the warm middle.",
+  "peek": "Emperor penguin fathers spend the Antarctic winter holding an egg on their feet. They survive the cold by packing together in huddles of thousands that slowly shuffle, so every bird takes turns at the edge and in the centre.",
+  "lede": "Emperor penguins breed in the middle of the Antarctic winter, on sea ice where the air can fall below minus 40 degrees Celsius. Females lay a single egg and leave to feed at sea. Males hold the egg on their feet under a fold of skin for about two months, without eating. They get through it by huddling, in packs that can hold thousands of birds.",
+  "bullets": [
+    {
+      "opening": "Warmth inside the huddle",
+      "linkId": null,
+      "text": "Packed tight, the birds share warmth and block the wind. Measurements have found the air inside a dense huddle can rise above 20 degrees Celsius, warm enough that the birds sometimes need to break up."
+    },
+    {
+      "opening": "Traffic waves in the huddle",
+      "linkId": null,
+      "text": "Studies of filmed huddles show the birds move in small steps every half minute or so. Each tiny shuffle passes through the group like a wave in slow traffic, keeping it tightly packed without crushing the eggs."
+    },
+    {
+      "opening": "Taking turns on the edge",
+      "linkId": null,
+      "text": "Birds on the windy side gradually move along the edge to the sheltered side, and the huddle slowly drifts downwind. Over time, every penguin spends some time on the cold outside and some in the warm middle."
+    },
+    {
+      "opening": "Saving energy for the wait",
+      "linkId": null,
+      "text": "Huddling lets the males save a lot of energy during their long fast. They still lose much of their body weight before the females return around hatching time."
+    }
+  ],
+  "tags": [
+    "cooperation",
+    "antarctica",
+    "penguins",
+    "weather"
+  ],
+  "related": [
+    "penguin-pebbles",
+    "murmurations",
+    "wisdom-albatross",
+    "arctic-tern",
+    "hummingbird-torpor",
+    "ducks-one-eye-open"
+  ]
+}

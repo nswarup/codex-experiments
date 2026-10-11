@@ -1,0 +1,43 @@
+{
+  "id": "chaser-border-collie",
+  "title": "Chaser, the dog who knew 1,000 words",
+  "category": "Animals",
+  "hook": "A border collie learned the names of more than 1,000 toys, one by one.",
+  "peek": "Chaser, a border collie in South Carolina, learned the names of 1,022 toys from her owner, a retired psychology professor. She could even work out that a new word must belong to the one toy she had never heard named.",
+  "lede": "John Pilley was a retired psychology professor in South Carolina when he got a border collie puppy named Chaser in 2004. He started teaching her the names of toys, a few hours a day. Three years later she knew more than 1,000 of them. In 2011 Pilley and a colleague published the results, showing she could fetch any named toy from piles of others.",
+  "bullets": [
+    {
+      "opening": "Testing 1,022 toy names",
+      "linkId": null,
+      "text": "Each toy had its own name, written on it in marker. In tests, Pilley sat out of sight while Chaser fetched toys from another room, so she could not read his face, and she picked the right one nearly every time."
+    },
+    {
+      "opening": "Learning by exclusion",
+      "linkId": null,
+      "text": "When asked for a toy with a name she had never heard, placed among toys she knew, Chaser chose the unfamiliar one. She seemed to reason that a new word went with the new object, a skill young children use too."
+    },
+    {
+      "opening": "Verbs and nouns together",
+      "linkId": null,
+      "text": "Chaser also learned commands like nose, paw and take, and could combine them with any toy name. She treated the action and the object as separate parts of the instruction."
+    },
+    {
+      "opening": "Categories of toys",
+      "linkId": null,
+      "text": "She learned that one toy could have two kinds of label: its own name and a group name such as ball or Frisbee. Asked for a ball, she would bring a ball rather than any other toy."
+    }
+  ],
+  "tags": [
+    "dogs",
+    "animal-minds",
+    "language",
+    "memory"
+  ],
+  "related": [
+    "alex-the-parrot",
+    "clever-hans",
+    "puppy-dog-eyes",
+    "dogs-smell",
+    "pigs-video-games"
+  ]
+}

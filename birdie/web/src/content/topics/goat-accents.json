@@ -1,0 +1,43 @@
+{
+  "id": "goat-accents",
+  "title": "Goats pick up accents",
+  "category": "Animals",
+  "hook": "Young goats raised together start to sound alike, a little like a shared accent.",
+  "peek": "A 2012 study of pygmy goat kids found that youngsters raised in the same group developed bleats that sounded more alike over time. It suggested goat calls are shaped by social life, not fixed from birth.",
+  "lede": "For a long time, scientists assumed that most mammals are born with their calls more or less fixed, unlike songbirds, parrots and people, who learn theirs. In 2012 Elodie Briefer and Alan McElligott at Queen Mary University of London tested this with pygmy goats. They recorded kids as they grew up and compared the sounds of goats in different groups.",
+  "bullets": [
+    {
+      "opening": "Recording pygmy goat kids",
+      "linkId": null,
+      "text": "The researchers recorded the contact calls of young pygmy goats at about one week old and again at about five weeks. By then the kids had spent their early weeks living in small social groups."
+    },
+    {
+      "opening": "Sounding like your group",
+      "linkId": null,
+      "text": "At five weeks, the calls of kids in the same group had become more similar to each other than to kids in other groups. The change was not simply down to family: it tracked who the goats lived with."
+    },
+    {
+      "opening": "Ruling out genes",
+      "linkId": null,
+      "text": "Because the kids included half-siblings spread across groups, the team could compare relatives and non-relatives. Shared social life explained the similarity better than shared ancestry."
+    },
+    {
+      "opening": "Vocal flexibility in mammals",
+      "linkId": null,
+      "text": "The study added goats to a growing list of mammals whose calls can shift with experience. It does not mean goats learn calls the way children learn words, but their voices are more flexible than once thought."
+    }
+  ],
+  "tags": [
+    "goats",
+    "communication",
+    "accents",
+    "animal-minds"
+  ],
+  "related": [
+    "humpback-song-charts",
+    "dolphin-names",
+    "parrotlet-names",
+    "prairie-dog-calls",
+    "cats-meow-humans"
+  ]
+}

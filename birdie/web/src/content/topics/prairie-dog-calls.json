@@ -1,0 +1,43 @@
+{
+  "id": "prairie-dog-calls",
+  "title": "Prairie dogs describe intruders",
+  "category": "Animals",
+  "hook": "Prairie dog alarm calls seem to describe a person's size and shirt colour.",
+  "peek": "Gunnison's prairie dogs give different alarm calls for hawks, coyotes, dogs and people. Studies by Con Slobodchikoff found the calls also vary with a person's size and the colour of their clothes, which some argue makes them a simple language.",
+  "lede": "Prairie dogs live in large colonies of burrows across the grasslands of western North America, and they bark warnings when something approaches. For more than 30 years, biologist Con Slobodchikoff of Northern Arizona University recorded the alarm calls of Gunnison's prairie dogs. He found that the calls are not just a general alarm. They carry information about what is coming.",
+  "bullets": [
+    {
+      "opening": "Different calls per predator",
+      "linkId": null,
+      "text": "The prairie dogs used distinct calls for hawks, coyotes, domestic dogs and humans. Playing back recordings showed the colony reacts differently: a hawk call sends them diving into burrows, while a coyote call has them standing alert at the entrances."
+    },
+    {
+      "opening": "The shirt colour experiment",
+      "linkId": null,
+      "text": "In one study, the same people walked through a colony wearing shirts of different colours. The prairie dogs' calls changed with the colour, and also varied with the person's height and shape."
+    },
+    {
+      "opening": "Calls for new shapes",
+      "linkId": null,
+      "text": "When researchers pulled wooden cut-outs of shapes like circles and triangles across a colony on a line, the prairie dogs gave distinct calls for different shapes they had never seen before."
+    },
+    {
+      "opening": "Is it language?",
+      "linkId": null,
+      "text": "Slobodchikoff argues the calls amount to a simple language with nouns and descriptions. Other researchers are more cautious, but agree the calls carry far more detail than a plain alarm."
+    }
+  ],
+  "tags": [
+    "communication",
+    "animal-minds",
+    "alarm-calls",
+    "grasslands"
+  ],
+  "related": [
+    "dolphin-names",
+    "crows-faces",
+    "goat-accents",
+    "parrotlet-names",
+    "alex-the-parrot"
+  ]
+}

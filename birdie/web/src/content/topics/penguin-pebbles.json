@@ -1,0 +1,43 @@
+{
+  "id": "penguin-pebbles",
+  "title": "Penguins that give pebbles",
+  "category": "Animals",
+  "hook": "Some penguins build nests out of stones, and pick out pebbles for a mate.",
+  "peek": "Gentoo and Adelie penguins build their nests from small stones. A male may bring a chosen pebble to a partner, and good stones are so prized that neighbours often steal them.",
+  "lede": "Gentoo and Adelie penguins breed on rocky coasts around Antarctica, where there are no twigs to build with. Instead, they make nests from small stones piled into a low ring. A male will collect pebbles, and he may present one to his mate. It is easy to call this a proposal, but the stones are mostly practical building material for a shared nest.",
+  "bullets": [
+    {
+      "opening": "Why penguin nests need stones",
+      "linkId": null,
+      "text": "When snow melts in the brief summer, the ground floods. A raised ring of stones keeps the eggs above the icy water, and nests with more stones tend to stay drier."
+    },
+    {
+      "opening": "A pebble presented to a mate",
+      "linkId": null,
+      "text": "In courtship, a male may drop a stone at a female's feet. If she accepts, it goes into the nest. Both partners then keep adding stones throughout the season."
+    },
+    {
+      "opening": "Stealing stones from neighbours",
+      "linkId": null,
+      "text": "Good stones are in short supply, so penguins often sneak pebbles from nearby nests when the owners look away. Some stones probably change hands many times in a season."
+    },
+    {
+      "opening": "The perfect pebble myth",
+      "linkId": null,
+      "text": "Online posts often say a penguin searches the whole beach for one perfect pebble and mates for life. Many pairs do reunite, but the pebble is one of many, and partners sometimes change."
+    }
+  ],
+  "tags": [
+    "courtship",
+    "myths-busted",
+    "antarctica",
+    "penguins"
+  ],
+  "related": [
+    "emperor-penguin-huddle",
+    "bowerbird-collections",
+    "wisdom-albatross",
+    "flamingo-pink",
+    "seahorse-fathers"
+  ]
+}

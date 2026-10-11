@@ -1,0 +1,43 @@
+{
+  "id": "alex-the-parrot",
+  "title": "Alex the grey parrot",
+  "category": "Animals",
+  "hook": "A parrot who learned colours, shapes, numbers and even the idea of none.",
+  "peek": "For about 30 years the scientist Irene Pepperberg worked with Alex, an African grey parrot from a pet shop. He learned to name objects, colours and numbers, and to say none when there was nothing to report.",
+  "lede": "In 1977 Irene Pepperberg bought a young African grey parrot from a Chicago pet shop and named him Alex. Over about 30 years of work together, he learned the names of around 50 objects, several colours and shapes, and numbers up to six. Most surprising, he could answer questions about how things were the same or different, including the answer none.",
+  "bullets": [
+    {
+      "opening": "The model-rival method",
+      "linkId": null,
+      "text": "Pepperberg taught Alex by having two people act out a lesson. One asked about an object and the other answered, earning praise or a mild correction. Alex watched, then joined in as a rival for the object."
+    },
+    {
+      "opening": "Same and different questions",
+      "linkId": null,
+      "text": "Shown two objects, Alex could say whether they shared a colour, shape or material. When asked what was different about two objects that matched in every way, he could answer none."
+    },
+    {
+      "opening": "Counting and zero",
+      "linkId": null,
+      "text": "In a 2005 study, Alex was asked about a number of items that was not present in a display, and on his own he answered none. Researchers saw this as a rough grasp of the idea of zero."
+    },
+    {
+      "opening": "Ruling out cueing",
+      "linkId": "clever-hans",
+      "text": "Critics wondered if Alex, like the horse Clever Hans, read hidden cues. Pepperberg used testers who often did not know the answer, and Alex still scored well, though how much he understood is still debated."
+    }
+  ],
+  "tags": [
+    "animal-minds",
+    "communication",
+    "parrots",
+    "numbers"
+  ],
+  "related": [
+    "clever-hans",
+    "parrotlet-names",
+    "chaser-border-collie",
+    "snowball-cockatoo",
+    "elephant-mirror"
+  ]
+}
