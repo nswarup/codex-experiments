@@ -4,7 +4,7 @@
   "category": "Film",
   "hook": "The swelling THX sound before films was written as computer code, not played.",
   "peek": "The THX Deep Note, the huge chord that fills cinemas before a film, was not performed by anyone. A computer program steered dozens of synthesized voices from a murmur of random pitches into one enormous chord.",
-  "lede": "In 1982 James Andy Moorer, a computer scientist at Lucasfilm, was asked to make a sound for the new THX theatre certification. He wrote a program, which he has put at about 20,000 lines of code, that starts some 30 synthesized voices on random pitches and slowly pulls them together. They finish on a vast chord that settles on the note D.",
+  "lede": "In 1982 James Andy Moorer, a computer scientist at Lucasfilm, was asked to make a sound for the new THX theatre certification. He wrote a short program, a few hundred lines of code by his own later count, that starts some 30 synthesized voices on random pitches and slowly pulls them together. They finish on a vast chord that settles on the note D.",
   "bullets": [
     {
       "opening": "Lucasfilm's Audio Signal Processor",

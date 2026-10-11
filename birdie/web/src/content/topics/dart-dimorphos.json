@@ -3,7 +3,7 @@
   "title": "DART, the asteroid nudge",
   "category": "Space",
   "hook": "In 2022 NASA crashed a spacecraft into an asteroid to see if it would budge.",
-  "peek": "NASA's DART mission flew into a small asteroid called Dimorphos on purpose, to test whether we could shift an asteroid's path. It shortened Dimorphos's orbit by about 32 minutes, far more than the mission needed to count as a success.",
+  "peek": "NASA's DART mission flew into a small asteroid called Dimorphos on purpose, to test whether we could shift an asteroid's path. It shortened Dimorphos's orbit by about 33 minutes, far more than the mission needed to count as a success.",
   "lede": "Dimorphos is a small asteroid, about 160 metres across, that circles a larger one called Didymos. Neither poses any danger to Earth, which made them a safe target. On 26 September 2022 NASA's DART spacecraft, about the size of a vending machine, flew straight into Dimorphos at about 6 km per second. The question was whether the hit would change its orbit.",
   "bullets": [
     {
@@ -12,9 +12,9 @@
       "text": "Dimorphos's trip around Didymos took about 11 hours 55 minutes, and telescopes on Earth could time it by watching the pair dim as one passed the other. A small change in that loop would show clearly."
     },
     {
-      "opening": "The 32-minute change",
+      "opening": "The 33-minute change",
       "linkId": null,
-      "text": "The mission would count as a success if the orbit changed by at least 73 seconds. Measurements showed it had shortened by about 32 minutes, far beyond the goal."
+      "text": "The mission would count as a success if the orbit changed by at least 73 seconds. Measurements showed it had shortened by about 33 minutes, far beyond the goal."
     },
     {
       "opening": "The extra push from debris",
