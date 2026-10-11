@@ -1,0 +1,44 @@
+{
+  "id": "aloha-shirt",
+  "title": "The aloha shirt's kimono roots",
+  "category": "Fashion",
+  "hook": "Hawaii's famous shirt began as Japanese kimono cloth cut to a Western pattern.",
+  "peek": "The bright aloha shirt grew up in 1930s Honolulu, where tailors and shops sewed loose, short-sleeved shirts from colourful Japanese kimono fabric. The name was advertised in 1935, and the shirt went on to become Hawaii's everyday business wear.",
+  "lede": "The aloha shirt looks purely Hawaiian, but its first fabric came from Japan. In 1920s and 1930s Honolulu, tailors, many of them Japanese, sewed short-sleeved, open-collared shirts from bright cotton and silk kimono cloth. Locals and tourists liked them. Several people later claimed to have invented the style, and historians generally say it grew up among many makers rather than one.",
+  "bullets": [
+    {
+      "opening": "Musa-Shiya's 1935 advert",
+      "linkId": null,
+      "text": "The earliest known printed use of the name is a 1935 newspaper advert in Honolulu from Musa-Shiya, a Japanese dry goods shop, offering \"aloha shirts\" ready-made or tailored."
+    },
+    {
+      "opening": "Ellery Chun's trademark",
+      "linkId": null,
+      "text": "Ellery Chun, a Chinese-Hawaiian shopkeeper whose store sold the shirts, registered \"Aloha Shirt\" as a trademark in the 1930s. He let the trademark lapse, and the name became open to everyone."
+    },
+    {
+      "opening": "From kimono cloth to rayon",
+      "linkId": null,
+      "text": "As demand grew, makers moved from kimono fabrics to cloth printed with Hawaiian scenes: hibiscus, surfboards, palms and canoes. Rayon became a favourite in the 1940s and 1950s for its bright colours."
+    },
+    {
+      "opening": "Aloha Friday",
+      "linkId": null,
+      "text": "In the 1960s Hawaii's garment makers campaigned for aloha shirts at work, starting with Fridays. The idea stuck, and an untucked aloha shirt is still accepted business wear across the islands."
+    }
+  ],
+  "tags": [
+    "fashion",
+    "names",
+    "history-of-things",
+    "hawaii"
+  ],
+  "related": [
+    "panama-hat",
+    "paisley-pattern",
+    "hawaiian-pizza-canada",
+    "fortune-cookies",
+    "denim-de-nimes",
+    "hoodie-origin"
+  ]
+}

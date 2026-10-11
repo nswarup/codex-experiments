@@ -1,0 +1,44 @@
+{
+  "id": "nike-waffle-iron",
+  "title": "Nike's waffle iron sole",
+  "category": "Fashion",
+  "hook": "One of Nike's first great shoes began with a ruined family waffle iron.",
+  "peek": "Track coach Bill Bowerman wanted a sole that gripped without metal spikes. Over breakfast in 1971 he looked at his wife's waffle iron, poured liquid rubber into it and invented the studded sole that put Nike on the map.",
+  "lede": "Bill Bowerman coached track at the University of Oregon and was always tinkering with his runners' shoes. In 1971 he wanted a light sole that would grip on grass and dirt without metal spikes. One morning, the story goes, he looked at the grid on his wife Barbara's waffle iron, then poured liquid urethane into it. The iron was ruined, but the pattern worked.",
+  "bullets": [
+    {
+      "opening": "Bill Bowerman",
+      "linkId": null,
+      "text": "Bowerman co-founded the company that became Nike with Phil Knight, a former runner of his, in 1964. He made shoes by hand in his workshop and tested them on his athletes."
+    },
+    {
+      "opening": "The waffle pattern",
+      "linkId": null,
+      "text": "Flipped over, the waffle grid became a sole of small square rubber studs. They dug into soft ground like spikes but stayed comfortable and light on harder surfaces."
+    },
+    {
+      "opening": "The Moon Shoe",
+      "linkId": null,
+      "text": "Early versions of the waffle sole appeared on a handmade racing shoe called the Moon Shoe, worn by some runners at the 1972 US Olympic trials in Eugene, Oregon."
+    },
+    {
+      "opening": "The Waffle Trainer",
+      "linkId": null,
+      "text": "In 1974 Nike released the Waffle Trainer for ordinary customers. It sold strongly in the jogging boom of the 1970s and helped turn a small running company into a major shoe brand."
+    }
+  ],
+  "tags": [
+    "fashion",
+    "shoes",
+    "inventors",
+    "accidents"
+  ],
+  "related": [
+    "chuck-taylor",
+    "crocs-boat-shoe",
+    "left-and-right-shoes",
+    "barleycorn-shoe-sizes",
+    "vulcanized-rubber",
+    "frisbee-pie-tins"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "pandora-dolls",
+  "title": "The fashion dolls that crossed Europe",
+  "category": "Fashion",
+  "hook": "Before fashion magazines, Paris sent out its new styles on dolls.",
+  "peek": "For centuries, the latest Paris fashions travelled as dressed dolls. Called Pandoras, they carried miniature gowns, hairstyles and accessories to queens and dressmakers in London, Vienna and beyond, who copied them full size.",
+  "lede": "Long before photographs or fashion magazines, a dressmaker in London or Vienna had a problem: how to know what Paris was wearing this season. The answer was a doll. Paris sent out figures dressed in exact miniature copies of the newest gowns, with matching hair, hats and underclothes. Known as Pandoras, they were studied, copied and passed on.",
+  "bullets": [
+    {
+      "opening": "Grande and Petite Pandore",
+      "linkId": null,
+      "text": "Paris dressmakers sent two kinds of doll. The Grande Pandore wore full formal dress for court and evening. The Petite Pandore showed the undress of the day: the gowns, wraps and caps worn at home in the morning."
+    },
+    {
+      "opening": "Royal fashion dolls",
+      "linkId": null,
+      "text": "Dolls dressed in French fashions were sent between royal courts as early as the late 1300s. Over time they moved from royal gifts into the hands of milliners and dressmakers, who used them to win customers."
+    },
+    {
+      "opening": "Safe passage in wartime",
+      "linkId": null,
+      "text": "The story goes that in the 1700s the dolls kept crossing the Channel even while Britain and France were at war, with ships letting them through. It is often repeated, but historians treat it as a good tale rather than a proven fact."
+    },
+    {
+      "opening": "Venice's doll in the square",
+      "linkId": null,
+      "text": "In 18th-century Venice, a French fashion doll was put on public show in Piazza San Marco during the Ascension festival, and it set the style for the year ahead."
+    },
+    {
+      "opening": "Replaced by fashion plates",
+      "linkId": null,
+      "text": "By the late 1700s printed fashion plates and early fashion magazines could spread a new look faster and more cheaply. The travelling dolls faded out, though some survive in museums today."
+    }
+  ],
+  "tags": [
+    "fashion",
+    "dolls",
+    "communication",
+    "history-of-things"
+  ],
+  "related": [
+    "little-black-dress",
+    "white-wedding-dress",
+    "pink-for-boys",
+    "womens-pockets",
+    "heels-for-men",
+    "buttons-sides"
+  ]
+}

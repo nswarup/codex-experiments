@@ -1,0 +1,44 @@
+{
+  "id": "gore-tex",
+  "title": "Gore-Tex and the yanked rod",
+  "category": "Fashion",
+  "hook": "The waterproof fabric was found when a frustrated inventor yanked a hot rod.",
+  "peek": "In 1969 an engineer in Delaware was trying to stretch rods of PTFE, the plastic sold as Teflon. Pulled slowly, they snapped. Pulled hard and fast, they stretched many times their length into a light, porous material that became a waterproof, breathable fabric.",
+  "lede": "In 1969 Bob, the son of a Delaware couple who ran a small plastics company, was trying to stretch heated rods of PTFE, the slippery plastic sold as Teflon. Pulled slowly and carefully, the rods kept breaking. In frustration he gave one a sudden, hard yank. It stretched to many times its length without snapping, into a strong, airy material full of tiny holes.",
+  "bullets": [
+    {
+      "opening": "Expanded PTFE",
+      "linkId": null,
+      "text": "The fast stretch pulls the plastic into a web of fine fibres with countless microscopic pores between them. The family company called the new material expanded PTFE and patented it in the 1970s."
+    },
+    {
+      "opening": "How the membrane breathes",
+      "linkId": null,
+      "text": "The pores are far too small for liquid water droplets to pass through, but much bigger than single molecules of water vapour. So rain stays out while the sweat vapour from a warm body can still escape."
+    },
+    {
+      "opening": "Bonding membrane to fabric",
+      "linkId": null,
+      "text": "On its own the membrane is thin and delicate. The finished fabric sandwiches it between layers of ordinary cloth, and the first jackets and tents using it came out in the late 1970s."
+    },
+    {
+      "opening": "A basement family firm",
+      "linkId": null,
+      "text": "The company was started in 1958 by Bill and Vieve, Bob's parents, in the basement of their Delaware home. Bill had left the chemical giant DuPont to find new uses for PTFE, and the rod Bob yanked was part of that search."
+    }
+  ],
+  "tags": [
+    "fashion",
+    "accidents",
+    "materials",
+    "inventors"
+  ],
+  "related": [
+    "teflon",
+    "nylon-stockings",
+    "mackintosh-raincoat",
+    "spandex-anagram",
+    "vulcanized-rubber",
+    "velcro"
+  ]
+}
