@@ -1,0 +1,43 @@
+{
+  "id": "chappe-telegraph-hack",
+  "title": "The 1834 telegraph hack",
+  "category": "History",
+  "hook": "Two bankers secretly hid stock tips in France's government telegraph.",
+  "peek": "In the 1830s, twin brothers in Bordeaux bribed operators of France's semaphore telegraph to slip market news into official signals. They profited for about two years, and the scheme is often called the first network hack.",
+  "lede": "In the 1830s France had the world's most advanced communication network: chains of towers with movable wooden arms, the Chappe semaphore telegraph, relaying signals across the country in hours. It carried only government messages. Twin brothers François and Joseph Blanc, bankers trading government bonds in Bordeaux, wanted to know how the Paris market had moved before the mail coach arrived.",
+  "bullets": [
+    {
+      "opening": "The deliberate errors trick",
+      "linkId": null,
+      "text": "The Blancs bribed an operator near Tours. Tipped off from Paris, he added an extra symbol to official messages, followed by the signal meaning error. Operators passed it along, an accomplice near Bordeaux read it, and the error was dropped before the message was delivered."
+    },
+    {
+      "opening": "How the semaphore worked",
+      "linkId": null,
+      "text": "Each Chappe tower had a crossbar and two smaller arms that could be set in many positions, each standing for a code. Operators watched the next tower through a telescope and copied its signal."
+    },
+    {
+      "opening": "Caught in 1836",
+      "linkId": null,
+      "text": "The scheme ran from 1834 to 1836, until an operator who had joined it confessed. The brothers were tried in 1837, but there was no law against misusing the telegraph, and they escaped punishment for it."
+    },
+    {
+      "opening": "The 1837 telegraph law",
+      "linkId": null,
+      "text": "The case pushed France to pass a law in 1837 making unauthorised use of the telegraph a crime. Historians and writers now often point to the affair as the first known hack of a data network."
+    }
+  ],
+  "tags": [
+    "communication",
+    "codes",
+    "history-of-things",
+    "money"
+  ],
+  "related": [
+    "transatlantic-cable-1858",
+    "paris-pneumatic-post",
+    "pony-express",
+    "lloyds-coffee-house",
+    "tulip-mania"
+  ]
+}

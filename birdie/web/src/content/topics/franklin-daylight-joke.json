@@ -1,0 +1,43 @@
+{
+  "id": "franklin-daylight-joke",
+  "title": "Benjamin Franklin's daylight joke",
+  "category": "History",
+  "hook": "Franklin suggested waking Paris with cannon fire to save on candles.",
+  "peek": "In 1784 Benjamin Franklin wrote a mock-serious letter to a Paris newspaper about his discovery that the sun rises early. His cure for late sleepers involved church bells and cannons, and it is often mistaken for the invention of daylight saving time.",
+  "lede": "In 1784 Benjamin Franklin, then the American envoy in Paris, sent a playful letter to the Journal de Paris. He claimed to have been woken at six one morning and found, to his astonishment, that the sun was already up. Parisians, he reasoned, were sleeping through free daylight and then burning candles late into the night.",
+  "bullets": [
+    {
+      "opening": "An Economical Project",
+      "linkId": null,
+      "text": "The letter is now known as An Economical Project. Franklin solemnly worked out how many candles the city could save over the summer half of the year, arriving at a huge figure in pounds of wax and tallow."
+    },
+    {
+      "opening": "Cannons at sunrise",
+      "linkId": null,
+      "text": "His remedies were the joke. He proposed a tax on window shutters, rationing candles, and ringing every church bell at dawn. If that failed, cannons should be fired in the streets to wake the sluggards."
+    },
+    {
+      "opening": "Not daylight saving time",
+      "linkId": null,
+      "text": "Franklin is often called the father of daylight saving time, but he never suggested changing the clocks. He wanted people to change their habits. The idea of shifting clock time came much later, from George Vernon Hudson in 1895 and William Willett in 1907."
+    },
+    {
+      "opening": "Franklin's French humour",
+      "linkId": null,
+      "text": "Franklin was a celebrity in Paris and enjoyed writing short comic pieces for his friends there. This one was printed anonymously, signed only as a subscriber, though readers soon guessed who had written it."
+    }
+  ],
+  "tags": [
+    "time",
+    "myths-busted",
+    "light",
+    "inventors"
+  ],
+  "related": [
+    "franklin-oil-pond",
+    "glass-armonica",
+    "segmented-sleep",
+    "day-of-two-noons",
+    "spaghetti-harvest"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "tudor-ice-trade",
+  "title": "Frederic Tudor, the Ice King",
+  "category": "History",
+  "hook": "A Boston merchant got rich shipping frozen pond water to the tropics.",
+  "peek": "In the early 1800s Frederic Tudor was laughed at for trying to sell New England ice in the Caribbean. He lost money for years, then built a trade that carried blocks of frozen pond water all the way to India.",
+  "lede": "In 1806 a young Boston merchant called Frederic Tudor sent a ship loaded with ice to the island of Martinique. People thought he was mad, and the venture lost money, as much of the cargo melted and few locals knew what to do with it. Tudor kept going. Within a few decades he was known as the Ice King.",
+  "bullets": [
+    {
+      "opening": "Sawdust insulation",
+      "linkId": null,
+      "text": "Tudor experimented for years with ways to stop the ice melting. Packing the blocks tightly in sawdust, a cheap waste product of New England sawmills, worked best, and insulated ice houses at each port kept the stock frozen."
+    },
+    {
+      "opening": "Nathaniel Wyeth's ice plough",
+      "linkId": null,
+      "text": "His supplier Nathaniel Wyeth invented a horse-drawn cutter that scored ponds into a grid. It produced neat, uniform blocks that stacked closely in a ship's hold, which meant less air and much less melting."
+    },
+    {
+      "opening": "The voyage to Calcutta",
+      "linkId": null,
+      "text": "In 1833 a ship carrying Tudor's ice sailed for Calcutta, a journey of about four months that crossed the equator twice. Much of the ice survived the trip, and India became one of his most profitable markets."
+    },
+    {
+      "opening": "Selling cold drinks",
+      "linkId": null,
+      "text": "Few people in hot ports had ever wanted ice, so Tudor created the demand. He gave away chilled drinks and showed bar owners how to use ice, betting that customers would soon refuse warm ones."
+    },
+    {
+      "opening": "Thoreau and Walden ice",
+      "linkId": null,
+      "text": "Ice for the trade was cut from Walden Pond in the winter of 1846 to 1847. Henry David Thoreau watched the workers and wrote that the people of Madras, Bombay and Calcutta were drinking at his well."
+    }
+  ],
+  "tags": [
+    "history-of-things",
+    "food-history",
+    "inventors",
+    "trade"
+  ],
+  "related": [
+    "why-ice-is-slippery",
+    "nutmeg-manhattan",
+    "tulip-mania",
+    "lloyds-coffee-house",
+    "parmesan-bank"
+  ]
+}

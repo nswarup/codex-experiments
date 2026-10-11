@@ -1,0 +1,43 @@
+{
+  "id": "samoa-skips-a-day",
+  "title": "The day Samoa skipped",
+  "category": "History",
+  "hook": "In 2011 Samoa went to bed on a Thursday and woke up on a Saturday.",
+  "peek": "At midnight on 29 December 2011, Samoa jumped across the International Date Line. Friday 30 December never happened there, and a country that had been among the last to see each day became one of the first.",
+  "lede": "For about 120 years Samoa kept time on the American side of the International Date Line, sharing its calendar day with Hawaii and California. Then, at the end of Thursday 29 December 2011, the country moved to the other side. The next day was Saturday 31 December. Friday 30 December 2011 simply does not exist in Samoan history.",
+  "bullets": [
+    {
+      "opening": "Trade with Australia",
+      "linkId": null,
+      "text": "The reason was business. Samoa's biggest partners had become Australia and New Zealand, and being nearly a full day behind them meant only four shared working days a week. Moving the date gave Samoa the same weekdays as its neighbours."
+    },
+    {
+      "opening": "The 1892 double day",
+      "linkId": null,
+      "text": "The jump undid an earlier switch. In 1892, with American traders important to the islands, Samoa moved east of the line and repeated a day to do it. Monday 4 July 1892 happened twice."
+    },
+    {
+      "opening": "Paid for a missing Friday",
+      "linkId": null,
+      "text": "The government said workers would be paid for the day that never came, and people with birthdays on 30 December had to wait a year. Neighbouring Tokelau skipped the same day."
+    },
+    {
+      "opening": "Next door to American Samoa",
+      "linkId": null,
+      "text": "American Samoa, a short flight away, stayed where it was. The two Samoas now sit close to a full day apart, so a hop between them can land you on the previous day."
+    }
+  ],
+  "tags": [
+    "time",
+    "calendars",
+    "borders",
+    "date-line"
+  ],
+  "related": [
+    "kiribati-date-line",
+    "eleven-days-1752",
+    "swedish-february-30",
+    "day-of-two-noons",
+    "dagen-h"
+  ]
+}

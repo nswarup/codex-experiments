@@ -1,0 +1,43 @@
+{
+  "id": "jiaozi-paper-money",
+  "title": "The first paper money",
+  "category": "History",
+  "hook": "China was printing paper money about 600 years before Europe.",
+  "peek": "In 11th-century China, merchants in Sichuan grew tired of hauling heavy iron coins and began trading paper receipts instead. The Song government soon took over, and the world's first official paper money was born, centuries before European banknotes.",
+  "lede": "In Sichuan, in south-west China, the everyday coins of the 10th century were made of iron. They were worth so little that a modest purchase needed a heavy load of them. Merchants began leaving coins with trusted deposit shops in exchange for paper notes called jiaozi. In 1023 the Song government took over issuing them, creating the first government paper money.",
+  "bullets": [
+    {
+      "opening": "Sichuan's iron coins",
+      "linkId": null,
+      "text": "Sichuan used iron coins partly because the region was short of copper. Iron coins were bulky and low in value, so carrying enough for a big trade was hard work. Paper that stood for the coins solved the problem."
+    },
+    {
+      "opening": "The Song printing presses",
+      "linkId": null,
+      "text": "Song officials printed the notes from carved plates, in several colours, with detailed designs and seals that were hard to copy. Early notes were valid for a set period and then exchanged for fresh ones."
+    },
+    {
+      "opening": "Printing too much",
+      "linkId": null,
+      "text": "Governments soon found it tempting to print more notes than they could back. Over time the value of paper money fell in Song and later dynasties, an early lesson in what we now call inflation."
+    },
+    {
+      "opening": "Marco Polo's astonishment",
+      "linkId": null,
+      "text": "The famous European report came later. In the late 13th century Marco Polo described the paper money of Kublai Khan's Yuan dynasty, made from mulberry bark, and was amazed that people accepted it like gold. Europe's first banknotes followed in Sweden in 1661."
+    }
+  ],
+  "tags": [
+    "money",
+    "history-of-things",
+    "inventors",
+    "trade"
+  ],
+  "related": [
+    "rai-stones",
+    "penny-black",
+    "emperor-norton",
+    "tulip-mania",
+    "bitcoin-pizza-day"
+  ]
+}

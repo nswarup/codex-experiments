@@ -1,0 +1,44 @@
+{
+  "id": "transatlantic-cable-1858",
+  "title": "The first transatlantic cable",
+  "category": "History",
+  "hook": "Queen Victoria's 98-word message across the Atlantic took about 16 hours.",
+  "peek": "In 1858 a telegraph cable finally joined Ireland to Newfoundland, and the two sides of the Atlantic went wild with joy. Sending a single royal greeting took most of a day, and within a month the cable had gone silent.",
+  "lede": "Before 1858, news between Europe and America crossed the ocean by ship and took about ten days. That August, a telegraph cable laid along the seabed from Ireland to Newfoundland began to work. Queen Victoria sent a greeting of 98 words to President James Buchanan. The signal was so faint that the message took roughly 16 hours to get through.",
+  "bullets": [
+    {
+      "opening": "Splicing in mid-ocean",
+      "linkId": null,
+      "text": "No ship of the time could carry the whole cable, so two warships, HMS Agamemnon and USS Niagara, each took half. They met in the middle of the Atlantic, joined the ends and steamed away in opposite directions."
+    },
+    {
+      "opening": "Whitehouse's high voltage",
+      "linkId": null,
+      "text": "The signals were painfully weak. The company's electrician, Wildman Whitehouse, tried to push them through with very high voltages, and the cable's insulation gave way. After about three weeks it stopped working altogether."
+    },
+    {
+      "opening": "William Thomson's galvanometer",
+      "linkId": null,
+      "text": "The physicist William Thomson, later Lord Kelvin, had argued for gentle currents and a delicate detector. His mirror galvanometer read faint signals as a tiny moving spot of light, and his approach shaped every cable that followed."
+    },
+    {
+      "opening": "Tiffany's souvenir cable",
+      "linkId": null,
+      "text": "Leftover cable was bought by Tiffany & Co., which cut it into short lengths and sold them as keepsakes. A lasting connection only came in 1866, when the giant steamship Great Eastern laid a new, better cable."
+    }
+  ],
+  "tags": [
+    "communication",
+    "inventors",
+    "history-of-things",
+    "time"
+  ],
+  "related": [
+    "chappe-telegraph-hack",
+    "pony-express",
+    "pigeon-vs-broadband",
+    "fax-before-telephone",
+    "paris-pneumatic-post",
+    "harrison-clocks"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "stonehenge-bluestones",
+  "title": "Stonehenge's travelling bluestones",
+  "category": "History",
+  "hook": "Stonehenge's smaller stones came about 150 miles from the hills of Wales.",
+  "peek": "The giant sarsens at Stonehenge are local, but the smaller bluestones were brought from the Preseli Hills in west Wales, about 150 miles away. Geologists have even found the outcrops they were quarried from, and the central Altar Stone came from Scotland.",
+  "lede": "Stonehenge has two kinds of stone. The huge sarsens came from about 15 miles away. The smaller bluestones, each weighing a few tonnes, are a different rock entirely, and they match outcrops in the Preseli Hills of Pembrokeshire, in west Wales. Some 5,000 years ago, people moved them about 150 miles to Salisbury Plain.",
+  "bullets": [
+    {
+      "opening": "Herbert Thomas's 1923 match",
+      "linkId": null,
+      "text": "In 1923 the geologist Herbert Thomas showed that the bluestones' spotted dolerite and other rocks matched those of the Preseli Hills. Later chemical tests have narrowed the sources to particular outcrops."
+    },
+    {
+      "opening": "The Preseli quarries",
+      "linkId": null,
+      "text": "Excavations at outcrops such as Carn Goedog and Craig Rhos-y-felin found stone wedges, platforms and hollows where pillars had been prised from the rock, dated to around the time Stonehenge was begun."
+    },
+    {
+      "opening": "Glaciers or people",
+      "linkId": null,
+      "text": "A minority of geologists have argued that ice sheets carried the stones most of the way. Most archaeologists now think people moved them, probably on wooden sledges, since no similar stones are found scattered across the land between."
+    },
+    {
+      "opening": "The Altar Stone from Scotland",
+      "linkId": null,
+      "text": "The largest stone of this group, the six-tonne Altar Stone, was long thought to be Welsh too. In 2024 a study matched it to rocks in north-east Scotland, more than 400 miles away, which makes its journey even longer."
+    }
+  ],
+  "tags": [
+    "architecture",
+    "geology",
+    "prehistory",
+    "mysteries"
+  ],
+  "related": [
+    "gobekli-tepe",
+    "diary-of-merer",
+    "ailsa-craig-curling-stones",
+    "racetrack-sailing-stones",
+    "cleopatra-timeline"
+  ]
+}

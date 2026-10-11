@@ -1,0 +1,44 @@
+{
+  "id": "waldseemuller-map",
+  "title": "The map that named America",
+  "category": "History",
+  "hook": "A single surviving 1507 map is the first to use the name America.",
+  "peek": "In 1507 a German mapmaker printed a huge world map and wrote the word America across a new continent, after the explorer Amerigo Vespucci. Only one copy survives, and the Library of Congress paid $10 million for it.",
+  "lede": "In 1507, in the small town of Saint-Dié in eastern France, the mapmaker Martin Waldseemüller published a large world map. On the lands across the Atlantic he wrote a new word: America. It honoured Amerigo Vespucci, whose widely read accounts argued that these lands were a new continent rather than part of Asia. The name stuck, and the map is its birth certificate.",
+  "bullets": [
+    {
+      "opening": "Amerigo Vespucci's new world",
+      "linkId": null,
+      "text": "Waldseemüller and his colleague Matthias Ringmann explained the choice in a companion book. Since Europe, Asia and Africa had women's names, they gave the new continent a form of Amerigo's. The label sits on what is now South America."
+    },
+    {
+      "opening": "The copy at Wolfegg Castle",
+      "linkId": null,
+      "text": "About 1,000 copies were printed from 12 woodblocks, but only one is known to survive. It turned up in 1901 in the library of Wolfegg Castle in southern Germany, bound into a volume collected by a 16th-century scholar."
+    },
+    {
+      "opening": "The $10 million purchase",
+      "linkId": null,
+      "text": "The Library of Congress agreed to buy the map from its German owners and completed the purchase in 2003 for $10 million. Its 12 sheets have been on display in Washington since 2007."
+    },
+    {
+      "opening": "Waldseemüller's change of mind",
+      "linkId": null,
+      "text": "Later maps by Waldseemüller dropped the name America, but it had already spread. In 1538 Gerardus Mercator used it for both the northern and southern continents, which settled the matter."
+    }
+  ],
+  "tags": [
+    "maps",
+    "names",
+    "history-of-things",
+    "records"
+  ],
+  "related": [
+    "mountains-of-kong",
+    "agloe-new-york",
+    "spilsbury-jigsaw",
+    "treasure-island-map",
+    "null-island",
+    "flat-earth-myth"
+  ]
+}

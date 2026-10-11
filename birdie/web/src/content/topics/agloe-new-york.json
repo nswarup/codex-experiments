@@ -1,0 +1,43 @@
+{
+  "id": "agloe-new-york",
+  "title": "Agloe, the fake town that became real",
+  "category": "History",
+  "hook": "A town invented to catch map copiers ended up with a real shop.",
+  "peek": "In the 1930s two mapmakers put a made-up hamlet called Agloe on a road map of New York State, as a trap for copiers. Years later a general store opened at the empty crossroads and took the name from the map.",
+  "lede": "In the 1930s Otto G. Lindberg and Ernest Alpers of the General Drafting Company made a road map of New York State. At a dirt-road junction in the Catskills they added a town that did not exist, called Agloe, a jumble of their initials. If Agloe ever appeared on a rival's map, they would know it had been copied.",
+  "bullets": [
+    {
+      "opening": "The Agloe General Store",
+      "linkId": null,
+      "text": "Years later someone opened a shop at the junction. Seeing Agloe on the maps, the owners named it the Agloe General Store. The place that had been invented as a trap now had a real business carrying its name."
+    },
+    {
+      "opening": "The Rand McNally dispute",
+      "linkId": null,
+      "text": "As the story is usually told, Agloe later appeared on a Rand McNally map, and General Drafting cried foul. The defence was that Agloe was now a real place, because the county recognised it. The details of the dispute are hard to confirm."
+    },
+    {
+      "opening": "Copyright trap towns",
+      "linkId": null,
+      "text": "Fake places like Agloe are called paper towns or trap streets. Since copying a map of real roads is hard to prove, a harmless invention gives mapmakers a fingerprint. Dictionaries use made-up words for the same reason."
+    },
+    {
+      "opening": "Paper Towns and Google Maps",
+      "linkId": null,
+      "text": "The store eventually closed and the site is empty again. Agloe became famous through John Green's 2008 novel Paper Towns, and for a while it even appeared on Google Maps."
+    }
+  ],
+  "tags": [
+    "maps",
+    "copyright",
+    "myths-busted",
+    "names"
+  ],
+  "related": [
+    "esquivalience",
+    "mountains-of-kong",
+    "null-island",
+    "waldseemuller-map",
+    "treasure-island-map"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "sears-mail-order-houses",
+  "title": "Houses sold by mail order",
+  "category": "History",
+  "hook": "Sears once sold whole houses from its catalogue, delivered by train.",
+  "peek": "From 1908 to 1940, Americans could pick a house from the Sears catalogue and have it arrive by rail as tens of thousands of numbered parts. Around 70,000 were sold, and many owners today have no idea their home came by mail.",
+  "lede": "Sears, Roebuck and Co. already sold almost everything by post, from clothes to farm tools. In 1908 it added houses. Customers chose a design from a Modern Homes catalogue, sent off an order, and a few weeks later a railway boxcar arrived carrying every piece of the house. Over about 30 years Sears sold roughly 70,000 of them.",
+  "bullets": [
+    {
+      "opening": "The numbered lumber",
+      "linkId": null,
+      "text": "Each kit held thousands of pieces, from framing timber to nails, doors and paint. The wood came pre-cut and stamped with numbers, and a thick instruction book showed which numbered part went where."
+    },
+    {
+      "opening": "The Modern Homes catalogue",
+      "linkId": null,
+      "text": "Buyers could choose from hundreds of designs over the years, from small cottages to large family houses, each with a model name. Sears also let customers adapt plans, and many reversed the layout to suit their plot."
+    },
+    {
+      "opening": "Building it yourself",
+      "linkId": null,
+      "text": "Many owners built the houses themselves with help from family and neighbours, while others hired a local builder. The pre-cut parts saved a lot of sawing and measuring, which made a sturdy house within reach of ordinary buyers."
+    },
+    {
+      "opening": "Identifying Sears houses",
+      "linkId": null,
+      "text": "Sears kept few records of where its houses went, so enthusiasts now hunt for them. Stamped numbers on beams in attics and basements, or shipping labels on the back of trim, often give a house away."
+    }
+  ],
+  "tags": [
+    "architecture",
+    "history-of-things",
+    "design",
+    "mail"
+  ],
+  "related": [
+    "ikea-flat-pack",
+    "parcel-post-children",
+    "tupperware-parties",
+    "shopping-cart",
+    "ikea-effect"
+  ]
+}

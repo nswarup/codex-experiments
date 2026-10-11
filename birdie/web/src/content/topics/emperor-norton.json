@@ -1,0 +1,43 @@
+{
+  "id": "emperor-norton",
+  "title": "Emperor Norton of San Francisco",
+  "category": "History",
+  "hook": "A broke San Franciscan named himself emperor, and the city played along.",
+  "peek": "In 1859 Joshua Norton, a businessman who had lost his fortune, declared himself Emperor of the United States. For two decades San Francisco humoured him, feeding him, saluting him and even accepting the banknotes he printed.",
+  "lede": "Joshua Norton arrived in San Francisco around 1849 and did well in business, until a failed attempt to corner the city's rice market left him bankrupt. In September 1859 he sent a letter to the San Francisco Bulletin proclaiming himself Emperor of these United States. The paper printed it, and the city decided, more or less, to go along with it.",
+  "bullets": [
+    {
+      "opening": "Norton's imperial banknotes",
+      "linkId": null,
+      "text": "Norton had his own notes printed, promising small sums with interest and signed by the emperor. Some local restaurants and shops accepted them, and surviving examples now sell to collectors for far more than their face value."
+    },
+    {
+      "opening": "The emperor's uniform",
+      "linkId": null,
+      "text": "Norton walked the streets in a blue military-style uniform with a sword and a plumed hat, inspecting pavements, streetcars and building work. When his uniform wore out, the city's Board of Supervisors paid for a new one."
+    },
+    {
+      "opening": "Decree for a bay bridge",
+      "linkId": null,
+      "text": "In 1872 Norton issued decrees calling for a bridge across the bay between San Francisco and Oakland. The Bay Bridge finally opened in 1936, and fans have campaigned to add his name to it."
+    },
+    {
+      "opening": "Fake imperial proclamations",
+      "linkId": null,
+      "text": "Not every decree was his. Local newspapers sometimes printed made-up proclamations in Norton's name for a laugh, so historians treat some of his most famous orders with caution."
+    }
+  ],
+  "tags": [
+    "eccentrics",
+    "money",
+    "cities",
+    "hoaxes"
+  ],
+  "related": [
+    "hay-on-wye-king",
+    "jiaozi-paper-money",
+    "great-moon-hoax",
+    "beard-tax",
+    "spaghetti-harvest"
+  ]
+}

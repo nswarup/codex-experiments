@@ -1,0 +1,43 @@
+{
+  "id": "soviet-continuous-week",
+  "title": "The Soviet five-day week",
+  "category": "History",
+  "hook": "For a decade the Soviet Union tried to get rid of the shared weekend.",
+  "peek": "In 1929 the Soviet Union replaced the seven-day week with a five-day cycle. Workers were split into colour-coded groups with staggered days off, so factories never stopped. Families often found they no longer had a day off together.",
+  "lede": "In the autumn of 1929 the Soviet Union introduced the nepreryvka, or continuous working week. The week shrank to five days, and the common day of rest disappeared. Each worker was put into one of five groups, each with its own colour and its own rest day, so that on any given day a fifth of the workforce was off and the factories never closed.",
+  "bullets": [
+    {
+      "opening": "The colour-coded rest days",
+      "linkId": null,
+      "text": "Each of the five groups had a colour, and calendars of the time showed every day marked with the colour of the group that had it off. Schedules were often recorded by colour, which led to the name 'the coloured week'."
+    },
+    {
+      "opening": "Families on different days",
+      "linkId": null,
+      "text": "The flaw was social. A husband and wife could be assigned different colours, so their days off never lined up. Many people complained that they rarely saw relatives or friends, and some factories struggled with machines running nonstop."
+    },
+    {
+      "opening": "The six-day week of 1931",
+      "linkId": null,
+      "text": "From 1931 most workers moved to a six-day week with a shared rest day on the 6th, 12th, 18th, 24th and 30th of each month. The weekday names fell out of everyday use."
+    },
+    {
+      "opening": "Return of the seven-day week",
+      "linkId": null,
+      "text": "In June 1940 the Soviet Union went back to the ordinary seven-day week with Sunday as the common day off, ending the experiment after about a decade."
+    }
+  ],
+  "tags": [
+    "calendars",
+    "time",
+    "work",
+    "history-of-things"
+  ],
+  "related": [
+    "french-republican-calendar",
+    "september-seventh-month",
+    "swedish-february-30",
+    "year-of-confusion",
+    "tetris-origin"
+  ]
+}

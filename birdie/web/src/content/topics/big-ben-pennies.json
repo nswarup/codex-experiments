@@ -1,0 +1,43 @@
+{
+  "id": "big-ben-pennies",
+  "title": "The pennies that keep Big Ben on time",
+  "category": "History",
+  "hook": "London's most famous clock is fine-tuned with a small stack of old pennies.",
+  "peek": "The Great Clock of Westminster has a 300 kg pendulum, and its keepers adjust it by adding or removing old pre-decimal pennies. Each coin makes the clock gain about two-fifths of a second a day.",
+  "lede": "The Great Clock in the Elizabeth Tower, better known by the name of its bell, Big Ben, began keeping time in 1859. Its pendulum is about 3.9 metres long, weighs about 300 kilograms and swings once every two seconds. When the clock drifts, the keepers do not touch the gears. They reach for a stack of old pennies.",
+  "bullets": [
+    {
+      "opening": "How one penny works",
+      "linkId": null,
+      "text": "The coins sit on a small tray near the top of the pendulum. Adding weight there raises the pendulum's centre of mass, which makes it swing slightly faster. One old penny makes the clock gain about 0.4 seconds in a day."
+    },
+    {
+      "opening": "Old pre-decimal pennies",
+      "linkId": null,
+      "text": "The coins used are pre-decimal pennies, from before Britain changed its money in 1971. They are large and heavy, and a few at a time is enough to correct the drift caused by changes in temperature and air."
+    },
+    {
+      "opening": "The gravity escapement",
+      "linkId": null,
+      "text": "The clock was designed by the barrister and amateur clockmaker Edmund Beckett Denison. His double three-legged gravity escapement shields the pendulum from the pull of wind and snow on the huge outdoor hands, which made the accuracy possible."
+    },
+    {
+      "opening": "Big Ben is the bell",
+      "linkId": null,
+      "text": "Strictly, Big Ben is the name of the great bell, not the clock or the tower. The tower was called the Clock Tower until 2012, when it was renamed the Elizabeth Tower."
+    }
+  ],
+  "tags": [
+    "time",
+    "clocks",
+    "london",
+    "history-of-things"
+  ],
+  "related": [
+    "harrison-clocks",
+    "foucault-pendulum",
+    "ruth-belville",
+    "day-of-two-noons",
+    "hafele-keating"
+  ]
+}

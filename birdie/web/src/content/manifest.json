@@ -2808,5 +2808,125 @@
   "id": "speak-and-spell",
   "title": "The Speak & Spell",
   "category": "Games"
+ },
+ {
+  "id": "transatlantic-cable-1858",
+  "title": "The first transatlantic cable",
+  "category": "History"
+ },
+ {
+  "id": "franklin-daylight-joke",
+  "title": "Benjamin Franklin's daylight joke",
+  "category": "History"
+ },
+ {
+  "id": "tudor-ice-trade",
+  "title": "Frederic Tudor, the Ice King",
+  "category": "History"
+ },
+ {
+  "id": "sears-mail-order-houses",
+  "title": "Houses sold by mail order",
+  "category": "History"
+ },
+ {
+  "id": "parcel-post-children",
+  "title": "Children sent by parcel post",
+  "category": "History"
+ },
+ {
+  "id": "stonehenge-bluestones",
+  "title": "Stonehenge's travelling bluestones",
+  "category": "History"
+ },
+ {
+  "id": "gobekli-tepe",
+  "title": "Göbekli Tepe",
+  "category": "History"
+ },
+ {
+  "id": "jiaozi-paper-money",
+  "title": "The first paper money",
+  "category": "History"
+ },
+ {
+  "id": "rai-stones",
+  "title": "The stone money of Yap",
+  "category": "History"
+ },
+ {
+  "id": "emperor-norton",
+  "title": "Emperor Norton of San Francisco",
+  "category": "History"
+ },
+ {
+  "id": "pony-express",
+  "title": "The Pony Express lasted 18 months",
+  "category": "History"
+ },
+ {
+  "id": "dagen-h",
+  "title": "Dagen H, when Sweden switched sides",
+  "category": "History"
+ },
+ {
+  "id": "samoa-skips-a-day",
+  "title": "The day Samoa skipped",
+  "category": "History"
+ },
+ {
+  "id": "soviet-continuous-week",
+  "title": "The Soviet five-day week",
+  "category": "History"
+ },
+ {
+  "id": "september-seventh-month",
+  "title": "Why September is the ninth month",
+  "category": "History"
+ },
+ {
+  "id": "big-ben-pennies",
+  "title": "The pennies that keep Big Ben on time",
+  "category": "History"
+ },
+ {
+  "id": "ruth-belville",
+  "title": "Ruth Belville, the woman who sold time",
+  "category": "History"
+ },
+ {
+  "id": "boulevard-du-temple",
+  "title": "The first photo of a person",
+  "category": "History"
+ },
+ {
+  "id": "spaghetti-harvest",
+  "title": "The spaghetti harvest hoax",
+  "category": "History"
+ },
+ {
+  "id": "waldseemuller-map",
+  "title": "The map that named America",
+  "category": "History"
+ },
+ {
+  "id": "agloe-new-york",
+  "title": "Agloe, the fake town that became real",
+  "category": "History"
+ },
+ {
+  "id": "tower-of-london-ravens",
+  "title": "The Tower of London's ravens",
+  "category": "History"
+ },
+ {
+  "id": "hollerith-census",
+  "title": "Hollerith's punch-card census",
+  "category": "History"
+ },
+ {
+  "id": "chappe-telegraph-hack",
+  "title": "The 1834 telegraph hack",
+  "category": "History"
  }
 ]

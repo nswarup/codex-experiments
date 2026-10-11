@@ -1,0 +1,43 @@
+{
+  "id": "boulevard-du-temple",
+  "title": "The first photo of a person",
+  "category": "History",
+  "hook": "A busy Paris street looks empty in this 1838 photo, apart from one man.",
+  "peek": "In 1838 Louis Daguerre photographed a busy boulevard in Paris. The exposure took minutes, so moving traffic and walkers left no trace. Only a man who stood still to have his boots polished stayed long enough to be recorded.",
+  "lede": "In 1838 Louis Daguerre pointed his camera out of a window at the Boulevard du Temple, one of the busiest streets in Paris. The resulting daguerreotype shows trees, rooftops and an apparently deserted road. The street was in fact full of people and carriages. They were moving, and the exposure lasted several minutes, so they never registered.",
+  "bullets": [
+    {
+      "opening": "The several-minute exposure",
+      "linkId": null,
+      "text": "Early daguerreotypes needed minutes of light, not fractions of a second. Anything that moved during that time blurred to nothing, which is why a crowded boulevard came out looking like an empty one."
+    },
+    {
+      "opening": "The man having his boots polished",
+      "linkId": null,
+      "text": "In the lower left, a man stands with one foot raised, apparently having his boots shined. He held still long enough to appear, and he is generally considered the earliest person ever photographed. The bootblack shows up as a faint blur."
+    },
+    {
+      "opening": "Daguerre's Diorama window",
+      "linkId": null,
+      "text": "Daguerre ran the Diorama, a popular Paris theatre of painted illusions, near the boulevard, and the view was taken from a window of the building. He made more than one plate of the scene at different times of day."
+    },
+    {
+      "opening": "A mirror-image street",
+      "linkId": null,
+      "text": "Daguerreotypes are made directly on a polished silver plate, with no negative, so the picture is reversed left to right. Each one is also unique, which makes the plate itself the only original."
+    }
+  ],
+  "tags": [
+    "photography",
+    "paris",
+    "inventors",
+    "firsts"
+  ],
+  "related": [
+    "first-digital-photo",
+    "paris-pneumatic-post",
+    "stopped-clock-illusion",
+    "multiplane-camera",
+    "eiffel-tower-antenna"
+  ]
+}

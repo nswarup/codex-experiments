@@ -1,0 +1,43 @@
+{
+  "id": "pony-express",
+  "title": "The Pony Express lasted 18 months",
+  "category": "History",
+  "hook": "The legendary Pony Express ran for just over a year and a half.",
+  "peek": "The Pony Express is one of the great images of the American West, but it only operated from April 1860 to October 1861. Two days after the telegraph joined the coasts, it announced it was closing.",
+  "lede": "The Pony Express carried letters by relays of riders between St. Joseph, Missouri, and Sacramento, California, nearly 2,000 miles, in about ten days. That was far quicker than stagecoach mail. Yet it ran only from April 1860 to October 1861, a little over 18 months. The transcontinental telegraph, completed that October, made it obsolete almost overnight.",
+  "bullets": [
+    {
+      "opening": "The relay stations",
+      "linkId": null,
+      "text": "Around 150 to 190 stations lined the route. Riders swapped to a fresh horse every 10 to 15 miles, and each rider covered a stretch of roughly 75 to 100 miles before handing the mail to the next."
+    },
+    {
+      "opening": "The mochila",
+      "linkId": null,
+      "text": "Letters travelled in a mochila, a leather cover with four pockets, some of them locked, that fitted over the saddle. A rider could pull it off one horse and throw it onto the next in moments."
+    },
+    {
+      "opening": "Lincoln's inaugural address",
+      "linkId": null,
+      "text": "The service's most famous run carried Abraham Lincoln's first inaugural address in March 1861. The text reached California in about seven days and 17 hours, the fastest delivery it ever made."
+    },
+    {
+      "opening": "The transcontinental telegraph",
+      "linkId": null,
+      "text": "The telegraph line was completed on 24 October 1861, and the Pony Express closed two days later. It had never made a profit, as postage was expensive and the route cost a fortune to run."
+    }
+  ],
+  "tags": [
+    "communication",
+    "mail",
+    "myths-busted",
+    "horses"
+  ],
+  "related": [
+    "transatlantic-cable-1858",
+    "chappe-telegraph-hack",
+    "parcel-post-children",
+    "muybridge-horse",
+    "pigeon-vs-broadband"
+  ]
+}

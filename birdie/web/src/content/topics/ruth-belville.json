@@ -1,0 +1,43 @@
+{
+  "id": "ruth-belville",
+  "title": "Ruth Belville, the woman who sold time",
+  "category": "History",
+  "hook": "Until 1940, a London woman sold Greenwich time door to door from her watch.",
+  "peek": "Every week for nearly 50 years, Ruth Belville had her pocket watch checked at the Royal Observatory in Greenwich, then carried the exact time around London to paying customers. Her family ran the service for over a century.",
+  "lede": "Before radio time signals were common, knowing the exact time was a valuable thing. Ruth Belville sold it. Each Monday she took a fine pocket watch to the Royal Observatory at Greenwich, had it checked against the official time, and then visited subscribers around London, mostly clockmakers, who set their own clocks by hers. She kept this up until 1940, when she was 86.",
+  "bullets": [
+    {
+      "opening": "John Henry Belville's service",
+      "linkId": null,
+      "text": "The business began in 1836 with her father, John Henry Belville, who worked at the Royal Observatory. After he was gone his widow Maria carried it on, and Ruth took over in 1892, so the family sold time for over a century."
+    },
+    {
+      "opening": "The watch called Arnold",
+      "linkId": null,
+      "text": "Her timepiece was a pocket chronometer made by the celebrated London maker John Arnold, which the family nicknamed Arnold. Its accuracy was what customers paid for. It is now in the collection of the Worshipful Company of Clockmakers."
+    },
+    {
+      "opening": "The 1908 rivalry",
+      "linkId": null,
+      "text": "In 1908 a director of a company selling time by telegraph criticised her in a public speech. The Times reported it, journalists came to see her, and the attention brought her extra customers rather than fewer."
+    },
+    {
+      "opening": "Greenwich Time Lady",
+      "linkId": null,
+      "text": "Newspapers called her the Greenwich Time Lady. She kept her weekly round going for decades after electric time signals arrived, and only gave it up in 1940, a few years after the speaking clock began."
+    }
+  ],
+  "tags": [
+    "time",
+    "clocks",
+    "london",
+    "work"
+  ],
+  "related": [
+    "big-ben-pennies",
+    "harrison-clocks",
+    "day-of-two-noons",
+    "computer-job-title",
+    "hafele-keating"
+  ]
+}

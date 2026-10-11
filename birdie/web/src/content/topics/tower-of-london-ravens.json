@@ -1,0 +1,43 @@
+{
+  "id": "tower-of-london-ravens",
+  "title": "The Tower of London's ravens",
+  "category": "History",
+  "hook": "The legend says Britain falls if the ravens leave, but it may be Victorian.",
+  "peek": "At least six ravens live at the Tower of London, cared for by a Ravenmaster, because legend says the kingdom will fall if they leave. The story is often traced to Charles II, but historians have found little sign of it before the late 1800s.",
+  "lede": "The Tower of London keeps at least six ravens, plus a spare or two, because of a famous warning: if the ravens ever leave, the Tower and the kingdom will fall. The legend is usually said to go back to King Charles II in the 1600s. When historians went looking for evidence, though, they found something much more recent.",
+  "bullets": [
+    {
+      "opening": "The Charles II story",
+      "linkId": null,
+      "text": "The tale goes that Charles II's astronomer, John Flamsteed, complained that ravens were getting in the way of his observations, but the king refused to remove them for fear of the prophecy. No record from the time supports it."
+    },
+    {
+      "opening": "A Victorian legend",
+      "linkId": null,
+      "text": "Tower historian Geoffrey Parnell found that ravens seem to appear in Tower records only from the late 1800s. The earliest known picture of them there dates from 1883, and the legend may have grown up around them in the Victorian period."
+    },
+    {
+      "opening": "The Ravenmaster",
+      "linkId": null,
+      "text": "The birds are looked after by the Ravenmaster, one of the Yeoman Warders. He feeds them, learns their personalities and gives each a name. The flight feathers of one wing are lightly trimmed, so they hop and glide but stay close."
+    },
+    {
+      "opening": "The rule of six",
+      "linkId": null,
+      "text": "The minimum of six ravens is a modern tradition in its own right. The Tower keeps extra birds so the count never drops below six, and has its own breeding programme to provide new ones."
+    }
+  ],
+  "tags": [
+    "myths-busted",
+    "birds",
+    "london",
+    "legends"
+  ],
+  "related": [
+    "swan-upping",
+    "crows-faces",
+    "viking-horned-helmets",
+    "napoleon-height",
+    "galileo-pisa-myth"
+  ]
+}

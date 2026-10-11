@@ -1,0 +1,43 @@
+{
+  "id": "gobekli-tepe",
+  "title": "Göbekli Tepe",
+  "category": "History",
+  "hook": "Hunter-gatherers carved giant stone pillars 6,000 years before Stonehenge.",
+  "peek": "On a hilltop in south-east Turkey stand rings of carved stone pillars, some taller than a person and covered in animals. They were raised about 11,500 years ago, before farming, pottery or writing, by people who still lived by hunting and gathering.",
+  "lede": "For a long time, archaeologists assumed that big monuments came after farming, once people had settled villages and spare food. Göbekli Tepe, near Şanlıurfa in south-east Turkey, upends that. Its circles of T-shaped limestone pillars, some over 5 metres tall, were built around 9500 BC by hunter-gatherers, roughly 6,000 years before the first stones went up at Stonehenge.",
+  "bullets": [
+    {
+      "opening": "Klaus Schmidt's excavations",
+      "linkId": null,
+      "text": "The German archaeologist Klaus Schmidt began digging in 1995 and soon realised the mound hid something enormous. He described it as perhaps the world's first temple, and geophysical surveys suggest many more enclosures still lie buried."
+    },
+    {
+      "opening": "Pillars with arms",
+      "linkId": null,
+      "text": "Some of the largest pillars have arms and hands carved along their sides, with fingers meeting over the belly, and belts around the waist. The T-shaped tops seem to be heads, so the pillars may be stylised giant figures."
+    },
+    {
+      "opening": "Foxes, boars and cranes",
+      "linkId": null,
+      "text": "The pillars are carved with wild animals in relief, including foxes, boars, snakes, cranes and other birds. They show the animals these people knew well, long before any of them had been domesticated."
+    },
+    {
+      "opening": "Temple or settlement",
+      "linkId": null,
+      "text": "Schmidt thought no one lived at the site. More recent digs have found houses, water cisterns and tools for grinding grain, so many researchers now see it as a lived-in place as well as a gathering point. The debate continues."
+    }
+  ],
+  "tags": [
+    "architecture",
+    "prehistory",
+    "myths-busted",
+    "mysteries"
+  ],
+  "related": [
+    "stonehenge-bluestones",
+    "lascaux-dog-robot",
+    "oxford-aztecs",
+    "cleopatra-timeline",
+    "kushim"
+  ]
+}

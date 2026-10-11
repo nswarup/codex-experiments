@@ -1,0 +1,43 @@
+{
+  "id": "spaghetti-harvest",
+  "title": "The spaghetti harvest hoax",
+  "category": "History",
+  "hook": "In 1957 the BBC showed Swiss families picking spaghetti from trees.",
+  "peek": "On 1 April 1957 the BBC's serious current affairs programme Panorama broadcast a short film of a Swiss spaghetti harvest. Many British viewers rarely ate pasta, and hundreds phoned in, some asking how to grow their own spaghetti tree.",
+  "lede": "On 1 April 1957 the BBC's Panorama, a respected current affairs programme, ended with a three-minute report from southern Switzerland. Over gentle music, families plucked long strands of spaghetti from the branches of trees and laid them out to dry in the sun. The calm narration explained that a mild winter had produced a bumper crop. It was, of course, an April Fool.",
+  "bullets": [
+    {
+      "opening": "Richard Dimbleby's narration",
+      "linkId": null,
+      "text": "The report was voiced by Richard Dimbleby, one of the most trusted broadcasters in Britain. His serious tone, and the programme's reputation for real news, did a great deal to make the joke believable."
+    },
+    {
+      "opening": "Charles de Jaeger's idea",
+      "linkId": null,
+      "text": "The idea is credited to cameraman Charles de Jaeger, who said a teacher had once joked that his class would believe anything, even that spaghetti grew on trees. Cooked spaghetti was draped over branches for filming."
+    },
+    {
+      "opening": "Pasta in 1950s Britain",
+      "linkId": null,
+      "text": "Spaghetti was still unfamiliar to many British households, often known mainly from tins. Plenty of viewers had no idea how it was made, which is why the film seemed plausible."
+    },
+    {
+      "opening": "Growing your own spaghetti tree",
+      "linkId": null,
+      "text": "Hundreds of viewers phoned the BBC. Some asked how to grow their own, and the BBC is said to have replied that they should place a sprig of spaghetti in a tin of tomato sauce and hope for the best."
+    }
+  ],
+  "tags": [
+    "hoaxes",
+    "food-history",
+    "television",
+    "april-fools"
+  ],
+  "related": [
+    "great-moon-hoax",
+    "war-of-the-worlds-panic",
+    "fake-wasabi",
+    "fortune-cookies",
+    "test-card-f"
+  ]
+}

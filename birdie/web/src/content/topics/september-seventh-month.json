@@ -1,0 +1,43 @@
+{
+  "id": "september-seventh-month",
+  "title": "Why September is the ninth month",
+  "category": "History",
+  "hook": "September means seventh month, and December means tenth.",
+  "peek": "The names of September, October, November and December come from the Latin for seven, eight, nine and ten. They were correct once, in an early Roman calendar that began in March. When the year's start moved, the names stayed put.",
+  "lede": "Septem is Latin for seven, octo for eight, novem for nine and decem for ten. So September, October, November and December are named as the seventh to tenth months, yet they sit ninth to twelfth. The mismatch is a fossil from early Rome, when, according to Roman tradition, the year began in March and had only ten named months.",
+  "bullets": [
+    {
+      "opening": "The calendar of Romulus",
+      "linkId": null,
+      "text": "Roman writers said the first calendar, credited to the legendary founder Romulus, had ten months running from March to December, about 304 days in all. The winter weeks after December went unnamed. Historians treat the details as tradition rather than record."
+    },
+    {
+      "opening": "January and February added",
+      "linkId": null,
+      "text": "Tradition credits the next king, Numa, with adding January and February to fill the winter gap. February was long treated as the end of the year, which is one reason extra days were slotted into it."
+    },
+    {
+      "opening": "New Year moves to January",
+      "linkId": null,
+      "text": "In 153 BC Rome began installing its new consuls on 1 January, and the civil year gradually came to start there. March slipped to third place, pushing every numbered month two places out of step."
+    },
+    {
+      "opening": "Quintilis and Sextilis",
+      "linkId": null,
+      "text": "The fifth and sixth months were once called Quintilis and Sextilis. They were renamed July and August to honour Julius Caesar and Augustus, so only the last four months still carry their old numbers."
+    }
+  ],
+  "tags": [
+    "calendars",
+    "etymology",
+    "names",
+    "time"
+  ],
+  "related": [
+    "year-of-confusion",
+    "no-year-zero",
+    "eleven-days-1752",
+    "french-republican-calendar",
+    "soviet-continuous-week"
+  ]
+}

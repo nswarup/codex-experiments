@@ -1,0 +1,43 @@
+{
+  "id": "rai-stones",
+  "title": "The stone money of Yap",
+  "category": "History",
+  "hook": "On Yap, giant stone coins change hands without ever moving.",
+  "peek": "On the Pacific island of Yap, wealth was once counted in huge carved stone discs, some taller than a person. They are far too heavy to carry around, so when one is given away it stays exactly where it is, and everyone simply remembers who owns it.",
+  "lede": "Yap is a small group of islands in Micronesia. Its traditional money, called rai, is made of great limestone discs with a hole in the middle, some around 3 metres across. There is no limestone like it on Yap, so the stones were quarried on Palau, about 400 kilometres away, and brought back by canoe or raft.",
+  "bullets": [
+    {
+      "opening": "Ownership by memory",
+      "linkId": null,
+      "text": "Big rai stones are rarely moved. When one changes hands, as part of a marriage, a settlement or a large exchange, the stone stays put and the community remembers its new owner. The record lives in people's heads."
+    },
+    {
+      "opening": "The stone on the seabed",
+      "linkId": null,
+      "text": "The anthropologist William Henry Furness III, who visited around 1903, told of a huge stone lost overboard during a storm on the way home. Its owners were still counted as wealthy, since everyone knew the stone existed. Economists, including Milton Friedman, have retold the story."
+    },
+    {
+      "opening": "Value from history",
+      "linkId": null,
+      "text": "A stone's worth depends on more than its size. Its story matters, including how hard it was to bring home and who has owned it. An older stone carried with great effort can be worth more than a bigger one."
+    },
+    {
+      "opening": "David O'Keefe's stones",
+      "linkId": null,
+      "text": "In the 1870s an Irish-American captain, David O'Keefe, used his ship to ferry rai from Palau in return for trade goods. His stones were easier to come by, and Yapese often valued them less than ones brought the old way."
+    }
+  ],
+  "tags": [
+    "money",
+    "islands",
+    "trade",
+    "memory"
+  ],
+  "related": [
+    "jiaozi-paper-money",
+    "bitcoin-pizza-day",
+    "parmesan-bank",
+    "stonehenge-bluestones",
+    "nutmeg-manhattan"
+  ]
+}

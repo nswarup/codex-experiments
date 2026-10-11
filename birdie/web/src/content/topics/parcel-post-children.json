@@ -1,0 +1,43 @@
+{
+  "id": "parcel-post-children",
+  "title": "Children sent by parcel post",
+  "category": "History",
+  "hook": "For a few years, some American parents sent their children by post.",
+  "peek": "When the United States Post Office began carrying parcels in 1913, a handful of families realised that stamps could be cheaper than a train ticket. A small number of children travelled with the mail before officials put a firm stop to it.",
+  "lede": "On 1 January 1913, the United States Post Office launched parcel post, letting people mail packages to rural homes for the first time. The rules said nothing clear about children. Within weeks, a few parents had tried it. The children travelled in the care of postal workers, often ones the family knew, and the practice lasted only a few years.",
+  "bullets": [
+    {
+      "opening": "The Beagle baby",
+      "linkId": null,
+      "text": "Early in 1913, a couple in Batavia, Ohio, handed their baby son to a rural mail carrier, who delivered him to his grandmother about a mile away. The postage was 15 cents, and the parents insured him for 50 dollars."
+    },
+    {
+      "opening": "Mailing May Pierstorff",
+      "linkId": null,
+      "text": "The best-known case came in 1914, when nearly six-year-old May Pierstorff was posted about 70 miles across Idaho to visit her grandparents. Stamps were attached to her coat, and she rode in the train's mail car with a relative who worked there."
+    },
+    {
+      "opening": "Cheaper than a ticket",
+      "linkId": null,
+      "text": "The appeal was the price. Postage was charged by weight, and for a small child it could come to less than a train fare. The weight limit for parcels was raised during 1914, which brought more children within range."
+    },
+    {
+      "opening": "The Postmaster General's ban",
+      "linkId": null,
+      "text": "Officials ruled that people did not count as mailable items, though a few more cases slipped through. By around 1915 the practice had ended. Photographs of children with mailbags, now kept by the Smithsonian, keep the story alive."
+    }
+  ],
+  "tags": [
+    "mail",
+    "history-of-things",
+    "rules",
+    "childhood"
+  ],
+  "related": [
+    "paris-pneumatic-post",
+    "penny-black",
+    "sears-mail-order-houses",
+    "pony-express",
+    "pigeon-vs-broadband"
+  ]
+}

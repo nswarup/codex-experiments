@@ -1,0 +1,43 @@
+{
+  "id": "hollerith-census",
+  "title": "Hollerith's punch-card census",
+  "category": "History",
+  "hook": "A census machine that read holes with mercury became the root of IBM.",
+  "peek": "The 1880 US census took about eight years to tabulate by hand. For 1890, Herman Hollerith's electric machines read punched cards and counted the nation far faster. His company later merged into the firm that became IBM.",
+  "lede": "The 1880 United States census took about eight years to tabulate by hand, and officials feared the 1890 count would not be done before the next one began. A young engineer named Herman Hollerith, who had worked on the 1880 census, offered a solution: record each person as holes punched in a card, and let electricity do the counting.",
+  "bullets": [
+    {
+      "opening": "Pins and cups of mercury",
+      "linkId": null,
+      "text": "A clerk placed each card in a press. Spring-loaded pins came down, and wherever a pin passed through a hole it dipped into a small cup of mercury, completing a circuit and moving a dial on the counter by one."
+    },
+    {
+      "opening": "The railway ticket idea",
+      "linkId": null,
+      "text": "Hollerith said the idea came partly from train conductors, who punched tickets to describe each passenger's appearance. A card with the right holes could describe a person's age, sex, birthplace and more."
+    },
+    {
+      "opening": "The 1890 count",
+      "linkId": null,
+      "text": "The machines won a contest against rival methods and were used for the 1890 census. The first total population count came out within weeks, and the full tabulation took a few years instead of most of a decade."
+    },
+    {
+      "opening": "The Tabulating Machine Company",
+      "linkId": null,
+      "text": "Hollerith founded the Tabulating Machine Company in 1896. In 1911 it merged with other firms into the Computing-Tabulating-Recording Company, which renamed itself International Business Machines, IBM, in 1924."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "computing",
+    "history-of-things",
+    "data"
+  ],
+  "related": [
+    "jacquard-punch-cards",
+    "ibm-ramac",
+    "computer-job-title",
+    "difference-engine-built",
+    "revolutionary-card-catalog"
+  ]
+}

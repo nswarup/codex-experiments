@@ -1,0 +1,44 @@
+{
+  "id": "dagen-h",
+  "title": "Dagen H, when Sweden switched sides",
+  "category": "History",
+  "hook": "At 5am on 3 September 1967, a whole country moved to the other side of the road.",
+  "peek": "Until 1967 Swedes drove on the left, even though most of their cars were built for the right. On one Sunday morning, every driver stopped, carefully crossed over, and set off again on the right-hand side.",
+  "lede": "Sweden drove on the left for centuries, while all its neighbours drove on the right. Most Swedish cars even had the steering wheel on the left, which made overtaking awkward. So on Sunday 3 September 1967, known as Dagen H, the country switched. At 4:50 in the morning traffic stopped, crossed to the right, and at 5:00 started again.",
+  "bullets": [
+    {
+      "opening": "The 1955 referendum",
+      "linkId": null,
+      "text": "In a 1955 referendum, about 83 per cent of voters said no to switching. Parliament decided to go ahead anyway in 1963, arguing that border traffic and Sweden's left-hand-drive cars made the change sensible."
+    },
+    {
+      "opening": "Högertrafik, the H",
+      "linkId": null,
+      "text": "The H stands for högertrafik, Swedish for right-hand traffic. Ahead of the day there was a long public campaign, with a special logo printed on everything from milk cartons to underwear, and even a pop song about keeping right."
+    },
+    {
+      "opening": "Changing the signs",
+      "linkId": null,
+      "text": "Hundreds of thousands of road signs had to be swapped, many by workers through the final night. Most non-essential traffic was banned for hours around the change, and in Stockholm the ban lasted much of the weekend."
+    },
+    {
+      "opening": "Buses with new doors",
+      "linkId": null,
+      "text": "Buses were a big problem, since their doors opened on the wrong side. Cities bought new buses and rebuilt older ones with doors on the right, and some tram networks closed rather than convert."
+    }
+  ],
+  "tags": [
+    "maps",
+    "rules",
+    "design",
+    "history-of-things"
+  ],
+  "related": [
+    "swedish-february-30",
+    "eleven-days-1752",
+    "gibraltar-runway",
+    "guugu-yimithirr",
+    "left-and-right-shoes",
+    "samoa-skips-a-day"
+  ]
+}
