@@ -6,7 +6,7 @@ import { streamChat, StreamError, type ChatTurn } from "@/lib/api";
 import { parseChat } from "@/lib/parse";
 import { getTopic, recordAsk } from "@/lib/store";
 import { readyTopic, requestTopic } from "@/lib/generate";
-import { matchCorpus } from "@/content";
+import { matchCorpus, useFullTopic } from "@/content";
 import { pushTopic, type Overlay } from "@/lib/ui";
 import { cue, buzz } from "@/lib/feedback";
 import { IconButton, Sheet, SheetHeader } from "./ui";
@@ -31,7 +31,8 @@ export function ChatSheet({
   data: Extract<Overlay, { kind: "chat" }>;
   onClose: () => void;
 }) {
-  const topic = getTopic(data.topicId) ?? readyTopic(data.topicId);
+  // Chat sends the article text as context, so make sure a library body is loaded.
+  const topic = useFullTopic(getTopic(data.topicId) ?? readyTopic(data.topicId));
   const [messages, setMessages] = useState<Msg[]>([]);
   const [draft, setDraft] = useState("");
   const [streaming, setStreaming] = useState(false);

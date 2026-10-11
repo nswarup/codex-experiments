@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import { RotateCw } from "lucide-react";
 import { useApp } from "@/lib/store";
+import { useFullTopic } from "@/content";
 import { readyTopic, retryTopic, useJob } from "@/lib/generate";
 import { COVERING, useUi } from "@/lib/ui";
 import { useEngagement } from "@/hooks/useEngagement";
@@ -25,7 +26,7 @@ export function TopicPage({ id }: { id: string }) {
     const prev = i > 0 ? u.stack[i - 1] : undefined;
     return !prev || prev.kind === "feed" ? "Feed" : (readyTopic(prev.id)?.title ?? "Back");
   });
-  const topic = readyTopic(id);
+  const topic = useFullTopic(readyTopic(id));
   const active = useUi(
     (s) => s.stack[s.stack.length - 1]?.kind === "topic" && (s.stack[s.stack.length - 1] as { id: string }).id === id && !(s.overlay && COVERING.includes(s.overlay.kind)),
   );

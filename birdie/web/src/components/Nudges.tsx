@@ -1,4 +1,5 @@
-import { useMemo } from "react";
+import { useEffect, useMemo } from "react";
+import { loadBody } from "@/content";
 import { ArrowRight } from "lucide-react";
 import type { Topic } from "@/lib/types";
 import { allTopics, recordTap, useApp } from "@/lib/store";
@@ -26,6 +27,11 @@ export function Nudges({ topic, exclude }: { topic: Topic; exclude?: string[] })
     [topic.id],
   );
   const items = [...close.map((t) => ({ t, wild: false })), ...(wildcard ? [{ t: wildcard, wild: true }] : [])];
+  // Fetch the suggested articles' text in the background, so a tap opens straight to the article.
+  useEffect(() => {
+    for (const { t } of items) if (t.stub) void loadBody(t.id);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [topic.id]);
   if (!items.length) return null;
 
   return (

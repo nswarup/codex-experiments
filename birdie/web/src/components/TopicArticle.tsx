@@ -26,6 +26,8 @@ export interface ArticleView {
 }
 
 export function viewOf(t: Topic): ArticleView {
+  // A library topic whose body is still loading shows its title and hook with the usual skeleton.
+  if (t.stub) return { id: t.id, title: t.title, category: t.category, hook: t.hook, lede: undefined, bullets: [], writing: true };
   return { id: t.id, title: t.title, category: t.category, hook: t.hook, lede: t.lede, bullets: t.bullets };
 }
 

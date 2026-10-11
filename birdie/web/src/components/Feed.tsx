@@ -9,6 +9,7 @@ import { FEED_WILDCARD_RATE, pickNext } from "@/lib/ranking";
 import { useEngagement } from "@/hooks/useEngagement";
 import { COVERING, getUi, openOverlay, pushTopic, useUi } from "@/lib/ui";
 import { TopicArticle, viewOf } from "./TopicArticle";
+import { loadBody, useFullTopic } from "@/content";
 import { Nudges } from "./Nudges";
 import { TopBar } from "./TopBar";
 import { BirdMark } from "./ui";
@@ -30,6 +31,7 @@ function nextItem(exclude: Set<string>, prev?: FeedItem): FeedItem | null {
   // Open on something you picked, and never serve two wildcards back to back.
   const allowWildcard = !!prev && prev.reason !== "wildcard";
   const pick = pickNext(profile, allTopics(), Math.random, exclude, { allowWildcard, wildcardRate: FEED_WILDCARD_RATE });
+  if (pick?.topic.stub) void loadBody(pick.topic.id);
   return pick ? { key: `f${++keySeq}`, topic: pick.topic, reason: pick.reason } : null;
 }
 
@@ -256,11 +258,12 @@ function FeedEntry({
   tourAnchor?: boolean;
 }) {
   const ref = useRef<HTMLElement>(null);
+  const topic = useFullTopic(item.topic);
   useEngagement(ref, item.topic, scroller, active);
   const body = (
     <>
       {index > 0 && <SectionBreak />}
-      <TopicArticle ref={ref} view={viewOf(item.topic)} reason={item.reason} tourAnchor={tourAnchor} />
+      <TopicArticle ref={ref} view={viewOf(topic)} reason={item.reason} tourAnchor={tourAnchor} />
       <Nudges topic={item.topic} exclude={exclude} />
     </>
   );

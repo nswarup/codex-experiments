@@ -1,7 +1,7 @@
 import { useSyncExternalStore } from "react";
 import { CATEGORIES, type Category, type Prefs, type Profile, type Saved, type Topic } from "./types";
 import { applyAsk, applyEngagement, applyTap, createProfile, drift, markSeen, repick } from "./ranking";
-import { CORPUS_BY_ID } from "@/content";
+import { CORPUS_BY_ID, loadedBody } from "@/content";
 
 export interface AppState {
   version: 1;
@@ -199,7 +199,9 @@ export function useApp<T>(select: (s: AppState) => T): T {
 /* ----------------------------- actions ----------------------------- */
 
 export function getTopic(id: string): Topic | undefined {
-  return CORPUS_BY_ID[id] ?? state.generated[id];
+  const lib = CORPUS_BY_ID[id];
+  if (lib) return loadedBody(id) ?? lib;
+  return state.generated[id];
 }
 
 export function allTopics(): Topic[] {

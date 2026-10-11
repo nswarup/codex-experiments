@@ -25,6 +25,10 @@ export interface Topic {
   generated?: boolean;
   /** Search text or opening that produced a generated topic. */
   query?: string;
+  /** Library topic whose lede and bullets have not loaded yet (they arrive via loadBody). */
+  stub?: boolean;
+  /** Body word count, known before the body loads (library topics). */
+  words?: number;
 }
 
 export type Theme = "dark" | "sepia" | "light";
