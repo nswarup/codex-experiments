@@ -1,0 +1,44 @@
+{
+  "id": "fahrenheit-451-typewriter",
+  "title": "Fahrenheit 451 on a rented typewriter",
+  "category": "Books",
+  "hook": "Ray Bradbury wrote a novel about burning books on a pay-by-the-hour typewriter.",
+  "peek": "Ray Bradbury had no quiet room at home, so he went to the basement of a university library and rented a coin-operated typewriter at ten cents per half hour. The story he wrote there grew into Fahrenheit 451.",
+  "lede": "In the early 1950s, Ray Bradbury had a young family and no quiet place to write at home. He found one in the basement of the Powell Library at UCLA, where typewriters could be rented for ten cents per half hour. Feeding in dimes, he wrote a 25,000-word story called The Fireman in about nine days, spending about 9.80 dollars.",
+  "bullets": [
+    {
+      "opening": "The Fireman novella",
+      "linkId": null,
+      "text": "The story imagined a future in which firemen start fires instead of putting them out, to destroy books. It appeared in Galaxy Science Fiction magazine in 1951, and Bradbury later expanded it into Fahrenheit 451, published in 1953."
+    },
+    {
+      "opening": "A library full of books",
+      "linkId": null,
+      "text": "Bradbury said that writing in a library helped, because he could run upstairs between dimes and pull books off the shelves for quotations and inspiration."
+    },
+    {
+      "opening": "Where the title came from",
+      "linkId": null,
+      "text": "Bradbury wanted the temperature at which paper burns. He said he rang the fire department to ask. In reality paper catches fire across a range of temperatures, but 451 became the book's lasting title."
+    },
+    {
+      "opening": "Dimes and deadlines",
+      "linkId": null,
+      "text": "Paying by the half hour, Bradbury said, made him write fast. When the money ran out the machine stopped, so there was no time to dawdle, and he credited the pressure for the draft's energy."
+    }
+  ],
+  "tags": [
+    "typewriters",
+    "libraries",
+    "writing-habits",
+    "science-fiction"
+  ],
+  "related": [
+    "on-the-road-scroll",
+    "machine-stops",
+    "library-of-babel",
+    "asimov-three-laws",
+    "the-martian-blog",
+    "fahrenheit-zero"
+  ]
+}

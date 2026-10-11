@@ -1,0 +1,44 @@
+{
+  "id": "alice-boat-trip",
+  "title": "Alice began on a rowing boat",
+  "category": "Books",
+  "hook": "Alice in Wonderland was first told aloud on a summer boat trip near Oxford.",
+  "peek": "On 4 July 1862, an Oxford maths lecturer rowed three young sisters up the Thames and made up a story to pass the time. One of the girls, Alice Liddell, asked him to write it down. The result was Alice's Adventures in Wonderland.",
+  "lede": "On 4 July 1862, Charles Dodgson, an Oxford mathematics lecturer, rowed up the Thames from Folly Bridge towards Godstow with his friend Robinson Duckworth and three sisters: Lorina, Alice and Edith Liddell. To entertain the girls, he made up a story about a girl called Alice who fell down a rabbit hole. Ten-year-old Alice begged him to write it down.",
+  "bullets": [
+    {
+      "opening": "Alice's Adventures Under Ground",
+      "linkId": null,
+      "text": "Dodgson spent many months writing out the story by hand and drawing his own pictures. He gave the finished notebook, called Alice's Adventures Under Ground, to Alice as a Christmas present in 1864."
+    },
+    {
+      "opening": "The golden afternoon",
+      "linkId": null,
+      "text": "The book's opening poem remembers the trip as a hot, golden summer afternoon on the river. Weather records suggest the day was in fact cool and damp. Memory, or poetry, seems to have improved it."
+    },
+    {
+      "opening": "Lewis Carroll's pen name",
+      "linkId": null,
+      "text": "Dodgson published the expanded book in 1865 as Lewis Carroll, a playful twist on his first two names, Charles Lutwidge. John Tenniel drew the illustrations that most readers still picture."
+    },
+    {
+      "opening": "The original manuscript",
+      "linkId": null,
+      "text": "The handwritten notebook was sold by Alice in 1928 and went to America. In 1948 a group of American donors bought it and gave it back to Britain, and it is now in the British Library."
+    }
+  ],
+  "tags": [
+    "childrens-books",
+    "oxford",
+    "origin-stories",
+    "names"
+  ],
+  "related": [
+    "frankenstein-1816",
+    "hobbit-exam-paper",
+    "winnie-the-pooh-bear",
+    "peter-rabbit-letter",
+    "oxford-aztecs",
+    "treasure-island-map"
+  ]
+}

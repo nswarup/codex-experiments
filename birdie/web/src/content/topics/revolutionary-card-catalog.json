@@ -1,0 +1,44 @@
+{
+  "id": "revolutionary-card-catalog",
+  "title": "The card catalogue on playing cards",
+  "category": "Books",
+  "hook": "France's first national library catalogue was written on playing cards.",
+  "peek": "In 1791, revolutionary France had millions of books to list and no paper system to list them in. The government's answer was a pack of cards: the plain backs of ordinary playing cards, one book per card.",
+  "lede": "After the French Revolution, the new government took over the libraries of churches, monasteries and noble families. That meant millions of books, scattered across the country, with nobody sure what was there. In 1791 officials issued instructions for listing them all. The recording medium they chose was the playing card, which in those days had a completely blank back.",
+  "bullets": [
+    {
+      "opening": "The 1791 cataloguing code",
+      "linkId": null,
+      "text": "The instructions told librarians to write each book's title, author and publication details on the back of a card. It is often described as the first national cataloguing code, a set of rules meant to be followed the same way everywhere."
+    },
+    {
+      "opening": "Why playing cards worked",
+      "linkId": null,
+      "text": "Cards were cheap, sturdy, the same size and easy to find. Each one held a single book, so the pile could be shuffled into alphabetical order, and new finds could be slipped in without rewriting the whole list."
+    },
+    {
+      "opening": "Blank-backed cards",
+      "linkId": null,
+      "text": "The patterned backs we know today became common only in the 1800s. Before that, most playing cards had plain white reverses, which made them perfect little index cards that were already sitting in drawers across France."
+    },
+    {
+      "opening": "The card catalogue idea",
+      "linkId": null,
+      "text": "Libraries later adopted purpose-made cards and wooden drawers, and the card catalogue became a fixture for well over a century. The basic trick, one item per movable card, is the one those French librarians used in 1791."
+    }
+  ],
+  "tags": [
+    "history-of-things",
+    "libraries",
+    "games",
+    "design"
+  ],
+  "related": [
+    "nintendo-hanafuda",
+    "hollerith-census",
+    "jacquard-punch-cards",
+    "bodleian-oath",
+    "dord",
+    "haskell-free-library"
+  ]
+}

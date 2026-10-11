@@ -1,0 +1,43 @@
+{
+  "id": "penguin-paperbacks",
+  "title": "Penguin's sixpenny paperbacks",
+  "category": "Books",
+  "hook": "Penguin was born on a railway platform with nothing worth reading.",
+  "peek": "In 1935 the publisher Allen Lane decided good books should cost no more than a packet of cigarettes. His sixpenny Penguins, sold partly through Woolworths, changed who could afford to own a library.",
+  "lede": "In the mid-1930s the publisher Allen Lane, the story goes, was waiting at Exeter station after a weekend visiting Agatha Christie and found nothing worth reading on the bookstall. Good books then came in expensive hardback. Cheap paperbacks were mostly trashy. In 1935 he launched Penguin Books to sell serious fiction and nonfiction for sixpence, the price of a packet of cigarettes.",
+  "bullets": [
+    {
+      "opening": "The first ten Penguins",
+      "linkId": null,
+      "text": "The opening list included Ernest Hemingway's A Farewell to Arms and André Maurois's Ariel. Lane bought the rights to books already proven in hardback, so readers were getting quality titles at a fraction of the price."
+    },
+    {
+      "opening": "The Woolworths order",
+      "linkId": null,
+      "text": "Bookshops were wary of books so cheap, and the venture was in trouble until Woolworths placed a large order, commonly reported as about 63,500 copies. Selling books next to household goods put them in front of people who rarely visited bookshops."
+    },
+    {
+      "opening": "Colour-coded covers",
+      "linkId": null,
+      "text": "Early Penguins used simple bands of colour to show the type of book: orange for fiction, green for crime and dark blue for biography. The plain design made them instantly recognisable and cheap to print."
+    },
+    {
+      "opening": "The penguin logo",
+      "linkId": null,
+      "text": "The young office junior Edward Young was sent to London Zoo to sketch penguins for the logo. Lane had wanted a dignified but playful bird, and the little figure is still on the spines today."
+    }
+  ],
+  "tags": [
+    "publishing",
+    "design",
+    "history-of-things",
+    "prices"
+  ],
+  "related": [
+    "bookland",
+    "christmas-carol-self-published",
+    "emperor-penguin-huddle",
+    "project-gutenberg",
+    "caxton-eggs"
+  ]
+}

@@ -4,7 +4,7 @@
   "category": "Games",
   "hook": "In 1944 a newspaper crossword kept giving away the secret codewords of D-Day.",
   "peek": "In the weeks before the Normandy landings, the Daily Telegraph crossword contained Utah, Omaha, Overlord, Mulberry and Neptune, all top-secret codewords. Its setter was a headmaster. For decades it was put down to chance, but a former pupil later offered another explanation.",
-  "lede": "Leonard Dawe was headmaster of the Strand School, evacuated to Surrey during the Second World War, and he set crosswords for the Daily Telegraph. In May and early June 1944 his answers included Utah and Omaha, the code names for two landing beaches, and Overlord, Mulberry and Neptune, names for the operation itself. British security officers paid him a visit.",
+  "lede": "Leonard Dawe was headmaster of the Strand School, evacuated to Surrey during the Second World War, and he set crosswords for the Daily Telegraph. In May and early June 1944 his answers included Utah and Omaha, the code names for two landing beaches, and Overlord, Neptune and Mulberry, names for the invasion, its naval part and its floating harbours. British security officers paid him a visit.",
   "bullets": [
     {
       "opening": "The MI5 interview",
@@ -24,7 +24,7 @@
     {
       "opening": "Coincidence or not",
       "linkId": null,
-      "text": "French's account cannot be fully checked, but it offers a simple explanation. Most historians now think the words leaked through overheard conversation rather than chance, and that nobody involved meant any harm."
+      "text": "French's account cannot be fully checked, but it offers a simple explanation. Many historians now think the words leaked through overheard conversation rather than chance, and that nobody involved meant any harm."
     }
   ],
   "tags": [

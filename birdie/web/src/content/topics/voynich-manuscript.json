@@ -1,0 +1,44 @@
+{
+  "id": "voynich-manuscript",
+  "title": "The Voynich manuscript",
+  "category": "Books",
+  "hook": "A beautifully illustrated 600-year-old book that nobody has ever been able to read.",
+  "peek": "The Voynich manuscript is filled with drawings of unknown plants, star charts and a flowing script that matches no known language. Carbon dating puts its pages in the early 1400s, and the best codebreakers of the last century still could not crack it.",
+  "lede": "The Voynich manuscript is a small book of about 240 vellum pages, packed with colourful drawings and lines of neat, flowing writing. The trouble is the writing. Its script matches no known alphabet, and no one has ever convincingly read a single sentence. In 2009, carbon dating of the vellum placed it in the early 1400s.",
+  "bullets": [
+    {
+      "opening": "Wilfrid Voynich, the bookseller",
+      "linkId": null,
+      "text": "The book is named after the Polish-born rare book dealer Wilfrid Voynich, who bought it in 1912 and spent years trying to find someone who could read it. It now sits at Yale's Beinecke Library, catalogued as MS 408."
+    },
+    {
+      "opening": "The botanical drawings",
+      "linkId": null,
+      "text": "Many pages show plants with roots, leaves and flowers, yet botanists cannot match most of them to real species. Other sections hold circular star charts and small figures in pools, which only deepens the puzzle."
+    },
+    {
+      "opening": "William Friedman's attempt",
+      "linkId": null,
+      "text": "The American cryptologist William Friedman, famous for breaking codes, worked on the manuscript with colleagues for years. He suspected it might be an invented language, but neither he nor anyone since has produced an accepted reading."
+    },
+    {
+      "opening": "Language-like patterns",
+      "linkId": null,
+      "text": "Statistical studies show the text has word frequencies and repetitions that resemble real languages, which makes a random hoax harder to argue. Some scholars still think it could be meaningless, and the question remains genuinely open."
+    }
+  ],
+  "tags": [
+    "mysteries",
+    "codes",
+    "manuscripts",
+    "scripts"
+  ],
+  "related": [
+    "linear-b",
+    "library-of-babel",
+    "cherokee-syllabary",
+    "spaces-between-words",
+    "first-folio",
+    "boustrophedon"
+  ]
+}

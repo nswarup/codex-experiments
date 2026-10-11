@@ -1,0 +1,43 @@
+{
+  "id": "james-bond-ornithologist",
+  "title": "James Bond, the bird expert",
+  "category": "Books",
+  "hook": "The name James Bond came from the author of a bird guide.",
+  "peek": "Ian Fleming, a keen birdwatcher in Jamaica, kept a copy of Birds of the West Indies by the American ornithologist James Bond. When he needed a name for his spy, he picked the plainest one he could find, straight off the cover.",
+  "lede": "Ian Fleming wrote his novels at Goldeneye, his house in Jamaica, and he was a keen birdwatcher. One of his favourite books was Birds of the West Indies, by an American ornithologist named James Bond. In 1952, needing a name for the hero of Casino Royale, Fleming took it from the cover. He wanted something as plain and dull as possible.",
+  "bullets": [
+    {
+      "opening": "The real James Bond",
+      "linkId": null,
+      "text": "Bond was an expert on Caribbean birds based at the Academy of Natural Sciences in Philadelphia. His Birds of the West Indies, first published in 1936, was the standard field guide to the region for decades."
+    },
+    {
+      "opening": "The dullest name possible",
+      "linkId": null,
+      "text": "Fleming later explained he wanted the simplest, plainest-sounding name he could find, for a hero to whom things happened. James Bond, short and ordinary, fitted perfectly."
+    },
+    {
+      "opening": "Mary Wickham Bond's letter",
+      "linkId": null,
+      "text": "The ornithologist's wife, Mary, wrote to Fleming about the borrowed name, and he replied warmly. In 1964 the couple visited him at Goldeneye, and he gave them a signed copy of You Only Live Twice."
+    },
+    {
+      "opening": "The Die Another Day nod",
+      "linkId": null,
+      "text": "In the 2002 film Die Another Day, Pierce Brosnan's Bond is seen browsing a copy of Birds of the West Indies, a quiet nod to the man behind the name."
+    }
+  ],
+  "tags": [
+    "names",
+    "birds",
+    "spies",
+    "origin-stories"
+  ],
+  "related": [
+    "lyrebird-mimicry",
+    "bowerbird-collections",
+    "holmes-deerstalker",
+    "hitchhikers-42",
+    "wisdom-albatross"
+  ]
+}

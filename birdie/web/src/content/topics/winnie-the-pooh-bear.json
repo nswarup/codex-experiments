@@ -1,0 +1,43 @@
+{
+  "id": "winnie-the-pooh-bear",
+  "title": "Winnipeg, the real Pooh bear",
+  "category": "Books",
+  "hook": "Winnie-the-Pooh was named after a real bear called Winnipeg.",
+  "peek": "Winnie-the-Pooh's name comes from Winnipeg, a gentle black bear from Canada who lived at London Zoo. A small boy named Christopher Robin Milne loved visiting her so much that he renamed his teddy bear after her.",
+  "lede": "In 1914 a Canadian army vet, Lieutenant Harry Colebourn, bought a black bear cub at a railway stop in White River, Ontario, and named her Winnipeg after his home city. When his unit moved on, he left her at London Zoo. There Winnie became a favourite, and one of her keenest visitors was a small boy named Christopher Robin Milne.",
+  "bullets": [
+    {
+      "opening": "Harry Colebourn's cub",
+      "linkId": null,
+      "text": "Colebourn is said to have paid 20 dollars for the cub. She travelled with his regiment to England as an unofficial mascot, and he later gave her to London Zoo permanently, where she lived for about 20 years."
+    },
+    {
+      "opening": "The gentlest bear at the zoo",
+      "linkId": null,
+      "text": "Winnie was so calm that keepers reportedly let some children into her enclosure to feed and ride on her. Christopher Robin was one of them, and he adored her."
+    },
+    {
+      "opening": "Renaming the teddy bear",
+      "linkId": null,
+      "text": "Christopher Robin's own teddy, first called Edward, became Winnie-the-Pooh. The Pooh part came from a swan the family had met. His father, A.A. Milne, used both for the stories published in 1926."
+    },
+    {
+      "opening": "The Winnipeg statues",
+      "linkId": null,
+      "text": "A statue of Harry Colebourn with Winnie stands in Winnipeg's Assiniboine Park, and a copy was placed at London Zoo. Lindsay Mattick, Colebourn's great-granddaughter, told the story in the picture book Finding Winnie."
+    }
+  ],
+  "tags": [
+    "names",
+    "bears",
+    "childrens-books",
+    "zoos"
+  ],
+  "related": [
+    "paddington-selfridges",
+    "peter-rabbit-letter",
+    "alice-boat-trip",
+    "pippi-longstocking",
+    "wild-things-horses"
+  ]
+}

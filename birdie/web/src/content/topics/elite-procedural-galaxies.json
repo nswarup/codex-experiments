@@ -2,7 +2,7 @@
   "id": "elite-procedural-galaxies",
   "title": "Elite's galaxies in a tiny memory",
   "category": "Games",
-  "hook": "Eight galaxies of 2,048 planets fit in a computer with 32 kilobytes of memory.",
+  "hook": "Eight galaxies, 2,048 planets in all, fit in a computer with 32 kilobytes of memory.",
   "peek": "Elite, the 1984 space trading game, let players fly between 2,048 star systems on a BBC Micro. There was no room to store them. Instead the game rebuilt every planet, the same each time, from a handful of starting numbers.",
   "lede": "David Braben and Ian Bell wrote Elite as students for the BBC Micro, a computer with 32 kilobytes of memory, much of it taken by the screen. Their game had eight galaxies of 256 planets each, every one with a name, economy and description. None of it was stored. A short sequence of numbers generated it all, identically for every player.",
   "bullets": [

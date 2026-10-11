@@ -1,0 +1,44 @@
+{
+  "id": "harry-potter-rejections",
+  "title": "The girl who read Harry Potter first",
+  "category": "Books",
+  "hook": "An eight-year-old's verdict helped get Harry Potter published.",
+  "peek": "Harry Potter and the Philosopher's Stone was turned down by about a dozen publishers. At Bloomsbury, the chairman took the opening chapter home to his young daughter, Alice, and her reaction helped tip the decision.",
+  "lede": "In the mid-1990s, J.K. Rowling's agent sent the first Harry Potter book to publisher after publisher. About a dozen said no. When the manuscript reached the small children's list at Bloomsbury in London, the chairman, Nigel Newton, took the first chapter home to his eight-year-old daughter, Alice. She read it, then came back asking for the rest.",
+  "bullets": [
+    {
+      "opening": "Alice Newton's verdict",
+      "linkId": null,
+      "text": "Alice was enthusiastic enough that her father later said her reaction was a key reason Bloomsbury took the book on. She wrote a short note saying it was one of the best books a child her age could read."
+    },
+    {
+      "opening": "A small advance",
+      "linkId": null,
+      "text": "Bloomsbury paid an advance of about £2,500, a modest sum for a first novel. The editor Barry Cunningham reportedly told Rowling to get a day job, since children's books rarely made much money."
+    },
+    {
+      "opening": "The first print run",
+      "linkId": null,
+      "text": "The Philosopher's Stone came out in 1997 with a first hardback run of only about 500 copies, many of which went to libraries. Those first-edition copies are now among the most valuable modern books."
+    },
+    {
+      "opening": "Why J.K. not Joanne",
+      "linkId": null,
+      "text": "The publishers worried that boys might not pick up a book by a woman, so they asked for initials. Rowling has no middle name, so she borrowed the K from her grandmother Kathleen."
+    }
+  ],
+  "tags": [
+    "publishing",
+    "rejections",
+    "names",
+    "childrens-books"
+  ],
+  "related": [
+    "the-martian-blog",
+    "christmas-carol-self-published",
+    "dune-chilton",
+    "hobbit-exam-paper",
+    "green-eggs-and-ham",
+    "pippi-longstocking"
+  ]
+}

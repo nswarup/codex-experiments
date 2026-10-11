@@ -1,0 +1,44 @@
+{
+  "id": "oed-scriptorium",
+  "title": "The OED's iron shed",
+  "category": "Books",
+  "hook": "The great Oxford English Dictionary was edited in a tin shed in a garden.",
+  "peek": "James Murray, editor of the Oxford English Dictionary, worked in a corrugated-iron shed he called the Scriptorium, lined with more than 1,000 pigeonholes for quotation slips. The dictionary he expected to take ten years took about 70.",
+  "lede": "When James Murray became editor of the Oxford English Dictionary in 1879, he needed somewhere to store millions of paper slips, each holding a quotation showing a word in use. His solution was a corrugated-iron shed, later set up in the garden of his house on Banbury Road in Oxford. He called it the Scriptorium, and the dictionary was assembled there.",
+  "bullets": [
+    {
+      "opening": "Over 1,000 pigeonholes",
+      "linkId": null,
+      "text": "The shed was fitted with more than 1,000 pigeonholes, so slips could be sorted word by word. Murray, his family and assistants worked at long desks surrounded by the growing pile."
+    },
+    {
+      "opening": "Volunteer quotation readers",
+      "linkId": null,
+      "text": "The slips came from readers across the world, who answered a public appeal to read books and send in quotations. Their work let the dictionary trace each word's history with real examples."
+    },
+    {
+      "opening": "A pillar box for one house",
+      "linkId": null,
+      "text": "So much post arrived at Murray's house that the Royal Mail placed a pillar box outside it. The box still stands on Banbury Road, a small monument to the dictionary's correspondence."
+    },
+    {
+      "opening": "Ten years became seventy",
+      "linkId": null,
+      "text": "Murray's publishers had expected about ten years of work. The first part, covering A to Ant, came out in 1884, and the final volume of the first edition appeared in 1928, about 70 years after the project began."
+    }
+  ],
+  "tags": [
+    "dictionaries",
+    "words",
+    "oxford",
+    "volunteers"
+  ],
+  "related": [
+    "johnson-dictionary",
+    "dord",
+    "esquivalience",
+    "run-most-meanings",
+    "webster-spelling",
+    "oxford-aztecs"
+  ]
+}

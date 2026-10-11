@@ -2928,5 +2928,65 @@
   "id": "chappe-telegraph-hack",
   "title": "The 1834 telegraph hack",
   "category": "History"
+ },
+ {
+  "id": "revolutionary-card-catalog",
+  "title": "The card catalogue on playing cards",
+  "category": "Books"
+ },
+ {
+  "id": "voynich-manuscript",
+  "title": "The Voynich manuscript",
+  "category": "Books"
+ },
+ {
+  "id": "penguin-paperbacks",
+  "title": "Penguin's sixpenny paperbacks",
+  "category": "Books"
+ },
+ {
+  "id": "harry-potter-rejections",
+  "title": "The girl who read Harry Potter first",
+  "category": "Books"
+ },
+ {
+  "id": "winnie-the-pooh-bear",
+  "title": "Winnipeg, the real Pooh bear",
+  "category": "Books"
+ },
+ {
+  "id": "peter-rabbit-letter",
+  "title": "Peter Rabbit began as a letter",
+  "category": "Books"
+ },
+ {
+  "id": "alice-boat-trip",
+  "title": "Alice began on a rowing boat",
+  "category": "Books"
+ },
+ {
+  "id": "oed-scriptorium",
+  "title": "The OED's iron shed",
+  "category": "Books"
+ },
+ {
+  "id": "johnson-dictionary",
+  "title": "Johnson's \"harmless drudge\"",
+  "category": "Books"
+ },
+ {
+  "id": "on-the-road-scroll",
+  "title": "On the Road's 120-foot scroll",
+  "category": "Books"
+ },
+ {
+  "id": "james-bond-ornithologist",
+  "title": "James Bond, the bird expert",
+  "category": "Books"
+ },
+ {
+  "id": "fahrenheit-451-typewriter",
+  "title": "Fahrenheit 451 on a rented typewriter",
+  "category": "Books"
  }
 ]

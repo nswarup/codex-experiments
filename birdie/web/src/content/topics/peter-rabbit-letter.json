@@ -1,0 +1,43 @@
+{
+  "id": "peter-rabbit-letter",
+  "title": "Peter Rabbit began as a letter",
+  "category": "Books",
+  "hook": "The Tale of Peter Rabbit started life as a picture letter to a little boy.",
+  "peek": "In 1893 Beatrix Potter wrote a letter with drawings to a five-year-old boy, telling him about four little rabbits. Years later, when publishers turned the story down, she paid to print 250 copies herself.",
+  "lede": "In September 1893, Beatrix Potter wrote to Noel Moore, the five-year-old son of her former governess. She did not know what to write, so she told him a story about four little rabbits named Flopsy, Mopsy, Cottontail and Peter, with pen sketches on every page. Noel kept the letter, and it later became one of the best-loved children's books ever.",
+  "bullets": [
+    {
+      "opening": "The 1893 picture letter",
+      "linkId": null,
+      "text": "The letter tells the story of naughty Peter sneaking into Mr McGregor's garden, almost as it appears in the book. Potter later borrowed it back from Noel to turn it into a proper manuscript."
+    },
+    {
+      "opening": "Rejected by publishers",
+      "linkId": null,
+      "text": "Around 1900 Potter sent the expanded story to several publishers, who turned it down or wanted changes she disliked. She decided to publish it herself instead."
+    },
+    {
+      "opening": "The 250 private copies",
+      "linkId": null,
+      "text": "In December 1901 she had 250 copies printed with black-and-white pictures and a colour frontispiece, and gave or sold them to family and friends. Frederick Warne then took it on, publishing a colour edition in 1902."
+    },
+    {
+      "opening": "A book for small hands",
+      "linkId": null,
+      "text": "Potter insisted on a small format so children could hold the book easily, with one picture on almost every spread. Her pet rabbit, Peter Piper, served as her model."
+    }
+  ],
+  "tags": [
+    "childrens-books",
+    "self-publishing",
+    "rabbits",
+    "letters"
+  ],
+  "related": [
+    "christmas-carol-self-published",
+    "winnie-the-pooh-bear",
+    "alice-boat-trip",
+    "paddington-selfridges",
+    "the-martian-blog"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "johnson-dictionary",
+  "title": "Johnson's \"harmless drudge\"",
+  "category": "Books",
+  "hook": "Samuel Johnson defined a lexicographer as a harmless drudge.",
+  "peek": "Samuel Johnson's 1755 Dictionary of the English Language took about nine years and a handful of helpers. It is famous for its wit, including his description of his own job: a lexicographer, he wrote, is a harmless drudge.",
+  "lede": "In 1746, Samuel Johnson signed a contract to write a dictionary of the English language. He worked in a London attic with about six helpers, copying out quotations from books he had marked up. The two huge volumes came out in 1755, about nine years later. In among the serious entries, Johnson slipped in some jokes, including one at his own expense.",
+  "bullets": [
+    {
+      "opening": "The lexicographer entry",
+      "linkId": null,
+      "text": "Johnson defined a lexicographer as a writer of dictionaries, a harmless drudge that busies himself in tracing the original and detailing the signification of words. It is still quoted by dictionary makers today."
+    },
+    {
+      "opening": "Forty times forty",
+      "linkId": null,
+      "text": "The Académie française had taken decades and forty scholars to compile its dictionary. According to his friend James Boswell, Johnson joked that by his sums one Englishman was worth sixteen hundred Frenchmen."
+    },
+    {
+      "opening": "The oats definition",
+      "linkId": null,
+      "text": "His most quoted joke defines oats as a grain which in England is generally given to horses, but in Scotland supports the people. Several of his helpers were Scots."
+    },
+    {
+      "opening": "Quotations as evidence",
+      "linkId": null,
+      "text": "Johnson illustrated his roughly 42,000 entries with more than 100,000 quotations from earlier writers. It was not the first English dictionary, but this use of real examples set the model the Oxford English Dictionary later followed."
+    }
+  ],
+  "tags": [
+    "dictionaries",
+    "words",
+    "humour",
+    "definitions"
+  ],
+  "related": [
+    "oed-scriptorium",
+    "webster-spelling",
+    "dord",
+    "esquivalience",
+    "debt-silent-b",
+    "run-most-meanings"
+  ]
+}
