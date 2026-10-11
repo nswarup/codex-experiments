@@ -14,7 +14,7 @@
     {
       "opening": "Pieces with no volume",
       "linkId": null,
-      "text": "The pieces are not chunks you could carve. They are infinitely scattered clouds of points so strange that they have no volume at all, which is why the total volume can double without breaking any rule."
+      "text": "The pieces are not chunks you could carve. They are infinitely scattered clouds of points so strange that no volume can be assigned to them at all, which is why the total volume can double without breaking any rule."
     },
     {
       "opening": "The axiom of choice",

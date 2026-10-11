@@ -24,7 +24,7 @@
     {
       "opening": "Taxicab numbers",
       "linkId": null,
-      "text": "Mathematicians now call the smallest number that is a sum of two cubes in n different ways the nth taxicab number. 1729 is the second. Only six are known, and the sixth has 24 digits."
+      "text": "Mathematicians now call the smallest number that is a sum of two cubes in n different ways the nth taxicab number. 1729 is the second. Only six are known, and the sixth has 23 digits."
     }
   ],
   "tags": [

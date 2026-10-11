@@ -2,7 +2,7 @@
   "id": "alphafold",
   "title": "AlphaFold and the protein-folding puzzle",
   "category": "Science",
-  "hook": "An AI cracked a 50-year biology puzzle and shared a Nobel Prize for it.",
+  "hook": "An AI cracked a 50-year biology puzzle and won its makers a Nobel Prize.",
   "peek": "Proteins fold into precise 3D shapes, and for half a century working out a shape from the recipe alone was one of biology's great puzzles. In 2020 an AI system called AlphaFold got close enough to solve it for most proteins.",
   "lede": "Every protein is a chain of building blocks that folds into a particular 3D shape, and the shape decides what it does. In 1972 the chemist Christian Anfinsen argued that the chain's sequence alone should decide the fold. Predicting that fold became a famous puzzle. In 2020 AlphaFold, from Google DeepMind, began predicting many shapes almost as accurately as lab experiments.",
   "bullets": [

@@ -4,7 +4,7 @@
   "category": "Science",
   "hook": "The crack of a whip is a tiny sonic boom made by its tip.",
   "peek": "A flick of the wrist sends a wave down a whip that speeds up as the whip gets thinner. By the end, part of it is moving faster than sound, and the crack you hear is a miniature sonic boom.",
-  "lede": "A whip's crack sounds like leather slapping leather, but nothing hits anything. The sound is a small sonic boom. The whip is moving faster than sound, about 343 metres a second in air, and pushes a shock wave ahead of it. That makes the whip a strong candidate for the first human-made thing to break the sound barrier, thousands of years before jets.",
+  "lede": "A whip's crack sounds like leather slapping leather, but nothing hits anything. The sound is a small sonic boom. Part of the whip is moving faster than sound, about 343 metres a second in air, and pushes a shock wave ahead of it. That makes the whip a strong candidate for the first human-made thing to break the sound barrier, thousands of years before jets.",
   "bullets": [
     {
       "opening": "The tapering whip",
@@ -19,7 +19,7 @@
     {
       "opening": "The loop, not the tip",
       "linkId": null,
-      "text": "Later work refined the picture. Studies around 2002 by mathematicians Alain Goriely and Tyler McMillen suggested the boom comes from the travelling loop as it reaches the end, which can move faster than the tip itself."
+      "text": "Later work refined the picture. Studies around 2002 by mathematicians Alain Goriely and Tyler McMillen suggested the boom comes from the travelling loop as it reaches the end, rather than from the tip alone."
     },
     {
       "opening": "The cracker at the end",

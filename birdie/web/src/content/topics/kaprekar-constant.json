@@ -24,7 +24,7 @@
     {
       "opening": "The three-digit version",
       "linkId": null,
-      "text": "With three-digit numbers the same routine always ends at 495. For five or more digits there is no single landing point, and numbers fall into loops instead."
+      "text": "With three-digit numbers the same routine always ends at 495. For five or more digits there is no single landing point, and numbers fall into loops or one of several end points instead."
     },
     {
       "opening": "Repeated digits",

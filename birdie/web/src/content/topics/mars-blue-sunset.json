@@ -4,7 +4,7 @@
   "category": "Space",
   "hook": "On Mars the dusty daytime sky looks butterscotch and the sunset glows blue.",
   "peek": "Earth has blue days and red sunsets. Mars does the opposite. Its dusty daytime sky looks tan or pinkish, but as the Sun goes down a cool blue glow gathers around it, as NASA's rovers have photographed many times.",
-  "lede": "On Earth, air molecules scatter blue light all over the sky by day, and sunsets turn red. Mars swaps the colours. Its air is thin, about 1% as dense as ours, and full of fine dust, which gives the daytime sky a butterscotch tint. At sunset, though, a pale blue halo forms around the Sun, captured by the Pathfinder, Spirit, Opportunity and Curiosity cameras.",
+  "lede": "On Earth, air molecules scatter blue light all over the sky by day, and sunsets turn red. Mars swaps the colours. Its air is thin, about 1% as dense as ours, and full of fine dust, which gives the daytime sky a butterscotch tint. At sunset, though, a pale blue halo forms around the Sun, captured by the Pathfinder, Spirit and Curiosity cameras.",
   "bullets": [
     {
       "opening": "Dust that scatters forward",
@@ -19,7 +19,7 @@
     {
       "opening": "Curiosity's 2015 sunset",
       "linkId": null,
-      "text": "In April 2015, NASA's Curiosity rover filmed a sunset over Gale Crater. The colours were calibrated to approximate what a person's eyes would see: a bluish glow around a small, pale Sun."
+      "text": "In April 2015, NASA's Curiosity rover photographed a sunset over Gale Crater. The colours were calibrated to approximate what a person's eyes would see: a bluish glow around a small, pale Sun."
     },
     {
       "opening": "A smaller Sun",
