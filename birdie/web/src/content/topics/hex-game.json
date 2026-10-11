@@ -8,7 +8,7 @@
   "bullets": [
     {
       "opening": "Why Hex never draws",
-      "linkId": "brouwer-coffee-cup",
+      "linkId": null,
       "text": "When the board is full, exactly one player has a connected path. You cannot block your opponent without completing your own chain. The mathematician David Gale later showed this fact is equivalent to the Brouwer fixed-point theorem."
     },
     {
