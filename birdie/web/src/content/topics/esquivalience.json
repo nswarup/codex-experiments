@@ -1,0 +1,43 @@
+{
+  "id": "esquivalience",
+  "title": "Esquivalience, the dictionary's trap word",
+  "category": "Language",
+  "hook": "A respected dictionary printed a word it had invented, to catch copycats.",
+  "peek": "The New Oxford American Dictionary contains a word that no one ever used: esquivalience. Its editors made it up on purpose, as a hidden fingerprint that would reveal anyone lifting their entries wholesale.",
+  "lede": "Flick through the e pages of the New Oxford American Dictionary and you may find esquivalience, defined as the wilful avoidance of one's official responsibilities. It sounds plausible and even has a pronunciation guide. But nobody had ever said it. The editors invented it and slipped it in among real words, so that if it turned up elsewhere they would know their work had been copied.",
+  "bullets": [
+    {
+      "opening": "The New Yorker's hunt",
+      "linkId": null,
+      "text": "In 2005 the writer Henry Alford heard a rumour that the dictionary held a fake word. He asked lexicographers to search the words beginning with e, and the editor Jesse Sheidlower picked out esquivalience as the odd one."
+    },
+    {
+      "opening": "Christine Lindberg's invention",
+      "linkId": null,
+      "text": "The word was coined by Christine Lindberg, one of the dictionary's editors. The editor in chief, Erin McKean, confirmed the plant and said it had been in the book since the first edition in 2001."
+    },
+    {
+      "opening": "A fake French root",
+      "linkId": null,
+      "text": "The entry even gave the word a believable history, hinting at the French verb esquiver, to dodge or slink away. That touch of real etymology is what made it so hard to spot."
+    },
+    {
+      "opening": "Caught on Dictionary.com",
+      "linkId": null,
+      "text": "The trap seemed to work. Esquivalience showed up on Dictionary.com, credited to a different publisher's dictionary, and was quietly removed after the story came out."
+    }
+  ],
+  "tags": [
+    "names",
+    "etymology",
+    "hoaxes",
+    "dictionaries"
+  ],
+  "related": [
+    "dord",
+    "agloe-new-york",
+    "mountains-of-kong",
+    "eggcorn",
+    "run-most-meanings"
+  ]
+}

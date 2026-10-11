@@ -1,0 +1,42 @@
+{
+  "id": "goodbye-origin",
+  "title": "Goodbye began as 'God be with ye'",
+  "category": "Language",
+  "hook": "Every time you say goodbye, you are saying a squashed four-word blessing.",
+  "peek": "Goodbye started life as 'God be with ye', a parting blessing. Centuries of hurried farewells wore it down to a single word, and along the way 'God' quietly turned into 'good'.",
+  "lede": "In Shakespeare's England, people parted by saying 'God be with ye'. Said quickly, over and over, the phrase collapsed into something like 'godbwye'. Then a second change crept in. Because people already said 'good day', 'good morning' and 'good night', the first part was heard as 'good', and the blessing became the plain farewell we use today.",
+  "bullets": [
+    {
+      "opening": "Gabriel Harvey's godbwyes",
+      "linkId": null,
+      "text": "One of the earliest written traces comes from a 1573 letter by the scholar Gabriel Harvey, who jokingly answers a friend's 'gallonde of godbwyes' with a 'pottle of howdyes'. The squashed form was clearly already in everyday speech."
+    },
+    {
+      "opening": "Shakespeare's spellings",
+      "linkId": null,
+      "text": "Printed plays from around 1600 show the phrase mid-collapse, with spellings like 'God buy you' and 'God be wi' you'. Writers were trying to capture a word that was still changing in people's mouths."
+    },
+    {
+      "opening": "From God to good",
+      "linkId": null,
+      "text": "The switch to 'good' came by analogy with the other greetings built on 'good'. By the 1600s and 1700s the spelling 'goodbye' was winning, and most speakers no longer heard any blessing in it."
+    },
+    {
+      "opening": "Bye and bye-bye",
+      "linkId": null,
+      "text": "Once 'goodbye' felt like one word, it could be clipped further. 'Bye' and the childlike 'bye-bye' are shortenings of it, which makes them the last tiny remnants of the original 'be with ye'."
+    }
+  ],
+  "tags": [
+    "etymology",
+    "language-change",
+    "greetings"
+  ],
+  "related": [
+    "hello-on-the-phone",
+    "ok-origin",
+    "nickname-rebracketing",
+    "letter-thorn",
+    "great-vowel-shift"
+  ]
+}

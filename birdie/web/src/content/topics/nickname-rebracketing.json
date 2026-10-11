@@ -1,0 +1,43 @@
+{
+  "id": "nickname-rebracketing",
+  "title": "How 'an ekename' became 'a nickname'",
+  "category": "Language",
+  "hook": "A nickname was once an ekename, until an n jumped across the gap.",
+  "peek": "In medieval English an extra name was an 'ekename'. Spoken aloud, 'an ekename' sounds just like 'a nekename', and listeners split it the wrong way. The same slip, running in the other direction, turned 'a napron' into 'an apron'.",
+  "lede": "In Middle English, 'eke' meant also or extra, so a name added to your real one was an ekename. The trouble was the word 'an'. Said aloud, 'an ekename' and 'a nekename' sound identical, and over the 1400s people began hearing the n as part of the noun. Linguists call this rebracketing: the sounds stay the same, but the boundary between words moves.",
+  "bullets": [
+    {
+      "opening": "The word eke",
+      "linkId": null,
+      "text": "Eke survives in the phrase 'to eke out', meaning to stretch something by adding a little extra. A nickname is literally an eke name, an added name, which is why it has nothing to do with anyone called Nick."
+    },
+    {
+      "opening": "A napron to an apron",
+      "linkId": null,
+      "text": "The n can leak the other way too. The cloth worn over clothes was a 'napron', related to napkin and the French nappe, tablecloth. 'A napron' was heard as 'an apron', and the n dropped off."
+    },
+    {
+      "opening": "Adders, umpires and oranges",
+      "linkId": null,
+      "text": "The same slip gave us 'an adder' from 'a nadder' and 'an umpire' from 'a noumpere'. Orange lost its n on its way into the European languages from Arabic naranj."
+    },
+    {
+      "opening": "A newt from an ewt",
+      "linkId": null,
+      "text": "Newt went the same way as nickname. The little amphibian was an 'ewt' or 'evet', and 'an ewt' turned into 'a newt'. Its old form lingers in dialect as 'eft'."
+    }
+  ],
+  "tags": [
+    "etymology",
+    "language-change",
+    "names",
+    "misheard-words"
+  ],
+  "related": [
+    "eggcorn",
+    "goodbye-origin",
+    "debt-silent-b",
+    "letter-thorn",
+    "ok-origin"
+  ]
+}

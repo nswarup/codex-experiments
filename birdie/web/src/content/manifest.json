@@ -3348,5 +3348,65 @@
   "id": "hangul",
   "title": "Hangul, the alphabet shaped like the mouth",
   "category": "Language"
+ },
+ {
+  "id": "esquivalience",
+  "title": "Esquivalience, the dictionary's trap word",
+  "category": "Language"
+ },
+ {
+  "id": "goodbye-origin",
+  "title": "Goodbye began as 'God be with ye'",
+  "category": "Language"
+ },
+ {
+  "id": "nickname-rebracketing",
+  "title": "How 'an ekename' became 'a nickname'",
+  "category": "Language"
+ },
+ {
+  "id": "algorithm-word",
+  "title": "The man inside 'algorithm'",
+  "category": "Language"
+ },
+ {
+  "id": "computer-job-title",
+  "title": "When 'computer' was a job title",
+  "category": "Language"
+ },
+ {
+  "id": "byte-spelling",
+  "title": "Why 'byte' has a y",
+  "category": "Language"
+ },
+ {
+  "id": "chinese-typewriter",
+  "title": "The Chinese typewriter",
+  "category": "Language"
+ },
+ {
+  "id": "cuneiform-accounts",
+  "title": "Writing began as bookkeeping",
+  "category": "Language"
+ },
+ {
+  "id": "icelandic-tolva",
+  "title": "Why Icelanders call a computer a 'number prophetess'",
+  "category": "Language"
+ },
+ {
+  "id": "debt-silent-b",
+  "title": "The silent b in 'debt'",
+  "category": "Language"
+ },
+ {
+  "id": "webster-spelling",
+  "title": "Why Americans write 'color'",
+  "category": "Language"
+ },
+ {
+  "id": "oxford-comma-dairy",
+  "title": "The missing comma that cost $5 million",
+  "category": "Language"
  }
 ]

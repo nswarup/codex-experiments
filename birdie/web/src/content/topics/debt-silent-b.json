@@ -1,0 +1,43 @@
+{
+  "id": "debt-silent-b",
+  "title": "The silent b in 'debt'",
+  "category": "Language",
+  "hook": "English spelled debt without a b for centuries, until scholars stuck one in.",
+  "peek": "The b in debt has never been pronounced in English. Renaissance scholars added it to show the word's Latin roots, debitum, and the spelling stuck. Doubt and receipt got their silent letters the same way.",
+  "lede": "In Middle English, debt was spelled dette or det, and pronounced just as it is now. The word came from Old French, which had already worn the Latin debitum down. Then, in the 1400s and 1500s, scholars proud of their Latin started adding letters back to show where words came from. Det became debt on the page, but nobody started saying the b.",
+  "bullets": [
+    {
+      "opening": "Doubt and receipt",
+      "linkId": null,
+      "text": "The same urge gave doubt its b, after Latin dubitare, and receipt its p, after recipere. Both were once spelled doute and receite, matching how they sounded."
+    },
+    {
+      "opening": "Holofernes in Love's Labour's Lost",
+      "linkId": null,
+      "text": "Shakespeare mocked the fashion. His pedant Holofernes complains that people say 'det' when they should pronounce the b in debt, which shows how silly the idea of sounding it out seemed."
+    },
+    {
+      "opening": "The s in island",
+      "linkId": null,
+      "text": "Sometimes the scholars guessed wrong. Island comes from Old English igland and has no link to Latin insula, but it gained an s by confusion with the French isle."
+    },
+    {
+      "opening": "Etymological spelling",
+      "linkId": null,
+      "text": "Linguists call these etymological spellings. They make English harder to spell, but they also leave visible clues to a word's family, linking debt to debit and doubt to dubious."
+    }
+  ],
+  "tags": [
+    "etymology",
+    "spelling",
+    "language-change",
+    "myths-busted"
+  ],
+  "related": [
+    "great-vowel-shift",
+    "letter-thorn",
+    "webster-spelling",
+    "nickname-rebracketing",
+    "eggcorn"
+  ]
+}

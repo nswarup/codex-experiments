@@ -1,0 +1,43 @@
+{
+  "id": "algorithm-word",
+  "title": "The man inside 'algorithm'",
+  "category": "Language",
+  "hook": "Algorithm is a person's name, bent out of shape by medieval Latin.",
+  "peek": "The word algorithm hides a 9th-century scholar from Baghdad, al-Khwarizmi. Latin translators turned his name into 'Algoritmi', and the same man's book on equations gave English the word algebra.",
+  "lede": "Around the year 820, a scholar called Muhammad ibn Musa al-Khwarizmi worked at the House of Wisdom in Baghdad. His surname means 'the one from Khwarazm', a region of Central Asia. He wrote a book explaining the Hindu-Arabic numerals and how to calculate with them. When Europeans translated it into Latin, his name came along, and slowly became a word for any step-by-step method.",
+  "bullets": [
+    {
+      "opening": "Algoritmi de numero Indorum",
+      "linkId": null,
+      "text": "A 12th-century Latin translation of his arithmetic book opens with 'Dixit Algoritmi', meaning 'Algoritmi says'. Its title is usually given as Algoritmi de numero Indorum, al-Khwarizmi on the numbers of the Indians."
+    },
+    {
+      "opening": "Algorism before algorithm",
+      "linkId": null,
+      "text": "In medieval Europe, 'algorism' meant reckoning with the new numerals instead of Roman numbers or a counting board. The th crept in later, probably by confusion with the Greek arithmos, number."
+    },
+    {
+      "opening": "The book of al-jabr",
+      "linkId": null,
+      "text": "Al-Khwarizmi also wrote a book on solving equations with al-jabr in its title, meaning restoring or reuniting broken parts. That word became algebra, so one man gave English two of its central maths words."
+    },
+    {
+      "opening": "From sums to computers",
+      "linkId": null,
+      "text": "For centuries algorithm simply meant a method of calculation. Only in the 20th century, with computing, did it come to mean the precise recipe of steps a machine follows."
+    }
+  ],
+  "tags": [
+    "etymology",
+    "names",
+    "history-of-things",
+    "numbers"
+  ],
+  "related": [
+    "computer-job-title",
+    "leibniz-binary",
+    "robot-word",
+    "equals-sign",
+    "sixty-minute-hour"
+  ]
+}

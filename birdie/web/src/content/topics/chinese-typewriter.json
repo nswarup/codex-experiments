@@ -1,0 +1,43 @@
+{
+  "id": "chinese-typewriter",
+  "title": "The Chinese typewriter",
+  "category": "Language",
+  "hook": "Typing Chinese meant hunting through a tray of metal characters, one at a time.",
+  "peek": "A Chinese typewriter had no keyboard. Typists picked each character from a grid of thousands of metal slugs. To go faster they rearranged the grid so words that often appear together sat side by side, a kind of predictive text by hand.",
+  "lede": "Written Chinese uses thousands of characters, so a Western keyboard with one key per letter could never work. Instead, the common Chinese typewriter of the 20th century held a flat tray of metal type, roughly 2,500 characters in a grid. The typist slid a lever over the right one and pressed, and the machine picked it up and struck it on the paper.",
+  "bullets": [
+    {
+      "opening": "Shu Zhendong's tray machine",
+      "linkId": null,
+      "text": "One of the best-known designs came from the engineer Shu Zhendong in the 1910s and 1920s, made by the Commercial Press in Shanghai. Rarer characters lived in spare boxes and were swapped into the tray when needed."
+    },
+    {
+      "opening": "Rearranging the character grid",
+      "linkId": null,
+      "text": "Typists in the 1950s and 1960s began moving characters out of dictionary order and into clusters of words that often appear together. Historian Thomas Mullaney argues this was an early form of predictive text."
+    },
+    {
+      "opening": "Thomas Mullaney's research",
+      "linkId": null,
+      "text": "Much of what we know comes from Mullaney, a Stanford historian who collected machines and manuals for his 2017 book The Chinese Typewriter. He shows the machines were not a joke but a clever answer to a hard problem."
+    },
+    {
+      "opening": "Lin Yutang's MingKwai",
+      "linkId": null,
+      "text": "In 1947 the writer Lin Yutang unveiled the MingKwai, a Chinese typewriter with a small keyboard that let typists narrow down characters by their shapes. It never went into production, and the costs left him heavily in debt."
+    }
+  ],
+  "tags": [
+    "writing-systems",
+    "inventors",
+    "history-of-things",
+    "design"
+  ],
+  "related": [
+    "etaoin-shrdlu",
+    "quick-brown-fox",
+    "hangul",
+    "cherokee-syllabary",
+    "phone-keypad-layout"
+  ]
+}

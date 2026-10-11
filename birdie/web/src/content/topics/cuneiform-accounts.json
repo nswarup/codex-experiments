@@ -1,0 +1,48 @@
+{
+  "id": "cuneiform-accounts",
+  "title": "Writing began as bookkeeping",
+  "category": "Language",
+  "hook": "The first writing was not poetry or law. It was mostly receipts for barley and beer.",
+  "peek": "The oldest known writing, from the Mesopotamian city of Uruk over 5,000 years ago, is mostly accounting. Clay tablets track barley, sheep, workers and beer rations. Stories and poems only arrived centuries later.",
+  "lede": "Around 3300 to 3000 BC, scribes in the city of Uruk, in what is now Iraq, began pressing signs into wet clay. Archaeologists have found thousands of these early tablets. Most are administrative: who received how much grain, how many sheep a herd held, how much beer was handed out as wages. Writing seems to have started as a way to keep the books.",
+  "bullets": [
+    {
+      "opening": "The Uruk tablets",
+      "linkId": null,
+      "text": "Experts estimate that about 85 to 90 percent of the earliest Uruk tablets are economic records. Much of the rest are word lists, which scribes copied to learn the signs."
+    },
+    {
+      "opening": "Kushim's barley receipts",
+      "linkId": "kushim",
+      "text": "One tablet signed Kushim records a large amount of barley over about three years. Kushim may be one of the earliest people in history whose name we can read, and we know them only as an accountant."
+    },
+    {
+      "opening": "Counting before words",
+      "linkId": null,
+      "text": "Many early signs are numbers and objects, not sentences. A tablet might show a mark for sheep beside marks for a quantity, with no verbs at all. Grammar and spoken language crept into writing slowly."
+    },
+    {
+      "opening": "Clay tokens and envelopes",
+      "linkId": null,
+      "text": "One influential theory, from archaeologist Denise Schmandt-Besserat, holds that writing grew out of small clay tokens used to count goods. Not every scholar accepts the full story, but the link to accounting is widely agreed."
+    },
+    {
+      "opening": "Literature arrives later",
+      "linkId": null,
+      "text": "Myths, hymns and the Epic of Gilgamesh were written down many centuries after the first receipts. For a long time, writing was simply too useful for bookkeeping to be spent on stories."
+    }
+  ],
+  "tags": [
+    "writing-systems",
+    "history-of-things",
+    "ancient-world",
+    "numbers"
+  ],
+  "related": [
+    "kushim",
+    "ea-nasir-complaint",
+    "diary-of-merer",
+    "rosetta-stone",
+    "linear-b"
+  ]
+}

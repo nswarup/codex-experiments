@@ -1,0 +1,43 @@
+{
+  "id": "oxford-comma-dairy",
+  "title": "The missing comma that cost $5 million",
+  "category": "Language",
+  "hook": "A lawsuit about dairy drivers' overtime came down to one missing comma.",
+  "peek": "Maine's overtime law listed jobs that did not earn overtime, but left out a comma before the last item. Dairy drivers argued that the gap changed the meaning. A federal court agreed, and the dairy settled for $5 million.",
+  "lede": "Maine law excused some workers from overtime pay, including those involved in 'packing for shipment or distribution' of perishable foods. Delivery drivers at Oakhurst Dairy said this meant packing for shipment or for distribution, which they did not do. Their employer read 'distribution' as its own item. Had the law used an Oxford comma before 'or', there would have been no argument.",
+  "bullets": [
+    {
+      "opening": "O'Connor v. Oakhurst Dairy",
+      "linkId": null,
+      "text": "In March 2017 a federal appeals court in Boston sided with the drivers. Judge David Barron's opinion opened, 'For want of a comma, we have this case.'"
+    },
+    {
+      "opening": "The Oxford comma",
+      "linkId": null,
+      "text": "The serial or Oxford comma is the one before the final 'and' or 'or' in a list. Style guides disagree about it, and Maine's own drafting manual told lawmakers to leave it out."
+    },
+    {
+      "opening": "The $5 million settlement",
+      "linkId": null,
+      "text": "In 2018 Oakhurst agreed to pay $5 million to the drivers, ending the case. It became one of the most expensive pieces of punctuation in recent history."
+    },
+    {
+      "opening": "Maine's semicolons",
+      "linkId": null,
+      "text": "Maine lawmakers then rewrote the passage. Rather than adding the disputed comma, they used semicolons and the word 'distributing', so that each activity now sits clearly on its own."
+    }
+  ],
+  "tags": [
+    "punctuation",
+    "grammar",
+    "law",
+    "ambiguity"
+  ],
+  "related": [
+    "buffalo-sentence",
+    "garden-path-sentence",
+    "pilcrow",
+    "spaces-between-words",
+    "indiana-pi-bill"
+  ]
+}

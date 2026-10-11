@@ -1,0 +1,43 @@
+{
+  "id": "icelandic-tolva",
+  "title": "Why Icelanders call a computer a 'number prophetess'",
+  "category": "Language",
+  "hook": "Iceland's word for computer blends 'number' with an old word for a seeress.",
+  "peek": "Icelandic prefers to build new words from its own roots rather than borrow foreign ones. So in the 1960s the computer became tölva, a blend of tala, number, and völva, a prophetess from the old sagas.",
+  "lede": "Most languages simply borrowed the English word computer. Icelandic did not. It has a long habit of coining native words for new things, often by reviving or combining old ones. In 1965 the scholar Sigurður Nordal proposed tölva, which joins tala, meaning number, with völva, a seeress or prophetess from Norse myth. A computer became, in effect, a number prophetess.",
+  "bullets": [
+    {
+      "opening": "Sigurður Nordal's coinage",
+      "linkId": null,
+      "text": "Nordal was a leading professor of Icelandic literature. His word stuck, though some people at first found it odd to compare a machine to a pagan seeress. Today tölva is completely ordinary."
+    },
+    {
+      "opening": "The völva of the sagas",
+      "linkId": null,
+      "text": "In Norse tradition a völva was a wise woman who foresaw the future. The most famous poem of the Poetic Edda, Völuspá, is literally the prophecy of the völva."
+    },
+    {
+      "opening": "Rafreiknir, the rival word",
+      "linkId": null,
+      "text": "Before tölva caught on, Icelanders used more literal terms such as rafreiknir, roughly electric calculator. The shorter, more playful word won, and it bends easily into new forms, like the plural tölvur."
+    },
+    {
+      "opening": "Sími, the telephone",
+      "linkId": null,
+      "text": "Tölva follows a tradition. The telephone is sími, an old word for a thread or wire, given a new job around 1900. Email is tölvupóstur, computer post."
+    }
+  ],
+  "tags": [
+    "etymology",
+    "language-change",
+    "words-for-tech",
+    "names"
+  ],
+  "related": [
+    "computer-job-title",
+    "robot-word",
+    "esperanto",
+    "letter-thorn",
+    "byte-spelling"
+  ]
+}

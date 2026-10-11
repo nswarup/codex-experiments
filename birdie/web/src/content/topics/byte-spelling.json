@@ -1,0 +1,43 @@
+{
+  "id": "byte-spelling",
+  "title": "Why 'byte' has a y",
+  "category": "Language",
+  "hook": "Byte is spelled with a y on purpose, so nobody would confuse it with bit.",
+  "peek": "In 1956 an IBM engineer needed a name for a small group of bits. He chose 'bite', then changed one letter so a typo could never turn it into 'bit'. That deliberate y is still on every storage label.",
+  "lede": "In 1956 Werner Buchholz was working on IBM's Stretch supercomputer and needed a word for a chunk of bits that the machine handled as one character. He picked 'bite', a small mouthful of data. Then he respelled it 'byte'. The worry was practical: one dropped letter would turn bite into bit, and in technical documents that mistake could go unnoticed.",
+  "bullets": [
+    {
+      "opening": "Werner Buchholz at IBM",
+      "linkId": null,
+      "text": "Buchholz later described the respelling as a deliberate way to avoid accidental mutation to bit. The word appeared in IBM's internal Stretch papers in 1956 and in his published writing on the machine in the years after."
+    },
+    {
+      "opening": "Bytes of any size",
+      "linkId": null,
+      "text": "On Stretch, a byte was not fixed at eight bits. It could be anything from one to eight, depending on the job. The eight-bit byte became standard with IBM's System/360 computers, launched in 1964."
+    },
+    {
+      "opening": "The word bit",
+      "linkId": null,
+      "text": "Byte was built to sit beside bit, short for binary digit. The statistician John Tukey suggested bit in the 1940s, and Claude Shannon made it famous in his 1948 paper on information."
+    },
+    {
+      "opening": "Nibbles and nybbles",
+      "linkId": null,
+      "text": "Engineers kept the food joke going. Half a byte, four bits, became a nibble, sometimes spelled nybble to match the y in byte. It is handy because one nibble holds exactly one hexadecimal digit."
+    }
+  ],
+  "tags": [
+    "etymology",
+    "inventors",
+    "names",
+    "computing"
+  ],
+  "related": [
+    "computer-job-title",
+    "grace-hopper-nanosecond",
+    "google-googol",
+    "leibniz-binary",
+    "icelandic-tolva"
+  ]
+}

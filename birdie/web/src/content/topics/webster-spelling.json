@@ -1,0 +1,43 @@
+{
+  "id": "webster-spelling",
+  "title": "Why Americans write 'color'",
+  "category": "Language",
+  "hook": "American spelling was partly one man's project to give a new nation its own words.",
+  "peek": "Noah Webster wanted the young United States to have a language of its own. His dictionaries pushed spellings like color, center and music, and many stuck. Some of his bolder ideas, like tung for tongue, did not.",
+  "lede": "After American independence, a schoolteacher named Noah Webster set out to reform English spelling. He believed the new country deserved its own standard, and that simpler spellings would be easier to learn. In 1789 he wrote that 'as an independent nation, our honor requires us to have a system of our own, in language as well as government.' His books made that idea real.",
+  "bullets": [
+    {
+      "opening": "The blue-backed speller",
+      "linkId": null,
+      "text": "Webster's spelling book, first published in 1783, taught generations of American children to read. It is often said to have sold tens of millions of copies, which spread his spellings into homes and schools."
+    },
+    {
+      "opening": "An American Dictionary, 1828",
+      "linkId": null,
+      "text": "His great dictionary of 1828 held about 70,000 entries. It used color, honor, center and theater, and dropped the k from words like musick and publick."
+    },
+    {
+      "opening": "Tung, wimmen and other misses",
+      "linkId": null,
+      "text": "Not all his reforms took. At various points Webster favoured spellings like tung for tongue and wimmen for women. Readers and printers simply ignored them, and later editions of his dictionary quietly dropped many of the oddest ones."
+    },
+    {
+      "opening": "Spellings older than Webster",
+      "linkId": null,
+      "text": "Webster did not invent most of these forms. Spellings like color and honor already existed in older English. His achievement was choosing among them and making the choice stick in America."
+    }
+  ],
+  "tags": [
+    "spelling",
+    "dictionaries",
+    "language-change",
+    "inventors"
+  ],
+  "related": [
+    "debt-silent-b",
+    "great-vowel-shift",
+    "ok-origin",
+    "esquivalience",
+    "letter-thorn"
+  ]
+}
