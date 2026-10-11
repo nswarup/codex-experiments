@@ -1,0 +1,43 @@
+{
+  "id": "escalator-trademark",
+  "title": "When \"escalator\" lost its capital E",
+  "category": "Inventions",
+  "hook": "Escalator was a brand name until 1950, when Otis lost it to everyday speech.",
+  "peek": "The word escalator was invented as a product name and owned by the Otis Elevator Company. In 1950 a ruling found that the word had become ordinary English, partly because Otis itself used it for any moving stairway.",
+  "lede": "Moving stairways existed before the word escalator did. Around 1900 the inventor Charles Seeberger coined Escalator for his design, blending scala, Latin for steps, with elevator. The Otis Elevator Company bought his patents and the name. Then, in 1950, the US Patent Office ruled that escalator had become a generic word, and anyone could use it.",
+  "bullets": [
+    {
+      "opening": "Jesse Reno's inclined elevator",
+      "linkId": null,
+      "text": "The first working moving stairway in the United States came from Jesse Reno, patented in 1892. It was a sloping conveyor with ridges rather than flat steps, and it ran as a ride at Coney Island in 1896."
+    },
+    {
+      "opening": "Paris Exposition of 1900",
+      "linkId": null,
+      "text": "Otis and Seeberger showed a step-type Escalator at the Paris Exposition of 1900, where it won a top prize. Otis went on to buy Seeberger's rights and, later, Reno's company too."
+    },
+    {
+      "opening": "Haughton Elevator's challenge",
+      "linkId": null,
+      "text": "A rival maker, Haughton Elevator, challenged the trademark. The Patent Office pointed to Otis's own adverts, which used escalator as a lowercase word for moving stairs in general. A company cannot claim a word it uses as the common name."
+    },
+    {
+      "opening": "Genericide",
+      "linkId": null,
+      "text": "Lawyers call this loss genericide: a brand so successful that its name becomes the ordinary word for the thing. Escalator is one of the textbook cases taught to trademark students."
+    }
+  ],
+  "tags": [
+    "names",
+    "etymology",
+    "language-change",
+    "inventors"
+  ],
+  "related": [
+    "zipper-name",
+    "ping-pong-trademark",
+    "otis-safety-elevator",
+    "sriracha-trademark",
+    "happy-birthday-copyright"
+  ]
+}

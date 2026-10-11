@@ -1,0 +1,43 @@
+{
+  "id": "lawn-mower-budding",
+  "title": "The lawn mower came from a cloth mill",
+  "category": "Inventions",
+  "hook": "The lawn mower began as a machine for giving woollen cloth a smooth finish.",
+  "peek": "Edwin Budding worked in Gloucestershire, where cloth mills used spinning blades to shave the fuzz off woollen fabric. In 1830 he patented the same idea on wheels, for cutting grass.",
+  "lede": "Before 1830, lawns were cut with scythes or kept short by grazing sheep. Edwin Budding, an engineer near Stroud in Gloucestershire, knew the local cloth mills, where a cylinder of spiral blades sheared the raised nap off woollen cloth to leave a smooth finish. He set a similar cylinder between two rollers and pushed it across grass. His patent was granted in 1830.",
+  "bullets": [
+    {
+      "opening": "Cross-cutting cloth shears",
+      "linkId": null,
+      "text": "The mill machine Budding adapted spun a bladed cylinder against a fixed bottom blade, trimming fibres like scissors. His mower worked the same way, which is why most reel mowers today still cut with a scissor action."
+    },
+    {
+      "opening": "John Ferrabee's foundry",
+      "linkId": null,
+      "text": "Budding went into partnership with John Ferrabee, who owned the Phoenix Iron Works at Thrupp, near Stroud. The early mowers were cast iron, heavy and made in small numbers."
+    },
+    {
+      "opening": "Regent's Park Zoo's mower",
+      "linkId": null,
+      "text": "One of the first buyers was the Zoological Gardens in Regent's Park, London. Large estates, sports grounds and colleges followed, as smooth lawns became easier to keep."
+    },
+    {
+      "opening": "Mowing at night",
+      "linkId": null,
+      "text": "Local legend says Budding tested his machine after dark so neighbours would not laugh at him. Historians cannot confirm this, but it is still told around Stroud."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "history-of-things",
+    "design",
+    "patents"
+  ],
+  "related": [
+    "puffing-billy-vacuum",
+    "cats-eyes-road-studs",
+    "golf-ball-dimples",
+    "levis-rivet",
+    "vulcanized-rubber"
+  ]
+}

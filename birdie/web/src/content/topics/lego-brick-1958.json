@@ -1,0 +1,43 @@
+{
+  "id": "lego-brick-1958",
+  "title": "The 1958 Lego brick",
+  "category": "Inventions",
+  "hook": "A Lego brick from 1958 still clicks onto one bought this morning.",
+  "peek": "Lego patented its stud-and-tube brick in January 1958. The design has barely changed since, so a brick from that first year still locks firmly onto a brand new one, decades and billions of bricks later.",
+  "lede": "Lego's early plastic bricks, sold from 1949, had studs on top but were hollow underneath, so models fell apart easily. Godtfred Kirk Christiansen and his team fixed this by adding hollow tubes inside the brick that grip the studs below. Lego filed the patent in Copenhagen on 28 January 1958. Bricks made that year still fit today's bricks perfectly.",
+  "bullets": [
+    {
+      "opening": "Automatic Binding Bricks",
+      "linkId": null,
+      "text": "The first Lego plastic bricks of 1949 were called Automatic Binding Bricks. They were modelled on a British design by Kiddicraft, and their weak grip made them unpopular with shops and children alike."
+    },
+    {
+      "opening": "Clutch power from tubes",
+      "linkId": null,
+      "text": "The tubes underneath press against the studs of the brick below, while the outer walls grip them from the other side. Lego calls the result clutch power: bricks hold firmly yet pull apart by hand, in almost any combination of sizes."
+    },
+    {
+      "opening": "Cellulose acetate to ABS",
+      "linkId": null,
+      "text": "The 1958 bricks were made of cellulose acetate, which could warp and fade. In 1963 Lego switched to ABS plastic, which keeps its shape better, but kept the exact dimensions so old and new bricks still fit."
+    },
+    {
+      "opening": "Duplo bricks fit too",
+      "linkId": null,
+      "text": "When Lego launched the larger Duplo bricks for toddlers in 1969, it designed them so that ordinary bricks attach to them. Even the change in size kept faith with the 1958 pattern."
+    }
+  ],
+  "tags": [
+    "design",
+    "games",
+    "history-of-things",
+    "inventors"
+  ],
+  "related": [
+    "slinky",
+    "tetris-origin",
+    "landlords-game",
+    "ikea-flat-pack",
+    "play-doh"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "etch-a-sketch",
+  "title": "What's inside an Etch A Sketch",
+  "category": "Inventions",
+  "hook": "An Etch A Sketch draws by scraping metal powder off the back of its glass.",
+  "peek": "The red-framed drawing toy holds no ink at all. Its knobs steer a small stylus that wipes fine aluminium powder off the inside of the screen, leaving dark lines. Turn it over and shake, and the powder coats the glass again.",
+  "lede": "The screen of an Etch A Sketch is coated on the inside with fine aluminium powder, mixed with tiny plastic beads that help it flow. Behind the glass, a metal stylus hangs on a set of strings and pulleys. The two knobs drive it left and right, up and down. Where the stylus scrapes away powder, you see the dark inside of the box.",
+  "bullets": [
+    {
+      "opening": "André Cassagnes and the switch plate",
+      "linkId": null,
+      "text": "French electrician André Cassagnes came up with the idea in the 1950s. The story goes that he noticed pencil marks showing through a protective film peeled from a light switch plate, where fine powder had clung to it."
+    },
+    {
+      "opening": "L'Écran Magique",
+      "linkId": null,
+      "text": "Cassagnes and his backer called it L'Écran Magique, the magic screen, and showed it at the Nuremberg Toy Fair in 1959. The Ohio Art Company bought the rights and sold it as Etch A Sketch in time for Christmas 1960."
+    },
+    {
+      "opening": "Why shaking erases",
+      "linkId": null,
+      "text": "Turning the toy upside down and shaking it tumbles the powder and beads back over the glass, coating it evenly again. The picture is not deleted so much as covered up with fresh powder."
+    },
+    {
+      "opening": "Drawing in one line",
+      "linkId": null,
+      "text": "Because the stylus never lifts, every picture is one continuous line. Smooth curves and diagonals mean turning both knobs at once, which is why skilled Etch A Sketch artists are so admired."
+    }
+  ],
+  "tags": [
+    "games",
+    "design",
+    "history-of-things",
+    "inventors"
+  ],
+  "related": [
+    "slinky",
+    "silly-putty",
+    "play-doh",
+    "lego-brick-1958",
+    "kaleidoscope",
+    "magic-8-ball"
+  ]
+}

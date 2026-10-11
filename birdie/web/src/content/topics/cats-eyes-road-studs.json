@@ -1,0 +1,43 @@
+{
+  "id": "cats-eyes-road-studs",
+  "title": "Cat's eyes on the road",
+  "category": "Inventions",
+  "hook": "Cat's eyes road studs clean themselves every time a car drives over them.",
+  "peek": "Percy Shaw's road studs, patented in 1934, light up dark roads with car headlights. Each one sits in a rubber casing, and when a tyre presses it down, the glass reflectors are wiped clean against a rubber pad.",
+  "lede": "In 1934 Percy Shaw, a road contractor from Halifax in Yorkshire, patented a reflecting road stud. A pair of glass reflectors sits in a flexible rubber dome, set into a cast iron base sunk into the road. When a tyre rolls over it, the dome squashes down and a rubber flap wipes the glass. Each passing car cleans the stud a little.",
+  "bullets": [
+    {
+      "opening": "How Shaw got the idea",
+      "linkId": null,
+      "text": "Shaw told the story in different ways. In one, the eyes of a cat on a fence lit up in his headlights on a foggy night. In another, he followed the shine of polished tram rails home."
+    },
+    {
+      "opening": "The rainwater wash",
+      "linkId": null,
+      "text": "The cast iron base also catches rainwater. When the dome is pushed down, the wiper sweeps that water across the reflectors, so a wet day gives the studs an extra rinse."
+    },
+    {
+      "opening": "Mirrored glass reflectors",
+      "linkId": null,
+      "text": "The reflectors work like the eye they are named after: curved glass sends headlight beams back toward the driver. A driver sees the line of the road glowing ahead, with no power supply needed."
+    },
+    {
+      "opening": "Wartime blackouts",
+      "linkId": null,
+      "text": "Sales took off during the Second World War, when blackout rules kept street lights off and car headlights dimmed. Britain later made the studs standard on its roads, and Shaw was awarded an OBE in 1965."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "light",
+    "design",
+    "cats"
+  ],
+  "related": [
+    "windscreen-wiper",
+    "fresnel-lens",
+    "safety-pin",
+    "barcode-sand",
+    "lawn-mower-budding"
+  ]
+}

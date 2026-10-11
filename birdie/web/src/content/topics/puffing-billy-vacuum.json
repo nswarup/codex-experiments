@@ -1,0 +1,43 @@
+{
+  "id": "puffing-billy-vacuum",
+  "title": "The horse-drawn vacuum cleaner",
+  "category": "Inventions",
+  "hook": "The first powered vacuum cleaner was so big it was pulled through London by horses.",
+  "peek": "In 1901 Hubert Booth built a motor-driven vacuum cleaner the size of a cart. It was parked in the street, and long hoses snaked through the windows to suck dust from carpets inside.",
+  "lede": "In 1901 the British engineer Hubert Cecil Booth patented a powered machine that sucked dust out of carpets rather than blowing it about. It was enormous. The engine and pump sat on a horse-drawn cart that parked outside a house, and workers fed long hoses in through the windows. Londoners nicknamed the bright red machine Puffing Billy.",
+  "bullets": [
+    {
+      "opening": "The handkerchief test",
+      "linkId": null,
+      "text": "Booth had watched a demonstration of a machine that blew dust off railway carriage seats. He thought suction would work better. The story goes that he tested this by pressing a handkerchief to a plush chair and sucking through it, finding a ring of dust."
+    },
+    {
+      "opening": "British Vacuum Cleaner Company",
+      "linkId": null,
+      "text": "Booth set up the British Vacuum Cleaner Company to sell cleaning as a service. Customers did not buy the machine; they booked a visit from the cart and its crew."
+    },
+    {
+      "opening": "Westminster Abbey's carpets",
+      "linkId": null,
+      "text": "The company was hired to clean the carpets at Westminster Abbey before the coronation of Edward VII in 1902. Royal interest helped make the idea fashionable."
+    },
+    {
+      "opening": "Vacuum parties",
+      "linkId": null,
+      "text": "Society hostesses reportedly held parties where guests watched the dust travel through glass sections of the hose. Seeing how much dirt left the carpets was part of the show."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "history-of-things",
+    "scale",
+    "design"
+  ],
+  "related": [
+    "lawn-mower-budding",
+    "dishwasher-cochrane",
+    "carrier-air-conditioning",
+    "thermos-dewar",
+    "bubble-wrap"
+  ]
+}

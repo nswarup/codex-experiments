@@ -1,0 +1,48 @@
+{
+  "id": "ferris-wheel",
+  "title": "The first Ferris wheel",
+  "category": "Inventions",
+  "hook": "The first Ferris wheel was Chicago's answer to the Eiffel Tower.",
+  "peek": "For the 1893 World's Fair in Chicago, organisers wanted something to beat Paris's Eiffel Tower. A young bridge engineer offered a giant steel wheel with 36 cars, each big enough to carry about 60 people.",
+  "lede": "Paris had wowed the world with the Eiffel Tower at its 1889 fair. When Chicago won the 1893 World's Columbian Exposition, its organisers asked American engineers for something to top it. George Washington Gale Ferris Jr., a Pittsburgh bridge engineer, proposed a steel wheel about 80 metres tall. Officials worried it would collapse, but it opened in June 1893 and ran all summer.",
+  "bullets": [
+    {
+      "opening": "Thirty-six cars of sixty",
+      "linkId": null,
+      "text": "The wheel carried 36 cars, each about the size of a small railway carriage with seats and room to stand for about 60 people. Fully loaded, it could lift more than 2,000 riders at once."
+    },
+    {
+      "opening": "The giant axle",
+      "linkId": null,
+      "text": "Its central axle was among the largest steel forgings ever made at the time, weighing about 40 tonnes. Hauling it into place and raising it onto two tall towers was the hardest part of the build."
+    },
+    {
+      "opening": "Fifty cents a ride",
+      "linkId": null,
+      "text": "A ride cost 50 cents, as much as entry to the fair itself, and took around 20 minutes for two turns. Riders included families, honeymooners and reporters, and the wheel earned back its cost."
+    },
+    {
+      "opening": "Pleasure wheels before Ferris",
+      "linkId": null,
+      "text": "Ferris did not invent the idea. Smaller wooden pleasure wheels had turned at fairs for centuries. His was the first giant steel one, and his name stuck to every big wheel after it."
+    },
+    {
+      "opening": "Moving to St Louis",
+      "linkId": null,
+      "text": "After the fair the wheel was taken apart, rebuilt in Chicago and then moved again for the 1904 St Louis World's Fair. It came down for good in 1906."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "architecture",
+    "scale",
+    "history-of-things"
+  ],
+  "related": [
+    "eiffel-tower-antenna",
+    "eiffel-apartment",
+    "dishwasher-cochrane",
+    "sagrada-familia",
+    "otis-safety-elevator"
+  ]
+}

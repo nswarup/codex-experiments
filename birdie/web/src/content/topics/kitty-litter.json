@@ -1,0 +1,43 @@
+{
+  "id": "kitty-litter",
+  "title": "Kitty litter's lucky neighbour",
+  "category": "Inventions",
+  "hook": "Modern cat litter began when a man gave his neighbour a bag of clay instead of sand.",
+  "peek": "In 1947 a young man in Michigan gave his neighbour a bag of absorbent clay to try in her cat's box instead of sand. She came back for more, and a whole industry grew from that one favour.",
+  "lede": "In January 1947, Kaye Draper of Cassopolis, Michigan, was tired of using ashes in her cat's box and asked her neighbour Edward Lowe for some sand. Lowe worked for his father's company, which sold absorbent clay to factories for soaking up grease spills. He handed her a bag of clay instead. It worked so well that she soon asked for more.",
+  "bullets": [
+    {
+      "opening": "Fuller's earth clay",
+      "linkId": null,
+      "text": "The clay Lowe offered was a kind of fuller's earth, a dried mineral that soaks up many times its weight in liquid. Unlike sand, it held moisture inside the grains and kept smells down far better."
+    },
+    {
+      "opening": "Selling the first bags",
+      "linkId": null,
+      "text": "Lowe filled five-pound paper bags, wrote Kitty Litter on them and asked a local pet shop to stock them. People doubted anyone would pay for clay when sand was nearly free, so he gave early bags away to win customers."
+    },
+    {
+      "opening": "Touring the cat shows",
+      "linkId": null,
+      "text": "Lowe built the business by touring cat shows from his car, handing out bags and asking owners to tell their friends. Demand spread by word of mouth, and his Tidy Cat brand followed in 1964."
+    },
+    {
+      "opening": "Cats moving indoors",
+      "linkId": null,
+      "text": "Before absorbent litter, most pet cats spent much of their lives outdoors, because indoor boxes of sand or ashes were messy to keep. Easy, low-odour litter made it far more practical to keep a cat inside full time."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "cats",
+    "accidents",
+    "history-of-things"
+  ],
+  "related": [
+    "frisbee-pie-tins",
+    "play-doh",
+    "post-it",
+    "cats-purr",
+    "bubble-wrap"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "dishwasher-cochrane",
+  "title": "The dishwasher built to save china",
+  "category": "Inventions",
+  "hook": "The first practical dishwasher was built to protect a set of heirloom china.",
+  "peek": "Josephine Cochrane, a well-off hostess in Illinois, was tired of her prized china getting chipped at the sink. So she designed a machine that held each dish in its own slot. Her 1886 design became a hotel favourite.",
+  "lede": "Josephine Cochrane of Shelbyville, Illinois, gave dinner parties with a treasured set of family china. By her own account, what bothered her most was not the work of washing up but the chips the dishes picked up at the sink. She decided to build a machine that would wash them without knocking them about, and received a patent in December 1886.",
+  "bullets": [
+    {
+      "opening": "Wire racks for every dish",
+      "linkId": null,
+      "text": "Her machine held plates, cups and saucers in wire compartments sized for each piece, set on a wheel inside a copper boiler. As the wheel turned, hot soapy water sprayed up over the dishes, which never touched each other."
+    },
+    {
+      "opening": "George Butters, mechanic",
+      "linkId": null,
+      "text": "Cochrane had no engineering training. She measured her dishes, drew the design and worked with a mechanic, George Butters, in a shed behind her home to build the first machine."
+    },
+    {
+      "opening": "The 1893 Chicago fair",
+      "linkId": null,
+      "text": "Cochrane showed her dishwashers at the 1893 World's Columbian Exposition in Chicago, where they won an award. The restaurants at the fair used them, and hotels became her main customers."
+    },
+    {
+      "opening": "From her firm to KitchenAid",
+      "linkId": null,
+      "text": "Her company was later bought by Hobart, whose home dishwashers were sold under the KitchenAid name. Home machines did not catch on until decades later, when houses had plenty of hot water."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "history-of-things",
+    "design",
+    "food-history"
+  ],
+  "related": [
+    "ferris-wheel",
+    "margaret-knight-paper-bag",
+    "windscreen-wiper",
+    "tupperware-parties",
+    "microwave-chocolate"
+  ]
+}

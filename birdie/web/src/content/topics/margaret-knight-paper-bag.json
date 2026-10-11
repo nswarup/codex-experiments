@@ -1,0 +1,43 @@
+{
+  "id": "margaret-knight-paper-bag",
+  "title": "Margaret Knight's flat-bottomed bag",
+  "category": "Inventions",
+  "hook": "The flat-bottomed paper bag came from a woman who had to prove it in court.",
+  "peek": "Margaret Knight designed a machine that folded and glued flat-bottomed paper bags. When a man copied her idea and claimed it was his, she took him to court with her notebooks and won her patent in 1871.",
+  "lede": "In the late 1860s Margaret Knight worked at the Columbia Paper Bag Company in Springfield, Massachusetts. Bags then were mostly narrow envelope shapes that could not stand up. Knight designed a machine that cut, folded and glued paper into a square, flat-bottomed bag. The bag at today's grocery checkout still has her basic shape.",
+  "bullets": [
+    {
+      "opening": "Charles Annan's rival claim",
+      "linkId": null,
+      "text": "While an iron model of her machine was being built in a Boston workshop, a man named Charles Annan saw it and filed a patent for the idea first. Knight challenged him."
+    },
+    {
+      "opening": "Diaries, drawings and witnesses",
+      "linkId": null,
+      "text": "Annan argued that a woman could not understand machinery well enough to design it. Knight brought her dated drawings, notebooks and people who had watched her work. The patent office sided with her, and her patent was granted in 1871."
+    },
+    {
+      "opening": "Eastern Paper Bag Company",
+      "linkId": null,
+      "text": "With a business partner, Knight set up the Eastern Paper Bag Company in Hartford, Connecticut, and earned royalties from her machine. It made bags far faster than workers folding them by hand."
+    },
+    {
+      "opening": "Lady Edison",
+      "linkId": null,
+      "text": "Knight kept inventing all her life, with more than 20 patents for things such as shoe-cutting machines and engine parts. Newspapers sometimes called her a woman Edison."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "design",
+    "history-of-things",
+    "patents"
+  ],
+  "related": [
+    "dishwasher-cochrane",
+    "windscreen-wiper",
+    "hedy-lamarr",
+    "safety-pin",
+    "gem-paper-clip"
+  ]
+}

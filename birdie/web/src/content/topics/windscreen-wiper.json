@@ -1,0 +1,43 @@
+{
+  "id": "windscreen-wiper",
+  "title": "Mary Anderson's windscreen wiper",
+  "category": "Inventions",
+  "hook": "A tram ride in New York sleet led one woman to invent the windscreen wiper.",
+  "peek": "On a winter visit to New York, Mary Anderson saw a tram driver struggling to see through his snowy front window. She went home to Alabama and designed a hand-operated wiper, patented in 1903.",
+  "lede": "During a trip to New York City around the winter of 1902, Mary Anderson of Birmingham, Alabama, rode a streetcar through sleet. The story goes that the driver had to open the front window and lean out to clear the glass, letting the cold in on everyone. Anderson sketched a fix, and in November 1903 she received a US patent for a window cleaning device.",
+  "bullets": [
+    {
+      "opening": "The lever and the blade",
+      "linkId": null,
+      "text": "Her wiper was a swinging arm with a rubber blade, worked by a lever inside the vehicle. The driver could clear the glass without stopping, and the arm could be taken off in fine weather."
+    },
+    {
+      "opening": "Turned down by companies",
+      "linkId": null,
+      "text": "Anderson offered the rights to manufacturers, including a firm in Canada. They told her the device had too little commercial value to be worth making."
+    },
+    {
+      "opening": "A patent that ran out early",
+      "linkId": null,
+      "text": "Her patent lasted 17 years and expired in 1920, just as car ownership was booming. Wipers soon became standard on cars, but Anderson never earned money from the idea."
+    },
+    {
+      "opening": "National Inventors Hall of Fame",
+      "linkId": null,
+      "text": "Anderson's work was largely forgotten for decades. In 2011 she was inducted into the National Inventors Hall of Fame for the windscreen wiper."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "weather",
+    "design",
+    "history-of-things"
+  ],
+  "related": [
+    "dishwasher-cochrane",
+    "margaret-knight-paper-bag",
+    "cats-eyes-road-studs",
+    "hedy-lamarr",
+    "safety-pin"
+  ]
+}
