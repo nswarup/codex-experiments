@@ -1,0 +1,43 @@
+{
+  "id": "baseball-rubbing-mud",
+  "title": "The secret mud on every baseball",
+  "category": "Sports",
+  "hook": "Every Major League baseball is rubbed with mud from a secret New Jersey riverbank.",
+  "peek": "New baseballs are too shiny to grip. Since 1938 the fix has been a fine mud from a spot in New Jersey that only one family knows. Before each game, umpire staff rub it into every ball.",
+  "lede": "A new baseball has a slick, glossy surface that pitchers struggle to grip. In 1938 Lena Blackburne, a coach for the Philadelphia Athletics, went looking for something better than the water and dirt used then. He found a smooth mud near his home in New Jersey, by a tributary of the Delaware River. Major League Baseball has used his mud ever since.",
+  "bullets": [
+    {
+      "opening": "Lena Blackburne Rubbing Mud",
+      "linkId": null,
+      "text": "The product still carries his name. Blackburne passed the secret to a friend, and that family has run the business since, digging the mud themselves and keeping the exact spot private."
+    },
+    {
+      "opening": "Like chocolate pudding",
+      "linkId": null,
+      "text": "The mud is very fine, often compared to chocolate pudding or cold cream. Rubbed in with a little water, it takes off the shine without scuffing or darkening the leather much."
+    },
+    {
+      "opening": "The rule behind it",
+      "linkId": null,
+      "text": "Baseball's rules require umpires to prepare the balls before each game, and teams' clubhouse staff rub dozens with the mud before every match."
+    },
+    {
+      "opening": "The search for a replacement",
+      "linkId": null,
+      "text": "MLB has tested alternatives, including balls with a tacky coating built in, but none has replaced the jar of riverbank mud."
+    }
+  ],
+  "tags": [
+    "secrets",
+    "baseball",
+    "traditions",
+    "history-of-things"
+  ],
+  "related": [
+    "golf-ball-dimples",
+    "shot-clock-24",
+    "indy-500-milk",
+    "stanley-cup-day",
+    "peach-basket-basketball"
+  ]
+}

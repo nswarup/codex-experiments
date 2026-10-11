@@ -1,0 +1,43 @@
+{
+  "id": "timeless-test",
+  "title": "The timeless Test of 1939",
+  "category": "Sports",
+  "hook": "A cricket match meant to last until someone won was stopped so England could catch a ship.",
+  "peek": "In 1939 England and South Africa played a Test match in Durban with no time limit. After 12 days it had to be called off as a draw, because the England team had a boat home to catch.",
+  "lede": "Some Test matches in the 1930s were timeless: they would be played to a finish, however long it took. The fifth Test between South Africa and England at Durban began on 3 March 1939. On 14 March, with England chasing a huge target and needing just 42 more runs, it was abandoned as a draw. The team had to leave for their ship home.",
+  "bullets": [
+    {
+      "opening": "The 696-run chase",
+      "linkId": null,
+      "text": "England were set 696 to win in the fourth innings and reached 654 for 5. The match produced 1,981 runs, still the most in any Test."
+    },
+    {
+      "opening": "Bill Edrich's double hundred",
+      "linkId": null,
+      "text": "Bill Edrich had struggled all series, yet he made 219 in England's second innings, the score that made the chase look possible."
+    },
+    {
+      "opening": "The Athlone Castle",
+      "linkId": null,
+      "text": "England had to take a train to Cape Town to board the Athlone Castle for the voyage home. Rain on the final day ended any hope of finishing first."
+    },
+    {
+      "opening": "The last timeless Test",
+      "linkId": null,
+      "text": "The match helped end the idea. No Test since has been played without a time limit, and today's Tests last at most five days."
+    }
+  ],
+  "tags": [
+    "cricket",
+    "records",
+    "time",
+    "draws"
+  ],
+  "related": [
+    "hat-trick",
+    "duckworth-lewis",
+    "isner-mahut",
+    "aluminium-cricket-bat",
+    "hawk-eye"
+  ]
+}

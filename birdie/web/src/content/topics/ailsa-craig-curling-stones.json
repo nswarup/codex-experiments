@@ -1,0 +1,43 @@
+{
+  "id": "ailsa-craig-curling-stones",
+  "title": "Curling stones from one island",
+  "category": "Sports",
+  "hook": "Most Olympic curling stones come from one small, empty island off Scotland.",
+  "peek": "Ailsa Craig is a dome of rock in the sea off Scotland's west coast, home mainly to seabirds. Its rare granite is so hard and so water-resistant that it supplies most of the world's top curling stones.",
+  "lede": "Ailsa Craig rises out of the Firth of Clyde about 16 km off the Ayrshire coast, a round lump of old volcanic rock with a lighthouse and a lot of gannets. Nobody lives there now. Yet its granite has become the standard for curling: stones for the Winter Olympics are made by one Scottish firm, Kays, from Ailsa Craig rock.",
+  "bullets": [
+    {
+      "opening": "Common Green and Blue Hone",
+      "linkId": null,
+      "text": "The island has two main granites. Common Green makes the body of the stone. Blue Hone, which barely absorbs water, is used for the running band that touches the ice, so freezing and thawing will not crack it."
+    },
+    {
+      "opening": "Kays of Scotland",
+      "linkId": null,
+      "text": "Kays, a curling stone maker in Mauchline, Ayrshire, has made stones since 1851 and holds the rights to Ailsa Craig granite. Its stones have been used at the Olympics for decades."
+    },
+    {
+      "opening": "Harvesting the granite",
+      "linkId": null,
+      "text": "The rock is not quarried constantly. Instead it is gathered in occasional harvests, with a large one in 2013 meant to last the firm many years."
+    },
+    {
+      "opening": "Paddy's Milestone",
+      "linkId": null,
+      "text": "The island's nickname comes from its position halfway along the sea route between Belfast and Glasgow. Its lighthouse was automated in 1990, leaving the island uninhabited."
+    }
+  ],
+  "tags": [
+    "geology",
+    "islands",
+    "olympics",
+    "materials"
+  ],
+  "related": [
+    "olympic-gold-medals",
+    "olympic-rings-colours",
+    "surtsey-island",
+    "clap-skate",
+    "jamaican-bobsled-1988"
+  ]
+}

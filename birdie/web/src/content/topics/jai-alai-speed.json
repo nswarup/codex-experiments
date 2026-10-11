@@ -1,0 +1,43 @@
+{
+  "id": "jai-alai-speed",
+  "title": "Jai alai, the fastest ball",
+  "category": "Sports",
+  "hook": "A jai alai ball once hit 302 km/h, flung from a wicker basket at a stone wall.",
+  "peek": "In jai alai, players catch and hurl a hard ball with a long curved basket strapped to one arm. Guinness long listed one throw at 302 km/h as the fastest ball speed in sport, though golf has since challenged it.",
+  "lede": "Jai alai is a Basque form of pelota. Players wear a cesta, a long curved wicker basket, and use it to catch a rock-hard ball and sling it against the front wall of a three-walled court called a fronton. In 1979 José Ramón Areitio was clocked at 302 km/h in Newport, Rhode Island, a figure Guinness recorded as the fastest ball speed in any sport.",
+  "bullets": [
+    {
+      "opening": "The cesta",
+      "linkId": null,
+      "text": "The basket is made from reeds woven over a chestnut frame and is shaped to the player's hand. Catching and throwing happen in one smooth sweep, which turns the long arm and basket into a sling."
+    },
+    {
+      "opening": "The pelota",
+      "linkId": null,
+      "text": "The ball is a little smaller than a baseball, with a core of rubber wound tight and covered in goatskin. It is harder than a golf ball, which is why modern players wear helmets."
+    },
+    {
+      "opening": "Golf's challenge",
+      "linkId": null,
+      "text": "The fastest-ball title is now doubtful. Long-drive golfers have been measured launching balls even faster, so jai alai's record is best described as one of the fastest."
+    },
+    {
+      "opening": "Florida's frontons",
+      "linkId": null,
+      "text": "Basque players brought the game to the Americas, and in the 20th century it became a betting sport in Florida, where frontons once drew big crowds. Few remain today."
+    }
+  ],
+  "tags": [
+    "records",
+    "basque",
+    "speed",
+    "ball-games"
+  ],
+  "related": [
+    "golf-ball-dimples",
+    "roberto-carlos-free-kick",
+    "javelin-redesign",
+    "shuttlecock-feathers",
+    "hawk-eye"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "vanishing-spray",
+  "title": "The referee's vanishing spray",
+  "category": "Sports",
+  "hook": "The white line a referee sprays at a free kick is meant to vanish within a minute.",
+  "peek": "Referees carry a can of foam to mark where the ball goes and where the wall must stand. It fades away on its own in under a minute. It came from South America and reached the world at the 2014 World Cup.",
+  "lede": "At a free kick, defenders have to stand 10 yards, or 9.15 metres, from the ball. They used to creep forward while the referee looked away. The fix was a can of foam: the referee sprays a line for the wall and a mark for the ball, and the line simply disappears within about a minute, leaving the grass untouched.",
+  "bullets": [
+    {
+      "opening": "How the foam vanishes",
+      "linkId": null,
+      "text": "The can holds mostly water, plus a foaming agent and a gas propellant. The gas makes a thick white foam of tiny bubbles, which soon burst and leave only a little water on the grass."
+    },
+    {
+      "opening": "Argentina's 9-15 spray",
+      "linkId": null,
+      "text": "Argentine inventor Pablo Silva developed a spray called 9-15, after the distance in metres. It was used in Argentine league football before spreading across South America."
+    },
+    {
+      "opening": "The Brazilian claim",
+      "linkId": null,
+      "text": "The Brazilian inventor Heine Allemagne also developed a vanishing spray around 2000, and the two later joined forces over the patent. Who came first depends on whom you ask."
+    },
+    {
+      "opening": "The 2014 World Cup",
+      "linkId": null,
+      "text": "After trials at youth tournaments and the Club World Cup, FIFA used the spray at the 2014 World Cup in Brazil. TV audiences saw it at every free kick, and major leagues took it up soon after."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "football",
+    "rules",
+    "chemistry"
+  ],
+  "related": [
+    "red-yellow-cards",
+    "penalty-kick-invention",
+    "roberto-carlos-free-kick",
+    "hawk-eye",
+    "world-cup-1930-two-balls"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "snooker-jabalpur",
+  "title": "Snooker was invented in India",
+  "category": "Sports",
+  "hook": "Snooker was invented by bored army officers in central India in 1875.",
+  "peek": "The game played in smoky British halls began in an officers' mess in Jabalpur, India. Its name came from army slang for a raw first-year cadet, thrown at a player who missed an easy shot.",
+  "lede": "In 1875 British army officers in Jabalpur, in central India, were playing billiards variants through the rainy season. The usual story credits Neville Chamberlain, a young officer, with adding coloured balls to a game called black pool. When a fellow officer missed a pot, Chamberlain called him a snooker, slang for a first-year cadet. The name stuck to the game.",
+  "bullets": [
+    {
+      "opening": "Woolwich cadet slang",
+      "linkId": null,
+      "text": "At the Royal Military Academy in Woolwich, new cadets were nicknamed snookers. Chamberlain later explained that he applied the word to a beginner's miss, and players took it as a name for the game."
+    },
+    {
+      "opening": "Not that Neville Chamberlain",
+      "linkId": null,
+      "text": "The officer was Sir Neville Bowles Chamberlain, a soldier, not the later prime minister of the same name. He described its origin to the writer Compton Mackenzie in 1938."
+    },
+    {
+      "opening": "The Ooty Club table",
+      "linkId": null,
+      "text": "Chamberlain moved to Ootacamund, now Ooty, where the Ooty Club still claims the game's rules were settled. Much of the history rests on Chamberlain's own account."
+    },
+    {
+      "opening": "Reaching Britain",
+      "linkId": null,
+      "text": "Snooker spread through officers returning home. It turned professional in Britain, and in 1927 Joe Davis won the first world championship."
+    }
+  ],
+  "tags": [
+    "names",
+    "etymology",
+    "billiards",
+    "history-of-things"
+  ],
+  "related": [
+    "pot-black",
+    "hat-trick",
+    "peach-basket-basketball",
+    "mintonette",
+    "webb-ellis-legend"
+  ]
+}

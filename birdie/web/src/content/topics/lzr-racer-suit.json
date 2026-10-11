@@ -1,0 +1,43 @@
+{
+  "id": "lzr-racer-suit",
+  "title": "The LZR Racer swimsuit",
+  "category": "Sports",
+  "hook": "One swimsuit helped smash so many world records that its kind was banned.",
+  "peek": "In 2008 Speedo launched a swimsuit tested in a NASA wind tunnel. Swimmers wearing it broke world record after world record, rivals built even faster suits, and by 2010 swimming had banned the whole idea.",
+  "lede": "Speedo's LZR Racer appeared in February 2008. It used panels of polyurethane, bonded seams with no stitching, and a tight fit that squeezed the body into a smoother shape. Within months, swimmers wearing it had set dozens of world records. At the Beijing Olympics that summer, most of the swimming world records were set in LZR suits.",
+  "bullets": [
+    {
+      "opening": "NASA wind tunnel tests",
+      "linkId": null,
+      "text": "Speedo worked with NASA, among others, to test fabrics for drag. The polyurethane panels trapped a little air and helped swimmers float slightly higher, cutting resistance."
+    },
+    {
+      "opening": "Michael Phelps in Beijing",
+      "linkId": null,
+      "text": "Michael Phelps won his record eight gold medals in Beijing wearing the LZR. Putting the suit on could take a swimmer many minutes of tugging."
+    },
+    {
+      "opening": "The 2009 super-suits",
+      "linkId": null,
+      "text": "Rivals then made full polyurethane suits that were even faster. At the 2009 World Championships in Rome, 43 world records fell, and critics said the sport had become a contest of suits."
+    },
+    {
+      "opening": "The 2010 ban",
+      "linkId": null,
+      "text": "From January 2010, FINA allowed only textile suits, reaching from waist to knee for men and shoulder to knee for women. Some records set in the banned suits lasted for years."
+    }
+  ],
+  "tags": [
+    "records",
+    "materials",
+    "swimming",
+    "design"
+  ],
+  "related": [
+    "clap-skate",
+    "javelin-redesign",
+    "aluminium-cricket-bat",
+    "v-style-ski-jump",
+    "fosbury-flop"
+  ]
+}

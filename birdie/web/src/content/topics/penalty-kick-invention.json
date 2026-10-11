@@ -1,0 +1,43 @@
+{
+  "id": "penalty-kick-invention",
+  "title": "The goalkeeper who invented the penalty",
+  "category": "Sports",
+  "hook": "Football's penalty kick was dreamed up by a goalkeeper from a small Irish village.",
+  "peek": "Before 1891, a defender could stop a certain goal with a deliberate foul and give away only a free kick. William McCrum, a goalkeeper from County Armagh, proposed a fix. Football has argued about it ever since.",
+  "lede": "In the 1880s a defender could stop a sure goal by handling the ball or tripping a forward, and the attacking team got only an ordinary free kick. William McCrum, a goalkeeper and businessman from Milford in County Armagh, thought that was unfair. His idea, put forward through the Irish Football Association, was added to the laws of the game in 1891.",
+  "bullets": [
+    {
+      "opening": "Mocked at first",
+      "linkId": null,
+      "text": "Football's rule-makers did not take the idea seriously at first, and some critics treated it as an insult to gentlemen players. The Irish association kept pushing, and the law makers adopted it in June 1891."
+    },
+    {
+      "opening": "The first league penalty",
+      "linkId": null,
+      "text": "The first penalty in England's Football League is usually credited to John Heath of Wolverhampton Wanderers, who scored against Accrington in September 1891."
+    },
+    {
+      "opening": "No penalty spot yet",
+      "linkId": null,
+      "text": "The early rules were looser than today's. The kick could be taken from anywhere along a line 12 yards from goal, and the goalkeeper could come forward to meet it. The penalty spot arrived in 1902."
+    },
+    {
+      "opening": "The Corinthians' refusal",
+      "linkId": null,
+      "text": "The amateur Corinthians felt no gentleman would foul on purpose. The story goes that when given a penalty they shot wide on purpose, and when facing one their keeper stepped aside."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "rules",
+    "football",
+    "history-of-things"
+  ],
+  "related": [
+    "red-yellow-cards",
+    "vanishing-spray",
+    "world-cup-1930-two-balls",
+    "webb-ellis-legend",
+    "roberto-carlos-free-kick"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "red-yellow-cards",
+  "title": "Traffic lights and the yellow card",
+  "category": "Sports",
+  "hook": "Football's red and yellow cards were dreamed up at a set of London traffic lights.",
+  "peek": "After a World Cup match where nobody could tell who had been booked, the English referee Ken Aston stopped at a red light in London and saw the answer. His colour cards were first used at the 1970 World Cup.",
+  "lede": "At the 1966 World Cup, the quarter-final between England and Argentina ended in confusion. Players did not know who had been cautioned or sent off, partly because they did not share a language with the referee. Ken Aston, the English referee in charge of World Cup officials, was driving through Kensington when a traffic light changed. Yellow meant caution, red meant stop.",
+  "bullets": [
+    {
+      "opening": "The 1966 quarter-final",
+      "linkId": null,
+      "text": "Argentina's captain Antonio Rattín was sent off and at first refused to leave, saying he did not understand. Afterwards England's Jack Charlton reportedly learned from the newspapers that he had been booked."
+    },
+    {
+      "opening": "The Kensington traffic light",
+      "linkId": null,
+      "text": "Aston later described the moment himself. Waiting at a junction on Kensington High Street, he realised the same colours every driver understood could work for players, crowds and commentators in any language."
+    },
+    {
+      "opening": "Debut at Mexico 1970",
+      "linkId": null,
+      "text": "The cards were first used at the 1970 World Cup in Mexico. Yellow cards were shown, but no player was sent off at that tournament, so the red card had to wait."
+    },
+    {
+      "opening": "The first World Cup red",
+      "linkId": null,
+      "text": "The first red card at a World Cup went to Chile's Carlos Caszely, against West Germany in 1974. Cards soon spread from international football to leagues around the world."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "color",
+    "football",
+    "rules",
+    "communication"
+  ],
+  "related": [
+    "penalty-kick-invention",
+    "vanishing-spray",
+    "world-cup-1930-two-balls",
+    "hawk-eye",
+    "pickles-world-cup"
+  ]
+}

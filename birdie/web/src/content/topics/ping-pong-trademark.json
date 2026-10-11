@@ -1,0 +1,44 @@
+{
+  "id": "ping-pong-trademark",
+  "title": "Ping-Pong was a trademark",
+  "category": "Sports",
+  "hook": "The sport is called table tennis because Ping-Pong was once a company's brand name.",
+  "peek": "Around 1900, a London games firm registered the name Ping-Pong for its table-top tennis set. Rival makers and players had to find another name, and table tennis is the one that stuck for the sport.",
+  "lede": "Tennis on a dining table was a Victorian parlour craze, played with books for nets and all sorts of homemade bats. Around 1900 the London games maker J. Jaques & Son registered Ping-Pong, after the sound of the ball, as its trademark. Other makers could not use it, so the sport's clubs and governing bodies settled on a plainer name: table tennis.",
+  "bullets": [
+    {
+      "opening": "Gossima and whiff-whaff",
+      "linkId": null,
+      "text": "Before Ping-Pong caught on, the game went by names such as Gossima, an earlier Jaques product that sold poorly, and whiff-whaff. The arrival of light celluloid balls around 1900 made it far livelier."
+    },
+    {
+      "opening": "Parker Brothers' Ping-Pong",
+      "linkId": null,
+      "text": "Jaques sold the American rights to the name to Parker Brothers, the board game company. In the United States, Ping-Pong stayed a protected brand for decades."
+    },
+    {
+      "opening": "Two rival associations",
+      "linkId": null,
+      "text": "In England a Table Tennis Association and a Ping-Pong Association both formed in the early 1900s. They later merged under the table tennis name."
+    },
+    {
+      "opening": "The ITTF in 1926",
+      "linkId": null,
+      "text": "When the International Table Tennis Federation was founded in 1926, the brand-free name was the obvious choice. In everyday speech, ping-pong never went away."
+    }
+  ],
+  "tags": [
+    "names",
+    "trademarks",
+    "history-of-things",
+    "games"
+  ],
+  "related": [
+    "escalator-trademark",
+    "sriracha-trademark",
+    "tennis-for-two",
+    "mintonette",
+    "zipper-name",
+    "shuttlecock-feathers"
+  ]
+}

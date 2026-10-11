@@ -1,0 +1,43 @@
+{
+  "id": "yellow-jersey",
+  "title": "Why the Tour de France leader wears yellow",
+  "category": "Sports",
+  "hook": "The Tour de France leader wears yellow because of the newspaper that started the race.",
+  "peek": "The Tour de France was invented in 1903 by a sports newspaper looking for readers. That paper was printed on yellow pages, and in 1919 the race leader was given a jersey to match.",
+  "lede": "In 1903 the French sports paper L'Auto was in a circulation battle with a rival, Le Vélo. Its editor, Henri Desgrange, backed a bold idea from a young journalist: a bicycle race all around France. The race sold papers, and L'Auto was printed on yellow paper. So when the Tour gave its leader a jersey in 1919, it was yellow.",
+  "bullets": [
+    {
+      "opening": "The 1903 Tour",
+      "linkId": null,
+      "text": "The first Tour had six long stages and about 60 starters. Maurice Garin won it, and L'Auto's sales rose sharply, while Le Vélo closed soon afterwards."
+    },
+    {
+      "opening": "Eugène Christophe's jersey",
+      "linkId": null,
+      "text": "The first rider known to wear the yellow jersey was Eugène Christophe, who put it on in Grenoble in July 1919. Some riders teased him that he looked like a canary."
+    },
+    {
+      "opening": "The 1913 claim",
+      "linkId": null,
+      "text": "The Belgian Philippe Thys later said he had worn a yellow jersey as early as 1913. Historians have found little to confirm this, so 1919 remains the accepted start."
+    },
+    {
+      "opening": "From L'Auto to L'Équipe",
+      "linkId": null,
+      "text": "L'Auto closed after the Second World War, and its successor, L'Équipe, still covers the race. The jersey long carried Desgrange's initials, HD, in his honour."
+    }
+  ],
+  "tags": [
+    "color",
+    "cycling",
+    "newspapers",
+    "history-of-things"
+  ],
+  "related": [
+    "marathon-distance-1908",
+    "olympic-rings-colours",
+    "two-second-pit-stop",
+    "indy-500-milk",
+    "stanley-cup-day"
+  ]
+}
