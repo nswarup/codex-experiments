@@ -2,7 +2,7 @@
   "id": "pilcrow",
   "title": "The pilcrow",
   "category": "Language",
-  "hook": "The ¶ mark began as a letter C, and its missing ink gave us indents.",
+  "hook": "The ¶ mark began as a letter C, and its missing ink may have given us indents.",
   "peek": "The backwards-looking ¶ that appears when you show formatting in a word processor is the pilcrow. It began as a decorated letter C in medieval books, and the usual story is that its absence gave us the paragraph indent.",
   "lede": "Medieval scribes needed a way to show where a new thought began. One answer was a C, short for the Latin capitulum, meaning a little head or chapter. Over time scribes added a vertical stroke or two and filled the bowl with ink, and the C slowly turned into the ¶ we know as the pilcrow.",
   "bullets": [
