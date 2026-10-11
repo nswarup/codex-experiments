@@ -1,0 +1,43 @@
+{
+  "id": "luxo-jr",
+  "title": "Luxo Jr., Pixar's lamp",
+  "category": "Film",
+  "hook": "Pixar's hopping lamp starred in the first computer-animated film up for an Oscar.",
+  "peek": "In 1986 John Lasseter made a two-minute film about a big desk lamp and a small one playing with a ball. It became the first computer-animated film nominated for an Academy Award, and the little lamp still hops across Pixar's logo.",
+  "lede": "In 1986 the young company Pixar showed a two-minute film called Luxo Jr. at SIGGRAPH, a computer graphics conference. It starred two desk lamps, a parent and a child, and a rubber ball. There was no dialogue, yet audiences read real feelings into the lamps. The next year it became the first computer-animated film nominated for an Oscar.",
+  "bullets": [
+    {
+      "opening": "John Lasseter's desk lamp",
+      "linkId": null,
+      "text": "Director John Lasseter modelled the characters on the Luxo lamp on his own desk. He imagined what a baby lamp would look like, keeping the bulb size the same but shrinking the other parts, much as a baby has a large head."
+    },
+    {
+      "opening": "A story in two minutes",
+      "linkId": null,
+      "text": "Lasseter had first planned a simple motion study. He has said that the Belgian animator Raoul Servais urged him to give even a short film a beginning, middle and end, so the little lamp gets a ball, loses it, and finds a bigger one."
+    },
+    {
+      "opening": "The Academy Award nomination",
+      "linkId": null,
+      "text": "Luxo Jr. was nominated for Best Animated Short Film in 1987. It did not win, but it showed that computer animation could carry character and comedy, not only technical demonstrations."
+    },
+    {
+      "opening": "The Pixar logo",
+      "linkId": null,
+      "text": "The little lamp became Pixar's mascot. Before its films, Luxo Jr. hops onto the I in the Pixar name and squashes it flat, then turns to look at the audience."
+    }
+  ],
+  "tags": [
+    "animation",
+    "design",
+    "inventors",
+    "firsts"
+  ],
+  "related": [
+    "anglepoise",
+    "toy-story-2-deleted",
+    "jurassic-park-dinosaurs",
+    "multiplane-camera",
+    "steamboat-willie"
+  ]
+}

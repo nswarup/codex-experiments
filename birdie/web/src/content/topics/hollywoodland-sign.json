@@ -1,0 +1,43 @@
+{
+  "id": "hollywoodland-sign",
+  "title": "The Hollywood sign said Hollywoodland",
+  "category": "Film",
+  "hook": "The Hollywood sign began as a short-lived advert for a new housing estate.",
+  "peek": "When the Hollywood sign went up in 1923, it read HOLLYWOODLAND and was meant to sell plots in a new hillside housing development. It was supposed to stand for about a year and a half. The last four letters came down in 1949.",
+  "lede": "In 1923 property developers, including the Los Angeles Times publisher Harry Chandler, put up giant white letters on Mount Lee to advertise a new housing estate called Hollywoodland. The sign was a temporary advertisement, expected to last about 18 months. Instead it stayed, became a symbol of the film industry, and in 1949 lost its final four letters.",
+  "bullets": [
+    {
+      "opening": "Thousands of light bulbs",
+      "linkId": null,
+      "text": "The original letters, each roughly 15 metres tall, were studded with thousands of light bulbs. At night they flashed in sections, HOLLY, then WOOD, then LAND, so the advert could be seen across the city."
+    },
+    {
+      "opening": "Dropping LAND in 1949",
+      "linkId": null,
+      "text": "By the 1940s the sign was falling apart. In 1949 the Hollywood Chamber of Commerce agreed to repair it, but only as HOLLYWOOD, so it would stand for the whole district rather than one estate."
+    },
+    {
+      "opening": "The 1978 rebuild",
+      "linkId": null,
+      "text": "By the 1970s the old wood and metal letters were beyond repair. In 1978 they were replaced with sturdier steel letters, paid for by donors who each sponsored a letter, among them the rock singer Alice Cooper."
+    },
+    {
+      "opening": "Mount Lee today",
+      "linkId": null,
+      "text": "The sign sits on steep, protected land, and visitors are not allowed up to the letters. Most people view it from vantage points such as Griffith Observatory or the streets below."
+    }
+  ],
+  "tags": [
+    "design",
+    "names",
+    "history-of-things",
+    "advertising"
+  ],
+  "related": [
+    "eiffel-tower-antenna",
+    "neon-sign",
+    "i-love-ny",
+    "alan-smithee",
+    "trailers-after-film"
+  ]
+}

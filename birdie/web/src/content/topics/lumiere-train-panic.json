@@ -1,0 +1,43 @@
+{
+  "id": "lumiere-train-panic",
+  "title": "The audience that didn't run from the train",
+  "category": "Film",
+  "hook": "Early audiences probably never fled in panic from the Lumières' film of a train.",
+  "peek": "A famous story says the first audiences to see the Lumière brothers' film of a train pulling into a station ran from their seats in terror. Historians have looked for evidence from the time and found almost none. It seems to be cinema's founding myth.",
+  "lede": "L'Arrivée d'un train en gare de La Ciotat, made by Auguste and Louis Lumière, shows a steam train pulling into a station in southern France. It lasts under a minute. Legend says that when it was first screened in 1896, viewers screamed and ran for the exits. Historians now think this almost certainly never happened.",
+  "bullets": [
+    {
+      "opening": "No reports from 1896",
+      "linkId": null,
+      "text": "Newspaper reviews and letters from the first screenings describe wonder and excitement, but not crowds fleeing. The panic story shows up in later retellings, growing more dramatic as it is repeated."
+    },
+    {
+      "opening": "Martin Loiperdinger's research",
+      "linkId": null,
+      "text": "In a 2004 study, the German film historian Martin Loiperdinger traced the legend and called it cinema's founding myth. He also noted the film was not even part of the very first Lumière programme, in December 1895."
+    },
+    {
+      "opening": "The diagonal shot",
+      "linkId": null,
+      "text": "The story may have stuck because of how the film is framed. The camera sits on the platform at an angle, so the train grows from a dot into a looming engine that seems to come right at the audience."
+    },
+    {
+      "opening": "Maxim Gorky's review",
+      "linkId": null,
+      "text": "The writer Maxim Gorky saw a Lumière show in 1896 and described a grey, silent world of shadows, with an engine that seemed about to plunge into the dark hall. He found it uncanny, but he describes no stampede."
+    }
+  ],
+  "tags": [
+    "myths-busted",
+    "perception",
+    "firsts",
+    "trains"
+  ],
+  "related": [
+    "muybridge-horse",
+    "boulevard-du-temple",
+    "war-of-the-worlds-panic",
+    "black-maria-studio",
+    "twenty-four-frames"
+  ]
+}

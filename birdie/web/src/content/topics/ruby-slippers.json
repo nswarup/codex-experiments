@@ -1,0 +1,43 @@
+{
+  "id": "ruby-slippers",
+  "title": "The ruby slippers were silver",
+  "category": "Film",
+  "hook": "In the book, Dorothy's magic shoes are silver. The film turned them red.",
+  "peek": "L. Frank Baum's 1900 novel The Wonderful Wizard of Oz gives Dorothy a pair of silver shoes. The 1939 film made them ruby red, a choice that showed off its new Technicolor and made them one of film's most famous props.",
+  "lede": "In L. Frank Baum's novel The Wonderful Wizard of Oz, published in 1900, Dorothy wears Silver Shoes taken from the Wicked Witch of the East. When MGM made its film in 1939, the shoes turned red. The reason was colour itself: Technicolor was still new and expensive, and glittering ruby slippers on a yellow brick road made the most of it.",
+  "bullets": [
+    {
+      "opening": "Noel Langley's screenplay",
+      "linkId": null,
+      "text": "The change appears in the work of screenwriter Noel Langley, who wrote the slippers as ruby. The studio's costume designer, Adrian, then created shoes covered in red sequins and beads that would sparkle under the bright lights Technicolor needed."
+    },
+    {
+      "opening": "Three clicks of the heels",
+      "linkId": null,
+      "text": "The book already had the famous ending. Glinda tells Dorothy to knock her heels together three times and command the shoes to carry her home. The film kept the idea and added the line about there being no place like home."
+    },
+    {
+      "opening": "The surviving pairs",
+      "linkId": null,
+      "text": "Several pairs were made for filming, and nobody is quite sure how many. One pair is a highlight of the Smithsonian's National Museum of American History in Washington, where it has drawn visitors for decades."
+    },
+    {
+      "opening": "Silver again in The Wiz",
+      "linkId": null,
+      "text": "Later versions sometimes went back to the book. The Wiz, the 1978 musical film starring Diana Ross, gave Dorothy silver slippers, following the stage musical, which had been adapted straight from Baum's book."
+    }
+  ],
+  "tags": [
+    "myths-busted",
+    "color",
+    "costume",
+    "book-to-film"
+  ],
+  "related": [
+    "pot-black",
+    "steamboat-willie",
+    "play-it-again-sam",
+    "holmes-deerstalker",
+    "arabian-nights-aladdin"
+  ]
+}

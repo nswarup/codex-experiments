@@ -1,0 +1,43 @@
+{
+  "id": "blade-runner-title",
+  "title": "Blade Runner's borrowed title",
+  "category": "Film",
+  "hook": "Blade Runner took its title from a different book about smuggling medical supplies.",
+  "peek": "Ridley Scott's 1982 film is based on Philip K. Dick's novel Do Androids Dream of Electric Sheep? The title Blade Runner came from somewhere else entirely: a 1974 novel by Alan E. Nourse about smugglers of medical supplies, by way of William Burroughs.",
+  "lede": "Blade Runner, released in 1982, adapts Philip K. Dick's 1968 novel Do Androids Dream of Electric Sheep? The phrase blade runner never appears in Dick's book. The filmmakers took it from an unrelated novel, The Bladerunner by Alan E. Nourse, about people who smuggle medical supplies in a future where health care is tightly rationed.",
+  "bullets": [
+    {
+      "opening": "Alan E. Nourse's The Bladerunner",
+      "linkId": null,
+      "text": "Nourse, a doctor who also wrote science fiction, published the novel in 1974. His bladerunners carry surgical instruments, the blades of the title, to doctors working outside the official system."
+    },
+    {
+      "opening": "William Burroughs' treatment",
+      "linkId": null,
+      "text": "In 1979 William S. Burroughs wrote a film treatment based on Nourse's book, published as Blade Runner (a movie). It was never made, but its title caught the eye of screenwriter Hampton Fancher."
+    },
+    {
+      "opening": "Buying a name",
+      "linkId": null,
+      "text": "Ridley Scott liked the phrase, and the production bought the rights to use it. In the film, blade runner became the name for police officers who hunt replicants, the role Dick had simply called a bounty hunter."
+    },
+    {
+      "opening": "Deckard's job title",
+      "linkId": null,
+      "text": "So Harrison Ford's Rick Deckard carries a job title borrowed from a medical thriller. The name stuck so firmly that the 2017 sequel, Blade Runner 2049, kept it, and later editions of Dick's novel used it on the cover."
+    }
+  ],
+  "tags": [
+    "names",
+    "book-to-film",
+    "sci-fi",
+    "borrowed-words"
+  ],
+  "related": [
+    "dune-chilton",
+    "gibson-cyberspace",
+    "asimov-three-laws",
+    "metropolis-buenos-aires",
+    "alan-smithee"
+  ]
+}

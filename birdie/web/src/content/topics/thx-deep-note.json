@@ -1,0 +1,44 @@
+{
+  "id": "thx-deep-note",
+  "title": "The THX Deep Note",
+  "category": "Film",
+  "hook": "The swelling THX sound before films was written as computer code, not played.",
+  "peek": "The THX Deep Note, the huge chord that fills cinemas before a film, was not performed by anyone. A computer program steered dozens of synthesized voices from a murmur of random pitches into one enormous chord.",
+  "lede": "In 1982 James Andy Moorer, a computer scientist at Lucasfilm, was asked to make a sound for the new THX theatre certification. He wrote a program, which he has put at about 20,000 lines of code, that starts some 30 synthesized voices on random pitches and slowly pulls them together. They finish on a vast chord that settles on the note D.",
+  "bullets": [
+    {
+      "opening": "Lucasfilm's Audio Signal Processor",
+      "linkId": null,
+      "text": "Moorer ran the program on the ASP, an early digital audio computer built at Lucasfilm. It could generate all the voices in real time, so he could tweak the sound by changing the code rather than recording instruments."
+    },
+    {
+      "opening": "Random starting pitches",
+      "linkId": null,
+      "text": "Each voice begins at a randomly chosen pitch in a low, narrow band, which is why the opening sounds like a murky swirl. Because of that randomness, every run of the program came out slightly different."
+    },
+    {
+      "opening": "The 1983 premiere",
+      "linkId": null,
+      "text": "The Deep Note was first heard in cinemas in 1983, with the opening of Return of the Jedi. It became one of the best-known sound trademarks in the world, registered so that THX alone can use it."
+    },
+    {
+      "opening": "Rebuilding the Deep Note",
+      "linkId": null,
+      "text": "THX later asked Moorer to recreate his chord with modern equipment for new cinema formats. The newer version keeps the same idea: a chaos of drifting voices that resolves into one wide, steady chord."
+    }
+  ],
+  "tags": [
+    "music-tech",
+    "acoustics",
+    "film-sound",
+    "trademarks"
+  ],
+  "related": [
+    "lightsaber-sound",
+    "foley-art",
+    "fantasia-hp-oscillators",
+    "windows-95-sound",
+    "switched-on-bach",
+    "shepard-tone"
+  ]
+}

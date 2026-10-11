@@ -1,0 +1,45 @@
+{
+  "id": "muybridge-horse",
+  "title": "Muybridge's galloping horse",
+  "category": "Film",
+  "hook": "It took a row of cameras to prove that a galloping horse briefly flies.",
+  "peek": "In 1878 Eadweard Muybridge set up a row of cameras along a racetrack in California and photographed a horse in full gallop. The pictures proved that all four hooves leave the ground at once, and showed that painters had drawn it wrong for centuries.",
+  "lede": "For centuries people argued over a simple question: does a galloping horse ever have all four hooves off the ground? It moves too fast for the eye to tell. In 1878 the photographer Eadweard Muybridge, working for the former California governor Leland Stanford, settled it with a row of cameras. The answer was yes.",
+  "bullets": [
+    {
+      "opening": "Twelve cameras at Palo Alto",
+      "linkId": null,
+      "text": "On Stanford's farm in Palo Alto, Muybridge lined up 12 cameras beside the track. Threads stretched across the path tripped each shutter as the horse, a mare named Sallie Gardner, ran past, giving a sequence of quick photographs."
+    },
+    {
+      "opening": "Hooves tucked, not stretched",
+      "linkId": null,
+      "text": "The pictures held a second surprise. The horse is airborne when its legs are gathered beneath its body, not when they are flung out front and back, the flying pose painters had long used."
+    },
+    {
+      "opening": "The $25,000 bet",
+      "linkId": null,
+      "text": "A popular story says Stanford commissioned the work to win a $25,000 wager. Historians have found no good evidence for the bet. Stanford, a keen horse breeder, seems to have simply wanted to know."
+    },
+    {
+      "opening": "The zoopraxiscope",
+      "linkId": null,
+      "text": "Muybridge then built a projector, the zoopraxiscope, which showed his images in quick succession on a screen so the horse appeared to run. It was one of the steps on the road to motion pictures."
+    }
+  ],
+  "tags": [
+    "photography",
+    "horses",
+    "myths-busted",
+    "firsts",
+    "perception"
+  ],
+  "related": [
+    "lumiere-train-panic",
+    "boulevard-du-temple",
+    "twenty-four-frames",
+    "rotoscope",
+    "racehorse-birthday",
+    "horses-sleep-standing"
+  ]
+}

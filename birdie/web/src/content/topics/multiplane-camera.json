@@ -1,0 +1,43 @@
+{
+  "id": "multiplane-camera",
+  "title": "Disney's multiplane camera",
+  "category": "Film",
+  "hook": "Disney gave flat cartoons depth by painting them on stacked sheets of glass.",
+  "peek": "Disney's multiplane camera filmed artwork painted on several sheets of glass, stacked at different distances below the lens. Moving the layers separately gave cartoons a real sense of depth, first shown in the 1937 short The Old Mill.",
+  "lede": "Early cartoons looked flat because every layer of the picture was filmed pressed together. Disney's studio, led by engineer William Garity, built a solution: a camera that pointed down through several sheets of glass, each holding part of the scene. The machine stood about 14 feet tall, and it made backgrounds behave the way real distance does.",
+  "bullets": [
+    {
+      "opening": "Layers on glass",
+      "linkId": null,
+      "text": "Foreground, characters and background sat on separate glass planes, spaced apart. When the camera moved in, near layers grew faster than distant ones, and each could be lit and focused on its own, just as with real scenery."
+    },
+    {
+      "opening": "The Old Mill",
+      "linkId": null,
+      "text": "Disney tested the camera on The Old Mill, a 1937 short about animals sheltering in a windmill during a storm. It won the Oscar for best animated short, and the studio received a technical award for the camera."
+    },
+    {
+      "opening": "Snow White's forest",
+      "linkId": null,
+      "text": "The same year, the camera gave depth to Snow White and the Seven Dwarfs, Disney's first feature. Later films such as Pinocchio and Bambi used it for their sweeping opening shots."
+    },
+    {
+      "opening": "Lotte Reiniger and Ub Iwerks",
+      "linkId": null,
+      "text": "Disney's machine was the most famous, not the first. Lotte Reiniger used layered glass in Germany in the 1920s, and former Disney animator Ub Iwerks built a multiplane camera of his own in 1933."
+    }
+  ],
+  "tags": [
+    "animation",
+    "inventors",
+    "illusions",
+    "perception"
+  ],
+  "related": [
+    "steamboat-willie",
+    "rotoscope",
+    "luxo-jr",
+    "fantasia-hp-oscillators",
+    "dykstraflex"
+  ]
+}

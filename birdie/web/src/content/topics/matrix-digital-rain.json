@@ -1,0 +1,38 @@
+{
+  "id": "matrix-digital-rain",
+  "title": "The Matrix's sushi code",
+  "category": "Film",
+  "hook": "The green code raining down in The Matrix came from Japanese cookbooks.",
+  "peek": "The cascading green characters of The Matrix look like a secret machine language. Its designer, Simon Whiteley, has said he made them by scanning characters from his wife's Japanese cookbooks, so the code began as recipes, sushi among them.",
+  "lede": "The falling green code of The Matrix, released in 1999, became the film's emblem: the hidden language of a simulated world. In a 2017 interview, the production designer who made it, Simon Whiteley, explained where the characters came from. He scanned them from his wife's Japanese cookbooks. In his telling, the code of the Matrix is built from sushi recipes.",
+  "bullets": [
+    {
+      "opening": "Mirrored katakana characters",
+      "linkId": null,
+      "text": "Most of the symbols are Japanese katakana, mixed with Latin letters and numbers. Many are flipped left to right, which makes them look familiar but unreadable, even to people who read Japanese."
+    },
+    {
+      "opening": "Not readable recipes",
+      "linkId": null,
+      "text": "Whiteley took individual characters, not whole lines, and the film scrambles them as they fall. So nobody can read a recipe in the rain. The cookbook story is about where the letter shapes came from."
+    },
+    {
+      "opening": "Ghost in the Shell's green code",
+      "linkId": null,
+      "text": "The look has a clear ancestor. The 1995 Japanese animated film Ghost in the Shell, which the Wachowskis admired, opens with similar green characters falling down a screen."
+    }
+  ],
+  "tags": [
+    "design",
+    "typography",
+    "food-history",
+    "sci-fi"
+  ],
+  "related": [
+    "helvetica",
+    "comic-sans",
+    "gibson-cyberspace",
+    "snow-crash-metaverse",
+    "dykstraflex"
+  ]
+}

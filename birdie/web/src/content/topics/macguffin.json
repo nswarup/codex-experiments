@@ -1,0 +1,43 @@
+{
+  "id": "macguffin",
+  "title": "The MacGuffin",
+  "category": "Film",
+  "hook": "The thing everyone in a thriller chases often doesn't matter at all.",
+  "peek": "A MacGuffin is the secret plans, the stolen money or the mysterious package that sets a thriller's plot moving, even though the audience hardly cares what it is. Alfred Hitchcock made the word famous and explained it with a deliberately pointless joke.",
+  "lede": "In many thrillers the characters risk everything for a document, a jewel or a briefcase whose contents barely matter. Alfred Hitchcock called this device a MacGuffin. The characters must care about it intensely, he said, but the audience does not need to. What holds viewers is the chase and the people in it, not the prize itself.",
+  "bullets": [
+    {
+      "opening": "The Scottish train joke",
+      "linkId": null,
+      "text": "Hitchcock explained the word with a story. Two men on a train discuss a parcel on the luggage rack. One says it is a MacGuffin, for trapping lions in the Scottish Highlands. The other points out there are no lions there, so the first replies that it is no MacGuffin, then."
+    },
+    {
+      "opening": "Angus MacPhail's word",
+      "linkId": null,
+      "text": "Hitchcock usually gets the credit, but the term is often traced to his friend and screenwriter Angus MacPhail. Hitchcock popularised it in a 1939 lecture and later in his long interviews with the French director François Truffaut."
+    },
+    {
+      "opening": "North by Northwest's microfilm",
+      "linkId": null,
+      "text": "Hitchcock told Truffaut that the MacGuffin in North by Northwest, some vague government secrets on microfilm, was his best, because it was the emptiest. The audience never learns what is on it and never needs to."
+    },
+    {
+      "opening": "Notorious and the uranium",
+      "linkId": null,
+      "text": "In Notorious, from 1946, the secret is uranium ore hidden in wine bottles. Hitchcock recalled that a producer found the idea far-fetched. His answer was that it hardly mattered: the bottles could have held anything, as long as the spies wanted it."
+    }
+  ],
+  "tags": [
+    "storytelling",
+    "names",
+    "etymology",
+    "directors"
+  ],
+  "related": [
+    "dolly-zoom",
+    "kuleshov-effect",
+    "alan-smithee",
+    "pink-panther-diamond",
+    "play-it-again-sam"
+  ]
+}

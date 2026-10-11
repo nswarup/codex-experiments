@@ -1,0 +1,38 @@
+{
+  "id": "lightsaber-sound",
+  "title": "How the lightsaber got its hum",
+  "category": "Film",
+  "hook": "The lightsaber's hum is an old projector motor mixed with a TV's buzz.",
+  "peek": "Star Wars sound designer Ben Burtt built the lightsaber from two accidents of everyday machinery: the idling motor of an old film projector and the buzz a television left on a microphone cable. Waving a microphone did the rest.",
+  "lede": "When Ben Burtt started work on Star Wars in the 1970s, he had no idea what a laser sword should sound like. He found the answer in two pieces of old equipment. One was the steady hum of a film projector motor. The other was a buzz he caught by accident, and together they became one of cinema's most recognisable sounds.",
+  "bullets": [
+    {
+      "opening": "The projector motor",
+      "linkId": null,
+      "text": "At the University of Southern California, where he had studied film, Burtt knew the projection booth's old projectors. Their motors made a musical, steady hum as they idled, and he recorded it as the base of the sound."
+    },
+    {
+      "opening": "The broken microphone cable",
+      "linkId": null,
+      "text": "Burtt walked past a television set carrying a microphone whose cable had lost its shielding. The cable picked up a buzz from the TV's picture tube. Mixed with the motor, it gave the hum its crackling edge."
+    },
+    {
+      "opening": "Swinging the microphone",
+      "linkId": null,
+      "text": "To make the blades move, Burtt played the hum through a speaker and waved a microphone back and forth in front of it. The changing distance gave a natural Doppler swoosh, so each swing sounds different."
+    }
+  ],
+  "tags": [
+    "film-sound",
+    "accidents",
+    "acoustics",
+    "music-tech"
+  ],
+  "related": [
+    "thx-deep-note",
+    "foley-art",
+    "dykstraflex",
+    "mandalorian-stagecraft",
+    "theremin"
+  ]
+}
