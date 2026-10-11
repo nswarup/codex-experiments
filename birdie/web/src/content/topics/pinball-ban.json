@@ -1,0 +1,43 @@
+{
+  "id": "pinball-ban",
+  "title": "New York's pinball ban",
+  "category": "Games",
+  "hook": "Pinball was illegal in New York City for 34 years, until one shot in a hearing.",
+  "peek": "New York banned pinball in 1942 as a form of gambling. In 1976, a young player named Roger Sharpe told city lawmakers exactly where his ball would go, made the shot, and helped convince them it was a game of skill.",
+  "lede": "In the 1930s, pinball machines had no flippers. Players launched a ball and nudged the cabinet, and many machines paid out prizes, so officials saw them as gambling. In 1942 Mayor Fiorello La Guardia had New York City ban them. The ban lasted until 1976, when a magazine writer named Roger Sharpe was called to show city councillors that pinball took skill.",
+  "bullets": [
+    {
+      "opening": "La Guardia's raids",
+      "linkId": null,
+      "text": "Police seized thousands of machines, and La Guardia was photographed smashing them with a sledgehammer for the press. Other cities, including Chicago and Los Angeles, had their own long bans."
+    },
+    {
+      "opening": "The arrival of flippers",
+      "linkId": null,
+      "text": "Flippers first appeared in 1947, in a Gottlieb game called Humpty Dumpty. They gave players real control over the ball, which slowly undermined the claim that pinball was pure luck."
+    },
+    {
+      "opening": "Roger Sharpe's called shot",
+      "linkId": null,
+      "text": "At the 1976 hearing, Sharpe pointed to a lane, said the ball would go there, and pulled the plunger. It did. The council soon voted to lift the ban. Sharpe has since said, cheerfully, that the shot took some luck."
+    },
+    {
+      "opening": "The shot on film",
+      "linkId": null,
+      "text": "Sharpe's day in court became a 2022 film, Pinball: The Man Who Saved the Game. He went on to write a well-known history of pinball and to work in the industry."
+    }
+  ],
+  "tags": [
+    "games",
+    "history-of-things",
+    "myths-busted",
+    "inventors"
+  ],
+  "related": [
+    "pong-quarters",
+    "landlords-game",
+    "space-invaders-speedup",
+    "windows-solitaire",
+    "tennis-for-two"
+  ]
+}

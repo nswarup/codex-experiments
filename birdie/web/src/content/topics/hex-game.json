@@ -1,0 +1,44 @@
+{
+  "id": "hex-game",
+  "title": "The game of Hex",
+  "category": "Games",
+  "hook": "Hex was invented twice, and a game of it can never end in a draw.",
+  "peek": "Piet Hein invented Hex in Denmark in 1942, and John Nash came up with it again at Princeton in 1948. On its diamond board of hexagons someone must always win, and Nash proved the first player can always win, without saying how.",
+  "lede": "Hex is played on a diamond-shaped board of hexagons, usually 11 on a side. Two players take turns placing stones, each trying to link their two opposite edges. The Danish poet and designer Piet Hein invented it in 1942. In 1948 John Nash, then a student at Princeton, invented it again on his own. Fellow students there called it Nash, or John.",
+  "bullets": [
+    {
+      "opening": "Why Hex never draws",
+      "linkId": "brouwer-coffee-cup",
+      "text": "When the board is full, exactly one player has a connected path. You cannot block your opponent without completing your own chain. The mathematician David Gale later showed this fact is equivalent to the Brouwer fixed-point theorem."
+    },
+    {
+      "opening": "Nash's strategy-stealing proof",
+      "linkId": null,
+      "text": "Nash showed that the first player must have a winning strategy. If the second player had one, the first could steal it, since an extra stone never hurts. The proof says a winning plan exists but not what it is."
+    },
+    {
+      "opening": "The swap rule",
+      "linkId": null,
+      "text": "Because going first is such an advantage, many players use the swap rule. After the first stone is placed, the second player may take it as their own, so the first player tries to open with a fair move."
+    },
+    {
+      "opening": "Shannon's Hex machine",
+      "linkId": null,
+      "text": "Around 1950 Claude Shannon and Edward Moore built an analogue Hex player from a network of resistors, choosing moves from electrical currents. It played surprisingly well."
+    }
+  ],
+  "tags": [
+    "games",
+    "proofs",
+    "inventors",
+    "patterns"
+  ],
+  "related": [
+    "brouwer-coffee-cup",
+    "connect-four-solved",
+    "checkers-solved-chinook",
+    "shannon-number",
+    "gardner-mathematical-games",
+    "game-of-life"
+  ]
+}

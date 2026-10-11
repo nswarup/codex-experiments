@@ -1,0 +1,43 @@
+{
+  "id": "speak-and-spell",
+  "title": "The Speak & Spell",
+  "category": "Games",
+  "hook": "A 1978 spelling toy was the first to fit a whole speech synthesizer on one chip.",
+  "peek": "Texas Instruments' Speak & Spell read words aloud and asked children to spell them. Its talking voice came from a single chip that rebuilt speech from compact codes, and the toy later turned up in E.T. and in electronic music.",
+  "lede": "In 1978 Texas Instruments released the Speak & Spell, a bright orange toy that said a word aloud and asked a child to type its spelling. Talking machines then usually needed racks of equipment. TI's engineers squeezed the job onto a single chip, the TMS5100, making it the first single-chip speech synthesizer. It went into a toy sold in shops.",
+  "bullets": [
+    {
+      "opening": "Linear predictive coding",
+      "linkId": null,
+      "text": "Instead of storing recordings, the chip used linear predictive coding. It modelled the human vocal tract as a changing filter and stored just a few numbers per moment of speech, so whole words fit in a tiny memory."
+    },
+    {
+      "opening": "The four-person team",
+      "linkId": null,
+      "text": "The project was led by a small team of TI engineers: Paul Breedlove, Richard Wiggins, Larry Brantingham and Gene Frantz. Wiggins worked on the speech maths, while Brantingham designed the chip."
+    },
+    {
+      "opening": "E.T. phones home",
+      "linkId": null,
+      "text": "In the 1982 film E.T., the alien builds a communicator to call home, and a Speak & Spell is part of it. The scene made the toy famous with a new generation."
+    },
+    {
+      "opening": "Circuit bending",
+      "linkId": null,
+      "text": "Musicians love its odd, robotic voice. Kraftwerk used one, and the inventor of circuit bending, Reed Ghazala, rewired Speak & Spells to make strange new sounds."
+    }
+  ],
+  "tags": [
+    "music-tech",
+    "inventors",
+    "history-of-things",
+    "communication"
+  ],
+  "related": [
+    "voder",
+    "daisy-bell-computer",
+    "et-cartridges-burial",
+    "game-and-watch",
+    "intel-4004"
+  ]
+}

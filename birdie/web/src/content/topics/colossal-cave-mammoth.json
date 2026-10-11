@@ -1,0 +1,43 @@
+{
+  "id": "colossal-cave-mammoth",
+  "title": "Colossal Cave Adventure's real cave",
+  "category": "Games",
+  "hook": "The first text adventure game was a map of a real cave in Kentucky.",
+  "peek": "Will Crowther, a programmer and keen caver, wrote Colossal Cave Adventure in the mid-1970s, basing its rooms on the Bedquilt section of Kentucky's Mammoth Cave system. Its passages follow the real ones closely enough that cavers have recognised them.",
+  "lede": "Around 1975 Will Crowther, a programmer who helped build the early internet, wrote a game in which players typed simple commands like GO NORTH to explore a cave. It was not an invented place. Crowther and his wife Patricia were serious cavers who had helped survey Bedquilt Cave, part of the Mammoth Cave system in Kentucky, and he modelled the game on it.",
+  "bullets": [
+    {
+      "opening": "Mapping Bedquilt Cave",
+      "linkId": null,
+      "text": "The Crowthers mapped Bedquilt with the Cave Research Foundation, recording passages by hand. Many of the game's rooms, slopes and squeezes follow that survey, and some names come straight from the cavers' own maps."
+    },
+    {
+      "opening": "A game for his daughters",
+      "linkId": null,
+      "text": "Crowther has said he wrote the game partly for his two daughters, so they could share in caving at a distance. He kept it simple so that people who were not programmers could play."
+    },
+    {
+      "opening": "Don Woods' fantasy additions",
+      "linkId": null,
+      "text": "In 1977 a Stanford student, Don Woods, found the game and asked to expand it. He added treasures, a troll and more magic, while keeping Crowther's cave at its heart."
+    },
+    {
+      "opening": "Recognising the real cave",
+      "linkId": null,
+      "text": "In 2005 the scholar Dennis Jerz visited Bedquilt and matched features to the game's descriptions. Cavers tell of players who had never been underground finding their way through the real cave from memory of the game."
+    }
+  ],
+  "tags": [
+    "games",
+    "maps",
+    "history-of-things",
+    "inventors"
+  ],
+  "related": [
+    "adventure-easter-egg",
+    "spacewar-pdp1",
+    "arpanet-lo",
+    "elite-procedural-galaxies",
+    "tennis-for-two"
+  ]
+}

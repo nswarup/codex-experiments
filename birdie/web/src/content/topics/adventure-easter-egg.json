@@ -1,0 +1,43 @@
+{
+  "id": "adventure-easter-egg",
+  "title": "The first famous Easter egg",
+  "category": "Games",
+  "hook": "A game designer hid his name in a secret room because his company would not credit him.",
+  "peek": "Atari kept its game designers anonymous, so Warren Robinett quietly hid a room in his 1980 game Adventure that showed his name. When a teenager found it, Atari decided to keep it and called it an Easter egg.",
+  "lede": "In the late 1970s Atari did not put designers' names on its games, partly so rivals could not poach them. Warren Robinett, who wrote Adventure for the Atari 2600, thought that unfair. Before he finished, he hid a secret room reached by a tricky series of steps. Inside, in flashing letters, it says Created by Warren Robinett. He told nobody.",
+  "bullets": [
+    {
+      "opening": "The invisible grey dot",
+      "linkId": null,
+      "text": "To reach the room, players had to find a single grey dot, almost invisible, inside a castle's maze. Carrying it to a certain wall let the player slip through into the hidden room."
+    },
+    {
+      "opening": "A letter from a fan",
+      "linkId": null,
+      "text": "After Robinett had left Atari, a teenage player found the room and wrote to the company about it. Fixing the cartridges would have been costly, so Atari left the room in."
+    },
+    {
+      "opening": "How Easter eggs got the name",
+      "linkId": null,
+      "text": "An Atari manager, Steve Wright, is credited with suggesting the company should keep hiding surprises like this, calling them Easter eggs because players would hunt for them. The name stuck for every hidden surprise since."
+    },
+    {
+      "opening": "Not quite the first",
+      "linkId": null,
+      "text": "Historians have found earlier hidden credits, such as one in the 1978 console game Video Whizball. Adventure's room was the one that became famous and gave the idea its name."
+    }
+  ],
+  "tags": [
+    "games",
+    "names",
+    "history-of-things",
+    "myths-busted"
+  ],
+  "related": [
+    "colossal-cave-mammoth",
+    "konami-code",
+    "et-cartridges-burial",
+    "missingno",
+    "pac-man-name"
+  ]
+}

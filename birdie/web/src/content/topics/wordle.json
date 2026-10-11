@@ -1,0 +1,43 @@
+{
+  "id": "wordle",
+  "title": "Wordle was made for one person",
+  "category": "Games",
+  "hook": "The word game millions play each morning was first a present for one person.",
+  "peek": "Josh Wardle made Wordle for his partner, Palak Shah, who loves word games. She helped pick its answers. Shared with the world in October 2021, it went from a few dozen players to millions within months.",
+  "lede": "Josh Wardle, a software engineer in New York, built a simple word-guessing game for his partner, Palak Shah, during the pandemic. The name was a pun on his surname. For months the two played it privately, along with his family. In October 2021 he put it online for anyone, with no ads and one puzzle a day.",
+  "bullets": [
+    {
+      "opening": "Palak Shah's word list",
+      "linkId": null,
+      "text": "The English language has around 12,000 five-letter words, many of them obscure. Wardle had Shah sort through them, and she kept roughly 2,500 that she actually knew, which became the answer list."
+    },
+    {
+      "opening": "The coloured square grid",
+      "linkId": null,
+      "text": "Players in New Zealand began sharing their results as rows of coloured emoji squares, giving away nothing about the word. Wardle liked the idea and built a share button that did it for them."
+    },
+    {
+      "opening": "From 90 players to millions",
+      "linkId": null,
+      "text": "On 1 November 2021, about 90 people played. By January 2022 it had millions of players, almost entirely through those shared grids."
+    },
+    {
+      "opening": "The New York Times sale",
+      "linkId": null,
+      "text": "In January 2022 the New York Times bought Wordle for a price in the low seven figures. It still sets one shared puzzle a day, and a human editor now chooses the answers."
+    }
+  ],
+  "tags": [
+    "games",
+    "words",
+    "inventors",
+    "patterns"
+  ],
+  "related": [
+    "scrabble-letters",
+    "first-crossword",
+    "sudoku-number-place",
+    "quick-brown-fox",
+    "tetris-origin"
+  ]
+}

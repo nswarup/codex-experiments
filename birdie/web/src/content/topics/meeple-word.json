@@ -1,0 +1,38 @@
+{
+  "id": "meeple-word",
+  "title": "Where the word meeple came from",
+  "category": "Games",
+  "hook": "The word for little wooden board-game people began at one game night in 2000.",
+  "peek": "The rounded wooden figures from Carcassonne got a nickname in 2000, when a player called Alison Hansel blended my and people into meeple. The word spread through board-game fans online and is now the standard term for such pieces.",
+  "lede": "Carcassonne, a tile-laying game by Klaus-Jürgen Wrede, came out in Germany in 2000 and won the Spiel des Jahres, Germany's top game award, in 2001. Players claim roads, cities and fields with small wooden figures shaped like stubby people. The rules call them followers. Nearly everyone else calls them meeples, a word with a known inventor.",
+  "bullets": [
+    {
+      "opening": "Alison Hansel's coinage",
+      "linkId": null,
+      "text": "In 2000, during a game of Carcassonne, the American player Alison Hansel called the pieces meeples, short for my people. Friends picked it up, and it spread through the BoardGameGeek community online."
+    },
+    {
+      "opening": "The Carcassonne follower shape",
+      "linkId": null,
+      "text": "The classic shape has a round head, outstretched arms and splayed legs, cut flat from wood. In Carcassonne a follower can be laid on its side to show it is working a field as a farmer."
+    },
+    {
+      "opening": "Meeples beyond Carcassonne",
+      "linkId": null,
+      "text": "The word now covers almost any person-shaped piece, and designers make special ones: animeeples for animals, and themed figures that are collected and swapped. Many fans use the meeple as a symbol of the hobby."
+    }
+  ],
+  "tags": [
+    "games",
+    "etymology",
+    "names",
+    "design"
+  ],
+  "related": [
+    "landlords-game",
+    "scrabble-letters",
+    "royal-game-of-ur",
+    "lewis-chessmen",
+    "trivial-pursuit-scrabble"
+  ]
+}

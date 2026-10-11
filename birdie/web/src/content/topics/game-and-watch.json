@@ -1,0 +1,43 @@
+{
+  "id": "game-and-watch",
+  "title": "Game & Watch and the bored commuter",
+  "category": "Games",
+  "hook": "Nintendo's first handheld games began with a man idly pressing a calculator on a train.",
+  "peek": "Gunpei Yokoi saw a bored businessman on a Japanese bullet train fiddling with an LCD calculator to pass the time. It gave him the idea for Game & Watch, small pocket games that also told the time, launched by Nintendo in 1980.",
+  "lede": "Gunpei Yokoi was a Nintendo engineer who had already made toys such as the Ultra Hand. In the late 1970s, riding a bullet train, he noticed a businessman passing the time by playing with an LCD calculator. Yokoi wondered if a small game could do the same job. The result was Game & Watch, first sold in 1980.",
+  "bullets": [
+    {
+      "opening": "Calculator parts reused",
+      "linkId": null,
+      "text": "Game & Watch used cheap, low-power LCD screens and chips built for pocket calculators. Each unit played one game, its characters printed into the screen in fixed positions."
+    },
+    {
+      "opening": "Why it had a watch",
+      "linkId": null,
+      "text": "Every unit also worked as a clock, and many had an alarm, which is where the name came from. The time showed on screen whenever no game was being played."
+    },
+    {
+      "opening": "The first cross-shaped D-pad",
+      "linkId": null,
+      "text": "The 1982 Game & Watch version of Donkey Kong introduced Yokoi's cross-shaped direction pad. Nintendo patented it and carried it over to its home console controllers."
+    },
+    {
+      "opening": "Withered technology",
+      "linkId": "game-boy",
+      "text": "Yokoi's thinking, often summed up as lateral thinking with withered technology, meant using old, cheap, well-understood parts in new ways. He later led the team behind the Game Boy."
+    }
+  ],
+  "tags": [
+    "games",
+    "inventors",
+    "design",
+    "history-of-things"
+  ],
+  "related": [
+    "game-boy",
+    "nintendo-hanafuda",
+    "tamagotchi",
+    "mario-mustache",
+    "walkman-origin"
+  ]
+}

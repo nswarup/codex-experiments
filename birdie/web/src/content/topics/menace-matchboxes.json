@@ -1,0 +1,44 @@
+{
+  "id": "menace-matchboxes",
+  "title": "MENACE, the matchbox that learned",
+  "category": "Games",
+  "hook": "In 1961 a pile of matchboxes and coloured beads learned to play noughts and crosses.",
+  "peek": "Donald Michie had no computer to spare, so he built a learning machine out of about 300 matchboxes full of beads. It began by playing at random and, rewarded for wins and punished for losses, slowly became hard to beat.",
+  "lede": "In 1961 the British researcher Donald Michie wanted to show that a machine could learn from experience, but computers were scarce. So he built one from matchboxes. He called it MENACE, the Machine Educable Noughts And Crosses Engine. It started out knowing nothing beyond the rules, and it got better simply by keeping score of what worked.",
+  "bullets": [
+    {
+      "opening": "A box for every position",
+      "linkId": null,
+      "text": "Each of roughly 300 matchboxes stood for one board position MENACE might face, with mirror images and rotations counted as one. Inside were beads in nine colours, one colour for each square on the grid."
+    },
+    {
+      "opening": "Shaking out a move",
+      "linkId": null,
+      "text": "To play, Michie picked the box matching the board, shook out a bead at random and made the move its colour named. Early on every square was equally likely, so MENACE played badly."
+    },
+    {
+      "opening": "Rewards made of beads",
+      "linkId": null,
+      "text": "After a win, Michie added extra beads of the colours used, making those moves more likely next time. After a loss he took the beads away. Over many games, good moves crowded out bad ones."
+    },
+    {
+      "opening": "Reinforcement learning in a drawer",
+      "linkId": null,
+      "text": "This is the core idea behind reinforcement learning, which much later helped programs master Go and chess. Michie, who had worked with Alan Turing at Bletchley Park during the war, went on to found a leading AI lab in Edinburgh."
+    }
+  ],
+  "tags": [
+    "ai",
+    "games",
+    "inventors",
+    "history-of-things"
+  ],
+  "related": [
+    "nimrod-computer",
+    "alphazero-chess",
+    "move-37",
+    "perceptron-1958",
+    "shannon-number",
+    "connect-four-solved"
+  ]
+}

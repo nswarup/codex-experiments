@@ -2748,5 +2748,65 @@
   "id": "war-of-the-worlds-panic",
   "title": "The War of the Worlds panic",
   "category": "History"
+ },
+ {
+  "id": "menace-matchboxes",
+  "title": "MENACE, the matchbox that learned",
+  "category": "Games"
+ },
+ {
+  "id": "minecraft-world-size",
+  "title": "Minecraft's world is bigger than Earth",
+  "category": "Games"
+ },
+ {
+  "id": "pinball-ban",
+  "title": "New York's pinball ban",
+  "category": "Games"
+ },
+ {
+  "id": "adventure-easter-egg",
+  "title": "The first famous Easter egg",
+  "category": "Games"
+ },
+ {
+  "id": "colossal-cave-mammoth",
+  "title": "Colossal Cave Adventure's real cave",
+  "category": "Games"
+ },
+ {
+  "id": "magic-gathering-turing",
+  "title": "Magic: The Gathering is a computer",
+  "category": "Games"
+ },
+ {
+  "id": "elo-rating",
+  "title": "The Elo rating",
+  "category": "Games"
+ },
+ {
+  "id": "wordle",
+  "title": "Wordle was made for one person",
+  "category": "Games"
+ },
+ {
+  "id": "hex-game",
+  "title": "The game of Hex",
+  "category": "Games"
+ },
+ {
+  "id": "meeple-word",
+  "title": "Where the word meeple came from",
+  "category": "Games"
+ },
+ {
+  "id": "game-and-watch",
+  "title": "Game & Watch and the bored commuter",
+  "category": "Games"
+ },
+ {
+  "id": "speak-and-spell",
+  "title": "The Speak & Spell",
+  "category": "Games"
  }
 ]

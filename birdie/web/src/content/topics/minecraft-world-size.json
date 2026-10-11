@@ -1,0 +1,38 @@
+{
+  "id": "minecraft-world-size",
+  "title": "Minecraft's world is bigger than Earth",
+  "category": "Games",
+  "hook": "A single Minecraft world has about seven times the surface area of the real Earth.",
+  "peek": "Minecraft's world border sits about 30 million blocks out from the centre in every direction. Since one block is meant to be one metre, the playable area works out at roughly seven Earths, and almost none of it exists until someone walks there.",
+  "lede": "In Minecraft, each block is officially one metre across. In the Java edition, the world stops at a border about 30 million blocks from the centre in every direction, making the map roughly 60 million blocks wide. That square covers about 3.6 billion square kilometres. Earth's entire surface, oceans included, is about 510 million. One world holds around seven planets' worth of ground.",
+  "bullets": [
+    {
+      "opening": "Worlds built on demand",
+      "linkId": null,
+      "text": "Minecraft does not store this vast world. It builds the land in 16 by 16 chunks only as players come near, from a single number called the seed. The same seed always grows the same mountains, so players share seeds for their favourite worlds."
+    },
+    {
+      "opening": "The Far Lands",
+      "linkId": null,
+      "text": "In older versions, the terrain maths broke down about 12.5 million blocks out, raising strange towering walls of land called the Far Lands. A 2011 update smoothed them away, and the hard world border now does the job."
+    },
+    {
+      "opening": "Far Lands or Bust",
+      "linkId": null,
+      "text": "Since 2011, the YouTuber Kurt J. Mac has been walking toward the Far Lands in an old version of the game, raising money for charity as he goes. After many years of episodes, he still has a long way to go."
+    }
+  ],
+  "tags": [
+    "games",
+    "scale",
+    "records",
+    "maps"
+  ],
+  "related": [
+    "elite-procedural-galaxies",
+    "tetris-origin",
+    "rope-around-earth",
+    "coastline-paradox",
+    "game-boy"
+  ]
+}

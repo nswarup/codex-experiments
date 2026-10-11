@@ -1,0 +1,43 @@
+{
+  "id": "elo-rating",
+  "title": "The Elo rating",
+  "category": "Games",
+  "hook": "A chess ranking made by a physics professor now ranks gamers, football teams and AI.",
+  "peek": "Arpad Elo, a physics professor and strong chess player, designed a simple way to rate players from their results. Chess adopted it decades ago, and versions of it now rank online gamers, football teams and even AI chatbots.",
+  "lede": "Arpad Elo was a Hungarian-born physics professor at Marquette University in Wisconsin and a strong chess player. He thought the existing chess rankings were unfair, so he designed a system based on statistics. The United States Chess Federation adopted it in 1960, and the world chess federation, FIDE, followed in 1970. It is a name, not an acronym, so it is Elo, not ELO.",
+  "bullets": [
+    {
+      "opening": "How Elo points move",
+      "linkId": null,
+      "text": "Each rating predicts how a game should go. Beat someone rated much higher and you gain a lot of points, while beating someone much lower earns very few. A 400-point gap means the stronger player is expected to score about 90%."
+    },
+    {
+      "opening": "Magnus Carlsen's peak",
+      "linkId": null,
+      "text": "Ratings give chess a simple league table across time. Magnus Carlsen reached 2882 in 2014, the highest classical rating anyone has achieved."
+    },
+    {
+      "opening": "Elo beyond chess",
+      "linkId": null,
+      "text": "The same method is used to rate Go players, national football teams and players in many online games, where it helps match people of similar skill."
+    },
+    {
+      "opening": "Ranking AI chatbots",
+      "linkId": null,
+      "text": "Researchers rank AI chatbots in public arenas where people compare two anonymous answers and pick the better one. The scores use Elo-style maths, treating each vote like a game won or lost."
+    }
+  ],
+  "tags": [
+    "games",
+    "ai",
+    "records",
+    "probability"
+  ],
+  "related": [
+    "erdos-number",
+    "alphazero-chess",
+    "deep-blue-move-44",
+    "chess-queen-power",
+    "stable-matching"
+  ]
+}

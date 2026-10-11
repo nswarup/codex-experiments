@@ -1,0 +1,43 @@
+{
+  "id": "magic-gathering-turing",
+  "title": "Magic: The Gathering is a computer",
+  "category": "Games",
+  "hook": "A game of Magic cards can be set up to compute anything a computer can.",
+  "peek": "In 2019 three researchers showed that Magic: The Gathering is Turing complete. With the right cards on the table, a game can run any computer program, which means there are positions where nobody can work out who will win.",
+  "lede": "Magic: The Gathering is a trading card game first sold in 1993, with tens of thousands of different cards. In 2019 Alex Churchill, Stella Biderman and Austin Herrick published a paper showing that the game is Turing complete. With a carefully chosen set of cards in play, a real game of Magic becomes a working universal computer, able in principle to run any program.",
+  "bullets": [
+    {
+      "opening": "A Turing machine of cards",
+      "linkId": null,
+      "text": "The construction builds a known universal Turing machine. The tape is a row of creature tokens, with their sizes recording position, and card effects that trigger automatically move the head and rewrite the tape."
+    },
+    {
+      "opening": "Forced moves only",
+      "linkId": null,
+      "text": "The trick is that once set up, neither player has any real choice to make. Every step happens through cards that must trigger, so the game simply runs the program on its own."
+    },
+    {
+      "opening": "Undecidable games",
+      "linkId": null,
+      "text": "Because of the halting problem, some Magic positions have no general method that can tell who will win. The authors argued it is the first real-world game known where finding the best play is impossible to compute."
+    },
+    {
+      "opening": "The practical limits",
+      "linkId": null,
+      "text": "No one will run this at a tournament. The setup needs a very specific pile of cards and an enormous number of steps, but every card used is legal under the official rules."
+    }
+  ],
+  "tags": [
+    "games",
+    "computing",
+    "paradoxes",
+    "infinity"
+  ],
+  "related": [
+    "game-of-life",
+    "turing-imitation-game",
+    "shannon-number",
+    "checkers-solved-chinook",
+    "lovelace-note-g"
+  ]
+}
