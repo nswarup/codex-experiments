@@ -1,0 +1,43 @@
+{
+  "id": "trampoline",
+  "title": "The trampoline and the kangaroo",
+  "category": "Inventions",
+  "hook": "The trampoline's inventor once bounced with a kangaroo in New York.",
+  "peek": "In the 1930s a young Iowa gymnast named George Nissen built a canvas bed that bounced him back into the air. He named it after the Spanish word for diving board, and he promoted it with help from a kangaroo.",
+  "lede": "George Nissen was a teenage gymnast in Iowa in the 1930s when he watched circus trapeze artists drop into their safety nets. He wondered what would happen if the net bounced them back up. With his gymnastics coach, Larry Griswold, he built a frame of steel and stretched canvas, and the modern trampoline was born. Selling it took some showmanship.",
+  "bullets": [
+    {
+      "opening": "Trampolín, the diving board",
+      "linkId": null,
+      "text": "Nissen borrowed the name from trampolín, Spanish for diving board, which he had heard while touring Mexico as an acrobat. He registered Trampoline as a trademark, although the word slipped into everyday use for any bouncing bed."
+    },
+    {
+      "opening": "The bouncing kangaroo",
+      "linkId": null,
+      "text": "For publicity, Nissen hired a kangaroo and was photographed bouncing alongside it on a trampoline in New York. The pictures went around the world and fixed the trampoline in the public mind as pure fun."
+    },
+    {
+      "opening": "Navy flight training",
+      "linkId": null,
+      "text": "During the Second World War the US Navy used trampolines to train pilots, who practised twisting and turning in the air to get used to changing positions and to learn to keep their bearings."
+    },
+    {
+      "opening": "An Olympic sport",
+      "linkId": null,
+      "text": "Trampolining joined the Olympic Games in 2000 in Sydney. It was a fitting place: the inventor who had once bounced with a kangaroo lived to see his sport debut in Australia."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "sport",
+    "history-of-things",
+    "names"
+  ],
+  "related": [
+    "slinky",
+    "frisbee-pie-tins",
+    "yo-yo",
+    "twister-tonight-show",
+    "ferris-wheel"
+  ]
+}

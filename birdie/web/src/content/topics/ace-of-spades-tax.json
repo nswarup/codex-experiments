@@ -1,0 +1,43 @@
+{
+  "id": "ace-of-spades-tax",
+  "title": "Why the ace of spades is so fancy",
+  "category": "Games",
+  "hook": "The ace of spades is ornate because it once proved tax had been paid.",
+  "peek": "In England, playing cards were taxed for centuries, and the ace of spades carried the proof. The government printed it itself with elaborate designs that were hard to fake, and card makers kept the tradition long after the tax ended.",
+  "lede": "Look at a pack of cards and one ace stands out: the ace of spades, often huge and decorated. The reason is tax. English law put a duty on playing cards, and from 1765 the ace of spades in every legal pack had to be printed by the government's Stamp Office. Its fancy design was proof that the duty had been paid.",
+  "bullets": [
+    {
+      "opening": "The Stamp Office ace",
+      "linkId": null,
+      "text": "Card makers had to buy their aces of spades from the Stamp Office, paying the duty as they did. The official ace was printed with fine, intricate engraving so that it would be very hard for anyone to copy."
+    },
+    {
+      "opening": "Forging the ace",
+      "linkId": null,
+      "text": "Printing a fake ace of spades to dodge the duty was treated as a serious crime, on a par with forging money. The intricate patterns were there to make that kind of forgery easy to spot."
+    },
+    {
+      "opening": "Old Frizzle",
+      "linkId": null,
+      "text": "An ace design used from 1828 became known among card players as Old Frizzle, after its elaborate, curly decoration. Collectors still prize packs with these government-printed aces."
+    },
+    {
+      "opening": "The maker's ace",
+      "linkId": null,
+      "text": "The playing card duty in Britain was finally abolished in 1960. By then the decorated spade was a tradition, and many card makers still use it as the place to show off their name and logo."
+    }
+  ],
+  "tags": [
+    "games",
+    "playing-cards",
+    "design",
+    "history-of-things"
+  ],
+  "related": [
+    "joker-euchre",
+    "nintendo-hanafuda",
+    "contract-bridge-cruise",
+    "windows-solitaire",
+    "lewis-chessmen"
+  ]
+}

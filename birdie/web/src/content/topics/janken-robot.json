@@ -1,0 +1,43 @@
+{
+  "id": "janken-robot",
+  "title": "The robot hand that never loses at rock paper scissors",
+  "category": "Games",
+  "hook": "A robot hand wins rock paper scissors every time by being too fast to see.",
+  "peek": "In 2012 a lab at the University of Tokyo showed a robot hand that wins rock paper scissors every single game. It does not read minds. A high-speed camera watches your hand form its shape, and the robot answers before you notice.",
+  "lede": "Rock paper scissors, called janken in Japan, is meant to be a game of pure chance. In 2012, the Ishikawa Watanabe Laboratory at the University of Tokyo showed off a robot hand that never loses. It does not predict anything. It simply watches the human hand start to form rock, paper or scissors, and plays the winning shape almost instantly.",
+  "bullets": [
+    {
+      "opening": "A thousand frames a second",
+      "linkId": null,
+      "text": "The robot's camera takes about 1,000 pictures every second, so it captures a new frame roughly every millisecond. Software reads the shape of the human hand from those frames as the fingers begin to move."
+    },
+    {
+      "opening": "The high-speed robot hand",
+      "linkId": null,
+      "text": "The hand itself was built in the lab for fast, nimble tasks, and it can change shape in a tiny fraction of a second. Its answer arrives so quickly that to a human the two hands seem to move at the same moment."
+    },
+    {
+      "opening": "Cheating in plain sight",
+      "linkId": null,
+      "text": "Strictly speaking, the robot cheats: it moves a moment after you. The trick works because human eyes and reactions are far too slow to notice that tiny delay, so the win looks fair."
+    },
+    {
+      "opening": "Why the lab built it",
+      "linkId": null,
+      "text": "The janken robot was a showcase for the lab's research into high-speed vision and fast machines, the kind of work that can help robots catch, sort and handle things quickly."
+    }
+  ],
+  "tags": [
+    "games",
+    "robots",
+    "perception",
+    "speed"
+  ],
+  "related": [
+    "shakey-robot",
+    "move-37",
+    "menace-matchboxes",
+    "mechanical-turk",
+    "connect-four-solved"
+  ]
+}

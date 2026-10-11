@@ -1,0 +1,43 @@
+{
+  "id": "tennis-for-two",
+  "title": "Tennis for Two",
+  "category": "Games",
+  "hook": "One of the first video games was built to liven up a science lab's open day.",
+  "peek": "In 1958 the physicist William Higinbotham built a tennis game on an oscilloscope screen for visitors to a US national laboratory. Crowds queued to play it, and then it was taken apart and almost forgotten.",
+  "lede": "Every autumn, Brookhaven National Laboratory in New York opened its doors to visitors, and the exhibits were mostly static displays. In 1958 the physicist William Higinbotham thought visitors would enjoy something they could play. He built Tennis for Two, a side-on tennis match shown on a small oscilloscope screen. It is one of the earliest video games, and it was a hit.",
+  "bullets": [
+    {
+      "opening": "An analog computer game",
+      "linkId": null,
+      "text": "The game ran on a small analog computer that worked out the path of the ball, including gravity and bounces off the court. The ball arced over a net drawn as a short line, and a weak shot could hit the net."
+    },
+    {
+      "opening": "Knobs and buttons",
+      "linkId": null,
+      "text": "Each player had a box with a knob to set the angle of a shot and a button to hit the ball. That simple pair of controls is close to what game controllers would offer years later."
+    },
+    {
+      "opening": "Built in weeks",
+      "linkId": null,
+      "text": "Higinbotham sketched the design, and the technician Robert Dvorak built it in about three weeks. They used parts the lab already had, and the whole thing was ready in time for the open day."
+    },
+    {
+      "opening": "Tennis on other planets",
+      "linkId": null,
+      "text": "For the 1959 open day the game got a bigger screen and settings that imitated gravity on the Moon and on Jupiter. Afterwards it was taken apart for its parts, and Higinbotham never patented it."
+    }
+  ],
+  "tags": [
+    "games",
+    "video-games",
+    "physics",
+    "history-of-things"
+  ],
+  "related": [
+    "spacewar-pdp1",
+    "pong-quarters",
+    "nimrod-computer",
+    "game-and-watch",
+    "adventure-easter-egg"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "recycling-symbol",
+  "title": "The recycling symbol",
+  "category": "Inventions",
+  "hook": "The recycling arrows were drawn by a student in 1970 and never trademarked.",
+  "peek": "The three chasing arrows of the recycling symbol were drawn by a 23-year-old student for a design contest in 1970. The company behind the contest let the symbol go free, so anyone can use it.",
+  "lede": "In 1970, the year of the first Earth Day, the Container Corporation of America, a big maker of cardboard packaging, ran a design contest for a symbol that would stand for recycling. The winner was Gary Anderson, a 23-year-old student at the University of Southern California. His three folded arrows are now printed on billions of packages, and nobody owns them.",
+  "bullets": [
+    {
+      "opening": "The Möbius strip idea",
+      "linkId": null,
+      "text": "Anderson based his design on a Möbius strip, a loop with a single twisted side. Each arrow folds over as it turns the corner, so the triangle reads as one continuous loop with no beginning or end."
+    },
+    {
+      "opening": "Gary Anderson's prize",
+      "linkId": null,
+      "text": "Anderson's entry was chosen from hundreds, and his reward was a scholarship. He went on to a long career in architecture and planning, and for years few people knew that the world's best-known green symbol was his."
+    },
+    {
+      "opening": "Left in the public domain",
+      "linkId": null,
+      "text": "The Container Corporation applied to trademark the arrows but let the application drop. The symbol passed into the public domain, which is why it appears freely on cartons, bins and labels across the world."
+    },
+    {
+      "opening": "Resin codes in triangles",
+      "linkId": null,
+      "text": "The arrows around a number on plastic are a different thing. Introduced by the American plastics industry in 1988, those resin codes name the type of plastic, and they do not promise that an item can be recycled."
+    }
+  ],
+  "tags": [
+    "design",
+    "history-of-things",
+    "myths-busted",
+    "inventors"
+  ],
+  "related": [
+    "helvetica",
+    "barcode-sand",
+    "tetra-pak",
+    "floppy-save-icon",
+    "command-key-symbol"
+  ]
+}

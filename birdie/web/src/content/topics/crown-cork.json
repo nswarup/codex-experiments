@@ -1,0 +1,43 @@
+{
+  "id": "crown-cork",
+  "title": "The bottle cap and the razor",
+  "category": "Inventions",
+  "hook": "The man who invented the bottle cap gave King Gillette his big idea.",
+  "peek": "In 1892 William Painter patented the crimped metal bottle cap. One of his salesmen was King Gillette, and Painter's advice to him, to invent something people use once and throw away, led to the disposable razor blade.",
+  "lede": "Before 1892, fizzy drinks were sealed with corks or wire-sprung stoppers that leaked and were hard to clean. That year William Painter, a Baltimore engineer, patented the crown cork: a small metal cap with a crimped edge and a cork lining. It was cheap, tight and meant to be used just once. That last idea turned out to be worth even more than the cap.",
+  "bullets": [
+    {
+      "opening": "The crimped crown",
+      "linkId": null,
+      "text": "Painter's cap was pressed over a lip on the bottle neck so its fluted edge gripped tightly. His caps had 24 teeth. Today's standard cap has 21, and the basic design has barely changed in more than a century."
+    },
+    {
+      "opening": "Crown Cork and Seal",
+      "linkId": null,
+      "text": "Painter set up the Crown Cork and Seal Company in Baltimore to make the caps, and he also designed machines to fit them, including a foot-powered capper for small bottlers. The firm grew into one of the world's largest packaging makers."
+    },
+    {
+      "opening": "King Gillette, salesman",
+      "linkId": null,
+      "text": "One of Painter's travelling salesmen was King C. Gillette. As Gillette later told it, Painter advised him to invent something people would use once and throw away, so that customers would keep coming back to buy more."
+    },
+    {
+      "opening": "The disposable razor blade",
+      "linkId": null,
+      "text": "In 1895 Gillette hit on a thin, cheap steel blade that could be thrown away when dull. Making it took years and the help of engineer William Nickerson, but Gillette's company began selling the razor in 1903, turning Painter's advice into a fortune."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "history-of-things",
+    "design",
+    "drinks"
+  ],
+  "related": [
+    "safety-pin",
+    "can-opener",
+    "tetra-pak",
+    "friction-match",
+    "ballpoint-biro"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "moksha-patam",
+  "title": "Snakes and ladders began as Moksha Patam",
+  "category": "Games",
+  "hook": "Snakes and ladders started in India as a game about living a good life.",
+  "peek": "Long before it was a children's board game in Britain, snakes and ladders was played in India as Moksha Patam. Its ladders stood for virtues and its snakes for vices, and the last square stood for liberation.",
+  "lede": "Snakes and ladders is one of the oldest board games still played. It comes from India, where versions called Moksha Patam or Gyan Chaupar were used to teach that good deeds lift you up and bad ones drag you down. The top square stood for moksha, liberation. British players adopted the board in Victorian times and slowly dropped the moral lessons.",
+  "bullets": [
+    {
+      "opening": "Virtues and vices",
+      "linkId": null,
+      "text": "At the foot of each ladder sat a virtue such as generosity or faith, and at the head of each snake a vice such as anger or greed. Landing on a square was a small lesson in where your actions might lead."
+    },
+    {
+      "opening": "More snakes than ladders",
+      "linkId": null,
+      "text": "Many old Indian boards had more snakes than ladders, a reminder that the path to goodness was meant to be harder than the slide away from it. Modern boards tend to balance them more evenly."
+    },
+    {
+      "opening": "A game of pure chance",
+      "linkId": null,
+      "text": "Players make no decisions at all: the dice decide every move. Some writers see this as a picture of fate and karma, where you can only accept where the throw takes you."
+    },
+    {
+      "opening": "The Victorian board",
+      "linkId": null,
+      "text": "The game reached Britain in the late 1800s. Early English boards still showed good and bad deeds at the ends of ladders and snakes, but over time the pictures faded and plain play took over. In America it later became Chutes and Ladders."
+    }
+  ],
+  "tags": [
+    "games",
+    "history-of-things",
+    "board-games",
+    "india"
+  ],
+  "related": [
+    "royal-game-of-ur",
+    "landlords-game",
+    "chess-queen-power",
+    "backgammon-doubling-cube",
+    "lewis-chessmen"
+  ]
+}

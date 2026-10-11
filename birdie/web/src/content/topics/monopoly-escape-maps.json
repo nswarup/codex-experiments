@@ -1,0 +1,43 @@
+{
+  "id": "monopoly-escape-maps",
+  "title": "The Monopoly sets that hid escape maps",
+  "category": "Games",
+  "hook": "Some wartime Monopoly sets hid silk maps, compasses and real money.",
+  "peek": "During the Second World War, British intelligence worked with the games maker Waddingtons to slip escape kits into Monopoly sets sent to prisoners of war. Silk maps, tiny compasses and real banknotes were tucked inside the boards.",
+  "lede": "In the Second World War, a branch of British military intelligence called MI9 was set up to help captured servicemen escape. One of its best tools was a board game. John Waddington Ltd of Leeds, which made Monopoly in Britain, built special sets with escape aids hidden in the board and among the play money, then sent them into prison camps as gifts.",
+  "bullets": [
+    {
+      "opening": "Waddingtons' silk maps",
+      "linkId": null,
+      "text": "Waddingtons already had the skill of printing on silk, which made ideal maps: silk folds tiny, makes no rustle and survives getting wet. Maps of the region around each camp were sealed into the cardboard of the board."
+    },
+    {
+      "opening": "Real money among fake",
+      "linkId": null,
+      "text": "Alongside the toy notes, the sets carried real German, Italian and other currency, plus small compasses and metal files hidden in the pieces and board. Everything had to pass a careful search by the camp guards."
+    },
+    {
+      "opening": "The Free Parking dot",
+      "linkId": null,
+      "text": "Waddingtons used small marks on the board, such as a red dot on the Free Parking square, so MI9 knew which version was which and could send the right map to the right camp, depending on where a prisoner was held."
+    },
+    {
+      "opening": "Charities that never existed",
+      "linkId": null,
+      "text": "The sets were mailed through invented charities and relief funds rather than the Red Cross, whose parcels had to stay above suspicion. The whole scheme was kept secret for decades after the war."
+    }
+  ],
+  "tags": [
+    "games",
+    "maps",
+    "history-of-things",
+    "secrets"
+  ],
+  "related": [
+    "landlords-game",
+    "d-day-crossword",
+    "spilsbury-jigsaw",
+    "hedy-lamarr",
+    "scrabble-letters"
+  ]
+}

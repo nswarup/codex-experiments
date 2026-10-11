@@ -1,0 +1,43 @@
+{
+  "id": "spacewar-pdp1",
+  "title": "Spacewar! and its real star map",
+  "category": "Games",
+  "hook": "An early video game from MIT used a real star chart for its background.",
+  "peek": "Spacewar, written at MIT in 1962, pitted two spaceships against each other on a round screen. Behind them scrolled the real night sky, drawn from an astronomers' almanac, in a part of the program jokingly named the Expensive Planetarium.",
+  "lede": "In 1962, a group of young programmers at MIT wrote Spacewar for the university's new PDP-1 computer. Two players each steered a small spaceship around a round screen. The game could have used random dots for stars, but the programmer Peter Samson put in the real sky instead, carefully copied from a star chart, so players flew across actual constellations.",
+  "bullets": [
+    {
+      "opening": "The Expensive Planetarium",
+      "linkId": null,
+      "text": "Samson's star display was called the Expensive Planetarium, a joke on the cost of the PDP-1 and on other MIT programs with names like Expensive Typewriter. The stars drifted slowly across the screen as the night sky does."
+    },
+    {
+      "opening": "Stars from an almanac",
+      "linkId": null,
+      "text": "The star positions came from an astronomers' almanac, and the display showed the brighter stars of a band of sky. People who knew the night sky could pick out real constellations."
+    },
+    {
+      "opening": "Steve Russell's game",
+      "linkId": null,
+      "text": "Steve Russell wrote most of the game, from an idea he worked out with Martin Graetz and Wayne Wiitanen. Others added parts, including a star at the centre whose gravity pulled the ships in, and a hyperspace escape button."
+    },
+    {
+      "opening": "Spacewar on every PDP-1",
+      "linkId": null,
+      "text": "The game spread to other PDP-1 computers, and its maker, Digital Equipment Corporation, used it to show off and test new machines. Russell never earned money from it, but Spacewar inspired the first arcade games."
+    }
+  ],
+  "tags": [
+    "games",
+    "video-games",
+    "space",
+    "computers"
+  ],
+  "related": [
+    "tennis-for-two",
+    "pong-quarters",
+    "nimrod-computer",
+    "elite-procedural-galaxies",
+    "colossal-cave-mammoth"
+  ]
+}

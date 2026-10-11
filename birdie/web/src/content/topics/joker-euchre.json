@@ -1,0 +1,43 @@
+{
+  "id": "joker-euchre",
+  "title": "The Joker was invented for euchre",
+  "category": "Games",
+  "hook": "The Joker is the newest card in the pack, added for one American game.",
+  "peek": "The other cards in a standard pack are centuries old, but the Joker only appeared in America around the 1860s. It was made as an extra top trump for euchre, and its name probably comes from the game.",
+  "lede": "Most of a standard pack of cards is centuries old, but the Joker is a newcomer. It first appeared in American packs around the 1860s, made for euchre, a trick-taking game hugely popular in the United States at the time. Euchre needed one extra card to beat all the others, and printers began adding it to the deck.",
+  "bullets": [
+    {
+      "opening": "The Best Bower",
+      "linkId": null,
+      "text": "In euchre the two jacks of the trump colour, called bowers, are the strongest cards. The new card, first called the Best Bower, outranked them both and became the highest trump in the game."
+    },
+    {
+      "opening": "A name from euchre",
+      "linkId": null,
+      "text": "The name Joker probably comes from euchre itself. The game's name is thought to come from the German Juckerspiel, and euchre was sometimes spelled juker, so the joker may simply be the euchre card."
+    },
+    {
+      "opening": "The jester picture",
+      "linkId": null,
+      "text": "Early Best Bower cards came in many designs, often carrying the card maker's own branding. Over time the card came to be drawn as a clown or court jester, to match its new name."
+    },
+    {
+      "opening": "Jokers in other games",
+      "linkId": null,
+      "text": "Euchre has faded in most places, but the extra card stayed in the pack. Players found new jobs for it as a wild card in games like rummy and poker, and many packs now come with two."
+    }
+  ],
+  "tags": [
+    "games",
+    "playing-cards",
+    "names",
+    "history-of-things"
+  ],
+  "related": [
+    "ace-of-spades-tax",
+    "nintendo-hanafuda",
+    "contract-bridge-cruise",
+    "uno-stacking",
+    "windows-solitaire"
+  ]
+}

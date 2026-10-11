@@ -2388,5 +2388,65 @@
   "id": "wd-40",
   "title": "WD-40's name",
   "category": "Inventions"
+ },
+ {
+  "id": "crown-cork",
+  "title": "The bottle cap and the razor",
+  "category": "Inventions"
+ },
+ {
+  "id": "trampoline",
+  "title": "The trampoline and the kangaroo",
+  "category": "Inventions"
+ },
+ {
+  "id": "recycling-symbol",
+  "title": "The recycling symbol",
+  "category": "Inventions"
+ },
+ {
+  "id": "monopoly-escape-maps",
+  "title": "The Monopoly sets that hid escape maps",
+  "category": "Games"
+ },
+ {
+  "id": "moksha-patam",
+  "title": "Snakes and ladders began as Moksha Patam",
+  "category": "Games"
+ },
+ {
+  "id": "joker-euchre",
+  "title": "The Joker was invented for euchre",
+  "category": "Games"
+ },
+ {
+  "id": "ace-of-spades-tax",
+  "title": "Why the ace of spades is so fancy",
+  "category": "Games"
+ },
+ {
+  "id": "janken-robot",
+  "title": "The robot hand that never loses at rock paper scissors",
+  "category": "Games"
+ },
+ {
+  "id": "nimrod-computer",
+  "title": "Nimrod, the computer built to play Nim",
+  "category": "Games"
+ },
+ {
+  "id": "tennis-for-two",
+  "title": "Tennis for Two",
+  "category": "Games"
+ },
+ {
+  "id": "spacewar-pdp1",
+  "title": "Spacewar! and its real star map",
+  "category": "Games"
+ },
+ {
+  "id": "pong-quarters",
+  "title": "The Pong machine that jammed with quarters",
+  "category": "Games"
  }
 ]

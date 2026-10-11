@@ -1,0 +1,43 @@
+{
+  "id": "nimrod-computer",
+  "title": "Nimrod, the computer built to play Nim",
+  "category": "Games",
+  "hook": "In 1951 a giant computer played Nim at the Festival of Britain, and mostly won.",
+  "peek": "For the 1951 Festival of Britain, the engineering firm Ferranti built Nimrod, a room-sized machine that played the old matchstick game of Nim. It was one of the first computers made to play a game, and few visitors could beat it.",
+  "lede": "In 1951 the Festival of Britain showed off British science and engineering, and the firm Ferranti wanted a way to explain what a computer could do. Their answer was Nimrod, a large cabinet of lights and valves built to play Nim, an old game in which players take turns removing objects. It was one of the first computers ever built to play a game.",
+  "bullets": [
+    {
+      "opening": "How Nim is played",
+      "linkId": null,
+      "text": "In Nim, players take turns removing objects from several heaps, and whoever takes the last one wins, or in some versions loses. On Nimrod the heaps were rows of lights, and visitors pressed buttons to switch them off."
+    },
+    {
+      "opening": "The binary winning strategy",
+      "linkId": null,
+      "text": "Nim was solved by the mathematician Charles Bouton in 1901. Writing each heap size in binary shows which moves are safe, and that made the game perfect for a computer, which could follow the rule without slipping."
+    },
+    {
+      "opening": "John Bennett's design",
+      "linkId": null,
+      "text": "Nimrod was designed by the Australian engineer John Bennett at Ferranti. He meant it as a demonstration of logic and computing, but many visitors simply wanted to play and try to beat the machine."
+    },
+    {
+      "opening": "Nimrod in Berlin",
+      "linkId": null,
+      "text": "After the festival, Nimrod went to a trade fair in Berlin, where it drew big crowds. The story goes that it beat Ludwig Erhard, then West Germany's economics minister, in several games."
+    }
+  ],
+  "tags": [
+    "games",
+    "computers",
+    "math",
+    "history-of-things"
+  ],
+  "related": [
+    "menace-matchboxes",
+    "el-ajedrecista",
+    "tennis-for-two",
+    "shannon-number",
+    "daisy-bell-computer"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "pong-quarters",
+  "title": "The Pong machine that jammed with quarters",
+  "category": "Games",
+  "hook": "The first Pong machine broke down because it was stuffed with quarters.",
+  "peek": "In 1972 Atari put a test Pong machine in a California bar. Within days, the story goes, the bar called to say it had stopped working. The fault was simple: the coin box was overflowing with quarters.",
+  "lede": "In 1972, the young company Atari built a prototype of Pong, a simple tennis game, and placed it in Andy Capp's Tavern, a bar in Sunnyvale, California. Soon the bar called to say the machine was broken. When engineer Allan Alcorn came to look, he found the cause: so many people had played that the coin box had filled up and jammed.",
+  "bullets": [
+    {
+      "opening": "Allan Alcorn's practice project",
+      "linkId": null,
+      "text": "Atari co-founder Nolan Bushnell gave Pong to Alcorn as a warm-up exercise and, as both later told it, pretended a big electronics firm had ordered it. The result was so much fun that Atari sold it instead."
+    },
+    {
+      "opening": "The overflowing coin box",
+      "linkId": null,
+      "text": "The prototype's coin box was improvised, and Alcorn's story is that it was a plastic milk container. It filled with quarters until coins backed up and the machine stopped taking them."
+    },
+    {
+      "opening": "Avoid missing ball",
+      "linkId": null,
+      "text": "Pong's instructions were one short line: avoid missing ball for high score. Two players could work out the game at a glance, which helped it spread through bars far faster than more complex machines."
+    },
+    {
+      "opening": "The famous Pong beep",
+      "linkId": null,
+      "text": "Pong's simple beeps came from signals already running inside the circuit, because Alcorn had no budget for proper sound. That plain blip became one of the best-known noises in gaming."
+    }
+  ],
+  "tags": [
+    "games",
+    "video-games",
+    "arcades",
+    "accidents"
+  ],
+  "related": [
+    "tennis-for-two",
+    "spacewar-pdp1",
+    "space-invaders-speedup",
+    "pac-man-name",
+    "pinball-ban"
+  ]
+}
