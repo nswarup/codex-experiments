@@ -1,0 +1,43 @@
+{
+  "id": "neft-dashlari",
+  "title": "Neft Daşları, the city on stilts",
+  "category": "Travel",
+  "hook": "Far out in the Caspian Sea, an oil town stands on stilts with streets above the waves.",
+  "peek": "Neft Daşları, Oil Rocks, is a settlement built on steel trestles in the Caspian Sea off Azerbaijan. Begun in 1949, it grew roads, apartment blocks and shops, all perched above open water and out of sight of land.",
+  "lede": "In November 1949, Soviet oil workers struck oil beneath a reef of dark rocks in the Caspian Sea, about 100 kilometres east of Baku. Rather than run the field from shore, they built a town right there. Platforms linked by causeways spread across the water, and Neft Daşları, Oil Rocks, became the first offshore oil platform of its kind.",
+  "bullets": [
+    {
+      "opening": "The sunken ship foundations",
+      "linkId": null,
+      "text": "The first foothold was made by sinking old ships to form an artificial island. Among them, it is often said, was the Zoroaster, built in 1878 and counted among the first oil tankers ever made."
+    },
+    {
+      "opening": "Roads over the Caspian",
+      "linkId": null,
+      "text": "Trestle roads and bridges were extended to reach new wells, and at its height the network was said to run to hundreds of kilometres. Much of it has since been closed as the oldest sections wore out."
+    },
+    {
+      "opening": "Life on the Oil Rocks",
+      "linkId": null,
+      "text": "Workers live there in shifts. Over the years the settlement has had apartment blocks, canteens and shops, and at its peak several thousand people worked out on the water."
+    },
+    {
+      "opening": "Neft Daşları on film",
+      "linkId": null,
+      "text": "The settlement has long drawn filmmakers and photographers. It appeared in the 1999 James Bond film The World Is Not Enough, and Guinness has listed it as the oldest offshore oil platform."
+    }
+  ],
+  "tags": [
+    "architecture",
+    "oceans",
+    "engineering",
+    "records"
+  ],
+  "related": [
+    "venice-wooden-piles",
+    "whittier-alaska",
+    "coober-pedy",
+    "sealand",
+    "derinkuyu"
+  ]
+}

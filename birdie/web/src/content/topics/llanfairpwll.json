@@ -1,0 +1,43 @@
+{
+  "id": "llanfairpwll",
+  "title": "The 58-letter village name",
+  "category": "Travel",
+  "hook": "A Welsh village stretched its name to 58 letters to tempt railway travellers.",
+  "peek": "Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, on the island of Anglesey, has one of the longest place names in the world. It was not ancient: the full version seems to have been made up in the 1860s to get trains to stop and tourists to visit.",
+  "lede": "For centuries the village on Anglesey was called Llanfair Pwllgwyngyll, St Mary's church in the hollow of the white hazel. When the railway arrived in the 1850s, the story goes, locals wanted a way to stand out. In the 1860s someone simply added more description, and the village got a 58-letter name that tourists still travel to photograph.",
+  "bullets": [
+    {
+      "opening": "What the long name means",
+      "linkId": null,
+      "text": "Roughly translated, the full name says St Mary's church in the hollow of the white hazel near a rapid whirlpool and the church of St Tysilio of the red cave. It is a description of the landscape strung together into one word."
+    },
+    {
+      "opening": "The 1860s publicity stunt",
+      "linkId": null,
+      "text": "The extension is usually credited to a tradesman from nearby Menai Bridge, though nobody knows for certain who coined it. Either way it worked as advertising, and it has drawn visitors ever since."
+    },
+    {
+      "opening": "Counting the Welsh letters",
+      "linkId": null,
+      "text": "In Welsh, ch, dd and ll each count as a single letter. Counted the Welsh way, the name has 51 letters rather than 58, which shortens it a little but not much."
+    },
+    {
+      "opening": "Llanfairpwll railway station",
+      "linkId": null,
+      "text": "The station's sign is one of the most photographed in Britain, and the platform tickets were once a popular souvenir. Locals mostly save their breath and call the village Llanfairpwll or Llanfair PG."
+    }
+  ],
+  "tags": [
+    "names",
+    "records",
+    "wales",
+    "villages"
+  ],
+  "related": [
+    "westward-ho",
+    "stilton-village",
+    "agloe-new-york",
+    "bielefeld-conspiracy",
+    "esquivalience"
+  ]
+}

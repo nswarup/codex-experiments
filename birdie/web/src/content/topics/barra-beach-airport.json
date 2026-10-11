@@ -1,0 +1,43 @@
+{
+  "id": "barra-beach-airport",
+  "title": "Barra's beach airport",
+  "category": "Travel",
+  "hook": "On the Scottish island of Barra, the plane lands on the beach when the tide is out.",
+  "peek": "Barra, in the Outer Hebrides, has an airport whose runways are marked out on a sandy bay. It is the only place in the world where scheduled flights land on a beach, so the timetable is set by the tides.",
+  "lede": "Barra Airport has no tarmac runway. Its three landing strips are laid out across Traigh Mhòr, a wide shell-sand bay at the north end of the island. Twice a day the sea covers them, so flights from Glasgow are timed for low tide. When the water is in, the runway is under the waves.",
+  "bullets": [
+    {
+      "opening": "Three runways in the sand",
+      "linkId": null,
+      "text": "Wooden posts mark the ends of three strips arranged in a triangle, so pilots can choose the one that best faces the wind. Between flights the bay is an ordinary beach, and a windsock and flags warn walkers when a plane is due."
+    },
+    {
+      "opening": "The Twin Otter planes",
+      "linkId": null,
+      "text": "Loganair flies the route with Twin Otters, small sturdy planes built for short and rough strips. The flight from Glasgow takes about an hour and ends with a landing on firm wet sand."
+    },
+    {
+      "opening": "Flights set by the tide",
+      "linkId": null,
+      "text": "Because the tide comes in about an hour later each day, the timetable shifts constantly. Bad weather or a very high tide can close the beach, so passengers learn to keep an eye on the sea."
+    },
+    {
+      "opening": "Cockle pickers on Traigh Mhòr",
+      "linkId": null,
+      "text": "The bay is famous for its cockles, and people still gather them on the sand between flights. The beach has served as both a larder and an airport since scheduled flights began in the 1930s."
+    }
+  ],
+  "tags": [
+    "airports",
+    "islands",
+    "tides",
+    "scotland"
+  ],
+  "related": [
+    "gibraltar-runway",
+    "bay-of-fundy-tides",
+    "tristan-da-cunha",
+    "ailsa-craig-curling-stones",
+    "coober-pedy"
+  ]
+}

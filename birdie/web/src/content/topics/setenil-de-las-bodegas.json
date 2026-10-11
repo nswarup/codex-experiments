@@ -1,0 +1,43 @@
+{
+  "id": "setenil-de-las-bodegas",
+  "title": "Setenil de las Bodegas",
+  "category": "Travel",
+  "hook": "A Spanish town where whole streets of houses use a cliff as their roof.",
+  "peek": "In the hills of southern Spain, the white houses of Setenil de las Bodegas are tucked under huge ledges of rock. On some streets the cliff hangs right over the road, so walking through town feels like walking into a cave.",
+  "lede": "Setenil de las Bodegas is a small white town in the province of Cádiz, in Andalusia. Instead of climbing the cliffs of its river gorge, many of its houses moved in underneath them. Builders added fronts and walls to natural hollows in the rock, so the overhanging stone itself serves as the roof. Some streets run beneath it for long stretches.",
+  "bullets": [
+    {
+      "opening": "The Río Trejo gorge",
+      "linkId": null,
+      "text": "Over a very long time the little Trejo river carved its gorge into the soft rock, leaving deep overhangs along the sides. Those ready-made shelters made building easy: one wall and a doorway could turn a hollow into a home."
+    },
+    {
+      "opening": "Calle Cuevas del Sol",
+      "linkId": null,
+      "text": "Two of the best-known streets sit on opposite sides of the river. Cuevas del Sol, the caves of the sun, gets the light, while Cuevas de la Sombra, the caves of the shade, stays cool beneath a long ledge of rock."
+    },
+    {
+      "opening": "Living under stone",
+      "linkId": null,
+      "text": "The rock is not just a look. Thick stone keeps the houses cool in the fierce Andalusian summer and holds some warmth in winter, which is one reason people have lived in these shelters for centuries."
+    },
+    {
+      "opening": "The name Setenil",
+      "linkId": null,
+      "text": "A popular story says the name comes from the Latin septem nihil, seven times nothing, after repeated failed sieges before Castile took the town in 1484. Historians treat that as folklore. The bodegas part refers to the town's old food and wine cellars."
+    }
+  ],
+  "tags": [
+    "architecture",
+    "villages",
+    "caves",
+    "names"
+  ],
+  "related": [
+    "coober-pedy",
+    "derinkuyu",
+    "whittier-alaska",
+    "llivia",
+    "hallstatt-china"
+  ]
+}

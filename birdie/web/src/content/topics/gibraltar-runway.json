@@ -1,0 +1,38 @@
+{
+  "id": "gibraltar-runway",
+  "title": "Gibraltar's road across the runway",
+  "category": "Travel",
+  "hook": "In Gibraltar, cars once waited at the barrier while planes landed across the road.",
+  "peek": "Gibraltar is so short of flat land that its airport runway cuts straight across the strip between the Rock and Spain. For decades the main road to the border crossed it too, and traffic stopped at barriers whenever a plane came in.",
+  "lede": "Gibraltar's only flat land is the narrow isthmus joining the Rock to Spain, and the airport takes up much of it. The runway runs almost from coast to coast. Until 2023, the main road from the town to the Spanish border, Winston Churchill Avenue, crossed the tarmac, so drivers and walkers simply waited whenever a flight was due.",
+  "bullets": [
+    {
+      "opening": "Building the runway",
+      "linkId": null,
+      "text": "The airfield was enlarged during the Second World War, and the runway was pushed out into the bay on reclaimed land, built up partly with rock dug from tunnels inside the Rock. It runs almost the full width of the isthmus."
+    },
+    {
+      "opening": "Crossing Winston Churchill Avenue",
+      "linkId": null,
+      "text": "When a plane approached, lights flashed and barriers came down on each side of the runway, like a level crossing. After the aircraft landed or left, the barriers rose and cars, buses and cyclists rolled across the tarmac."
+    },
+    {
+      "opening": "The tunnel under the runway",
+      "linkId": null,
+      "text": "In 2023 a road tunnel opened beneath the eastern end of the runway, finally taking vehicles off the crossing. People on foot and on bikes still cross the tarmac between flights."
+    }
+  ],
+  "tags": [
+    "airports",
+    "roads",
+    "design",
+    "borders"
+  ],
+  "related": [
+    "barra-beach-airport",
+    "llivia",
+    "baarle",
+    "busingen",
+    "whittier-alaska"
+  ]
+}

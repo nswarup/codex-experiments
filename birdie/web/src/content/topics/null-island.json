@@ -1,0 +1,44 @@
+{
+  "id": "null-island",
+  "title": "Null Island",
+  "category": "Travel",
+  "hook": "The busiest spot on many digital maps is empty ocean with one weather buoy.",
+  "peek": "Where the equator meets the prime meridian, at zero latitude and zero longitude, there is nothing but deep water off West Africa. Yet countless map apps place photos, shops and runners there, because a missing location often defaults to zero.",
+  "lede": "The point at 0 degrees north and 0 degrees east lies in the Gulf of Guinea, hundreds of kilometres south of Ghana. There is no land, just open sea about 5,000 metres deep and a single moored weather buoy. Mapmakers have nicknamed it Null Island, because so much faulty location data ends up there.",
+  "bullets": [
+    {
+      "opening": "Default zero coordinates",
+      "linkId": null,
+      "text": "When software cannot find a real location, it often records the coordinates as 0, 0 instead of leaving them blank. Each of those errors puts a point in the same patch of sea, so it fills up with addresses, photos and tracks that belong elsewhere."
+    },
+    {
+      "opening": "The weather buoy called Soul",
+      "linkId": null,
+      "text": "The only real thing at the spot is buoy Station 13010, nicknamed Soul. It belongs to an array of ocean buoys that measure wind, air and sea temperature across the tropical Atlantic."
+    },
+    {
+      "opening": "Natural Earth's imaginary island",
+      "linkId": null,
+      "text": "In 2011 the free mapping dataset Natural Earth added a tiny one-metre-square island at 0, 0 so that stray points would have somewhere to land. Fans have since given it a flag and a mock history."
+    },
+    {
+      "opening": "Null Island as a test",
+      "linkId": null,
+      "text": "Cartographers use it as a quick check. If a cluster of points appears off West Africa, something has gone wrong with the data, and the fix usually lies in whichever records are missing coordinates."
+    }
+  ],
+  "tags": [
+    "maps",
+    "data",
+    "oceans",
+    "in-jokes"
+  ],
+  "related": [
+    "agloe-new-york",
+    "point-nemo",
+    "mountains-of-kong",
+    "bielefeld-conspiracy",
+    "waldseemuller-map",
+    "bir-tawil"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "westward-ho",
+  "title": "Westward Ho!",
+  "category": "Travel",
+  "hook": "A seaside town in Devon was built to cash in on a bestselling novel.",
+  "peek": "Most towns are named long after they grow. This one in north Devon was built and named on purpose after a hit book, and it is the only place in Britain whose official name ends in an exclamation mark.",
+  "lede": "In 1855 Charles Kingsley published Westward Ho, his adventure novel set in and around the Devon port of Bideford. It sold so well that readers came to see the coast it described. A few years later, developers seized the moment and started building a brand-new resort nearby, giving it the novel's name, punctuation and all.",
+  "bullets": [
+    {
+      "opening": "Charles Kingsley's 1855 novel",
+      "linkId": null,
+      "text": "The book follows a young Elizabethan seaman from Bideford who sails to the Americas. Its title came from an old cry used by Thames boatmen looking for passengers heading west, which had also titled a 1604 comedy."
+    },
+    {
+      "opening": "Building the resort",
+      "linkId": null,
+      "text": "In the 1860s a company formed to build hotels and villas on the empty coast north of Bideford. The town grew around a large new hotel, and it is said Kingsley himself was not keen on the scheme."
+    },
+    {
+      "opening": "The town's exclamation mark",
+      "linkId": null,
+      "text": "The mark is part of the official name, which makes it unique in Britain. Signs, maps and the post all carry it, and it has made the town a favourite of quiz writers."
+    },
+    {
+      "opening": "Kipling's school by the sea",
+      "linkId": null,
+      "text": "In the 1870s a school for the sons of military officers opened in the young resort. Rudyard Kipling was a pupil there and later turned his schooldays into the stories of Stalky and Co."
+    }
+  ],
+  "tags": [
+    "names",
+    "books",
+    "seaside",
+    "punctuation"
+  ],
+  "related": [
+    "llanfairpwll",
+    "interrobang",
+    "stilton-village",
+    "treasure-island-map",
+    "agloe-new-york"
+  ]
+}

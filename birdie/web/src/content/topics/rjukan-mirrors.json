@@ -1,0 +1,38 @@
+{
+  "id": "rjukan-mirrors",
+  "title": "Rjukan's sun mirrors",
+  "category": "Travel",
+  "hook": "A Norwegian town with no winter sun put mirrors on a mountain to borrow some.",
+  "peek": "Rjukan, in southern Norway, sits so deep in its valley that the sun does not reach the town for about half the year. Since 2013, three computer-steered mirrors high on the mountainside have beamed a patch of sunlight into its square.",
+  "lede": "Rjukan lies at the bottom of a narrow valley in Telemark, with steep mountains to the south. From autumn to spring the low sun never clears them, so for roughly six months the town gets no direct sunlight. In 2013, after a century of talk, it installed giant mirrors on the slope above to bounce sunshine down into the market square.",
+  "bullets": [
+    {
+      "opening": "Sam Eyde's century-old idea",
+      "linkId": null,
+      "text": "The industrialist Sam Eyde, who built Rjukan's hydropower and fertiliser works, suggested sun mirrors around 1913. The technology was not up to it, so in 1928 his company built a cable car instead to carry workers up to the sunshine."
+    },
+    {
+      "opening": "How the solar mirrors work",
+      "linkId": null,
+      "text": "Three mirrors stand about 450 metres above the town. A computer turns them to follow the sun across the sky, keeping a bright oval of light, about 600 square metres, on the square below."
+    },
+    {
+      "opening": "Martin Andersen's revival",
+      "linkId": null,
+      "text": "The modern project was pushed by local artist Martin Andersen, who found Eyde's old proposal and campaigned for years. When the mirrors were switched on in October 2013, people gathered in the square in sunglasses to stand in the light."
+    }
+  ],
+  "tags": [
+    "light",
+    "inventions",
+    "villages",
+    "weather"
+  ],
+  "related": [
+    "whittier-alaska",
+    "melanopsin",
+    "coober-pedy",
+    "arctic-tern",
+    "hubble-mirror-flaw"
+  ]
+}

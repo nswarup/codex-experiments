@@ -4188,5 +4188,65 @@
   "id": "nutmeg-manhattan",
   "title": "The nutmeg island traded for Manhattan",
   "category": "Food"
+ },
+ {
+  "id": "setenil-de-las-bodegas",
+  "title": "Setenil de las Bodegas",
+  "category": "Travel"
+ },
+ {
+  "id": "longyearbyen-cats",
+  "title": "Longyearbyen, where cats are banned",
+  "category": "Travel"
+ },
+ {
+  "id": "monowi-nebraska",
+  "title": "Monowi, the town of one",
+  "category": "Travel"
+ },
+ {
+  "id": "sealand",
+  "title": "The Principality of Sealand",
+  "category": "Travel"
+ },
+ {
+  "id": "llanfairpwll",
+  "title": "The 58-letter village name",
+  "category": "Travel"
+ },
+ {
+  "id": "westward-ho",
+  "title": "Westward Ho!",
+  "category": "Travel"
+ },
+ {
+  "id": "null-island",
+  "title": "Null Island",
+  "category": "Travel"
+ },
+ {
+  "id": "four-corners-monument",
+  "title": "The Four Corners Monument",
+  "category": "Travel"
+ },
+ {
+  "id": "rjukan-mirrors",
+  "title": "Rjukan's sun mirrors",
+  "category": "Travel"
+ },
+ {
+  "id": "neft-dashlari",
+  "title": "Neft Daşları, the city on stilts",
+  "category": "Travel"
+ },
+ {
+  "id": "gibraltar-runway",
+  "title": "Gibraltar's road across the runway",
+  "category": "Travel"
+ },
+ {
+  "id": "barra-beach-airport",
+  "title": "Barra's beach airport",
+  "category": "Travel"
  }
 ]

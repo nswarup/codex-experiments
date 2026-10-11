@@ -1,0 +1,43 @@
+{
+  "id": "sealand",
+  "title": "The Principality of Sealand",
+  "category": "Travel",
+  "hook": "A wartime sea fort off England has called itself a country since 1967.",
+  "peek": "About 12 kilometres off the Suffolk coast stands an old anti-aircraft platform on two concrete legs. Since 1967 a family has run it as the Principality of Sealand, with its own flag, stamps, coins and titles, though no country recognises it.",
+  "lede": "During the Second World War, Britain built a sea fort called Roughs Tower in the North Sea, then left it empty. In 1967 Paddy Roy Bates, a former army major who ran a pirate radio station, took it over and declared it an independent principality. He styled himself Prince Roy, his wife became Princess Joan, and Sealand was born.",
+  "bullets": [
+    {
+      "opening": "The fort called Roughs Tower",
+      "linkId": null,
+      "text": "The platform is a deck on top of two hollow concrete towers, standing in the sea off Felixstowe. It once housed well over a hundred servicemen. Today Sealand's entire territory is about the size of two tennis courts."
+    },
+    {
+      "opening": "The 1968 court case",
+      "linkId": null,
+      "text": "When a dispute reached an English court in 1968, the judge ruled that the fort lay outside British territorial waters, then only three miles wide, so the court had no power there. Sealand's fans still point to that ruling."
+    },
+    {
+      "opening": "Flags, stamps and passports",
+      "linkId": null,
+      "text": "Sealand has a red, white and black flag, a motto, stamps and coins. It issued passports too, but cancelled them all in 1997 after forged ones began circulating around Europe."
+    },
+    {
+      "opening": "Buying a Sealand title",
+      "linkId": null,
+      "text": "Today the family funds the fort partly by selling titles online. For a modest fee anyone can become a lord, lady or baron of Sealand, complete with a certificate, though the rank means nothing outside the fort."
+    }
+  ],
+  "tags": [
+    "micronations",
+    "borders",
+    "islands",
+    "flags"
+  ],
+  "related": [
+    "emperor-norton",
+    "bir-tawil",
+    "hans-island",
+    "pheasant-island",
+    "point-nemo"
+  ]
+}

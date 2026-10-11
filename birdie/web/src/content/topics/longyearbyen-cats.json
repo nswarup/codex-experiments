@@ -1,0 +1,39 @@
+{
+  "id": "longyearbyen-cats",
+  "title": "Longyearbyen, where cats are banned",
+  "category": "Travel",
+  "hook": "In one Arctic town you can keep a sled dog, but you cannot keep a cat.",
+  "peek": "Longyearbyen, on the Norwegian islands of Svalbard, is one of the most northerly towns on Earth. It is full of dogs, but pet cats are not allowed at all, because Svalbard's rules protect the huge colonies of birds that nest there each summer.",
+  "lede": "Longyearbyen is the main town of Svalbard, a group of Norwegian islands far north of the mainland, with a population of about 2,500. Svalbard's environmental rules forbid bringing cats to the islands. A cat that slipped outdoors would find thousands of nesting birds with no defence against it, so the islands simply do without them.",
+  "bullets": [
+    {
+      "opening": "Svalbard's nesting seabirds",
+      "linkId": null,
+      "text": "Every summer millions of seabirds arrive to breed on Svalbard's cliffs and shores, among them little auks, guillemots and Arctic terns. Many nest on the ground or in rock crevices, which would make them easy targets for a hunting cat."
+    },
+    {
+      "opening": "Keeping new animals out",
+      "linkId": null,
+      "text": "Svalbard has very few land mammals of its own, and its rules aim to stop new ones arriving. The cat ban is part of that wider effort to keep the islands' wildlife as it is."
+    },
+    {
+      "opening": "Longyearbyen's sled dogs",
+      "linkId": null,
+      "text": "Dogs are a different matter. Longyearbyen has many working sled dogs, kept in kennel yards on the edge of town, and dog sledding is one of the most popular ways for visitors to see the Arctic landscape."
+    }
+  ],
+  "tags": [
+    "cats",
+    "rules",
+    "arctic",
+    "birds"
+  ],
+  "related": [
+    "larry-the-cat",
+    "tama-station-master",
+    "arctic-tern",
+    "whittier-alaska",
+    "arctic-code-vault",
+    "tristan-da-cunha"
+  ]
+}

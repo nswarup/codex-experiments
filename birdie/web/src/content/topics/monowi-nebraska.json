@@ -1,0 +1,38 @@
+{
+  "id": "monowi-nebraska",
+  "title": "Monowi, the town of one",
+  "category": "Travel",
+  "hook": "One woman was the whole population, the mayor and the librarian of her town.",
+  "peek": "Monowi, Nebraska, became famous as a town of exactly one person. Elsie Eiler ran its tavern, looked after its little library, and as the only resident also served as its mayor, clerk and treasurer.",
+  "lede": "Monowi is a tiny village in northern Nebraska. In the 1930s it had about 150 residents, but as farming changed people slowly moved away. By 2004 only Elsie Eiler remained, and the 2010 census recorded a population of one. She kept the village legally alive, running it, serving it and paying its taxes, all by herself.",
+  "bullets": [
+    {
+      "opening": "The Monowi Tavern",
+      "linkId": null,
+      "text": "Eiler ran the village bar and grill, where farmers, truckers and curious travellers stopped in. Having a population of one did not mean having no customers: visitors came from far away just to sign her guest books."
+    },
+    {
+      "opening": "Mayor, clerk and treasurer",
+      "linkId": null,
+      "text": "Because she was the only resident, Eiler held every office. She granted herself the liquor licence the tavern needed, collected the small village tax and filed the yearly road plan required to keep state money for the streets."
+    },
+    {
+      "opening": "Rudy's Library",
+      "linkId": null,
+      "text": "Her husband Rudy was a keen reader, and after he was gone she opened a small library in his name in a shed near the tavern. It holds thousands of books, and visitors can borrow them on trust."
+    }
+  ],
+  "tags": [
+    "villages",
+    "small-places",
+    "libraries",
+    "records"
+  ],
+  "related": [
+    "whittier-alaska",
+    "agloe-new-york",
+    "mill-ends-park",
+    "emperor-norton",
+    "haskell-free-library"
+  ]
+}

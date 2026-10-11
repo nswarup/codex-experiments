@@ -1,0 +1,44 @@
+{
+  "id": "four-corners-monument",
+  "title": "The Four Corners Monument",
+  "category": "Travel",
+  "hook": "The marker where four US states meet is the corner, even if surveyors erred.",
+  "peek": "At the Four Corners Monument you can put a hand or foot in Arizona, Colorado, New Mexico and Utah at once. Stories say it is in the wrong place. Surveyors reply that, by law, the marker is exactly where the corner is.",
+  "lede": "The Four Corners Monument marks the only point in the United States where four states touch. Visitors queue to stand on its bronze disc with a limb in each. In 2009 news stories claimed the marker was miles from the true corner. That missed the point: once a boundary marker is surveyed and accepted, the marker defines the border.",
+  "bullets": [
+    {
+      "opening": "The 1875 survey",
+      "linkId": null,
+      "text": "The corner was first set in the 1870s by government surveyors working across rough desert with chains and telescopes. Their markers became the official boundaries, and later monuments replaced the old stone on the same spot."
+    },
+    {
+      "opening": "The National Geodetic Survey's answer",
+      "linkId": null,
+      "text": "After the 2009 stories, the National Geodetic Survey explained that the marker is only about 1,800 feet from where the original survey intended. And intention does not matter: the courts have long held that the accepted survey marks are the legal line."
+    },
+    {
+      "opening": "Boundaries set by markers",
+      "linkId": null,
+      "text": "Old border surveys are full of small errors, and states accept them because moving lines would unsettle land titles and taxes. The US Supreme Court confirmed this approach in a 1925 boundary case involving Colorado and New Mexico."
+    },
+    {
+      "opening": "Navajo Nation's monument park",
+      "linkId": null,
+      "text": "The monument stands on tribal land and is run as a park by the Navajo Nation, with the Ute Mountain Ute lands beside it. Navajo artisans sell jewellery and food from stalls around the plaza."
+    }
+  ],
+  "tags": [
+    "borders",
+    "maps",
+    "myths-busted",
+    "surveying"
+  ],
+  "related": [
+    "baarle",
+    "point-roberts",
+    "haskell-free-library",
+    "marked-island",
+    "busingen",
+    "null-island"
+  ]
+}
