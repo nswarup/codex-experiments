@@ -1,0 +1,44 @@
+{
+  "id": "atacama-flowering-desert",
+  "title": "The flowering Atacama",
+  "category": "Nature",
+  "hook": "In rare wet years, the driest desert outside the poles turns pink with flowers.",
+  "peek": "The Atacama in northern Chile is the driest non-polar desert on Earth. Every few years, after unusual rain, its southern edge bursts into carpets of pink, purple and yellow flowers grown from seeds that waited in the sand.",
+  "lede": "The Atacama Desert in northern Chile is the driest place on Earth outside the poles, and some of its weather stations have gone years without recording rain. Yet every few years, after an unusually wet winter, the southern part of the desert turns into a garden. Chileans call it the desierto florido, the flowering desert.",
+  "bullets": [
+    {
+      "opening": "Seeds waiting in sand",
+      "linkId": null,
+      "text": "The flowers come from seeds, bulbs and roots that lie dormant in the soil, sometimes for years. Enough rain wakes them all at once, and more than 200 kinds of plant can bloom in a good season."
+    },
+    {
+      "opening": "The pata de guanaco",
+      "linkId": null,
+      "text": "The star of the show is a low plant with bright magenta flowers called pata de guanaco, or guanaco's foot. In a strong year it covers whole hillsides in pink."
+    },
+    {
+      "opening": "El Niño rains",
+      "linkId": null,
+      "text": "The big blooms are often linked to El Niño years, when warmer Pacific waters bring rare rain to the coast. Flowering usually peaks in the southern spring, around September and October."
+    },
+    {
+      "opening": "Where the desert blooms",
+      "linkId": null,
+      "text": "The display is centred on the southern Atacama around Copiapó and Vallenar, where coastal hills catch a little more moisture than the bone-dry interior. Visitors come from all over Chile to see it."
+    }
+  ],
+  "tags": [
+    "deserts",
+    "plants",
+    "weather",
+    "color"
+  ],
+  "related": [
+    "welwitschia",
+    "bamboo-mass-flowering",
+    "petrichor",
+    "salar-de-uyuni",
+    "rainbow-eucalyptus",
+    "saffron-crocus"
+  ]
+}

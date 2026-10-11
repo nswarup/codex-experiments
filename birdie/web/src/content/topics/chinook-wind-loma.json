@@ -1,0 +1,43 @@
+{
+  "id": "chinook-wind-loma",
+  "title": "The Chinook wind",
+  "category": "Nature",
+  "hook": "A warm wind once lifted a Montana town's temperature by 57 °C in a single day.",
+  "peek": "On 15 January 1972 a Chinook wind swept into Loma, Montana, and the temperature rose from about minus 48 °F to 49 °F in 24 hours. That jump of about 57 °C is still the US record for one day.",
+  "lede": "On 15 January 1972 the small town of Loma, Montana, woke up at about minus 48 °F, or minus 44 °C. Within 24 hours the thermometer read 49 °F, about 9 °C. The cause was a Chinook, a warm, dry wind that pours down the eastern side of the Rocky Mountains. The rise of about 57 °C is still the largest one-day temperature change recorded in the United States.",
+  "bullets": [
+    {
+      "opening": "Warmed by falling",
+      "linkId": null,
+      "text": "A Chinook starts as moist Pacific air that rises over the Rockies and drops its water as rain and snow. Coming down the far side, the dry air is squeezed by rising pressure and heats up quickly, arriving far warmer than it left."
+    },
+    {
+      "opening": "The snow eater",
+      "linkId": null,
+      "text": "Chinooks can make snow vanish in hours, partly melting it and partly turning it straight into vapour in the dry air. That is where the nickname snow eater comes from."
+    },
+    {
+      "opening": "The Spearfish record",
+      "linkId": null,
+      "text": "On 22 January 1943 a Chinook reached Spearfish, South Dakota, and the temperature climbed from minus 4 °F to 45 °F in about two minutes. It is often cited as the fastest temperature rise ever recorded."
+    },
+    {
+      "opening": "The Chinook arch",
+      "linkId": null,
+      "text": "A Chinook is often announced by a band of clear blue sky beneath a long wall of cloud over the mountains. People in Calgary and across the plains watch for this arch as a sign of warmer days."
+    }
+  ],
+  "tags": [
+    "weather",
+    "records",
+    "mountains",
+    "time"
+  ],
+  "related": [
+    "year-without-summer",
+    "morning-glory-clouds",
+    "catatumbo-lightning",
+    "fata-morgana",
+    "water-densest-at-4c"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "rainbow-eucalyptus",
+  "title": "The rainbow eucalyptus",
+  "category": "Nature",
+  "hook": "A tree whose trunk is striped green, blue, purple and orange at the same time.",
+  "peek": "The rainbow eucalyptus sheds its bark in strips at different times. Each fresh patch starts bright green and slowly darkens through blue, purple, orange and maroon, so one trunk carries every stage at once.",
+  "lede": "Most eucalypts are Australian, but Eucalyptus deglupta grows wild in the tropical forests of the Philippines, Indonesia and New Guinea. Its smooth trunk looks hand-painted. Thin strips of outer bark peel away at different times, and the fresh bark underneath changes colour as it ages. Because every patch is at a different stage, a single trunk shows a whole spectrum at once.",
+  "bullets": [
+    {
+      "opening": "Bark that changes colour",
+      "linkId": null,
+      "text": "Newly exposed bark is a vivid lime green. Over the following weeks and months it darkens to blue, then purple, orange and finally a reddish brown, before that layer peels off in turn and the cycle starts again."
+    },
+    {
+      "opening": "No paint involved",
+      "linkId": null,
+      "text": "The colours come from the tree itself, as the young inner bark matures and dries out in the air. Nobody adds anything, and the pattern is never the same twice because shedding happens in irregular patches."
+    },
+    {
+      "opening": "Brightest in the tropics",
+      "linkId": null,
+      "text": "The tree is now planted in Hawaii, Florida and other warm places for its looks. Visitors often find the trunks less vivid outside the tropics, where cooler, drier weather seems to mute the display."
+    },
+    {
+      "opening": "Fast growing timber tree",
+      "linkId": null,
+      "text": "Away from the gardens, it is a working tree. It grows quickly and tall, and plantations are grown mainly for pulp used to make paper, the plain white kind with no hint of the rainbow."
+    }
+  ],
+  "tags": [
+    "color",
+    "trees",
+    "plants",
+    "patterns"
+  ],
+  "related": [
+    "welwitschia",
+    "hyperion-redwood",
+    "bamboo-mass-flowering",
+    "pando",
+    "wollemi-pine",
+    "bismuth-crystals"
+  ]
+}

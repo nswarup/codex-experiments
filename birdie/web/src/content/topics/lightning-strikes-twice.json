@@ -1,0 +1,43 @@
+{
+  "id": "lightning-strikes-twice",
+  "title": "Lightning does strike twice",
+  "category": "Nature",
+  "hook": "The Empire State Building is hit by lightning about 20 to 25 times a year.",
+  "peek": "The saying is wrong. Lightning strikes the same place again and again if that place is tall and pointed. The Empire State Building in New York is hit about 20 to 25 times in a typical year.",
+  "lede": "The old saying holds that lightning never strikes the same place twice. In fact tall, pointed structures get hit over and over. The Empire State Building in New York takes roughly 20 to 25 strikes in an average year, and it was designed to handle them. Its steel frame and lightning rod carry the current safely into the ground.",
+  "bullets": [
+    {
+      "opening": "Empire State lightning research",
+      "linkId": null,
+      "text": "In the 1930s and 1940s, General Electric engineers used the building as an outdoor laboratory. Their instruments showed that many strikes there begin at the top of the tower and travel upward into the cloud."
+    },
+    {
+      "opening": "Several strokes per flash",
+      "linkId": null,
+      "text": "A single lightning flash is usually made of several strokes that follow the same channel within a fraction of a second. That is why lightning seems to flicker, and why one flash can hit one spot more than once."
+    },
+    {
+      "opening": "Why tall things get hit",
+      "linkId": null,
+      "text": "A tall, pointed object strengthens the electric field around its tip and offers the lightning a shorter path. In a storm, the top of a tower or a lone tree on a hill is the likeliest target."
+    },
+    {
+      "opening": "Lightning rods work",
+      "linkId": null,
+      "text": "Benjamin Franklin's lightning rod, invented in the 1750s, relies on this. It does not stop strikes; it invites them to the same spot again and again and gives the current an easy route to the ground."
+    }
+  ],
+  "tags": [
+    "weather",
+    "myths-busted",
+    "electricity",
+    "records"
+  ],
+  "related": [
+    "catatumbo-lightning",
+    "red-sprites",
+    "apollo-12-lightning",
+    "faraday-cage",
+    "eiffel-tower-antenna"
+  ]
+}

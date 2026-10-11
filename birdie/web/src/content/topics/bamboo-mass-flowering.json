@@ -1,0 +1,44 @@
+{
+  "id": "bamboo-mass-flowering",
+  "title": "Bamboo that flowers once a century",
+  "category": "Nature",
+  "hook": "A bamboo that blooms about every 120 years, everywhere in the world at once.",
+  "peek": "Japanese timber bamboo flowers roughly once every 120 years. When it does, plants grown from the same stock flower together, even when they live on different continents, as if they all carried the same alarm clock.",
+  "lede": "Phyllostachys bambusoides, the Japanese timber bamboo called madake, spends most of its life spreading by underground stems and making no flowers at all. Old records from Japan and China suggest it blooms at intervals of roughly 120 years. When the time comes, plants descended from the same stock flower together, wherever they happen to be growing.",
+  "bullets": [
+    {
+      "opening": "The 1960s worldwide flowering",
+      "linkId": null,
+      "text": "When madake last flowered on a large scale, from the 1960s, plants in Japan bloomed together with ones grown from Japanese stock in places as far away as England, Alabama and Russia. Distance and climate made little difference."
+    },
+    {
+      "opening": "An internal bamboo clock",
+      "linkId": null,
+      "text": "Because plants in very different weather flowered together, botanists think the timing is set inside the plant rather than by a cue from the season. Exactly how a bamboo counts the decades is still not understood."
+    },
+    {
+      "opening": "Flooding the seed eaters",
+      "linkId": null,
+      "text": "The ecologist Daniel Janzen argued in 1976 that the long wait pays off. If every plant seeds in the same year, animals cannot possibly eat all the seed, so enough survives to grow."
+    },
+    {
+      "opening": "A costly bloom",
+      "linkId": null,
+      "text": "Flowering takes so much energy that the old stands usually die back afterwards, and gardeners and bamboo craftsmen can lose their whole supply at once. Fresh seedlings then take years to rebuild a grove."
+    }
+  ],
+  "tags": [
+    "plants",
+    "time",
+    "patterns",
+    "records"
+  ],
+  "related": [
+    "welwitschia",
+    "pando",
+    "atacama-flowering-desert",
+    "rainbow-eucalyptus",
+    "fibonacci-sunflowers",
+    "methuselah-date-palm"
+  ]
+}

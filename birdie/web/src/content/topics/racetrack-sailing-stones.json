@@ -1,0 +1,43 @@
+{
+  "id": "racetrack-sailing-stones",
+  "title": "The sailing stones of Racetrack Playa",
+  "category": "Nature",
+  "hook": "Rocks that crawl across a dry lakebed, finally caught moving on camera in 2014.",
+  "peek": "On a flat dry lakebed in eastern California, heavy rocks leave long trails behind them. For decades nobody saw one move. In 2014 a team with cameras and GPS finally showed how: thin ice and a gentle breeze.",
+  "lede": "Racetrack Playa is a dry lakebed in Death Valley National Park, flat and cracked like an old plate. Scattered across it are rocks, some the size of a microwave, each at the end of a long groove it carved itself. For most of the twentieth century people argued about how they moved, because no one had ever watched it happen.",
+  "bullets": [
+    {
+      "opening": "The 2014 time-lapse",
+      "linkId": null,
+      "text": "Researchers led by the cousins Richard and James Norris placed GPS-tagged rocks of their own on the playa and set up cameras. In the winter of 2013 to 2014 they caught dozens of stones on the move, and published the results in 2014."
+    },
+    {
+      "opening": "Thin ice and light wind",
+      "linkId": null,
+      "text": "After rain, a shallow pond covers the playa and freezes into ice only millimetres thick. On sunny days the ice breaks into large panes, and a light breeze pushes them against the rocks, shoving them along the soft mud."
+    },
+    {
+      "opening": "Slow and rarely seen",
+      "linkId": null,
+      "text": "The stones moved only a few metres a minute and could travel for minutes at a time. Because it needs a pond, a freeze and the right breeze together, it happens in few winters, which is why it went unseen so long."
+    },
+    {
+      "opening": "Earlier sailing stone theories",
+      "linkId": null,
+      "text": "Before the footage, explanations ranged from hurricane-strength winds to thick sheets of ice to wilder ideas such as magnetism. Ice had been suspected for years, but the surprise was how thin and how gentle it was."
+    }
+  ],
+  "tags": [
+    "deserts",
+    "mysteries",
+    "myths-busted",
+    "weather"
+  ],
+  "related": [
+    "singing-dunes",
+    "salar-de-uyuni",
+    "richat-structure",
+    "penitentes",
+    "giants-causeway"
+  ]
+}

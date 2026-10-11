@@ -1,0 +1,45 @@
+{
+  "id": "fata-morgana",
+  "title": "Fata Morgana",
+  "category": "Nature",
+  "hook": "A mirage that lifts ships and coastlines into the sky and stacks them like castles.",
+  "peek": "Fata Morgana is a mirage that can make distant ships look as if they float above the sea, or turn a flat shore into towering cliffs. It is named after Morgan le Fay, the enchantress of Arthurian legend.",
+  "lede": "Most people know the desert mirage, where a road seems to shimmer with water. The Fata Morgana is its stranger cousin. When a layer of warm air sits on top of cold air near the sea, light from distant objects bends on the way to your eye. Ships seem to hover above the horizon, and flat islands turn into stacked towers and walls.",
+  "bullets": [
+    {
+      "opening": "Named for Morgan le Fay",
+      "linkId": null,
+      "text": "Fata Morgana is Italian for Morgan the fairy. The name came from the Strait of Messina, between Sicily and mainland Italy, where the story went that the enchantress conjured castles in the air to lure sailors."
+    },
+    {
+      "opening": "Light bending downward",
+      "linkId": null,
+      "text": "In a temperature inversion, light travels along a curved path that follows the warm layer back down toward the viewer. The eye assumes light travels straight, so it places the object higher than it really is."
+    },
+    {
+      "opening": "Stretched and stacked images",
+      "linkId": null,
+      "text": "A true Fata Morgana is complex. The image is often stretched upward, split into several layers, some upright and some upside down, and it can change shape within seconds as the air shifts."
+    },
+    {
+      "opening": "Seeing past the horizon",
+      "linkId": null,
+      "text": "Because the light curves with the Earth, the mirage can show ships, coastlines or mountains that would normally be hidden below the horizon. It is common over cold seas and polar ice."
+    }
+  ],
+  "tags": [
+    "illusions",
+    "light",
+    "weather",
+    "perception",
+    "myths-busted"
+  ],
+  "related": [
+    "green-flash",
+    "brocken-spectre",
+    "moon-illusion",
+    "rainbow-circles",
+    "noctilucent-clouds",
+    "salar-de-uyuni"
+  ]
+}

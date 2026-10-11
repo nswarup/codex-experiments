@@ -1,0 +1,43 @@
+{
+  "id": "paricutin-volcano",
+  "title": "Parícutin, the cornfield volcano",
+  "category": "Nature",
+  "hook": "In 1943 a farmer in Mexico watched a brand new volcano rise from his cornfield.",
+  "peek": "On 20 February 1943, Dionisio Pulido saw the ground of his Mexican cornfield crack open and begin to smoke. Within a year a volcano stood more than 300 metres tall where his crops had been.",
+  "lede": "On 20 February 1943, the farmer Dionisio Pulido was preparing his field near the village of Parícutin in Michoacán, Mexico, when a crack opened in the ground and began to hiss and smoke. By the next day a small cone had formed. Within a year it was more than 300 metres tall, and scientists had their first chance to watch a volcano grow from birth.",
+  "bullets": [
+    {
+      "opening": "From field to mountain",
+      "linkId": null,
+      "text": "The cone grew astonishingly fast, reaching around 50 metres in its first day. It kept erupting for nine years, until 1952, and finished about 424 metres above the field where it began."
+    },
+    {
+      "opening": "A volcano studied from birth",
+      "linkId": null,
+      "text": "Geologists rushed to the site and recorded the eruption in detail from start to finish. It became one of the best studied young volcanoes in the world, and their records are still a textbook example of how a cinder cone grows."
+    },
+    {
+      "opening": "The buried church tower",
+      "linkId": null,
+      "text": "Slow lava flows covered the villages of Parícutin and San Juan Parangaricutiro, whose people moved to new towns. The stone tower of San Juan's church still stands above the black lava field, and visitors walk out to see it."
+    },
+    {
+      "opening": "Mexico's young volcano",
+      "linkId": null,
+      "text": "Parícutin is now quiet and can be climbed. It is one of hundreds of cones in its volcanic field, but it is the youngest, and the one whose birth was watched most closely."
+    }
+  ],
+  "tags": [
+    "volcanoes",
+    "farming",
+    "records",
+    "geology"
+  ],
+  "related": [
+    "surtsey-island",
+    "olympus-mons",
+    "giants-causeway",
+    "io-volcanoes",
+    "year-without-summer"
+  ]
+}

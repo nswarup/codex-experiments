@@ -1,0 +1,44 @@
+{
+  "id": "salar-de-uyuni",
+  "title": "Salar de Uyuni",
+  "category": "Nature",
+  "hook": "A salt flat so level that satellites use it to check their altitude readings.",
+  "peek": "Bolivia's Salar de Uyuni is the largest salt flat on Earth, over 10,000 square kilometres, and its height varies by about a metre across the whole surface. After rain it becomes a vast mirror of the sky.",
+  "lede": "High on Bolivia's Altiplano, at about 3,650 metres, lies the Salar de Uyuni, the largest salt flat in the world. It covers more than 10,000 square kilometres, yet across that entire area the surface rises and falls by only about a metre. That makes it one of the flattest large places on Earth, flat enough to be useful to satellites.",
+  "bullets": [
+    {
+      "opening": "Calibrating satellites",
+      "linkId": null,
+      "text": "Satellites that measure the height of ice and land with lasers or radar need a known, level target to check their readings. The salar's huge, flat, bright surface and clear skies make it a natural test site."
+    },
+    {
+      "opening": "The world's largest mirror",
+      "linkId": null,
+      "text": "In the rainy season a thin layer of water can cover the salt. On a still day it reflects the sky so perfectly that the horizon disappears and people seem to walk on clouds."
+    },
+    {
+      "opening": "A dried-up ancient lake",
+      "linkId": null,
+      "text": "The salt is what remains of large prehistoric lakes that covered the region and slowly evaporated. Under the crust lies brine rich in lithium, one of the largest such deposits known."
+    },
+    {
+      "opening": "Hotels built of salt",
+      "linkId": null,
+      "text": "Near the edge of the flat, some hotels are built from blocks of salt, with salt furniture inside. Visitors also use the featureless white to stage forced-perspective photos with tiny people and giant objects."
+    }
+  ],
+  "tags": [
+    "deserts",
+    "scale",
+    "light",
+    "records"
+  ],
+  "related": [
+    "fata-morgana",
+    "atacama-flowering-desert",
+    "racetrack-sailing-stones",
+    "richat-structure",
+    "geoid",
+    "flamingo-pink"
+  ]
+}

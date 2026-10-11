@@ -1,0 +1,44 @@
+{
+  "id": "penitentes",
+  "title": "Penitentes, the snow blades",
+  "category": "Nature",
+  "hook": "Fields of ice blades taller than a person, carved by sunlight high in the Andes.",
+  "peek": "High in the dry Andes, snowfields can turn into forests of tall, thin ice spikes called penitentes. Charles Darwin walked among them in 1835. Sunlight, not wind, does the carving.",
+  "lede": "Above about 4,000 metres in the dry Andes, snowfields sometimes grow into crowds of narrow, pointed blades, often taller than a person and packed close together. They are called penitentes, because rows of them look like hooded figures in a procession. Charles Darwin met them in 1835 while crossing the mountains between Chile and Argentina.",
+  "bullets": [
+    {
+      "opening": "Darwin's 1835 crossing",
+      "linkId": null,
+      "text": "In The Voyage of the Beagle, Darwin described the fields of snow pinnacles he crossed on a high pass in March 1835. It was one of the first accounts of them written for European readers."
+    },
+    {
+      "opening": "Carved by sunlight",
+      "linkId": null,
+      "text": "In very dry air, strong sunshine turns snow straight into vapour. Small dips focus more light and deepen, while the ridges between them stay cool, so the snow sharpens into blades over weeks."
+    },
+    {
+      "opening": "Blades that face the Sun",
+      "linkId": null,
+      "text": "Penitentes line up along the Sun's daily path across the sky and often lean toward the midday Sun. A field of them is in effect a giant sundial written in ice."
+    },
+    {
+      "opening": "Penitentes on Pluto",
+      "linkId": null,
+      "text": "Images from NASA's New Horizons probe showed huge ridges of ice on Pluto. In 2017 scientists suggested they may be giant penitentes, hundreds of metres tall, made of methane ice."
+    }
+  ],
+  "tags": [
+    "mountains",
+    "light",
+    "ice",
+    "patterns"
+  ],
+  "related": [
+    "pluto-heart",
+    "chimborazo-summit",
+    "snowflake-bentley",
+    "why-ice-is-slippery",
+    "racetrack-sailing-stones",
+    "atacama-flowering-desert"
+  ]
+}

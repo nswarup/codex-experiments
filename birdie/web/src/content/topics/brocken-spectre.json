@@ -1,0 +1,45 @@
+{
+  "id": "brocken-spectre",
+  "title": "The Brocken spectre",
+  "category": "Nature",
+  "hook": "Your shadow cast huge on the fog below, ringed by a small rainbow halo.",
+  "peek": "Stand on a ridge with the Sun low behind you and mist below, and your shadow can appear enormous on the fog, circled by coloured rings called a glory. Each person sees the halo only around their own head.",
+  "lede": "With the Sun low behind you and a bank of mist below, your shadow can be thrown onto the fog. It looks gigantic and strangely far away, and it often wears a ring of rainbow colours around its head. This is the Brocken spectre, named after the Brocken, the highest peak of Germany's Harz mountains, where fog is common and climbers saw it often.",
+  "bullets": [
+    {
+      "opening": "Why the shadow looks giant",
+      "linkId": null,
+      "text": "The shadow is cast on fog at many depths, and with no clear edge or landmark the brain cannot judge its distance. It assumes the figure is far away, so it reads it as enormous."
+    },
+    {
+      "opening": "The glory around your head",
+      "linkId": null,
+      "text": "The coloured rings are called a glory. They form when sunlight is scattered back toward its source by tiny water droplets of similar size, and they always centre on the point directly opposite the Sun."
+    },
+    {
+      "opening": "A halo for one",
+      "linkId": null,
+      "text": "Because the glory centres on each viewer's own line of sight, people standing side by side each see a halo around their own shadow only. Everyone else's shadow looks plain."
+    },
+    {
+      "opening": "Glories seen from planes",
+      "linkId": null,
+      "text": "Air passengers can see the same effect: the plane's shadow on the clouds below, ringed by a glory. The full physics of glories is surprisingly subtle and took until the twentieth century to explain."
+    }
+  ],
+  "tags": [
+    "light",
+    "illusions",
+    "perception",
+    "mountains",
+    "weather"
+  ],
+  "related": [
+    "fata-morgana",
+    "rainbow-circles",
+    "green-flash",
+    "moon-illusion",
+    "tyndall-blue-sky",
+    "penitentes"
+  ]
+}
