@@ -1,0 +1,43 @@
+{
+  "id": "snow-crash-metaverse",
+  "title": "Snow Crash and the Metaverse",
+  "category": "Books",
+  "hook": "The Metaverse was named in a 1992 novel about a pizza-delivering hacker.",
+  "peek": "Neal Stephenson coined the word Metaverse for a shared virtual world in his 1992 novel Snow Crash. Nearly thirty years later, Facebook renamed itself Meta, borrowing an idea from a satire that was not exactly cheerful about it.",
+  "lede": "In his 1992 novel Snow Crash, Neal Stephenson imagined a shared virtual world that people enter through goggles and move through as digital bodies. He called it the Metaverse. Almost thirty years later, in 2021, Facebook renamed its parent company Meta. Stephenson had no part in the decision.",
+  "bullets": [
+    {
+      "opening": "Hiro Protagonist",
+      "linkId": null,
+      "text": "The hero has a deliberately silly name. In the real world he delivers pizza for a franchise run by the Mafia; in the Metaverse he is a skilled hacker and sword fighter. The book is a satire as much as a thriller."
+    },
+    {
+      "opening": "The Street",
+      "linkId": null,
+      "text": "The Metaverse in the novel is built along a single glowing boulevard called the Street, which runs around a black planet. Users buy plots beside it and build whatever they like."
+    },
+    {
+      "opening": "Avatars in Snow Crash",
+      "linkId": null,
+      "text": "The book also helped popularise avatar for a person's on-screen body. Stephenson thought he had coined that use, but later learned the 1980s online game Habitat had used it first."
+    },
+    {
+      "opening": "From Second Life to Meta",
+      "linkId": null,
+      "text": "The novel inspired real projects, including the virtual world Second Life. When Facebook adopted the name, it was borrowing from a book in which the Metaverse sits beside a bleak, corporate world, and Stephenson had no connection to the company."
+    }
+  ],
+  "tags": [
+    "science-fiction",
+    "etymology",
+    "virtual-worlds",
+    "internet"
+  ],
+  "related": [
+    "gibson-cyberspace",
+    "matrix-digital-rain",
+    "robot-word",
+    "the-martian-blog",
+    "dune-chilton"
+  ]
+}

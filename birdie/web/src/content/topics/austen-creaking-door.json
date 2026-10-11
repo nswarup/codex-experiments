@@ -1,0 +1,43 @@
+{
+  "id": "austen-creaking-door",
+  "title": "Jane Austen's creaking door",
+  "category": "Books",
+  "hook": "Jane Austen asked that a creaky door be left unfixed, so she could hide her writing.",
+  "peek": "Jane Austen wrote some of her novels at a tiny table in the family sitting room at Chawton. Her nephew remembered that she would not let a creaking door be fixed, because the noise warned her someone was coming.",
+  "lede": "From 1809 Jane Austen lived at a cottage in the village of Chawton in Hampshire. There she revised Sense and Sensibility and Pride and Prejudice and wrote Mansfield Park, Emma and Persuasion. She had no study. According to her nephew, she worked in the shared sitting room, and relied on a noisy door to keep her secret.",
+  "bullets": [
+    {
+      "opening": "The creaking swing door",
+      "linkId": null,
+      "text": "Her nephew James Edward Austen-Leigh wrote in his 1869 memoir that a swing door between rooms creaked when opened. She objected to having it fixed, he said, because it warned her that someone was coming."
+    },
+    {
+      "opening": "Small sheets of paper",
+      "linkId": null,
+      "text": "The memoir says she wrote on small pieces of paper that could easily be put away or covered with blotting paper. When the door creaked, her work could vanish before a visitor or servant noticed."
+    },
+    {
+      "opening": "The twelve-sided table",
+      "linkId": null,
+      "text": "The little walnut table she is said to have written at is still at Chawton, now Jane Austen's House museum. It is a modest tripod table, nothing like a grand writing desk."
+    },
+    {
+      "opening": "Doubts about the memoir",
+      "linkId": null,
+      "text": "The story comes from family memory, written down more than 50 years after her death. Some scholars think the memoir made Austen seem shyer and more private about her work than she really was."
+    }
+  ],
+  "tags": [
+    "writers",
+    "writing-habits",
+    "houses",
+    "myths-busted"
+  ],
+  "related": [
+    "bronte-little-books",
+    "little-women-reluctant",
+    "thoreau-pencils",
+    "frankenstein-1816",
+    "christmas-carol-self-published"
+  ]
+}

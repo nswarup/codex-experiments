@@ -1,0 +1,48 @@
+{
+  "id": "gibson-cyberspace",
+  "title": "William Gibson's \"cyberspace\"",
+  "category": "Books",
+  "hook": "The author who named cyberspace wrote his novel on a manual typewriter.",
+  "peek": "William Gibson coined the word cyberspace and imagined a world of hackers plugged into a vast data network. He wrote his novel Neuromancer on an old manual typewriter and knew little about how real computers worked.",
+  "lede": "William Gibson's 1984 novel Neuromancer gave the world a vivid picture of cyberspace: a glowing network of data that hackers enter with their minds. It shaped how a generation imagined the internet. Gibson wrote it on an old manual typewriter, and he later said he knew very little about real computers when he did.",
+  "bullets": [
+    {
+      "opening": "\"Burning Chrome\"",
+      "linkId": null,
+      "text": "Gibson first used the word cyberspace in this 1982 short story. He later said he wanted a name that sounded exciting but meant nothing in particular, so he could fill it in as he went."
+    },
+    {
+      "opening": "Kids in video arcades",
+      "linkId": null,
+      "text": "His picture of cyberspace came partly from watching teenagers in Vancouver arcades, hunched over the games. They seemed to want to reach through the screen into a space behind it."
+    },
+    {
+      "opening": "A consensual hallucination",
+      "linkId": null,
+      "text": "In Neuromancer, Gibson describes cyberspace as a \"consensual hallucination\" shared by billions of users. The phrase is often quoted as one of the earliest pictures of a global network."
+    },
+    {
+      "opening": "The Hermes typewriter",
+      "linkId": null,
+      "text": "Gibson wrote the novel on a portable Hermes manual typewriter from the 1920s. He did not own a computer while writing it, and only bought one after the book came out."
+    },
+    {
+      "opening": "Neuromancer's awards",
+      "linkId": null,
+      "text": "The book was Gibson's first novel. It won the Hugo, Nebula and Philip K. Dick awards, a rare triple, and helped give the cyberpunk style its name."
+    }
+  ],
+  "tags": [
+    "science-fiction",
+    "etymology",
+    "typewriters",
+    "internet"
+  ],
+  "related": [
+    "snow-crash-metaverse",
+    "fahrenheit-451-typewriter",
+    "matrix-digital-rain",
+    "arpanet-lo",
+    "asimov-three-laws"
+  ]
+}

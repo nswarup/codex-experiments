@@ -1,0 +1,43 @@
+{
+  "id": "hitchhikers-42",
+  "title": "Why the answer is 42",
+  "category": "Books",
+  "hook": "Douglas Adams said 42 had no secret meaning. He simply picked it.",
+  "peek": "In The Hitchhiker's Guide to the Galaxy, a vast computer spends millions of years working out the Answer to Life, the Universe and Everything. The answer is 42. Fans have spent decades hunting for a hidden code. Douglas Adams said there wasn't one.",
+  "lede": "In The Hitchhiker's Guide to the Galaxy, a supercomputer called Deep Thought spends seven and a half million years calculating the Answer to the Ultimate Question of Life, the Universe and Everything. It announces 42. Readers have found clever explanations ever since. Douglas Adams insisted it was a joke and nothing more.",
+  "bullets": [
+    {
+      "opening": "Adams's 1993 explanation",
+      "linkId": null,
+      "text": "Asked online in 1993, Adams wrote that it had to be an ordinary, smallish number, and he chose that one. He said he sat at his desk, looked out at the garden and thought \"42 will do\"."
+    },
+    {
+      "opening": "Six times nine",
+      "linkId": null,
+      "text": "Later in the story, the Question is said to be \"What do you get if you multiply six by nine?\" Fans noticed that this does equal 42 in base 13. Adams replied that he did not write jokes in base 13."
+    },
+    {
+      "opening": "The ultimate question",
+      "linkId": null,
+      "text": "The real punchline is that nobody knew what the Question was, so the Answer was useless. Deep Thought tells its builders to design an even bigger computer to find it, and that computer turns out to be the Earth."
+    },
+    {
+      "opening": "The 1978 radio series",
+      "linkId": null,
+      "text": "The story began as a BBC radio comedy in 1978, before it became books, a TV series and a film. The number 42 was in it from the start and has since become a running in-joke among programmers and scientists."
+    }
+  ],
+  "tags": [
+    "science-fiction",
+    "comedy",
+    "numbers",
+    "myths-busted"
+  ],
+  "related": [
+    "vonnegut-story-shapes",
+    "library-of-babel",
+    "deep-blue-move-44",
+    "taxicab-number-1729",
+    "gardner-mathematical-games"
+  ]
+}

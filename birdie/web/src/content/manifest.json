@@ -2988,5 +2988,125 @@
   "id": "fahrenheit-451-typewriter",
   "title": "Fahrenheit 451 on a rented typewriter",
   "category": "Books"
+ },
+ {
+  "id": "great-moon-hoax",
+  "title": "The Great Moon Hoax",
+  "category": "History"
+ },
+ {
+  "id": "beard-tax",
+  "title": "Peter the Great's beard tax",
+  "category": "History"
+ },
+ {
+  "id": "mountains-of-kong",
+  "title": "The Mountains of Kong",
+  "category": "History"
+ },
+ {
+  "id": "phantom-tollbooth",
+  "title": "The Phantom Tollbooth was procrastination",
+  "category": "Books"
+ },
+ {
+  "id": "asimov-three-laws",
+  "title": "Asimov's Three Laws of Robotics",
+  "category": "Books"
+ },
+ {
+  "id": "gibson-cyberspace",
+  "title": "William Gibson's \"cyberspace\"",
+  "category": "Books"
+ },
+ {
+  "id": "snow-crash-metaverse",
+  "title": "Snow Crash and the Metaverse",
+  "category": "Books"
+ },
+ {
+  "id": "hitchhikers-42",
+  "title": "Why the answer is 42",
+  "category": "Books"
+ },
+ {
+  "id": "hobbit-exam-paper",
+  "title": "The Hobbit began on an exam paper",
+  "category": "Books"
+ },
+ {
+  "id": "christmas-carol-self-published",
+  "title": "A Christmas Carol was self-published",
+  "category": "Books"
+ },
+ {
+  "id": "holmes-deerstalker",
+  "title": "Sherlock Holmes's missing deerstalker",
+  "category": "Books"
+ },
+ {
+  "id": "gadsby-no-e",
+  "title": "Gadsby, the novel without an E",
+  "category": "Books"
+ },
+ {
+  "id": "the-martian-blog",
+  "title": "The Martian began as a free blog",
+  "category": "Books"
+ },
+ {
+  "id": "machine-stops",
+  "title": "E. M. Forster's The Machine Stops",
+  "category": "Books"
+ },
+ {
+  "id": "first-folio",
+  "title": "The First Folio",
+  "category": "Books"
+ },
+ {
+  "id": "project-gutenberg",
+  "title": "Project Gutenberg's first ebook",
+  "category": "Books"
+ },
+ {
+  "id": "bodleian-oath",
+  "title": "The Bodleian's no-lending rule",
+  "category": "Books"
+ },
+ {
+  "id": "biblioburro",
+  "title": "Biblioburro, the donkey library",
+  "category": "Books"
+ },
+ {
+  "id": "hay-on-wye-king",
+  "title": "Hay-on-Wye's self-crowned king",
+  "category": "Books"
+ },
+ {
+  "id": "shakespeare-and-company-tumbleweeds",
+  "title": "Shakespeare and Company's Tumbleweeds",
+  "category": "Books"
+ },
+ {
+  "id": "pippi-longstocking",
+  "title": "Pippi Longstocking's name came from a child",
+  "category": "Books"
+ },
+ {
+  "id": "paddington-selfridges",
+  "title": "Paddington began on a shop shelf",
+  "category": "Books"
+ },
+ {
+  "id": "wild-things-horses",
+  "title": "Where the Wild Horses Are",
+  "category": "Books"
+ },
+ {
+  "id": "austen-creaking-door",
+  "title": "Jane Austen's creaking door",
+  "category": "Books"
  }
 ]

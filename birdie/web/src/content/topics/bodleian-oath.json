@@ -1,0 +1,44 @@
+{
+  "id": "bodleian-oath",
+  "title": "The Bodleian's no-lending rule",
+  "category": "Books",
+  "hook": "Oxford's great library would not even lend a book to the king.",
+  "peek": "The Bodleian Library in Oxford has refused to lend its books for more than 400 years. The best-known story says it turned down King Charles I. New readers still promise out loud not to bring fire into the building.",
+  "lede": "The Bodleian Library in Oxford opened in 1602, and from the start its books stayed inside. Readers come to the books, not the other way round. The rule is so firm that, in the library's most famous story, it was applied to the king himself. Every new reader still makes a formal promise before getting a card.",
+  "bullets": [
+    {
+      "opening": "Charles I's refused request",
+      "linkId": null,
+      "text": "During the English Civil War, Charles I based his court in Oxford. The story goes that in 1645 he asked to borrow a book, and the librarian politely refused, citing the library's statutes. Oliver Cromwell is said to have been turned down too."
+    },
+    {
+      "opening": "The reader's declaration",
+      "linkId": null,
+      "text": "Before using the library, readers promise not to remove, mark or damage anything, and not to \"bring into the Library, or kindle therein, any fire or flame\". Readers have traditionally said it aloud, and it is offered in many languages."
+    },
+    {
+      "opening": "Why fire was banned",
+      "linkId": null,
+      "text": "The rule dates from the age of candles, when one dropped flame could destroy a room of irreplaceable paper and wooden shelves. Keeping all flames out meant reading depended on daylight for a very long time."
+    },
+    {
+      "opening": "Thomas Bodley's library",
+      "linkId": null,
+      "text": "The diplomat Thomas Bodley refounded Oxford's old university library and gave it his name. In 1610 he struck a deal for a copy of every book registered by London's printers, the start of its role as a legal deposit library."
+    }
+  ],
+  "tags": [
+    "libraries",
+    "oxford",
+    "rules",
+    "history-of-things"
+  ],
+  "related": [
+    "first-folio",
+    "oed-scriptorium",
+    "johnson-dictionary",
+    "revolutionary-card-catalog",
+    "library-of-babel",
+    "biblioburro"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "great-moon-hoax",
+  "title": "The Great Moon Hoax",
+  "category": "History",
+  "hook": "In 1835 a New York paper reported winged people living on the Moon.",
+  "peek": "In August 1835 the New York Sun ran a series claiming a famous astronomer had spotted forests, herds and winged people on the Moon. It was all made up, and the paper's sales soared.",
+  "lede": "In late August 1835, the New York Sun began a series of articles about astonishing discoveries on the Moon. Using a giant new telescope, the reports said, the astronomer Sir John Herschel had seen forests, lakes, herds of animals and finally furry people with bat-like wings. None of it was true, and the Sun never quite admitted it.",
+  "bullets": [
+    {
+      "opening": "The man-bats",
+      "linkId": null,
+      "text": "The stars of the series were creatures the articles gave a mock Latin name, Vespertilio-homo, or bat-man. They were described flying about and gesturing as if in conversation, alongside bluish unicorns and beavers that walked upright."
+    },
+    {
+      "opening": "Sir John Herschel",
+      "linkId": null,
+      "text": "Herschel was a real and famous astronomer, then working at the Cape of Good Hope in South Africa, far from any newspaper. He had no part in the story and learned of it later, reportedly amused at first and then tired of questions."
+    },
+    {
+      "opening": "A borrowed authority",
+      "linkId": null,
+      "text": "The articles claimed to be reprinted from a supplement to the Edinburgh Journal of Science. That journal had stopped publishing years earlier, which made the claim hard to check from New York."
+    },
+    {
+      "opening": "Richard Adams Locke",
+      "linkId": null,
+      "text": "The series is usually credited to Locke, a writer at the Sun. It sold so well that the Sun became one of the best-selling papers of its day. Historians think fewer readers were fooled than legend says, and many simply enjoyed it."
+    }
+  ],
+  "tags": [
+    "hoaxes",
+    "newspapers",
+    "myths-busted",
+    "space-exploration"
+  ],
+  "related": [
+    "spaghetti-harvest",
+    "war-of-the-worlds-panic",
+    "moon-far-side",
+    "swift-mars-moons",
+    "mechanical-turk"
+  ]
+}

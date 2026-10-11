@@ -1,0 +1,49 @@
+{
+  "id": "asimov-three-laws",
+  "title": "Asimov's Three Laws of Robotics",
+  "category": "Books",
+  "hook": "Asimov's famous robot laws were put into words by his editor.",
+  "peek": "Isaac Asimov first set out the Three Laws of Robotics in a 1942 short story. He always said the credit belonged to his editor, John W. Campbell, who in turn said he had only spotted them in Asimov's own stories.",
+  "lede": "The Three Laws of Robotics first appear in full in \"Runaround\", a short story Isaac Asimov published in 1942, when he was 22. A robot may not harm a human, must obey orders, and must protect itself, each law giving way to the ones before it. Asimov liked to say he had not quite invented them himself.",
+  "bullets": [
+    {
+      "opening": "John W. Campbell's role",
+      "linkId": null,
+      "text": "Asimov credited Campbell, the editor of Astounding Science Fiction, with stating the laws during a talk in December 1940. Campbell said he had simply read them out of Asimov's earlier robot stories. Asimov kept giving Campbell the credit."
+    },
+    {
+      "opening": "The Frankenstein complex",
+      "linkId": null,
+      "text": "Asimov was tired of stories in which robots turn on their makers. He wanted robots that were tools built with safeguards, and called the old fear of machines the Frankenstein complex."
+    },
+    {
+      "opening": "\"Runaround\" and Speedy",
+      "linkId": null,
+      "text": "In the story a robot called Speedy is sent to fetch a substance on Mercury. Caught between a weak order and a strong danger, he circles endlessly. Most of Asimov's robot stories are puzzles about how the laws clash."
+    },
+    {
+      "opening": "The Zeroth Law",
+      "linkId": null,
+      "text": "Decades later Asimov added a law above the others: a robot may not harm humanity as a whole. In his novels it lets robots break the First Law for the greater good, which raises new problems."
+    },
+    {
+      "opening": "The word \"robotics\"",
+      "linkId": null,
+      "text": "Asimov is also credited with the word robotics itself, first used in print in a 1941 story about a mind-reading robot. He assumed it was already a real word."
+    }
+  ],
+  "tags": [
+    "science-fiction",
+    "robots",
+    "ai",
+    "inventors"
+  ],
+  "related": [
+    "robot-word",
+    "shakey-robot",
+    "frankenstein-1816",
+    "machine-stops",
+    "dartmouth-ai-summer",
+    "turing-imitation-game"
+  ]
+}

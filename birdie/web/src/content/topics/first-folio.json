@@ -1,0 +1,43 @@
+{
+  "id": "first-folio",
+  "title": "The First Folio",
+  "category": "Books",
+  "hook": "Half of Shakespeare's plays exist because two of his fellow actors saved them.",
+  "peek": "Seven years after Shakespeare died, two actors who had worked with him gathered his plays into one big book. Eighteen of its 36 plays had never been printed before, including Macbeth and The Tempest, and might otherwise have been lost.",
+  "lede": "Shakespeare died in 1616 without publishing a collected edition of his plays. In 1623, two actors from his company, John Heminges and Henry Condell, did it for him. Their book, now called the First Folio, held 36 plays. About half of them, 18 in all, had never appeared in print, and no other early text of them survives.",
+  "bullets": [
+    {
+      "opening": "Heminges and Condell",
+      "linkId": null,
+      "text": "The two men had acted alongside Shakespeare for years in the company known as the King's Men. In their preface they said they had gathered the plays to keep their friend's memory alive, and to replace the faulty copies that had been sold."
+    },
+    {
+      "opening": "Plays saved by the Folio",
+      "linkId": null,
+      "text": "Without the book we would very likely have no Macbeth, The Tempest, Twelfth Night, Julius Caesar or As You Like It. These and others survive only because the actors collected scripts and copies from the theatre."
+    },
+    {
+      "opening": "The Droeshout portrait",
+      "linkId": null,
+      "text": "The title page carries an engraving of Shakespeare by Martin Droeshout, one of only two images with a good claim to show him. Ben Jonson's poem in the book calls him \"not of an age, but for all time\"."
+    },
+    {
+      "opening": "Surviving copies today",
+      "linkId": null,
+      "text": "Perhaps 750 copies were printed, and about 235 are known to survive. The Folger Shakespeare Library in Washington holds the largest group, and a complete copy sold at auction in 2020 for nearly $10 million."
+    }
+  ],
+  "tags": [
+    "shakespeare",
+    "printing",
+    "theatre",
+    "records"
+  ],
+  "related": [
+    "caxton-eggs",
+    "johnson-dictionary",
+    "bodleian-oath",
+    "oed-scriptorium",
+    "penguin-paperbacks"
+  ]
+}

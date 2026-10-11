@@ -1,0 +1,43 @@
+{
+  "id": "phantom-tollbooth",
+  "title": "The Phantom Tollbooth was procrastination",
+  "category": "Books",
+  "hook": "A classic children's book was written to avoid writing a different one.",
+  "peek": "Norton Juster had a grant to write a children's book about cities. Instead he kept working on a story about a bored boy named Milo, and his neighbour Jules Feiffer drew the pictures. It became The Phantom Tollbooth.",
+  "lede": "In the late 1950s Norton Juster, a young architect, won a Ford Foundation grant to write a book for children about cities. He found it hard going. To escape it he began a story about Milo, a boy bored by everything, who drives a toy car through a mysterious tollbooth. The story grew, the cities book stalled, and in 1961 The Phantom Tollbooth came out.",
+  "bullets": [
+    {
+      "opening": "Jules Feiffer's drawings",
+      "linkId": null,
+      "text": "Juster shared a building in Brooklyn with the cartoonist Jules Feiffer. Feiffer read the pages as they came and began sketching. His scratchy pen drawings of Milo and the creatures he meets became part of the book's character."
+    },
+    {
+      "opening": "Tock the watchdog",
+      "linkId": null,
+      "text": "Many of the characters are puns taken literally. Tock is a watchdog with a large alarm clock in his body, and Milo jumps to the island of Conclusions just by deciding to."
+    },
+    {
+      "opening": "Dictionopolis and Digitopolis",
+      "linkId": null,
+      "text": "The two rival cities in the story are ruled by brothers, one king of words and one of numbers, who argue over which matters more. It is a lesson about learning, made into a joke."
+    },
+    {
+      "opening": "Jason Epstein at Random House",
+      "linkId": null,
+      "text": "The editor Jason Epstein took the book on even though some doubted children would follow its wordplay. It has stayed in print for more than sixty years and sold millions of copies."
+    }
+  ],
+  "tags": [
+    "childrens-books",
+    "wordplay",
+    "procrastination",
+    "illustration"
+  ],
+  "related": [
+    "alice-boat-trip",
+    "green-eggs-and-ham",
+    "wild-things-horses",
+    "buffalo-sentence",
+    "gardner-mathematical-games"
+  ]
+}

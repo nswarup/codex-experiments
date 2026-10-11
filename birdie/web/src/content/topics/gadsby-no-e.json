@@ -1,0 +1,43 @@
+{
+  "id": "gadsby-no-e",
+  "title": "Gadsby, the novel without an E",
+  "category": "Books",
+  "hook": "A 1939 novel of about 50,000 words never once uses the letter E.",
+  "peek": "In 1939 Ernest Vincent Wright published Gadsby, a full-length novel written without a single letter E, the most common letter in English. To manage it, he said, he tied down the E key on his typewriter.",
+  "lede": "E is the most common letter in English, turning up in about one letter in eight. In 1939 Ernest Vincent Wright published Gadsby, a novel of about 50,000 words that avoids it completely. That rules out \"the\", \"he\", \"she\", \"they\" and most past tenses ending in \"-ed\". Writing without one letter is called a lipogram.",
+  "bullets": [
+    {
+      "opening": "The tied-down E key",
+      "linkId": null,
+      "text": "In his introduction, Wright explains that he tied down the E key of his typewriter while writing, so none could slip in by habit. He said friends had told him such a book could not be done."
+    },
+    {
+      "opening": "The story of Branton Hills",
+      "linkId": null,
+      "text": "The plot follows John Gadsby, a middle-aged man who rallies the young people of his sleepy town, Branton Hills, to improve it. Under their efforts the town flourishes and grows into a city."
+    },
+    {
+      "opening": "Wright's word tricks",
+      "linkId": null,
+      "text": "Without E, whole families of words vanish. Of the numbers from one to ten, only two, four and six survive, and Wright had to find roundabout ways to say simple things, which gives the prose an odd feel."
+    },
+    {
+      "opening": "A rare first edition",
+      "linkId": null,
+      "text": "The book was put out by a small vanity press and sold few copies at first. Original copies are now scarce and sought after, and Gadsby is often cited whenever people discuss constrained writing."
+    }
+  ],
+  "tags": [
+    "wordplay",
+    "constraints",
+    "letters",
+    "records"
+  ],
+  "related": [
+    "quick-brown-fox",
+    "green-eggs-and-ham",
+    "panama-palindrome",
+    "lorem-ipsum",
+    "library-of-babel"
+  ]
+}

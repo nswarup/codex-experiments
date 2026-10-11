@@ -1,0 +1,43 @@
+{
+  "id": "hobbit-exam-paper",
+  "title": "The Hobbit began on an exam paper",
+  "category": "Books",
+  "hook": "Tolkien wrote the first line of The Hobbit on a student's exam script.",
+  "peek": "While marking exam papers one summer, J. R. R. Tolkien found a blank page and wrote: \"In a hole in the ground there lived a hobbit.\" He had no idea what a hobbit was. Finding out took years.",
+  "lede": "Around 1930, J. R. R. Tolkien, then an Oxford professor, was earning extra money marking school exam papers. One student had left a page blank. Tolkien later recalled that, relieved, he wrote on it: \"In a hole in the ground there lived a hobbit.\" He said he did not know why, or what a hobbit was.",
+  "bullets": [
+    {
+      "opening": "Marking School Certificate papers",
+      "linkId": null,
+      "text": "Tolkien marked these papers each summer to support his family, and called the work tedious. He described the moment in letters and interviews years later, and the exact date is uncertain."
+    },
+    {
+      "opening": "Finding out what hobbits were",
+      "linkId": null,
+      "text": "Tolkien said names always gave him a story, and he decided he had better find out what hobbits were like. The tale grew slowly, partly as stories told to his children."
+    },
+    {
+      "opening": "Rayner Unwin's report",
+      "linkId": null,
+      "text": "When the publisher Stanley Unwin received the manuscript, he gave it to his ten-year-old son Rayner to judge. Rayner wrote a short report saying it would appeal to children aged five to nine, and was paid a shilling."
+    },
+    {
+      "opening": "The 1937 first edition",
+      "linkId": null,
+      "text": "The Hobbit was published in 1937 with Tolkien's own drawings and maps. It sold well enough that Unwin asked for a sequel, which became The Lord of the Rings."
+    }
+  ],
+  "tags": [
+    "fantasy",
+    "first-lines",
+    "accidents",
+    "childrens-books"
+  ],
+  "related": [
+    "alice-boat-trip",
+    "treasure-island-map",
+    "peter-rabbit-letter",
+    "frankenstein-1816",
+    "bronte-little-books"
+  ]
+}

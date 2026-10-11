@@ -1,0 +1,43 @@
+{
+  "id": "beard-tax",
+  "title": "Peter the Great's beard tax",
+  "category": "History",
+  "hook": "Peter the Great made Russian men pay to keep their beards, and carry a receipt.",
+  "peek": "Back from a long tour of western Europe in 1698, Peter the Great started shaving his nobles himself. Later he let men keep their beards for a yearly fee, and they carried a copper token to prove they had paid.",
+  "lede": "In 1698 Peter the Great returned from a long tour of western Europe, set on making Russia look modern. At a welcome reception he took a razor and shaved the beards of his own nobles. Soon beards became a matter of law: a man could keep one, but only if he paid a yearly tax, and he had to prove it.",
+  "bullets": [
+    {
+      "opening": "Shaving the boyars",
+      "linkId": null,
+      "text": "The boyars were Russia's old noble families, and for them a full beard was a sign of dignity and faith. Peter saw beards as old-fashioned, and shaving his courtiers in person made his point hard to miss."
+    },
+    {
+      "opening": "The 1705 beard decree",
+      "linkId": null,
+      "text": "The formal tax came in 1705. The fee depended on rank: wealthy merchants and courtiers paid the most, up to 100 roubles a year. Peasants could keep beards at home but were charged a small fee to enter a town."
+    },
+    {
+      "opening": "The beard token",
+      "linkId": null,
+      "text": "Men who paid received a copper token to carry. Many show a nose, moustache and beard, with words meaning \"money taken\". Some also carry a line saying that a beard is a needless burden."
+    },
+    {
+      "opening": "Catherine the Great's repeal",
+      "linkId": null,
+      "text": "The tax was hard to enforce and stirred resentment, but it lasted for decades. It was finally scrapped in 1772, in the reign of Catherine the Great. Surviving tokens are now prized by coin collectors."
+    }
+  ],
+  "tags": [
+    "fashion",
+    "taxes",
+    "history-of-things",
+    "russia"
+  ],
+  "related": [
+    "ace-of-spades-tax",
+    "mario-mustache",
+    "napoleon-height",
+    "emperor-norton",
+    "bowler-hat"
+  ]
+}

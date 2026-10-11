@@ -1,0 +1,43 @@
+{
+  "id": "holmes-deerstalker",
+  "title": "Sherlock Holmes's missing deerstalker",
+  "category": "Books",
+  "hook": "In Conan Doyle's stories, Holmes never wears a deerstalker.",
+  "peek": "The deerstalker hat, the curved pipe and \"Elementary, my dear Watson\" all feel essential to Sherlock Holmes. None of them comes from Arthur Conan Doyle's stories. They were added by an illustrator, an actor and the movies.",
+  "lede": "Picture Sherlock Holmes and he probably wears a deerstalker, puffs a curved pipe and says \"Elementary, my dear Watson.\" Arthur Conan Doyle wrote none of that. The word deerstalker never appears in the stories, and neither does the famous line. Holmes's look was assembled by other people, starting with an illustrator for The Strand Magazine.",
+  "bullets": [
+    {
+      "opening": "Sidney Paget's illustrations",
+      "linkId": null,
+      "text": "Paget drew Holmes for The Strand from 1891. In \"The Boscombe Valley Mystery\" and \"Silver Blaze\" he gave him a deerstalker for trips to the countryside. Doyle's text mentions only a close-fitting cloth cap and an ear-flapped travelling cap."
+    },
+    {
+      "opening": "A country hat in town",
+      "linkId": null,
+      "text": "A deerstalker was outdoor wear for hunting, not something a London gentleman wore in the city. Paget used it for country scenes, but later artists and actors put it on Holmes everywhere."
+    },
+    {
+      "opening": "William Gillette's curved pipe",
+      "linkId": null,
+      "text": "The American actor played Holmes on stage from 1899 and helped fix the image, including the hat. The curved pipe is often credited to him too, perhaps because it kept his face visible."
+    },
+    {
+      "opening": "Elementary, my dear Watson",
+      "linkId": null,
+      "text": "Holmes does say \"Elementary\" once, in \"The Crooked Man\", and calls Watson \"my dear Watson\" often. The two never come together in Doyle. The full line was made famous by the 1929 film The Return of Sherlock Holmes."
+    }
+  ],
+  "tags": [
+    "detectives",
+    "myths-busted",
+    "fashion",
+    "illustration"
+  ],
+  "related": [
+    "play-it-again-sam",
+    "arabian-nights-aladdin",
+    "ruby-slippers",
+    "bowler-hat",
+    "james-bond-ornithologist"
+  ]
+}

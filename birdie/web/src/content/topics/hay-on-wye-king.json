@@ -1,0 +1,43 @@
+{
+  "id": "hay-on-wye-king",
+  "title": "Hay-on-Wye's self-crowned king",
+  "category": "Books",
+  "hook": "A bookseller filled a Welsh town with bookshops and then crowned himself king.",
+  "peek": "Richard Booth opened a secondhand bookshop in the small Welsh town of Hay-on-Wye in 1962. Within years the town was full of them. On April Fool's Day 1977 he declared Hay an independent kingdom, with himself as king.",
+  "lede": "Hay-on-Wye is a small market town on the border between Wales and England. In 1962 a young Oxford graduate named Richard Booth opened a secondhand bookshop there in the old fire station. He bought books by the lorryload, and other booksellers followed. Hay became the first place known as a book town, and Booth became its loudest promoter.",
+  "bullets": [
+    {
+      "opening": "Books by the lorryload",
+      "linkId": null,
+      "text": "Booth travelled widely buying up whole libraries, including from American libraries clearing their shelves. He filled an old cinema and even the town's castle with books, and at its height Hay had dozens of bookshops."
+    },
+    {
+      "opening": "The 1977 declaration",
+      "linkId": null,
+      "text": "On 1 April 1977, Booth declared Hay independent from Britain and named himself King Richard Coeur de Livre, Richard the Book-Hearted. He reportedly named his horse prime minister and sold passports and titles."
+    },
+    {
+      "opening": "A stunt with a purpose",
+      "linkId": null,
+      "text": "The kingdom was a joke, but a serious one. Booth wanted to show that a small rural town could thrive on its own idea, books, rather than wait for help from outside, and the publicity brought visitors in."
+    },
+    {
+      "opening": "The book town movement",
+      "linkId": null,
+      "text": "Hay inspired other book towns around the world, such as Redu in Belgium and Wigtown in Scotland. The Hay Festival, founded separately in 1988, now draws large crowds of readers every spring."
+    }
+  ],
+  "tags": [
+    "bookshops",
+    "wales",
+    "pranks",
+    "borders"
+  ],
+  "related": [
+    "shakespeare-and-company-tumbleweeds",
+    "bir-tawil",
+    "baarle",
+    "biblioburro",
+    "penguin-paperbacks"
+  ]
+}

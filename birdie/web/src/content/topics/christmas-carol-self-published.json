@@ -1,0 +1,43 @@
+{
+  "id": "christmas-carol-self-published",
+  "title": "A Christmas Carol was self-published",
+  "category": "Books",
+  "hook": "A Christmas Carol sold out in days, yet Dickens made only a small profit.",
+  "peek": "In 1843 Charles Dickens paid for A Christmas Carol to be printed himself. All 6,000 copies sold out by Christmas Eve. Because he insisted on gilt edges and hand-coloured pictures, his share was far smaller than he had hoped.",
+  "lede": "In 1843 Charles Dickens was short of money and arguing with his publishers. So he paid to publish A Christmas Carol himself, with Chapman and Hall printing it on commission. The first 6,000 copies, out on 19 December, sold out by Christmas Eve. Yet his costly choices meant the book earned him far less than he had expected.",
+  "bullets": [
+    {
+      "opening": "Writing it in six weeks",
+      "linkId": null,
+      "text": "Dickens wrote the story in about six weeks that autumn, alongside his monthly serial. He later said he wept and laughed over it, and walked the London streets at night thinking it through."
+    },
+    {
+      "opening": "John Leech's coloured plates",
+      "linkId": null,
+      "text": "Dickens wanted a handsome little book: red cloth, gilt edges and four hand-coloured illustrations by John Leech. He also kept the price low, at five shillings, so more people could buy it."
+    },
+    {
+      "opening": "About £230 instead of £1,000",
+      "linkId": null,
+      "text": "Dickens hoped to make around £1,000. After the costs of printing, binding and colouring, his profit from the first edition was only about £230, a real disappointment to him."
+    },
+    {
+      "opening": "The pirated edition",
+      "linkId": null,
+      "text": "Within weeks a cheap magazine published a copied version. Dickens sued and won, but the publishers declared themselves bankrupt, and he was left to pay about £700 in legal costs."
+    }
+  ],
+  "tags": [
+    "christmas",
+    "self-publishing",
+    "money",
+    "victorian"
+  ],
+  "related": [
+    "penguin-paperbacks",
+    "the-martian-blog",
+    "first-folio",
+    "little-women-reluctant",
+    "christmas-cracker"
+  ]
+}

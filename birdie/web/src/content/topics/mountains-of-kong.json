@@ -1,0 +1,43 @@
+{
+  "id": "mountains-of-kong",
+  "title": "The Mountains of Kong",
+  "category": "History",
+  "hook": "A mountain range across West Africa sat on maps for about 90 years. It was never there.",
+  "peek": "For most of the 1800s, maps of Africa showed a long mountain range running across West Africa. Mapmakers copied it from one another for about 90 years, until an explorer went to look and found only gentle country.",
+  "lede": "In 1798 the English geographer James Rennell drew a map to go with the travels of the explorer Mungo Park. Across West Africa he added a long east-west range, the Mountains of Kong. Mapmakers copied it for most of the next century. There was one problem: the mountains did not exist.",
+  "bullets": [
+    {
+      "opening": "James Rennell's 1798 map",
+      "linkId": null,
+      "text": "Rennell worked partly from Park's reports of distant hills and partly from theory. He believed the Niger River flowed east into the interior, and a great range to the south explained why it could not reach the coast."
+    },
+    {
+      "opening": "The Lander brothers' discovery",
+      "linkId": null,
+      "text": "In 1830 Richard and John Lander followed the Niger and showed it bends south and reaches the Gulf of Guinea. That removed the reason for the mountains, yet they stayed on maps for decades more."
+    },
+    {
+      "opening": "Louis-Gustave Binger's journey",
+      "linkId": null,
+      "text": "In 1888 the French officer Binger reached Kong, a real trading town in what is now Ivory Coast. He reported no great range at all, just low hills, and the mountains soon began to vanish from new maps."
+    },
+    {
+      "opening": "Copying from the best authorities",
+      "linkId": null,
+      "text": "Geographers who later studied the error found the range on dozens of maps, sometimes stretched right across Africa. Each mapmaker trusted earlier ones, and a few atlases kept it into the twentieth century."
+    }
+  ],
+  "tags": [
+    "maps",
+    "myths-busted",
+    "exploration",
+    "history-of-things"
+  ],
+  "related": [
+    "agloe-new-york",
+    "waldseemuller-map",
+    "null-island",
+    "richat-structure",
+    "esquivalience"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "paddington-selfridges",
+  "title": "Paddington began on a shop shelf",
+  "category": "Books",
+  "hook": "Paddington began as a lonely toy bear left on a London shop shelf.",
+  "peek": "On Christmas Eve 1956, Michael Bond saw a small teddy bear sitting alone on a shelf in Selfridges in London. He bought it for his wife, named it after a nearby station, and soon started writing stories about it.",
+  "lede": "On Christmas Eve 1956, Michael Bond, then a BBC cameraman, was in Selfridges department store in London. On a shelf he spotted a single small teddy bear left unsold. He felt sorry for it, bought it as a present for his wife Brenda, and named it Paddington after the station near their flat.",
+  "bullets": [
+    {
+      "opening": "Written in ten days",
+      "linkId": null,
+      "text": "A while later, staring at a blank page, Bond looked at the bear and began writing about it. He said the first book, A Bear Called Paddington, took about ten days. It was published in 1958."
+    },
+    {
+      "opening": "Labels on evacuee children",
+      "linkId": null,
+      "text": "Paddington arrives at the station with a label reading \"Please look after this bear. Thank you.\" Bond said this came from his memory of children evacuated from London during the war, carrying labels and small cases."
+    },
+    {
+      "opening": "From darkest Africa to Peru",
+      "linkId": null,
+      "text": "In Bond's first draft the bear came from darkest Africa. His agent pointed out that Africa has no native bears, so Bond changed it to darkest Peru, home of the spectacled bear."
+    },
+    {
+      "opening": "Marmalade sandwiches",
+      "linkId": null,
+      "text": "Paddington keeps a marmalade sandwich under his hat in case of emergencies, a habit picked up from his Aunt Lucy. The books have sold tens of millions of copies and led to a series of hit films."
+    }
+  ],
+  "tags": [
+    "teddy-bears",
+    "childrens-books",
+    "names",
+    "london"
+  ],
+  "related": [
+    "winnie-the-pooh-bear",
+    "peter-rabbit-letter",
+    "pippi-longstocking",
+    "wild-things-horses",
+    "alice-boat-trip"
+  ]
+}

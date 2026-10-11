@@ -1,0 +1,44 @@
+{
+  "id": "the-martian-blog",
+  "title": "The Martian began as a free blog",
+  "category": "Books",
+  "hook": "A bestselling space novel started as free chapters on its author's website.",
+  "peek": "Andy Weir posted The Martian a chapter at a time on his own website, for free. Readers with science backgrounds checked his sums, and a 99-cent ebook made at their request ended up as a bestseller and a Hollywood film.",
+  "lede": "Andy Weir was a software engineer who wrote fiction on the side. After publishers had shown little interest in his earlier writing, he put his new story, about an astronaut stranded on Mars, on his personal website one chapter at a time, free to anyone. A small group of keen readers followed along, and some of them knew a lot about spaceflight.",
+  "bullets": [
+    {
+      "opening": "Readers checking the science",
+      "linkId": null,
+      "text": "Weir's readers included people with backgrounds in physics, chemistry and engineering, and they wrote in when something looked wrong. He fixed the errors as he went, so the published story had been checked by its audience before any editor saw it."
+    },
+    {
+      "opening": "Weir's orbital calculations",
+      "linkId": null,
+      "text": "Weir wanted the details to hold up, from how much food his astronaut could grow to how long the journeys would take. He has said he wrote his own software to work out the spacecraft's path between Earth and Mars."
+    },
+    {
+      "opening": "The 99-cent Kindle edition",
+      "linkId": null,
+      "text": "Readers asked for a version they could load onto an e-reader. Weir put it on Amazon in 2011 at 99 cents, the lowest price the store allowed, and it climbed into the best-selling science fiction titles there."
+    },
+    {
+      "opening": "From ebook to film",
+      "linkId": null,
+      "text": "Crown, a major publisher, bought the rights and released the novel in print in 2014. In 2015 Ridley Scott's film version, with Matt Damon as the stranded botanist Mark Watney, became a box office hit."
+    }
+  ],
+  "tags": [
+    "space-exploration",
+    "self-publishing",
+    "mars",
+    "internet"
+  ],
+  "related": [
+    "christmas-carol-self-published",
+    "harry-potter-rejections",
+    "martian-canals",
+    "mars-blue-sunset",
+    "project-gutenberg",
+    "ingenuity-wright-flyer"
+  ]
+}

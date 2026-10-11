@@ -1,0 +1,43 @@
+{
+  "id": "wild-things-horses",
+  "title": "Where the Wild Horses Are",
+  "category": "Books",
+  "hook": "Where the Wild Things Are was meant to be about horses, until Sendak tried drawing one.",
+  "peek": "Maurice Sendak's famous picture book was first planned as Where the Wild Horses Are. Then he admitted he could not draw horses. The monsters he drew instead were partly based on his own aunts and uncles.",
+  "lede": "In the 1950s Maurice Sendak pitched a book to his editor, Ursula Nordstrom, called Where the Wild Horses Are. She liked the title, but Sendak struggled with the pictures: he simply could not draw horses well. Nordstrom asked what he could draw. The answer was things, and in 1963 the book became Where the Wild Things Are.",
+  "bullets": [
+    {
+      "opening": "Sendak's relatives",
+      "linkId": null,
+      "text": "Sendak said the wild things were based on the aunts and uncles who visited his family on Sundays when he was a boy in Brooklyn. They had big noses and loud voices, and they would pinch his cheeks and say \"I could eat you up\"."
+    },
+    {
+      "opening": "I'll eat you up",
+      "linkId": null,
+      "text": "That line ended up in the book. The wild things roar \"we'll eat you up we love you so\" when Max leaves, a playful echo of those doting, overwhelming relatives."
+    },
+    {
+      "opening": "A very short text",
+      "linkId": null,
+      "text": "The whole story runs to only about 340 words. The middle of the book, the wild rumpus, has three spreads with no words at all, just pictures that grow until they fill each page."
+    },
+    {
+      "opening": "The 1964 Caldecott Medal",
+      "linkId": null,
+      "text": "Some adults first worried the monsters were too frightening for children. Children loved them, and the book won the Caldecott Medal, the top American award for picture book illustration, in 1964."
+    }
+  ],
+  "tags": [
+    "monsters",
+    "childrens-books",
+    "illustration",
+    "titles"
+  ],
+  "related": [
+    "green-eggs-and-ham",
+    "paddington-selfridges",
+    "pippi-longstocking",
+    "peter-rabbit-letter",
+    "alice-boat-trip"
+  ]
+}

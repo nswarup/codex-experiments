@@ -1,0 +1,43 @@
+{
+  "id": "shakespeare-and-company-tumbleweeds",
+  "title": "Shakespeare and Company's Tumbleweeds",
+  "category": "Books",
+  "hook": "A Paris bookshop lets young writers sleep among its shelves for free.",
+  "peek": "Across the river from Notre-Dame, the bookshop Shakespeare and Company has beds tucked between its shelves. Since the 1950s tens of thousands of young writers have slept there, paying only by helping out and reading a book a day.",
+  "lede": "George Whitman, an American, opened a bookshop on the Left Bank of Paris in 1951, facing Notre-Dame. Upstairs and between the shelves he put narrow beds, and offered them free to young travellers and writers. He called his guests Tumbleweeds, because they drifted in and out. He once estimated about 30,000 people had stayed.",
+  "bullets": [
+    {
+      "opening": "The Tumbleweed rules",
+      "linkId": null,
+      "text": "The deal is simple. Guests help in the shop for a few hours each day, read a book a day, and write a short one-page autobiography. Many of those pages are kept in the shop's archive."
+    },
+    {
+      "opening": "Beds among the bookshelves",
+      "linkId": null,
+      "text": "The beds are narrow benches set into the shelving, so guests fall asleep with books inches from their heads. In the morning the beds fold back into the shop before customers arrive."
+    },
+    {
+      "opening": "Be not inhospitable to strangers",
+      "linkId": null,
+      "text": "Whitman painted a line above a doorway: \"Be not inhospitable to strangers lest they be angels in disguise.\" It sums up his idea of the shop as a home for anyone who loved books."
+    },
+    {
+      "opening": "Sylvia Beach's original shop",
+      "linkId": null,
+      "text": "Whitman renamed his shop in 1964 in honour of Sylvia Beach, whose earlier Shakespeare and Company had published James Joyce's Ulysses. His daughter, named Sylvia after her, now runs it and still welcomes Tumbleweeds."
+    }
+  ],
+  "tags": [
+    "bookshops",
+    "paris",
+    "writers",
+    "hospitality"
+  ],
+  "related": [
+    "hay-on-wye-king",
+    "bloomsday",
+    "biblioburro",
+    "on-the-road-scroll",
+    "bodleian-oath"
+  ]
+}

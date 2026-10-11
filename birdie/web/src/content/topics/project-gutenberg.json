@@ -1,0 +1,44 @@
+{
+  "id": "project-gutenberg",
+  "title": "Project Gutenberg's first ebook",
+  "category": "Books",
+  "hook": "The first ebook was typed into a mainframe on the Fourth of July, 1971.",
+  "peek": "In 1971 a student at the University of Illinois typed the US Declaration of Independence into a mainframe computer and told other users they could copy it. That small act is usually counted as the first ebook, and it started the oldest digital library.",
+  "lede": "On 4 July 1971, Michael Hart, a student at the University of Illinois, was given an account on the university's Xerox Sigma V mainframe. Wondering what to do with all that computing time, he typed in the US Declaration of Independence and let other users know it was there to copy. It is usually called the first ebook.",
+  "bullets": [
+    {
+      "opening": "Michael Hart's idea",
+      "linkId": null,
+      "text": "Hart's thought was simple: once a book is stored on a computer, it can be copied endlessly at almost no cost. He reckoned the most valuable thing he could make with his account was free texts that anyone could read."
+    },
+    {
+      "opening": "The first downloads",
+      "linkId": null,
+      "text": "Hart later said that only a handful of people, around six, copied the Declaration at first. The network was tiny then, and very few people had ever used a computer at all."
+    },
+    {
+      "opening": "Why it is named Gutenberg",
+      "linkId": null,
+      "text": "Hart named the project after Johannes Gutenberg, whose printing press made books far cheaper in the 1400s. He saw the computer as the next step: books that cost nothing to copy."
+    },
+    {
+      "opening": "Volunteer proofreaders",
+      "linkId": null,
+      "text": "For years Hart typed books himself, with a few helpers. Today volunteers scan and check pages line by line, and the library holds more than 70,000 free ebooks, mostly older works whose copyright has run out."
+    }
+  ],
+  "tags": [
+    "ebooks",
+    "libraries",
+    "internet",
+    "firsts"
+  ],
+  "related": [
+    "recaptcha-books",
+    "arpanet-lo",
+    "penguin-paperbacks",
+    "caxton-eggs",
+    "the-martian-blog",
+    "library-of-babel"
+  ]
+}

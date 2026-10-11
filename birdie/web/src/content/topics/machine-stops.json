@@ -1,0 +1,43 @@
+{
+  "id": "machine-stops",
+  "title": "E. M. Forster's The Machine Stops",
+  "category": "Books",
+  "hook": "In 1909 a novelist imagined people living alone and talking through screens.",
+  "peek": "E. M. Forster, better known for gentle novels about English manners, wrote a science fiction story in 1909 in which people live alone in rooms, talk to friends through glowing screens and almost never go outside. It reads like an early sketch of life online.",
+  "lede": "E. M. Forster is remembered for A Room with a View and Howards End. But in 1909 he published a short story set far in the future, where humanity lives underground, each person in a single room. A vast Machine supplies food, music and conversation. People rarely meet in person, and most have stopped wanting to.",
+  "bullets": [
+    {
+      "opening": "Vashti's hexagonal room",
+      "linkId": null,
+      "text": "The story follows Vashti, who almost never leaves her room. She summons food, baths and lectures by pressing buttons, gives talks to an audience she never sees, and finds the idea of travelling to meet someone in person faintly embarrassing."
+    },
+    {
+      "opening": "Talking through glowing plates",
+      "linkId": null,
+      "text": "People speak through a round plate that shows a moving image of the other person. Vashti's son Kuno calls her this way, and she notices the image is good enough for daily life but misses something real about him."
+    },
+    {
+      "opening": "A reply to H. G. Wells",
+      "linkId": null,
+      "text": "Forster later said the story was a reaction to the hopeful future worlds of H. G. Wells. Where Wells imagined machines setting people free, Forster wondered whether comfort and constant contact might leave them more isolated."
+    },
+    {
+      "opening": "The Book of the Machine",
+      "linkId": null,
+      "text": "Everyone keeps a manual explaining how to use the Machine, and over time people treat it with near reverence. Kuno rebels by going up to the surface, and the title hints at what finally happens to a world that forgot how to fix its own system."
+    }
+  ],
+  "tags": [
+    "science-fiction",
+    "internet",
+    "predictions",
+    "short-stories"
+  ],
+  "related": [
+    "gibson-cyberspace",
+    "snow-crash-metaverse",
+    "asimov-three-laws",
+    "robot-word",
+    "fahrenheit-451-typewriter"
+  ]
+}
