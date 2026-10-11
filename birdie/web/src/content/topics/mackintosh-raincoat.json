@@ -1,0 +1,43 @@
+{
+  "id": "mackintosh-raincoat",
+  "title": "The mackintosh raincoat",
+  "category": "Fashion",
+  "hook": "The mac is named after a Glasgow chemist who sealed rubber between layers of cloth.",
+  "peek": "In 1823 Charles Macintosh patented a way to make cloth waterproof by sandwiching rubber between two layers. The coats that followed carried his name, though with an extra letter he never used.",
+  "lede": "Charles Macintosh was a Scottish chemist, not a tailor. In 1823 he patented a waterproof cloth made by spreading a rubber solution between two layers of fabric and pressing them together. Coats made from it became known as macintoshes. Somewhere along the way the word picked up a k, and mackintosh is now the usual spelling for the coat.",
+  "bullets": [
+    {
+      "opening": "Rubber dissolved in naphtha",
+      "linkId": null,
+      "text": "The trick was finding something that would dissolve rubber. Macintosh used naphtha, a by-product of the coal tar left over at Glasgow's gasworks, which turned rubber into a paste that could be spread on cloth."
+    },
+    {
+      "opening": "Stiff in winter, sticky in summer",
+      "linkId": null,
+      "text": "Early macs were far from perfect. Untreated rubber went stiff in cold weather and tacky in hot weather, and the coats had a strong smell. Stitching the cloth also made holes that could let rain in."
+    },
+    {
+      "opening": "Thomas Hancock's improvements",
+      "linkId": null,
+      "text": "Macintosh joined forces with Thomas Hancock, a rubber manufacturer. Once vulcanised rubber arrived in the 1840s, staying flexible in heat and cold, the waterproof cloth became far more practical."
+    },
+    {
+      "opening": "The extra k",
+      "linkId": null,
+      "text": "The spelling mackintosh appeared early, perhaps because it matches the common Scottish surname. The company that grew from his work still makes rubberised coats in Scotland, and it spells its name Mackintosh."
+    }
+  ],
+  "tags": [
+    "fashion",
+    "inventors",
+    "names",
+    "weather"
+  ],
+  "related": [
+    "vulcanized-rubber",
+    "gore-tex",
+    "bowler-hat",
+    "denim-de-nimes",
+    "silly-putty"
+  ]
+}

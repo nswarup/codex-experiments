@@ -1,0 +1,43 @@
+{
+  "id": "barleycorn-shoe-sizes",
+  "title": "Shoe sizes and barleycorns",
+  "category": "Fashion",
+  "hook": "English shoe sizes go up a third of an inch at a time: the length of a barleycorn.",
+  "peek": "In the UK and US, each whole shoe size is a third of an inch longer than the last. That step is an old English unit called the barleycorn, from a time when three grains of barley were said to make an inch.",
+  "lede": "In medieval England an inch was described as three grains of barley laid end to end. That made the barleycorn a unit of length, about a third of an inch. Shoe sizes in Britain and America still grow in exactly that step: go up one whole size and the shoe gets one barleycorn longer.",
+  "bullets": [
+    {
+      "opening": "Three barleycorns to an inch",
+      "linkId": null,
+      "text": "English measurement rules from the Middle Ages described the inch as three dry, round grains of barley. Real grains vary in size, so this was more a way of describing the inch than a practical measuring tool."
+    },
+    {
+      "opening": "The Edward II story",
+      "linkId": null,
+      "text": "It is often said that King Edward II set shoe sizes in barleycorns in 1324. Historians doubt this. The earliest clear description of the system comes from Randle Holme's book The Academy of Armory, published in 1688."
+    },
+    {
+      "opening": "Children's and adult sizes",
+      "linkId": null,
+      "text": "British children's sizes run up to 13, then the count starts again at adult size 1. Every step in both runs is a third of an inch, with half sizes in between."
+    },
+    {
+      "opening": "The Paris point",
+      "linkId": null,
+      "text": "Continental Europe sizes shoes in Paris points, each two-thirds of a centimetre. Because a barleycorn and a Paris point are different lengths, English and European shoe sizes never line up neatly."
+    }
+  ],
+  "tags": [
+    "fashion",
+    "measurement",
+    "history-of-things",
+    "myths-busted"
+  ],
+  "related": [
+    "left-and-right-shoes",
+    "metre-from-meridian",
+    "heels-for-men",
+    "crocs-boat-shoe",
+    "chuck-taylor"
+  ]
+}

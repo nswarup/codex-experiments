@@ -1,0 +1,43 @@
+{
+  "id": "bowler-hat",
+  "title": "The bowler hat",
+  "category": "Fashion",
+  "hook": "The bowler hat was designed in 1849 to stay on a gamekeeper's head on horseback.",
+  "peek": "In 1849 a London hat shop was asked for a hard, low hat for gamekeepers who rode through woods. The result became the bowler, later the everyday hat of City office workers.",
+  "lede": "The bowler began as practical workwear. In 1849 Edward Coke, younger brother of the Earl of Leicester, asked the London hatters James Lock and Co. for a sturdy hat for his gamekeepers. Their tall top hats kept being knocked off by low branches as they rode. Lock's passed the job to the hatmakers Thomas and William Bowler, whose name stuck.",
+  "bullets": [
+    {
+      "opening": "The stamping test",
+      "linkId": null,
+      "text": "The story goes that when Coke came to collect the hat, he put it on the floor and stamped on it hard. It kept its shape, so he paid and left happy. The tale comes from the hatters' own history."
+    },
+    {
+      "opening": "The Coke at Lock's",
+      "linkId": null,
+      "text": "At James Lock and Co., which still trades on St James's Street in London, the hat is called a Coke rather than a bowler. The shop has been selling hats since the 1600s."
+    },
+    {
+      "opening": "Stiffened felt",
+      "linkId": null,
+      "text": "A bowler is felt stiffened with shellac so it keeps its round shape. Its low, rounded crown sits close to the head, which made it far less likely to be swept off than a tall top hat."
+    },
+    {
+      "opening": "The derby in America",
+      "linkId": null,
+      "text": "In the United States the same hat is called a derby. It later became the working uniform of London City clerks and a trademark of comedians such as Charlie Chaplin and Laurel and Hardy."
+    }
+  ],
+  "tags": [
+    "fashion",
+    "names",
+    "design",
+    "history-of-things"
+  ],
+  "related": [
+    "fedora-play",
+    "panama-hat",
+    "mackintosh-raincoat",
+    "hat-trick",
+    "cravat-tie"
+  ]
+}

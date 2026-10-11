@@ -1,0 +1,43 @@
+{
+  "id": "left-and-right-shoes",
+  "title": "When left and right shoes were the same",
+  "category": "Fashion",
+  "hook": "For a long time many shoes had no left or right: both were made alike.",
+  "peek": "Into the 1800s, many shoes were made on a single straight last, so the left and right shoe were identical. Wearers broke them in until each one shaped itself to a foot.",
+  "lede": "A last is the foot-shaped block a shoemaker builds a shoe around. For a long stretch of history, many shoemakers in Europe and America used one straight last for both shoes in a pair. The two shoes came out identical, and it was the wearer's feet that gradually turned one into a left shoe and the other into a right.",
+  "bullets": [
+    {
+      "opening": "Straight lasts",
+      "linkId": null,
+      "text": "Shoes made this way were called straights. They saved the shoemaker time and money, because one last per size was enough instead of a carefully carved left and right pair."
+    },
+    {
+      "opening": "Shaped shoes in earlier times",
+      "linkId": null,
+      "text": "Shoes cut differently for each foot were not a new idea. Some Roman and medieval shoes were shaped left and right. Straights were partly a matter of fashion and cost, not a sign that nobody had noticed feet differ."
+    },
+    {
+      "opening": "Breaking in straights",
+      "linkId": null,
+      "text": "A new pair of straights fitted neither foot especially well. With wear the leather stretched and moulded to the foot inside it, so a shoe slowly became a left or a right."
+    },
+    {
+      "opening": "Copying lathes for lasts",
+      "linkId": null,
+      "text": "In the 1800s, lathes that could copy a shape made it cheap to produce matching left and right lasts in every size. With factory shoemaking, shaped pairs became the norm for everyday shoes by the end of the century."
+    }
+  ],
+  "tags": [
+    "fashion",
+    "history-of-things",
+    "design",
+    "myths-busted"
+  ],
+  "related": [
+    "barleycorn-shoe-sizes",
+    "heels-for-men",
+    "crocs-boat-shoe",
+    "buttons-sides",
+    "chuck-taylor"
+  ]
+}

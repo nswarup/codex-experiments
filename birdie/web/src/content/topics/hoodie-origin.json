@@ -1,0 +1,43 @@
+{
+  "id": "hoodie-origin",
+  "title": "The first hoodies",
+  "category": "Fashion",
+  "hook": "The hooded sweatshirt began as workwear for cold warehouses in upstate New York.",
+  "peek": "Hoods are ancient, but the hooded sweatshirt is usually traced to the 1930s, when the Champion company in Rochester, New York, made them for workers in freezing warehouses. Athletes adopted them soon after.",
+  "lede": "People have worn hoods for centuries, from monks' cowls to medieval capes. The hooded sweatshirt is a much later idea. It is usually credited to Champion, a knitwear company in Rochester, New York, which made hooded sweatshirts in the 1930s for labourers working in cold warehouses through the long upstate winters. Sports teams soon found the same garment useful.",
+  "bullets": [
+    {
+      "opening": "Champion of Rochester",
+      "linkId": null,
+      "text": "The company was started in 1919 by the Feinbloom brothers as the Knickerbocker Knitting Company. It grew into a big maker of sweatshirts for schools and colleges, which helped carry the hooded sweatshirt far beyond warehouses."
+    },
+    {
+      "opening": "Athletes on the sidelines",
+      "linkId": null,
+      "text": "Football and track teams wore hooded sweatshirts to keep warm between plays and during training. From there the hoodie became a college staple, with team names printed across the front."
+    },
+    {
+      "opening": "Champion's Reverse Weave",
+      "linkId": null,
+      "text": "In the late 1930s Champion developed Reverse Weave, cutting the fabric on its side so a sweatshirt shrank much less in length when washed. It became one of the brand's best-known designs."
+    },
+    {
+      "opening": "Rocky's grey sweatshirt",
+      "linkId": null,
+      "text": "In the 1976 film Rocky, Sylvester Stallone trains in a plain grey hooded sweatshirt on cold Philadelphia mornings. The scenes helped tie the hoodie to hard work and determination."
+    }
+  ],
+  "tags": [
+    "fashion",
+    "history-of-things",
+    "sports",
+    "weather"
+  ],
+  "related": [
+    "chuck-taylor",
+    "lacoste-crocodile",
+    "levis-rivet",
+    "nike-waffle-iron",
+    "gore-tex"
+  ]
+}

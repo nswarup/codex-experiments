@@ -1,0 +1,48 @@
+{
+  "id": "paisley-pattern",
+  "title": "The paisley pattern",
+  "category": "Fashion",
+  "hook": "Paisley is a Persian and Indian design named after a weaving town in Scotland.",
+  "peek": "The curved teardrop known as paisley began in Persia and India, and reached Europe on costly Kashmir shawls. A Scottish town copied those shawls so successfully that its name stuck to the pattern.",
+  "lede": "The swirling teardrop shape is far older than its name. In Persian it is called boteh, and it was woven into fine Kashmir shawls for centuries. When those shawls became the height of fashion in Britain around 1800, weavers in Paisley, near Glasgow, made cheaper copies in such numbers that the whole pattern took the town's name.",
+  "bullets": [
+    {
+      "opening": "The boteh motif",
+      "linkId": null,
+      "text": "Boteh is often translated as shrub or bud. Nobody is sure what the shape first stood for: suggestions include a cypress tree, a flame, a seed and a mango, and it may have meant different things in different places."
+    },
+    {
+      "opening": "Kashmir shawls",
+      "linkId": null,
+      "text": "Shawls from Kashmir were woven from the soft undercoat of mountain goats, and the finest could take many months to make. Officials and traders of the East India Company brought them to Britain, where they cost a fortune."
+    },
+    {
+      "opening": "The Paisley shawl mills",
+      "linkId": null,
+      "text": "Edinburgh and Norwich made imitation shawls first, but Paisley's weavers came to dominate in the 1800s. Their versions cost a fraction of the real thing, so the look spread far beyond the very rich."
+    },
+    {
+      "opening": "Jacquard looms in Paisley",
+      "linkId": null,
+      "text": "In the 1800s the town's weavers took up the Jacquard loom, which used punched cards to control the pattern. That made the crowded, many-coloured shawl designs much faster to weave."
+    },
+    {
+      "opening": "The 1960s paisley revival",
+      "linkId": null,
+      "text": "Shawls went out of fashion in the later 1800s, but the pattern never really left. It came back strongly in the 1960s, when Western fashion looked to India and to swirling psychedelic designs."
+    }
+  ],
+  "tags": [
+    "fashion",
+    "patterns",
+    "names",
+    "design"
+  ],
+  "related": [
+    "denim-de-nimes",
+    "jacquard-punch-cards",
+    "perkin-mauve",
+    "aloha-shirt",
+    "cravat-tie"
+  ]
+}

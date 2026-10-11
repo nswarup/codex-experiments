@@ -4938,5 +4938,65 @@
   "id": "spandex-anagram",
   "title": "Spandex is an anagram",
   "category": "Fashion"
+ },
+ {
+  "id": "denim-de-nimes",
+  "title": "Denim is \"de Nîmes\"",
+  "category": "Fashion"
+ },
+ {
+  "id": "paisley-pattern",
+  "title": "The paisley pattern",
+  "category": "Fashion"
+ },
+ {
+  "id": "mackintosh-raincoat",
+  "title": "The mackintosh raincoat",
+  "category": "Fashion"
+ },
+ {
+  "id": "panama-hat",
+  "title": "Panama hats come from Ecuador",
+  "category": "Fashion"
+ },
+ {
+  "id": "fedora-play",
+  "title": "The fedora's name",
+  "category": "Fashion"
+ },
+ {
+  "id": "bowler-hat",
+  "title": "The bowler hat",
+  "category": "Fashion"
+ },
+ {
+  "id": "lacoste-crocodile",
+  "title": "The Lacoste crocodile",
+  "category": "Fashion"
+ },
+ {
+  "id": "hoodie-origin",
+  "title": "The first hoodies",
+  "category": "Fashion"
+ },
+ {
+  "id": "barleycorn-shoe-sizes",
+  "title": "Shoe sizes and barleycorns",
+  "category": "Fashion"
+ },
+ {
+  "id": "left-and-right-shoes",
+  "title": "When left and right shoes were the same",
+  "category": "Fashion"
+ },
+ {
+  "id": "pink-for-boys",
+  "title": "When pink was for boys",
+  "category": "Fashion"
+ },
+ {
+  "id": "white-wedding-dress",
+  "title": "The white wedding dress",
+  "category": "Fashion"
  }
 ]

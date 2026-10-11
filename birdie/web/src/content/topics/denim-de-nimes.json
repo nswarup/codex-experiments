@@ -1,0 +1,43 @@
+{
+  "id": "denim-de-nimes",
+  "title": "Denim is \"de Nîmes\"",
+  "category": "Fashion",
+  "hook": "The word denim is a squashed bit of French meaning \"from Nîmes\".",
+  "peek": "Denim takes its name from serge de Nîmes, a sturdy cloth named after a town in southern France. The name is solid history, but the original French fabric was probably not quite the cotton we wear today.",
+  "lede": "Denim sounds like an English word, but it is shortened French. Serge de Nîmes meant twill cloth from Nîmes, a textile town in the south of France. English traders clipped the name, and over time serge de Nîmes became denim. The fabric then took a long road from French looms to work trousers worn all over the world.",
+  "bullets": [
+    {
+      "opening": "Serge de Nîmes",
+      "linkId": null,
+      "text": "Serge is a twill weave, the kind with fine diagonal ridges. Historians point out that cloth sold under this name was often wool or a wool blend, so the name may have travelled further than the fabric itself."
+    },
+    {
+      "opening": "The Genoa connection",
+      "linkId": null,
+      "text": "Jeans has a separate origin. It most likely comes from Gênes, the French name for the Italian port of Genoa, where a tough cotton cloth was made and worn. Denim and jeans were once two different fabrics."
+    },
+    {
+      "opening": "Blue warp, white weft",
+      "linkId": null,
+      "text": "Denim is woven with indigo-dyed threads running the length of the cloth and undyed white threads running across. That is why jeans are blue on the outside and much paler on the inside."
+    },
+    {
+      "opening": "Indigo fading",
+      "linkId": null,
+      "text": "Indigo clings to the outside of each cotton thread rather than soaking right through. As the surface wears, the white core shows, which is why denim fades at the knees, seams and pockets."
+    }
+  ],
+  "tags": [
+    "fashion",
+    "etymology",
+    "names",
+    "history-of-things"
+  ],
+  "related": [
+    "levis-rivet",
+    "paisley-pattern",
+    "panama-hat",
+    "mackintosh-raincoat",
+    "jacquard-punch-cards"
+  ]
+}

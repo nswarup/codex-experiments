@@ -1,0 +1,43 @@
+{
+  "id": "panama-hat",
+  "title": "Panama hats come from Ecuador",
+  "category": "Fashion",
+  "hook": "Panama hats have always been woven in Ecuador, not in Panama.",
+  "peek": "The classic straw Panama hat is woven by hand in Ecuador from the leaves of a palm-like plant. It got its misleading name from the route it travelled to its buyers.",
+  "lede": "The pale straw hat called a Panama is made in Ecuador and always has been. Weavers in towns such as Montecristi and Cuenca plait it by hand from toquilla straw. In the 1800s many of the hats were shipped through Panama and sold to travellers crossing the isthmus, so buyers named them after the place they bought them.",
+  "bullets": [
+    {
+      "opening": "Toquilla straw",
+      "linkId": null,
+      "text": "The straw comes from the toquilla plant, which looks like a palm but is not a true palm. Its young leaves are split into fine strands, boiled and dried before any weaving begins."
+    },
+    {
+      "opening": "Gold rush travellers",
+      "linkId": null,
+      "text": "Many people heading for the California gold rush around 1849 crossed Panama rather than sail all the way around South America. They bought the light straw hats against the heat and carried the name home."
+    },
+    {
+      "opening": "Roosevelt at the canal",
+      "linkId": null,
+      "text": "In 1906 President Theodore Roosevelt visited the Panama Canal works and was photographed wearing one. The pictures spread widely, and the name became even more firmly tied to Panama."
+    },
+    {
+      "opening": "Montecristi superfinos",
+      "linkId": null,
+      "text": "The finest hats, from Montecristi, are woven so tightly that one can take months to finish. In 2012 UNESCO listed the traditional weaving of the Ecuadorian toquilla straw hat as intangible cultural heritage."
+    }
+  ],
+  "tags": [
+    "fashion",
+    "names",
+    "myths-busted",
+    "maps"
+  ],
+  "related": [
+    "denim-de-nimes",
+    "fedora-play",
+    "bowler-hat",
+    "tuxedo-park",
+    "panama-palindrome"
+  ]
+}

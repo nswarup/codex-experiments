@@ -1,0 +1,43 @@
+{
+  "id": "fedora-play",
+  "title": "The fedora's name",
+  "category": "Fashion",
+  "hook": "The fedora is named after a stage heroine, and it started out as a women's hat.",
+  "peek": "In 1882 a French play called Fédora opened in Paris, with Sarah Bernhardt in the title role. The soft, creased hat she wore took the play's name, long before it became a classic men's hat.",
+  "lede": "The fedora takes its name from Fédora, an 1882 play by the French writer Victorien Sardou. The star was Sarah Bernhardt, the most famous actress of her day, playing a Russian princess called Fédora. In the usual account, her soft felt hat with a creased crown caught on, and fedora became the name for the style, first taken up by women.",
+  "bullets": [
+    {
+      "opening": "Victorien Sardou's Fédora",
+      "linkId": null,
+      "text": "Sardou wrote the play for Bernhardt, and it was a big success. It is a high-drama tale of a princess and a lost love, and it later inspired an opera, Fedora, by Umberto Giordano in 1898."
+    },
+    {
+      "opening": "Sarah Bernhardt's style",
+      "linkId": null,
+      "text": "Bernhardt was a fashion leader as well as a star, and audiences copied what she wore. The soft hat named after her role became a women's fashion in the 1880s and 1890s."
+    },
+    {
+      "opening": "The pinched crown",
+      "linkId": null,
+      "text": "A fedora has a soft brim and a crown with a lengthwise crease and two pinches at the front. Its soft felt was a change from stiff men's hats like the top hat and the bowler."
+    },
+    {
+      "opening": "From women's hat to men's",
+      "linkId": null,
+      "text": "By the early 1900s men had adopted the fedora. Prince Edward, later Edward VIII, is often credited with making it fashionable in the 1920s, and it became a standard men's hat for decades."
+    }
+  ],
+  "tags": [
+    "fashion",
+    "names",
+    "etymology",
+    "theatre"
+  ],
+  "related": [
+    "bowler-hat",
+    "panama-hat",
+    "little-black-dress",
+    "tuxedo-park",
+    "heels-for-men"
+  ]
+}

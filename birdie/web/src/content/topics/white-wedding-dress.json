@@ -1,0 +1,43 @@
+{
+  "id": "white-wedding-dress",
+  "title": "The white wedding dress",
+  "category": "Fashion",
+  "hook": "White wedding dresses took off after Queen Victoria wore one in 1840.",
+  "peek": "When Queen Victoria married Prince Albert in 1840, she wore white satin and lace. Pictures of the wedding spread, and over the following decades the white dress became the bride's choice across Britain, America and beyond.",
+  "lede": "Before 1840, most brides married in their best dress, in whatever colour they owned, and wore it again afterwards. Blue, grey and brown were all common. Then Queen Victoria married Prince Albert on 10 February 1840 in a white satin gown trimmed with lace. She was not the first bride in white, but she made it the fashion.",
+  "bullets": [
+    {
+      "opening": "Victoria's satin gown",
+      "linkId": null,
+      "text": "The dress was made of white silk satin, with deep flounces of Honiton lace from Devon. Victoria chose British-made materials partly to support the lace trade, which was struggling at the time. She kept and reused the lace for years."
+    },
+    {
+      "opening": "Brides in white before Victoria",
+      "linkId": null,
+      "text": "White was not brand new. Mary, Queen of Scots wore white at her first wedding in 1558, and some wealthy brides chose it before 1840. Royal brides, though, more often wore silver or rich colours."
+    },
+    {
+      "opening": "Engravings and magazines",
+      "linkId": null,
+      "text": "Pictures of Victoria's wedding were printed and copied widely, and women's magazines such as Godey's Lady's Book in America praised white as the fitting colour for a bride."
+    },
+    {
+      "opening": "White as a luxury",
+      "linkId": null,
+      "text": "A white dress was hard to keep clean and rarely worn again, so it showed a family could afford a gown for a single day. For many brides, a best dress in any colour stayed normal into the 1900s."
+    }
+  ],
+  "tags": [
+    "fashion",
+    "color",
+    "history-of-things",
+    "royals"
+  ],
+  "related": [
+    "pink-for-boys",
+    "little-black-dress",
+    "pandora-dolls",
+    "perkin-mauve",
+    "nylon-stockings"
+  ]
+}
