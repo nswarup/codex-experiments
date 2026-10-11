@@ -4,7 +4,7 @@
   "category": "Games",
   "hook": "In 1961 a pile of matchboxes and coloured beads learned to play noughts and crosses.",
   "peek": "Donald Michie had no computer to spare, so he built a learning machine out of about 300 matchboxes full of beads. It began by playing at random and, rewarded for wins and punished for losses, slowly became hard to beat.",
-  "lede": "In 1961 the British researcher Donald Michie wanted to show that a machine could learn from experience, but computers were scarce. So he built one from matchboxes. He called it MENACE, the Machine Educable Noughts And Crosses Engine. It started out knowing nothing beyond the rules, and it got better simply by keeping score of what worked.",
+  "lede": "In 1961 the British researcher Donald Michie wanted to show that a machine could learn from experience, but computers were scarce. So he built one from matchboxes. He called it MENACE, the Matchbox Educable Noughts And Crosses Engine. It started out knowing nothing beyond the rules, and it got better simply by keeping score of what worked.",
   "bullets": [
     {
       "opening": "A box for every position",
