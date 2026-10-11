@@ -1,0 +1,43 @@
+{
+  "id": "satie-vexations",
+  "title": "Satie's Vexations",
+  "category": "Music",
+  "hook": "A one-page piano piece that, played as marked, lasts most of a day.",
+  "peek": "Erik Satie wrote a short, strange piano piece with a note suggesting it be played 840 times. In 1963 John Cage organised a relay of pianists in New York who did exactly that. It took about 18 hours.",
+  "lede": "Around 1893, Erik Satie wrote Vexations: a slow, unsettled theme that fits on a single page and lasts a minute or two. Above it he left a cryptic note. It says that to play this motif 840 times in a row, one should prepare in deep silence. Nobody knows whether Satie meant it seriously, but in 1963 a group of musicians decided to find out.",
+  "bullets": [
+    {
+      "opening": "The cryptic instruction",
+      "linkId": null,
+      "text": "Some scholars read the note as a real performance direction, others as one of Satie's dry jokes. The piece was not published in his lifetime and only became widely known decades later."
+    },
+    {
+      "opening": "The 1963 Pocket Theatre performance",
+      "linkId": null,
+      "text": "John Cage organised the first complete performance at the Pocket Theatre in New York. A team of pianists took turns at the keyboard in shifts, and the piece ran for roughly 18 hours."
+    },
+    {
+      "opening": "The relay of pianists",
+      "linkId": null,
+      "text": "The team included Cage himself, the pianist David Tudor and a young John Cale, who later co-founded the Velvet Underground. Each player kept count of repetitions so the total reached 840."
+    },
+    {
+      "opening": "Vexations marathons today",
+      "linkId": null,
+      "text": "The piece now draws regular marathon concerts, sometimes by one pianist alone. Players describe the strange way the music seems to change in the mind even though not a note of it does."
+    }
+  ],
+  "tags": [
+    "records",
+    "time",
+    "repetition",
+    "myths-busted"
+  ],
+  "related": [
+    "cage-433",
+    "organ-aslsp",
+    "ravel-bolero",
+    "semantic-satiation",
+    "speech-to-song-illusion"
+  ]
+}

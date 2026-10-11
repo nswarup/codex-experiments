@@ -1,0 +1,43 @@
+{
+  "id": "twinkle-tune",
+  "title": "Twinkle, Twinkle, Mozart and the ABCs",
+  "category": "Music",
+  "hook": "Twinkle, Twinkle, the alphabet song and Baa, Baa share one French tune.",
+  "peek": "Sing Twinkle, Twinkle, Little Star, then the ABC song, then Baa, Baa, Black Sheep. They are the same melody, an 18th-century French tune. Mozart wrote famous variations on it, but he did not compose it.",
+  "lede": "Three of the first songs many English-speaking children learn use one melody. It began as a French song, Ah vous dirai-je, maman, which first appeared in print in 1761. Its simple shape, up a step, hold, then gently down, made it easy to fit to new words. People often credit Mozart with the tune, but he only borrowed it.",
+  "bullets": [
+    {
+      "opening": "Ah vous dirai-je, maman",
+      "linkId": null,
+      "text": "The French title means oh, shall I tell you, mother. The earliest known words are a young woman's confession to her mother that she has fallen in love, and the tune spread quickly across Europe as a popular air."
+    },
+    {
+      "opening": "Mozart's twelve variations",
+      "linkId": null,
+      "text": "Around 1781 or 1782, Mozart wrote twelve piano variations on the melody. They dress the simple tune in runs, minor keys and flourishes, and are a favourite of piano students."
+    },
+    {
+      "opening": "Jane Taylor's poem The Star",
+      "linkId": null,
+      "text": "The words of Twinkle, Twinkle come from a poem by the English writer Jane Taylor, published in 1806. Only later was it paired with the French melody."
+    },
+    {
+      "opening": "The ABC song",
+      "linkId": null,
+      "text": "The alphabet song was copyrighted in Boston in 1835 by the publisher Charles Bradlee, who described the tune as a German air. Fitting 26 letters into the melody is why L, M, N, O and P famously blur together."
+    }
+  ],
+  "tags": [
+    "patterns",
+    "myths-busted",
+    "history-of-things",
+    "childhood"
+  ],
+  "related": [
+    "mozart-starling",
+    "happy-birthday-copyright",
+    "solfege-hymn",
+    "pachelbel-canon",
+    "mozart-effect"
+  ]
+}

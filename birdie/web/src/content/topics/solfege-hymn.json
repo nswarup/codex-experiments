@@ -1,0 +1,44 @@
+{
+  "id": "solfege-hymn",
+  "title": "Where do-re-mi came from",
+  "category": "Music",
+  "hook": "Do-re-mi began as the first syllables of a medieval hymn.",
+  "peek": "Around 1025, the Italian monk Guido of Arezzo noticed that each line of a hymn to St John began one note higher than the last. He used the first syllable of each line to name the notes, and singers still use them today.",
+  "lede": "Guido of Arezzo was a Benedictine monk who taught choirboys, and he wanted them to learn new chants faster. He chose a Latin hymn, Ut queant laxis, whose six lines each start on the next note up the scale. The opening syllables were ut, re, mi, fa, sol and la. Sing the hymn in your head, Guido said, and you can find any note.",
+  "bullets": [
+    {
+      "opening": "Ut queant laxis",
+      "linkId": null,
+      "text": "The hymn's first line begins Ut queant laxis resonare fibris. The following lines start with re, mi, fa, sol and la, each one step higher, which is what made the tune a perfect ladder for learning."
+    },
+    {
+      "opening": "Ut becomes do",
+      "linkId": null,
+      "text": "Ut is hard to sing on, so in the 17th century Italian singers swapped it for do. The reason for the choice is disputed: some say it came from Dominus, others from the theorist Giovanni Battista Doni."
+    },
+    {
+      "opening": "Si and then ti",
+      "linkId": null,
+      "text": "A seventh syllable, si, was added later, probably from the hymn's last line, Sancte Iohannes. In the 19th century the English teacher Sarah Glover changed it to ti, so every syllable began with a different letter."
+    },
+    {
+      "opening": "The Guidonian hand",
+      "linkId": null,
+      "text": "Guido's followers also taught singers to treat the joints of the left hand as a map of notes. A teacher could point to a knuckle and the choir would know which pitch to sing."
+    }
+  ],
+  "tags": [
+    "etymology",
+    "names",
+    "memory",
+    "history-of-things"
+  ],
+  "related": [
+    "hurrian-hymn",
+    "a440-concert-pitch",
+    "pythagorean-comma",
+    "bach-motif",
+    "perfect-pitch",
+    "memory-palace"
+  ]
+}

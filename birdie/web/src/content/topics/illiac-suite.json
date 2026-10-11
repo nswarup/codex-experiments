@@ -1,0 +1,44 @@
+{
+  "id": "illiac-suite",
+  "title": "The Illiac Suite",
+  "category": "Music",
+  "hook": "In 1957 a room-sized computer helped write a string quartet.",
+  "peek": "At the University of Illinois in the 1950s, two scientists set their early computer, ILLIAC I, to compose music using rules and random numbers. The result, the Illiac Suite for string quartet, is usually called the first score composed by a computer.",
+  "lede": "Lejaren Hiller was a chemist and composer at the University of Illinois. With the mathematician Leonard Isaacson, he wondered whether the university's computer, ILLIAC I, could write music. The machine generated random notes and kept only those that passed rules drawn from music theory. Players then performed the printed result. Completed in 1957, the Illiac Suite is often called the first score written by an electronic computer.",
+  "bullets": [
+    {
+      "opening": "The ILLIAC I computer",
+      "linkId": null,
+      "text": "Built at the university in 1952, ILLIAC I filled a room and ran on thousands of vacuum tubes. It was designed for scientific calculation, which made composing a string quartet an unusual job."
+    },
+    {
+      "opening": "Four musical experiments",
+      "linkId": null,
+      "text": "The suite has four movements, each called an experiment. The first follows strict old rules of counterpoint, while later ones try freer styles, rhythm changes and even modern twelve-tone ideas."
+    },
+    {
+      "opening": "Markov chains in music",
+      "linkId": null,
+      "text": "The last movement chose each note based on the probability of what came before. This method, called a Markov chain, is a distant ancestor of the statistical tricks used in music software today."
+    },
+    {
+      "opening": "Hiller's String Quartet No. 4",
+      "linkId": null,
+      "text": "Hiller counted the Illiac Suite as his fourth string quartet. He and Isaacson published a 1959 book describing the method, and he went on to make computer music for the rest of his career."
+    }
+  ],
+  "tags": [
+    "ai",
+    "music-tech",
+    "probability",
+    "computing-firsts"
+  ],
+  "related": [
+    "daisy-bell-computer",
+    "switched-on-bach",
+    "midi",
+    "perceptron-1958",
+    "eliza-chatbot",
+    "infinite-monkey-theorem"
+  ]
+}

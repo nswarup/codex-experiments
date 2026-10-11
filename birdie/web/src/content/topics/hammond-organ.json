@@ -1,0 +1,43 @@
+{
+  "id": "hammond-organ",
+  "title": "The Hammond organ's day in court",
+  "category": "Music",
+  "hook": "A US government agency once held listening tests to see if an organ was real.",
+  "peek": "When the electric Hammond organ appeared in 1935, its maker said it could match a pipe organ. The US Federal Trade Commission disagreed, and in the late 1930s it put the claim to a listening test.",
+  "lede": "Laurens Hammond, an engineer who had made his name with electric clocks, launched his electric organ in 1935. It was cheaper and far smaller than a pipe organ, and the adverts claimed it could produce real church organ tone. Rival makers objected, and the Federal Trade Commission brought a complaint. The case turned on a simple question: could listeners actually hear the difference?",
+  "bullets": [
+    {
+      "opening": "Spinning tonewheels",
+      "linkId": null,
+      "text": "Instead of pipes and air, the Hammond used rows of notched metal wheels turned by one motor. Each wheel spun past a magnetic pickup and made a steady electrical tone, a trick borrowed from Hammond's clock work."
+    },
+    {
+      "opening": "The Rockefeller Chapel test",
+      "linkId": null,
+      "text": "For the hearing, the Hammond was compared with a large pipe organ at the University of Chicago's chapel. Listeners, including trained musicians, heard passages on each instrument without seeing which was playing, and they often guessed wrong."
+    },
+    {
+      "opening": "The Commission's ruling",
+      "linkId": null,
+      "text": "Hammond did not win outright. In 1938 the Commission ordered the company to stop some of its strongest advertising claims, though the organ itself went on selling to churches, homes and dance halls."
+    },
+    {
+      "opening": "Drawbars and Leslie speakers",
+      "linkId": null,
+      "text": "Sliding drawbars let players mix tonewheel tones like a painter mixing colours. Paired with the rotating Leslie speaker, the Hammond became the warm, swirling voice of gospel, jazz and rock organ."
+    }
+  ],
+  "tags": [
+    "music-tech",
+    "inventors",
+    "acoustics",
+    "perception"
+  ],
+  "related": [
+    "mellotron",
+    "theremin",
+    "stalacpipe-organ",
+    "yamaha-dx7",
+    "switched-on-bach"
+  ]
+}

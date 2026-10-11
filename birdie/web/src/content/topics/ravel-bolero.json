@@ -1,0 +1,43 @@
+{
+  "id": "ravel-bolero",
+  "title": "Ravel's Boléro",
+  "category": "Music",
+  "hook": "Ravel called his most famous piece an experiment with no music in it.",
+  "peek": "Boléro repeats one melody over and over above a steady snare drum, growing louder for about 15 minutes. Maurice Ravel thought of it as a narrow experiment in orchestration. It became the most famous thing he ever wrote.",
+  "lede": "In 1928 the dancer Ida Rubinstein asked Maurice Ravel for a ballet score. He wrote something deliberately simple: one long melody and its answer, repeated again and again over an unchanging snare drum rhythm, while new instruments join and the volume grows. Ravel described it as an experiment, orchestral tissue without music. Audiences loved it, and Boléro soon outshone everything else he wrote.",
+  "bullets": [
+    {
+      "opening": "The snare drum rhythm",
+      "linkId": null,
+      "text": "A single snare drum taps the same two-bar pattern from the first bar almost to the last. The player has to keep it perfectly steady for the whole piece, starting so quietly it is barely heard."
+    },
+    {
+      "opening": "Orchestral colour as the subject",
+      "linkId": null,
+      "text": "Since the tune barely changes, the interest lies in who plays it. Ravel passes it from flute to clarinet to saxophones and beyond, and at one point pairs instruments in different keys to make an organ-like sound."
+    },
+    {
+      "opening": "The one key change",
+      "linkId": null,
+      "text": "For almost the whole piece Boléro stays in C major. Near the end it suddenly lurches up into E major for a few bars, then swings back, and that jolt is what makes the finale feel like it bursts."
+    },
+    {
+      "opening": "Ravel and Toscanini's tempo",
+      "linkId": null,
+      "text": "When the conductor Arturo Toscanini played it much faster than written in 1930, Ravel objected. He wanted the steady, unhurried pace kept, because the whole effect depends on a slow, relentless build."
+    }
+  ],
+  "tags": [
+    "repetition",
+    "patterns",
+    "orchestras",
+    "myths-busted"
+  ],
+  "related": [
+    "satie-vexations",
+    "pachelbel-canon",
+    "haydn-farewell",
+    "rhapsody-in-blue-glissando",
+    "celesta-sugar-plum"
+  ]
+}

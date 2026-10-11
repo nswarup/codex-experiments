@@ -1,0 +1,43 @@
+{
+  "id": "pachelbel-canon",
+  "title": "How Pachelbel's Canon got famous",
+  "category": "Music",
+  "hook": "The wedding favourite was barely known until a 1968 recording.",
+  "peek": "Johann Pachelbel wrote his Canon in D in the late 1600s, and then it slipped out of sight for centuries. A slow, lush 1968 recording by Jean-François Paillard helped turn it into the tune that now plays at countless weddings.",
+  "lede": "Johann Pachelbel was a respected German organist of the 17th century who taught members of the Bach family. His Canon in D, written for three violins and a bass line, survived in a single manuscript copy and was not printed until 1919. Then in 1968 Jean-François Paillard's chamber orchestra recorded it at a slower, warmer pace, and the piece began its climb to fame.",
+  "bullets": [
+    {
+      "opening": "A canon over a ground bass",
+      "linkId": null,
+      "text": "The bass plays the same eight notes 28 times. Above it, three violins play one long melody, each starting two bars after the last, like singers in a round."
+    },
+    {
+      "opening": "The Paillard recording",
+      "linkId": null,
+      "text": "Paillard's version added a richer, slower sound than the light Baroque style of earlier performances. It sold widely in the early 1970s, and the canon soon turned up in films, adverts and wedding processions."
+    },
+    {
+      "opening": "Ordinary People in 1980",
+      "linkId": null,
+      "text": "The film Ordinary People used the canon as its main theme. That helped fix the piece as a symbol of calm and ceremony for a new audience."
+    },
+    {
+      "opening": "The Pachelbel chord pattern",
+      "linkId": null,
+      "text": "The canon's repeating chords have been reused in countless pop songs. Maroon 5's 2019 hit Memories openly borrows the progression, and comedians have built whole routines around spotting it everywhere."
+    }
+  ],
+  "tags": [
+    "patterns",
+    "repetition",
+    "history-of-things",
+    "weddings"
+  ],
+  "related": [
+    "ravel-bolero",
+    "twinkle-tune",
+    "bach-motif",
+    "happy-birthday-copyright",
+    "mere-exposure-effect"
+  ]
+}

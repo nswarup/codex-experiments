@@ -1,0 +1,44 @@
+{
+  "id": "mellotron",
+  "title": "The Mellotron",
+  "category": "Music",
+  "hook": "Each key plays a strip of real tape, so no note can last past eight seconds.",
+  "peek": "The Mellotron looks like an organ but works like a shelf of tape recorders. Every key starts its own short recording of a real flute, violin or choir, and after about eight seconds the tape simply runs out.",
+  "lede": "Long before digital samplers, the Mellotron offered real orchestral sounds at the touch of a key. Under each key sits a strip of magnetic tape holding a recording of an actual instrument playing that note. Press the key and a pinch roller pulls the tape across a playback head. Hold it for more than about eight seconds and the sound stops: the tape has reached its end.",
+  "bullets": [
+    {
+      "opening": "Spring-loaded tape strips",
+      "linkId": null,
+      "text": "When you let go of a key, a spring pulls its strip back to the start, ready for the next note. This is why Mellotron players learned to shift chords before the tapes ran out."
+    },
+    {
+      "opening": "The Chamberlin before it",
+      "linkId": null,
+      "text": "The idea came from the American inventor Harry Chamberlin, who built tape-based keyboards in the 1950s. The Bradley brothers in Birmingham, England, developed their own version, and the Mellotron went on sale in the early 1960s."
+    },
+    {
+      "opening": "Strawberry Fields Forever",
+      "linkId": null,
+      "text": "The soft, wobbly flute sound that opens the Beatles' 1967 song is a Mellotron. Groups such as the Moody Blues and King Crimson leaned on its strings and choirs to sound orchestral without hiring an orchestra."
+    },
+    {
+      "opening": "The charming wobble",
+      "linkId": null,
+      "text": "Because each note is a physical tape, pitch drifts slightly and attack varies from key to key. Players once called this a flaw, but that unsteady, breathy quality is exactly what fans now love about it."
+    }
+  ],
+  "tags": [
+    "music-tech",
+    "inventors",
+    "history-of-things",
+    "recorded-sound"
+  ],
+  "related": [
+    "theremin",
+    "switched-on-bach",
+    "orchestra-hit",
+    "hammond-organ",
+    "les-paul-overdub",
+    "roland-tr-808"
+  ]
+}

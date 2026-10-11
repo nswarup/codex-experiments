@@ -1,0 +1,43 @@
+{
+  "id": "pianoforte-name",
+  "title": "Why the piano is called 'soft-loud'",
+  "category": "Music",
+  "hook": "The piano's real name means soft-loud, the one trick a harpsichord could not do.",
+  "peek": "The word piano is short for pianoforte, Italian for soft-loud. Its inventor, Bartolomeo Cristofori, built a keyboard that played quietly or loudly depending on how hard you pressed, something a harpsichord could never manage.",
+  "lede": "Around 1700 in Florence, Bartolomeo Cristofori, keeper of instruments for Prince Ferdinando de' Medici, built a new kind of keyboard. A harpsichord plucks its strings, so every note comes out at roughly the same volume however you press the key. Cristofori's instrument struck the strings with small hammers instead, so a gentle touch gave a soft note and a firm one gave a loud note.",
+  "bullets": [
+    {
+      "opening": "Gravicembalo col piano e forte",
+      "linkId": null,
+      "text": "Cristofori's invention was described as a harpsichord with soft and loud. That long name shrank to pianoforte, then fortepiano for early models, and finally just piano."
+    },
+    {
+      "opening": "Hammers that fall away",
+      "linkId": null,
+      "text": "The clever part was the escapement, which lets each hammer strike the string and drop back at once instead of resting on it. Without it the hammer would mute the very note it had just played."
+    },
+    {
+      "opening": "The surviving Cristofori pianos",
+      "linkId": null,
+      "text": "Only three of Cristofori's pianos survive. The oldest, dated 1720, is in the Metropolitan Museum of Art in New York, and another is in Rome."
+    },
+    {
+      "opening": "A slow start",
+      "linkId": null,
+      "text": "The new instrument caught on gradually. It took most of the 18th century, and improvements by German and English makers, before the piano pushed the harpsichord aside in homes and concert halls."
+    }
+  ],
+  "tags": [
+    "names",
+    "etymology",
+    "inventors",
+    "history-of-things"
+  ],
+  "related": [
+    "stradivarius",
+    "glass-armonica",
+    "maelzel-metronome",
+    "a440-concert-pitch",
+    "celesta-sugar-plum"
+  ]
+}

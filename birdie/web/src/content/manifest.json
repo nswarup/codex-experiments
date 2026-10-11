@@ -3408,5 +3408,65 @@
   "id": "oxford-comma-dairy",
   "title": "The missing comma that cost $5 million",
   "category": "Language"
+ },
+ {
+  "id": "mellotron",
+  "title": "The Mellotron",
+  "category": "Music"
+ },
+ {
+  "id": "hammond-organ",
+  "title": "The Hammond organ's day in court",
+  "category": "Music"
+ },
+ {
+  "id": "glass-armonica",
+  "title": "Ben Franklin's glass armonica",
+  "category": "Music"
+ },
+ {
+  "id": "pianoforte-name",
+  "title": "Why the piano is called 'soft-loud'",
+  "category": "Music"
+ },
+ {
+  "id": "illiac-suite",
+  "title": "The Illiac Suite",
+  "category": "Music"
+ },
+ {
+  "id": "solfege-hymn",
+  "title": "Where do-re-mi came from",
+  "category": "Music"
+ },
+ {
+  "id": "twinkle-tune",
+  "title": "Twinkle, Twinkle, Mozart and the ABCs",
+  "category": "Music"
+ },
+ {
+  "id": "organ-aslsp",
+  "title": "The 639-year organ piece",
+  "category": "Music"
+ },
+ {
+  "id": "satie-vexations",
+  "title": "Satie's Vexations",
+  "category": "Music"
+ },
+ {
+  "id": "ravel-bolero",
+  "title": "Ravel's Boléro",
+  "category": "Music"
+ },
+ {
+  "id": "pachelbel-canon",
+  "title": "How Pachelbel's Canon got famous",
+  "category": "Music"
+ },
+ {
+  "id": "yesterday-scrambled-eggs",
+  "title": "'Yesterday' was 'Scrambled Eggs'",
+  "category": "Music"
  }
 ]

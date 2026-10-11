@@ -1,0 +1,43 @@
+{
+  "id": "organ-aslsp",
+  "title": "The 639-year organ piece",
+  "category": "Music",
+  "hook": "A German church organ is playing one piece of music until the year 2640.",
+  "peek": "In Halberstadt, Germany, a small organ is performing John Cage's As Slow As Possible. The concert began in 2001 and is planned to end in 2640. Each chord can last for years, and visitors come to hear the changes.",
+  "lede": "John Cage wrote ASLSP, short for As Slow As Possible, and its organ version Organ²/ASLSP in 1987. He never said how slow that should be. In 1997 a group of musicians and thinkers asked what slow could mean for an organ, whose pipes can sound for as long as air flows. Their answer: a performance at St Burchardi church in Halberstadt lasting 639 years.",
+  "bullets": [
+    {
+      "opening": "Why 639 years",
+      "linkId": null,
+      "text": "Halberstadt's cathedral was home to a famous organ built in 1361, often described as an early ancestor of the modern keyboard layout. The year 2000 was 639 years later, so the performance was set to run 639 years more."
+    },
+    {
+      "opening": "A silent first chord",
+      "linkId": null,
+      "text": "The concert began on 5 September 2001 with a rest, because the score opens with silence. The first notes did not sound until February 2003, about 17 months later."
+    },
+    {
+      "opening": "The chord changes",
+      "linkId": null,
+      "text": "Weights hold the keys down, and electric bellows keep the air flowing. When the score calls for a change, pipes are added or removed in a small ceremony, and these moments draw crowds of visitors."
+    },
+    {
+      "opening": "Sponsoring a year",
+      "linkId": null,
+      "text": "The project is funded partly by people who sponsor a year of the performance and get a small plaque. Many years are already taken, including some far in the future, centuries after their sponsors' own time."
+    }
+  ],
+  "tags": [
+    "time",
+    "records",
+    "patience",
+    "architecture"
+  ],
+  "related": [
+    "cage-433",
+    "satie-vexations",
+    "clock-of-the-long-now",
+    "pitch-drop-experiment",
+    "stalacpipe-organ"
+  ]
+}

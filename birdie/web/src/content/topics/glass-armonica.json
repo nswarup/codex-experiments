@@ -1,0 +1,44 @@
+{
+  "id": "glass-armonica",
+  "title": "Ben Franklin's glass armonica",
+  "category": "Music",
+  "hook": "Benjamin Franklin invented an instrument you play with wet fingertips.",
+  "peek": "In 1761 Benjamin Franklin built an instrument of nested glass bowls spinning on a rod. Played with damp fingers, it gave a pure, ringing tone, and Mozart and Beethoven both wrote music for it.",
+  "lede": "Anyone who has run a wet finger round a wine glass knows the ringing sound it makes. In the 18th century, players in England performed tunes on rows of tuned glasses filled with water. Benjamin Franklin saw such a performance and, in 1761, built something tidier: glass bowls of graded sizes, nested on an iron rod and turned by a foot pedal.",
+  "bullets": [
+    {
+      "opening": "Nested glass bowls",
+      "linkId": null,
+      "text": "Fitting the bowls inside each other let one player reach many notes at once, so chords became easy. The rims were often marked with colours to show which note was which."
+    },
+    {
+      "opening": "The name armonica",
+      "linkId": null,
+      "text": "Franklin named it after the Italian word for harmony, armonia. It later became known as the glass harmonica, though it has nothing to do with the small mouth harmonica."
+    },
+    {
+      "opening": "Mozart's Adagio and Rondo",
+      "linkId": null,
+      "text": "In 1791 Mozart wrote a quintet for glass armonica, flute, oboe, viola and cello for Marianne Kirchgessner, a celebrated touring player. It is one of the few major works written for the instrument."
+    },
+    {
+      "opening": "Beethoven's short melodrama",
+      "linkId": null,
+      "text": "Beethoven also used it, in a brief scene of spoken text with glass armonica written for a stage play in 1815. By then the instrument was fading from fashion, partly because it was fragile and hard to play loudly."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "acoustics",
+    "history-of-things",
+    "glass"
+  ],
+  "related": [
+    "franklin-oil-pond",
+    "franklin-daylight-joke",
+    "celesta-sugar-plum",
+    "mozart-starling",
+    "theremin",
+    "chladni-figures"
+  ]
+}
