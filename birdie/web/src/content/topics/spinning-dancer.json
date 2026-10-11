@@ -1,0 +1,42 @@
+{
+  "id": "spinning-dancer",
+  "title": "The spinning dancer",
+  "category": "Mind",
+  "hook": "A silhouette that spins either way, and neither direction is the right one.",
+  "peek": "A short looping animation of a dancer's silhouette turning on one foot divides viewers: some see her spin clockwise, others anticlockwise. Many people can make her switch. The image holds no depth information, so both answers fit it equally well.",
+  "lede": "In 2003 the Japanese web designer Nobuyuki Kayahara made a looping animation of a silhouetted dancer turning on one leg. Some viewers see her spin clockwise, others anticlockwise, and with practice many can flip her direction at will. Neither view is wrong. A flat black shape carries no clue about which leg is nearer, so the brain has to pick.",
+  "bullets": [
+    {
+      "opening": "No depth in a silhouette",
+      "linkId": null,
+      "text": "A silhouette seen from the side looks exactly the same whether the figure is turning one way or the other. The brain fills in the missing depth with a guess, and then sees the spin that matches it."
+    },
+    {
+      "opening": "The left-brain right-brain myth",
+      "linkId": null,
+      "text": "Around 2007 the dancer spread online as a test of whether you use more of your left or right brain. There is no evidence for that. Which way you see her says nothing about your personality or thinking style."
+    },
+    {
+      "opening": "Making her switch",
+      "linkId": null,
+      "text": "Looking at the shadow or the feet, or blinking, often makes the direction flip. Versions with a few lines drawn on the legs to show which is in front fix her spin for nearly everyone."
+    },
+    {
+      "opening": "A bistable image",
+      "linkId": null,
+      "text": "The dancer joins the Necker cube and the duck-rabbit as a bistable figure, one image with two stable readings. The brain settles on one, then may switch, but rarely holds both at once."
+    }
+  ],
+  "tags": [
+    "illusions",
+    "perception",
+    "myths-busted"
+  ],
+  "related": [
+    "the-dress",
+    "yanny-laurel",
+    "hollow-face-illusion",
+    "rotating-snakes",
+    "ames-room"
+  ]
+}

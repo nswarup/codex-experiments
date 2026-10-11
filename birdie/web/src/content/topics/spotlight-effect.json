@@ -1,0 +1,43 @@
+{
+  "id": "spotlight-effect",
+  "title": "The Barry Manilow T-shirt",
+  "category": "Mind",
+  "hook": "Students in an embarrassing T-shirt guessed half the room noticed. Few did.",
+  "peek": "Psychologists at Cornell had students walk into a room wearing a T-shirt with Barry Manilow's face on it. The wearers guessed that about half the people there would notice. In fact only about a quarter did.",
+  "lede": "In a 2000 study at Cornell University, Thomas Gilovich and colleagues asked students to put on a T-shirt showing the singer Barry Manilow, chosen because the students found it embarrassing. Each walked into a room of peers, stayed briefly, then left. The wearers guessed that about half the room had noticed the shirt. Only about a quarter of people had.",
+  "bullets": [
+    {
+      "opening": "Why Barry Manilow",
+      "linkId": null,
+      "text": "The researchers picked Manilow after checking that students saw his face on a shirt as unfashionable. The point was to make the wearer feel conspicuous, and it worked: they expected far more attention than they got."
+    },
+    {
+      "opening": "The spotlight effect",
+      "linkId": null,
+      "text": "Gilovich, Victoria Medvec and Kenneth Savitsky called this the spotlight effect: we feel as if a spotlight follows us, so we overestimate how much others notice our looks and slips."
+    },
+    {
+      "opening": "Anchored on ourselves",
+      "linkId": null,
+      "text": "The researchers argued that we start from our own vivid sense of how we look and adjust too little for the fact that everyone else is busy thinking about themselves."
+    },
+    {
+      "opening": "Flattering shirts too",
+      "linkId": null,
+      "text": "In a follow-up, students wore shirts showing people they admired. They still overestimated how many noticed, so the effect is not only about embarrassment."
+    }
+  ],
+  "tags": [
+    "experiments",
+    "perception",
+    "fashion",
+    "myths-busted"
+  ],
+  "related": [
+    "pratfall-effect",
+    "forer-effect",
+    "invisible-gorilla",
+    "ben-franklin-effect",
+    "door-study"
+  ]
+}

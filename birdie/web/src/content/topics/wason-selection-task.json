@@ -1,0 +1,42 @@
+{
+  "id": "wason-selection-task",
+  "title": "The Wason selection task",
+  "category": "Mind",
+  "hook": "Few people solve this four-card puzzle until it is about a bar.",
+  "peek": "Four cards, one simple rule, and a question about which cards to turn over. Fewer than one in ten people usually get it right. Rewrite the same logic as checking ages in a bar, and most people solve it at once.",
+  "lede": "In 1966 the psychologist Peter Wason showed people four cards, each with a letter on one side and a number on the other. They showed E, K, 4 and 7. The rule was: if a card has a vowel on one side, it has an even number on the other. Which cards must you turn to test the rule? Typically fewer than one in ten people get it right.",
+  "bullets": [
+    {
+      "opening": "The right answer",
+      "linkId": null,
+      "text": "You need to turn E and 7. Most people pick E and 4, but the 4 cannot break the rule whatever is on its back. The 7 can, because a vowel behind it would prove the rule false."
+    },
+    {
+      "opening": "The drinking age version",
+      "linkId": null,
+      "text": "In a 1982 study by Richard Griggs and James Cox, the cards showed beer, cola, 16 and 22, with the rule that anyone drinking beer must be over 19. About three quarters of people correctly chose beer and 16."
+    },
+    {
+      "opening": "Cheater detection",
+      "linkId": null,
+      "text": "Leda Cosmides and John Tooby argued that people are good at the bar version because it is about catching someone breaking a social rule, a skill they think evolved for living in groups. Other researchers dispute this."
+    },
+    {
+      "opening": "Confirmation over testing",
+      "linkId": null,
+      "text": "The common mistake fits a broader habit: looking for cases that agree with a rule rather than ones that could break it. Wason's earlier work on number puzzles pointed the same way."
+    }
+  ],
+  "tags": [
+    "logic",
+    "experiments",
+    "games"
+  ],
+  "related": [
+    "bat-and-ball",
+    "linda-problem",
+    "monty-hall",
+    "forer-effect",
+    "barber-paradox"
+  ]
+}

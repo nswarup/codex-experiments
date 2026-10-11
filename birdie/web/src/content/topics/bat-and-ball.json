@@ -1,0 +1,43 @@
+{
+  "id": "bat-and-ball",
+  "title": "The bat-and-ball problem",
+  "category": "Mind",
+  "hook": "A bat and a ball cost $1.10, and most people get the ball's price wrong.",
+  "peek": "A bat and a ball cost $1.10 together. The bat costs $1 more than the ball. How much is the ball? Most people quickly say 10 cents, including more than half of students at some top universities. The answer is 5 cents.",
+  "lede": "The puzzle is short: a bat and a ball cost $1.10 in total, and the bat costs $1.00 more than the ball. How much does the ball cost? The answer that leaps to mind is 10 cents, and it is wrong. If the ball were 10 cents, the bat would be $1.10 and the total $1.20. The ball costs 5 cents.",
+  "bullets": [
+    {
+      "opening": "Shane Frederick's 2005 test",
+      "linkId": null,
+      "text": "The economist Shane Frederick made it the first question of his Cognitive Reflection Test, published in 2005, along with two other puzzles that have a tempting wrong answer. Together they measure how often people stop to check an intuition."
+    },
+    {
+      "opening": "Students at top universities",
+      "linkId": null,
+      "text": "Frederick found that more than half of students at Harvard, MIT and Princeton gave the intuitive answer. At less selective universities, more than 80% did. Being clever does not protect you much."
+    },
+    {
+      "opening": "Fast and slow thinking",
+      "linkId": null,
+      "text": "Daniel Kahneman used the puzzle in his 2011 book Thinking, Fast and Slow as a clear example of a quick, automatic answer that a slower check would catch, if only we bothered."
+    },
+    {
+      "opening": "A flicker of doubt",
+      "linkId": null,
+      "text": "Studies by Wim De Neys found that people who answer 10 cents tend to feel slightly less confident than those answering easy control questions, suggesting part of the mind notices something is off."
+    }
+  ],
+  "tags": [
+    "logic",
+    "experiments",
+    "myths-busted"
+  ],
+  "related": [
+    "wason-selection-task",
+    "linda-problem",
+    "anchoring-wheel",
+    "monty-hall",
+    "birthday-paradox",
+    "hot-hand"
+  ]
+}

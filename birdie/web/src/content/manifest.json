@@ -1908,5 +1908,65 @@
   "id": "secretary-problem",
   "title": "The 37% rule",
   "category": "Math"
+ },
+ {
+  "id": "lilac-chaser",
+  "title": "The lilac chaser",
+  "category": "Mind"
+ },
+ {
+  "id": "mccollough-effect",
+  "title": "The McCollough effect",
+  "category": "Mind"
+ },
+ {
+  "id": "rotating-snakes",
+  "title": "Kitaoka's rotating snakes",
+  "category": "Mind"
+ },
+ {
+  "id": "cafe-wall-illusion",
+  "title": "The café wall illusion",
+  "category": "Mind"
+ },
+ {
+  "id": "spinning-dancer",
+  "title": "The spinning dancer",
+  "category": "Mind"
+ },
+ {
+  "id": "choice-blindness",
+  "title": "Choice blindness",
+  "category": "Mind"
+ },
+ {
+  "id": "jam-study",
+  "title": "The jam study",
+  "category": "Mind"
+ },
+ {
+  "id": "wason-selection-task",
+  "title": "The Wason selection task",
+  "category": "Mind"
+ },
+ {
+  "id": "bat-and-ball",
+  "title": "The bat-and-ball problem",
+  "category": "Mind"
+ },
+ {
+  "id": "forer-effect",
+  "title": "The Forer effect",
+  "category": "Mind"
+ },
+ {
+  "id": "spotlight-effect",
+  "title": "The Barry Manilow T-shirt",
+  "category": "Mind"
+ },
+ {
+  "id": "tapping-study",
+  "title": "The song-tapping study",
+  "category": "Mind"
  }
 ]

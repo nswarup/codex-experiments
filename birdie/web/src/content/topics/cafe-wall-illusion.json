@@ -1,0 +1,48 @@
+{
+  "id": "cafe-wall-illusion",
+  "title": "The café wall illusion",
+  "category": "Mind",
+  "hook": "Rows of tiles that are perfectly parallel but look like they slope.",
+  "peek": "A pattern of black and white tiles, offset row by row and separated by thin grey lines, makes perfectly straight rows look wedge-shaped. A psychologist's colleague spotted it on the tiled wall of a café in Bristol in the 1970s.",
+  "lede": "In the 1970s a member of the psychologist Richard Gregory's lab in Bristol noticed something odd about a café near the university. Its wall was tiled in alternating dark and light rows, each row shifted by half a tile. The horizontal lines between the rows were straight, yet they looked tilted, as if the rows narrowed like wedges.",
+  "bullets": [
+    {
+      "opening": "The St Michael's Hill café",
+      "linkId": null,
+      "text": "The café was at the foot of St Michael's Hill in Bristol. Gregory and Priscilla Heard studied the pattern in detail and published their findings in 1979, giving the effect its name."
+    },
+    {
+      "opening": "The grey mortar lines",
+      "linkId": null,
+      "text": "The illusion depends on the thin lines between rows. It is strongest when the mortar is a grey somewhere between the dark and light tiles, and it fades if the lines are much thicker or the same colour as the tiles."
+    },
+    {
+      "opening": "Why the rows seem to tilt",
+      "linkId": null,
+      "text": "The leading explanation is that the edges of the tiles interact with the mortar at an early stage of vision, creating small wedge-shaped signals that add up along each row and make the line look sloped."
+    },
+    {
+      "opening": "The Münsterberg version",
+      "linkId": null,
+      "text": "A similar pattern, without the grey lines, was described by Hugo Münsterberg in 1897. It is sometimes called the kindergarten illusion, because it appeared in children's woven paper patterns."
+    },
+    {
+      "opening": "A building in Melbourne",
+      "linkId": null,
+      "text": "The Port 1010 office building in Melbourne's Docklands has a facade designed in the café wall pattern, so its straight floors appear to lean."
+    }
+  ],
+  "tags": [
+    "illusions",
+    "perception",
+    "architecture",
+    "patterns"
+  ],
+  "related": [
+    "muller-lyer-illusion",
+    "rotating-snakes",
+    "checker-shadow-illusion",
+    "ames-room",
+    "mccollough-effect"
+  ]
+}

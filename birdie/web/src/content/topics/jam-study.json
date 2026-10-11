@@ -1,0 +1,43 @@
+{
+  "id": "jam-study",
+  "title": "The jam study",
+  "category": "Mind",
+  "hook": "Shoppers bought more jam from 6 flavours than 24, but the effect is shaky.",
+  "peek": "A famous 2000 study found that shoppers offered 6 jams were far more likely to buy than those offered 24. It became the classic proof that too much choice puts people off. Later, larger reviews found the effect is much less reliable than it seemed.",
+  "lede": "In a California supermarket, the psychologists Sheena Iyengar and Mark Lepper set up a tasting table that offered either 24 jams or 6. The big display drew more people to stop. But only about 3% of those who saw 24 jams bought one, against about 30% of those who saw 6. The 2000 paper made choice overload famous.",
+  "bullets": [
+    {
+      "opening": "Draeger's in Menlo Park",
+      "linkId": null,
+      "text": "The study was run at Draeger's, an upmarket grocery store in Menlo Park, California. Shoppers who stopped got a coupon, so the researchers could count how many later bought a jar."
+    },
+    {
+      "opening": "The 2010 meta-analysis",
+      "linkId": null,
+      "text": "Benjamin Scheibehenne and colleagues pooled 50 experiments on choice overload in 2010. On average, the effect came out close to zero: in some studies more options put people off, and in many it made no difference or helped."
+    },
+    {
+      "opening": "When too much choice matters",
+      "linkId": null,
+      "text": "A 2015 review suggested choice overload is real but depends on the conditions, such as hard-to-compare options, an unclear sense of what you want, or a rush to decide. A row of jams on a sunny afternoon may not be the typical case."
+    },
+    {
+      "opening": "The Paradox of Choice",
+      "linkId": null,
+      "text": "The jam study was popularised by Barry Schwartz's 2004 book The Paradox of Choice, and it is still quoted in business talks, often without the later caveats."
+    }
+  ],
+  "tags": [
+    "experiments",
+    "food-history",
+    "myths-busted"
+  ],
+  "related": [
+    "choice-blindness",
+    "endowment-effect-mugs",
+    "anchoring-wheel",
+    "power-posing",
+    "ego-depletion",
+    "marshmallow-test"
+  ]
+}

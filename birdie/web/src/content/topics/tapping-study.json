@@ -1,0 +1,43 @@
+{
+  "id": "tapping-study",
+  "title": "The song-tapping study",
+  "category": "Mind",
+  "hook": "Tappers thought listeners would name half their songs. They got 1 in 40.",
+  "peek": "In a Stanford experiment, people tapped out the rhythm of famous songs on a table and guessed listeners would name about half. Listeners recognised only 3 songs out of 120. The tappers could hear the tune in their heads; the listeners could not.",
+  "lede": "In 1990 Elizabeth Newton, a graduate student in psychology at Stanford, split volunteers into tappers and listeners. Tappers picked a well-known song, such as Happy Birthday, and knocked out its rhythm on a table. Before hearing the results, they predicted listeners would name about half the songs. Out of 120 songs tapped, listeners named just 3, about 1 in 40.",
+  "bullets": [
+    {
+      "opening": "The tune in your head",
+      "linkId": null,
+      "text": "While tapping, the tappers heard the melody playing in their minds. The listeners heard only a string of knocks, closer to Morse code than music, and most could not tell one song from another."
+    },
+    {
+      "opening": "Surprise at the listeners",
+      "linkId": null,
+      "text": "Tappers were often baffled, even frustrated, that listeners could not get something that seemed so obvious. They found it hard to imagine hearing the taps without the tune attached."
+    },
+    {
+      "opening": "The curse of knowledge",
+      "linkId": null,
+      "text": "The study is the best-known demonstration of the curse of knowledge, a term coined by economists in 1989: once you know something, it is hard to imagine not knowing it, so you misjudge what others can follow."
+    },
+    {
+      "opening": "Made to Stick",
+      "linkId": null,
+      "text": "Chip and Dan Heath made the tapping study famous in their 2007 book Made to Stick, using it to explain why experts so often give explanations that make sense only to themselves."
+    }
+  ],
+  "tags": [
+    "experiments",
+    "music-tech",
+    "communication",
+    "myths-busted"
+  ],
+  "related": [
+    "spotlight-effect",
+    "tip-of-the-tongue",
+    "speech-to-song-illusion",
+    "forer-effect",
+    "choice-blindness"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "forer-effect",
+  "title": "The Forer effect",
+  "category": "Mind",
+  "hook": "A class rated one shared personality profile as a near-perfect fit.",
+  "peek": "In 1948 a psychologist gave each of his students what looked like a personal personality profile. Every student got exactly the same text, much of it taken from an astrology book. On average they rated it 4.3 out of 5 for accuracy.",
+  "lede": "In 1948 the American psychologist Bertram Forer gave his students a personality test, and a week later handed each one what seemed to be a personal summary of the results. In fact everyone received the same 13 statements, many taken from a newsstand astrology book. Asked how well it described them, on a scale of 0 to 5, the class averaged about 4.3.",
+  "bullets": [
+    {
+      "opening": "The statements Forer used",
+      "linkId": null,
+      "text": "Lines included \"You have a great need for other people to like and admire you\" and \"At times you are extroverted, affable, sociable, while at other times you are introverted, wary, reserved.\" Almost anyone can see themselves in both."
+    },
+    {
+      "opening": "Why the profile felt personal",
+      "linkId": null,
+      "text": "The statements are vague, mostly flattering, and often cover both sides of a trait. Believing it was written for them, readers matched each line to their own memories and filled in the rest."
+    },
+    {
+      "opening": "The Barnum effect",
+      "linkId": null,
+      "text": "The psychologist Paul Meehl later called the same thing the Barnum effect, after the showman P. T. Barnum, said to have had a little something for everyone. Both names are still used."
+    },
+    {
+      "opening": "Horoscopes and online quizzes",
+      "linkId": null,
+      "text": "Many repeat studies have found the same result, and it helps explain why horoscopes, palm readings and some personality quizzes feel so accurate. Ratings tend to rise when the reading is positive and seems to come from an authority."
+    }
+  ],
+  "tags": [
+    "experiments",
+    "myths-busted",
+    "perception"
+  ],
+  "related": [
+    "choice-blindness",
+    "learning-styles",
+    "baader-meinhof",
+    "spotlight-effect",
+    "pareidolia"
+  ]
+}

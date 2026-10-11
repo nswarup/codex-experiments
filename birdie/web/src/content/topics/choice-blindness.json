@@ -1,0 +1,43 @@
+{
+  "id": "choice-blindness",
+  "title": "Choice blindness",
+  "category": "Mind",
+  "hook": "People happily explain choices they never made after a secret swap.",
+  "peek": "Researchers asked people to pick the more attractive of two faces, then used a magician's sleight of hand to give them the one they had rejected. Most did not notice, and many explained why they had chosen a face they had actually turned down.",
+  "lede": "In a 2005 study at Lund University in Sweden, Petter Johansson and Lars Hall showed volunteers pairs of photographs of faces and asked which was more attractive. On some trials, they used a card trick to hand over the face the person had not picked. Most people did not notice the swap, and they went on to give reasons for a choice they had not made.",
+  "bullets": [
+    {
+      "opening": "The card trick method",
+      "linkId": null,
+      "text": "The researchers held up two cards, the volunteer pointed to one, and the cards were slid face down across the table. A hidden duplicate let the experimenter pass over the other face instead, smoothly enough to go unseen."
+    },
+    {
+      "opening": "Reasons for the wrong face",
+      "linkId": null,
+      "text": "Many people explained their choice with details that only the rejected face had, such as earrings or a smile. Their explanations sounded much like those given for real choices."
+    },
+    {
+      "opening": "The supermarket jam test",
+      "linkId": null,
+      "text": "In a 2010 follow-up in a Swedish supermarket, shoppers tasted two jams or teas and chose one. When the jars were secretly swapped for a second taste, fewer than a third of the switches were noticed, even between very different flavours."
+    },
+    {
+      "opening": "What it suggests",
+      "linkId": null,
+      "text": "The work suggests that we often build reasons for our choices after the fact, rather than simply reporting why we made them. The name echoes change blindness, our trouble spotting changes in a scene."
+    }
+  ],
+  "tags": [
+    "experiments",
+    "perception",
+    "memory",
+    "myths-busted"
+  ],
+  "related": [
+    "invisible-gorilla",
+    "door-study",
+    "jam-study",
+    "cognitive-dissonance-dollar",
+    "forer-effect"
+  ]
+}

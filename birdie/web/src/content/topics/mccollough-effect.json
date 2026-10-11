@@ -1,0 +1,43 @@
+{
+  "id": "mccollough-effect",
+  "title": "The McCollough effect",
+  "category": "Mind",
+  "hook": "A few minutes of coloured stripes can tint black-and-white ones for weeks.",
+  "peek": "Look at red and green striped patterns for a few minutes and plain black-and-white stripes start to look faintly coloured. The odd part is how long it lasts: in some studies, the tint was still there weeks or even months later.",
+  "lede": "In 1965 the American psychologist Celeste McCollough asked people to look back and forth between two patterns: orange and black horizontal stripes, and blue and black vertical ones. After a few minutes, plain black-and-white stripes looked tinted, with the colour depending on which way the stripes ran. Most afterimages fade in seconds. This one can last far longer.",
+  "bullets": [
+    {
+      "opening": "Colour tied to direction",
+      "linkId": null,
+      "text": "The tint is the opposite of what you looked at, and it is linked to the angle of the stripes. Horizontal black-and-white lines take on one colour and vertical lines the other, so it is called a contingent aftereffect."
+    },
+    {
+      "opening": "Tilting your head",
+      "linkId": null,
+      "text": "Turn your head sideways by 90 degrees and the colours swap places on the test pattern. The effect follows the stripes' angle relative to your eyes, not their angle in the room."
+    },
+    {
+      "opening": "Lasting for months",
+      "linkId": null,
+      "text": "In a 1975 study, people who looked at the coloured patterns for about 15 minutes still showed the effect when tested weeks later, and some for close to three months. That long life makes it unusual among visual aftereffects."
+    },
+    {
+      "opening": "How it might be stored",
+      "linkId": null,
+      "text": "Researchers still debate why it lasts. One leading idea is that it is a kind of learning in the early visual system, which seems to keep track of which colours usually go with which edges and adjusts slowly."
+    }
+  ],
+  "tags": [
+    "illusions",
+    "perception",
+    "color",
+    "memory"
+  ],
+  "related": [
+    "lilac-chaser",
+    "waterfall-illusion",
+    "rotating-snakes",
+    "cafe-wall-illusion",
+    "the-dress"
+  ]
+}

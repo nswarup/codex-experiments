@@ -1,0 +1,44 @@
+{
+  "id": "rotating-snakes",
+  "title": "Kitaoka's rotating snakes",
+  "category": "Mind",
+  "hook": "A completely still picture of coloured coils that appears to keep turning.",
+  "peek": "In 2003 the Japanese psychologist Akiyoshi Kitaoka published an image of coiled, snake-like rings. Nothing in it moves, yet most people see the coils slowly rotating. Look straight at one and it stops, while the others keep going.",
+  "lede": "Akiyoshi Kitaoka, a psychologist at Ritsumeikan University in Kyoto, has made hundreds of illusions, and his 2003 Rotating Snakes is the most famous. It shows circles of repeating coloured segments. The image is printed or displayed perfectly still, but for most viewers the circles seem to turn steadily, like wheels.",
+  "bullets": [
+    {
+      "opening": "The brightness sequence",
+      "linkId": null,
+      "text": "The trick lies in the order of shades in each segment: black, then a dark colour, then white, then a light colour. The apparent motion runs in that direction, from black towards dark, and from white towards light."
+    },
+    {
+      "opening": "Stopping with a stare",
+      "linkId": null,
+      "text": "The snake you look at directly stays still, while the ones in the corner of your eye spin. The effect is strongest in peripheral vision, which handles motion in different ways from the centre."
+    },
+    {
+      "opening": "Eye movements and blinks",
+      "linkId": null,
+      "text": "Studies suggest the motion is triggered by tiny eye movements and blinks that refresh the image on the retina. Each refresh makes the different shades register at slightly different speeds, which the brain reads as movement."
+    },
+    {
+      "opening": "The peripheral drift illusion",
+      "linkId": null,
+      "text": "The snakes are a powerful version of an effect first described by Fraser and Wilcox in 1979. Not everyone sees it, and some people report the coils stay almost still."
+    }
+  ],
+  "tags": [
+    "illusions",
+    "perception",
+    "color",
+    "design"
+  ],
+  "related": [
+    "lilac-chaser",
+    "cafe-wall-illusion",
+    "mccollough-effect",
+    "waterfall-illusion",
+    "wagon-wheel-effect",
+    "spinning-dancer"
+  ]
+}
