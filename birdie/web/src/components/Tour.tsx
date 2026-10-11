@@ -20,7 +20,7 @@ const STEPS = [
   {
     target: "search",
     title: "Tap the search icon to read about anything.",
-    body: "Type a topic, like “dogs’ sense of smell”, and Birdie will write a short piece with fun facts related to it.",
+    body: "Type a topic, like “virginia state flag”, and Birdie will write a short piece with fun facts related to it.",
   },
 ] as const;
 
