@@ -1,0 +1,37 @@
+{
+  "id": "llivia",
+  "title": "Llívia, the Spanish town inside France",
+  "category": "Travel",
+  "hook": "A Spanish town sits entirely inside France because it was not a village.",
+  "peek": "In 1659 Spain agreed to hand France 33 villages in the Pyrenees. Llívia had a royal charter making it a town, so it stayed Spanish, and today it sits wholly surrounded by French land.",
+  "lede": "The Treaty of the Pyrenees in 1659 ended a long war between France and Spain and moved the border to the mountains. A follow-up agreement in 1660 gave France 33 villages in the Cerdanya valley. Llívia had been granted the status of a town by Emperor Charles V, so it was not counted as a village and stayed Spanish.",
+  "bullets": [
+    {
+      "opening": "The Llívia enclave",
+      "linkId": null,
+      "text": "Llívia covers about 13 square kilometres and lies a short drive from the main border at Puigcerdà. It is a full part of Catalonia, in Spain, with Spanish schools, police and number plates."
+    },
+    {
+      "opening": "The neutral road",
+      "linkId": null,
+      "text": "To reach the rest of Spain, residents use a road that crosses a short stretch of France. For centuries its status was argued over, and it was agreed that traffic between Llívia and Spain could pass freely."
+    },
+    {
+      "opening": "The Esteva pharmacy",
+      "linkId": null,
+      "text": "Llívia keeps one of the oldest pharmacies in Europe, said to date from the early 1400s. Its painted jars and old remedies are now displayed in the town museum."
+    }
+  ],
+  "tags": [
+    "borders",
+    "maps",
+    "enclaves"
+  ],
+  "related": [
+    "busingen",
+    "baarle",
+    "pheasant-island",
+    "point-roberts",
+    "bir-tawil"
+  ]
+}

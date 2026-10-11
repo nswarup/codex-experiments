@@ -1,0 +1,43 @@
+{
+  "id": "nutella-gianduja",
+  "title": "Nutella began with a cocoa shortage",
+  "category": "Food",
+  "hook": "The first Nutella was a solid loaf that people cut with a knife.",
+  "peek": "Nutella grew out of gianduja, a Turin chocolate stretched with local hazelnuts. When a pastry maker in Alba revived the idea after the Second World War, cocoa was scarce, and his first version came as a block you sliced onto bread.",
+  "lede": "Piedmont, in northwest Italy, grows a lot of hazelnuts. In Turin, chocolatiers mixed ground hazelnuts into chocolate to make gianduja, a smooth paste that used less cocoa. In 1946, with cocoa still hard to get after the war, the Alba pastry maker Pietro Ferrero made his own cheap hazelnut version. It was firm enough to slice.",
+  "bullets": [
+    {
+      "opening": "Gianduja and the blockade",
+      "linkId": null,
+      "text": "The usual story is that gianduja was born when Napoleon's blockade of British trade made cocoa scarce in the early 1800s. Historians treat this as likely but not proven. The name gianduja comes from Gianduja, a Turin carnival character."
+    },
+    {
+      "opening": "Pietro Ferrero's Giandujot",
+      "linkId": null,
+      "text": "Ferrero's 1946 product, Giandujot, was a loaf wrapped in foil. Shopkeepers cut slices for customers, and children ate them on bread. It sold because it cost far less than real chocolate."
+    },
+    {
+      "opening": "Supercrema",
+      "linkId": null,
+      "text": "In 1951 the company released a soft, spreadable version called Supercrema, sold in jars. It could be spread thinly, so a small amount went a long way."
+    },
+    {
+      "opening": "The 1964 rename",
+      "linkId": null,
+      "text": "Pietro's son Michele Ferrero reworked the recipe and renamed it Nutella in 1964, from the English word nut and a sweet Italian ending. The first jar left the factory in Alba that April."
+    }
+  ],
+  "tags": [
+    "food-history",
+    "inventors",
+    "names",
+    "chocolate"
+  ],
+  "related": [
+    "toll-house-cookie",
+    "german-chocolate-cake",
+    "kit-kat-japan",
+    "croissant-origin",
+    "instant-ramen-ando"
+  ]
+}

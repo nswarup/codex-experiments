@@ -1,0 +1,43 @@
+{
+  "id": "marshmallow-plant",
+  "title": "Marshmallows came from a plant",
+  "category": "Food",
+  "hook": "The marshmallow is named after a pink-flowered plant that grows in marshes.",
+  "peek": "Long before they came in bags, marshmallows were made from the sticky root of a wetland plant called the marsh mallow. French confectioners whipped its sap with sugar and egg whites into a soft sweet, and the name stuck.",
+  "lede": "The marsh mallow, Althaea officinalis, is a tall plant with pale pink flowers that grows in damp meadows and salt marshes across Europe. Its root holds a thick, gooey sap. For centuries that sap was used as a soothing remedy for sore throats, and in the 1800s French sweet makers found it could be whipped into a soft, springy confection.",
+  "bullets": [
+    {
+      "opening": "Pâte de guimauve",
+      "linkId": null,
+      "text": "French confectioners beat marsh mallow sap with sugar and egg whites into a sweet called pâte de guimauve. Guimauve is still the French word for marshmallow today, and it also names the plant."
+    },
+    {
+      "opening": "The Egyptian honey story",
+      "linkId": null,
+      "text": "Many histories say ancient Egyptians mixed mallow sap with honey as a treat for the elite. It is often repeated, but the evidence is thin, so it is best treated as a story rather than a fact."
+    },
+    {
+      "opening": "Gelatin replaces the root",
+      "linkId": null,
+      "text": "Extracting the sap by hand was slow, so in the late 1800s makers switched to gelatin, which gave the same bounce. Modern marshmallows contain no mallow at all, only the plant's name."
+    },
+    {
+      "opening": "Extruded marshmallows",
+      "linkId": null,
+      "text": "In the mid 1900s the American confectioner Alex Doumak developed a way to push marshmallow mix through tubes and cut it into pieces. That process gave us the cylinder shape sold in bags today."
+    }
+  ],
+  "tags": [
+    "food-history",
+    "etymology",
+    "names",
+    "plants"
+  ],
+  "related": [
+    "cotton-candy-dentist",
+    "popsicle-epperson",
+    "ketchup-fish-sauce",
+    "toll-house-cookie",
+    "nachos-ignacio"
+  ]
+}

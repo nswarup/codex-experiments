@@ -1,0 +1,43 @@
+{
+  "id": "sliced-bread",
+  "title": "The best thing since sliced bread",
+  "category": "Food",
+  "hook": "Sliced bread first went on sale in 1928, in a small town in Missouri.",
+  "peek": "The phrase makes sliced bread sound ancient, but it only arrived in 1928. A jeweller from Iowa spent more than a decade building a machine to do it, and a small Missouri bakery was the first to try it.",
+  "lede": "Otto Frederick Rohwedder, a jeweller from Davenport, Iowa, started work on a bread slicing machine around 1912. Bakers were doubtful, believing sliced bread would go stale too fast. On 7 July 1928 the Chillicothe Baking Company in Missouri began selling Kleen Maid Sliced Bread made on his machine. Within a few years most bread in America came sliced.",
+  "bullets": [
+    {
+      "opening": "Rohwedder's lost prototype",
+      "linkId": null,
+      "text": "In 1917 a fire destroyed Rohwedder's factory, along with his prototype and plans. He had to raise money and start again, and it took him until the late 1920s to build a machine that both sliced and wrapped the loaf."
+    },
+    {
+      "opening": "Frank Bench's bakery",
+      "linkId": null,
+      "text": "The Chillicothe baker Frank Bench was the first to take a chance on the machine. His sales of bread rose sharply within weeks, and the local paper praised the idea."
+    },
+    {
+      "opening": "Wonder Bread goes sliced",
+      "linkId": null,
+      "text": "In 1930 Wonder Bread began selling sliced loaves across the United States. Even slices suited the pop-up toaster, which was becoming popular at the same time, and the two spread together."
+    },
+    {
+      "opening": "The 1943 sliced bread ban",
+      "linkId": null,
+      "text": "In January 1943 the US government banned sliced bread to save wax paper and machine parts during the war. The public outcry was so strong that the ban was lifted in March."
+    }
+  ],
+  "tags": [
+    "food-history",
+    "inventors",
+    "history-of-things",
+    "bread"
+  ],
+  "related": [
+    "baguette-law",
+    "sandwich-earl",
+    "instant-ramen-ando",
+    "toll-house-cookie",
+    "popsicle-epperson"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "tomato-supreme-court",
+  "title": "The tomato is legally a vegetable",
+  "category": "Food",
+  "hook": "In 1893 the US Supreme Court ruled that a tomato is a vegetable.",
+  "peek": "Botanists say a tomato is a fruit. In 1893 the US Supreme Court said otherwise, at least for tax purposes, in a case brought by a New York importer who did not want to pay a vegetable duty.",
+  "lede": "A tariff law passed in 1883 put a 10% duty on imported vegetables but let fruit in free. The Nix family, who imported produce into New York, argued that tomatoes were botanically fruit and asked for their duty back. The case reached the US Supreme Court, which ruled unanimously in 1893 that, for the purposes of the law, a tomato is a vegetable.",
+  "bullets": [
+    {
+      "opening": "Nix v. Hedden",
+      "linkId": null,
+      "text": "The case set the importer John Nix against Edward Hedden, the customs collector for the Port of New York. Both sides read dictionary definitions of fruit and vegetable aloud to the court as their main evidence."
+    },
+    {
+      "opening": "Justice Gray's dinner test",
+      "linkId": null,
+      "text": "Justice Horace Gray wrote that in everyday speech tomatoes are vegetables, because they are served at dinner with the main course rather than as dessert. The law, he said, used words in their common meaning, not the botanist's."
+    },
+    {
+      "opening": "What botanists say",
+      "linkId": null,
+      "text": "To a botanist, a fruit is the part of a plant that grows from the flower and holds the seeds. By that rule tomatoes, cucumbers, peppers and pea pods are all fruits, and the court openly acknowledged as much."
+    },
+    {
+      "opening": "Arkansas's state fruit and vegetable",
+      "linkId": null,
+      "text": "The argument never quite ended. Arkansas settled it in 1987 by naming the South Arkansas Vine Ripe Pink Tomato both its official state fruit and its official state vegetable."
+    }
+  ],
+  "tags": [
+    "food-history",
+    "myths-busted",
+    "names",
+    "law"
+  ],
+  "related": [
+    "bananas-are-berries",
+    "jaffa-cake-tribunal",
+    "brassica-oleracea",
+    "cashew-apple",
+    "orange-carrots"
+  ]
+}

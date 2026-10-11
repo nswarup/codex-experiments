@@ -1,0 +1,42 @@
+{
+  "id": "baguette-law",
+  "title": "The law of the baguette",
+  "category": "Food",
+  "hook": "French law says exactly what a traditional baguette may be made of.",
+  "peek": "Since 1993, bread sold in France as traditional must follow a short list of ingredients set by government decree. Flour, water, salt and yeast or sourdough, almost nothing more, and it must never be frozen.",
+  "lede": "In the 1980s, French bakers worried that factory bread made with additives and frozen dough was pushing out the craft loaf. So in 1993 the government issued the Décret Pain, the bread decree. A loaf sold as pain de tradition française, including the classic baguette de tradition, may only be made from wheat flour, water, salt and yeast or sourdough.",
+  "bullets": [
+    {
+      "opening": "The permitted extras",
+      "linkId": null,
+      "text": "The ban on additives is nearly total. The decree allows only tiny, fixed amounts of bean flour, soy flour and malted wheat flour, which bakers have used for generations, and no preservatives or improvers of any kind."
+    },
+    {
+      "opening": "No freezing allowed",
+      "linkId": null,
+      "text": "A traditional loaf must not be frozen at any stage, from dough to finished bread. That rules out the part-baked frozen baguettes that supermarkets and chains finish in their own ovens."
+    },
+    {
+      "opening": "The word boulangerie",
+      "linkId": null,
+      "text": "A related 1998 law says a shop can call itself a boulangerie only if the bread is kneaded, shaped and baked on the premises. A shop that just warms bread made elsewhere cannot use the name."
+    },
+    {
+      "opening": "UNESCO and the baguette",
+      "linkId": null,
+      "text": "In 2022 UNESCO added the craft and culture of baguette bread to its list of intangible cultural heritage. France still bakes billions of baguettes a year."
+    }
+  ],
+  "tags": [
+    "food-history",
+    "law",
+    "bread"
+  ],
+  "related": [
+    "croissant-origin",
+    "stilton-village",
+    "parmesan-bank",
+    "sliced-bread",
+    "jaffa-cake-tribunal"
+  ]
+}

@@ -4068,5 +4068,65 @@
   "id": "toll-house-cookie",
   "title": "The first chocolate chip cookie",
   "category": "Food"
+ },
+ {
+  "id": "tomato-supreme-court",
+  "title": "The tomato is legally a vegetable",
+  "category": "Food"
+ },
+ {
+  "id": "marshmallow-plant",
+  "title": "Marshmallows came from a plant",
+  "category": "Food"
+ },
+ {
+  "id": "nutella-gianduja",
+  "title": "Nutella began with a cocoa shortage",
+  "category": "Food"
+ },
+ {
+  "id": "baguette-law",
+  "title": "The law of the baguette",
+  "category": "Food"
+ },
+ {
+  "id": "sliced-bread",
+  "title": "The best thing since sliced bread",
+  "category": "Food"
+ },
+ {
+  "id": "llivia",
+  "title": "Llívia, the Spanish town inside France",
+  "category": "Travel"
+ },
+ {
+  "id": "point-roberts",
+  "title": "Point Roberts",
+  "category": "Travel"
+ },
+ {
+  "id": "haskell-free-library",
+  "title": "The library on the border",
+  "category": "Travel"
+ },
+ {
+  "id": "pheasant-island",
+  "title": "Pheasant Island",
+  "category": "Travel"
+ },
+ {
+  "id": "diomede-islands",
+  "title": "Big and Little Diomede",
+  "category": "Travel"
+ },
+ {
+  "id": "kiribati-date-line",
+  "title": "Kiribati moves the date line",
+  "category": "Travel"
+ },
+ {
+  "id": "coober-pedy",
+  "title": "Coober Pedy",
+  "category": "Travel"
  }
 ]

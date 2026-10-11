@@ -1,0 +1,42 @@
+{
+  "id": "haskell-free-library",
+  "title": "The library on the border",
+  "category": "Travel",
+  "hook": "A library where the books are in Canada and the front door is in the US.",
+  "peek": "The Haskell Free Library and Opera House straddles the border between Vermont and Quebec. A black line on the floor marks where one country ends, and in the theatre most of the audience sits in the US while the stage is in Canada.",
+  "lede": "Derby Line, Vermont, and Stanstead, Quebec, grew up side by side. In 1904 Martha Stewart Haskell and her son Horace opened a library and opera house in memory of her husband, Carlos. They built it right across the border on purpose, so both towns could share it. A black line still runs across the reading room floor.",
+  "bullets": [
+    {
+      "opening": "The black line",
+      "linkId": null,
+      "text": "A strip of black tape on the floor marks the border inside the building. Visitors often stand with one foot in each country for a photo, and the library is a favourite stop for that reason."
+    },
+    {
+      "opening": "Books in Canada",
+      "linkId": null,
+      "text": "The main entrance is on the US side, but most of the shelves and the reading room are in Canada. Locals like to joke that it is the only library in the US with no books."
+    },
+    {
+      "opening": "The opera house stage",
+      "linkId": null,
+      "text": "Upstairs, the theatre's stage sits in Canada while most of the seats are in the US. Concerts and plays are still held there."
+    },
+    {
+      "opening": "A historic site twice over",
+      "linkId": null,
+      "text": "The building is listed on the US National Register of Historic Places and is also a National Historic Site of Canada."
+    }
+  ],
+  "tags": [
+    "borders",
+    "architecture",
+    "books"
+  ],
+  "related": [
+    "baarle",
+    "point-roberts",
+    "four-corners-monument",
+    "busingen",
+    "llivia"
+  ]
+}

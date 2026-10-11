@@ -1,0 +1,42 @@
+{
+  "id": "pheasant-island",
+  "title": "Pheasant Island",
+  "category": "Travel",
+  "hook": "A river island that changes country every six months.",
+  "peek": "Pheasant Island, in the river between Spain and France, is ruled by Spain for half of each year and by France for the other half. It has hosted royal weddings and peace talks, but almost nobody is allowed to visit.",
+  "lede": "Pheasant Island is a small strip of land, about 200 metres long, in the Bidasoa river between Irun in Spain and Hendaye in France. Since the 1600s the two countries have shared it as a condominium. Spain runs it from 1 February to 31 July, and France from 1 August to 31 January.",
+  "bullets": [
+    {
+      "opening": "The Treaty of the Pyrenees",
+      "linkId": null,
+      "text": "In 1659 French and Spanish ministers met on the island, on neutral ground, to agree the peace that ended their long war. The island was then made the shared territory of both countries."
+    },
+    {
+      "opening": "Louis XIV's royal wedding",
+      "linkId": null,
+      "text": "In 1660 Louis XIV met his bride, the Spanish princess Maria Theresa, on the island. The painter Diego Velázquez helped decorate the pavilion where the two courts gathered."
+    },
+    {
+      "opening": "The naval governors",
+      "linkId": null,
+      "text": "Today each country's local naval commander, in San Sebastián and in Bayonne, acts as the island's governor for their six months. The handover is a quiet piece of paperwork."
+    },
+    {
+      "opening": "Closed to visitors",
+      "linkId": null,
+      "text": "The island is usually off-limits to the public. Local towns run occasional guided visits, often only a few days a year."
+    }
+  ],
+  "tags": [
+    "borders",
+    "maps",
+    "time"
+  ],
+  "related": [
+    "llivia",
+    "hans-island",
+    "marked-island",
+    "bir-tawil",
+    "baarle"
+  ]
+}

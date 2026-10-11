@@ -1,0 +1,43 @@
+{
+  "id": "kiribati-date-line",
+  "title": "Kiribati moves the date line",
+  "category": "Travel",
+  "hook": "In 1995 a Pacific nation moved the date line so the whole country shared one day.",
+  "peek": "Kiribati is spread across the Pacific on both sides of the 180th meridian. Until 1995 its east and west were on different days. Then it simply moved the date line, and one of its islands claimed the first sunrise of 2000.",
+  "lede": "Kiribati is made up of three groups of islands stretched across more than 3,000 kilometres of ocean, on both sides of the 180th meridian. Until 1995 the date line ran through the country, so the capital and the eastern Line Islands were a day apart. On 1 January 1995 Kiribati moved its eastern islands to the far side of the line.",
+  "bullets": [
+    {
+      "opening": "Four shared workdays",
+      "linkId": null,
+      "text": "Before the change, offices in the west and east only had four weekdays in common, since one side's Friday was the other's Saturday. Government work across the country was awkward."
+    },
+    {
+      "opening": "The UTC+14 time zone",
+      "linkId": null,
+      "text": "The Line Islands now run 14 hours ahead of Greenwich, the earliest time zone on Earth. Maps redrew the date line with a large eastward bulge around them."
+    },
+    {
+      "opening": "No treaty for the date line",
+      "linkId": null,
+      "text": "The International Date Line is not set by any treaty. Each country chooses its own time, and the line on maps follows those choices, which is why Kiribati could move it."
+    },
+    {
+      "opening": "Millennium Island",
+      "linkId": null,
+      "text": "Kiribati renamed Caroline Island as Millennium Island and promoted it as the first land to see the dawn of 2000. Tonga and New Zealand's Chatham Islands made rival claims."
+    }
+  ],
+  "tags": [
+    "time",
+    "calendars",
+    "maps",
+    "borders"
+  ],
+  "related": [
+    "samoa-skips-a-day",
+    "diomede-islands",
+    "null-island",
+    "day-of-two-noons",
+    "eleven-days-1752"
+  ]
+}

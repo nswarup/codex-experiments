@@ -1,0 +1,48 @@
+{
+  "id": "coober-pedy",
+  "title": "Coober Pedy",
+  "category": "Travel",
+  "hook": "An outback opal town where many people live in homes dug into the hills.",
+  "peek": "In Coober Pedy, South Australia, summer days can pass 40 degrees. So many residents live in dugouts carved into the hillsides, where the rock keeps rooms at a steady, comfortable temperature all year round.",
+  "lede": "Coober Pedy sits in the desert of South Australia, about 850 kilometres north of Adelaide. In 1915 a teenage boy, Willie Hutchison, found opal there, and miners followed. Summer heat often passes 40 degrees, so many families dug their homes into the hillsides. Inside these dugouts the temperature stays in the low to mid twenties all year.",
+  "bullets": [
+    {
+      "opening": "How the dugouts work",
+      "linkId": null,
+      "text": "Thick rock soaks up heat slowly, so a home a few metres into a hill barely notices the change from day to night or summer to winter. No air conditioning is needed."
+    },
+    {
+      "opening": "Underground churches and hotels",
+      "linkId": null,
+      "text": "The town has underground churches, including a Serbian Orthodox church carved out of the rock, as well as underground shops, a bookshop and hotels where guests sleep in stone rooms."
+    },
+    {
+      "opening": "The opal capital",
+      "linkId": null,
+      "text": "Coober Pedy has produced a large share of the world's opal and calls itself the opal capital of the world. Its landscape is dotted with thousands of mounds of dug-out earth."
+    },
+    {
+      "opening": "The grassless golf course",
+      "linkId": null,
+      "text": "The local golf course has no grass. Players carry a small piece of turf to hit from, and some rounds are played at night with glowing balls to avoid the heat."
+    },
+    {
+      "opening": "The name Coober Pedy",
+      "linkId": null,
+      "text": "The name is usually said to come from the local Aboriginal words kupa piti, often translated as white man's hole. Some linguists doubt that reading, so its exact meaning is uncertain."
+    }
+  ],
+  "tags": [
+    "architecture",
+    "weather",
+    "underground",
+    "mining"
+  ],
+  "related": [
+    "derinkuyu",
+    "setenil-de-las-bodegas",
+    "whittier-alaska",
+    "monowi-nebraska",
+    "tristan-da-cunha"
+  ]
+}

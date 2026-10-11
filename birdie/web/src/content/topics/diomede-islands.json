@@ -1,0 +1,43 @@
+{
+  "id": "diomede-islands",
+  "title": "Big and Little Diomede",
+  "category": "Travel",
+  "hook": "Two islands under 4 km apart and nearly a full day apart in time.",
+  "peek": "In the Bering Strait, Russia's Big Diomede and America's Little Diomede face each other across under 4 kilometres of sea. The International Date Line runs between them, so the clocks differ by about 21 hours.",
+  "lede": "Big Diomede belongs to Russia and Little Diomede to the United States, with the border and the International Date Line running between them. The gap is about 3.8 kilometres. Because of the date line, Big Diomede is around 21 hours ahead of its neighbour, which is why they are nicknamed Tomorrow Island and Yesterday Island.",
+  "bullets": [
+    {
+      "opening": "Vitus Bering's naming",
+      "linkId": null,
+      "text": "The explorer Vitus Bering sighted the islands on 16 August 1728, the feast day of Saint Diomede, and named them after him."
+    },
+    {
+      "opening": "The village on Little Diomede",
+      "linkId": null,
+      "text": "Little Diomede has one small Iñupiat village, Diomede, with fewer than 100 people. Supplies arrive by boat or helicopter, and in winter planes have landed on the frozen sea."
+    },
+    {
+      "opening": "Walking to tomorrow",
+      "linkId": null,
+      "text": "In some winters the strait freezes solid, and the islands are close enough to walk between. Crossing is not allowed without permission, as it means entering another country."
+    },
+    {
+      "opening": "Lynne Cox's swim",
+      "linkId": null,
+      "text": "In 1987 the American swimmer Lynne Cox swam from Little to Big Diomede in water barely above freezing. It took about two hours, and both countries' leaders praised it as a gesture of goodwill."
+    }
+  ],
+  "tags": [
+    "borders",
+    "time",
+    "maps",
+    "islands"
+  ],
+  "related": [
+    "kiribati-date-line",
+    "samoa-skips-a-day",
+    "whittier-alaska",
+    "day-of-two-noons",
+    "point-nemo"
+  ]
+}
