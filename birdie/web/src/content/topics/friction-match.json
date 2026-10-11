@@ -2,7 +2,7 @@
   "id": "friction-match",
   "title": "John Walker's unpatented match",
   "category": "Inventions",
-  "hook": "The first strike-anywhere match came from a chemist's shop, and he gave it away.",
+  "hook": "The first friction match came from a chemist's shop, and he never patented it.",
   "peek": "In 1826 John Walker, a chemist in Stockton-on-Tees, noticed a dried blob of chemicals on a stirring stick flare when it scraped the hearth. He sold the first friction matches the next year but never patented them, and others soon copied the idea.",
   "lede": "Before 1826, lighting a fire meant a tinderbox, flint and steel, or a slow and fiddly chemical dip. John Walker, a chemist with a shop in Stockton-on-Tees in north-east England, was mixing chemicals when a dried lump on the end of his stirring stick burst into flame as it scraped across the hearth. He had made a match.",
   "bullets": [
@@ -24,7 +24,7 @@
     {
       "opening": "The Swedish safety match",
       "linkId": null,
-      "text": "Walker's matches would light on almost any rough surface. In the 1840s and 1850s Swedish inventors, including the Lundström brothers, separated the chemicals between the match head and the side of the box, giving us the safety match."
+      "text": "The matches that followed Walker's would light on almost any rough surface. In the 1840s and 1850s Swedish inventors, including the Lundström brothers, separated the chemicals between the match head and the side of the box, giving us the safety match."
     }
   ],
   "tags": [

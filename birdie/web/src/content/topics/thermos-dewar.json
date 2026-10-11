@@ -1,0 +1,43 @@
+{
+  "id": "thermos-dewar",
+  "title": "The Thermos began in a lab",
+  "category": "Inventions",
+  "hook": "The flask in your lunch bag began as lab kit for keeping gases ultra cold.",
+  "peek": "In 1892 the Scottish scientist James Dewar built a double-walled glass flask with a vacuum between the walls to keep liquefied gases cold. He never patented it, and two German glassblowers turned it into the Thermos.",
+  "lede": "James Dewar, a Scottish chemist at the Royal Institution in London, spent years making gases so cold they turned into liquids. Keeping them cold was the hard part. In 1892 he made a flask with two glass walls and pumped the air out of the gap between them. With almost nothing in the gap to carry it, heat could barely get in.",
+  "bullets": [
+    {
+      "opening": "How a vacuum flask works",
+      "linkId": null,
+      "text": "Heat travels by contact, by moving air and by radiation. The vacuum blocks the first two, and Dewar silvered the glass to reflect radiation back. The same flask keeps hot drinks hot, because heat can barely get out either."
+    },
+    {
+      "opening": "Liquid hydrogen in 1898",
+      "linkId": null,
+      "text": "The flask helped Dewar become the first person to liquefy hydrogen, in 1898, at about minus 253 degrees Celsius. Scientists still call these vacuum vessels dewars."
+    },
+    {
+      "opening": "Burger and Aschenbrenner",
+      "linkId": null,
+      "text": "Dewar never patented his flask. In 1903 the Berlin glassblowers Reinhold Burger and Albert Aschenbrenner patented a sturdier version for everyday use, protected by a metal case, and soon set up a company to sell it."
+    },
+    {
+      "opening": "The name Thermos",
+      "linkId": null,
+      "text": "The company held a contest to name the flask, and the winner was Thermos, from the Greek for heat. Dewar later took them to court over the design and lost. In the 1960s a US court ruled that thermos had become an ordinary word."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "names",
+    "history-of-things",
+    "experiments"
+  ],
+  "related": [
+    "superfluid-helium",
+    "carrier-air-conditioning",
+    "tudor-ice-trade",
+    "escalator-trademark",
+    "aerogel"
+  ]
+}

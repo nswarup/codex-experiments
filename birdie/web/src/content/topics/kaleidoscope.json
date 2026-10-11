@@ -1,0 +1,44 @@
+{
+  "id": "kaleidoscope",
+  "title": "The kaleidoscope craze of 1817",
+  "category": "Inventions",
+  "hook": "The kaleidoscope sold by the hundred thousand while its inventor earned little.",
+  "peek": "In 1817 the Scottish scientist David Brewster patented the kaleidoscope. Copies flooded London and Paris within months. By Brewster's own account about 200,000 sold in three months, but his patent was too weak to stop the copies, and he saw little of the money.",
+  "lede": "David Brewster was a Scottish physicist who studied how light reflects and bends. Around 1815, while experimenting with mirrors, he noticed that two mirrors set at an angle turned a few scraps of colour into a perfectly symmetrical pattern. He put the mirrors in a tube, added bits of coloured glass at one end and patented the result in 1817.",
+  "bullets": [
+    {
+      "opening": "The name kaleidoscope",
+      "linkId": null,
+      "text": "Brewster built the word from three Greek roots: kalos for beautiful, eidos for form and skopein, to look at. It means, roughly, a viewer of beautiful forms."
+    },
+    {
+      "opening": "Mirrors at 60 degrees",
+      "linkId": null,
+      "text": "The angle is the trick. Two mirrors set at 60 degrees reflect each other to make six copies of the view around a centre, so any jumble of glass becomes a six-sided pattern."
+    },
+    {
+      "opening": "The 1817 kaleidoscope craze",
+      "linkId": null,
+      "text": "Once the toy went on sale, copies appeared everywhere. Brewster later wrote that more than 200,000 were sold in London and Paris in about three months, to children and adults alike."
+    },
+    {
+      "opening": "Brewster's weak patent",
+      "linkId": null,
+      "text": "Brewster made very little from it. His patent proved easy to get around, so other makers sold cheap copies freely. He had hoped the kaleidoscope would also help designers create patterns for carpets and fabrics."
+    }
+  ],
+  "tags": [
+    "patterns",
+    "light",
+    "inventors",
+    "etymology"
+  ],
+  "related": [
+    "chladni-figures",
+    "penrose-tiling",
+    "arnolfini-mirror",
+    "friction-match",
+    "newton-indigo",
+    "snow-globe"
+  ]
+}

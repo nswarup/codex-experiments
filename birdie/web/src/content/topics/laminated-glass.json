@@ -1,0 +1,43 @@
+{
+  "id": "laminated-glass",
+  "title": "The flask that didn't shatter",
+  "category": "Inventions",
+  "hook": "A dropped flask cracked but held together, and that led to safer windscreens.",
+  "peek": "In 1903 a French chemist knocked a glass flask off a shelf. It cracked all over but kept its shape, because a film of dried plastic lined the inside. Years later that accident became laminated glass, now used in car windscreens.",
+  "lede": "Édouard Bénédictus was a French chemist, and also a painter and designer. In 1903, the story goes, he knocked an empty flask off a shelf in his laboratory. The glass cracked into a web of lines but did not fall apart. The flask had once held collodion, a solution of cellulose nitrate, which had dried into a thin, clear film that held the pieces in place.",
+  "bullets": [
+    {
+      "opening": "The Triplex patent",
+      "linkId": null,
+      "text": "Bénédictus patented the idea in 1909: a sheet of plastic sandwiched between two panes of glass. He called it Triplex, and a British company of that name went on to make safety glass for cars."
+    },
+    {
+      "opening": "Polyvinyl butyral",
+      "linkId": null,
+      "text": "The early celluloid layer turned yellow and cloudy over time. From the 1930s makers switched to polyvinyl butyral, a clear and tough plastic that is still the usual middle layer in laminated glass today."
+    },
+    {
+      "opening": "Laminated car windscreens",
+      "linkId": null,
+      "text": "A car's front windscreen is laminated, so a stone chip leaves a star-shaped crack while the glass stays in one piece. Many skylights, shop windows and glass floors use the same glass and plastic sandwich."
+    },
+    {
+      "opening": "Bénédictus the designer",
+      "linkId": null,
+      "text": "Bénédictus is also remembered in the art world for richly coloured Art Deco pattern books, such as Variations, published in the 1920s and full of designs for fabrics and wallpapers."
+    }
+  ],
+  "tags": [
+    "accidents",
+    "inventors",
+    "design",
+    "history-of-things"
+  ],
+  "related": [
+    "windscreen-wiper",
+    "prince-ruperts-drop",
+    "medieval-glass-myth",
+    "post-it",
+    "cellophane"
+  ]
+}

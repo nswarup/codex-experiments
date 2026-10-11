@@ -1,0 +1,43 @@
+{
+  "id": "centennial-light",
+  "title": "The light bulb that has burned since 1901",
+  "category": "Inventions",
+  "hook": "A light bulb in a California fire station has been glowing since 1901.",
+  "peek": "In a fire station in Livermore, California, a hand-blown bulb has been shining since 1901, with only a few short breaks. Today it gives off about as much light as a night light, and a webcam lets anyone check that it is still on.",
+  "lede": "The Centennial Light hangs from the ceiling of Fire Station 6 in Livermore, California. It was hand-blown by the Shelby Electric Company in Ohio and first switched on in 1901. It has glowed almost without a break ever since, and Guinness World Records lists it as the longest-lasting light bulb. In 2015 it passed one million hours.",
+  "bullets": [
+    {
+      "opening": "A thick carbon filament",
+      "linkId": null,
+      "text": "The bulb has a carbon filament and now runs at only about 4 watts, giving a soft glow like a night light. Running it so gently, and almost never switching it off, is a big part of why it has lasted."
+    },
+    {
+      "opening": "The 1976 move",
+      "linkId": null,
+      "text": "When the fire department moved to a new station in 1976, the bulb was unplugged for about 22 minutes and driven across town with a fire engine escort. It lit up again in its new home."
+    },
+    {
+      "opening": "The bulb cam",
+      "linkId": null,
+      "text": "Volunteers set up a webcam so anyone can watch the bulb online. In 2013 the camera showed it dark and fans feared it had gone out for good, but the fault was a failed power supply. About nine and a half hours later, the bulb shone again."
+    },
+    {
+      "opening": "The Centennial Light committee",
+      "linkId": null,
+      "text": "A committee of local volunteers looks after the bulb and its history. They have thrown parties for its 100th birthday in 2001 and for its millionth hour of light in 2015."
+    }
+  ],
+  "tags": [
+    "records",
+    "light",
+    "history-of-things",
+    "time"
+  ],
+  "related": [
+    "pitch-drop-experiment",
+    "neon-sign",
+    "anglepoise",
+    "lava-lamp",
+    "friction-match"
+  ]
+}

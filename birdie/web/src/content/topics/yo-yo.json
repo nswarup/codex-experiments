@@ -1,0 +1,43 @@
+{
+  "id": "yo-yo",
+  "title": "The yo-yo is ancient",
+  "category": "Inventions",
+  "hook": "A Greek cup painted around 440 BC shows a boy playing with a yo-yo.",
+  "peek": "The yo-yo craze began in 1920s California, thanks to a Filipino immigrant called Pedro Flores. But the toy itself is far older. A painted Greek cup from around 440 BC shows a boy with one in his hand.",
+  "lede": "Most people think of the yo-yo as a 20th-century fad, and the craze certainly was. The toy is much older. A painted drinking cup from ancient Athens, made around 440 BC and now in a museum, shows a boy spinning a disc on a string. Later, in 18th-century Europe, the toy was a fashion among adults, known in Britain as the bandalore.",
+  "bullets": [
+    {
+      "opening": "Pedro Flores in Santa Barbara",
+      "linkId": null,
+      "text": "Pedro Flores moved from the Philippines to the United States as a young man and opened a yo-yo factory in Santa Barbara, California, in 1928. He ran trick contests to show the toy off, and it spread fast."
+    },
+    {
+      "opening": "The looped yo-yo string",
+      "linkId": null,
+      "text": "Flores is often credited with looping the string around the axle instead of tying it. That lets the yo-yo keep spinning at the bottom of the string, called sleeping, which makes most tricks possible."
+    },
+    {
+      "opening": "Where the word yo-yo comes from",
+      "linkId": null,
+      "text": "Flores used yo-yo, a word from his Philippine homeland. It is often said to mean 'come back', though language experts are not sure of that translation."
+    },
+    {
+      "opening": "Duncan and the trademark",
+      "linkId": null,
+      "text": "The businessman Donald F. Duncan bought Flores's company around 1930 and trademarked the name Yo-Yo. In 1965 a US court ruled the word had become an everyday name for the toy, so any maker could use it."
+    }
+  ],
+  "tags": [
+    "games",
+    "history-of-things",
+    "names",
+    "inventors"
+  ],
+  "related": [
+    "slinky",
+    "frisbee-pie-tins",
+    "escalator-trademark",
+    "royal-game-of-ur",
+    "silly-putty"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "neon-sign",
+  "title": "Most neon signs aren't neon",
+  "category": "Inventions",
+  "hook": "Real neon only glows reddish orange. Every other colour is something else.",
+  "peek": "Neon gas gives one colour: a warm reddish orange. The blues, greens, pinks and whites in a 'neon' sign come from other gases, mostly argon with a little mercury, and from glowing powders coated inside the glass.",
+  "lede": "In 1910 the French engineer Georges Claude lit up the Paris Motor Show with long glass tubes of neon gas. Run electricity through neon and it glows a vivid reddish orange, and that is the only colour it makes. Yet we call every glowing tube sign 'neon', whatever its colour. Most of them contain no neon at all.",
+  "bullets": [
+    {
+      "opening": "Argon and mercury",
+      "linkId": null,
+      "text": "Most signs that are not red are filled with argon and a tiny drop of mercury. On its own this mix glows a pale blue and gives off a lot of ultraviolet light, which our eyes cannot see."
+    },
+    {
+      "opening": "Phosphor coatings",
+      "linkId": null,
+      "text": "The inside of the tube is coated with phosphors, powders that soak up that ultraviolet light and glow in visible colours. Different coatings give greens, pinks, purples and whites from the same gas."
+    },
+    {
+      "opening": "Liquid fire in Los Angeles",
+      "linkId": null,
+      "text": "Neon signs reached America in 1923, when a Los Angeles car dealer bought two signs spelling out Packard from Claude's company. People reportedly stopped in the street to stare, and the glowing tubes were nicknamed liquid fire."
+    },
+    {
+      "opening": "Bending the glass tubes",
+      "linkId": null,
+      "text": "Each sign is still shaped by hand. A glass bender heats a tube over a flame and bends it to match a full-size paper pattern, then the air is pumped out and the gas let in."
+    }
+  ],
+  "tags": [
+    "light",
+    "color",
+    "design",
+    "myths-busted"
+  ],
+  "related": [
+    "centennial-light",
+    "tonic-water-glow",
+    "magenta-no-wavelength",
+    "lava-lamp",
+    "helium-voice"
+  ]
+}

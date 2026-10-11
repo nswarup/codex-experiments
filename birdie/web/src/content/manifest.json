@@ -2568,5 +2568,65 @@
   "id": "d-day-crossword",
   "title": "The D-Day crossword",
   "category": "Games"
+ },
+ {
+  "id": "centennial-light",
+  "title": "The light bulb that has burned since 1901",
+  "category": "Inventions"
+ },
+ {
+  "id": "neon-sign",
+  "title": "Most neon signs aren't neon",
+  "category": "Inventions"
+ },
+ {
+  "id": "yo-yo",
+  "title": "The yo-yo is ancient",
+  "category": "Inventions"
+ },
+ {
+  "id": "swiss-army-knife",
+  "title": "How the Swiss Army knife got its name",
+  "category": "Inventions"
+ },
+ {
+  "id": "tupperware-parties",
+  "title": "Tupperware wouldn't sell in shops",
+  "category": "Inventions"
+ },
+ {
+  "id": "laminated-glass",
+  "title": "The flask that didn't shatter",
+  "category": "Inventions"
+ },
+ {
+  "id": "vulcanized-rubber",
+  "title": "Charles Goodyear's hot stove",
+  "category": "Inventions"
+ },
+ {
+  "id": "cellophane",
+  "title": "Cellophane and the stained tablecloth",
+  "category": "Inventions"
+ },
+ {
+  "id": "thermos-dewar",
+  "title": "The Thermos began in a lab",
+  "category": "Inventions"
+ },
+ {
+  "id": "carrier-air-conditioning",
+  "title": "Air conditioning was for paper",
+  "category": "Inventions"
+ },
+ {
+  "id": "kaleidoscope",
+  "title": "The kaleidoscope craze of 1817",
+  "category": "Inventions"
+ },
+ {
+  "id": "lava-lamp",
+  "title": "The lava lamp and the egg timer",
+  "category": "Inventions"
  }
 ]

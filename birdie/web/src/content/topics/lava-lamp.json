@@ -1,0 +1,43 @@
+{
+  "id": "lava-lamp",
+  "title": "The lava lamp and the egg timer",
+  "category": "Inventions",
+  "hook": "The lava lamp began with a homemade egg timer bubbling away in an English pub.",
+  "peek": "In the early 1960s, a British accountant named Edward Craven Walker spotted a homemade egg timer in a pub: a blob of wax bobbing in a liquid, warmed on a stove. He spent years turning it into the lava lamp.",
+  "lede": "Edward Craven Walker was a British accountant with plenty of other interests. The story goes that in a pub he saw an odd homemade egg timer, built from a cocktail shaker. As it sat on the stove, a blob of wax rose and fell in the liquid inside. Walker saw a lamp in it and spent years working out the right recipe.",
+  "bullets": [
+    {
+      "opening": "Wax that rises and sinks",
+      "linkId": null,
+      "text": "The glass holds a special wax in a watery liquid. Cold, the wax is slightly denser and sits at the bottom. The bulb underneath warms it until it expands and floats up, then it cools near the top and sinks again."
+    },
+    {
+      "opening": "The Astro lamp of 1963",
+      "linkId": null,
+      "text": "Walker's company, Crestworth, launched the lamp as the Astro in 1963, from Poole in Dorset. The firm was later renamed Mathmos and still makes lava lamps in Poole."
+    },
+    {
+      "opening": "Lava Lite in America",
+      "linkId": null,
+      "text": "Two American businessmen saw the lamp at a trade fair in Germany in 1965 and licensed it for the United States, where it was sold as the Lava Lite. That name helped make lava lamp the everyday term."
+    },
+    {
+      "opening": "Waiting for the lava lamp",
+      "linkId": null,
+      "text": "A lava lamp takes a while to get going, often an hour or more after switching on, while the bulb heats the wax enough to move. The exact mix of wax and liquid is a closely kept secret."
+    }
+  ],
+  "tags": [
+    "design",
+    "light",
+    "inventors",
+    "history-of-things"
+  ],
+  "related": [
+    "lavarand",
+    "snow-globe",
+    "anglepoise",
+    "neon-sign",
+    "water-densest-at-4c"
+  ]
+}

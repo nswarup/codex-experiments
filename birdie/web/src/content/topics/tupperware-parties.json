@@ -1,0 +1,43 @@
+{
+  "id": "tupperware-parties",
+  "title": "Tupperware wouldn't sell in shops",
+  "category": "Inventions",
+  "hook": "Tupperware flopped in shops until it was sold at parties in people's homes.",
+  "peek": "Earl Tupper's plastic boxes had a clever airtight lid, but shoppers did not know how to close it and walked past. A saleswoman named Brownie Wise showed it off at home parties instead, and sales grew so fast that Tupper pulled it from shops.",
+  "lede": "In 1946 Earl Tupper, an inventor from Massachusetts, began selling bowls made of a new, flexible plastic. Their lids were modelled on the sealed tops of paint tins, and you closed them by pressing out the air with a soft burp. In shops they sat on the shelf. Customers could not see what made them special, and nobody was there to show them.",
+  "bullets": [
+    {
+      "opening": "The Tupperware burp",
+      "linkId": null,
+      "text": "To close a bowl you pressed the lid on, then lifted one edge slightly and pushed down, squeezing out air so the lid locked tight. It kept food fresh, but it needed a demonstration to make sense."
+    },
+    {
+      "opening": "Brownie Wise's home parties",
+      "linkId": null,
+      "text": "Brownie Wise, a single mother near Detroit, was selling the bowls at parties in friends' homes and outselling many shops. Guests could burp a lid themselves, chat, and then place an order."
+    },
+    {
+      "opening": "Off the shelves in 1951",
+      "linkId": null,
+      "text": "In 1951 Tupper took his products out of shops entirely and put Wise in charge of a new home-party sales company, based in Kissimmee, Florida. Thousands of women, many of them housewives, became Tupperware dealers."
+    },
+    {
+      "opening": "Brownie Wise on Business Week",
+      "linkId": null,
+      "text": "In 1954 Wise became the first woman to appear on the cover of Business Week. After a falling out with Tupper she left the company in 1958, the same year he sold it."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "history-of-things",
+    "design",
+    "food-history"
+  ],
+  "related": [
+    "silly-putty",
+    "shopping-cart",
+    "bubble-wrap",
+    "teflon",
+    "margaret-knight-paper-bag"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "vulcanized-rubber",
+  "title": "Charles Goodyear's hot stove",
+  "category": "Inventions",
+  "hook": "Rubber went soft in heat and cracked in cold until a lucky spill on a stove.",
+  "peek": "Early rubber turned sticky in summer and stiff in winter. Charles Goodyear spent years trying to fix it, and in 1839, the story goes, a rubber and sulphur mix landed on a hot stove and came out firm, springy and dry.",
+  "lede": "In the 1830s, rubber goods were a craze in America that soon turned into a flop. Raincoats and shoes went soft and sticky in summer heat and cracked in the cold. Charles Goodyear, a hardware merchant with no chemistry training, became determined to fix it. For years he mixed rubber with almost anything he could find, mostly at his own expense.",
+  "bullets": [
+    {
+      "opening": "The hot stove in Woburn",
+      "linkId": null,
+      "text": "In 1839 in Woburn, Massachusetts, Goodyear is said to have let rubber mixed with sulphur touch a hot stove. Instead of melting, it charred like leather and stayed flexible. The story comes largely from Goodyear's own account, and the details vary."
+    },
+    {
+      "opening": "How sulphur links rubber",
+      "linkId": null,
+      "text": "Heating rubber with sulphur ties its long molecules together with short sulphur bridges. The rubber can still stretch, but it springs back into shape and no longer goes soft in summer or brittle in winter."
+    },
+    {
+      "opening": "The word vulcanization",
+      "linkId": null,
+      "text": "Goodyear did not name the process. The word came from a friend of the English rubber maker Thomas Hancock, after Vulcan, the Roman god of fire. Hancock patented his own version in Britain shortly before Goodyear could."
+    },
+    {
+      "opening": "Goodyear's money troubles",
+      "linkId": null,
+      "text": "Goodyear won a US patent in 1844 but spent years in court defending it and was often in debt. The Goodyear tyre company, founded in 1898, was only named in his honour and had no link to his family."
+    }
+  ],
+  "tags": [
+    "accidents",
+    "inventors",
+    "history-of-things",
+    "names"
+  ],
+  "related": [
+    "rubber-band-heat",
+    "silly-putty",
+    "cellophane",
+    "microwave-chocolate",
+    "teflon",
+    "friction-match"
+  ]
+}

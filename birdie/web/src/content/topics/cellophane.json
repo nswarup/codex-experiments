@@ -1,0 +1,44 @@
+{
+  "id": "cellophane",
+  "title": "Cellophane and the stained tablecloth",
+  "category": "Inventions",
+  "hook": "Cellophane began as a plan for a tablecloth that wine could not stain.",
+  "peek": "A Swiss chemist watched wine spill across a restaurant tablecloth and decided to make cloth that would wipe clean. His coating would not stay on the fabric, but it peeled away as a thin, clear sheet. That sheet was cellophane.",
+  "lede": "Around 1900, the Swiss chemist Jacques Brandenberger, working in France, saw a diner spill wine on a tablecloth. He set out to make a waterproof cloth by coating it with viscose, a liquid made from wood cellulose. The coated cloth came out stiff, and the coating peeled off. But the film itself was clear and flexible, and he saw more promise in that.",
+  "bullets": [
+    {
+      "opening": "The name cellophane",
+      "linkId": null,
+      "text": "Brandenberger spent years building a machine to make the film in sheets and patented it around 1908. He named it cellophane, from cellulose and diaphane, the French word for see-through."
+    },
+    {
+      "opening": "Cellophane is not plastic",
+      "linkId": null,
+      "text": "Cellophane is made from cellulose, usually from wood pulp, rather than from oil. It is regenerated plant material, so plain cellophane can break down in soil, unlike most clear plastic wrap."
+    },
+    {
+      "opening": "DuPont's moisture-proof cellophane",
+      "linkId": null,
+      "text": "The early film let water vapour through, which made it poor for wrapping food. In 1927 a DuPont chemist, William Hale Charch, added a thin coating that made it moisture-proof, and sales in America took off."
+    },
+    {
+      "opening": "Cellophane in You're the Top",
+      "linkId": null,
+      "text": "By the 1930s cellophane was a symbol of modern glamour. Cole Porter worked it into his 1934 song You're the Top, in a list of the finest things that also includes Garbo's salary and the Mona Lisa's smile."
+    }
+  ],
+  "tags": [
+    "accidents",
+    "inventors",
+    "history-of-things",
+    "names"
+  ],
+  "related": [
+    "scotch-tape",
+    "bubble-wrap",
+    "vulcanized-rubber",
+    "laminated-glass",
+    "tupperware-parties",
+    "perkin-mauve"
+  ]
+}

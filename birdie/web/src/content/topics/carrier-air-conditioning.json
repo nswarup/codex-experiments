@@ -1,0 +1,43 @@
+{
+  "id": "carrier-air-conditioning",
+  "title": "Air conditioning was for paper",
+  "category": "Inventions",
+  "hook": "The first modern air conditioner was built to keep paper flat, not people cool.",
+  "peek": "In 1902 a young engineer named Willis Carrier designed a machine for a Brooklyn printing plant. Its job was to control humidity, so the paper would stop swelling and the coloured inks would line up. Cooling people came later.",
+  "lede": "In 1902 the Sackett-Wilhelms printing company in Brooklyn had a problem. Humid summer air made its paper swell and shrink, so each colour, printed in a separate pass, landed slightly out of line. Willis Carrier, a 25-year-old engineer at the Buffalo Forge Company, designed a system that blew air over chilled coils to pull moisture out of it.",
+  "bullets": [
+    {
+      "opening": "Controlling the dew point",
+      "linkId": null,
+      "text": "Carrier's insight was that chilling air to a set temperature fixes how much water it can hold. By cooling air to a chosen dew point, he could set the humidity in the room. The cooling itself was almost a side effect."
+    },
+    {
+      "opening": "The foggy train platform",
+      "linkId": null,
+      "text": "Carrier later said the idea came together one foggy night on a railway platform in Pittsburgh, while he thought about how fog forms when air holds all the water it can."
+    },
+    {
+      "opening": "Who coined air conditioning",
+      "linkId": null,
+      "text": "Carrier did not invent the phrase. Stuart Cramer, an engineer who controlled humidity in textile mills, used the term air conditioning in 1906, and Carrier later adopted it."
+    },
+    {
+      "opening": "The cool Rivoli Theatre",
+      "linkId": null,
+      "text": "Comfort cooling arrived in the 1920s. In 1925 a Carrier system was switched on at the Rivoli Theatre in New York, and cinemas soon advertised being cool inside to draw summer crowds."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "weather",
+    "history-of-things",
+    "myths-busted"
+  ],
+  "related": [
+    "thermos-dewar",
+    "tudor-ice-trade",
+    "dishwasher-cochrane",
+    "fahrenheit-zero",
+    "twenty-four-frames"
+  ]
+}

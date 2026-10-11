@@ -1,0 +1,43 @@
+{
+  "id": "swiss-army-knife",
+  "title": "How the Swiss Army knife got its name",
+  "category": "Inventions",
+  "hook": "The Swiss call it the officer's knife. American soldiers gave it a new name.",
+  "peek": "The red pocket knife began as a plain tool for Swiss soldiers in 1891. Its English name came later, reportedly from American servicemen after the Second World War who could not manage the German word Offiziersmesser.",
+  "lede": "In 1891 the Swiss Army gave its soldiers a sturdy folding knife with a blade, a screwdriver, a can opener and a reamer. The first batch came from Germany, but a cutler named Karl Elsener soon began making them in Ibach, Switzerland. In German his fancier model is the Offiziersmesser, the officer's knife. English speakers know it by another name.",
+  "bullets": [
+    {
+      "opening": "The 1897 officer's knife",
+      "linkId": null,
+      "text": "Elsener's big idea was a lighter knife with tools on both sides, worked by a single spring. He patented this officer's and sports knife in 1897, adding a small second blade and a corkscrew."
+    },
+    {
+      "opening": "Officers bought their own",
+      "linkId": null,
+      "text": "Despite its name, the officer's knife was never standard issue. Swiss officers who wanted one had to buy it themselves, while ordinary soldiers kept the plainer model."
+    },
+    {
+      "opening": "American servicemen and the name",
+      "linkId": null,
+      "text": "After the Second World War, American soldiers in Europe bought the knives in large numbers. The usual story is that they found Schweizer Offiziersmesser too hard to say and simply called it the Swiss Army knife."
+    },
+    {
+      "opening": "Victorinox, a family name",
+      "linkId": null,
+      "text": "Elsener named his company Victoria after his mother. In 1921 he added inox, short for the French word for stainless steel, which gave the knife's maker its name, Victorinox."
+    }
+  ],
+  "tags": [
+    "names",
+    "etymology",
+    "history-of-things",
+    "design"
+  ],
+  "related": [
+    "can-opener",
+    "safety-pin",
+    "zipper-name",
+    "escalator-trademark",
+    "wd-40"
+  ]
+}
