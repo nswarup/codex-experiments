@@ -1,0 +1,44 @@
+{
+  "id": "checker-shadow-illusion",
+  "title": "Adelson's checker shadow",
+  "category": "Mind",
+  "hook": "Two squares that look light and dark grey are printed in the very same shade.",
+  "peek": "In Edward Adelson's checkerboard picture, a square in shadow looks pale and a square in the open looks dark. They are exactly the same grey. Cover everything around them and the difference vanishes.",
+  "lede": "In 1995 Edward Adelson, a vision scientist at MIT, published a picture of a checkerboard with a green cylinder casting a shadow across it. Square A, out in the light, looks dark grey. Square B, inside the shadow, looks light grey. On the screen or the page they are exactly the same shade. Your brain is not failing here; it is working out what the board must really look like.",
+  "bullets": [
+    {
+      "opening": "Checking it yourself",
+      "linkId": null,
+      "text": "The usual proof is to cover the rest of the picture, leaving only the two squares, or to draw a strip of the same grey linking them. Either way the two greys suddenly match, and they snap apart again when the board returns."
+    },
+    {
+      "opening": "Lightness constancy",
+      "linkId": null,
+      "text": "Vision judges surfaces, not light. A white page in shade still looks white, because the brain allows for the lighting. Here it sees B as a light square dimmed by shadow and A as a dark square in full light."
+    },
+    {
+      "opening": "Edges and the soft shadow",
+      "linkId": null,
+      "text": "Adelson built in several cues. The shadow has a soft edge, which the brain reads as lighting rather than paint, and each square is compared with its neighbours of the opposite colour, which makes the contrast stronger."
+    },
+    {
+      "opening": "Not a light meter",
+      "linkId": null,
+      "text": "The image is often used to show that the eye is a poor judge of raw brightness. That is the price of a good trade: we see objects as stable even when the light on them changes all day."
+    }
+  ],
+  "tags": [
+    "illusions",
+    "perception",
+    "light",
+    "color"
+  ],
+  "related": [
+    "the-dress",
+    "muller-lyer-illusion",
+    "cafe-wall-illusion",
+    "lilac-chaser",
+    "magenta-no-wavelength",
+    "hollow-face-illusion"
+  ]
+}

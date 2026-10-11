@@ -1,0 +1,44 @@
+{
+  "id": "cocktail-party-effect",
+  "title": "The cocktail party effect",
+  "category": "Mind",
+  "hook": "You can ignore a noisy room, then hear your name from across it.",
+  "peek": "At a busy party you can follow one conversation and tune out the rest. Yet if someone across the room says your name, you often hear it at once. The 1950s experiments behind this showed that ignored sound is not fully ignored.",
+  "lede": "In a crowded room you can lock on to one voice and let the rest blur into noise. In 1953 the British engineer Colin Cherry named this the cocktail party problem and began testing it. A few years later came the twist: the voices you tune out are still being checked, quietly, for anything that matters, such as your own name.",
+  "bullets": [
+    {
+      "opening": "Colin Cherry's headphone tests",
+      "linkId": null,
+      "text": "Cherry played a different message into each ear and asked people to repeat one aloud. They could say almost nothing about the other ear's message, and they barely noticed when it switched to German. They did notice if the voice changed from male to female."
+    },
+    {
+      "opening": "Neville Moray's name study",
+      "linkId": null,
+      "text": "In 1959 Moray hid people's names in the ignored ear. About a third of listeners noticed their name, even though they missed nearly everything else. Later experiments found much the same proportion."
+    },
+    {
+      "opening": "Who hears their name",
+      "linkId": null,
+      "text": "A 2001 study found that people with a smaller working memory span were more likely to notice their name, which suggests they were less able to keep their attention locked in place."
+    },
+    {
+      "opening": "Two ears and a guess",
+      "linkId": null,
+      "text": "Part of the skill comes from having two ears, which help locate each voice in space. The brain also fills gaps using lip movements and context. Hearing aids and computers still find the problem hard."
+    }
+  ],
+  "tags": [
+    "acoustics",
+    "attention",
+    "perception",
+    "experiments",
+    "names"
+  ],
+  "related": [
+    "mcgurk-effect",
+    "phonemic-restoration",
+    "invisible-gorilla",
+    "stroop-effect",
+    "baader-meinhof"
+  ]
+}

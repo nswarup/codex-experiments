@@ -1968,5 +1968,65 @@
   "id": "tapping-study",
   "title": "The song-tapping study",
   "category": "Mind"
+ },
+ {
+  "id": "stroop-effect",
+  "title": "The Stroop effect",
+  "category": "Mind"
+ },
+ {
+  "id": "muller-lyer-illusion",
+  "title": "The Müller-Lyer illusion",
+  "category": "Mind"
+ },
+ {
+  "id": "checker-shadow-illusion",
+  "title": "Adelson's checker shadow",
+  "category": "Mind"
+ },
+ {
+  "id": "hollow-face-illusion",
+  "title": "The hollow-face illusion",
+  "category": "Mind"
+ },
+ {
+  "id": "ames-room",
+  "title": "The Ames room",
+  "category": "Mind"
+ },
+ {
+  "id": "moon-illusion",
+  "title": "The Moon illusion",
+  "category": "Mind"
+ },
+ {
+  "id": "cocktail-party-effect",
+  "title": "The cocktail party effect",
+  "category": "Mind"
+ },
+ {
+  "id": "phonemic-restoration",
+  "title": "Phonemic restoration",
+  "category": "Mind"
+ },
+ {
+  "id": "yanny-laurel",
+  "title": "Yanny or Laurel",
+  "category": "Mind"
+ },
+ {
+  "id": "speech-to-song-illusion",
+  "title": "The speech-to-song illusion",
+  "category": "Mind"
+ },
+ {
+  "id": "anchoring-wheel",
+  "title": "The rigged wheel of fortune",
+  "category": "Mind"
+ },
+ {
+  "id": "ikea-effect",
+  "title": "The IKEA effect",
+  "category": "Mind"
  }
 ]

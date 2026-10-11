@@ -1,0 +1,44 @@
+{
+  "id": "ikea-effect",
+  "title": "The IKEA effect",
+  "category": "Mind",
+  "hook": "People value a wobbly box they built themselves more than a neat one they bought.",
+  "peek": "Build a flat-pack box or fold a paper crane, and you will likely think it is worth more than an identical one someone else made. Researchers named this the IKEA effect, and found the effort has to end in success.",
+  "lede": "In a set of studies published in 2012, Michael Norton, Daniel Mochon and Dan Ariely asked people to assemble plain IKEA storage boxes. Builders were willing to pay noticeably more for their own boxes than other people would pay for the same boxes already put together. The labour itself, even dull and fiddly labour, seemed to make the object more valuable to the person who did it.",
+  "bullets": [
+    {
+      "opening": "The origami cranes and frogs",
+      "linkId": null,
+      "text": "In another study, beginners folded origami. They valued their own clumsy creations nearly as much as models folded by experts, while onlookers saw the beginners' work as close to worthless."
+    },
+    {
+      "opening": "Finishing the job",
+      "linkId": null,
+      "text": "The effect needed success. When people built something and then took it apart, or were given a version they could not finish, the extra value mostly disappeared."
+    },
+    {
+      "opening": "The cake mix story",
+      "linkId": null,
+      "text": "A popular tale says instant cake mix sold better once it asked bakers to add a fresh egg, giving them a sense of having made it. Historians doubt the story, but it is often told as an early example."
+    },
+    {
+      "opening": "Why the name stuck",
+      "linkId": null,
+      "text": "IKEA's flat-pack furniture made the idea instantly familiar. The researchers argued that self-assembly may be part of the appeal, not just a way to cut costs."
+    }
+  ],
+  "tags": [
+    "bias",
+    "experiments",
+    "design",
+    "history-of-things"
+  ],
+  "related": [
+    "endowment-effect-mugs",
+    "ben-franklin-effect",
+    "anchoring-wheel",
+    "cognitive-dissonance-dollar",
+    "jam-study",
+    "mere-exposure-effect"
+  ]
+}

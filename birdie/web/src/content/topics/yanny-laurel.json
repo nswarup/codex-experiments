@@ -1,0 +1,44 @@
+{
+  "id": "yanny-laurel",
+  "title": "Yanny or Laurel",
+  "category": "Mind",
+  "hook": "In 2018 one short audio clip split listeners between Yanny and Laurel.",
+  "peek": "In May 2018, a robotic-sounding clip of one word divided the internet: some heard Yanny, others clearly heard Laurel. The original recording was the word laurel, and which name you hear depends largely on which pitches your ears and speakers pick up.",
+  "lede": "In May 2018 a few seconds of audio went viral. Some people heard a voice say Yanny. Others heard Laurel, and each side was baffled by the other. The clip came from a dictionary website's pronunciation of laurel, played from a phone and re-recorded. That copying added noise, leaving a sound balanced on a knife edge between two very different names.",
+  "bullets": [
+    {
+      "opening": "The dictionary recording",
+      "linkId": null,
+      "text": "The source was the entry for laurel on Vocabulary.com, recorded years earlier by a singer reading words for the site. It was a clean, ordinary laurel until it was re-recorded."
+    },
+    {
+      "opening": "High and low pitches",
+      "linkId": null,
+      "text": "Acoustic analyses found that the lower frequencies carry Laurel, while patterns in the higher ones resemble Yanny. Filter out the low end and almost everyone hears Yanny; cut the high end and Laurel wins."
+    },
+    {
+      "opening": "Speakers and ears",
+      "linkId": null,
+      "text": "Laptop speakers, earbuds and phones stress different pitches, so the same person could switch answers by changing device. Age matters too, since hearing at high pitches usually fades over the years."
+    },
+    {
+      "opening": "Flipping your answer",
+      "linkId": null,
+      "text": "Many people found they could switch what they heard by expecting the other name, or by sliding the pitch with online tools. The sound stays the same while the brain picks a side."
+    }
+  ],
+  "tags": [
+    "acoustics",
+    "perception",
+    "illusions",
+    "internet"
+  ],
+  "related": [
+    "the-dress",
+    "mcgurk-effect",
+    "phonemic-restoration",
+    "missing-fundamental",
+    "speech-to-song-illusion",
+    "spinning-dancer"
+  ]
+}

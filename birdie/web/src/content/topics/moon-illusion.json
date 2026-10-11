@@ -1,0 +1,43 @@
+{
+  "id": "moon-illusion",
+  "title": "The Moon illusion",
+  "category": "Mind",
+  "hook": "The rising Moon looks huge, yet it is the same size as when it is overhead.",
+  "peek": "A full Moon on the horizon can look enormous. Photographs show it is no bigger than when it rides high in the sky, and it is actually a little farther away. The swelling happens in your head.",
+  "lede": "A full Moon rising over rooftops can look startlingly large. Yet a photo taken at the horizon and another taken hours later overhead show a Moon of the same size. At the horizon it is in fact slightly farther from you, by roughly the width of the Earth's radius, so it is about 1.5% smaller. People have puzzled over this for over 2,000 years.",
+  "bullets": [
+    {
+      "opening": "Not the atmosphere",
+      "linkId": null,
+      "text": "A common belief is that the air magnifies the low Moon like a lens. It does not. Refraction near the horizon slightly squashes the Moon from top to bottom, making it smaller, not bigger."
+    },
+    {
+      "opening": "Ptolemy and Ibn al-Haytham",
+      "linkId": null,
+      "text": "Ptolemy discussed the Moon illusion in the second century AD, and around 1000 AD the Arab scholar Ibn al-Haytham argued it came from how we judge distance, an idea that still shapes modern explanations."
+    },
+    {
+      "opening": "The flattened sky",
+      "linkId": null,
+      "text": "One leading theory is that we see the sky as a flattened dome, with the horizon farther away than the zenith. An object of fixed size that seems farther away looks bigger. Researchers still disagree on the full answer."
+    },
+    {
+      "opening": "Shrinking it back",
+      "linkId": null,
+      "text": "Looking at the low Moon through a rolled-up paper tube, so that the landscape is hidden, usually makes it look ordinary again. That supports the idea that the horizon scenery feeds the illusion."
+    }
+  ],
+  "tags": [
+    "illusions",
+    "perception",
+    "space",
+    "myths-busted"
+  ],
+  "related": [
+    "ames-room",
+    "muller-lyer-illusion",
+    "eratosthenes-earth",
+    "overview-effect",
+    "the-dress"
+  ]
+}

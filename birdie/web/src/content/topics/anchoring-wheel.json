@@ -1,0 +1,44 @@
+{
+  "id": "anchoring-wheel",
+  "title": "The rigged wheel of fortune",
+  "category": "Mind",
+  "hook": "A wheel rigged to stop at 10 or 65 changed people's guesses about Africa.",
+  "peek": "Amos Tversky and Daniel Kahneman spun a wheel of fortune that could only land on 10 or 65, then asked people about African countries in the UN. The random number they had just seen pulled their answers toward it.",
+  "lede": "In a study described in 1974, the psychologists Amos Tversky and Daniel Kahneman spun a wheel of fortune numbered from 0 to 100 in front of each participant. Secretly, it was rigged to stop at 10 or at 65. People were then asked what percentage of United Nations members were African countries. The number on the wheel, which was plainly meaningless, dragged their estimates toward it.",
+  "bullets": [
+    {
+      "opening": "The two answers",
+      "linkId": null,
+      "text": "Those who saw 10 gave a median estimate of 25%. Those who saw 65 gave 45%. A random spin had moved their best guesses by 20 percentage points, on a question with a real answer."
+    },
+    {
+      "opening": "Is it higher or lower",
+      "linkId": null,
+      "text": "Participants were first asked whether the true figure was above or below the wheel's number. That small step seems to set the anchor: people start from it and adjust, but stop too soon."
+    },
+    {
+      "opening": "Anchoring and adjustment",
+      "linkId": null,
+      "text": "Tversky and Kahneman called this anchoring. Their 1974 paper in Science, on judgement under uncertainty, placed it alongside other mental shortcuts, and it became one of their best-known results."
+    },
+    {
+      "opening": "The Many Labs replication",
+      "linkId": null,
+      "text": "Some famous psychology findings have faded when retested, but anchoring has held up. A large 2014 project repeating classic studies in dozens of labs found strong anchoring effects."
+    }
+  ],
+  "tags": [
+    "probability",
+    "bias",
+    "experiments",
+    "numbers"
+  ],
+  "related": [
+    "linda-problem",
+    "galton-ox-guess",
+    "bat-and-ball",
+    "endowment-effect-mugs",
+    "jam-study",
+    "ikea-effect"
+  ]
+}

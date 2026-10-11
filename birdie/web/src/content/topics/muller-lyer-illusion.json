@@ -1,0 +1,44 @@
+{
+  "id": "muller-lyer-illusion",
+  "title": "The Müller-Lyer illusion",
+  "category": "Mind",
+  "hook": "Two equal lines look different lengths, even after you measure them.",
+  "peek": "Put arrowheads pointing in on one line and fins pointing out on another, and the second looks clearly longer. Measure them and they match. Knowing the answer does not make the illusion go away.",
+  "lede": "In 1889 the German sociologist and psychiatrist Franz Carl Müller-Lyer published a simple drawing. Two lines of exactly the same length are capped, one with arrowheads pointing inward, the other with fins pointing outward. The one with outward fins looks noticeably longer. Lay a ruler on them and they match, yet the moment you look again, the difference is back.",
+  "bullets": [
+    {
+      "opening": "Knowing does not help",
+      "linkId": null,
+      "text": "The illusion is a classic case of perception ignoring knowledge. Even researchers who have studied it for decades still see the lines as unequal, which suggests the effect is built into early vision rather than into reasoning."
+    },
+    {
+      "opening": "Richard Gregory's corner theory",
+      "linkId": null,
+      "text": "The psychologist Richard Gregory argued that the figures look like the corners of buildings and rooms, one jutting toward you and one receding. The brain treats the receding corner as farther away and enlarges it. Critics point out the effect still works with circles instead of fins, so the theory is debated."
+    },
+    {
+      "opening": "The cross-cultural studies",
+      "linkId": null,
+      "text": "In the 1960s Marshall Segall and colleagues tested people around the world and found that some groups, such as foragers in the Kalahari, were much less fooled than students in the United States. Why remains argued over."
+    },
+    {
+      "opening": "Birds and fish",
+      "linkId": null,
+      "text": "The illusion is not only human. Experiments suggest pigeons, parrots and even some fish judge the lines the way we do, picking the outward-finned line as longer."
+    }
+  ],
+  "tags": [
+    "illusions",
+    "perception",
+    "geometry",
+    "culture"
+  ],
+  "related": [
+    "cafe-wall-illusion",
+    "checker-shadow-illusion",
+    "ames-room",
+    "moon-illusion",
+    "the-dress",
+    "asch-lines"
+  ]
+}

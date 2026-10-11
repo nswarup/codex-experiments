@@ -1,0 +1,45 @@
+{
+  "id": "speech-to-song-illusion",
+  "title": "The speech-to-song illusion",
+  "category": "Mind",
+  "hook": "Loop a spoken phrase a few times and it suddenly turns into a song.",
+  "peek": "Diana Deutsch found that a short spoken phrase, repeated a few times, starts to sound like it is being sung. Once that happens, the phrase keeps its tune even when you hear it again in ordinary speech.",
+  "lede": "In 1995 the psychologist Diana Deutsch, at the University of California, San Diego, was editing a spoken introduction for a CD and left one phrase playing on a loop: sometimes behave so strangely. After a few repetitions, the words no longer sounded spoken. They sounded sung, with a clear melody. When she played the whole sentence again, that phrase still sang out from the plain speech around it.",
+  "bullets": [
+    {
+      "opening": "Sometimes behave so strangely",
+      "linkId": null,
+      "text": "The words come from the CD Musical Illusions and Paradoxes. Fittingly, the phrase describes what the brain does with it, and it became the standard example of the effect."
+    },
+    {
+      "opening": "Deutsch's 2011 experiments",
+      "linkId": null,
+      "text": "In tests with her colleagues, listeners rated the looped phrase as more and more song-like. When they were asked to repeat it back, people who had heard the loop sang it with the pitches of the original, rather than simply saying it."
+    },
+    {
+      "opening": "Breaking the spell",
+      "linkId": null,
+      "text": "The change needs exact repetition. When each repeat was shifted slightly in pitch, or the syllables were jumbled, the phrase stayed speech. Steady repetition seems to make the brain stop treating the pitches as speech and listen to them as melody."
+    },
+    {
+      "opening": "Speech always has a tune",
+      "linkId": null,
+      "text": "The illusion reveals that ordinary speech carries rises and falls in pitch close to a melody all along. Repetition simply lets that hidden tune come forward."
+    }
+  ],
+  "tags": [
+    "acoustics",
+    "illusions",
+    "perception",
+    "music-tech",
+    "speech"
+  ],
+  "related": [
+    "semantic-satiation",
+    "shepard-tone",
+    "satie-vexations",
+    "perfect-pitch",
+    "phonemic-restoration",
+    "yanny-laurel"
+  ]
+}

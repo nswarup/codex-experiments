@@ -1,0 +1,44 @@
+{
+  "id": "hollow-face-illusion",
+  "title": "The hollow-face illusion",
+  "category": "Mind",
+  "hook": "Look into the back of a mask and the face seems to bulge out toward you.",
+  "peek": "Turn a mask around and look into its hollow inside. Instead of a dent, you see a normal face popping out toward you. The brain is so sure faces stick out that it overrules the depth cues in front of it.",
+  "lede": "Look at the inside of a hollow mask, from a few steps away, and you do not see a dent shaped like a face. You see an ordinary face, nose pointing toward you. The British psychologist Richard Gregory made the illusion famous and used it to argue that what we see is partly a guess, built from what we expect the world to contain.",
+  "bullets": [
+    {
+      "opening": "Gregory's Charlie Chaplin mask",
+      "linkId": null,
+      "text": "One well-known demonstration uses a slowly rotating Charlie Chaplin mask. As the hollow back comes round, the face seems to flip to convex and turn the wrong way, and most viewers cannot stop it even when they know."
+    },
+    {
+      "opening": "The mask that follows you",
+      "linkId": null,
+      "text": "Walk past a hollow face and it seems to turn its head to watch you. Because the brain has inverted the depth, its normal sense of how near and far parts should shift as you move comes out backwards."
+    },
+    {
+      "opening": "Upside-down masks",
+      "linkId": null,
+      "text": "The illusion is weaker when the mask is turned upside down, and weaker still for hollow objects that are not faces. That points to strong expectations about faces, rather than a general rule about bumps."
+    },
+    {
+      "opening": "Getting close",
+      "linkId": null,
+      "text": "Up close with both eyes open, the true depth can win and the hollowness shows. Step back or close one eye and the convex face comes straight back."
+    }
+  ],
+  "tags": [
+    "illusions",
+    "perception",
+    "faces",
+    "depth"
+  ],
+  "related": [
+    "pareidolia",
+    "thatcher-effect",
+    "spinning-dancer",
+    "ames-room",
+    "uncanny-valley",
+    "checker-shadow-illusion"
+  ]
+}

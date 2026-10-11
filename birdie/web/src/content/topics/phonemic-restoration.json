@@ -1,0 +1,44 @@
+{
+  "id": "phonemic-restoration",
+  "title": "Phonemic restoration",
+  "category": "Mind",
+  "hook": "Replace a sound in a word with noise, and listeners still hear the missing sound.",
+  "peek": "Cut a sound out of a recorded word and fill the gap with a short burst of noise. Listeners hear the complete word, with the noise somewhere in the background, and most cannot say where it was.",
+  "lede": "In 1970 the American psychologist Richard Warren took a recorded sentence and cut out one sound, the first s in the word legislatures, replacing it with a short cough. Listeners heard the word perfectly, missing sound and all, with a cough somewhere alongside. Almost none of them noticed anything was gone, and they could not say where in the sentence the cough fell.",
+  "bullets": [
+    {
+      "opening": "Warren's legislatures sentence",
+      "linkId": null,
+      "text": "When the gap was left silent, people heard it at once. Filling it with noise loud enough to have hidden the sound was what made the missing s reappear, as if the brain assumed it had simply been drowned out."
+    },
+    {
+      "opening": "The eel on the axle",
+      "linkId": null,
+      "text": "In a later study, the start of a word was replaced with noise, so listeners heard something like eel. If the sentence ended in axle they heard wheel, if it ended in orange they heard peel. The word arriving later decided what they heard earlier."
+    },
+    {
+      "opening": "Hearing the future",
+      "linkId": null,
+      "text": "That result means the brain does not report sounds the instant they arrive. It holds a fraction of a second of speech and revises it once the context is in."
+    },
+    {
+      "opening": "Everyday listening",
+      "linkId": null,
+      "text": "The same process helps in daily life, where traffic, a door slam or a cough often covers part of a word. It is one reason speech stays understandable on a bad phone line."
+    }
+  ],
+  "tags": [
+    "acoustics",
+    "perception",
+    "illusions",
+    "listening",
+    "speech"
+  ],
+  "related": [
+    "cocktail-party-effect",
+    "mcgurk-effect",
+    "yanny-laurel",
+    "missing-fundamental",
+    "speech-to-song-illusion"
+  ]
+}

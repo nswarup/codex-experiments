@@ -1,0 +1,43 @@
+{
+  "id": "ames-room",
+  "title": "The Ames room",
+  "category": "Mind",
+  "hook": "In a lopsided room, two people of the same height look like a giant and a tiny person.",
+  "peek": "Seen through a peephole, the Ames room looks like an ordinary box-shaped room. Put two people in its far corners and one looks huge while the other looks small, and they seem to grow or shrink as they walk across.",
+  "lede": "In 1946 the American scientist Adelbert Ames Jr. built a room that only looks normal. Its back wall slants away, so one far corner is much more distant than the other, and the windows and floor tiles are distorted to hide it. Seen through a peephole with one eye, it looks like a plain rectangular room, and the people inside it look impossibly different in size.",
+  "bullets": [
+    {
+      "opening": "The peephole view",
+      "linkId": null,
+      "text": "The trick depends on taking away depth cues. With one eye at a fixed spot, nothing tells you the far wall is angled. The brain assumes a normal room, so a person in the far corner must be small."
+    },
+    {
+      "opening": "Walking across the room",
+      "linkId": null,
+      "text": "When someone walks from one back corner to the other, they appear to swell or shrink as they go. The brain would rather believe a person is changing size than that a room is not square."
+    },
+    {
+      "opening": "The Honi phenomenon",
+      "linkId": null,
+      "text": "An early report from the 1940s described a woman, nicknamed Honi, who saw her husband less distorted than strangers in the room. Later studies of whether familiar faces resist the illusion have given mixed results."
+    },
+    {
+      "opening": "Forced perspective in film",
+      "linkId": null,
+      "text": "Film-makers use the same principle. The Lord of the Rings films used forced-perspective sets so that actors of normal height could appear as small hobbits beside the wizard Gandalf."
+    }
+  ],
+  "tags": [
+    "illusions",
+    "perception",
+    "architecture",
+    "depth"
+  ],
+  "related": [
+    "muller-lyer-illusion",
+    "hollow-face-illusion",
+    "moon-illusion",
+    "spinning-dancer",
+    "checker-shadow-illusion"
+  ]
+}

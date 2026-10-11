@@ -1,0 +1,43 @@
+{
+  "id": "stroop-effect",
+  "title": "The Stroop effect",
+  "category": "Mind",
+  "hook": "Name the ink colour of the word RED printed in blue, and your brain stalls.",
+  "peek": "Say the colour of the ink, not the word. When the word BLUE is printed in red, almost everyone slows down and stumbles. Reading has become so automatic that you cannot switch it off, even when it gets in the way.",
+  "lede": "In 1935 the American psychologist John Ridley Stroop printed colour words in clashing inks, such as GREEN in red, and asked people to name the ink. They were far slower than when naming plain patches of colour, and they made more slips. Reading the word happens whether you want it to or not, and it trips up the answer you are trying to give.",
+  "bullets": [
+    {
+      "opening": "James McKeen Cattell's timings",
+      "linkId": null,
+      "text": "Half a century earlier, in 1886, Cattell had noticed that people read a list of colour words faster than they could name the same colours shown as patches. Stroop's twist was to put the word and the ink in conflict."
+    },
+    {
+      "opening": "Stroop's 1935 experiments",
+      "linkId": null,
+      "text": "In his main test, naming the ink of clashing words took roughly three-quarters longer than naming coloured squares. Reading the words aloud while ignoring the ink barely slowed people at all, a lopsided result that became the heart of the effect."
+    },
+    {
+      "opening": "Automatic reading",
+      "linkId": null,
+      "text": "The usual explanation is that skilled reading runs on its own. Children show the effect once reading becomes fluent in the early school years, and words in a script you cannot read cause little trouble."
+    },
+    {
+      "opening": "The Stroop test",
+      "linkId": null,
+      "text": "Because the task measures how well someone can hold back a strong habit, versions of it are still used in psychology labs and attention tests. It is among the most repeated experiments in the field, and it almost always works."
+    }
+  ],
+  "tags": [
+    "perception",
+    "attention",
+    "experiments",
+    "reading"
+  ],
+  "related": [
+    "semantic-satiation",
+    "mcgurk-effect",
+    "invisible-gorilla",
+    "cocktail-party-effect",
+    "bat-and-ball"
+  ]
+}
