@@ -1,0 +1,43 @@
+{
+  "id": "diary-of-merer",
+  "title": "The Diary of Merer",
+  "category": "History",
+  "hook": "The oldest inscribed papyri are a work log from building the Great Pyramid.",
+  "peek": "In 2013 archaeologists on Egypt's Red Sea coast found papyri about 4,500 years old. They turned out to be the logbook of Merer, an official whose crew shipped limestone down the Nile to Giza for Khufu's Great Pyramid.",
+  "lede": "In 2013 a team led by the French archaeologist Pierre Tallet was digging at Wadi al-Jarf, an ancient harbour on Egypt's Red Sea coast. In storage caves they found the oldest inscribed papyri yet known, from around 2560 BC. Among them was a logbook kept by an official named Merer, recording months of work on the Great Pyramid of Khufu.",
+  "bullets": [
+    {
+      "opening": "Limestone from Tura",
+      "linkId": null,
+      "text": "Merer's crew, about 40 men, carried fine white limestone by boat from the quarries at Tura, across the Nile, to Giza. That stone was used for the pyramid's smooth outer casing."
+    },
+    {
+      "opening": "Merer's daily entries",
+      "linkId": null,
+      "text": "The log is set out like a calendar, with each day split into columns. It notes where the crew slept, when they loaded stone and when they sailed, giving a plain, practical view of the building work."
+    },
+    {
+      "opening": "A harbour at Giza",
+      "linkId": null,
+      "text": "The diary describes boats reaching Giza through canals and basins that brought Nile water close to the building site. It confirms that much of the heavy stone travelled by water rather than overland."
+    },
+    {
+      "opening": "Ankhhaf, the supervisor",
+      "linkId": null,
+      "text": "Merer reports to a noble called Ankhhaf, who is known from other sources as a half-brother of Khufu. The diary names him as the official in charge of this part of the project."
+    }
+  ],
+  "tags": [
+    "ancient-egypt",
+    "writing",
+    "archaeology",
+    "records"
+  ],
+  "related": [
+    "ea-nasir-complaint",
+    "kushim",
+    "vindolanda-birthday-invitation",
+    "rosetta-stone",
+    "cuneiform-accounts"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "penny-black",
+  "title": "The Penny Black",
+  "category": "History",
+  "hook": "The world's first stamp is why British stamps still carry no country name.",
+  "peek": "In 1840 Britain issued the Penny Black, the first adhesive postage stamp. Because it came first, Britain never needed to print its name on stamps, and to this day a small portrait of the monarch is enough to show where a British stamp comes from.",
+  "lede": "Before 1840, British letters were usually paid for by the person receiving them, at prices that rose with distance. Rowland Hill argued for a cheap flat rate, paid in advance by the sender. The result was the Penny Black, issued on 1 May 1840 and valid from 6 May. It showed a young Queen Victoria and no country name at all.",
+  "bullets": [
+    {
+      "opening": "No country name",
+      "linkId": null,
+      "text": "Britain was the only country using stamps, so no name was needed. When international rules later asked stamps to name their country, Britain kept an exception as the first issuer. A profile of the monarch's head still does that job."
+    },
+    {
+      "opening": "Rowland Hill's postal reform",
+      "linkId": null,
+      "text": "Hill's Uniform Penny Post let a letter of up to half an ounce travel anywhere in Britain for one penny. Letter writing boomed, and within a few years other countries copied both the flat rate and the sticky stamp."
+    },
+    {
+      "opening": "Check letters in the corners",
+      "linkId": null,
+      "text": "Each stamp had two letters in its bottom corners, showing its position on the printing sheet. No two stamps on a sheet shared the same pair, which made forgery harder."
+    },
+    {
+      "opening": "The switch to the Penny Red",
+      "linkId": null,
+      "text": "The Penny Black lasted less than a year. Red cancellation marks were hard to see on black and could be cleaned off for reuse, so in 1841 the stamp turned red and the marks turned black."
+    }
+  ],
+  "tags": [
+    "history-of-things",
+    "design",
+    "communication",
+    "names"
+  ],
+  "related": [
+    "paris-pneumatic-post",
+    "penny-memory",
+    "pony-express",
+    "parcel-post-children",
+    "swan-upping"
+  ]
+}

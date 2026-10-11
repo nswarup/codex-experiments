@@ -2628,5 +2628,65 @@
   "id": "lava-lamp",
   "title": "The lava lamp and the egg timer",
   "category": "Inventions"
+ },
+ {
+  "id": "paris-pneumatic-post",
+  "title": "Paris's pneumatic post",
+  "category": "History"
+ },
+ {
+  "id": "penny-black",
+  "title": "The Penny Black",
+  "category": "History"
+ },
+ {
+  "id": "swan-upping",
+  "title": "Swan Upping",
+  "category": "History"
+ },
+ {
+  "id": "viking-horned-helmets",
+  "title": "Vikings didn't wear horned helmets",
+  "category": "History"
+ },
+ {
+  "id": "flat-earth-myth",
+  "title": "Medieval people knew the Earth was round",
+  "category": "History"
+ },
+ {
+  "id": "diary-of-merer",
+  "title": "The Diary of Merer",
+  "category": "History"
+ },
+ {
+  "id": "ea-nasir-complaint",
+  "title": "Ea-nasir and the oldest complaint letter",
+  "category": "History"
+ },
+ {
+  "id": "kushim",
+  "title": "Kushim, maybe the first named person",
+  "category": "History"
+ },
+ {
+  "id": "vindolanda-birthday-invitation",
+  "title": "The Vindolanda birthday invitation",
+  "category": "History"
+ },
+ {
+  "id": "pepys-parmesan",
+  "title": "Samuel Pepys buries his parmesan",
+  "category": "History"
+ },
+ {
+  "id": "lloyds-coffee-house",
+  "title": "Lloyd's began in a coffee house",
+  "category": "History"
+ },
+ {
+  "id": "eiffel-tower-antenna",
+  "title": "The Eiffel Tower was meant to come down",
+  "category": "History"
  }
 ]

@@ -1,0 +1,43 @@
+{
+  "id": "eiffel-tower-antenna",
+  "title": "The Eiffel Tower was meant to come down",
+  "category": "History",
+  "hook": "The Eiffel Tower had a 20-year permit. Radio helped it stay.",
+  "peek": "The Eiffel Tower was built for the 1889 World's Fair with a 20-year permit, after which Paris could take it down. Gustave Eiffel made it useful for science, and its value as a giant radio antenna helped win it a long reprieve.",
+  "lede": "When the Eiffel Tower opened for the 1889 World's Fair, it was not meant to be permanent. Gustave Eiffel's company had the right to run it for 20 years, after which the city of Paris could dismantle it. Eiffel set out to prove the tower useful, and the new science of radio gave him his best argument.",
+  "bullets": [
+    {
+      "opening": "The 1887 artists' protest",
+      "linkId": null,
+      "text": "Before it was built, a group of artists and writers, including Guy de Maupassant and Charles Gounod, signed a public letter attacking the tower as a useless monstrosity. Parisians flocked to it anyway."
+    },
+    {
+      "opening": "Ducretet's wireless test",
+      "linkId": null,
+      "text": "In 1898 Eugène Ducretet sent a wireless signal from the tower to the Panthéon, a few kilometres away. Eiffel then supported army radio experiments led by Gustave Ferrié, which put the tower's height to practical use."
+    },
+    {
+      "opening": "The 1910 renewal",
+      "linkId": null,
+      "text": "With the tower now important for military radio, the permit was extended in 1910 for another 70 years. That same year the tower began sending time signals, which ships used to set their clocks."
+    },
+    {
+      "opening": "Antennas on top",
+      "linkId": null,
+      "text": "The tower still carries broadcast antennas at its summit. Each new set has added height, taking it from its original 300 metres to around 330 metres today."
+    }
+  ],
+  "tags": [
+    "architecture",
+    "radio",
+    "inventors",
+    "paris"
+  ],
+  "related": [
+    "paris-pneumatic-post",
+    "eiffel-apartment",
+    "sagrada-familia",
+    "hollywoodland-sign",
+    "caesium-second"
+  ]
+}

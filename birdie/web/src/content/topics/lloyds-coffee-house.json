@@ -1,0 +1,43 @@
+{
+  "id": "lloyds-coffee-house",
+  "title": "Lloyd's began in a coffee house",
+  "category": "History",
+  "hook": "One of the world's great insurance markets started as a coffee house.",
+  "peek": "In the late 1680s, Edward Lloyd ran a London coffee house where ship owners, captains and merchants traded news. Insurers began doing business at the tables, and the gathering grew into Lloyd's of London.",
+  "lede": "In the 1680s, London coffee houses were where business happened. Edward Lloyd's, first recorded in 1688 on Tower Street, drew sailors, ship owners and merchants hungry for news of ships and cargoes. Men willing to insure voyages began meeting there too. Lloyd himself was never an insurer, but his coffee house gave its name to the market that grew from it.",
+  "bullets": [
+    {
+      "opening": "Signing underneath",
+      "linkId": null,
+      "text": "An insurer accepted part of a risk by writing his name beneath the details of the voyage. That is the origin of the word underwriter, still used for insurers today."
+    },
+    {
+      "opening": "Lloyd's List",
+      "linkId": null,
+      "text": "Lloyd's coffee house became known for reliable shipping news. In 1734 the newspaper Lloyd's List began, and it is one of the oldest continuously published journals in the world."
+    },
+    {
+      "opening": "Waiters in red coats",
+      "linkId": null,
+      "text": "The staff who carry messages around the Lloyd's market floor are still called waiters, a reminder of the coffee house. They wear red and black uniforms."
+    },
+    {
+      "opening": "From coffee house to institution",
+      "linkId": null,
+      "text": "Underwriters moved to the Royal Exchange in 1774, and Lloyd's was formally incorporated by an Act of Parliament in 1871. Its home since 1986 is Richard Rogers's inside-out building in the City of London."
+    }
+  ],
+  "tags": [
+    "coffee",
+    "london",
+    "names",
+    "history-of-things"
+  ],
+  "related": [
+    "pepys-parmesan",
+    "swan-upping",
+    "penny-black",
+    "tulip-mania",
+    "jiaozi-paper-money"
+  ]
+}

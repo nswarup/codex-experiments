@@ -1,0 +1,38 @@
+{
+  "id": "vindolanda-birthday-invitation",
+  "title": "The Vindolanda birthday invitation",
+  "category": "History",
+  "hook": "A Roman party invitation holds some of the oldest Latin handwriting by a woman.",
+  "peek": "Around AD 100, near what became Hadrian's Wall, Claudia Severa invited her friend Sulpicia Lepidina to her birthday party. A scribe wrote most of the note on a thin wooden tablet, but Claudia added a few lines in her own hand.",
+  "lede": "At the Roman fort of Vindolanda in northern England, archaeologists have found hundreds of thin wooden writing tablets, preserved in waterlogged, oxygen-free ground. One of the best loved, from around AD 100, is a birthday invitation. Claudia Severa asks her friend Sulpicia Lepidina to visit on 11 September, adding that the day will be more enjoyable if she comes.",
+  "bullets": [
+    {
+      "opening": "Claudia Severa's own hand",
+      "linkId": null,
+      "text": "Most of the invitation was written by a scribe, in neat lettering. At the end Claudia added a farewell in a different, less practised hand, calling Lepidina her sister. It is among the earliest known Latin writing by a woman."
+    },
+    {
+      "opening": "Sulpicia Lepidina",
+      "linkId": null,
+      "text": "Lepidina was the wife of Flavius Cerialis, commander of the garrison at Vindolanda. Other letters to her from Claudia survive too, showing a warm friendship between two officers' wives on the edge of the empire."
+    },
+    {
+      "opening": "The Vindolanda tablets",
+      "linkId": null,
+      "text": "The tablets are slivers of wood about the size of a postcard, written in ink. Robin Birley's team began finding them in 1973, and many, including the invitation, are now in the British Museum."
+    }
+  ],
+  "tags": [
+    "writing",
+    "romans",
+    "archaeology",
+    "birthdays"
+  ],
+  "related": [
+    "ea-nasir-complaint",
+    "diary-of-merer",
+    "kushim",
+    "happy-birthday-copyright",
+    "racehorse-birthday"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "swan-upping",
+  "title": "Swan Upping",
+  "category": "History",
+  "hook": "Every July, the King's swans on the Thames are counted from rowing boats.",
+  "peek": "The British Crown has claimed unmarked mute swans on open water since the Middle Ages. Each July, crews in rowing skiffs travel up the Thames for five days, lifting cygnets from the water to weigh, measure and check them.",
+  "lede": "Since the 12th century, the Crown has claimed ownership of unmarked mute swans swimming in open water in England and Wales. In practice the right is now exercised only on stretches of the Thames and its tributaries. There, every July, an old ceremony called Swan Upping turns into a careful wildlife census, carried out by rowers in traditional uniforms.",
+  "bullets": [
+    {
+      "opening": "The Vintners and the Dyers",
+      "linkId": null,
+      "text": "Since the 15th century, two London livery companies, the Vintners and the Dyers, have also owned swans on the Thames. Their cygnets are marked during Swan Upping, while the Crown's birds are left unmarked."
+    },
+    {
+      "opening": "Five days in July",
+      "linkId": null,
+      "text": "In the third week of July, crews in wooden skiffs row upriver from Sunbury to Abingdon. When they spot a family of swans, the cry of All up goes out, and the boats gently surround the birds."
+    },
+    {
+      "opening": "The King's Swan Marker",
+      "linkId": null,
+      "text": "The officer in charge is the King's Swan Marker, dressed in a scarlet jacket. Cygnets are lifted out, weighed and measured, checked for health, then returned to their parents."
+    },
+    {
+      "opening": "From feasts to conservation",
+      "linkId": null,
+      "text": "Swans were once a luxury served at grand banquets, which is why ownership mattered. Today the count tracks how the Thames population is doing, and schoolchildren are invited along to learn about the birds."
+    }
+  ],
+  "tags": [
+    "traditions",
+    "birds",
+    "rivers",
+    "royalty"
+  ],
+  "related": [
+    "tower-of-london-ravens",
+    "penny-black",
+    "lloyds-coffee-house",
+    "pepys-parmesan",
+    "emperor-penguin-huddle"
+  ]
+}

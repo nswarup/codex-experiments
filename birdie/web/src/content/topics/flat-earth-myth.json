@@ -1,0 +1,44 @@
+{
+  "id": "flat-earth-myth",
+  "title": "Medieval people knew the Earth was round",
+  "category": "History",
+  "hook": "Columbus's critics knew the Earth was round. They thought it was too big.",
+  "peek": "Educated Europeans in the Middle Ages knew the Earth was a sphere. The story that Columbus had to prove it was largely popularised by Washington Irving in 1828. The real argument was about distance, and Columbus's critics had the numbers right.",
+  "lede": "The Earth's roundness was settled knowledge long before Columbus. Greek thinkers had shown it, and Eratosthenes estimated its size around 240 BC. Medieval scholars learned it from standard textbooks. Yet many people grew up hearing that Columbus sailed to prove the world was not flat. That tale owes most to a romantic 1828 biography of Columbus by Washington Irving.",
+  "bullets": [
+    {
+      "opening": "Washington Irving's Columbus",
+      "linkId": null,
+      "text": "Irving, author of Rip Van Winkle, wrote a popular life of Columbus in 1828. It included a dramatised scene at Salamanca where learned men raise flat-earth objections, a scene historians regard as largely his invention."
+    },
+    {
+      "opening": "Sacrobosco's On the Sphere",
+      "linkId": null,
+      "text": "From the 13th century, university students across Europe studied a short astronomy textbook by Johannes de Sacrobosco called On the Sphere. It explained, as its title suggests, that the Earth is round."
+    },
+    {
+      "opening": "The real Columbus argument",
+      "linkId": null,
+      "text": "Columbus's advisers objected that Asia was much too far west to reach by ship. They were right. Columbus had badly underestimated the Earth's size, and he was saved only because the Americas lay in between."
+    },
+    {
+      "opening": "Inventing the Flat Earth",
+      "linkId": null,
+      "text": "The historian Jeffrey Burton Russell traced the myth in his 1991 book Inventing the Flat Earth. He showed that it spread through 19th-century writers, and that almost no medieval scholar held the flat view."
+    }
+  ],
+  "tags": [
+    "myths-busted",
+    "maps",
+    "explorers",
+    "scale"
+  ],
+  "related": [
+    "eratosthenes-earth",
+    "viking-horned-helmets",
+    "galileo-pisa-myth",
+    "napoleon-height",
+    "waldseemuller-map",
+    "medieval-glass-myth"
+  ]
+}

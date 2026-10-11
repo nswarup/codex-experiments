@@ -1,0 +1,43 @@
+{
+  "id": "ea-nasir-complaint",
+  "title": "Ea-nasir and the oldest complaint letter",
+  "category": "History",
+  "hook": "Nearly 4,000 years ago, a customer wrote an angry letter about bad copper.",
+  "peek": "A clay tablet from the city of Ur, written around 1750 BC, is a customer named Nanni complaining to a merchant called Ea-nasir. The copper was poor, his messenger was snubbed, and he wants his money back.",
+  "lede": "Around 1750 BC, in the Mesopotamian city of Ur, a man named Nanni pressed an angry letter into clay. He had paid a merchant called Ea-nasir for copper ingots and received poor-quality metal. Worse, his messenger had been treated rudely. The tablet survives, and it is often called the oldest known written customer complaint.",
+  "bullets": [
+    {
+      "opening": "Nanni's complaints",
+      "linkId": null,
+      "text": "Nanni says the copper was not of the grade promised, that his servant was sent back empty-handed through hostile country, and that he will no longer accept anything but good copper. He also asks for a refund."
+    },
+    {
+      "opening": "Leonard Woolley's dig at Ur",
+      "linkId": null,
+      "text": "The tablet was excavated at Ur in the 1920s by the archaeologist Leonard Woolley, in a house thought to belong to Ea-nasir. It has been in the British Museum since 1953."
+    },
+    {
+      "opening": "Copper from Dilmun",
+      "linkId": null,
+      "text": "Ea-nasir traded copper brought by sea from Dilmun, a trading hub usually identified with modern Bahrain. His business is a small window on long-distance trade in the Persian Gulf almost 4,000 years ago."
+    },
+    {
+      "opening": "Ea-nasir's other letters",
+      "linkId": null,
+      "text": "Nanni was not alone. Several other tablets found in the same house also grumble about Ea-nasir's dealings, which is part of why he became a much-loved internet joke."
+    }
+  ],
+  "tags": [
+    "writing",
+    "mesopotamia",
+    "records",
+    "archaeology"
+  ],
+  "related": [
+    "kushim",
+    "diary-of-merer",
+    "cuneiform-accounts",
+    "vindolanda-birthday-invitation",
+    "lloyds-coffee-house"
+  ]
+}

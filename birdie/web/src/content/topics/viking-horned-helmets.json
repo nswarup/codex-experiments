@@ -1,0 +1,43 @@
+{
+  "id": "viking-horned-helmets",
+  "title": "Vikings didn't wear horned helmets",
+  "category": "History",
+  "hook": "The horned Viking helmet was dreamed up for the stage, not found in the ground.",
+  "peek": "No horned helmet has ever been found from the Viking age. The image owes most to the costumes for Wagner's Ring cycle in 1876, which spread a romantic idea of the Norse world across Europe and into every cartoon since.",
+  "lede": "Picture a Viking and you probably see horns. Archaeologists do not. No Viking-age helmet with horns has ever been found, and the art of the period shows plain, rounded caps. The horns came from 19th-century romantic artists, and above all from the costumes made for the first full staging of Wagner's Ring cycle at Bayreuth in 1876.",
+  "bullets": [
+    {
+      "opening": "Carl Emil Doepler's costumes",
+      "linkId": null,
+      "text": "The costume designer for the 1876 Bayreuth Ring, Carl Emil Doepler, gave several characters horned and winged helmets. The production toured widely, and the look stuck to Vikings in paintings, adverts and later films."
+    },
+    {
+      "opening": "The Gjermundbu helmet",
+      "linkId": null,
+      "text": "The only nearly complete helmet known from the Viking age was dug up at Gjermundbu in Norway in 1943. It is a simple rounded iron cap with a guard around the eyes, and it has no horns."
+    },
+    {
+      "opening": "The Veksø helmets",
+      "linkId": null,
+      "text": "Horned helmets did exist in Scandinavia, just not for Vikings. A pair found at Veksø in Denmark date to about 900 BC, some 1,700 years before the Viking age, and were probably for ceremonies."
+    },
+    {
+      "opening": "Romantic painters first",
+      "linkId": null,
+      "text": "Before Wagner, Scandinavian artists of the early 1800s, such as the illustrators of the Frithiof's Saga, already drew Norse heroes with horns and wings. The opera turned a fringe artistic fancy into the standard picture."
+    }
+  ],
+  "tags": [
+    "myths-busted",
+    "costume",
+    "vikings",
+    "opera"
+  ],
+  "related": [
+    "flat-earth-myth",
+    "napoleon-height",
+    "galileo-pisa-myth",
+    "lewis-chessmen",
+    "webb-ellis-legend"
+  ]
+}

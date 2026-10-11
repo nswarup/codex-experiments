@@ -1,0 +1,38 @@
+{
+  "id": "paris-pneumatic-post",
+  "title": "Paris's pneumatic post",
+  "category": "History",
+  "hook": "For over a century, Paris mailed letters by blowing them through tubes.",
+  "peek": "From 1866 to 1984, a network of pressurised tubes under Paris carried urgent messages across the city in small metal canisters. Parisians called the notes petits bleus, and for generations they were the fastest way to reach someone across town.",
+  "lede": "In 1866 Paris began sending telegrams through tubes laid beneath its streets. Messages were rolled into metal canisters and pushed along by compressed air or pulled by suction, from one post office to the next. The network kept growing for decades, and it stayed in service until 1984, long after the telephone had arrived in most homes.",
+  "bullets": [
+    {
+      "opening": "The petit bleu",
+      "linkId": null,
+      "text": "Once the public could use the system, from 1879, people sent special lightweight cards and letters by tube. They were often blue, so Parisians called them petits bleus, and they turn up in French novels and films as the way to send a quick, urgent note."
+    },
+    {
+      "opening": "Tubes under the streets",
+      "linkId": null,
+      "text": "The tubes ran through the city's underground tunnels, linking post offices across Paris. At its largest the network stretched for several hundred kilometres, with canisters switched between lines at relay stations, much like trains on a railway."
+    },
+    {
+      "opening": "Why it lasted until 1984",
+      "linkId": null,
+      "text": "The tubes were cheap to run and quicker than a messenger on crowded streets. Use fell as telephones and later fax machines spread, and the service finally closed in 1984, ending more than a century of mail by air pressure."
+    }
+  ],
+  "tags": [
+    "history-of-things",
+    "communication",
+    "inventors",
+    "cities"
+  ],
+  "related": [
+    "chappe-telegraph-hack",
+    "fax-before-telephone",
+    "pony-express",
+    "penny-black",
+    "eiffel-tower-antenna"
+  ]
+}

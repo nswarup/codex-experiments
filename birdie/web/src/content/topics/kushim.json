@@ -1,0 +1,38 @@
+{
+  "id": "kushim",
+  "title": "Kushim, maybe the first named person",
+  "category": "History",
+  "hook": "One of the oldest names ever written may belong to a barley accountant.",
+  "peek": "A clay tablet from Uruk, more than 5,000 years old, records a large delivery of barley and ends with the word Kushim. If it is a personal name, the first person we can name in history was keeping the books.",
+  "lede": "Writing began largely as bookkeeping. In the Mesopotamian city of Uruk, more than 5,000 years ago, scribes pressed signs into clay to track grain, livestock and labour. One tablet records about 29,000 measures of barley received over 37 months, and it is marked with the signs read as Kushim. That may be one of the oldest written personal names anywhere.",
+  "bullets": [
+    {
+      "opening": "A name or a job title",
+      "linkId": null,
+      "text": "Scholars are not sure Kushim is a person. The word could be a title for an office, rather than one individual's name. It appears on several tablets, which fits either reading."
+    },
+    {
+      "opening": "Proto-cuneiform tablets",
+      "linkId": null,
+      "text": "Kushim's tablet is written in proto-cuneiform, an early mix of number signs and simple pictures. It records quantities and goods, not sentences, which is why reading it takes careful guesswork."
+    },
+    {
+      "opening": "Yuval Noah Harari's Sapiens",
+      "linkId": null,
+      "text": "Kushim became widely known after the historian Yuval Noah Harari described the tablet in his 2011 book Sapiens. He used it to argue that writing first served accountants, not poets."
+    }
+  ],
+  "tags": [
+    "writing",
+    "names",
+    "mesopotamia",
+    "records"
+  ],
+  "related": [
+    "ea-nasir-complaint",
+    "cuneiform-accounts",
+    "diary-of-merer",
+    "quipu-knots",
+    "vindolanda-birthday-invitation"
+  ]
+}

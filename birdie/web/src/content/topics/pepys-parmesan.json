@@ -1,0 +1,43 @@
+{
+  "id": "pepys-parmesan",
+  "title": "Samuel Pepys buries his parmesan",
+  "category": "History",
+  "hook": "As London burned in 1666, Samuel Pepys buried his parmesan in the garden.",
+  "peek": "Samuel Pepys kept a detailed diary through the Great Fire of London. On 4 September 1666, with the flames getting closer, he and a neighbour dug a pit in the garden for their wine, and Pepys added his parmesan cheese.",
+  "lede": "Samuel Pepys was a naval official who kept one of the most famous diaries in English, from 1660 to 1669. When the Great Fire of London began in September 1666, he wrote about it day by day. His entry for 4 September records a very human choice: with the fire spreading, he buried his wine and his parmesan cheese in the garden.",
+  "bullets": [
+    {
+      "opening": "The pit in the garden",
+      "linkId": null,
+      "text": "Pepys and his neighbour Sir William Penn dug a pit in the evening and put their wine in it. Pepys added his parmesan and some other things. Earlier he had buried his office papers in another hole."
+    },
+    {
+      "opening": "Why parmesan",
+      "linkId": null,
+      "text": "Parmesan was an expensive import from Italy, prized in 17th-century London. A large wheel was a real investment, so saving it made sense to a man who also took care to record what he paid for things."
+    },
+    {
+      "opening": "Pepys's shorthand diary",
+      "linkId": null,
+      "text": "Pepys wrote his diary in a shorthand system called tachygraphy. It was first transcribed and published in the 1820s, and his eye for small details is why his account of the fire feels so close."
+    },
+    {
+      "opening": "The fire from Pudding Lane",
+      "linkId": null,
+      "text": "The fire started in a bakery on Pudding Lane on 2 September 1666. Pepys watched it from the river and went to tell the King, advising that houses be pulled down to stop it spreading."
+    }
+  ],
+  "tags": [
+    "food-history",
+    "diaries",
+    "london",
+    "cheese"
+  ],
+  "related": [
+    "parmesan-bank",
+    "lloyds-coffee-house",
+    "swan-upping",
+    "stilton-village",
+    "johnson-dictionary"
+  ]
+}
