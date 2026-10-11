@@ -2,7 +2,7 @@
   "id": "melanopsin",
   "title": "The eye's hidden light sensor",
   "category": "Health",
-  "hook": "A third kind of light sensor in your eye does nothing for sight at all.",
+  "hook": "A third kind of light sensor in your eye does almost nothing for sight.",
   "peek": "Rods and cones let us see, but a small set of eye cells has a different job. Using a pigment called melanopsin, they tell the body clock whether it is day or night, and they keep working in some people who cannot see.",
   "lede": "For more than a century, textbooks said the eye senses light with two kinds of cell: rods and cones. Around 2002, researchers confirmed a third. A small group of cells in the retina carries its own light-sensitive pigment, melanopsin. These cells add almost nothing to the picture we see. Their job is to report how bright the world is, so the body clock knows whether it is day.",
   "bullets": [

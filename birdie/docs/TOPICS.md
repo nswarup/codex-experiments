@@ -1,6 +1,6 @@
 # Birdie topic library
 
-988 topics in 20 categories, written to `docs/CONTENT_GUIDE.md` and fact-checked in a second pass. Categories are listed in the order the interest picker shows them. Each line is the title and the hook shown under it in the app.
+1000 topics in 20 categories, written to `docs/CONTENT_GUIDE.md` and fact-checked in a second pass. Categories are listed in the order the interest picker shows them. Each line is the title and the hook shown under it in the app.
 
 Regenerate with `python3 scripts/topics_md.py`.
 
@@ -1023,7 +1023,7 @@ Regenerate with `python3 scripts/topics_md.py`.
 - **NASA's 26-minute nap**: NASA's famous 26-minute nap was how long pilots slept, not a magic recipe.
 - **Babies have more bones than adults**: A newborn has around 300 bones, and many of them later join together.
 - **We laugh far more with others**: People laugh around 30 times more often with company than when alone.
-- **The eye's hidden light sensor**: A third kind of light sensor in your eye does nothing for sight at all.
+- **The eye's hidden light sensor**: A third kind of light sensor in your eye does almost nothing for sight.
 - **The dive reflex**: Cold water on your face slows your heart, a trick you share with seals.
 - **Where 10,000 steps came from**: The famous step goal began as the catchy name of a Japanese pedometer.
 - **Humans who see with sound**: Some blind people find their way by clicking and listening to the echoes.
@@ -1031,7 +1031,7 @@ Regenerate with `python3 scripts/topics_md.py`.
 - **Stratton's upside-down glasses**: In 1896 a psychologist turned his world upside down and his brain adjusted.
 - **The afternoon dip**: The sleepy slump after lunch arrives even if you skip lunch altogether.
 
-## Fashion (18)
+## Fashion (30)
 
 - **Why buttons are on opposite sides**: Men button right over left, women left over right, and nobody knows why.
 - **The rivet that made Levi's jeans**: Blue jeans began with a Nevada tailor who could not afford a patent.
@@ -1049,5 +1049,17 @@ Regenerate with `python3 scripts/topics_md.py`.
 - **The little black dress**: Vogue called Chanel's simple black dress a Ford, after the Model T car.
 - **How the bikini got its name**: The bikini was named after a Pacific atoll that was in every newspaper.
 - **Who Chuck Taylor was**: Chuck Taylor did not design his famous sneakers. He was their salesman.
-- **The day nylons went on sale**: On a single spring day in 1940, American women bought nylons by the million.
+- **The day nylons went on sale**: Within days of their 1940 launch, American women bought nylons by the million.
 - **Spandex is an anagram**: Rearrange the letters of spandex and you get the word that describes it.
+- **Denim is "de Nîmes"**: The word denim is a squashed bit of French meaning "from Nîmes".
+- **The paisley pattern**: Paisley is a Persian and Indian design named after a weaving town in Scotland.
+- **The mackintosh raincoat**: The mac is named after a Glasgow chemist who sealed rubber between layers of cloth.
+- **Panama hats come from Ecuador**: Panama hats have always been woven in Ecuador, not in Panama.
+- **The fedora's name**: The fedora is named after a stage heroine, and it started out as a women's hat.
+- **The bowler hat**: The bowler hat was designed in 1849 to stay on a gamekeeper's head on horseback.
+- **The Lacoste crocodile**: The crocodile on Lacoste shirts was a tennis champion's nickname.
+- **The first hoodies**: The hooded sweatshirt is traced to workwear for cold warehouses in upstate New York.
+- **Shoe sizes and barleycorns**: English shoe sizes go up a third of an inch at a time: the length of a barleycorn.
+- **When left and right shoes were the same**: For a long time many shoes had no left or right: both were made alike.
+- **When pink was for boys**: In 1918 a trade magazine said pink was for boys and blue was for girls.
+- **The white wedding dress**: White wedding dresses took off after Queen Victoria wore one in 1840.
