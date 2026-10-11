@@ -1,0 +1,43 @@
+{
+  "id": "saffron-crocus",
+  "title": "Saffron and its 150 flowers per gram",
+  "category": "Food",
+  "hook": "Each gram of saffron takes around 150 crocus flowers, every one picked by hand.",
+  "peek": "Saffron is not a seed or a bark but the red threads inside a purple crocus flower, three per bloom. Gathering a single gram means picking around 150 flowers by hand, which is why it is the world's most expensive spice by weight.",
+  "lede": "Saffron is the dried stigmas of the saffron crocus, Crocus sativus, a small purple flower that blooms in autumn. Each flower holds just three red threads, and they must be pulled out by hand. It takes roughly 150 flowers to make one gram of dried saffron, which is why the spice has long cost more than almost anything else in the kitchen.",
+  "bullets": [
+    {
+      "opening": "Three red stigmas",
+      "linkId": null,
+      "text": "The threads are the stigmas, the part of the flower that catches pollen. Pickers gather the flowers early in the morning, often within a few short weeks each autumn, then separate the threads and dry them gently over heat."
+    },
+    {
+      "opening": "A crocus that can't seed",
+      "linkId": null,
+      "text": "The saffron crocus is sterile. It cannot set viable seed, so every plant is grown from a corm, an underground bulb-like stem, divided by hand. Every saffron crocus in the world is essentially a clone of the same ancient plant."
+    },
+    {
+      "opening": "Iran's saffron fields",
+      "linkId": null,
+      "text": "Iran grows by far the most saffron, around 90 percent of the world's supply, much of it in the province of Khorasan. Spain, Kashmir, Greece and Morocco are other famous growing regions."
+    },
+    {
+      "opening": "Safranal and crocin",
+      "linkId": null,
+      "text": "Saffron's colour comes from crocin, which dyes rice and stews golden even in tiny amounts. Its honey-like smell comes mostly from a compound called safranal, which forms as the threads dry."
+    }
+  ],
+  "tags": [
+    "spices",
+    "plants",
+    "color",
+    "scale"
+  ],
+  "related": [
+    "vanilla-edmond-albius",
+    "nutmeg-manhattan",
+    "apple-clones",
+    "umami",
+    "pineapple-status"
+  ]
+}

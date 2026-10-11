@@ -4008,5 +4008,65 @@
   "id": "v-style-ski-jump",
   "title": "The V-style ski jump",
   "category": "Sports"
+ },
+ {
+  "id": "javelin-redesign",
+  "title": "The javelin that flew too far",
+  "category": "Sports"
+ },
+ {
+  "id": "shot-clock-24",
+  "title": "Why the shot clock is 24 seconds",
+  "category": "Sports"
+ },
+ {
+  "id": "aluminium-cricket-bat",
+  "title": "Dennis Lillee's aluminium bat",
+  "category": "Sports"
+ },
+ {
+  "id": "jamaican-bobsled-1988",
+  "title": "Jamaica's 1988 bobsled team",
+  "category": "Sports"
+ },
+ {
+  "id": "orange-carrots",
+  "title": "Carrots weren't always orange",
+  "category": "Food"
+ },
+ {
+  "id": "ketchup-fish-sauce",
+  "title": "Ketchup began as a fish sauce",
+  "category": "Food"
+ },
+ {
+  "id": "nachos-ignacio",
+  "title": "Nachos are named after a man",
+  "category": "Food"
+ },
+ {
+  "id": "jaffa-cake-tribunal",
+  "title": "The Jaffa Cake trial",
+  "category": "Food"
+ },
+ {
+  "id": "vanilla-edmond-albius",
+  "title": "The boy who unlocked vanilla",
+  "category": "Food"
+ },
+ {
+  "id": "saffron-crocus",
+  "title": "Saffron and its 150 flowers per gram",
+  "category": "Food"
+ },
+ {
+  "id": "fake-wasabi",
+  "title": "Most wasabi is horseradish",
+  "category": "Food"
+ },
+ {
+  "id": "toll-house-cookie",
+  "title": "The first chocolate chip cookie",
+  "category": "Food"
  }
 ]

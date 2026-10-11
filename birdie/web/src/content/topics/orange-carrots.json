@@ -1,0 +1,43 @@
+{
+  "id": "orange-carrots",
+  "title": "Carrots weren't always orange",
+  "category": "Food",
+  "hook": "The first farmed carrots were purple and yellow, and orange came much later.",
+  "peek": "Carrots were first farmed in Central Asia around a thousand years ago, and they were purple or yellow. Orange carrots took over in Europe in the 1600s, largely thanks to Dutch growers, though the story that they honoured the House of Orange is unproven.",
+  "lede": "Picture a carrot and it is orange. For most of the vegetable's farmed history, it was not. The earliest cultivated carrots, grown around the 10th century in the region of present-day Afghanistan and Iran, had purple or yellow roots. Orange carrots became common only in the 1600s, and the country most responsible was the Netherlands.",
+  "bullets": [
+    {
+      "opening": "Purple and yellow carrots",
+      "linkId": null,
+      "text": "The purple of early carrots comes from anthocyanins, the same pigments found in red cabbage and blueberries. Yellow carrots lacked them. Both types spread west along trade routes and reached Spain and other parts of Europe in the Middle Ages."
+    },
+    {
+      "opening": "The Dutch Long Orange",
+      "linkId": null,
+      "text": "Dutch growers in the 1600s developed reliable orange varieties, such as the Long Orange and the shorter Horn carrots. Most modern orange carrots descend from these lines. Dutch paintings from the period show orange carrots piled on market stalls."
+    },
+    {
+      "opening": "The House of Orange story",
+      "linkId": null,
+      "text": "A popular tale says the Dutch bred orange carrots to honour William of Orange, who led their revolt against Spain. It is a lovely story, but historians have found no evidence for it, and orange carrots may simply have been sweeter and more dependable."
+    },
+    {
+      "opening": "Beta-carotene",
+      "linkId": null,
+      "text": "The orange colour comes from beta-carotene, which the body turns into vitamin A. The pigment is even named after the carrot, from carota, its Latin name."
+    }
+  ],
+  "tags": [
+    "food-history",
+    "color",
+    "myths-busted",
+    "plants"
+  ],
+  "related": [
+    "brassica-oleracea",
+    "apple-clones",
+    "bananas-are-berries",
+    "tomato-supreme-court",
+    "pineapple-status"
+  ]
+}

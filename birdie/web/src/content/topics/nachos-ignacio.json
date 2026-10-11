@@ -1,0 +1,43 @@
+{
+  "id": "nachos-ignacio",
+  "title": "Nachos are named after a man",
+  "category": "Food",
+  "hook": "Nachos are named after Ignacio Anaya, who improvised them with a nearly empty kitchen.",
+  "peek": "In 1943, at a restaurant in Piedras Negras, Mexico, a group of visitors arrived after the cook had gone home. The host, Ignacio Anaya, known as Nacho, threw together fried tortillas, cheese and jalapeños, and named them after himself.",
+  "lede": "Nachos have an inventor, and the dish carries his nickname. In 1943, Ignacio Anaya was the host at the Victory Club, a restaurant in Piedras Negras, just across the border from Eagle Pass, Texas. A group of American visitors came in when the cook was away. With little in the kitchen, Anaya improvised a snack.",
+  "bullets": [
+    {
+      "opening": "Nacho's especiales",
+      "linkId": null,
+      "text": "Anaya cut tortillas into triangles, fried them, topped them with cheese and sliced jalapeños, and warmed them until the cheese melted. He called the plate Nacho's especiales, Nacho's specials, and the name soon shortened to nachos."
+    },
+    {
+      "opening": "The wives from Fort Duncan",
+      "linkId": null,
+      "text": "The visitors are usually described as wives of American servicemen stationed at Fort Duncan, an army base in Eagle Pass. The dish spread across the border, and a nachos recipe appeared in a cookbook as early as 1954."
+    },
+    {
+      "opening": "Stadium nachos and liquid cheese",
+      "linkId": null,
+      "text": "The bright, pourable cheese version came later. In 1977 a businessman named Frank Liberto sold nachos with a long-lasting cheese sauce at Arlington Stadium in Texas, and ballpark nachos took off across America."
+    },
+    {
+      "opening": "The International Day of the Nacho",
+      "linkId": null,
+      "text": "Piedras Negras now holds a nacho festival each October, around 21 October, which is celebrated as the International Day of the Nacho in honour of Anaya and his improvised plate."
+    }
+  ],
+  "tags": [
+    "food-history",
+    "names",
+    "inventors",
+    "accidents"
+  ],
+  "related": [
+    "caesar-salad",
+    "sandwich-earl",
+    "fortune-cookies",
+    "hawaiian-pizza-canada",
+    "california-roll"
+  ]
+}

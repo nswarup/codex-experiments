@@ -1,0 +1,43 @@
+{
+  "id": "shot-clock-24",
+  "title": "Why the shot clock is 24 seconds",
+  "category": "Sports",
+  "hook": "Basketball's 24-second shot clock came from one owner doing some simple division.",
+  "peek": "In 1954 the NBA was dying of boredom, as teams with a lead simply held the ball. Danny Biasone, owner of the Syracuse Nationals, fixed it with a stopwatch rule worked out on paper: 2,880 seconds divided by 120 shots.",
+  "lede": "In the early 1950s, NBA teams that went ahead often just stopped trying to score. They passed the ball around and waited for the clock to run out, while fans fouled out of patience. Danny Biasone, who owned the Syracuse Nationals, proposed a limit on how long a team could hold the ball. The number he picked came from arithmetic.",
+  "bullets": [
+    {
+      "opening": "Biasone's arithmetic",
+      "linkId": null,
+      "text": "Biasone noticed that a good game had about 120 shots, 60 for each side. A game lasts 48 minutes, or 2,880 seconds. Dividing 2,880 by 120 gives 24, so a team should shoot within 24 seconds."
+    },
+    {
+      "opening": "The 19 to 18 game",
+      "linkId": null,
+      "text": "The case for a clock had been made by a 1950 game in which the Fort Wayne Pistons beat the Minneapolis Lakers 19 to 18. Fort Wayne held the ball for long stretches, and it remains the lowest-scoring game in NBA history."
+    },
+    {
+      "opening": "The 1954 to 55 season",
+      "linkId": null,
+      "text": "The shot clock arrived in the 1954 to 55 season, and scoring jumped from about 79 to about 93 points per team per game. Fittingly, Biasone's Syracuse Nationals won the championship that very first season."
+    },
+    {
+      "opening": "Shot clocks beyond the NBA",
+      "linkId": null,
+      "text": "The idea spread across the sport. International basketball also uses 24 seconds today, while American men's college basketball adopted a clock later and settled on 30 seconds in 2015."
+    }
+  ],
+  "tags": [
+    "rules",
+    "basketball",
+    "time",
+    "history-of-things"
+  ],
+  "related": [
+    "peach-basket-basketball",
+    "mintonette",
+    "duckworth-lewis",
+    "timeless-test",
+    "hawk-eye"
+  ]
+}

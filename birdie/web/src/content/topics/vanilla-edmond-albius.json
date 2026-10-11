@@ -1,0 +1,43 @@
+{
+  "id": "vanilla-edmond-albius",
+  "title": "The boy who unlocked vanilla",
+  "category": "Food",
+  "hook": "Almost all the world's vanilla is pollinated by a method a 12-year-old boy invented.",
+  "peek": "Vanilla orchids moved from Mexico to other tropical islands, but they would not make pods there. In 1841, on the island of Réunion, a 12-year-old enslaved boy called Edmond worked out how to pollinate them by hand. His quick method is still used today.",
+  "lede": "Vanilla comes from the pod of an orchid native to Mexico, where local bees pollinate it. When growers took the vines to other tropical islands, the plants flowered but almost never produced pods. In 1841 on Réunion, a French island in the Indian Ocean, a 12-year-old enslaved boy named Edmond found a quick way to do the pollinating by hand.",
+  "bullets": [
+    {
+      "opening": "Edmond's hand pollination",
+      "linkId": null,
+      "text": "Each vanilla flower has a little flap, the rostellum, separating its male and female parts. Edmond lifted it with a thin stick and pressed the two together with his thumb. It takes seconds, and workers still pollinate vanilla flower by flower this way."
+    },
+    {
+      "opening": "Ferréol Bellier-Beaumont",
+      "linkId": null,
+      "text": "Edmond lived on the estate of Ferréol Bellier-Beaumont, a planter who had taught him about plants. Bellier-Beaumont backed the boy's claim when a botanist later tried to take credit, writing that Edmond alone had found the method."
+    },
+    {
+      "opening": "Réunion's vanilla boom",
+      "linkId": null,
+      "text": "Edmond's technique spread across Réunion and then to Madagascar and other islands. Within a few decades, Réunion was exporting large amounts of vanilla, and Madagascar, using the same hand method, now grows most of the world's supply."
+    },
+    {
+      "opening": "The name Albius",
+      "linkId": null,
+      "text": "When slavery was abolished in French colonies in 1848, Edmond was freed and given the surname Albius, from the Latin for white, a reference to the vanilla flower. Réunion now honours him with a statue."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "plants",
+    "spices",
+    "food-history"
+  ],
+  "related": [
+    "saffron-crocus",
+    "nutmeg-manhattan",
+    "cashew-apple",
+    "marshmallow-plant",
+    "pineapple-status"
+  ]
+}

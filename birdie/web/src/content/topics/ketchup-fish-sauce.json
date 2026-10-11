@@ -1,0 +1,43 @@
+{
+  "id": "ketchup-fish-sauce",
+  "title": "Ketchup began as a fish sauce",
+  "category": "Food",
+  "hook": "The word ketchup first meant a fish sauce, and tomatoes joined the recipe much later.",
+  "peek": "Ketchup's name comes from Hokkien Chinese, where it described a sauce made from fish. British traders took the word home, made ketchups from mushrooms and walnuts, and only later did American cooks turn it into the tomato sauce we know.",
+  "lede": "Ketchup feels about as American as food gets, but its name comes from southern China. In Hokkien, a language of Fujian and much of Southeast Asia, a word written in English as ke-tsiap meant a sauce made from fish. British sailors and traders met it in Southeast Asia around 1700 and brought the word home.",
+  "bullets": [
+    {
+      "opening": "The Hokkien word ke-tsiap",
+      "linkId": null,
+      "text": "The linguist Dan Jurafsky traced ketchup's journey in his book The Language of Food. The fish sauce travelled with Chinese traders around Southeast Asia, where British merchants met it and the word entered English as catchup and ketchup."
+    },
+    {
+      "opening": "Mushroom and walnut ketchup",
+      "linkId": null,
+      "text": "Back in Britain, cooks could not get the original, so they made their own versions. English recipe books of the 1700s give ketchups made from mushrooms, walnuts, oysters or anchovies. Mushroom ketchup is still sold in Britain."
+    },
+    {
+      "opening": "The first tomato ketchup",
+      "linkId": null,
+      "text": "Tomatoes arrived late. A recipe for tomato ketchup was printed in 1812 by the Philadelphia scientist James Mease, and American cooks took it up through the 1800s, and by the late 1800s it was the ketchup most people meant."
+    },
+    {
+      "opening": "Heinz and sugar",
+      "linkId": null,
+      "text": "In 1876 the Heinz company launched its bottled tomato ketchup. Heinz and its rivals made ketchup thicker and much sweeter, giving us the sweet tomato sauce of today, a long way from a fish sauce."
+    }
+  ],
+  "tags": [
+    "etymology",
+    "food-history",
+    "names",
+    "condiments"
+  ],
+  "related": [
+    "umami",
+    "sriracha-trademark",
+    "tabasco-avery-island",
+    "tomato-supreme-court",
+    "fortune-cookies"
+  ]
+}

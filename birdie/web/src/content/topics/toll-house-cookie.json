@@ -1,0 +1,43 @@
+{
+  "id": "toll-house-cookie",
+  "title": "The first chocolate chip cookie",
+  "category": "Food",
+  "hook": "The chocolate chip cookie was invented at a Massachusetts inn in the 1930s.",
+  "peek": "In the late 1930s, Ruth Wakefield of the Toll House Inn in Whitman, Massachusetts, stirred chopped chocolate into her cookie dough. The recipe was a hit, and she let Nestlé print it on its chocolate packets, where it still appears today.",
+  "lede": "The chocolate chip cookie has a known inventor. Ruth Wakefield, a trained dietitian, ran the Toll House Inn in Whitman, Massachusetts, with her husband Kenneth, and was known for her desserts. In the late 1930s she chopped up a bar of Nestlé semi-sweet chocolate and stirred the pieces into a butter cookie dough. The pieces held their shape, and a classic was born.",
+  "bullets": [
+    {
+      "opening": "The happy accident myth",
+      "linkId": null,
+      "text": "A popular story says she ran out of baking chocolate and hoped the pieces would melt. Wakefield herself said the cookie was deliberate: she wanted something new for her guests. Her recipe appeared in her cookbook, Toll House Tried and True Recipes, in 1938."
+    },
+    {
+      "opening": "The Nestlé deal",
+      "linkId": null,
+      "text": "As the cookie grew famous, sales of Nestlé's chocolate bars rose. Wakefield agreed to let Nestlé print her recipe on its packaging, and in return she is often said to have received free chocolate for life."
+    },
+    {
+      "opening": "Nestlé's chocolate morsels",
+      "linkId": null,
+      "text": "To save bakers from chopping, Nestlé began selling ready-made chocolate chips, which it called morsels, in 1939. The Toll House recipe is still printed on the bag."
+    },
+    {
+      "opening": "Massachusetts' state cookie",
+      "linkId": null,
+      "text": "In 1997 Massachusetts made the chocolate chip cookie its official state cookie, after a campaign by local schoolchildren, honouring the dessert invented in Whitman."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "food-history",
+    "myths-busted",
+    "baking"
+  ],
+  "related": [
+    "sliced-bread",
+    "nutella-gianduja",
+    "german-chocolate-cake",
+    "microwave-chocolate",
+    "cotton-candy-dentist"
+  ]
+}

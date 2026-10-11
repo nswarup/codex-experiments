@@ -1,0 +1,43 @@
+{
+  "id": "fake-wasabi",
+  "title": "Most wasabi is horseradish",
+  "category": "Food",
+  "hook": "The green paste beside your sushi is usually horseradish, mustard and food colouring.",
+  "peek": "Real wasabi is a fussy plant that grows in cool mountain streams and takes over a year to mature. So most of the green paste served with sushi, even in many places in Japan, is horseradish and mustard dyed green.",
+  "lede": "Order sushi almost anywhere and a little green mound comes on the side. It is usually not wasabi at all. Most of it is a mix of horseradish, mustard and green colouring, and that is true of much tube wasabi sold in Japan as well as abroad. The reason is that real wasabi is one of the hardest crops in the world to grow.",
+  "bullets": [
+    {
+      "opening": "Growing real wasabi",
+      "linkId": null,
+      "text": "Wasabi, Eutrema japonicum, traditionally grows in shaded beds of cool, running mountain water. It takes around 18 months or more to reach harvest size, and it is easily upset by heat. The prized part is the thick green stem, called a rhizome."
+    },
+    {
+      "opening": "The sharkskin grater",
+      "linkId": null,
+      "text": "Real wasabi is grated fresh, traditionally on a board covered in sharkskin, whose fine texture turns the stem into a smooth paste. The result is paler and more fragrant than the bright green imitation."
+    },
+    {
+      "opening": "Heat that fades fast",
+      "linkId": null,
+      "text": "Wasabi's sharpness comes from a compound released when the cells are crushed. It peaks within minutes of grating and fades after about fifteen, so sushi chefs grate it just before serving."
+    },
+    {
+      "opening": "Why it stings your nose",
+      "linkId": null,
+      "text": "Unlike chilli, whose heat sits on the tongue, wasabi and horseradish both release a vapour that rises into the nose. It is a sharp, short burst rather than a lingering burn, and the cousins taste similar because they belong to the same plant family."
+    }
+  ],
+  "tags": [
+    "taste",
+    "plants",
+    "myths-busted",
+    "sushi"
+  ],
+  "related": [
+    "california-roll",
+    "scoville-tasters",
+    "menthol-cold",
+    "birds-chili-heat",
+    "brassica-oleracea"
+  ]
+}

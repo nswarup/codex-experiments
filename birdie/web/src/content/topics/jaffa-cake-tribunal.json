@@ -1,0 +1,43 @@
+{
+  "id": "jaffa-cake-tribunal",
+  "title": "The Jaffa Cake trial",
+  "category": "Food",
+  "hook": "A British tax tribunal had to decide whether a Jaffa Cake is a cake or a biscuit.",
+  "peek": "In 1991, McVitie's argued before a UK tax tribunal that its Jaffa Cakes were cakes, not biscuits. A lot of money rode on the answer, and one test the tribunal weighed was what happens to a Jaffa Cake when it goes stale.",
+  "lede": "In Britain, most food carries no VAT, the sales tax. Chocolate-covered biscuits are an exception, while cakes, even chocolate-covered ones, are not taxed. That made the Jaffa Cake, a small sponge disc with orange jelly and a chocolate top, a puzzle worth arguing about. In 1991 McVitie's went to a VAT tribunal to argue it was a cake.",
+  "bullets": [
+    {
+      "opening": "Stale cakes go hard",
+      "linkId": null,
+      "text": "A key point: when a cake goes stale it turns hard, while a stale biscuit turns soft. Jaffa Cakes go hard, like cakes. McVitie's is also said to have baked a giant Jaffa Cake to show the tribunal what it really was."
+    },
+    {
+      "opening": "The tribunal's tests",
+      "linkId": null,
+      "text": "The tribunal weighed several features. The name said cake. The batter of eggs, flour and sugar was a sponge cake batter. Against that, Jaffa Cakes are biscuit-sized, sold beside biscuits, and eaten with the fingers like one."
+    },
+    {
+      "opening": "The 1991 ruling",
+      "linkId": null,
+      "text": "On balance, the tribunal ruled that Jaffa Cakes are cakes. McVitie's won, and Jaffa Cakes stayed free of VAT, saving the company and its customers a considerable sum."
+    },
+    {
+      "opening": "McVitie's since 1927",
+      "linkId": null,
+      "text": "McVitie's launched Jaffa Cakes in 1927, naming them after Jaffa oranges. The cake or biscuit question still splits British tea tables, but in law it has been settled since the ruling."
+    }
+  ],
+  "tags": [
+    "law",
+    "myths-busted",
+    "names",
+    "food-history"
+  ],
+  "related": [
+    "tomato-supreme-court",
+    "baguette-law",
+    "german-chocolate-cake",
+    "stilton-village",
+    "kit-kat-japan"
+  ]
+}

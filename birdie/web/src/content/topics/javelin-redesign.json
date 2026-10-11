@@ -1,0 +1,43 @@
+{
+  "id": "javelin-redesign",
+  "title": "The javelin that flew too far",
+  "category": "Sports",
+  "hook": "One throw went so far that the men's javelin had to be rebuilt to fly shorter.",
+  "peek": "In 1984 the East German thrower Uwe Hohn sent a javelin 104.80 metres, close to the far end of a stadium infield. Two years later the men's javelin was redesigned so it would nose down sooner and land shorter.",
+  "lede": "On 20 July 1984 in East Berlin, Uwe Hohn threw the javelin 104.80 metres, the first throw ever past 100 metres. It was thrilling and also a problem. Stadium infields were not built for spears flying that far, and the old javelins often glided and landed flat. So from 1986, the men's javelin itself was changed to make it fly shorter.",
+  "bullets": [
+    {
+      "opening": "Moving the centre of gravity",
+      "linkId": null,
+      "text": "The new design shifted the javelin's centre of gravity about 4 centimetres towards the tip. That makes the nose tip down earlier in flight, so the javelin stops gliding and comes down sooner, cutting distances by roughly ten percent."
+    },
+    {
+      "opening": "Flat landings and fouls",
+      "linkId": null,
+      "text": "The change also fixed a judging headache. Old javelins often landed flat, making it hard to say whether the tip touched first, as the rules require. The redesigned javelin sticks into the ground point first far more reliably."
+    },
+    {
+      "opening": "Uwe Hohn's eternal record",
+      "linkId": null,
+      "text": "Because the equipment changed, Hohn's 104.80 metres was frozen as a record that can never be beaten. The world record restarted with the new javelin, and the best throw with it, Jan Železný's 98.48 metres from 1996, is still well short."
+    },
+    {
+      "opening": "The rough-tailed javelins",
+      "linkId": null,
+      "text": "Makers soon found a loophole: roughening the tail to add lift back. Athletics' governing body banned the trick in 1991, and records set with those javelins were removed. The women's javelin got its own similar redesign in 1999."
+    }
+  ],
+  "tags": [
+    "records",
+    "design",
+    "rules",
+    "physics"
+  ],
+  "related": [
+    "fosbury-flop",
+    "v-style-ski-jump",
+    "lzr-racer-suit",
+    "clap-skate",
+    "golf-ball-dimples"
+  ]
+}
