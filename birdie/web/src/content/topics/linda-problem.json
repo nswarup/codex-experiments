@@ -1,0 +1,44 @@
+{
+  "id": "linda-problem",
+  "title": "The Linda problem",
+  "category": "Mind",
+  "hook": "Most people pick an answer that is mathematically impossible to be more likely.",
+  "peek": "Linda is described as bright, outspoken and concerned with social justice. Asked whether she is more likely a bank teller, or a bank teller who is active in the feminist movement, most people choose the second. That cannot be more probable than the first.",
+  "lede": "In 1983, Amos Tversky and Daniel Kahneman described a woman named Linda: 31, single, outspoken and very bright, a philosophy graduate who cared about social justice. They then asked which was more probable: that Linda is a bank teller, or a bank teller who is active in the feminist movement. In one group, about 85 percent chose the second. Logic says that can never be the better bet.",
+  "bullets": [
+    {
+      "opening": "The conjunction rule",
+      "linkId": null,
+      "text": "Every feminist bank teller is also a bank teller, so the combined description can never be more likely than the plain one. Adding a detail can only keep the odds the same or shrink them."
+    },
+    {
+      "opening": "Judging by resemblance",
+      "linkId": null,
+      "text": "Tversky and Kahneman argued people answer a different question: which description sounds more like Linda? The feminist detail fits the sketch, so it feels more likely, even as it makes the story strictly less probable."
+    },
+    {
+      "opening": "Experts fall for it too",
+      "linkId": null,
+      "text": "The error persisted among graduate students trained in statistics. The biologist Stephen Jay Gould wrote that even knowing the right answer, part of his mind kept insisting that Linda could not just be a bank teller."
+    },
+    {
+      "opening": "Asking in frequencies",
+      "linkId": null,
+      "text": "The psychologist Gerd Gigerenzer showed the mistake shrinks a lot when the question is about counts: out of 100 people like Linda, how many are bank tellers, and how many are feminist bank tellers? Thinking in headcounts makes the overlap easier to see."
+    }
+  ],
+  "tags": [
+    "probability",
+    "experiments",
+    "decisions",
+    "reasoning"
+  ],
+  "related": [
+    "bat-and-ball",
+    "wason-selection-task",
+    "bayes-theorem",
+    "monty-hall",
+    "endowment-effect-mugs",
+    "hot-hand"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "nicolas-bourbaki",
+  "title": "Nicolas Bourbaki",
+  "category": "Math",
+  "hook": "A great 20th-century mathematician never existed: Bourbaki was a secret club.",
+  "peek": "Nicolas Bourbaki published dozens of influential maths books and had a seminar in Paris named after him. He was invented in the 1930s by a group of young French mathematicians, who kept up the joke for decades.",
+  "lede": "From the late 1930s, books signed by Nicolas Bourbaki reshaped how mathematics was written, with a strict, step-by-step style that spread to universities everywhere. There was no Nicolas Bourbaki. The name belonged to a group of young French mathematicians, including André Weil, Henri Cartan and Jean Dieudonné, who began meeting in 1934 to write a modern textbook together.",
+  "bullets": [
+    {
+      "opening": "The name's origin",
+      "linkId": null,
+      "text": "The surname came from Charles Bourbaki, a 19th-century French general. The story goes that it also echoed a student prank at the École Normale Supérieure, where a fake lecturer presented a nonsense \"Bourbaki's theorem\"."
+    },
+    {
+      "opening": "Éléments de mathématique",
+      "linkId": null,
+      "text": "The group's main work began appearing in 1939. The singular \"mathématique\" was deliberate: Bourbaki treated mathematics as one subject built from sets, not a collection of separate fields."
+    },
+    {
+      "opening": "Bourbaki's membership application",
+      "linkId": null,
+      "text": "Bourbaki once applied to join the American Mathematical Society. The editor Ralph Boas wrote that Bourbaki did not exist, and the group replied by spreading the claim that Boas did not exist either."
+    },
+    {
+      "opening": "The empty set symbol",
+      "linkId": null,
+      "text": "The symbol ∅ for the empty set comes from Bourbaki. André Weil said he borrowed it from the Norwegian letter Ø. Members traditionally retired at 50, and the group still runs the Séminaire Bourbaki in Paris."
+    }
+  ],
+  "tags": [
+    "names",
+    "hoaxes",
+    "mathematicians",
+    "history-of-things"
+  ],
+  "related": [
+    "erdos-number",
+    "sophie-germain-leblanc",
+    "perelman-prize",
+    "gardner-mathematical-games",
+    "equals-sign"
+  ]
+}

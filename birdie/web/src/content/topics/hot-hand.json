@@ -1,0 +1,43 @@
+{
+  "id": "hot-hand",
+  "title": "The hot hand comeback",
+  "category": "Mind",
+  "hook": "Basketball's hot hand was called a myth for 30 years, until a maths slip was found.",
+  "peek": "In 1985, psychologists said basketball players do not really get hot streaks. Thirty years later, two economists found a subtle trap in how streaks had been counted. Once it was corrected, the original data hinted that the hot hand may be real after all.",
+  "lede": "Fans and players have long believed a shooter who has made a few baskets is more likely to make the next. In 1985, Thomas Gilovich, Robert Vallone and Amos Tversky studied the data and found no sign of it. The hot hand became a textbook example of seeing patterns in randomness. Then, in 2015, two economists spotted a flaw in the counting.",
+  "bullets": [
+    {
+      "opening": "The 1985 study",
+      "linkId": null,
+      "text": "The team looked at shots by the Philadelphia 76ers, free throws by the Boston Celtics, and a controlled shooting test with Cornell players. Hits were no more likely after hits than after misses, so they concluded the streaks fans saw were chance."
+    },
+    {
+      "opening": "The streak selection bias",
+      "linkId": null,
+      "text": "Joshua Miller and Adam Sanjurjo showed a surprise about coin flips. In a short run of flips, if you look at the flips that come right after a head and average across many runs, heads turn up less than half the time. Pure chance should look slightly cold, not neutral."
+    },
+    {
+      "opening": "Reanalysing the Cornell shots",
+      "linkId": null,
+      "text": "So a shooter who hits after hits just as often as after misses is actually doing better than chance would predict. Correcting for the bias, Miller and Sanjurjo found the Cornell shooting data showed a real hot hand effect."
+    },
+    {
+      "opening": "Still a live debate",
+      "linkId": null,
+      "text": "Researchers now broadly accept the statistical point, but argue over how big the hot hand is in real games, where defenders guard hot shooters more closely and players take harder shots when confident."
+    }
+  ],
+  "tags": [
+    "probability",
+    "sports",
+    "myths-busted",
+    "patterns"
+  ],
+  "related": [
+    "linda-problem",
+    "simpsons-paradox",
+    "galton-board",
+    "birthday-paradox",
+    "baader-meinhof"
+  ]
+}

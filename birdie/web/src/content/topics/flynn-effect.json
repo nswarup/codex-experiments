@@ -1,0 +1,43 @@
+{
+  "id": "flynn-effect",
+  "title": "The Flynn effect",
+  "category": "Mind",
+  "hook": "IQ scores rose so steadily for decades that the tests kept getting harder.",
+  "peek": "Through much of the 20th century, average scores on IQ tests climbed by about three points every ten years, in country after country. Test makers had to keep raising the bar to hold the average at 100. Nobody is quite sure why it happened.",
+  "lede": "An IQ test is scored so that the average person gets 100. To keep it that way, publishers regularly test a fresh sample and reset the scale. Doing so revealed something odd: each new generation was doing better on the same questions. Across the 20th century the rise worked out at about three points per decade, so the tests had to be made harder again and again.",
+  "bullets": [
+    {
+      "opening": "James Flynn's comparisons",
+      "linkId": null,
+      "text": "The New Zealand researcher James Flynn showed in a 1984 paper that the gains ran through decades of American data, and in 1987 found the same pattern in 14 countries. Others had noticed hints before, but he made the case impossible to ignore."
+    },
+    {
+      "opening": "Bigger gains in puzzles",
+      "linkId": null,
+      "text": "The rise was largest on abstract reasoning tests such as Raven's matrices, and much smaller on vocabulary and general knowledge. Flynn argued people had grown more used to thinking in hypotheticals and categories, not that they had simply become cleverer."
+    },
+    {
+      "opening": "Explaining the rise",
+      "linkId": null,
+      "text": "Suggested causes include better nutrition, longer schooling, smaller families and a world full of abstract symbols. The gains came too fast to be genetic, and researchers still debate how much each factor counts."
+    },
+    {
+      "opening": "The reverse Flynn effect",
+      "linkId": null,
+      "text": "In some countries the climb has stalled or reversed. Records of army conscripts in Norway and Denmark show scores dipping for men born from the mid-1970s onwards, which suggests the cause lies in changing surroundings."
+    }
+  ],
+  "tags": [
+    "intelligence",
+    "myths-busted",
+    "scale",
+    "patterns"
+  ],
+  "related": [
+    "magical-number-seven",
+    "mozart-effect",
+    "learning-styles",
+    "marshmallow-test",
+    "wason-selection-task"
+  ]
+}

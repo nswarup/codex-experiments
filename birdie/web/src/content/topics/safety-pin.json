@@ -1,0 +1,43 @@
+{
+  "id": "safety-pin",
+  "title": "The $15 safety pin",
+  "category": "Inventions",
+  "hook": "The safety pin was invented to pay off a $15 debt, then sold for $400.",
+  "peek": "In 1849 the New York mechanic Walter Hunt needed money to settle a small debt. The story goes that he spent a few hours bending a piece of wire and came up with the safety pin. He sold the rights for $400, and others made the fortune.",
+  "lede": "Walter Hunt was a prolific New York inventor who was often short of money. In 1849, the story goes, he owed a draughtsman $15 and sat twisting a length of brass wire while thinking how to pay. Within a few hours he had a pin with a coil at one end and a clasp at the other. He patented it that April.",
+  "bullets": [
+    {
+      "opening": "Hunt's 1849 patent",
+      "linkId": null,
+      "text": "The patent, granted on 10 April 1849, called it a dress pin. One piece of wire made the pin, the spring coil and the catch, and the clasp shielded the point so it could not prick the wearer or slip out."
+    },
+    {
+      "opening": "Selling it for $400",
+      "linkId": null,
+      "text": "Hunt sold the patent rights for $400, enough to clear his $15 debt and leave plenty over. The buyer, reportedly the firm of W. R. Grace and Company, went on to earn far more from the pin than its inventor ever did."
+    },
+    {
+      "opening": "Ancient fibula brooches",
+      "linkId": null,
+      "text": "The basic idea was old. Bronze Age and Roman clothing was fastened with fibulae, brooches with a pin and catch. Hunt's version added the coiled spring and the shielding clasp, and could be bent cheaply from a single wire."
+    },
+    {
+      "opening": "Hunt's unpatented sewing machine",
+      "linkId": null,
+      "text": "Years earlier Hunt had built one of the first lockstitch sewing machines. He chose not to patent it, reportedly worried it would put seamstresses out of work, and others later won the patents and the profits."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "history-of-things",
+    "fashion",
+    "patents"
+  ],
+  "related": [
+    "gem-paper-clip",
+    "zipper-name",
+    "friction-match",
+    "velcro",
+    "margaret-knight-paper-bag"
+  ]
+}

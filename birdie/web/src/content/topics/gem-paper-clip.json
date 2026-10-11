@@ -1,0 +1,43 @@
+{
+  "id": "gem-paper-clip",
+  "title": "Norway's paper clip myth",
+  "category": "Inventions",
+  "hook": "Norway celebrates the paper clip's inventor, but he never made the clip we use.",
+  "peek": "Norwegians long hailed Johan Vaaler as the inventor of the paper clip, with a stamp and a giant statue. But the clip he patented around 1900 had no inner loop and never caught on. The familiar double-loop Gem clip came from Britain and was never patented at all.",
+  "lede": "Johan Vaaler, a Norwegian clerk with a talent for gadgets, patented a wire paper holder in Germany in 1899 and in the United States in 1901. In the 20th century he became a national hero in Norway as the man who invented the paper clip. The trouble is that his design was not the clip in your drawer.",
+  "bullets": [
+    {
+      "opening": "Vaaler's single-loop clip",
+      "linkId": null,
+      "text": "His patent showed a piece of wire bent into a simple loop, with the two ends running side by side. Without a second inner loop it gripped paper poorly, and there is no sign it was ever made in large numbers."
+    },
+    {
+      "opening": "The Gem clip",
+      "linkId": null,
+      "text": "The double-oval clip people use today was being sold in Britain by the 1890s, reportedly by the Gem Manufacturing Company, which gave it its name. Its shape was never patented, though an American, William Middlebrook, patented a machine for making it in 1899."
+    },
+    {
+      "opening": "The paper clip lapel pin",
+      "linkId": null,
+      "text": "During the Second World War some Norwegians wore paper clips on their lapels as a quiet sign of unity. That helped turn the clip into a national symbol, and Vaaler's patent gave it a Norwegian inventor."
+    },
+    {
+      "opening": "The giant Oslo paper clip",
+      "linkId": null,
+      "text": "In 1989 a paper clip sculpture about seven metres tall was put up at a business school near Oslo to honour Vaaler. Awkwardly, it is shaped like a Gem clip, not like his design. Norway also issued a paper clip stamp in 1999."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "myths-busted",
+    "design",
+    "patents"
+  ],
+  "related": [
+    "safety-pin",
+    "qwerty",
+    "first-transistor",
+    "scotch-tape",
+    "friction-match"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "libet-experiment",
+  "title": "Libet's free-will experiment",
+  "category": "Mind",
+  "hook": "The brain seemed to start a movement before people felt they had chosen it.",
+  "peek": "In the early 1980s Benjamin Libet timed when people felt they decided to flick a wrist. Brain activity had begun building up earlier. For decades that looked like a blow to free will, but newer work suggests the buildup may be mostly background noise.",
+  "lede": "In 1983 the American neuroscientist Benjamin Libet asked volunteers to flick their wrist whenever they felt like it, and to note the moment they first felt the urge. Electrodes on the scalp showed a slow rise in brain activity starting about half a second before the movement, and roughly a third of a second before people said they had decided.",
+  "bullets": [
+    {
+      "opening": "The rotating clock dot",
+      "linkId": null,
+      "text": "Volunteers watched a dot sweep round a clock face, about once every two and a half seconds, and reported where it was when the urge arrived. That simple trick let Libet put a time on a private feeling."
+    },
+    {
+      "opening": "The readiness potential",
+      "linkId": null,
+      "text": "The slow rise Libet measured had been found in 1965 by the German researchers Hans Kornhuber and Lüder Deecke. It was widely read as the brain preparing a movement, so its early start seemed to show the decision was made before awareness caught up."
+    },
+    {
+      "opening": "Libet's free won't",
+      "linkId": null,
+      "text": "Libet himself did not think free will was finished. He noticed people could still cancel a movement in the last fraction of a second, and suggested conscious choice might work as a veto rather than a starter."
+    },
+    {
+      "opening": "Schurger's noise model",
+      "linkId": null,
+      "text": "In 2012 Aaron Schurger and colleagues proposed that the buildup is mostly random fluctuation that drifts up and down all the time. A movement happens when it crosses a threshold, so averaging many trials makes a rise appear even if no hidden decision was made early."
+    }
+  ],
+  "tags": [
+    "experiments",
+    "time",
+    "perception",
+    "myths-busted"
+  ],
+  "related": [
+    "choice-blindness",
+    "cutaneous-rabbit",
+    "stopped-clock-illusion",
+    "rubber-hand-illusion",
+    "chinese-room"
+  ]
+}

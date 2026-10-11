@@ -1,0 +1,43 @@
+{
+  "id": "mozart-effect",
+  "title": "The Mozart effect",
+  "category": "Mind",
+  "hook": "A brief boost on one puzzle became a myth that Mozart makes babies smarter.",
+  "peek": "A 1993 study found college students did slightly better on a spatial task for a few minutes after hearing Mozart. Within a few years the idea had become 'music makes babies smarter', and one US state planned to give every newborn a classical CD.",
+  "lede": "In 1993, Frances Rauscher, Gordon Shaw and Katherine Ky reported in Nature that 36 college students scored better on a spatial reasoning test after ten minutes of a Mozart sonata. The boost was small and faded within about 15 minutes. Nobody tested babies or general intelligence. Even so, it grew into a popular belief that classical music makes children cleverer.",
+  "bullets": [
+    {
+      "opening": "Sonata for Two Pianos",
+      "linkId": null,
+      "text": "The piece was Mozart's Sonata for Two Pianos in D major, K. 448. Students compared it with relaxation instructions and silence, then did paper folding and cutting puzzles, imagining how a folded sheet would look once opened."
+    },
+    {
+      "opening": "Georgia's newborn CDs",
+      "linkId": null,
+      "text": "In 1998, the governor of Georgia proposed spending about $105,000 a year so that every baby born in the state could go home with a classical music CD. Tennessee had a similar scheme, and products for babies multiplied."
+    },
+    {
+      "opening": "Failed replications",
+      "linkId": null,
+      "text": "Many labs could not repeat the effect, and reviews found any boost was small. Psychologist Glenn Schellenberg showed it fits a simpler story: music people enjoy lifts mood and alertness, which briefly helps on tasks like this."
+    },
+    {
+      "opening": "The Blur study",
+      "linkId": null,
+      "text": "In a 1996 study run with the BBC, more than 8,000 British schoolchildren took part. Those who heard pop music from Blur and other bands did slightly better on a spatial task than those who heard Mozart. The music they liked mattered more than the composer."
+    }
+  ],
+  "tags": [
+    "myths-busted",
+    "experiments",
+    "replication",
+    "music"
+  ],
+  "related": [
+    "learning-styles",
+    "power-posing",
+    "ego-depletion",
+    "mozart-starling",
+    "marshmallow-test"
+  ]
+}

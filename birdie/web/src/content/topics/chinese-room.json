@@ -1,0 +1,43 @@
+{
+  "id": "chinese-room",
+  "title": "The Chinese room",
+  "category": "Mind",
+  "hook": "A man answers perfectly in Chinese without understanding a single word.",
+  "peek": "In 1980 the philosopher John Searle described a man locked in a room, passing flawless Chinese replies under the door by following a rulebook. He understands none of it. Searle asked whether a computer running a program is any different, a question now asked about AI.",
+  "lede": "In 1980 the American philosopher John Searle proposed a thought experiment. A man who speaks no Chinese sits in a room with a huge rulebook written in English. Notes in Chinese come in under the door. He looks up each string of symbols, copies out the reply the book specifies and pushes it back. Outside, people think they are chatting with a fluent speaker.",
+  "bullets": [
+    {
+      "opening": "Minds, Brains, and Programs",
+      "linkId": null,
+      "text": "Searle set out the room in a 1980 paper in the journal Behavioral and Brain Sciences. It was printed with replies from other thinkers and became one of the most argued-over arguments in the philosophy of mind."
+    },
+    {
+      "opening": "Syntax versus semantics",
+      "linkId": null,
+      "text": "Searle's point was that the man only shuffles symbols by their shapes. A computer program does the same, he argued, so running the right program cannot by itself produce understanding, however convincing the answers look."
+    },
+    {
+      "opening": "Strong and weak AI",
+      "linkId": null,
+      "text": "The paper named the two views. Weak AI says computers are useful tools for studying minds. Strong AI says a suitably programmed computer really has a mind. Searle accepted the first and aimed the room at the second."
+    },
+    {
+      "opening": "The systems reply",
+      "linkId": null,
+      "text": "The most common answer is that the man is only one part. The room as a whole, with its rulebook and notes, might understand Chinese. Searle replied that he could memorise the whole book and still not know what any word meant."
+    }
+  ],
+  "tags": [
+    "ai",
+    "thought-experiments",
+    "language",
+    "philosophy"
+  ],
+  "related": [
+    "turing-imitation-game",
+    "eliza-chatbot",
+    "clever-hans",
+    "mechanical-turk",
+    "libet-experiment"
+  ]
+}

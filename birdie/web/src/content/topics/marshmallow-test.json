@@ -1,0 +1,43 @@
+{
+  "id": "marshmallow-test",
+  "title": "The marshmallow test",
+  "category": "Mind",
+  "hook": "The famous test of waiting for a second treat predicts less than people thought.",
+  "peek": "Children who could wait alone with a marshmallow to earn a second one seemed to do better years later. A larger study in 2018 found the link was much weaker than the famous version, and shrank further once home life was taken into account.",
+  "lede": "Around 1970, Walter Mischel offered preschoolers at Stanford's Bing Nursery School a choice: one treat now, or two if they could wait while the researcher left the room. Follow-ups years later found children who waited longer tended to have higher test scores. The story became a parenting legend. A bigger, more varied study in 2018 told a more modest tale.",
+  "bullets": [
+    {
+      "opening": "The original follow-ups",
+      "linkId": null,
+      "text": "The first long-term link came from a few dozen Bing children whose parents answered later surveys. They came from a single campus nursery, mostly from well-off university families, which limited how far the results could be stretched."
+    },
+    {
+      "opening": "The 2018 replication",
+      "linkId": null,
+      "text": "Tyler Watts, Greg Duncan and Haonan Quan used a national sample of about 900 children. The link between waiting and later achievement was around half the original size, and dropped by about two-thirds more once family background and early abilities were considered."
+    },
+    {
+      "opening": "Tricks children used",
+      "linkId": null,
+      "text": "Mischel's films show children covering their eyes, singing, kicking the desk or turning away. He found that thinking of the marshmallow as a fluffy cloud, rather than as something sweet and chewy, helped them wait longer."
+    },
+    {
+      "opening": "Trusting the grown-up",
+      "linkId": null,
+      "text": "A 2013 study at the University of Rochester had an adult first break a small promise to some children. Those children waited far less than ones whose promise was kept, suggesting waiting is partly a sensible judgment about whether the reward will really come."
+    }
+  ],
+  "tags": [
+    "experiments",
+    "replication",
+    "childhood",
+    "myths-busted"
+  ],
+  "related": [
+    "ego-depletion",
+    "power-posing",
+    "jam-study",
+    "mozart-effect",
+    "learning-styles"
+  ]
+}

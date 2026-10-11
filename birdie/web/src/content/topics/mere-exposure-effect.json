@@ -1,0 +1,43 @@
+{
+  "id": "mere-exposure-effect",
+  "title": "The mere-exposure effect",
+  "category": "Mind",
+  "hook": "We grow to like things just from seeing them often, even without noticing.",
+  "peek": "Show people unfamiliar shapes, words or faces, and they tend to like the ones they have seen most. The effect works even when the images flash by too fast to be consciously recognised.",
+  "lede": "In 1968, the psychologist Robert Zajonc showed people nonsense words, Chinese characters and photos of faces, some many times and some only once. The more often something had been shown, the more people liked it, with no reward or reason attached. He called it the mere-exposure effect. Later studies found it works even when people cannot tell what they have seen.",
+  "bullets": [
+    {
+      "opening": "Zajonc's Chinese characters",
+      "linkId": null,
+      "text": "Participants who could not read Chinese were shown characters different numbers of times, then asked to guess whether each meant something good or bad. Characters they had seen more often were rated as having nicer meanings."
+    },
+    {
+      "opening": "The one-millisecond octagons",
+      "linkId": null,
+      "text": "In 1980, Zajonc and William Kunst-Wilson flashed irregular shapes for about a millisecond. People could not pick out which shapes they had seen any better than chance, yet still preferred them when asked which they liked."
+    },
+    {
+      "opening": "Your mirror-image face",
+      "linkId": null,
+      "text": "A 1977 study found people preferred mirror-reversed photos of themselves, the face they see daily in the mirror. Their friends preferred the unreversed photo, the version they were used to seeing."
+    },
+    {
+      "opening": "Limits of familiarity",
+      "linkId": null,
+      "text": "The effect is strongest for things that start out neutral or unfamiliar, and it levels off after many repetitions. Very frequent exposure can tip into boredom, and things people disliked at first do not reliably grow on them."
+    }
+  ],
+  "tags": [
+    "perception",
+    "familiarity",
+    "experiments",
+    "memory"
+  ],
+  "related": [
+    "baader-meinhof",
+    "semantic-satiation",
+    "speech-to-song-illusion",
+    "ikea-effect",
+    "endowment-effect-mugs"
+  ]
+}

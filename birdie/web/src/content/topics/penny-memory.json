@@ -1,0 +1,38 @@
+{
+  "id": "penny-memory",
+  "title": "Which penny is real?",
+  "category": "Mind",
+  "hook": "Most Americans cannot pick out a real penny from a page of fakes.",
+  "peek": "In a 1979 study, people were shown 15 drawings of the US one-cent coin and asked which was right. Fewer than half chose correctly, even though they had handled pennies almost every day of their lives. Seeing something often is not the same as remembering it.",
+  "lede": "In 1979 the psychologists Raymond Nickerson and Marilyn Adams tested memory for the most familiar object they could think of: the US penny. They drew 15 versions with small changes, such as Lincoln facing the other way or the words moved. Fewer than half of the people they tested picked the real one, and many confidently chose a fake.",
+  "bullets": [
+    {
+      "opening": "Drawing a penny from memory",
+      "linkId": null,
+      "text": "When people were asked to draw both sides of a penny, they did even worse. The coin has eight main features, including the date, the word LIBERTY and the direction Lincoln faces, and most people got only a few of them in the right place."
+    },
+    {
+      "opening": "Remembering only what matters",
+      "linkId": null,
+      "text": "The researchers argued that memory keeps what we need. To use a penny you only have to tell it from a nickel or a dime, and its colour and size do that job. The finer details never get stored, however often we see them."
+    },
+    {
+      "opening": "Recall versus recognition",
+      "linkId": null,
+      "text": "Picking the right coin from a lineup should be easier than drawing it, since the answer is in front of you. Even so, many fakes looked just as right as the real one, which shows how little detail people had actually kept."
+    }
+  ],
+  "tags": [
+    "memory",
+    "perception",
+    "experiments",
+    "design"
+  ],
+  "related": [
+    "invisible-gorilla",
+    "ebbinghaus-forgetting-curve",
+    "door-study",
+    "baader-meinhof",
+    "tip-of-the-tongue"
+  ]
+}

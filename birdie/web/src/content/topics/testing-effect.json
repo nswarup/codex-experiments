@@ -1,0 +1,43 @@
+{
+  "id": "testing-effect",
+  "title": "The testing effect",
+  "category": "Mind",
+  "hook": "Quizzing yourself beats rereading, even though rereading feels like it works better.",
+  "peek": "Students who test themselves remember far more a week later than students who reread the same material. Yet the rereaders feel more confident. Pulling a memory out, it turns out, strengthens it more than putting it in again.",
+  "lede": "Most students study by rereading their notes. It feels productive: the material looks familiar and seems to be sinking in. Experiments show that trying to recall it, with a quiz, flashcards or a blank page, works much better for remembering it later. The act of retrieving a memory makes it stronger, and the effort that makes it feel harder is part of why it helps.",
+  "bullets": [
+    {
+      "opening": "Roediger and Karpicke's study",
+      "linkId": null,
+      "text": "In a 2006 study, Henry Roediger and Jeffrey Karpicke had students either reread a passage several times or read it once and then try to recall it. After five minutes the rereaders did better, but a week later the recall group remembered far more."
+    },
+    {
+      "opening": "Confidence against results",
+      "linkId": null,
+      "text": "The students who reread predicted they would remember more than the students who practised recall did. Familiarity felt like learning, so the less effective method seemed like the better one."
+    },
+    {
+      "opening": "Testing beats concept maps",
+      "linkId": null,
+      "text": "In a 2011 study, Karpicke and Janell Blunt compared practice recall with drawing concept maps of a science text. Recall gave better results a week later, even on questions that asked students to draw connections."
+    },
+    {
+      "opening": "Wrong guesses still help",
+      "linkId": null,
+      "text": "Even failing helps. Trying to answer a question before learning the answer, then seeing it, often leads to better memory than simply studying the answer, as long as the correct answer follows."
+    }
+  ],
+  "tags": [
+    "memory",
+    "learning",
+    "experiments",
+    "myths-busted"
+  ],
+  "related": [
+    "ebbinghaus-forgetting-curve",
+    "learning-styles",
+    "memory-palace",
+    "magical-number-seven",
+    "tip-of-the-tongue"
+  ]
+}

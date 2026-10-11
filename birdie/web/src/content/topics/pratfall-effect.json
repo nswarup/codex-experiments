@@ -1,0 +1,43 @@
+{
+  "id": "pratfall-effect",
+  "title": "The pratfall effect",
+  "category": "Mind",
+  "hook": "A brilliant quiz contestant became more likeable after spilling a cup of coffee.",
+  "peek": "In a 1966 study, listeners heard a near-perfect quiz contestant, then the clatter of him spilling his coffee. The slip made him more likeable. The same blunder from an average contestant made him less so.",
+  "lede": "In 1966, Elliot Aronson, Ben Willerman and Joanne Floyd played University of Minnesota students a tape of someone trying out for a college quiz team. In one version he was brilliant, in another average. In some tapes, he ended by clumsily spilling coffee over himself. The brilliant contestant who spilled was rated the most likeable of all.",
+  "bullets": [
+    {
+      "opening": "The quiz tapes",
+      "linkId": null,
+      "text": "The brilliant candidate answered about 92 percent of questions correctly and mentioned top grades and school achievements. The average one answered about 30 percent and had ordinary achievements. Listeners only heard the recordings, never the man himself."
+    },
+    {
+      "opening": "The coffee spill",
+      "linkId": null,
+      "text": "Near the end of some tapes came a crash of crockery, the scrape of a chair and the candidate saying he had spilled coffee all over his new suit. That was the whole blunder."
+    },
+    {
+      "opening": "Why the slip helps",
+      "linkId": null,
+      "text": "Aronson's explanation was that a flawless person can seem distant and hard to relate to. A small, harmless mistake makes them seem more human. The same slip from someone unremarkable just adds to the impression of being ordinary."
+    },
+    {
+      "opening": "It depends on the listener",
+      "linkId": null,
+      "text": "Later studies found the effect is not universal. A 1970 follow-up found that how listeners felt about themselves changed whether they warmed to the clumsy expert, and a slip helps only when competence is already clear."
+    }
+  ],
+  "tags": [
+    "experiments",
+    "likeability",
+    "social-pressure",
+    "mistakes"
+  ],
+  "related": [
+    "ben-franklin-effect",
+    "spotlight-effect",
+    "cognitive-dissonance-dollar",
+    "asch-lines",
+    "ikea-effect"
+  ]
+}

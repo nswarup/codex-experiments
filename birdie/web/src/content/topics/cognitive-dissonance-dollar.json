@@ -1,0 +1,44 @@
+{
+  "id": "cognitive-dissonance-dollar",
+  "title": "The one-dollar lie",
+  "category": "Mind",
+  "hook": "Students paid $1 to call a dull task fun ended up liking it more than those paid $20.",
+  "peek": "In a 1959 Stanford experiment, students did an hour of tedious work and were then paid to tell the next volunteer it was enjoyable. Those paid a single dollar later rated the task as more fun than those paid twenty. The smaller reward changed their minds more.",
+  "lede": "In 1959 the psychologists Leon Festinger and James Carlsmith gave Stanford students an hour of deliberately boring work. Then they paid each student either $1 or $20 to tell a waiting volunteer that the task had been fun. Afterwards, the $1 students rated the task as more enjoyable than the $20 students did, and more than a group who told no lie at all.",
+  "bullets": [
+    {
+      "opening": "Turning pegs and spools",
+      "linkId": null,
+      "text": "The task was chosen to be dull: putting spools on a tray and taking them off, then turning square pegs a quarter turn at a time on a board. The waiting volunteer was really a member of the research team."
+    },
+    {
+      "opening": "Insufficient justification",
+      "linkId": null,
+      "text": "Twenty dollars, a large sum in 1959, was a good reason to say something untrue. One dollar was not. The $1 students could not explain their fib by the money, so they seemed to explain it by deciding the task had not been so bad."
+    },
+    {
+      "opening": "Festinger's dissonance theory",
+      "linkId": null,
+      "text": "Festinger had argued in a 1957 book that holding two clashing ideas, such as \"this was dull\" and \"I said it was fun\", feels uncomfortable. People ease the clash by quietly changing one of them, often the attitude rather than the action."
+    },
+    {
+      "opening": "Self-perception theory",
+      "linkId": null,
+      "text": "In the 1960s the psychologist Daryl Bem offered another reading: people work out their own attitudes by watching what they do, as an outsider would. Both explanations still have supporters, and the original study had only about 70 students."
+    }
+  ],
+  "tags": [
+    "experiments",
+    "persuasion",
+    "self-image",
+    "memory"
+  ],
+  "related": [
+    "ben-franklin-effect",
+    "ikea-effect",
+    "choice-blindness",
+    "endowment-effect-mugs",
+    "spotlight-effect",
+    "forer-effect"
+  ]
+}

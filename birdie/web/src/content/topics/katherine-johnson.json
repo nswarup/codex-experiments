@@ -1,0 +1,44 @@
+{
+  "id": "katherine-johnson",
+  "title": "Katherine Johnson checks the computer",
+  "category": "Math",
+  "hook": "Before orbiting Earth, John Glenn wanted one person to check the computer's sums.",
+  "peek": "In 1962 NASA used a new IBM computer to plot John Glenn's orbit. Glenn did not fully trust it. He asked for Katherine Johnson, one of NASA's human computers, to run the numbers by hand first.",
+  "lede": "In February 1962 John Glenn was about to become the first American to orbit Earth. NASA had calculated his flight on IBM electronic computers, which were new and sometimes unreliable. Glenn asked that Katherine Johnson, a mathematician at NASA's Langley centre in Virginia, check the key numbers by hand. As the story is usually told, he said he would fly if she said they were good.",
+  "bullets": [
+    {
+      "opening": "West Area Computing",
+      "linkId": null,
+      "text": "Johnson joined Langley in 1953 as one of its \"computers\", people who did calculations by hand. She worked in West Area Computing, a segregated unit of Black women mathematicians, before moving to a flight research team."
+    },
+    {
+      "opening": "Freedom 7's trajectory",
+      "linkId": null,
+      "text": "Before Glenn, Johnson calculated the path for Alan Shepard's 1961 flight, the first American in space. She worked out the launch time and trajectory so the capsule would land where the recovery ships waited."
+    },
+    {
+      "opening": "Checking the IBM",
+      "linkId": null,
+      "text": "For Glenn's flight she worked through the orbital equations on a desktop calculating machine, matching the computer's figures to many decimal places. Her later work included calculations for the Apollo Moon landings."
+    },
+    {
+      "opening": "Hidden Figures",
+      "linkId": null,
+      "text": "Johnson's story reached a wide audience through Margot Lee Shetterly's 2016 book Hidden Figures and the film of the same year. In 2015 she received the Presidential Medal of Freedom."
+    }
+  ],
+  "tags": [
+    "space-exploration",
+    "mathematicians",
+    "computers",
+    "history-of-things"
+  ],
+  "related": [
+    "slide-rule-apollo",
+    "nasa-pi-digits",
+    "lovelace-note-g",
+    "computer-job-title",
+    "voyager-computers",
+    "sophie-germain-leblanc"
+  ]
+}

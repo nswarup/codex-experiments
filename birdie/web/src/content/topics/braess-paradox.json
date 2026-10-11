@@ -1,0 +1,43 @@
+{
+  "id": "braess-paradox",
+  "title": "Braess's paradox",
+  "category": "Math",
+  "hook": "Adding a new road to a network can make every driver's journey slower.",
+  "peek": "In 1968 a German mathematician showed that a shortcut can slow everyone down, because each driver picks the best route for themselves. Cities have since closed roads and found traffic flowed no worse, sometimes better.",
+  "lede": "In 1968 the German mathematician Dietrich Braess described a strange result. In a road network where every driver chooses the fastest route for themselves, adding a new link can make the journey slower for everyone. Nobody is foolish. Each driver makes a sensible choice, but together those choices settle into a worse pattern than before. Remove the link, and everyone gets home sooner.",
+  "bullets": [
+    {
+      "opening": "The textbook example",
+      "linkId": null,
+      "text": "In a standard version, 4,000 drivers split between two routes and each takes 65 minutes. Add a free shortcut joining the two routes and everyone switches to it, crowding the slow stretches. The trip rises to 80 minutes, yet no one gains by switching back."
+    },
+    {
+      "opening": "Selfish routing",
+      "linkId": null,
+      "text": "The paradox is a case of what game theorists call a Nash equilibrium: a state where nobody can do better by changing only their own choice. The equilibrium is not the arrangement that is best for the group."
+    },
+    {
+      "opening": "Seoul's Cheonggyecheon",
+      "linkId": null,
+      "text": "Seoul removed a busy elevated highway over the Cheonggyecheon stream in the early 2000s and turned the area into a park. Traffic around the city did not get the jam many predicted, and some journeys improved."
+    },
+    {
+      "opening": "Springs and strings",
+      "linkId": null,
+      "text": "The same logic works outside traffic. In 1991 Joel Cohen and Paul Horowitz built a hanging weight held by springs and strings in which cutting one string makes the weight rise, not fall."
+    }
+  ],
+  "tags": [
+    "paradoxes",
+    "game-theory",
+    "maps",
+    "design"
+  ],
+  "related": [
+    "simpsons-paradox",
+    "stable-matching",
+    "travelling-salesman-pubs",
+    "konigsberg-bridges",
+    "cats-eyes-road-studs"
+  ]
+}

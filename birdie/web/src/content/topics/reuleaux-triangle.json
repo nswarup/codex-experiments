@@ -1,0 +1,43 @@
+{
+  "id": "reuleaux-triangle",
+  "title": "The Reuleaux triangle",
+  "category": "Math",
+  "hook": "A rounded triangle that is the same width in every direction, just like a circle.",
+  "peek": "Draw three arcs between the corners of a triangle and you get a shape that rolls between two flat boards as smoothly as a wheel. Engineers use it to drill nearly square holes, and its cousins sit in British pockets.",
+  "lede": "Take an equilateral triangle and swap each straight side for an arc centred on the opposite corner. The result, named after the 19th-century German engineer Franz Reuleaux, has constant width: measured with calipers at any angle, it gives the same reading. Squeeze it between two parallel boards and you can spin it freely, exactly as you could a circle.",
+  "bullets": [
+    {
+      "opening": "Drilling square holes",
+      "linkId": null,
+      "text": "Spin a Reuleaux triangle inside a square and it touches all four sides the whole way round. Drill bits built on this idea, patented by Harry Watts in the 1910s, cut holes that are square apart from slightly rounded corners."
+    },
+    {
+      "opening": "Britain's 20p and 50p",
+      "linkId": null,
+      "text": "The UK's 20p and 50p coins are seven-sided relatives of the triangle, with curved edges that give them constant width. That lets coin slots and vending machines measure them reliably, however they fall."
+    },
+    {
+      "opening": "Barbier's theorem",
+      "linkId": null,
+      "text": "Every shape of constant width has the same perimeter as a circle of that width: pi times the width. Among all such shapes the Reuleaux triangle has the smallest area, a result proved by Wilhelm Blaschke and Henri Lebesgue."
+    },
+    {
+      "opening": "Rollers but not wheels",
+      "linkId": null,
+      "text": "Logs shaped like Reuleaux triangles would carry a flat platform as smoothly as round ones. They make poor wheels, though: the centre wobbles as the shape turns, so there is no steady place for an axle."
+    }
+  ],
+  "tags": [
+    "shapes",
+    "geometry",
+    "design",
+    "inventors"
+  ],
+  "related": [
+    "mobius-strip",
+    "einstein-hat-tile",
+    "marjorie-rice-pentagons",
+    "penrose-tiling",
+    "pringles-shape"
+  ]
+}

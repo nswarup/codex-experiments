@@ -1,0 +1,43 @@
+{
+  "id": "zipper-name",
+  "title": "How the zipper got its name",
+  "category": "Inventions",
+  "hook": "The zipper existed for 30 years before a rubber boot gave it a name.",
+  "peek": "The zipper began in 1893 as a clumsy \"clasp locker\" for boots. It took two decades to make it work, and its name came later still, in 1923, when the B.F. Goodrich company sold rubber overshoes called Zippers. The fastener took the boots' name.",
+  "lede": "In 1893 a Chicago inventor named Whitcomb Judson patented a hook-and-eye device to close boots, which he called a clasp locker. It jammed and sprang open, and sold poorly. The fastener we know took another 20 years to work properly and 30 years to get its name, which came from a pair of rubber galoshes.",
+  "bullets": [
+    {
+      "opening": "Judson's clasp locker",
+      "linkId": null,
+      "text": "Judson's fastener was a row of hooks and eyes that a slider pulled together. It was shown at the 1893 Chicago World's Fair, but it tended to come apart, and early buyers reportedly found it more trouble than laces."
+    },
+    {
+      "opening": "Gideon Sundback's hookless fastener",
+      "linkId": null,
+      "text": "Gideon Sundback, a Swedish-born engineer at Judson's company, redesigned it around 1913 with small interlocking teeth set closely on fabric tapes. He patented it in 1917 as a separable fastener, and the design is essentially the one used today."
+    },
+    {
+      "opening": "B.F. Goodrich's Zipper boots",
+      "linkId": null,
+      "text": "In 1923 the B.F. Goodrich rubber company put the fasteners on overshoes and called them Zippers, after the zip sound they made. The boot name stuck to the fastener itself, and Goodrich could not keep hold of the word."
+    },
+    {
+      "opening": "Zippers in trousers",
+      "linkId": null,
+      "text": "It took until the 1930s for zippers to reach men's trousers. Buttons had been the norm, and Esquire magazine promoted the zip fly in the late 1930s as the modern choice. Within a few years it was everywhere."
+    }
+  ],
+  "tags": [
+    "names",
+    "etymology",
+    "fashion",
+    "history-of-things"
+  ],
+  "related": [
+    "velcro",
+    "safety-pin",
+    "escalator-trademark",
+    "scotch-tape",
+    "wd-40"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "teflon",
+  "title": "The empty cylinder that made Teflon",
+  "category": "Inventions",
+  "hook": "A gas cylinder that seemed empty but still weighed full gave us Teflon.",
+  "peek": "In 1938 a young DuPont chemist opened the valve on a cylinder of refrigerant gas and nothing came out. Yet it weighed as much as a full one. Cutting it open, he found the gas had turned into a slippery white powder that almost nothing would stick to.",
+  "lede": "On 6 April 1938, at a DuPont laboratory in New Jersey, the chemist Roy Plunkett and his assistant Jack Rebok went to use a cylinder of tetrafluoroethylene, a gas they were testing for refrigerators. They opened the valve and nothing came out. Puzzled, they weighed it: it was as heavy as when it was filled. So they sawed it open.",
+  "bullets": [
+    {
+      "opening": "The white waxy powder",
+      "linkId": null,
+      "text": "Inside was a slippery white solid. Under pressure in the cylinder, the gas molecules had joined into long chains, a polymer later called polytetrafluoroethylene, or PTFE. It resisted heat and almost every chemical the chemists tried."
+    },
+    {
+      "opening": "The Teflon trademark",
+      "linkId": null,
+      "text": "DuPont patented the material in 1941 and registered the name Teflon in 1945. It was first used for industrial seals and gaskets that had to survive harsh chemicals, long before anyone thought of kitchens."
+    },
+    {
+      "opening": "Marc Grégoire's frying pan",
+      "linkId": null,
+      "text": "The non-stick pan came from France. In the 1950s the engineer Marc Grégoire, who used PTFE on his fishing tackle, was urged by his wife Colette to try it on her cookware. They founded Tefal, whose name blends Teflon and aluminium."
+    },
+    {
+      "opening": "Making Teflon stick",
+      "linkId": null,
+      "text": "Because hardly anything clings to PTFE, getting it onto a pan is the tricky part. Makers roughen the metal surface, then add a primer layer that grips both the metal and the coating."
+    }
+  ],
+  "tags": [
+    "accidents",
+    "chemistry",
+    "food-history",
+    "inventors"
+  ],
+  "related": [
+    "post-it",
+    "cellophane",
+    "microwave-chocolate",
+    "silly-putty",
+    "vulcanized-rubber",
+    "laminated-glass"
+  ]
+}

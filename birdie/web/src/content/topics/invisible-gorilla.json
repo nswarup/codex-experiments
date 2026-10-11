@@ -1,0 +1,43 @@
+{
+  "id": "invisible-gorilla",
+  "title": "The invisible gorilla",
+  "category": "Mind",
+  "hook": "Half of viewers counting basketball passes never saw a gorilla walk through.",
+  "peek": "In a 1999 experiment, people watched a short video and counted passes between players in white shirts. Midway, a person in a gorilla suit strolled into the middle, thumped their chest and left. About half the viewers did not see it.",
+  "lede": "In 1999 the psychologists Daniel Simons and Christopher Chabris filmed students passing basketballs and asked viewers to count the passes made by the team in white. Partway through, a person in a full gorilla suit walked into the middle of the scene, faced the camera, thumped their chest and walked off. Roughly half the viewers never noticed the gorilla at all.",
+  "bullets": [
+    {
+      "opening": "Inattentional blindness",
+      "linkId": null,
+      "text": "The effect has a name: inattentional blindness. When attention is locked on one task, things outside it can go unseen, even when they are large and right in the middle of the view."
+    },
+    {
+      "opening": "Ulric Neisser's umbrella woman",
+      "linkId": null,
+      "text": "Simons and Chabris built on 1970s work by Ulric Neisser, whose viewers often missed a woman with an umbrella walking through a ball game. The gorilla made the point harder to ignore."
+    },
+    {
+      "opening": "The Ig Nobel Prize",
+      "linkId": null,
+      "text": "The study won an Ig Nobel Prize in 2004, awarded for research that first makes people laugh and then makes them think. Simons and Chabris later wrote a book, The Invisible Gorilla, about it."
+    },
+    {
+      "opening": "Gorillas in lung scans",
+      "linkId": null,
+      "text": "In a 2013 study, researchers hid a small gorilla image in CT scans of lungs and asked radiologists to look for nodules. Most of the radiologists did not see the gorilla, even though their eyes often passed over it."
+    }
+  ],
+  "tags": [
+    "perception",
+    "attention",
+    "experiments",
+    "illusions"
+  ],
+  "related": [
+    "door-study",
+    "choice-blindness",
+    "cocktail-party-effect",
+    "stroop-effect",
+    "spotlight-effect"
+  ]
+}

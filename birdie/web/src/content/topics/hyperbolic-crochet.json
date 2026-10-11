@@ -1,0 +1,43 @@
+{
+  "id": "hyperbolic-crochet",
+  "title": "Hyperbolic crochet",
+  "category": "Math",
+  "hook": "A shape mathematicians found hard to model was finally made with a crochet hook.",
+  "peek": "Hyperbolic space curves away from itself at every point, like a lettuce leaf. In 1997 the mathematician Daina Taimina found the best way to hold it in your hands: crochet it, adding stitches at a steady rate until it ruffles.",
+  "lede": "Hyperbolic geometry, worked out in the 1800s, describes surfaces where space keeps opening up, so parallel lines spread apart and triangles have thin, inward-curving sides. It is hard to picture and hard to build. Paper models fell apart easily. In 1997 Daina Taimina, a Latvian mathematician at Cornell, realised that crochet could do it, producing ruffled, coral-like shapes.",
+  "bullets": [
+    {
+      "opening": "Increasing stitches",
+      "linkId": null,
+      "text": "The method is simple: crochet a row, then add an extra stitch every few stitches, again and again. Each row has more stitches than the last by a fixed proportion, so the fabric grows exponentially and has to ruffle to fit."
+    },
+    {
+      "opening": "Paper models before crochet",
+      "linkId": null,
+      "text": "The geometer William Thurston had built hyperbolic surfaces by taping together paper rings. They worked but were fragile. Taimina's crocheted versions could be folded, stretched and thrown in a bag without losing their shape."
+    },
+    {
+      "opening": "Crocheting Adventures with Hyperbolic Planes",
+      "linkId": null,
+      "text": "Taimina wrote a book about the method, published in 2009. It won the Diagram Prize for the year's oddest book title, though it is a serious guide to the geometry."
+    },
+    {
+      "opening": "The Crochet Coral Reef",
+      "linkId": null,
+      "text": "Inspired by Taimina, the sisters Margaret and Christine Wertheim began a crocheted coral reef in 2005. Thousands of people have since added pieces, and the reefs have been shown in museums around the world."
+    }
+  ],
+  "tags": [
+    "geometry",
+    "crafts",
+    "shapes",
+    "patterns"
+  ],
+  "related": [
+    "mobius-strip",
+    "pringles-shape",
+    "mandelbrot-set",
+    "coastline-paradox",
+    "fibonacci-sunflowers"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "asch-lines",
+  "title": "Asch's line experiment",
+  "category": "Mind",
+  "hook": "Asked which line was longest, most people agreed with a wrong group at least once.",
+  "peek": "In the 1950s, Solomon Asch asked students to match the length of lines, an easy task alone. Surrounded by actors giving the same wrong answer, about three-quarters of them went along with the group at least once.",
+  "lede": "In the early 1950s, the psychologist Solomon Asch sat a student at a table with seven or so others and asked a simple question: which of three lines matches a reference line? Alone, people almost never got it wrong. But the others were actors, primed to give the same wrong answer on some rounds. About three-quarters of real participants agreed with the group at least once.",
+  "bullets": [
+    {
+      "opening": "The critical trials",
+      "linkId": null,
+      "text": "Each session had about 18 rounds, and on 12 of them the actors gave the same wrong answer aloud before the real participant. Across those rounds, participants went along with the group roughly a third of the time."
+    },
+    {
+      "opening": "The quarter who never budged",
+      "linkId": null,
+      "text": "About a quarter of participants never conformed at all. Many who did said afterwards they had doubted their own eyes, or simply did not want to stand out from the group."
+    },
+    {
+      "opening": "A single ally",
+      "linkId": null,
+      "text": "When just one actor gave the right answer, conformity dropped sharply, to around a quarter of its usual level. Having one other person break from the majority made it much easier to trust your own eyes."
+    },
+    {
+      "opening": "Writing answers privately",
+      "linkId": null,
+      "text": "When participants wrote their answers down instead of saying them aloud in front of the group, conformity fell a lot. Much of the effect came from the discomfort of disagreeing out loud."
+    }
+  ],
+  "tags": [
+    "experiments",
+    "conformity",
+    "perception",
+    "social-pressure"
+  ],
+  "related": [
+    "spotlight-effect",
+    "invisible-gorilla",
+    "choice-blindness",
+    "galton-ox-guess",
+    "the-dress"
+  ]
+}

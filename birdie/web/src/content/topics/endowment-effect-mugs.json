@@ -1,0 +1,43 @@
+{
+  "id": "endowment-effect-mugs",
+  "title": "The coffee mug experiment",
+  "category": "Mind",
+  "hook": "Hand someone a mug and they suddenly want about twice as much to sell it.",
+  "peek": "In a classic economics experiment, students given a plain university mug asked far more to part with it than other students would pay for the very same mug. Owning something for a few minutes was enough to raise its value in their eyes.",
+  "lede": "In 1990, Daniel Kahneman, Jack Knetsch and Richard Thaler ran a simple test with Cornell University coffee mugs. Half the students in a class were given a mug, the rest were not. Then they could trade. The owners asked roughly twice as much to sell as the others offered to buy, for a mug they had held for only minutes.",
+  "bullets": [
+    {
+      "opening": "The missing trades",
+      "linkId": null,
+      "text": "Since the mugs went to students at random, about half should have changed hands if everyone valued them the same. Far fewer trades happened. Owners kept clinging to mugs that, an hour earlier, they had never thought about."
+    },
+    {
+      "opening": "Mugs and chocolate bars",
+      "linkId": null,
+      "text": "In an earlier study, Knetsch gave some students a mug and others a chocolate bar, then offered a swap. About nine in ten kept whatever they had been handed, even though the two groups were alike in every other way."
+    },
+    {
+      "opening": "Loss aversion",
+      "linkId": null,
+      "text": "The usual explanation is that giving something up feels like a loss, and losses sting more than equal gains please. Selling the mug counts as losing it, while buying one is only a possible gain."
+    },
+    {
+      "opening": "Debate over the gap",
+      "linkId": null,
+      "text": "Some economists have found the gap shrinks when people get practice and the trading rules are explained very carefully. How large and how universal the effect is remains argued about, but the mug result itself has been repeated many times."
+    }
+  ],
+  "tags": [
+    "experiments",
+    "economics",
+    "ownership",
+    "decisions"
+  ],
+  "related": [
+    "ikea-effect",
+    "anchoring-wheel",
+    "jam-study",
+    "linda-problem",
+    "tulip-mania"
+  ]
+}

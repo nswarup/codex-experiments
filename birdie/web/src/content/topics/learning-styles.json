@@ -1,0 +1,43 @@
+{
+  "id": "learning-styles",
+  "title": "The learning styles myth",
+  "category": "Mind",
+  "hook": "Teaching to your 'visual' or 'auditory' style does not seem to help you learn.",
+  "peek": "Most teachers in several surveys believe students learn best when lessons match their learning style, such as visual or auditory. When researchers looked for evidence that matching actually improves learning, they found almost none.",
+  "lede": "The idea is everywhere: some people are visual learners, others auditory or hands-on, and lessons work best when matched to your style. In surveys in the UK and the Netherlands, over 90 percent of teachers agreed. Yet when psychologists searched for studies showing that matching lessons to a style improves learning, they found very little support.",
+  "bullets": [
+    {
+      "opening": "The VARK questionnaire",
+      "linkId": null,
+      "text": "One popular version, VARK, was created by New Zealand teacher Neil Fleming in 1987. It sorts people into visual, aural, reading and writing, and kinaesthetic learners. Many schools and training courses have used such questionnaires to guide teaching."
+    },
+    {
+      "opening": "The meshing test",
+      "linkId": null,
+      "text": "In 2008, Harold Pashler and colleagues set out what proof would require: visual learners do better with visual lessons, while auditory learners do better with spoken ones. Very few studies used that design, and those that did mostly failed the test."
+    },
+    {
+      "opening": "Preferences are real",
+      "linkId": null,
+      "text": "People do have genuine preferences and will tell you which way of learning they like. Studies find those preferences simply do not predict which kind of lesson helps them remember more."
+    },
+    {
+      "opening": "Matching the content",
+      "linkId": null,
+      "text": "What helps is matching the method to the material, not the person. A map is best learned by looking, a poem by hearing it aloud, and nearly everyone learns more from words and pictures together than from either alone."
+    }
+  ],
+  "tags": [
+    "myths-busted",
+    "education",
+    "memory",
+    "learning"
+  ],
+  "related": [
+    "testing-effect",
+    "memory-palace",
+    "ebbinghaus-forgetting-curve",
+    "mozart-effect",
+    "ego-depletion"
+  ]
+}

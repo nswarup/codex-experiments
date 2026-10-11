@@ -1,0 +1,43 @@
+{
+  "id": "zeigarnik-effect",
+  "title": "The Zeigarnik effect",
+  "category": "Mind",
+  "hook": "The story goes that a waiter's memory inspired research on unfinished tasks.",
+  "peek": "A Berlin waiter, the story goes, remembered every unpaid order but forgot each one the moment it was settled. Bluma Zeigarnik turned the observation into experiments on why unfinished tasks stick in the mind. The memory result has proved shakier than its fame.",
+  "lede": "In 1920s Berlin, the psychologist Kurt Lewin and his students often met in a café. The story goes that a waiter remembered every unpaid order in detail, then forgot them once the bill was settled. Lewin's student Bluma Zeigarnik tested the idea in the lab and, in 1927, reported that people remember interrupted tasks better than completed ones.",
+  "bullets": [
+    {
+      "opening": "Zeigarnik's interrupted tasks",
+      "linkId": null,
+      "text": "Participants did about 20 small tasks, such as puzzles, stringing beads and modelling clay. Some were allowed to finish, others were stopped partway. Asked later what they had done, people recalled the unfinished tasks roughly twice as often."
+    },
+    {
+      "opening": "The waiter anecdote",
+      "linkId": null,
+      "text": "The café story is the usual explanation for how the research began, but it comes from later retellings rather than a detailed record. It is best treated as a good origin story, not a documented observation."
+    },
+    {
+      "opening": "The Ovsiankina effect",
+      "linkId": null,
+      "text": "Another of Lewin's students, Maria Ovsiankina, found in 1928 that people given a free moment tend to go back and finish an interrupted task. This urge to resume has held up better in later research than the memory effect."
+    },
+    {
+      "opening": "Mixed replications",
+      "linkId": null,
+      "text": "Later studies of the memory advantage gave mixed results, and a recent review found little reliable support for it. The pull of unfinished business seems real, but better recall of it is less certain than textbooks suggest."
+    }
+  ],
+  "tags": [
+    "memory",
+    "experiments",
+    "myths-busted",
+    "unfinished-tasks"
+  ],
+  "related": [
+    "ebbinghaus-forgetting-curve",
+    "doorway-effect",
+    "tip-of-the-tongue",
+    "testing-effect",
+    "magical-number-seven"
+  ]
+}

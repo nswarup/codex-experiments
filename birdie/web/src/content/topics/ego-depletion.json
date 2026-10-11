@@ -1,0 +1,43 @@
+{
+  "id": "ego-depletion",
+  "title": "Ego depletion",
+  "category": "Mind",
+  "hook": "Willpower was said to run out like fuel. A 23-lab test found almost no effect.",
+  "peek": "For years, psychologists taught that self-control is a limited supply that drains with use. Hundreds of studies seemed to agree. Then a huge coordinated replication across 23 labs in 2016 found the effect was close to zero.",
+  "lede": "In 1998, Roy Baumeister and colleagues proposed that self-control draws on a limited store of energy. Resist one temptation and you have less left for the next challenge. They called it ego depletion, and it spread into textbooks and self-help books, backed by hundreds of studies. In 2016, a careful test across 23 laboratories found almost nothing.",
+  "bullets": [
+    {
+      "opening": "Radishes and cookies",
+      "linkId": null,
+      "text": "In the founding experiment, hungry students sat beside fresh chocolate chip cookies. Some were told to eat only radishes. Afterwards, the radish eaters gave up on an unsolvable puzzle much sooner than those allowed cookies, as if resisting had tired them out."
+    },
+    {
+      "opening": "The sugar idea",
+      "linkId": null,
+      "text": "Later studies suggested a sugary drink could restore willpower, linking self-control to glucose. Critics pointed out that the brain's energy use barely changes during such tasks, and that simply rinsing the mouth with a sweet drink was reported to help too."
+    },
+    {
+      "opening": "The 23-lab replication",
+      "linkId": null,
+      "text": "In 2016, a project led by Martin Hagger ran the same agreed procedure in 23 labs with more than 2,000 participants. The depletion effect was close to zero. A second large multi-lab project in 2022 also found at most a tiny effect."
+    },
+    {
+      "opening": "Beliefs about willpower",
+      "linkId": null,
+      "text": "A 2010 study by Veronika Job, Carol Dweck and Gregory Walton found that tiredness after self-control showed up mainly in people who believed willpower is limited. Those who did not hold that belief showed little or no drop."
+    }
+  ],
+  "tags": [
+    "experiments",
+    "replication",
+    "myths-busted",
+    "willpower"
+  ],
+  "related": [
+    "power-posing",
+    "marshmallow-test",
+    "mozart-effect",
+    "cognitive-dissonance-dollar",
+    "learning-styles"
+  ]
+}

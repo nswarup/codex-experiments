@@ -1,0 +1,44 @@
+{
+  "id": "nontransitive-dice",
+  "title": "Nontransitive dice",
+  "category": "Math",
+  "hook": "Three dice where A beats B, B beats C, and C beats A, like rock, paper, scissors.",
+  "peek": "Some dice break the usual rule that if A beats B and B beats C, then A must beat C. Whichever die your opponent picks, there is another that beats it more often than not. The trick is to let them choose first.",
+  "lede": "We expect \"better than\" to work in a chain: if A beats B and B beats C, A should beat C. Certain dice break that rule. With the right numbers on their faces, each die in a set beats the next one more often than not, and the last beats the first. There is no best die, only a best reply.",
+  "bullets": [
+    {
+      "opening": "A simple three-dice set",
+      "linkId": null,
+      "text": "Give die A the faces 2, 2, 4, 4, 9, 9; die B 1, 1, 6, 6, 8, 8; and die C 3, 3, 5, 5, 7, 7. Rolled against each other, A beats B, B beats C and C beats A, each with odds of 5 in 9."
+    },
+    {
+      "opening": "Efron's dice",
+      "linkId": null,
+      "text": "The statistician Bradley Efron designed a set of four dice in which each beats the next with odds of 2 in 3. The puzzle writer Martin Gardner made them famous in a 1970 column."
+    },
+    {
+      "opening": "Buffett and Gates",
+      "linkId": null,
+      "text": "The story goes that Warren Buffett once offered Bill Gates a game with nontransitive dice and invited him to pick first. Gates, suspicious, studied the dice and suggested Buffett choose first instead."
+    },
+    {
+      "opening": "Grime dice",
+      "linkId": null,
+      "text": "The mathematician James Grime designed a set with a second twist. Roll one of each die and the winning order goes one way. Roll two of each and add them up, and part of the order flips."
+    }
+  ],
+  "tags": [
+    "probability",
+    "games",
+    "paradoxes",
+    "dice"
+  ],
+  "related": [
+    "monty-hall",
+    "birthday-paradox",
+    "galton-board",
+    "gardner-mathematical-games",
+    "simpsons-paradox",
+    "magic-8-ball"
+  ]
+}

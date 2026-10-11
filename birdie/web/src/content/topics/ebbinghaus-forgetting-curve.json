@@ -1,0 +1,43 @@
+{
+  "id": "ebbinghaus-forgetting-curve",
+  "title": "Ebbinghaus's forgetting curve",
+  "category": "Mind",
+  "hook": "One man learned thousands of nonsense syllables to measure how fast we forget.",
+  "peek": "In the 1880s the German psychologist Hermann Ebbinghaus was his own and only test subject. He memorised lists of meaningless syllables, waited, and measured how much he had lost. His curve of forgetting still holds up.",
+  "lede": "In the early 1880s Hermann Ebbinghaus set out to measure memory, which many thought could not be measured. He made about 2,300 nonsense syllables, each a consonant, a vowel and a consonant, such as \"WID\" or \"ZOF\", so that no meaning would help him. Then he learned lists of them, waited, and tested himself. He published the results in 1885.",
+  "bullets": [
+    {
+      "opening": "The savings method",
+      "linkId": null,
+      "text": "Ebbinghaus measured forgetting by how much faster he could relearn a list. If relearning took half as long as the first learning, half the memory had been saved, even if he could not recall a single syllable."
+    },
+    {
+      "opening": "The shape of the curve",
+      "linkId": null,
+      "text": "His results showed forgetting is fastest at first. Within a day he had lost most of what he learned, but the loss then slowed sharply, and some memory remained a month later."
+    },
+    {
+      "opening": "A 2015 replication",
+      "linkId": null,
+      "text": "In 2015 the Dutch researchers Jaap Murre and Joeri Dros repeated the experiment with one volunteer learning nonsense syllables over 70 hours. The curve came out very close to Ebbinghaus's, with a small bump after a night's sleep."
+    },
+    {
+      "opening": "Spacing his practice",
+      "linkId": null,
+      "text": "Ebbinghaus also noticed that spreading repetitions over several days made lists stick better than cramming them into one sitting. This spacing effect is one of the most reliable findings in memory research."
+    }
+  ],
+  "tags": [
+    "memory",
+    "experiments",
+    "learning",
+    "time"
+  ],
+  "related": [
+    "testing-effect",
+    "magical-number-seven",
+    "memory-palace",
+    "tip-of-the-tongue",
+    "zeigarnik-effect"
+  ]
+}

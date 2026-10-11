@@ -1,0 +1,43 @@
+{
+  "id": "power-posing",
+  "title": "Power posing",
+  "category": "Mind",
+  "hook": "Standing like a superhero was said to change your hormones. It did not hold up.",
+  "peek": "A 2010 study claimed that two minutes in a confident pose could shift hormone levels and boldness. It inspired one of the most watched talks ever. Larger studies failed to repeat the hormone effects, and the study's first author later said she no longer believed them.",
+  "lede": "In 2010, Dana Carney, Amy Cuddy and Andy Yap reported that holding an expansive pose, like hands on hips or feet on a desk, for two minutes raised testosterone, lowered the stress hormone cortisol and made people take more risks. Cuddy's 2012 TED talk on the idea has been viewed tens of millions of times. The hormone result did not survive closer checking.",
+  "bullets": [
+    {
+      "opening": "The 2010 study",
+      "linkId": null,
+      "text": "The original experiment had 42 participants. Each held either high-power or low-power poses, had hormone levels measured before and after, and was offered a small gamble. The effects reported were large for so short and simple an act."
+    },
+    {
+      "opening": "The 2015 replication",
+      "linkId": null,
+      "text": "A team led by Eva Ranehill repeated the study with about 200 people. Poses made people say they felt a little more powerful, but changed neither their hormone levels nor their willingness to take a gamble."
+    },
+    {
+      "opening": "Dana Carney's statement",
+      "linkId": null,
+      "text": "In 2016, Carney posted a statement on her website saying she no longer believed power pose effects are real, and described weaknesses in how the original data had been handled. It is rare for an author to disown a famous finding so plainly."
+    },
+    {
+      "opening": "Feeling more powerful",
+      "linkId": null,
+      "text": "Cuddy has argued that the effect on how people feel still holds, and later reviews do find small changes in self-reported confidence. Whether that changes behaviour or success is still debated."
+    }
+  ],
+  "tags": [
+    "experiments",
+    "replication",
+    "myths-busted",
+    "body-language"
+  ],
+  "related": [
+    "ego-depletion",
+    "marshmallow-test",
+    "mozart-effect",
+    "learning-styles",
+    "spotlight-effect"
+  ]
+}

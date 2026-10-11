@@ -1,0 +1,43 @@
+{
+  "id": "equals-sign",
+  "title": "The invention of the equals sign",
+  "category": "Math",
+  "hook": "The = sign was invented in 1557 by a Welshman tired of writing \"is equal to\".",
+  "peek": "Before 1557, mathematicians wrote out \"is equal to\" in words, over and over. Robert Recorde, a Welsh doctor and mathematician, replaced it with two parallel lines, because he could think of nothing more equal.",
+  "lede": "For centuries, equations were sentences. Writers spelled out \"is equal to\", or the Latin \"aequales\", every time. In 1557 the Welsh mathematician Robert Recorde published The Whetstone of Witte, an algebra book in English, and grew tired of the repetition. He drew a pair of parallel lines instead, explaining that no two things could be more equal.",
+  "bullets": [
+    {
+      "opening": "Recorde's own explanation",
+      "linkId": null,
+      "text": "In his old spelling he wrote that he chose the lines \"bicause noe .2. thynges, can be moare equalle\". It is one of the few mathematical symbols whose inventor left a note saying exactly why."
+    },
+    {
+      "opening": "Very long lines",
+      "linkId": null,
+      "text": "Recorde's first equals signs were much longer than ours, stretched almost the width of a word. The printed page shows two long parallel strokes between the sides of each equation, which shrank to the modern size over time."
+    },
+    {
+      "opening": "A slow takeover",
+      "linkId": null,
+      "text": "The sign did not win at once. For more than a century some writers used other marks, and René Descartes used a different symbol for equality in 1637. The = sign became standard in Europe only around 1700."
+    },
+    {
+      "opening": "The Whetstone of Witte",
+      "linkId": null,
+      "text": "The book also helped bring the plus and minus signs, which had appeared in German books, to English readers. Recorde wrote in plain English, often as a dialogue between a master and a scholar, to teach ordinary learners."
+    }
+  ],
+  "tags": [
+    "symbols",
+    "history-of-things",
+    "inventors",
+    "algebra"
+  ],
+  "related": [
+    "leibniz-binary",
+    "googol-name",
+    "at-sign-names",
+    "email-at-sign",
+    "command-key-symbol"
+  ]
+}

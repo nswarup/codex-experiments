@@ -1,0 +1,43 @@
+{
+  "id": "door-study",
+  "title": "The door study",
+  "category": "Mind",
+  "hook": "Half the people giving directions missed that the stranger asking had changed.",
+  "peek": "In a 1998 experiment, a stranger asked passers-by for directions. Two workers then carried a door between them, and the stranger was secretly swapped for someone else. About half the people kept talking, never noticing they had a new listener.",
+  "lede": "In 1998 the psychologists Daniel Simons and Daniel Levin sent an experimenter to stop people on the Cornell University campus and ask for directions. Mid-conversation, two men carrying a large door walked between them. Behind it, the experimenter swapped places with one of the carriers, who then carried on the conversation. About half the people giving directions did not notice they were talking to someone new.",
+  "bullets": [
+    {
+      "opening": "Change blindness",
+      "linkId": null,
+      "text": "The study is a classic demonstration of change blindness: failing to spot a change because the moment it happens is hidden. Here the door did the hiding, and the swap took only a second or two."
+    },
+    {
+      "opening": "Different height, different voice",
+      "linkId": null,
+      "text": "The two experimenters wore different clothes, had different voices and were not the same height. Even so, only 7 of the 15 people in the first test reported noticing the swap."
+    },
+    {
+      "opening": "The construction worker version",
+      "linkId": null,
+      "text": "In a follow-up, the experimenters dressed as construction workers and approached students. Far fewer students noticed the swap, which suggests people pay less attention to the details of someone they see as part of a different group."
+    },
+    {
+      "opening": "Why the gap goes unnoticed",
+      "linkId": null,
+      "text": "The researchers argued that we do not keep a detailed picture of a stranger in memory. We store a rough summary, such as \"a man asking the way\", and a new face that fits it can slip straight through."
+    }
+  ],
+  "tags": [
+    "perception",
+    "attention",
+    "experiments",
+    "memory"
+  ],
+  "related": [
+    "invisible-gorilla",
+    "choice-blindness",
+    "doorway-effect",
+    "penny-memory",
+    "thatcher-effect"
+  ]
+}

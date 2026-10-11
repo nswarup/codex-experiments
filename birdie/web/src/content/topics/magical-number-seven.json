@@ -1,0 +1,43 @@
+{
+  "id": "magical-number-seven",
+  "title": "The magical number seven",
+  "category": "Mind",
+  "hook": "The famous rule that we can hold seven things in mind turned out to be generous.",
+  "peek": "In 1956 George Miller wrote one of psychology's most quoted papers, about the number seven plus or minus two. Later research suggests the real limit of short-term memory is nearer four chunks, and the number we can hold depends on how we group things.",
+  "lede": "In 1956 the psychologist George Miller published \"The Magical Number Seven, Plus or Minus Two\", one of the most quoted papers in psychology. It opened with the line \"My problem is that I have been persecuted by an integer.\" Miller noticed the number seven turning up again and again in studies of how much people can take in and hold in mind at once.",
+  "bullets": [
+    {
+      "opening": "Chunking",
+      "linkId": null,
+      "text": "Miller's most lasting idea was that memory counts chunks, not items. The letters F, B, I, C, I, A are six items but two chunks once you see them as FBI and CIA, which is how people stretch what they can hold."
+    },
+    {
+      "opening": "Miller's light touch",
+      "linkId": null,
+      "text": "Miller treated the number with some humour and doubt. He suggested the repeated sevens might be little more than coincidence, but the paper's title turned seven into a popular rule of thumb."
+    },
+    {
+      "opening": "Nelson Cowan's four",
+      "linkId": null,
+      "text": "In 2001 the psychologist Nelson Cowan reviewed the evidence and argued that when people cannot rehearse or group items, the real limit is about three to five chunks, usually summarised as four."
+    },
+    {
+      "opening": "Digit span tests",
+      "linkId": null,
+      "text": "Many people can repeat back about seven digits, which is where the famous figure looks right. They manage it by quietly repeating and grouping the digits, which is why the deeper limit appears lower."
+    }
+  ],
+  "tags": [
+    "memory",
+    "myths-busted",
+    "experiments",
+    "numbers"
+  ],
+  "related": [
+    "ebbinghaus-forgetting-curve",
+    "testing-effect",
+    "memory-palace",
+    "phone-keypad-layout",
+    "tip-of-the-tongue"
+  ]
+}

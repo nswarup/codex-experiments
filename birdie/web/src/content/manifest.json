@@ -2028,5 +2028,185 @@
   "id": "ikea-effect",
   "title": "The IKEA effect",
   "category": "Mind"
+ },
+ {
+  "id": "reuleaux-triangle",
+  "title": "The Reuleaux triangle",
+  "category": "Math"
+ },
+ {
+  "id": "equals-sign",
+  "title": "The invention of the equals sign",
+  "category": "Math"
+ },
+ {
+  "id": "hyperbolic-crochet",
+  "title": "Hyperbolic crochet",
+  "category": "Math"
+ },
+ {
+  "id": "nicolas-bourbaki",
+  "title": "Nicolas Bourbaki",
+  "category": "Math"
+ },
+ {
+  "id": "katherine-johnson",
+  "title": "Katherine Johnson checks the computer",
+  "category": "Math"
+ },
+ {
+  "id": "nontransitive-dice",
+  "title": "Nontransitive dice",
+  "category": "Math"
+ },
+ {
+  "id": "braess-paradox",
+  "title": "Braess's paradox",
+  "category": "Math"
+ },
+ {
+  "id": "invisible-gorilla",
+  "title": "The invisible gorilla",
+  "category": "Mind"
+ },
+ {
+  "id": "door-study",
+  "title": "The door study",
+  "category": "Mind"
+ },
+ {
+  "id": "ebbinghaus-forgetting-curve",
+  "title": "Ebbinghaus's forgetting curve",
+  "category": "Mind"
+ },
+ {
+  "id": "testing-effect",
+  "title": "The testing effect",
+  "category": "Mind"
+ },
+ {
+  "id": "magical-number-seven",
+  "title": "The magical number seven",
+  "category": "Mind"
+ },
+ {
+  "id": "endowment-effect-mugs",
+  "title": "The coffee mug experiment",
+  "category": "Mind"
+ },
+ {
+  "id": "linda-problem",
+  "title": "The Linda problem",
+  "category": "Mind"
+ },
+ {
+  "id": "hot-hand",
+  "title": "The hot hand comeback",
+  "category": "Mind"
+ },
+ {
+  "id": "marshmallow-test",
+  "title": "The marshmallow test",
+  "category": "Mind"
+ },
+ {
+  "id": "power-posing",
+  "title": "Power posing",
+  "category": "Mind"
+ },
+ {
+  "id": "ego-depletion",
+  "title": "Ego depletion",
+  "category": "Mind"
+ },
+ {
+  "id": "mozart-effect",
+  "title": "The Mozart effect",
+  "category": "Mind"
+ },
+ {
+  "id": "learning-styles",
+  "title": "The learning styles myth",
+  "category": "Mind"
+ },
+ {
+  "id": "asch-lines",
+  "title": "Asch's line experiment",
+  "category": "Mind"
+ },
+ {
+  "id": "mere-exposure-effect",
+  "title": "The mere-exposure effect",
+  "category": "Mind"
+ },
+ {
+  "id": "pratfall-effect",
+  "title": "The pratfall effect",
+  "category": "Mind"
+ },
+ {
+  "id": "zeigarnik-effect",
+  "title": "The Zeigarnik effect",
+  "category": "Mind"
+ },
+ {
+  "id": "libet-experiment",
+  "title": "Libet's free-will experiment",
+  "category": "Mind"
+ },
+ {
+  "id": "chinese-room",
+  "title": "The Chinese room",
+  "category": "Mind"
+ },
+ {
+  "id": "flynn-effect",
+  "title": "The Flynn effect",
+  "category": "Mind"
+ },
+ {
+  "id": "cognitive-dissonance-dollar",
+  "title": "The one-dollar lie",
+  "category": "Mind"
+ },
+ {
+  "id": "penny-memory",
+  "title": "Which penny is real?",
+  "category": "Mind"
+ },
+ {
+  "id": "safety-pin",
+  "title": "The $15 safety pin",
+  "category": "Inventions"
+ },
+ {
+  "id": "gem-paper-clip",
+  "title": "Norway's paper clip myth",
+  "category": "Inventions"
+ },
+ {
+  "id": "zipper-name",
+  "title": "How the zipper got its name",
+  "category": "Inventions"
+ },
+ {
+  "id": "frisbee-pie-tins",
+  "title": "The Frisbee and the pie tins",
+  "category": "Inventions"
+ },
+ {
+  "id": "play-doh",
+  "title": "Play-Doh began as wallpaper cleaner",
+  "category": "Inventions"
+ },
+ {
+  "id": "silly-putty",
+  "title": "Silly Putty, the failed rubber",
+  "category": "Inventions"
+ },
+ {
+  "id": "teflon",
+  "title": "The empty cylinder that made Teflon",
+  "category": "Inventions"
  }
 ]

@@ -1,0 +1,44 @@
+{
+  "id": "silly-putty",
+  "title": "Silly Putty, the failed rubber",
+  "category": "Inventions",
+  "hook": "Silly Putty was meant to replace rubber and became a toy in an egg.",
+  "peek": "During the Second World War, chemists searching for synthetic rubber made a soft goo that bounced, stretched and snapped but was no use for tyres. It sat around as a curiosity for years until a marketer put it in plastic eggs in 1950 and sold millions.",
+  "lede": "When the Second World War cut supplies of natural rubber, American labs raced to make a substitute. Around 1943 an engineer at General Electric, usually named as James Wright, mixed boric acid into silicone oil. The result bounced higher than rubber and stretched like taffy, but it was too soft for any practical use. Engineers passed it round at parties instead.",
+  "bullets": [
+    {
+      "opening": "Who really invented it",
+      "linkId": null,
+      "text": "General Electric credited James Wright, but Earl Warrick of Dow Corning also said he made similar putty around the same time. Historians usually mention both, and the full story of who was first is unclear."
+    },
+    {
+      "opening": "Peter Hodgson's plastic eggs",
+      "linkId": null,
+      "text": "In 1950 the advertising man Peter Hodgson bought a batch, packed small portions into plastic eggs near Easter and sold them as Silly Putty. A mention in The New Yorker that summer helped orders take off."
+    },
+    {
+      "opening": "Bouncing, snapping and flowing",
+      "linkId": null,
+      "text": "Silly Putty reacts to how fast it is pushed. Thrown hard, it bounces like a ball and can shatter under a hammer. Left alone, it slowly sinks into a puddle. Scientists call this kind of material viscoelastic."
+    },
+    {
+      "opening": "Silly Putty on Apollo 8",
+      "linkId": null,
+      "text": "In 1968 the Apollo 8 astronauts took Silly Putty to the Moon and back, reportedly to stop tools floating around the cabin in weightlessness. It was later owned by Crayola, which still makes it."
+    }
+  ],
+  "tags": [
+    "accidents",
+    "chemistry",
+    "games",
+    "history-of-things"
+  ],
+  "related": [
+    "play-doh",
+    "vulcanized-rubber",
+    "oobleck",
+    "slinky",
+    "pitch-drop-experiment",
+    "teflon"
+  ]
+}
