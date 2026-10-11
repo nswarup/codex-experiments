@@ -3,7 +3,7 @@
   "title": "The Joker was invented for euchre",
   "category": "Games",
   "hook": "The Joker is the newest card in the pack, added for one American game.",
-  "peek": "The other cards in a standard pack are centuries old, but the Joker only appeared in America around the 1860s. It was made as an extra top trump for euchre, and its name probably comes from the game.",
+  "peek": "The other cards in a standard pack are centuries old, but the Joker only appeared in America around the 1860s. It was made as an extra top trump for euchre, and its name may come from the game.",
   "lede": "Most of a standard pack of cards is centuries old, but the Joker is a newcomer. It first appeared in American packs around the 1860s, made for euchre, a trick-taking game hugely popular in the United States at the time. Euchre needed one extra card to beat all the others, and printers began adding it to the deck.",
   "bullets": [
     {
@@ -14,7 +14,7 @@
     {
       "opening": "A name from euchre",
       "linkId": null,
-      "text": "The name Joker probably comes from euchre itself. The game's name is thought to come from the German Juckerspiel, and euchre was sometimes spelled juker, so the joker may simply be the euchre card."
+      "text": "The name Joker may come from euchre itself, though no early card proves it. The game's name is thought to come from the German Juckerspiel, and euchre was sometimes spelled juker, so the joker may simply be the euchre card."
     },
     {
       "opening": "The jester picture",
