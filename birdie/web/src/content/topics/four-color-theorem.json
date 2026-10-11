@@ -1,15 +1,15 @@
 {
   "id": "four-color-theorem",
-  "title": "The four color theorem",
+  "title": "The four colour theorem",
   "category": "Math",
-  "hook": "Four colors are enough for any map, and proving it took over a century and a computer.",
-  "peek": "Any flat map can be colored with just four colors so that no two neighbouring regions match. The idea was posed in 1852 and only proved in 1976, with a computer checking cases no person could, which made some mathematicians uneasy.",
-  "lede": "In 1852 a young Englishman, Francis Guthrie, was coloring a map of English counties and noticed he never needed more than four colors to keep neighbours different. He wondered if that held for every map. It does, but the proof took until 1976, and it was the first major theorem that relied on a computer to finish the job.",
+  "hook": "Four colours are enough for any map, and proving it took over a century and a computer.",
+  "peek": "Any flat map can be coloured with just four colours so that no two neighbouring regions match. The idea was posed in 1852 and only proved in 1976, with a computer checking cases no person could, which made some mathematicians uneasy.",
+  "lede": "In 1852 a young Englishman, Francis Guthrie, was coloring a map of English counties and noticed he never needed more than four colours to keep neighbours different. He wondered if that held for every map. It does, but the proof took until 1976, and it was the first major theorem that relied on a computer to finish the job.",
   "bullets": [
     {
       "opening": "Kempe's false proof",
       "linkId": null,
-      "text": "In 1879 the barrister Alfred Kempe published a proof that was accepted for 11 years. In 1890 Percy Heawood found a flaw, though Kempe's method still showed that five colors are always enough."
+      "text": "In 1879 the barrister Alfred Kempe published a proof that was accepted for 11 years. In 1890 Percy Heawood found a flaw, though Kempe's method still showed that five colours are always enough."
     },
     {
       "opening": "Appel and Haken's computer",
@@ -24,12 +24,12 @@
     {
       "opening": "The rules of the map",
       "linkId": null,
-      "text": "Each region must be one connected piece, and touching at a single corner does not count as neighbours. Countries split into scattered pieces break that rule, and a map of them can need more than four colors."
+      "text": "Each region must be one connected piece, and touching at a single corner does not count as neighbours. Countries split into scattered pieces break that rule, and a map of them can need more than four colours."
     },
     {
       "opening": "Map coloring in atlases",
       "linkId": null,
-      "text": "Cartographers rarely cared. Real atlases use many colors for clarity, and the question was always more about the hidden structure of flat surfaces than about saving ink."
+      "text": "Cartographers rarely cared. Real atlases use many colours for clarity, and the question was always more about the hidden structure of flat surfaces than about saving ink."
     }
   ],
   "tags": [

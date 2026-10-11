@@ -231,7 +231,7 @@ Regenerate with `python3 scripts/topics_md.py`.
 - **Fibonacci spirals in sunflowers**: Count the spirals in a sunflower head and you often land on Fibonacci numbers.
 - **Benford's law**: In real-world numbers, about 30% start with a 1 and fewer than 5% with a 9.
 - **The seven bridges of Königsberg**: A Sunday stroll puzzle that Euler turned into a whole new branch of maths.
-- **The four color theorem**: Four colors are enough for any map, and proving it took over a century and a computer.
+- **The four colour theorem**: Four colours are enough for any map, and proving it took over a century and a computer.
 - **Ramanujan's taxicab number**: A taxi number Hardy found dull turned out to be special in a moment.
 - **Young Gauss adds 1 to 100**: A schoolboy is said to have added 1 to 100 in moments by pairing the ends.
 - **Achilles and the tortoise**: Zeno argued a fast runner can never catch a tortoise with a head start.
@@ -972,7 +972,7 @@ Regenerate with `python3 scripts/topics_md.py`.
 - **The Vantablack feud**: One artist got exclusive rights to a super-black, and another banned him from pink.
 - **Helvetica**: A Swiss typeface from 1957 that quietly ended up on signs all over the world.
 - **The Mondrian hung upside down**: A Mondrian has probably hung upside down for over 75 years, and it will stay that way.
-- **Mauve, the accidental color**: A teenager trying to make medicine at home invented the first synthetic dye instead.
+- **Mauve, the accidental colour**: A teenager trying to make medicine at home invented the first synthetic dye instead.
 - **Bob Ross and The Joy of Painting**: A soft-spoken former Air Force sergeant painted a landscape in half an hour on TV.
 - **The Great Wave's tiny mountain**: The world's most famous wave is, officially, a picture of a mountain.
 - **Girl with a Pearl Earring is not a portrait**: Vermeer's famous girl was probably never a real sitter, and her pearl may be paint and air.

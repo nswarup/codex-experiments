@@ -38,6 +38,7 @@
     "perceptron-1958",
     "travelling-salesman-pubs",
     "konigsberg-bridges",
-    "voyager-computers"
+    "voyager-computers",
+    "janken-robot"
   ]
 }
