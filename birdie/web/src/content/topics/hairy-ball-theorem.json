@@ -1,0 +1,38 @@
+{
+  "id": "hairy-ball-theorem",
+  "title": "The hairy ball theorem",
+  "category": "Math",
+  "hook": "You can't comb a hairy ball flat, so somewhere the wind is always still.",
+  "peek": "Try to comb every hair on a fuzzy ball flat and smooth, and at least one spot will always stick up or swirl. Mathematicians proved it more than a century ago, and the same fact means there is always a calm spot in Earth's winds.",
+  "lede": "Take a ball covered in hair and try to comb it flat, with no partings and no tufts. It cannot be done. The hairy ball theorem proves that every attempt leaves at least one point where the hair stands straight up or swirls around a centre. Swap the hair for wind, and somewhere on Earth the horizontal wind must be zero.",
+  "bullets": [
+    {
+      "opening": "Poincaré and Brouwer's proofs",
+      "linkId": null,
+      "text": "Henri Poincaré proved the case for an ordinary sphere in 1885, and L. E. J. Brouwer proved a general version in 1912. Formally, a sphere cannot carry a smoothly varying field of arrows that all lie flat against its surface and none of which has zero length."
+    },
+    {
+      "opening": "The calm spot in the wind",
+      "linkId": null,
+      "text": "Treat the wind at the surface as an arrow at every point of the globe, changing smoothly from place to place. The theorem says at least one arrow must have zero length. In real weather there are usually many such calm points, often near the centres of swirling systems."
+    },
+    {
+      "opening": "Combing a hairy doughnut",
+      "linkId": null,
+      "text": "Shape is everything. Hair on a doughnut-shaped surface, a torus, can be combed perfectly flat by brushing it around the ring. The difference comes down to a number called the Euler characteristic, which is zero for a torus and two for a sphere."
+    }
+  ],
+  "tags": [
+    "topology",
+    "weather",
+    "patterns",
+    "proofs"
+  ],
+  "related": [
+    "brouwer-coffee-cup",
+    "mobius-strip",
+    "four-color-theorem",
+    "konigsberg-bridges",
+    "banach-tarski-paradox"
+  ]
+}

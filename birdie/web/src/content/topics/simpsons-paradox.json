@@ -1,0 +1,43 @@
+{
+  "id": "simpsons-paradox",
+  "title": "Simpson's paradox",
+  "category": "Math",
+  "hook": "A trend can hold in every group and then flip when the groups are added up.",
+  "peek": "Split the numbers one way and the answer points left. Combine them and it points right. Simpson's paradox is honest arithmetic, not a trick, and it once made a university look biased when its department figures told another story.",
+  "lede": "In 1973 the University of California, Berkeley, admitted about 44% of the men who applied to its graduate school but only about 35% of the women. It looked like clear bias. Yet when statisticians checked department by department, most showed no bias against women, and several slightly favoured them. Both sets of figures were correct. That reversal is Simpson's paradox.",
+  "bullets": [
+    {
+      "opening": "The Berkeley admissions study",
+      "linkId": null,
+      "text": "Peter Bickel and two colleagues published the analysis in Science in 1975. Women had mostly applied to crowded departments that turned most applicants away, while men applied more to departments that admitted most of theirs. The overall gap came from where people applied."
+    },
+    {
+      "opening": "Derek Jeter and David Justice",
+      "linkId": null,
+      "text": "Baseball has a neat case. David Justice had a higher batting average than Derek Jeter in both 1995 and 1996, yet over the two years combined Jeter's was higher. Justice had his best year when he batted rarely, Jeter his when he batted a lot."
+    },
+    {
+      "opening": "Edward Simpson's 1951 paper",
+      "linkId": null,
+      "text": "The effect is named after the British statistician Edward Simpson, who described it in 1951. Karl Pearson and Udny Yule had noticed versions of it around 1900, but Simpson's name is the one that stuck."
+    },
+    {
+      "opening": "Which number to trust",
+      "linkId": null,
+      "text": "The paradox has no automatic answer. Whether the split figures or the combined ones tell the truth depends on what is causing what, which is why statisticians ask how the groups came to differ before drawing any conclusion."
+    }
+  ],
+  "tags": [
+    "probability",
+    "paradoxes",
+    "statistics",
+    "myths-busted"
+  ],
+  "related": [
+    "braess-paradox",
+    "friendship-paradox",
+    "bayes-theorem",
+    "benfords-law",
+    "monty-hall"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "penrose-tiling",
+  "title": "Penrose tiling",
+  "category": "Math",
+  "hook": "Two tile shapes that cover a floor forever without the pattern ever repeating.",
+  "peek": "In 1974 Roger Penrose found a pair of tiles that fill a floor completely but never settle into a repeating pattern. Years later, a chemist found crystals whose atoms are ordered in the same strange, never-repeating way.",
+  "lede": "Ordinary floor tiles repeat: shift the pattern and it lines up with itself. In 1974 the mathematician Roger Penrose found two shapes, now called the kite and the dart, that can tile a floor endlessly but only in patterns that never repeat. The tilings are full of fivefold, starlike symmetry, which no repeating tiling can have.",
+  "bullets": [
+    {
+      "opening": "Kites and darts",
+      "linkId": null,
+      "text": "Both shapes come from one rhombus cut in two, and all their angles are multiples of 36 degrees. Markings on the edges stop them fitting into a repeating layout. Over a large patch, kites outnumber darts by the golden ratio, about 1.618 to 1."
+    },
+    {
+      "opening": "Dan Shechtman's quasicrystals",
+      "linkId": null,
+      "text": "In 1982 the chemist Dan Shechtman saw fivefold symmetry in a rapidly cooled alloy of aluminium and manganese, a pattern textbooks said crystals could not have. Many colleagues dismissed it. The atoms proved to be ordered much like a Penrose tiling, and he won the 2011 Nobel Prize in Chemistry."
+    },
+    {
+      "opening": "The Isfahan girih tiles",
+      "linkId": null,
+      "text": "In 2007 the physicists Peter Lu and Paul Steinhardt argued that a 15th-century shrine in Isfahan, Iran, carries tilework very close to a Penrose pattern. Its makers seem to have used a small set of standard tile shapes, centuries before the mathematics was written down."
+    }
+  ],
+  "tags": [
+    "patterns",
+    "tiling",
+    "geometry",
+    "design"
+  ],
+  "related": [
+    "einstein-hat-tile",
+    "marjorie-rice-pentagons",
+    "fibonacci-sunflowers",
+    "gardner-mathematical-games",
+    "bismuth-crystals",
+    "game-of-life"
+  ]
+}

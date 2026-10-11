@@ -1,0 +1,43 @@
+{
+  "id": "buffons-needle",
+  "title": "Buffon's needle",
+  "category": "Math",
+  "hook": "Drop needles on a striped floor, count the crossings, and out comes pi.",
+  "peek": "In the 1700s the French naturalist Buffon asked how often a needle dropped on a floor of evenly spaced lines would land across one. The answer involves pi, which turns tossing needles into a slow, strange way of measuring it.",
+  "lede": "Georges-Louis Leclerc, Comte de Buffon, was a French naturalist with a taste for probability. In 1733 he posed a puzzle: drop a needle on a floor ruled with parallel lines, spaced as far apart as the needle is long. What is the chance it lands across a line? He published the answer in 1777. It is 2 divided by pi, about 64%.",
+  "bullets": [
+    {
+      "opening": "Why pi appears",
+      "linkId": null,
+      "text": "Pi sneaks in because the needle can land at any angle. Whether it crosses depends on how far its centre lies from a line and how steeply it tilts, and averaging over every possible tilt brings in the geometry of a circle."
+    },
+    {
+      "opening": "Estimating pi with needles",
+      "linkId": null,
+      "text": "Turn the formula round and you have an experiment. Drop many needles, divide twice the number of throws by the number of crossings, and the result creeps towards pi. It creeps slowly: a thousand throws usually gets only the 3.1 right."
+    },
+    {
+      "opening": "Lazzarini's suspicious result",
+      "linkId": null,
+      "text": "In 1901 the Italian mathematician Mario Lazzarini reported 3,408 throws that gave pi as 355/113, correct to six decimal places. Later analysts showed this was far too good to be luck and that he probably stopped at a convenient moment."
+    },
+    {
+      "opening": "Buffon's noodle",
+      "linkId": null,
+      "text": "In 1860 Joseph-Émile Barbier showed that bending the needle changes nothing on average. A curved wire of the same length crosses the lines just as often overall, a result mathematicians cheerfully call Buffon's noodle."
+    }
+  ],
+  "tags": [
+    "probability",
+    "pi",
+    "experiments",
+    "geometry"
+  ],
+  "related": [
+    "nasa-pi-digits",
+    "indiana-pi-bill",
+    "galton-board",
+    "monte-carlo-black-26",
+    "reuleaux-triangle"
+  ]
+}

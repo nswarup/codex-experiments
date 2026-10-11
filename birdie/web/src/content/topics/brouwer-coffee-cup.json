@@ -1,0 +1,43 @@
+{
+  "id": "brouwer-coffee-cup",
+  "title": "Brouwer's coffee cup",
+  "category": "Math",
+  "hook": "Stir a cup of coffee and at least one point ends up where it started.",
+  "peek": "Stir your coffee as much as you like. When it settles, a theorem says at least one point of the liquid is exactly back where it began. The same idea sits under a famous proof about how games settle into balance.",
+  "lede": "In the early 1910s the Dutch mathematician L. E. J. Brouwer proved that if you continuously rearrange the points of a disc or a ball within itself, at least one point lands exactly where it started. Coffee is the classic example. Swirl it gently, without splashing, and once it settles some speck of coffee is back in its original spot.",
+  "bullets": [
+    {
+      "opening": "The crumpled map",
+      "linkId": null,
+      "text": "Another version needs only paper. Crumple a map of a country and drop it on the ground somewhere inside that country. However it is folded, at least one point on the map lies directly above the real place it shows."
+    },
+    {
+      "opening": "The no-splashing rule",
+      "linkId": null,
+      "text": "The theorem needs the motion to be continuous: points that start close together must end close together. Splash the coffee so the liquid tears apart into drops, and the guarantee no longer applies."
+    },
+    {
+      "opening": "A point nobody can find",
+      "linkId": null,
+      "text": "The proof shows a fixed point exists but not where it is. Brouwer himself later championed a strict view of mathematics that distrusted exactly this kind of proof, one that shows something exists without showing how to find it."
+    },
+    {
+      "opening": "John Nash's equilibrium proof",
+      "linkId": null,
+      "text": "In 1951 John Nash used Brouwer's theorem to show that every finite game has an equilibrium, a set of strategies where no player gains by changing alone. That work later earned him a Nobel prize in economics."
+    }
+  ],
+  "tags": [
+    "topology",
+    "proofs",
+    "food-history",
+    "games"
+  ],
+  "related": [
+    "hairy-ball-theorem",
+    "mobius-strip",
+    "banach-tarski-paradox",
+    "cake-cutting",
+    "tea-leaf-paradox"
+  ]
+}

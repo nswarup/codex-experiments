@@ -1,0 +1,43 @@
+{
+  "id": "einstein-hat-tile",
+  "title": "The hat tile",
+  "category": "Math",
+  "hook": "A retired print technician found a single tile that never repeats.",
+  "peek": "For decades mathematicians wondered whether one tile shape alone could cover a floor only in a pattern that never repeats. In 2023 the answer came from David Smith, a shape-loving hobbyist in Yorkshire, England.",
+  "lede": "Roger Penrose showed in the 1970s that two tile shapes could force a never-repeating pattern. Could a single shape do it? Mathematicians called this the einstein problem. In late 2022 David Smith, a retired print technician from Yorkshire, found a 13-sided tile he called the hat. A paper in March 2023 proved it tiles a floor only without ever repeating.",
+  "bullets": [
+    {
+      "opening": "Ein Stein, one stone",
+      "linkId": null,
+      "text": "The name has nothing to do with Albert Einstein. It is German for one stone, a pun on the hunt for a single tile. The hat itself is made of eight kite shapes joined together, and people say it looks like a fedora or a T-shirt."
+    },
+    {
+      "opening": "David Smith's paper cut-outs",
+      "linkId": null,
+      "text": "Smith played with shapes using free puzzle software and cut promising ones out of card to try by hand. He contacted the computer scientist Craig Kaplan, and with Joseph Samuel Myers and Chaim Goodman-Strauss they wrote the proof."
+    },
+    {
+      "opening": "The mirror-image catch",
+      "linkId": null,
+      "text": "Some critics pointed out that the hat tiling needs a few hats flipped over, mirror images of the rest. Only a small minority are flipped, but purists wanted a shape that did the job without any reflections."
+    },
+    {
+      "opening": "The spectre tile",
+      "linkId": null,
+      "text": "Within about two months the same team answered that too. They found a related shape, the spectre, that covers a plane without repeating and without needing any flipped copies at all."
+    }
+  ],
+  "tags": [
+    "patterns",
+    "tiling",
+    "geometry",
+    "inventors"
+  ],
+  "related": [
+    "penrose-tiling",
+    "marjorie-rice-pentagons",
+    "gardner-mathematical-games",
+    "hyperbolic-crochet",
+    "four-color-theorem"
+  ]
+}

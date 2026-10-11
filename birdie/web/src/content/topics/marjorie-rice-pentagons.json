@@ -1,0 +1,43 @@
+{
+  "id": "marjorie-rice-pentagons",
+  "title": "Marjorie Rice's pentagons",
+  "category": "Math",
+  "hook": "A San Diego homemaker found new pentagon tilings at her kitchen table.",
+  "peek": "Mathematicians thought they knew every five-sided shape that could tile a floor. Then Marjorie Rice, a San Diego homemaker whose formal maths ended at high school, read a magazine column and found four new types.",
+  "lede": "In July 1975 Martin Gardner wrote in Scientific American about convex pentagons that can tile a floor with no gaps. A 1968 paper had claimed there were exactly eight types. Marjorie Rice, a mother at home in San Diego, read the column and started drawing. Over the next couple of years she found four types that nobody had known.",
+  "bullets": [
+    {
+      "opening": "Martin Gardner's pentagon column",
+      "linkId": "gardner-mathematical-games",
+      "text": "Gardner's column passed on Richard Kershner's claim that the list of eight was complete. A reader, Richard James, soon found a ninth, showing the list was not finished after all. Rice went looking for more on her own."
+    },
+    {
+      "opening": "Her homemade notation",
+      "linkId": null,
+      "text": "Rice had taken only the basic maths required at school. She invented her own symbols to keep track of the angles and sides of each pentagon and worked through the possibilities at home, between running a busy household."
+    },
+    {
+      "opening": "Doris Schattschneider's check",
+      "linkId": null,
+      "text": "Rice mailed her results to Gardner, who passed them to the mathematician Doris Schattschneider. Puzzled at first by the unfamiliar notation, she confirmed the new types were genuine and helped bring Rice's work to professional mathematicians."
+    },
+    {
+      "opening": "The fifteen pentagon types",
+      "linkId": null,
+      "text": "Today 15 types are known. The 15th turned up in a computer search in 2015, and in 2017 Michaël Rao announced a computer-assisted proof that the list is complete. One of Rice's tilings decorates a floor at the Mathematical Association of America's headquarters."
+    }
+  ],
+  "tags": [
+    "tiling",
+    "geometry",
+    "inventors",
+    "patterns"
+  ],
+  "related": [
+    "gardner-mathematical-games",
+    "penrose-tiling",
+    "einstein-hat-tile",
+    "hyperbolic-crochet",
+    "sophie-germain-leblanc"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "leibniz-binary",
+  "title": "Leibniz and binary",
+  "category": "Math",
+  "hook": "Leibniz worked out binary arithmetic centuries before computers needed it.",
+  "peek": "Long before computers, Gottfried Leibniz showed that every number can be written with only 0 and 1. When he saw the hexagrams of the ancient Chinese I Ching, he was delighted to find they seemed to follow the same pattern.",
+  "lede": "Gottfried Wilhelm Leibniz, the German thinker who co-invented calculus, was writing numbers in base two by 1679. Any number can be written with just 0 and 1: two is 10, three is 11, four is 100. He published the system in 1703, in a paper for the Paris Academy of Sciences, more than two centuries before the first electronic computers.",
+  "bullets": [
+    {
+      "opening": "Joachim Bouvet's hexagrams",
+      "linkId": null,
+      "text": "A French missionary in China, Joachim Bouvet, sent Leibniz a diagram of the 64 hexagrams of the I Ching, each a stack of six broken or unbroken lines. Reading the lines as 0s and 1s, Leibniz saw the numbers 0 to 63 in order. The hexagrams were made for divination, so the arithmetic was his reading."
+    },
+    {
+      "opening": "Explication de l'Arithmétique Binaire",
+      "linkId": null,
+      "text": "His 1703 paper, Explanation of Binary Arithmetic, included the I Ching link. He admired how simple adding and multiplying became in binary, but he did not propose it for everyday counting; he valued what it revealed about numbers."
+    },
+    {
+      "opening": "A machine of marbles",
+      "linkId": null,
+      "text": "In 1679 Leibniz sketched a calculating machine that would run on binary, with marbles dropping through open or closed holes to stand for 1 and 0. He never built it, but it is close to how a computer's switches work."
+    },
+    {
+      "opening": "Thomas Harriot's private notes",
+      "linkId": null,
+      "text": "Leibniz was not quite first. The English astronomer Thomas Harriot used binary in private papers around 1600, but they stayed unpublished, so Leibniz's paper is the one that put binary into print."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "computing",
+    "patterns",
+    "history-of-things"
+  ],
+  "related": [
+    "jacquard-punch-cards",
+    "lovelace-note-g",
+    "equals-sign",
+    "quipu-knots",
+    "difference-engine-built",
+    "core-rope-memory"
+  ]
+}

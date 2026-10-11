@@ -1,0 +1,44 @@
+{
+  "id": "fifty-two-factorial",
+  "title": "Every shuffle is new",
+  "category": "Math",
+  "hook": "A well-shuffled deck is almost certainly in an order no deck has ever been in.",
+  "peek": "There are about 8 followed by 67 zeros ways to order a deck of 52 cards. That number is so vast that a properly shuffled deck is very likely in an arrangement that has never existed before and never will again.",
+  "lede": "The number of ways to arrange 52 cards is 52 factorial: 52 times 51 times 50, and so on down to 1. It comes to about 8 times 10 to the power 67, an 8 followed by 67 zeros. All the decks ever shuffled in history barely scratch that number, so a good shuffle almost always produces an order nobody has seen.",
+  "bullets": [
+    {
+      "opening": "Shuffling since the Big Bang",
+      "linkId": null,
+      "text": "If a billion people had each shuffled a billion decks every second since the Big Bang, they would have made fewer than 10 to the power 36 orderings. That is not even a billionth of a billionth of a billionth of 52 factorial."
+    },
+    {
+      "opening": "Seven riffle shuffles",
+      "linkId": null,
+      "text": "The catch is that the shuffle must be thorough. In 1992 Dave Bayer and Persi Diaconis showed that about seven ordinary riffle shuffles are needed to mix a deck well. Fewer leave traces of the old order that a skilled player can exploit."
+    },
+    {
+      "opening": "Eight perfect faro shuffles",
+      "linkId": null,
+      "text": "Too perfect a shuffle fails too. A faro shuffle splits the deck exactly in half and interleaves the cards one by one. Do it flawlessly eight times, keeping the top card on top, and the deck returns to the order it started in."
+    },
+    {
+      "opening": "The order of a new deck",
+      "linkId": null,
+      "text": "New decks leave the factory sorted by suit and rank, so that one arrangement appears over and over. Uniqueness only begins once the deck has been properly shuffled."
+    }
+  ],
+  "tags": [
+    "probability",
+    "scale",
+    "games",
+    "infinity"
+  ],
+  "related": [
+    "shannon-number",
+    "gods-number",
+    "birthday-paradox",
+    "ace-of-spades-tax",
+    "infinite-monkey-theorem",
+    "googol-name"
+  ]
+}

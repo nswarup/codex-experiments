@@ -1,0 +1,44 @@
+{
+  "id": "monte-carlo-black-26",
+  "title": "The night black came up 26 times",
+  "category": "Math",
+  "hook": "In 1913 a roulette wheel in Monte Carlo landed on black 26 times in a row.",
+  "peek": "On an August night in 1913, a roulette wheel at the Monte Carlo Casino came up black 26 times running. Players piled onto red, sure it was overdue. The wheel had no memory, and the story goes that they lost millions of francs.",
+  "lede": "On 18 August 1913, at the Monte Carlo Casino, the ball on one roulette wheel kept landing on black. As the streak grew, word spread and players crowded round to bet on red, reasoning that red had to be due. It never was. Black came up 26 times in a row, and by the usual telling the casino won millions of francs that night.",
+  "bullets": [
+    {
+      "opening": "The odds of 26 blacks",
+      "linkId": null,
+      "text": "Ignoring the green zero, a run of 26 blacks has odds of about 1 in 67 million. Counting the zero, it is closer to 1 in 137 million. Rare, but casinos spin their wheels millions of times a year, so long streaks are bound to turn up somewhere."
+    },
+    {
+      "opening": "The gambler's fallacy",
+      "linkId": null,
+      "text": "The players' mistake has a name: the gambler's fallacy, often called the Monte Carlo fallacy after this night. It is the belief that a random outcome becomes more likely because it has not happened for a while."
+    },
+    {
+      "opening": "A wheel with no memory",
+      "linkId": null,
+      "text": "After 25 blacks, the chance of a 26th was exactly what it had been on the first spin, a little under one half. Any particular run of 26 reds and blacks is just as unlikely as the all-black one. This one simply looked special."
+    },
+    {
+      "opening": "The hot streak mistake",
+      "linkId": null,
+      "text": "Some gamblers make the opposite error and decide black is on a roll and will keep coming. For a fair wheel that belief is just as wrong. Neither colour is ever due, and neither is ever hot."
+    }
+  ],
+  "tags": [
+    "probability",
+    "games",
+    "myths-busted",
+    "records"
+  ],
+  "related": [
+    "monty-hall",
+    "birthday-paradox",
+    "galton-board",
+    "infinite-monkey-theorem",
+    "bayes-theorem",
+    "buffons-needle"
+  ]
+}

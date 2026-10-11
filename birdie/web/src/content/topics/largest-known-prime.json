@@ -1,0 +1,44 @@
+{
+  "id": "largest-known-prime",
+  "title": "The largest known prime",
+  "category": "Math",
+  "hook": "The biggest known prime has over 41 million digits and was found on rented chips.",
+  "peek": "In October 2024 a former Nvidia engineer named Luke Durant found the largest prime number yet known, more than 41 million digits long. He did it as a volunteer, renting graphics processors in cloud data centres around the world.",
+  "lede": "The largest known prime is 2 raised to the power 136,279,841, minus one. Written out, it runs to 41,024,320 digits. It was found in October 2024 by Luke Durant, a former Nvidia engineer working with the volunteer project GIMPS. Instead of a university supercomputer, he used thousands of graphics chips rented from cloud companies in many countries.",
+  "bullets": [
+    {
+      "opening": "Mersenne primes",
+      "linkId": null,
+      "text": "Numbers of the form 2 to a power, minus one, are called Mersenne numbers after Marin Mersenne, a 17th-century French friar. There is an unusually fast test for whether they are prime, which is why nearly every record prime since 1952 has been one."
+    },
+    {
+      "opening": "The GIMPS project",
+      "linkId": null,
+      "text": "The Great Internet Mersenne Prime Search began in 1996. Volunteers run free software that tests candidates in their computers' spare time. It has found every record prime since, 18 in all, most of them on ordinary home and office PCs."
+    },
+    {
+      "opening": "A first for graphics chips",
+      "linkId": null,
+      "text": "Durant's find ended a six-year gap since the previous record, and it was the first made with GPUs, the chips designed for video games and now used for AI. A GPU flagged the likely prime, and independent checks on other machines confirmed it days later."
+    },
+    {
+      "opening": "The $150,000 prize",
+      "linkId": null,
+      "text": "No record is ever final. Euclid proved more than 2,000 years ago that the primes never run out. The Electronic Frontier Foundation has a $150,000 award waiting for the first known prime with 100 million digits."
+    }
+  ],
+  "tags": [
+    "primes",
+    "records",
+    "scale",
+    "computing"
+  ],
+  "related": [
+    "ulam-spiral",
+    "grahams-number",
+    "googol-name",
+    "fermats-last-theorem",
+    "collatz-conjecture",
+    "perelman-prize"
+  ]
+}
