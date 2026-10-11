@@ -1,0 +1,43 @@
+{
+  "id": "smell-o-vision",
+  "title": "Smell-O-Vision",
+  "category": "Film",
+  "hook": "A 1960 mystery film sent smells to every seat through tubes on cue.",
+  "peek": "Scent of Mystery promised a film you could smell, with scents piped to each cinema seat at key moments in the plot. It became one of the best-known flops in film history, and a rival system beat it to the screen by weeks.",
+  "lede": "Smell-O-Vision was the work of the Swiss-born inventor Hans Laube, backed by the producer Mike Todd Jr. For the 1960 film Scent of Mystery, cinemas were fitted with a machine that released about 30 different scents through a network of tubes running to the seats. Each smell was triggered by a cue on the film, so the audience would smell what was happening on screen.",
+  "bullets": [
+    {
+      "opening": "The smell brain",
+      "linkId": null,
+      "text": "Laube's machine was nicknamed the smell brain. It held the scents in a row of containers and released them as the film reached each cue, with perfumes for things like pipe tobacco, bread and the sea."
+    },
+    {
+      "opening": "Hissing and late smells",
+      "linkId": null,
+      "text": "At early screenings the vents made an audible hiss, and some smells arrived a few seconds after their scene. People in the balcony complained the scents were faint, and audiences were seen sniffing loudly to catch them."
+    },
+    {
+      "opening": "AromaRama got there first",
+      "linkId": null,
+      "text": "A rival system called AromaRama opened weeks earlier, at the end of 1959, with a travel film about China. It pushed scents through the cinema's air-conditioning, and reviewers made fun of both."
+    },
+    {
+      "opening": "Holiday in Spain",
+      "linkId": null,
+      "text": "Scent of Mystery did not earn back its cost. It was later cut down and sent back out without the smells under a new name, Holiday in Spain, and Smell-O-Vision was never used again."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "accidents",
+    "smell",
+    "history-of-things"
+  ],
+  "related": [
+    "foley-art",
+    "space-smell",
+    "petrichor",
+    "human-smell",
+    "steamboat-willie"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "totoro-name",
+  "title": "How Totoro got his name",
+  "category": "Film",
+  "hook": "Totoro got his name from a little girl mispronouncing the word troll.",
+  "peek": "In My Neighbor Totoro, four-year-old Mei meets a huge furry forest spirit and calls him Totoro. Her older sister works out that Mei means the troll from a picture book, said the way a small child would say it.",
+  "lede": "Hayao Miyazaki's My Neighbor Totoro came out in Japan in 1988. In it, little Mei finds a giant, sleepy creature in the woods near her family's new house and tells everyone his name is Totoro. Her sister Satsuki realises she means tororu, the Japanese word for troll, which Mei has seen in a picture book. The name is simply a child's version of that word.",
+  "bullets": [
+    {
+      "opening": "Tonari no Totoro",
+      "linkId": null,
+      "text": "The Japanese title, Tonari no Totoro, means Totoro next door. In the story the name sticks, and Totoro, a forest spirit, is never given any other name."
+    },
+    {
+      "opening": "The Studio Ghibli logo",
+      "linkId": null,
+      "text": "A side view of Totoro became the logo of Studio Ghibli, the company Miyazaki co-founded. It appears at the start of the studio's films, so the character opens every one of them."
+    },
+    {
+      "opening": "Totoro's forest",
+      "linkId": null,
+      "text": "The film's woods were inspired by the Sayama Hills near Tokyo. A trust working to protect that countryside took the name Totoro no Furusato, Totoro's home, and Miyazaki has supported it."
+    },
+    {
+      "opening": "A cameo in Toy Story 3",
+      "linkId": null,
+      "text": "Pixar, whose leaders admire Miyazaki, gave Totoro a small part as a plush toy in Toy Story 3 in 2010. He sits among the toys at Bonnie's house."
+    }
+  ],
+  "tags": [
+    "names",
+    "etymology",
+    "language-change",
+    "japan"
+  ],
+  "related": [
+    "pac-man-name",
+    "scooby-doo-sinatra",
+    "pingu-language",
+    "kermit-coat",
+    "luxo-jr"
+  ]
+}

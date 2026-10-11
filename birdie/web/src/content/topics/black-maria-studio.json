@@ -1,0 +1,43 @@
+{
+  "id": "black-maria-studio",
+  "title": "The Black Maria, the turning studio",
+  "category": "Film",
+  "hook": "Edison's first film studio spun on a turntable to chase the sun.",
+  "peek": "In 1893 Thomas Edison's team built a tar-papered shed in New Jersey to make the first films for his peep-show viewers. Its roof opened to the sky, and the whole building could be turned to follow the sun across the day.",
+  "lede": "Early film stock needed a lot of light, and electric lamps of the 1890s were not bright enough. So at West Orange, New Jersey, Edison's assistant William Kennedy Laurie Dickson designed a studio that went to the light instead. Finished in 1893, the Black Maria had a roof that swung open and sat on a pivot, so the crew could rotate it to keep sunlight on the stage.",
+  "bullets": [
+    {
+      "opening": "A police wagon nickname",
+      "linkId": null,
+      "text": "The building was covered in black tar paper inside and out, and it was cramped and stuffy. Staff said it looked like a police van, which were nicknamed Black Marias at the time, and the name stuck."
+    },
+    {
+      "opening": "Films for the Kinetoscope",
+      "linkId": null,
+      "text": "The films made there were short, often well under a minute, and were watched by one person at a time through Edison's Kinetoscope peep-show cabinet. The black walls made performers stand out sharply against the background."
+    },
+    {
+      "opening": "Blacksmith Scene and Sandow",
+      "linkId": null,
+      "text": "Early subjects included three men acting out a day at the forge in Blacksmith Scene, and the strongman Eugen Sandow flexing for the camera. Vaudeville acts, dancers and Wild West performers came out to be filmed."
+    },
+    {
+      "opening": "The 1954 replica",
+      "linkId": null,
+      "text": "Edison's company stopped using the studio in the early 1900s and it was torn down. A full-size replica was built in 1954 and still stands at the Thomas Edison National Historical Park in West Orange."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "light",
+    "architecture",
+    "history-of-things"
+  ],
+  "related": [
+    "muybridge-horse",
+    "lumiere-train-panic",
+    "twenty-four-frames",
+    "hollywoodland-sign",
+    "centennial-light"
+  ]
+}

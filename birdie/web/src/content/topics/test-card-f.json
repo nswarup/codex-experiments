@@ -1,0 +1,43 @@
+{
+  "id": "test-card-f",
+  "title": "The girl on Test Card F",
+  "category": "Film",
+  "hook": "The most broadcast picture in British TV shows a girl playing noughts and crosses.",
+  "peek": "For decades, when BBC channels had nothing on, viewers saw a girl with a chalkboard and a toy clown. She was eight-year-old Carole Hersee, and her father was the BBC engineer who designed the card.",
+  "lede": "Test Card F first appeared on BBC Two in 1967, as colour television arrived in Britain. Engineers used it to tune and check pictures during the hours when nothing else was broadcast. In the middle was a photo of Carole Hersee, the daughter of the card's designer, George Hersee. It was shown for so many hours that it is often called the most aired image in British television.",
+  "bullets": [
+    {
+      "opening": "George Hersee's design",
+      "linkId": null,
+      "text": "George Hersee was a BBC engineer who needed a picture that showed colour, sharpness and skin tones all at once. He photographed his own daughter, aged eight, and placed the photo inside a frame of colour bars and line patterns."
+    },
+    {
+      "opening": "The cross at the centre",
+      "linkId": null,
+      "text": "Carole is playing noughts and crosses on a chalkboard, and the cross she has just drawn sits at the exact centre of the screen. That let engineers check that the picture was properly lined up."
+    },
+    {
+      "opening": "Bubbles the clown",
+      "linkId": null,
+      "text": "Beside her sits a toy clown called Bubbles. The girl and the clown stayed on later versions of the card, including the digitally remastered Test Card J in 1999 and the widescreen Test Card W."
+    },
+    {
+      "opening": "About 70,000 hours on air",
+      "linkId": null,
+      "text": "It has been estimated that Carole's picture was on screen for around 70,000 hours over the years. She became, without ever acting, one of the most seen faces in British television."
+    }
+  ],
+  "tags": [
+    "color",
+    "design",
+    "history-of-things",
+    "records"
+  ],
+  "related": [
+    "pot-black",
+    "cmb-tv-static",
+    "doctor-who-theme",
+    "laff-box",
+    "larry-the-cat"
+  ]
+}

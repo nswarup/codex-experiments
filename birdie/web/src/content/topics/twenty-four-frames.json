@@ -1,0 +1,43 @@
+{
+  "id": "twenty-four-frames",
+  "title": "Why films run at 24 frames a second",
+  "category": "Film",
+  "hook": "Films run at 24 frames a second because of sound, not because of our eyes.",
+  "peek": "The film rate that defines the look of cinema was not chosen by vision scientists. It was settled in the late 1920s, when talking pictures needed one fixed speed so voices would not drift up and down in pitch.",
+  "lede": "Silent films had no single speed. Cameras were cranked by hand, anywhere from about 16 to more than 20 frames a second, and projectionists sped up or slowed down to suit the show. That was fine for pictures, but sound recorded alongside the film changes pitch when the speed changes. When talkies arrived in the late 1920s, the industry had to pick one rate, and it chose 24.",
+  "bullets": [
+    {
+      "opening": "Ninety feet a minute",
+      "linkId": null,
+      "text": "On 35mm film there are 16 frames to every foot, so 24 frames a second is exactly 90 feet a minute. The usual story is that sound engineers simply took a speed many theatres were already projecting at, rather than calculating an ideal."
+    },
+    {
+      "opening": "A compromise on cost",
+      "linkId": null,
+      "text": "Faster film gives smoother motion and better sound, but every extra frame is more film stock to buy, ship and develop. Twenty-four was close to the slowest speed that still gave clear, steady sound."
+    },
+    {
+      "opening": "The flickering shutter",
+      "linkId": null,
+      "text": "Twenty-four flashes a second would flicker badly, so projectors show each frame two or three times with a spinning shutter. The audience actually sees 48 or 72 flashes of light every second."
+    },
+    {
+      "opening": "The Hobbit at 48 frames",
+      "linkId": null,
+      "text": "Peter Jackson shot The Hobbit films at 48 frames a second in 2012. Many viewers said the smoother picture looked like television or video, a sign of how strongly 24 has shaped what film looks like."
+    }
+  ],
+  "tags": [
+    "time",
+    "history-of-things",
+    "perception",
+    "myths-busted"
+  ],
+  "related": [
+    "steamboat-willie",
+    "jazz-singer-dialogue",
+    "wagon-wheel-effect",
+    "muybridge-horse",
+    "cd-74-minutes"
+  ]
+}

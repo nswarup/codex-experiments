@@ -1,0 +1,38 @@
+{
+  "id": "simpsons-yellow",
+  "title": "Why the Simpsons are yellow",
+  "category": "Film",
+  "hook": "The Simpsons are yellow so they stand out to anyone flicking channels.",
+  "peek": "Matt Groening has said he wanted his family to grab the eye of viewers changing channels, so they would know at once that a cartoon was on. The bright yellow skin also solved a drawing problem with hair.",
+  "lede": "The Simpsons began in 1987 as short cartoons on The Tracey Ullman Show before getting their own series in 1989. Matt Groening, their creator, has said he wanted a colour that would make people stop when they were flicking through channels with the remote. A yellow family, he reasoned, would tell them right away that they were looking at something unusual.",
+  "bullets": [
+    {
+      "opening": "The missing hairline",
+      "linkId": null,
+      "text": "Groening has also said yellow helped with the hair. Bart's spiky head and Lisa's star-shaped hair are the same colour as their skin, so nobody has to draw a hairline where one would look odd."
+    },
+    {
+      "opening": "Gyorgyi Peluce, the colourist",
+      "linkId": null,
+      "text": "The final colours were worked out at the animation studio Klasky Csupo, and the colourist Gyorgyi Peluce is often credited with the yellow skin and Marge's blue hair. Accounts differ on exactly whose idea came first."
+    },
+    {
+      "opening": "Not every character is yellow",
+      "linkId": null,
+      "text": "Yellow is not every character's colour. Some, including Apu and Dr Hibbert, have different skin tones, and the show's yellow works more like a cartoon convention than a single rule for everyone in Springfield."
+    }
+  ],
+  "tags": [
+    "color",
+    "design",
+    "perception",
+    "names"
+  ],
+  "related": [
+    "mario-mustache",
+    "pac-man-name",
+    "ruby-slippers",
+    "scooby-doo-sinatra",
+    "kermit-coat"
+  ]
+}

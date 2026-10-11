@@ -1,0 +1,43 @@
+{
+  "id": "dykstraflex",
+  "title": "The Dykstraflex camera",
+  "category": "Film",
+  "hook": "Star Wars spaceships flew because a computer moved the camera, not the models.",
+  "peek": "To make X-wings and TIE fighters swoop past each other, a young effects team built a computer-controlled camera that could repeat the same move exactly, again and again, over still models. It was named after its builder, John Dykstra.",
+  "lede": "For Star Wars, George Lucas wanted fast, swooping space battles unlike anything filmed before. John Dykstra and his team at the new company Industrial Light and Magic built a camera rig run by a computer. It could pan, tilt, track and roll along a programmed path, and then repeat that path exactly, so separate shots of different models would line up perfectly when combined.",
+  "bullets": [
+    {
+      "opening": "Moving the camera, not the model",
+      "linkId": null,
+      "text": "The spaceship models were mostly held still on mounts in front of a blue screen. The Dykstraflex moved past them, and on film it looked as if the ships were rushing by at speed."
+    },
+    {
+      "opening": "Repeating the move",
+      "linkId": null,
+      "text": "Because the camera could repeat the same move many times, each ship, the background stars and engine glows could be shot as separate passes. Those passes were then combined into one shot of a crowded battle."
+    },
+    {
+      "opening": "Built in a warehouse",
+      "linkId": null,
+      "text": "The rig was built in 1975 and 1976 in a warehouse in Van Nuys, California, where Industrial Light and Magic began. Dykstra's team adapted older VistaVision cameras, whose large frame gave sharper images."
+    },
+    {
+      "opening": "A technical Oscar",
+      "linkId": null,
+      "text": "Star Wars won the Academy Award for visual effects, shared by Dykstra and others. Dykstra and two colleagues also received a separate technical Academy Award for building the Dykstraflex itself."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "space-exploration",
+    "design",
+    "history-of-things"
+  ],
+  "related": [
+    "mandalorian-stagecraft",
+    "lightsaber-sound",
+    "jurassic-park-dinosaurs",
+    "multiplane-camera",
+    "star-trek-transporter"
+  ]
+}

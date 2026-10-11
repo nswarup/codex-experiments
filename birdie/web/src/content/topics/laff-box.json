@@ -1,0 +1,43 @@
+{
+  "id": "laff-box",
+  "title": "Charley Douglass's laff box",
+  "category": "Film",
+  "hook": "Decades of TV laughter came out of one engineer's locked box.",
+  "peek": "From the 1950s, much of the laughter on American television came from a single machine built by an engineer named Charley Douglass. He played it like an organ, kept it padlocked, and very few people ever saw inside.",
+  "lede": "Filmed TV comedies in the 1950s had a problem: no live audience reacted at the right moments. Charley Douglass, a sound engineer at CBS, built a machine that could play back recorded laughter on demand. His laff box let him add a chuckle, a roar or a ripple of applause to any scene, and for years he had the business almost to himself.",
+  "bullets": [
+    {
+      "opening": "Keys like an organ",
+      "linkId": null,
+      "text": "The box worked a bit like a musical instrument. Douglass pressed keys to choose different laughs stored on loops of tape and used a foot pedal to control how long and how loud they ran, mixing them to sound like a real crowd."
+    },
+    {
+      "opening": "Kept under lock",
+      "linkId": null,
+      "text": "Douglass guarded his machine closely. He took it from studio to studio himself, kept it locked, and worked on shows alone, so producers saw the results but rarely the workings."
+    },
+    {
+      "opening": "Laughs from real audiences",
+      "linkId": null,
+      "text": "His laughs came from recordings of real studio audiences. Many are said to have been taken from silent mime sketches on The Red Skelton Show, where no dialogue got in the way of the laughter."
+    },
+    {
+      "opening": "An Emmy for laughter",
+      "linkId": null,
+      "text": "In 1992 Douglass was given an Emmy award for technical achievement for his work on the laugh track. By then other sound firms had moved in, and his monopoly had long been over."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "acoustics",
+    "communication",
+    "history-of-things"
+  ],
+  "related": [
+    "foley-art",
+    "test-card-f",
+    "muzak-stimulus-progression",
+    "opus-number-1",
+    "les-paul-overdub"
+  ]
+}

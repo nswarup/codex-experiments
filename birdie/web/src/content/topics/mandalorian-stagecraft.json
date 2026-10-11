@@ -1,0 +1,43 @@
+{
+  "id": "mandalorian-stagecraft",
+  "title": "The Mandalorian's LED volume",
+  "category": "Film",
+  "hook": "Much of The Mandalorian was filmed inside a giant wall of video game scenery.",
+  "peek": "Instead of green screens, the makers of The Mandalorian surrounded actors with a curved wall of LED panels showing alien landscapes. A video game engine redrew the scenery live as the camera moved, so the background looked real through the lens.",
+  "lede": "For the 2019 Star Wars series The Mandalorian, Industrial Light and Magic built a stage it called the Volume. A wall of LED screens about 6 metres tall curved around most of the set, with more screens overhead. On them ran deserts, ice fields and starships, drawn in real time by Epic Games' Unreal Engine, the software used to make many video games.",
+  "bullets": [
+    {
+      "opening": "Scenery that follows the camera",
+      "linkId": null,
+      "text": "The camera was tracked as it moved, and the engine redrew the part of the wall in its view with the right perspective. The background shifted just as a real landscape would, so it read as distance, not a flat screen."
+    },
+    {
+      "opening": "Reflections on the armour",
+      "linkId": null,
+      "text": "The Mandalorian's helmet and armour are polished and shiny. With a green screen they would have reflected green, but in the Volume they reflected the actual scenery, which saved a great deal of work after filming."
+    },
+    {
+      "opening": "Actors who can see the set",
+      "linkId": null,
+      "text": "Actors could see the world they were meant to be in, rather than an empty green room. The screens also lit the set with the colours of the scene, such as the warm glow of a desert sunset."
+    },
+    {
+      "opening": "ILM StageCraft",
+      "linkId": null,
+      "text": "The system was named StageCraft by Industrial Light and Magic, and more than half of the first season was filmed in it. Similar LED stages have since been built for many other films and series."
+    }
+  ],
+  "tags": [
+    "light",
+    "design",
+    "games",
+    "space-exploration"
+  ],
+  "related": [
+    "dykstraflex",
+    "lightsaber-sound",
+    "jurassic-park-dinosaurs",
+    "multiplane-camera",
+    "minecraft-world-size"
+  ]
+}

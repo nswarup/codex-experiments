@@ -1,0 +1,43 @@
+{
+  "id": "kermit-coat",
+  "title": "Kermit was made from a coat",
+  "category": "Film",
+  "hook": "The first Kermit was cut from an old coat, with half a ping-pong ball for each eye.",
+  "peek": "In 1955 a young Jim Henson made a puppet from his mother's discarded spring coat and a ping-pong ball sliced in two. That puppet became Kermit, though at first he was not even a frog.",
+  "lede": "Jim Henson was still a student at the University of Maryland when he began making puppets for a short local TV show in Washington, DC. For one of them he took a turquoise spring coat his mother had thrown out and cut it into a simple hand puppet. A ping-pong ball, cut in half, became the eyes. That puppet was the first Kermit.",
+  "bullets": [
+    {
+      "opening": "Sam and Friends",
+      "linkId": null,
+      "text": "Kermit first appeared in 1955 on Sam and Friends, a five-minute puppet show Henson made for WRC-TV in Washington. The show ran for several years and gave Henson his start in television."
+    },
+    {
+      "opening": "Not yet a frog",
+      "linkId": null,
+      "text": "The early Kermit was a vague, lizard-like creature rather than a frog. He only became clearly a frog by the end of the 1960s, when his look changed and he gained his familiar pointed collar."
+    },
+    {
+      "opening": "Jim Henson's voice",
+      "linkId": null,
+      "text": "Henson performed and voiced Kermit himself from 1955 until 1990. The role then passed to Steve Whitmire and later to Matt Vogel, so the frog cut from a coat has had only three main performers in about 70 years."
+    },
+    {
+      "opening": "Where the name came from",
+      "linkId": null,
+      "text": "The story goes that Kermit was named after Kermit Scott, a boyhood friend of Henson's in Leland, Mississippi. Others have said the name was simply one Henson liked, so the origin is not settled."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "design",
+    "fashion",
+    "history-of-things"
+  ],
+  "related": [
+    "thunderbirds-supermarionation",
+    "pingu-language",
+    "simpsons-yellow",
+    "luxo-jr",
+    "totoro-name"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "doctor-who-theme",
+  "title": "The Doctor Who theme",
+  "category": "Film",
+  "hook": "The Doctor Who theme was built in 1963 from cut and spliced tape, with no synthesizer.",
+  "peek": "One of the best-known pieces of electronic music was made before synthesizers were common. Delia Derbyshire built it at the BBC Radiophonic Workshop from oscillators, white noise and a plucked string, one note of tape at a time.",
+  "lede": "The Australian composer Ron Grainer wrote the Doctor Who theme on a single sheet of manuscript paper, with notes about the sounds he imagined. It was handed to Delia Derbyshire at the BBC Radiophonic Workshop in London. With no synthesizer to play it on, she made each note from raw sounds recorded on tape, then cut and joined the pieces by hand.",
+  "bullets": [
+    {
+      "opening": "The plucked bass line",
+      "linkId": null,
+      "text": "The famous galloping bass started as a single plucked string. Derbyshire recorded it, then copied and re-pitched the note by changing the tape speed, and spliced the copies together to make the rhythm."
+    },
+    {
+      "opening": "Oscillators and white noise",
+      "linkId": null,
+      "text": "The swooping melody came from test-tone oscillators, the kind used to check studio equipment, with white noise filtered to make the hissing whooshes. Each note was a separate piece of tape."
+    },
+    {
+      "opening": "Mixing without multitrack",
+      "linkId": null,
+      "text": "The workshop had no multitrack tape machine. Derbyshire and her colleague Dick Mills played several tape machines at once and mixed them together, lining them up so the parts stayed in time."
+    },
+    {
+      "opening": "Did I write that",
+      "linkId": null,
+      "text": "When Grainer heard the result he reportedly asked whether he had really written it. He wanted Derbyshire credited as co-composer, but BBC policy at the time kept workshop staff anonymous."
+    }
+  ],
+  "tags": [
+    "music-tech",
+    "acoustics",
+    "inventors",
+    "history-of-things"
+  ],
+  "related": [
+    "theremin",
+    "switched-on-bach",
+    "fantasia-hp-oscillators",
+    "mellotron",
+    "lightsaber-sound",
+    "test-card-f"
+  ]
+}

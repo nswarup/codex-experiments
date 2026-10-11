@@ -1,0 +1,43 @@
+{
+  "id": "star-trek-transporter",
+  "title": "The Star Trek transporter saved money",
+  "category": "Film",
+  "hook": "Star Trek beamed its crew down because landing the ship cost too much.",
+  "peek": "The transporter is one of science fiction's most famous gadgets, but it began as a budget fix. Showing the Enterprise land on a new planet every week would have cost more than a 1960s TV series could afford.",
+  "lede": "When Gene Roddenberry was developing Star Trek in the mid-1960s, every episode needed to get the crew from the Enterprise down to a planet. Filming a model starship landing, or building a full-size shuttle, would have been expensive and slow. The answer was a machine that turned people into sparkling light and put them back together on the surface, with almost no set needed.",
+  "bullets": [
+    {
+      "opening": "Sparkles of aluminium powder",
+      "linkId": null,
+      "text": "The shimmering beam was made by dropping fine aluminium powder in front of a dark background, lighting it brightly and filming it. The glittering footage was then laid over shots of the actors fading in and out."
+    },
+    {
+      "opening": "The Galileo Seven shuttle",
+      "linkId": null,
+      "text": "A shuttlecraft did not appear until partway through the first season, in The Galileo Seven. A full-size mock-up and a model had to be built, which shows why the transporter was the cheaper everyday choice."
+    },
+    {
+      "opening": "Keeping stories moving",
+      "linkId": null,
+      "text": "The transporter also suited the writing. The crew could arrive in the middle of a story within seconds, without minutes of travel scenes, and could be rescued from danger with a quick beam-out."
+    },
+    {
+      "opening": "Beam me up, Scotty",
+      "linkId": null,
+      "text": "The famous line Beam me up, Scotty was never said in exactly those words in the original series. Captain Kirk came close, with lines such as Beam us up, Mr Scott, but the catchphrase grew up among fans."
+    }
+  ],
+  "tags": [
+    "myths-busted",
+    "space-exploration",
+    "design",
+    "history-of-things"
+  ],
+  "related": [
+    "dykstraflex",
+    "lightsaber-sound",
+    "back-to-the-future-fridge",
+    "thunderbirds-supermarionation",
+    "play-it-again-sam"
+  ]
+}
