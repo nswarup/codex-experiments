@@ -3228,5 +3228,125 @@
   "id": "checkers-solved-chinook",
   "title": "Checkers is a draw",
   "category": "Games"
+ },
+ {
+  "id": "treasure-island-map",
+  "title": "Treasure Island began with a map",
+  "category": "Books"
+ },
+ {
+  "id": "robinson-crusoe-selkirk",
+  "title": "The real Robinson Crusoe",
+  "category": "Books"
+ },
+ {
+  "id": "little-women-reluctant",
+  "title": "Louisa May Alcott didn't want to write Little Women",
+  "category": "Books"
+ },
+ {
+  "id": "bloomsday",
+  "title": "Bloomsday",
+  "category": "Books"
+ },
+ {
+  "id": "arabian-nights-aladdin",
+  "title": "Aladdin wasn't in the Arabian Nights",
+  "category": "Books"
+ },
+ {
+  "id": "bronte-little-books",
+  "title": "The Brontës' tiny books",
+  "category": "Books"
+ },
+ {
+  "id": "thoreau-pencils",
+  "title": "Thoreau the pencil maker",
+  "category": "Books"
+ },
+ {
+  "id": "vonnegut-story-shapes",
+  "title": "Kurt Vonnegut's shapes of stories",
+  "category": "Books"
+ },
+ {
+  "id": "library-of-babel",
+  "title": "Borges's Library of Babel",
+  "category": "Books"
+ },
+ {
+  "id": "choose-your-own-adventure",
+  "title": "Choose Your Own Adventure",
+  "category": "Books"
+ },
+ {
+  "id": "octothorpe",
+  "title": "The octothorpe",
+  "category": "Language"
+ },
+ {
+  "id": "ampersand",
+  "title": "How the ampersand got its name",
+  "category": "Language"
+ },
+ {
+  "id": "interrobang",
+  "title": "The interrobang",
+  "category": "Language"
+ },
+ {
+  "id": "pilcrow",
+  "title": "The pilcrow",
+  "category": "Language"
+ },
+ {
+  "id": "at-sign-names",
+  "title": "What the world calls @",
+  "category": "Language"
+ },
+ {
+  "id": "quick-brown-fox",
+  "title": "The quick brown fox",
+  "category": "Language"
+ },
+ {
+  "id": "lorem-ipsum",
+  "title": "Lorem ipsum",
+  "category": "Language"
+ },
+ {
+  "id": "robot-word",
+  "title": "Where 'robot' came from",
+  "category": "Language"
+ },
+ {
+  "id": "french-quatre-vingts",
+  "title": "Why French says 'four twenties' for 80",
+  "category": "Language"
+ },
+ {
+  "id": "esperanto",
+  "title": "Esperanto's hopeful name",
+  "category": "Language"
+ },
+ {
+  "id": "klingon",
+  "title": "Klingon, a language built for Star Trek",
+  "category": "Language"
+ },
+ {
+  "id": "rotokas-alphabet",
+  "title": "Rotokas, the 12-letter alphabet",
+  "category": "Language"
+ },
+ {
+  "id": "xhosa-clicks",
+  "title": "The clicks of Xhosa",
+  "category": "Language"
+ },
+ {
+  "id": "hangul",
+  "title": "Hangul, the alphabet shaped like the mouth",
+  "category": "Language"
  }
 ]

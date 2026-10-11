@@ -1,0 +1,44 @@
+{
+  "id": "bronte-little-books",
+  "title": "The Brontës' tiny books",
+  "category": "Books",
+  "hook": "The young Brontës wrote books small enough for toy soldiers to hold.",
+  "peek": "As children, Charlotte, Branwell, Emily and Anne Brontë wrote whole magazines and stories in books a few centimetres tall, in handwriting so small it needs a magnifying glass. They were meant for a box of toy soldiers.",
+  "lede": "In 1826 Patrick Brontë brought home a box of twelve wooden toy soldiers for his son Branwell. Each of the four children claimed one, and the soldiers became the heroes of a made-up world. The children then wrote the soldiers' books, newspapers and magazines, each one hand-sewn and small enough for a wooden soldier to read.",
+  "bullets": [
+    {
+      "opening": "Writing that looks like print",
+      "linkId": null,
+      "text": "The children wrote in tiny letters made to look like printed type, packing many words onto pages a few centimetres across. The script may also have kept the stories private from adults, who could hardly read them without help."
+    },
+    {
+      "opening": "Glass Town and Angria",
+      "linkId": null,
+      "text": "Charlotte and Branwell built an imaginary kingdom first called Glass Town and later Angria, with its own politics, rivalries and romances. Charlotte kept writing Angrian stories into her twenties."
+    },
+    {
+      "opening": "Emily and Anne's Gondal",
+      "linkId": null,
+      "text": "Emily and Anne broke away to create their own island world, Gondal. Its prose stories are lost, but many of Emily's poems were written in the voices of Gondal characters."
+    },
+    {
+      "opening": "The Young Men's Magazine",
+      "linkId": null,
+      "text": "Charlotte made her own editions of a magazine for the soldiers, complete with stories, poems and advertisements. Single issues have since sold at auction for hundreds of thousands of pounds."
+    }
+  ],
+  "tags": [
+    "miniatures",
+    "authors",
+    "childhood",
+    "toys"
+  ],
+  "related": [
+    "little-women-reluctant",
+    "austen-creaking-door",
+    "winnie-the-pooh-bear",
+    "peter-rabbit-letter",
+    "alice-boat-trip",
+    "treasure-island-map"
+  ]
+}

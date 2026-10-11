@@ -1,0 +1,43 @@
+{
+  "id": "klingon",
+  "title": "Klingon, a language built for Star Trek",
+  "category": "Language",
+  "hook": "A linguist built Klingon to sound alien, and fans translated Hamlet into it.",
+  "peek": "Klingon began as a few lines of film dialogue and grew into a full language with its own grammar and dictionary. Its creator, the linguist Marc Okrand, deliberately broke patterns most human languages follow, and fans took it from there.",
+  "lede": "For Star Trek III in 1984, Paramount asked the linguist Marc Okrand to give the Klingons a real language. He built on a handful of words the actor James Doohan had made up for an earlier film, then designed a full grammar and vocabulary. His aim was a language that would sound and work unlike anything spoken on Earth, while still being learnable.",
+  "bullets": [
+    {
+      "opening": "Okrand's unusual sounds",
+      "linkId": null,
+      "text": "Okrand chose sounds that rarely appear together in one language, including the rasping tlh and a q made far back in the throat. He mixed them so that no single Earth language would feel familiar."
+    },
+    {
+      "opening": "Object-verb-subject order",
+      "linkId": null,
+      "text": "Klingon puts the object first, then the verb, then the subject, an order very few human languages use. A sentence like the dog bit the man comes out roughly as man bit dog."
+    },
+    {
+      "opening": "The Klingon Dictionary",
+      "linkId": null,
+      "text": "Okrand's Klingon Dictionary came out in 1985 and became a hit with fans. In 1992 they founded the Klingon Language Institute, which runs courses and publishes work in the language."
+    },
+    {
+      "opening": "The Klingon Hamlet",
+      "linkId": null,
+      "text": "A film joke said you have not experienced Shakespeare until you read him in the original Klingon. The Klingon Language Institute took it seriously and published a full Klingon Hamlet in 2000."
+    }
+  ],
+  "tags": [
+    "invented-languages",
+    "sci-fi",
+    "communication",
+    "fans"
+  ],
+  "related": [
+    "esperanto",
+    "toki-pona",
+    "pingu-language",
+    "star-trek-transporter",
+    "silbo-gomero"
+  ]
+}

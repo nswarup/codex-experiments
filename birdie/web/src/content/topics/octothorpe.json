@@ -1,0 +1,49 @@
+{
+  "id": "octothorpe",
+  "title": "The octothorpe",
+  "category": "Language",
+  "hook": "Telephone engineers gave the # key a strange name, and nobody agrees why.",
+  "peek": "When Bell Labs added the # key to touch-tone phones in the 1960s, staff there started calling it the octothorpe. The octo part means eight, for its eight points. Where thorpe came from is still argued over.",
+  "lede": "The # symbol is old, but its oddest name is not. In the 1960s Bell Telephone Laboratories added two new keys to the touch-tone keypad, the star and the #, for future services. Somewhere inside Bell Labs, the # picked up the name octothorpe. The word spread through telephone manuals, and nobody has settled exactly who coined it or why.",
+  "bullets": [
+    {
+      "opening": "The Jim Thorpe story",
+      "linkId": null,
+      "text": "The best-known account credits the Bell engineer Don Macpherson, who reportedly said octo was for the eight points and thorpe was for the athlete Jim Thorpe, whose Olympic medals Macpherson wanted restored. Other Bell veterans tell it differently."
+    },
+    {
+      "opening": "Other thorpe theories",
+      "linkId": null,
+      "text": "Rival versions say thorpe was a joke, a nonsense syllable, or a nod to the Old English word for a village, with the eight points as fields around it. None of them has firm documents behind it."
+    },
+    {
+      "opening": "Pound, hash and number sign",
+      "linkId": null,
+      "text": "The symbol already had plenty of names. Americans call it the pound sign, probably from a scribal mark for lb, while in Britain it is usually the hash, and its formal name is the number sign."
+    },
+    {
+      "opening": "Not the musical sharp",
+      "linkId": null,
+      "text": "The sharp sign in music looks like the # symbol but is a different character. In a sharp, the upright strokes stay vertical and the crossbars slope upward, so the two do not belong on the same key."
+    },
+    {
+      "opening": "From keypad to hashtag",
+      "linkId": null,
+      "text": "In 2007 the designer Chris Messina suggested on Twitter that people use # to group posts by topic. The hashtag took off, giving the telephone engineers' key a second life."
+    }
+  ],
+  "tags": [
+    "symbols",
+    "names",
+    "etymology",
+    "telephones"
+  ],
+  "related": [
+    "ampersand",
+    "at-sign-names",
+    "interrobang",
+    "pilcrow",
+    "phone-keypad-layout",
+    "hello-on-the-phone"
+  ]
+}

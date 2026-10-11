@@ -1,0 +1,43 @@
+{
+  "id": "bloomsday",
+  "title": "Bloomsday",
+  "category": "Books",
+  "hook": "Every 16 June, fans of a famously difficult novel dress up and walk its route.",
+  "peek": "James Joyce set the whole of Ulysses on one ordinary Dublin day, 16 June 1904. Each year on that date, readers around the world celebrate Bloomsday, named after the book's hero, with readings, costumes and lunch where he had his.",
+  "lede": "Ulysses is a novel of about 265,000 words, and almost all of it happens on a single Thursday in Dublin: 16 June 1904. It follows Leopold Bloom, an advertising canvasser, and the young Stephen Dedalus through an ordinary day. Readers now mark the date every year as Bloomsday, a literary holiday named after a fictional character.",
+  "bullets": [
+    {
+      "opening": "Joyce and Nora Barnacle",
+      "linkId": null,
+      "text": "Joyce chose the date for a personal reason. It is traditionally given as the day of his first outing with Nora Barnacle, the woman he would spend his life with and later marry."
+    },
+    {
+      "opening": "A Dublin you could rebuild",
+      "linkId": null,
+      "text": "Joyce wrote the book in Trieste, Zurich and Paris, using maps and directories to get Dublin's streets right. A friend reported him saying he wanted a picture so complete that the city could be rebuilt from the book."
+    },
+    {
+      "opening": "The first Bloomsday, 1954",
+      "linkId": null,
+      "text": "On the 50th anniversary, a group of Dublin writers including Flann O'Brien and Patrick Kavanagh set out by horse-drawn cab to follow the novel's route. They did not get far before ending up in a pub."
+    },
+    {
+      "opening": "Lunch at Davy Byrne's",
+      "linkId": null,
+      "text": "Bloom stops at Davy Byrne's pub for a gorgonzola sandwich and a glass of burgundy. The pub still serves the same lunch to fans each 16 June, many of them in straw boaters and Edwardian dress."
+    }
+  ],
+  "tags": [
+    "novels",
+    "festivals",
+    "calendars",
+    "dublin"
+  ],
+  "related": [
+    "shakespeare-and-company-tumbleweeds",
+    "on-the-road-scroll",
+    "gadsby-no-e",
+    "first-folio",
+    "frankenstein-1816"
+  ]
+}

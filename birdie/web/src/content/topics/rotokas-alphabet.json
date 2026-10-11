@@ -1,0 +1,38 @@
+{
+  "id": "rotokas-alphabet",
+  "title": "Rotokas, the 12-letter alphabet",
+  "category": "Language",
+  "hook": "A language on the island of Bougainville gets by with only 12 letters.",
+  "peek": "Rotokas, spoken by a few thousand people on Bougainville in Papua New Guinea, is written with just 12 letters. It has one of the smallest sets of sounds of any language, and its central dialect has no m or n at all.",
+  "lede": "English needs 26 letters, and Hawaiian manages with 13. Rotokas, spoken in the mountains of Bougainville, an island in Papua New Guinea, uses only 12: A, E, G, I, K, O, P, R, S, T, U and V. That small alphabet fits the language well, because Rotokas has one of the smallest sets of distinct sounds known in any language.",
+  "bullets": [
+    {
+      "opening": "Six consonant sounds",
+      "linkId": null,
+      "text": "Central Rotokas has only six consonant sounds and five vowels. Each consonant can be said in slightly different ways without changing the meaning, so one letter can comfortably cover what English would spell several ways."
+    },
+    {
+      "opening": "No m or n",
+      "linkId": null,
+      "text": "The central dialect has no nasal sounds, no m, n or ng. That is very rare: almost every language in the world has at least one, and the Aita dialect of Rotokas itself does."
+    },
+    {
+      "opening": "Long vowels and long words",
+      "linkId": null,
+      "text": "With so few sounds to work with, Rotokas leans on vowel length, which can change a word's meaning. Long vowels are written double, so the 12 letters cover everything without accents or extra symbols."
+    }
+  ],
+  "tags": [
+    "alphabets",
+    "records",
+    "scale",
+    "sounds"
+  ],
+  "related": [
+    "hangul",
+    "xhosa-clicks",
+    "silbo-gomero",
+    "guugu-yimithirr",
+    "cherokee-syllabary"
+  ]
+}

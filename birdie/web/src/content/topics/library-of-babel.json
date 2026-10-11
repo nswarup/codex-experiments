@@ -1,0 +1,44 @@
+{
+  "id": "library-of-babel",
+  "title": "Borges's Library of Babel",
+  "category": "Books",
+  "hook": "Borges imagined a library holding every book that could ever be written.",
+  "peek": "In a 1941 story, Jorge Luis Borges described a library containing every possible book of 410 pages, almost all of it gibberish. In 2015 a programmer built a website that can show any page of a version of it, including any page someone types in.",
+  "lede": "Jorge Luis Borges's story The Library of Babel, published in 1941, describes a universe made of endless hexagonal rooms lined with books. Every book has 410 pages and uses the same small set of symbols, and the library holds every possible arrangement of them. Somewhere on its shelves is every book ever written, and every book that ever could be.",
+  "bullets": [
+    {
+      "opening": "The 25 symbols",
+      "linkId": null,
+      "text": "Borges set the rules precisely: 22 letters, the space, the comma and the full stop, with 40 lines to a page and about 80 characters to a line. That makes the number of books finite, but far larger than the number of atoms in the observable universe."
+    },
+    {
+      "opening": "Mostly gibberish",
+      "linkId": null,
+      "text": "Almost every book is meaningless jumble. The librarians in the story spend their lives searching for one sensible line, and some hunt for the catalogue that explains the library, knowing that false catalogues are on the shelves too."
+    },
+    {
+      "opening": "Borges the librarian",
+      "linkId": null,
+      "text": "Borges wrote the story while working as an assistant at a small municipal library in Buenos Aires, a job he found dull. In 1955 he became director of Argentina's National Library, by then nearly blind."
+    },
+    {
+      "opening": "Jonathan Basile's website",
+      "linkId": null,
+      "text": "In 2015 the writer Jonathan Basile launched libraryofbabel.info, which uses an algorithm to produce any page of a slightly simplified library. Type in a passage and it shows the room, shelf and volume where that page already exists."
+    }
+  ],
+  "tags": [
+    "infinity",
+    "libraries",
+    "authors",
+    "scale"
+  ],
+  "related": [
+    "hilberts-hotel",
+    "voynich-manuscript",
+    "vonnegut-story-shapes",
+    "gadsby-no-e",
+    "project-gutenberg",
+    "bodleian-oath"
+  ]
+}

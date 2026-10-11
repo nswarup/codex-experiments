@@ -1,0 +1,43 @@
+{
+  "id": "thoreau-pencils",
+  "title": "Thoreau the pencil maker",
+  "category": "Books",
+  "hook": "Before Walden, Thoreau helped make some of the best pencils in America.",
+  "peek": "Henry David Thoreau is remembered for a cabin by a pond. For much of his life he also worked in his family's pencil business in Concord, Massachusetts, where his improvements helped Thoreau pencils rival the best imported ones.",
+  "lede": "Henry David Thoreau's father, John, ran a small pencil-making business in Concord, Massachusetts. American pencils of the time were gritty and greasy next to the fine pencils imported from Europe. Henry joined the family trade as a young man in the late 1830s and set about fixing that, years before he built his cabin at Walden Pond.",
+  "bullets": [
+    {
+      "opening": "Mixing graphite with clay",
+      "linkId": null,
+      "text": "Thoreau found that mixing finely ground graphite with clay and baking it gave a smoother, more even lead. A similar method was already known in France, and it is unclear whether he learned of it or worked it out himself."
+    },
+    {
+      "opening": "A better grinding mill",
+      "linkId": null,
+      "text": "He also improved how the graphite was ground, so the powder came out finer. Thoreau pencils earned a reputation as among the best made in America, and the family business did well."
+    },
+    {
+      "opening": "Emerson's pencil story",
+      "linkId": null,
+      "text": "In his eulogy for Thoreau, Ralph Waldo Emerson said that once Henry had made a pencil as good as any, he declined to make more, saying he would not do again what he had done once."
+    },
+    {
+      "opening": "Graphite for printers",
+      "linkId": null,
+      "text": "In the 1850s the Thoreaus found a better market for their fine graphite: printers used it in electrotyping, a way of copying type. The family moved from pencils towards selling the powder, and Henry kept the business after his father died."
+    }
+  ],
+  "tags": [
+    "authors",
+    "inventors",
+    "pencils",
+    "history-of-things"
+  ],
+  "related": [
+    "pencil-graphite",
+    "pencil-eraser-bread",
+    "little-women-reluctant",
+    "christmas-carol-self-published",
+    "dune-chilton"
+  ]
+}

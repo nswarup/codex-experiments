@@ -1,0 +1,43 @@
+{
+  "id": "choose-your-own-adventure",
+  "title": "Choose Your Own Adventure",
+  "category": "Books",
+  "hook": "A father ran out of bedtime stories and asked his daughters what happened next.",
+  "peek": "The branching books that told readers to turn to page 47 began at bedtime. A lawyer named Edward Packard ran out of plot, asked his daughters what the hero should do, and noticed how much they liked choosing.",
+  "lede": "In the late 1960s Edward Packard, a lawyer, told his young daughters bedtime stories about a boy called Pete. One night he ran out of ideas for what Pete should do next, so he asked the girls. They loved deciding for themselves. Packard realised a book could do the same, with a choice at the bottom of each page.",
+  "bullets": [
+    {
+      "opening": "Sugarcane Island",
+      "linkId": null,
+      "text": "Packard wrote a branching story about being shipwrecked, Sugarcane Island, and sent it to publishers for years without luck. A small Vermont press finally published it in 1976."
+    },
+    {
+      "opening": "Bantam's series in 1979",
+      "linkId": null,
+      "text": "Bantam Books picked up the idea and launched the Choose Your Own Adventure series in 1979, starting with Packard's The Cave of Time. The series went on to sell more than 250 million copies worldwide."
+    },
+    {
+      "opening": "Written in the second person",
+      "linkId": null,
+      "text": "The books cast the reader as the hero, using you throughout so that every choice feels personal. Many endings were sudden and unhappy, which only made readers keep a finger in the last page to go back."
+    },
+    {
+      "opening": "Inside UFO 54-40",
+      "linkId": null,
+      "text": "Packard's 1982 book Inside UFO 54-40 has a paradise ending that no choice in the book leads to. The only way to reach it is to break the rules and flip there directly, which was the point."
+    }
+  ],
+  "tags": [
+    "games",
+    "childhood",
+    "storytelling",
+    "publishing"
+  ],
+  "related": [
+    "library-of-babel",
+    "vonnegut-story-shapes",
+    "phantom-tollbooth",
+    "treasure-island-map",
+    "landlords-game"
+  ]
+}

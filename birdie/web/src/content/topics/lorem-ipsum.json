@@ -1,0 +1,43 @@
+{
+  "id": "lorem-ipsum",
+  "title": "Lorem ipsum",
+  "category": "Language",
+  "hook": "Designers' dummy text is a chopped-up passage by Cicero, cut mid-word.",
+  "peek": "Lorem ipsum dolor sit amet looks like Latin nonsense, and mostly it is. But it began as a real passage from Cicero, written more than 2,000 years ago, scrambled and cut off partway through a word.",
+  "lede": "Designers fill empty layouts with lorem ipsum so readers look at the shape of the page rather than the words. It looks Latin, and it nearly is. The text comes from a book Cicero wrote in 45 BC, but it has been cut, shuffled and garbled. Even its first word is a fragment: lorem is the back half of dolorem.",
+  "bullets": [
+    {
+      "opening": "Cicero's De finibus",
+      "linkId": null,
+      "text": "The source is De finibus bonorum et malorum, On the Ends of Good and Evil, a work on philosophy. The original line begins Neque porro quisquam est qui dolorem ipsum, roughly: nor is there anyone who loves pain itself."
+    },
+    {
+      "opening": "Richard McClintock's discovery",
+      "linkId": null,
+      "text": "For a long time nobody knew where the text came from. A Latin scholar at Hampden-Sydney College in Virginia, Richard McClintock, traced it to Cicero in the 1990s by looking up the rare word consectetur."
+    },
+    {
+      "opening": "Letraset and PageMaker",
+      "linkId": null,
+      "text": "The oldest firm evidence of lorem ipsum as dummy text is from the 20th century. It spread in the 1960s on Letraset sheets of rub-on lettering, then reached desktop publishing in the 1980s with software such as Aldus PageMaker."
+    },
+    {
+      "opening": "The 1500s claim",
+      "linkId": null,
+      "text": "Many websites say printers have used lorem ipsum since the 1500s. Nobody has found an early printed example, so historians of type treat that date as an unproven story."
+    }
+  ],
+  "tags": [
+    "design",
+    "etymology",
+    "myths-busted",
+    "history-of-things"
+  ],
+  "related": [
+    "quick-brown-fox",
+    "helvetica",
+    "pilcrow",
+    "voynich-manuscript",
+    "spaces-between-words"
+  ]
+}

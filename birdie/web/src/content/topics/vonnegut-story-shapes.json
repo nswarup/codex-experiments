@@ -1,0 +1,43 @@
+{
+  "id": "vonnegut-story-shapes",
+  "title": "Kurt Vonnegut's shapes of stories",
+  "category": "Books",
+  "hook": "Kurt Vonnegut drew stories as lines on a graph. His university turned the idea down.",
+  "peek": "Kurt Vonnegut believed most stories follow a few simple shapes that can be drawn with a pencil on a graph. His university rejected the idea as a thesis. Decades later, computer studies of over a thousand books found a handful of shapes much like his.",
+  "lede": "After the Second World War, Kurt Vonnegut studied anthropology at the University of Chicago and proposed a master's thesis on the shapes of stories. His idea was to plot a story on two axes: time from beginning to end, and the main character's fortune from bad to good. He later said the university rejected it because it was so simple and looked like too much fun.",
+  "bullets": [
+    {
+      "opening": "Man in Hole",
+      "linkId": null,
+      "text": "Vonnegut's favourite example starts with someone doing fine, sees them fall into trouble and ends with them climbing out a bit better off. He said people never tire of this shape."
+    },
+    {
+      "opening": "Boy Meets Girl and Cinderella",
+      "linkId": null,
+      "text": "In Boy Meets Girl, a person finds something wonderful, loses it and gets it back. Cinderella climbs in small steps, crashes at midnight, then rises off the top of the graph. Vonnegut drew these at talks with chalk."
+    },
+    {
+      "opening": "A thesis at last",
+      "linkId": null,
+      "text": "In 1971, long after he had become a famous novelist, the University of Chicago awarded Vonnegut his master's degree. It accepted his novel Cat's Cradle in place of the thesis."
+    },
+    {
+      "opening": "The 2016 computer study",
+      "linkId": null,
+      "text": "A team at the University of Vermont scored the emotional tone of more than 1,000 books from Project Gutenberg, line by line. They found the arcs clustered into six basic shapes, including Vonnegut's Man in Hole."
+    }
+  ],
+  "tags": [
+    "storytelling",
+    "authors",
+    "graphs",
+    "patterns"
+  ],
+  "related": [
+    "project-gutenberg",
+    "library-of-babel",
+    "choose-your-own-adventure",
+    "hitchhikers-42",
+    "gardner-mathematical-games"
+  ]
+}

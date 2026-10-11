@@ -1,0 +1,43 @@
+{
+  "id": "at-sign-names",
+  "title": "What the world calls @",
+  "category": "Language",
+  "hook": "In Italy the @ is a snail. In the Netherlands it is a monkey's tail.",
+  "peek": "English speakers just say at, but much of the world looks at the @ sign and sees an animal or a snack. Italians see a snail, Dutch speakers a little monkey's tail, Russians a dog and Czechs a rolled-up herring.",
+  "lede": "The @ arrived on almost every keyboard with email, and many languages had no word ready for it. So people named it after what it looked like. The results are a small zoo. Italians call it chiocciola, a snail. The Dutch say apenstaartje, a little monkey's tail. Hebrew speakers call it a shtrudel, after the rolled pastry.",
+  "bullets": [
+    {
+      "opening": "Snabel-a in Swedish",
+      "linkId": null,
+      "text": "Swedes and Danes call it snabel-a, the a with an elephant's trunk. The curl around the letter looks like a trunk swinging round, and the name is used in everyday speech."
+    },
+    {
+      "opening": "Sobaka in Russian",
+      "linkId": null,
+      "text": "Russian speakers usually call it sobaka, which means dog. Nobody is sure where the name came from; one popular guess is that the shape looks like a dog curled up asleep."
+    },
+    {
+      "opening": "Zavináč in Czech",
+      "linkId": null,
+      "text": "In Czech and Slovak the sign is a zavináč, a rollmop: a fillet of pickled herring rolled around a filling. Greek speakers call it papaki, a duckling, and Finns sometimes call it miukumauku, after a curled-up cat."
+    },
+    {
+      "opening": "Arroba in Spanish",
+      "linkId": null,
+      "text": "Spanish and Portuguese call it arroba, an old unit of weight for goods. A merchant's letter written in 1536 already used @ for a measure of wine, so the sign was a trader's mark long before email."
+    }
+  ],
+  "tags": [
+    "names",
+    "etymology",
+    "communication",
+    "animals-in-words"
+  ],
+  "related": [
+    "email-at-sign",
+    "octothorpe",
+    "ampersand",
+    "interrobang",
+    "icelandic-tolva"
+  ]
+}

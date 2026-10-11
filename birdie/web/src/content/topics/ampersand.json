@@ -1,0 +1,44 @@
+{
+  "id": "ampersand",
+  "title": "How the ampersand got its name",
+  "category": "Language",
+  "hook": "Children once recited & as the last letter of the alphabet, and slurred its name.",
+  "peek": "In 19th-century schoolrooms, the alphabet did not stop at Z. Children went on to the & sign, chanting and per se and. Said fast enough, often enough, the phrase blurred into one word: ampersand.",
+  "lede": "For a long time & was taught as part of the alphabet, the last item after Z. When children recited their letters, any symbol that also formed a word by itself, such as A or I, was introduced with the Latin per se, meaning by itself. So the alphabet ended: X, Y, Z, and per se and. Run together, that became ampersand.",
+  "bullets": [
+    {
+      "opening": "The Latin et ligature",
+      "linkId": null,
+      "text": "The symbol itself is far older than its name. It began as a joined-up way of writing et, Latin for and, and early forms appear in Roman writing from the first century AD."
+    },
+    {
+      "opening": "Seeing the et again",
+      "linkId": null,
+      "text": "In many italic typefaces the old shape is easy to spot: the & looks like a looping E followed by a t. Designers often enjoy giving it extra flourishes."
+    },
+    {
+      "opening": "First recorded in the 1830s",
+      "linkId": null,
+      "text": "Dictionaries trace the word ampersand in print to the 1830s, though children were surely saying it earlier. The name is a classic case of a phrase worn down into one word by repetition."
+    },
+    {
+      "opening": "The Ampère story",
+      "linkId": null,
+      "text": "A popular tale says the sign is named after the French physicist André-Marie Ampère, who supposedly used it in his work. There is no evidence for this, and the schoolroom origin is well documented."
+    }
+  ],
+  "tags": [
+    "symbols",
+    "etymology",
+    "alphabets",
+    "language-change"
+  ],
+  "related": [
+    "octothorpe",
+    "at-sign-names",
+    "letter-thorn",
+    "nickname-rebracketing",
+    "pilcrow",
+    "interrobang"
+  ]
+}

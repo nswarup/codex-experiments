@@ -1,0 +1,43 @@
+{
+  "id": "xhosa-clicks",
+  "title": "The clicks of Xhosa",
+  "category": "Language",
+  "hook": "In Xhosa, the letters c, q and x each stand for a different click.",
+  "peek": "Xhosa, spoken by about 8 million people in South Africa, uses click sounds as ordinary consonants. The letters c, q and x each stand for a different click, and even the name of the language starts with one.",
+  "lede": "Most languages use clicks only as noises, like the tut of disapproval. In Xhosa they are everyday consonants, as normal as b or t. The writing system gives each of the three basic clicks its own letter: c, q and x. The name of the language begins with the x click, which is why English speakers often struggle with it.",
+  "bullets": [
+    {
+      "opening": "The c, q and x clicks",
+      "linkId": null,
+      "text": "The c is the soft tsk made with the tongue tip behind the front teeth. The q is a sharp pop from the roof of the mouth, like a cork. The x is a click at the side of the tongue, the sound riders use to urge on a horse."
+    },
+    {
+      "opening": "Fifteen or more clicks",
+      "linkId": null,
+      "text": "Each basic click can be combined with voicing, breath or a nasal hum, written with letters such as gc, nq and ngx. Depending on how they are counted, Xhosa has around 15 to 18 click consonants."
+    },
+    {
+      "opening": "Borrowed from Khoekhoe",
+      "linkId": null,
+      "text": "Xhosa took its clicks from neighbouring Khoekhoe and San languages, which used them long before. Centuries of contact and intermarriage carried the sounds across, and many words with clicks are borrowings."
+    },
+    {
+      "opening": "Miriam Makeba's Click Song",
+      "linkId": null,
+      "text": "The singer Miriam Makeba brought Xhosa clicks to audiences around the world in the 1960s. Her song Qongqothwane, known abroad as The Click Song, is full of the q click."
+    }
+  ],
+  "tags": [
+    "sounds",
+    "alphabets",
+    "communication",
+    "music"
+  ],
+  "related": [
+    "rotokas-alphabet",
+    "hangul",
+    "silbo-gomero",
+    "huh-universal",
+    "bouba-kiki"
+  ]
+}

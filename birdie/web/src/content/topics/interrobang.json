@@ -1,0 +1,38 @@
+{
+  "id": "interrobang",
+  "title": "The interrobang",
+  "category": "Language",
+  "hook": "In 1962 an ad man fused the question mark and exclamation mark into one.",
+  "peek": "The interrobang, a question mark laid over an exclamation mark, was dreamed up by a New York advertising executive in 1962. It got its own typeface and even its own typewriter key before quietly fading away.",
+  "lede": "Martin Speckter ran an advertising agency in New York and noticed that copywriters kept ending excited questions with a question mark and an exclamation mark side by side. He thought the pair looked untidy. In 1962, in a typography magazine he edited, he proposed a single mark that does both jobs at once: a question mark and an exclamation mark printed on top of each other.",
+  "bullets": [
+    {
+      "opening": "Naming the interrobang",
+      "linkId": null,
+      "text": "Speckter asked readers for names, and suggestions included exclamaquest. He settled on interrobang, joining the Latin interrogatio, a question, with bang, old printers' slang for the exclamation mark."
+    },
+    {
+      "opening": "The Americana typeface",
+      "linkId": null,
+      "text": "In 1966 the American Type Founders typeface Americana became one of the first to include an interrobang. For a few years the mark was a minor fad, written up in newspapers and magazines across the United States."
+    },
+    {
+      "opening": "The Remington interrobang key",
+      "linkId": null,
+      "text": "By the late 1960s some Remington typewriters offered an interrobang key. The craze faded within a decade, but the mark survives in Unicode and in many modern fonts, ready for anyone who wants to ask a question and shout it at the same time"
+    }
+  ],
+  "tags": [
+    "punctuation",
+    "inventors",
+    "design",
+    "history-of-things"
+  ],
+  "related": [
+    "pilcrow",
+    "octothorpe",
+    "ampersand",
+    "equals-sign",
+    "helvetica"
+  ]
+}

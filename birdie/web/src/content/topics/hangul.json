@@ -1,0 +1,44 @@
+{
+  "id": "hangul",
+  "title": "Hangul, the alphabet shaped like the mouth",
+  "category": "Language",
+  "hook": "Korean letters are little diagrams of the tongue, lips and throat.",
+  "peek": "In 1443 King Sejong of Korea created a new alphabet so ordinary people could read. Its basic consonants are drawn as sketches of the mouth making each sound, and extra strokes show when a sound is stronger.",
+  "lede": "In the 1400s, Koreans wrote with Chinese characters, which took years to learn. King Sejong and his scholars set out to change that, and in 1443 they completed a new alphabet now called Hangul. Its cleverest trick is in the shapes. The basic consonants are drawn as simple pictures of the tongue, lips or throat in the position that makes each sound.",
+  "bullets": [
+    {
+      "opening": "Hunminjeongeum",
+      "linkId": null,
+      "text": "Sejong announced the alphabet in 1446 in a book called Hunminjeongeum, The Correct Sounds for the Instruction of the People. A companion volume explaining its design was rediscovered in 1940 and is now on UNESCO's Memory of the World register."
+    },
+    {
+      "opening": "Shapes of the mouth",
+      "linkId": null,
+      "text": "The letter ㄱ, a k or g sound, shows the back of the tongue rising to the roof of the mouth. ㄴ, for n, shows the tongue tip against the ridge behind the teeth, ㅁ is the closed mouth of m, and ㅇ is the open throat."
+    },
+    {
+      "opening": "Strokes for stronger sounds",
+      "linkId": null,
+      "text": "Adding a stroke makes a related, stronger sound. ㄱ becomes the breathier ㅋ, and ㄴ grows into ㄷ and then ㅌ. Vowels are built from a dot, a flat line and an upright line, standing for heaven, earth and people."
+    },
+    {
+      "opening": "Learnt in a morning",
+      "linkId": null,
+      "text": "A scholar's afterword to the 1446 book said a wise person could learn the letters before a morning was over, and even a slow one within ten days. South Korea celebrates the alphabet each year on Hangul Day, 9 October."
+    }
+  ],
+  "tags": [
+    "alphabets",
+    "inventors",
+    "design",
+    "sounds"
+  ],
+  "related": [
+    "cherokee-syllabary",
+    "rotokas-alphabet",
+    "xhosa-clicks",
+    "braille",
+    "chinese-typewriter",
+    "linear-b"
+  ]
+}

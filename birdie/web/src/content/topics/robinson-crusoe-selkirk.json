@@ -1,0 +1,43 @@
+{
+  "id": "robinson-crusoe-selkirk",
+  "title": "The real Robinson Crusoe",
+  "category": "Books",
+  "hook": "A Scottish sailor asked to be left on an island, and stayed for over four years.",
+  "peek": "In 1704 Alexander Selkirk argued with his captain and chose to be put ashore on a remote Pacific island. He lived there alone until 1709, and his story is widely seen as a model for Robinson Crusoe. The island now carries Crusoe's name.",
+  "lede": "Alexander Selkirk was a Scottish sailing master on a privateering ship, the Cinque Ports. In 1704 he became convinced the leaky ship would not survive, argued with the captain and asked to be left on Más a Tierra, an uninhabited island about 400 miles off the coast of Chile. He expected another ship soon. He waited four years and four months.",
+  "bullets": [
+    {
+      "opening": "Goats and tame cats",
+      "linkId": null,
+      "text": "Selkirk lived on fish, turnips and wild goats, which he learned to chase down on foot. He tamed feral cats for company, made clothes from goatskins and read the Bible he had brought ashore."
+    },
+    {
+      "opening": "Rescue by Woodes Rogers",
+      "linkId": null,
+      "text": "In 1709 an English expedition under Woodes Rogers stopped at the island and found a man in goatskins who had almost forgotten how to talk. Selkirk's fears had been right: the Cinque Ports had sunk soon after he left it."
+    },
+    {
+      "opening": "Defoe's Robinson Crusoe",
+      "linkId": null,
+      "text": "Selkirk's story was printed in England, and in 1719 Daniel Defoe published Robinson Crusoe. Defoe's hero spends 28 years on a Caribbean island, so scholars debate how much he took from Selkirk and how much from other castaway accounts."
+    },
+    {
+      "opening": "Robinson Crusoe Island",
+      "linkId": null,
+      "text": "In 1966 Chile renamed Más a Tierra as Robinson Crusoe Island, after the fictional man. A neighbouring island was renamed Alejandro Selkirk Island, although Selkirk never set foot on it."
+    }
+  ],
+  "tags": [
+    "islands",
+    "castaways",
+    "names",
+    "novels"
+  ],
+  "related": [
+    "treasure-island-map",
+    "frankenstein-1816",
+    "surtsey-island",
+    "null-island",
+    "christmas-carol-self-published"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "quick-brown-fox",
+  "title": "The quick brown fox",
+  "category": "Language",
+  "hook": "A sentence about a fox and a dog has been testing letters since the 1880s.",
+  "peek": "The quick brown fox jumps over the lazy dog uses every letter of the alphabet in just 35 letters. It began as handwriting practice in the 1880s and went on to test typewriters, telegraphs and nearly every font on your computer.",
+  "lede": "A sentence that uses every letter of the alphabet is called a pangram, and the most famous one in English is about a fox and a dog. It packs all 26 letters into 35. That makes it a quick way to see every letter at once, which is why it has outlived almost every other practice sentence.",
+  "bullets": [
+    {
+      "opening": "The 1885 Boston Journal",
+      "linkId": null,
+      "text": "The earliest known printing is from 1885, in the Boston Journal. It described A quick brown fox jumps over the lazy dog as a favourite copy line set by writing teachers, chosen because it contained every letter."
+    },
+    {
+      "opening": "Typists and telegraphers",
+      "linkId": null,
+      "text": "Typing schools adopted the line, and so did telegraph and teleprinter operators, who sent it to check that every key and letter came through. When the Washington to Moscow hotline was tested in 1963, the reported test message was a version of the fox sentence."
+    },
+    {
+      "opening": "Font previews",
+      "linkId": null,
+      "text": "Font designers and software still use it to show a typeface. For years the Windows font viewer displayed The quick brown fox jumps over the lazy dog as its sample text."
+    },
+    {
+      "opening": "Perfect pangrams",
+      "linkId": null,
+      "text": "Shorter pangrams exist, and a perfect one uses each letter exactly once. They tend to read like code, as in Mr Jock, TV quiz PhD, bags few lynx, which is why the fox, slightly wasteful but clear, stays in use."
+    }
+  ],
+  "tags": [
+    "patterns",
+    "design",
+    "history-of-things",
+    "wordplay"
+  ],
+  "related": [
+    "lorem-ipsum",
+    "panama-palindrome",
+    "qwerty",
+    "helvetica",
+    "buffalo-sentence",
+    "colorless-green-ideas"
+  ]
+}

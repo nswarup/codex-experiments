@@ -1,0 +1,44 @@
+{
+  "id": "treasure-island-map",
+  "title": "Treasure Island began with a map",
+  "category": "Books",
+  "hook": "Stevenson drew a pirate map to amuse a boy, then wrote a novel to fit it.",
+  "peek": "On a wet Scottish holiday in 1881, Robert Louis Stevenson and his young stepson drew an imaginary island. Stevenson named it Treasure Island, and the story of Jim Hawkins and Long John Silver grew straight out of the drawing.",
+  "lede": "In the summer of 1881 Robert Louis Stevenson was stuck indoors at Braemar in the Scottish Highlands, where it rained day after day. His stepson, Lloyd Osbourne, was 13 and busy painting. Stevenson joined in and drew the map of an island, with hills, bays and a few crosses. He wrote Treasure Island in the corner, and the characters started appearing.",
+  "bullets": [
+    {
+      "opening": "A chapter every evening",
+      "linkId": null,
+      "text": "Stevenson began writing at once and read each new chapter aloud to the household. Lloyd asked for a story with no women in it, and Stevenson's father became an eager listener, suggesting what should go in Billy Bones's sea chest."
+    },
+    {
+      "opening": "Captain George North",
+      "linkId": null,
+      "text": "The story first ran in instalments in a boys' magazine, Young Folks, in 1881 and 1882, under the pen name Captain George North. It did not make much of a splash there. As a book in 1883 it became a hit."
+    },
+    {
+      "opening": "The lost first map",
+      "linkId": null,
+      "text": "Stevenson sent the original map to his publishers, and it went missing. He had to draw a new one to match the finished book, which he found much harder. His father added the flourishes, forging Captain Flint's signature by hand."
+    },
+    {
+      "opening": "Stevenson's essay My First Book",
+      "linkId": null,
+      "text": "Stevenson told the whole story in an 1894 essay. His advice to writers was to start with a map, because a real map keeps a plot honest about distances and where everyone is."
+    }
+  ],
+  "tags": [
+    "origin-stories",
+    "maps",
+    "pirates",
+    "novels"
+  ],
+  "related": [
+    "hobbit-exam-paper",
+    "alice-boat-trip",
+    "frankenstein-1816",
+    "peter-rabbit-letter",
+    "robinson-crusoe-selkirk",
+    "waldseemuller-map"
+  ]
+}

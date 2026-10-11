@@ -1,0 +1,48 @@
+{
+  "id": "arabian-nights-aladdin",
+  "title": "Aladdin wasn't in the Arabian Nights",
+  "category": "Books",
+  "hook": "The most famous Arabian Nights stories came from a storyteller in Paris.",
+  "peek": "No early Arabic manuscript of the Thousand and One Nights contains Aladdin or Ali Baba. A French translator, Antoine Galland, added them in the 1700s after hearing them from Hanna Diyab, a young traveller from Aleppo.",
+  "lede": "Between 1704 and 1717 the French scholar Antoine Galland published Les Mille et une nuits, the first European translation of the Thousand and One Nights. It made the stories famous across Europe. Yet two of the best-known tales, Aladdin and Ali Baba and the Forty Thieves, appear in no early Arabic manuscript of the collection. Galland heard them from a living storyteller.",
+  "bullets": [
+    {
+      "opening": "The Galland manuscript",
+      "linkId": null,
+      "text": "Galland worked from a Syrian manuscript, probably from the 1400s, now in the national library in Paris. It breaks off partway through, which left him and his eager publisher short of stories for later volumes."
+    },
+    {
+      "opening": "Hanna Diyab in Paris",
+      "linkId": null,
+      "text": "In 1709 Galland met Hanna Diyab, a young Maronite Christian from Aleppo who had come to Paris with a French traveller. Galland's diary records Diyab telling him a string of tales, Aladdin and Ali Baba among them."
+    },
+    {
+      "opening": "The orphan tales",
+      "linkId": null,
+      "text": "Scholars call these stories orphan tales, because they have no known Arabic parent text. Arabic versions of Aladdin that surfaced later were shown to be written after Galland, some apparently translated back from his French."
+    },
+    {
+      "opening": "Aladdin's Chinese setting",
+      "linkId": null,
+      "text": "The story Diyab told begins in a city in China. That detail survives in Galland's text, though later retellings and films moved Aladdin to an Arabian city."
+    },
+    {
+      "opening": "Diyab's own memoir",
+      "linkId": null,
+      "text": "Diyab wrote his own account of his travels in Arabic in the 1760s. The only copy survives in the Vatican Library, and it was translated into English in 2021 as The Book of Travels."
+    }
+  ],
+  "tags": [
+    "folklore",
+    "translation",
+    "storytellers",
+    "myths-busted"
+  ],
+  "related": [
+    "voynich-manuscript",
+    "first-folio",
+    "linear-b",
+    "robinson-crusoe-selkirk",
+    "frankenstein-1816"
+  ]
+}

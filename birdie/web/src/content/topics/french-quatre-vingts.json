@@ -1,0 +1,43 @@
+{
+  "id": "french-quatre-vingts",
+  "title": "Why French says 'four twenties' for 80",
+  "category": "Language",
+  "hook": "In France, 80 is four twenties and 99 is four twenties and nineteen.",
+  "peek": "French speakers in France say quatre-vingts, four twenties, for 80, and soixante-dix, sixty-ten, for 70. It is a leftover of counting in twenties, and French speakers in Belgium and Switzerland have partly swapped it for simpler words.",
+  "lede": "French counts in tens until it reaches 60. Then it changes gear. Seventy is soixante-dix, sixty-ten. Eighty is quatre-vingts, four twenties. Ninety is quatre-vingt-dix, four twenties and ten, so 99 is four twenties and nineteen. Counting in twenties once ran much further in French, and what survives in France today is the last stretch of it.",
+  "bullets": [
+    {
+      "opening": "Septante and nonante",
+      "linkId": null,
+      "text": "Belgian and Swiss French use septante for 70 and nonante for 90. Most of Belgium still says quatre-vingts for 80, while parts of French-speaking Switzerland use huitante, so the neat story that both countries dropped the twenties is only half true."
+    },
+    {
+      "opening": "Old French scores",
+      "linkId": null,
+      "text": "Medieval French could count far higher in twenties, with forms like six-vingts for 120. Older words like septante and octante existed side by side, and the twenties became the Paris standard only around the 1600s."
+    },
+    {
+      "opening": "The Quinze-Vingts hospital",
+      "linkId": null,
+      "text": "In the 1200s King Louis IX founded a Paris hospice for 300 blind people and called it the Quinze-Vingts, the fifteen twenties. It still exists today as a national eye hospital, keeping the old way of counting in its name."
+    },
+    {
+      "opening": "Where the twenties came from",
+      "linkId": null,
+      "text": "Nobody knows for sure why French counts this way. Popular theories point to the Celtic languages of Gaul or to Norman settlers, but scholars still debate it."
+    }
+  ],
+  "tags": [
+    "numbers",
+    "language-change",
+    "names",
+    "counting"
+  ],
+  "related": [
+    "sixty-minute-hour",
+    "icelandic-tolva",
+    "webster-spelling",
+    "great-vowel-shift",
+    "debt-silent-b"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "pilcrow",
+  "title": "The pilcrow",
+  "category": "Language",
+  "hook": "The ¶ mark began as a letter C, and its missing ink gave us indents.",
+  "peek": "The backwards-looking ¶ that appears when you show formatting in a word processor is the pilcrow. It began as a decorated letter C in medieval books, and the usual story is that its absence gave us the paragraph indent.",
+  "lede": "Medieval scribes needed a way to show where a new thought began. One answer was a C, short for the Latin capitulum, meaning a little head or chapter. Over time scribes added a vertical stroke or two and filled the bowl with ink, and the C slowly turned into the ¶ we know as the pilcrow.",
+  "bullets": [
+    {
+      "opening": "From K to C",
+      "linkId": null,
+      "text": "Before the C, some Roman and early medieval writers marked new sections with a K, for kaput, meaning head. The C of capitulum gradually took over, and the decorated version became the standard paragraph mark."
+    },
+    {
+      "opening": "Rubricators and red ink",
+      "linkId": null,
+      "text": "Pilcrows were often added after the main text, in red, by specialists called rubricators. The scribe copying the words would leave a small gap at the start of each section for them to fill in later."
+    },
+    {
+      "opening": "Gaps that became indents",
+      "linkId": null,
+      "text": "Early printers kept leaving those gaps for hand-drawn pilcrows. According to the usual account, rubricators often ran out of time and the spaces stayed empty, and readers came to see the blank indent itself as the sign of a new paragraph."
+    },
+    {
+      "opening": "The name pilcrow",
+      "linkId": null,
+      "text": "The English name is a centuries-old garbling of paragraph, which came from the Greek paragraphos, a line written beside the text. Along the way it passed through forms like pylcrafte before settling as pilcrow."
+    }
+  ],
+  "tags": [
+    "punctuation",
+    "etymology",
+    "design",
+    "history-of-things"
+  ],
+  "related": [
+    "interrobang",
+    "octothorpe",
+    "ampersand",
+    "spaces-between-words",
+    "letter-thorn",
+    "boustrophedon"
+  ]
+}

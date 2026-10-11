@@ -1,0 +1,43 @@
+{
+  "id": "esperanto",
+  "title": "Esperanto's hopeful name",
+  "category": "Language",
+  "hook": "Esperanto is named after its inventor's pen name: Doctor One-Who-Hopes.",
+  "peek": "In 1887 a young eye doctor in Warsaw published a thin booklet introducing an international language. He signed it Doktoro Esperanto, Doctor One-Who-Hopes. Readers began calling the language by his pen name, and it stuck.",
+  "lede": "Ludwik Zamenhof grew up in Białystok, a town where neighbours spoke Polish, Russian, German and Yiddish. He dreamed of a second language anyone could learn. In 1887, by then an eye doctor, he published it in a booklet signed Doktoro Esperanto. He called it simply the international language, but readers took the pen name, which means one who hopes, as its name.",
+  "bullets": [
+    {
+      "opening": "Unua Libro",
+      "linkId": null,
+      "text": "The first booklet, now known as the Unua Libro, the First Book, came out in Russian in 1887. It set out the whole grammar in 16 short rules and offered a starting list of about 900 word roots."
+    },
+    {
+      "opening": "Zamenhof's promise slips",
+      "linkId": null,
+      "text": "The booklet included slips readers could sign, promising to learn the language once ten million people had promised the same. Zamenhof hoped this would show him how much support there was."
+    },
+    {
+      "opening": "Regular grammar",
+      "linkId": null,
+      "text": "Esperanto was designed to have no exceptions. Every noun ends in o and every adjective in a, so from bona, good, you get bono, goodness, and the prefix mal makes malbona, bad."
+    },
+    {
+      "opening": "Native Esperanto speakers",
+      "linkId": null,
+      "text": "Some families use Esperanto at home, so a small number of children have grown up speaking it from birth. Estimates of how many people speak it at all vary widely."
+    }
+  ],
+  "tags": [
+    "invented-languages",
+    "inventors",
+    "names",
+    "communication"
+  ],
+  "related": [
+    "klingon",
+    "toki-pona",
+    "nicaraguan-sign-language",
+    "speech-information-rate",
+    "hangul"
+  ]
+}

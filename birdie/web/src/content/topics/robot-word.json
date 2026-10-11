@@ -1,0 +1,43 @@
+{
+  "id": "robot-word",
+  "title": "Where 'robot' came from",
+  "category": "Language",
+  "hook": "The word robot comes from a 1920 Czech play and an old word for drudgery.",
+  "peek": "Robot entered the world in a Czech play written in 1920, about artificial workers made in a factory. The playwright Karel Čapek did not invent the word on his own. His brother, the painter Josef, suggested it.",
+  "lede": "In 1920 the Czech writer Karel Čapek finished a play called R.U.R., short for Rossum's Universal Robots. It is about a company that manufactures artificial people to do the world's work. The play's word for them, roboti, came from the Czech robota, which meant the forced labour that peasants once owed their landlords. Within a few years the word had spread around the world.",
+  "bullets": [
+    {
+      "opening": "Josef Čapek's suggestion",
+      "linkId": null,
+      "text": "Karel later wrote that he first wanted to call his workers labori, from the Latin for work, but it sounded too bookish. He asked his brother Josef, who was busy painting and mumbled, a brush between his teeth, that he should call them roboti."
+    },
+    {
+      "opening": "Čapek's artificial workers",
+      "linkId": null,
+      "text": "Čapek's robots are not metal machines with gears. They are made from a chemical substitute for living matter and look almost exactly like people, closer to what we would now call androids."
+    },
+    {
+      "opening": "R.U.R. on stage",
+      "linkId": null,
+      "text": "The play opened in Prague in January 1921 and was staged in New York in 1922. It was translated into many languages, and most of them simply kept the Czech word robot."
+    },
+    {
+      "opening": "From robot to robotics",
+      "linkId": null,
+      "text": "The word kept growing after the play. The science fiction writer Isaac Asimov first used robotics in a story published in 1941, and it later became the name of a real field of engineering."
+    }
+  ],
+  "tags": [
+    "etymology",
+    "inventors",
+    "ai",
+    "names"
+  ],
+  "related": [
+    "shakey-robot",
+    "computer-job-title",
+    "algorithm-word",
+    "klingon",
+    "byte-spelling"
+  ]
+}
