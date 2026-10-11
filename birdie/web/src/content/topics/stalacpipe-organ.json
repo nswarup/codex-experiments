@@ -1,0 +1,43 @@
+{
+  "id": "stalacpipe-organ",
+  "title": "The Great Stalacpipe Organ",
+  "category": "Music",
+  "hook": "In a Virginia cave, an organ plays tunes by tapping on ancient stalactites.",
+  "peek": "Deep inside Luray Caverns in Virginia, a keyboard sends rubber-tipped mallets tapping against stalactites spread through the cave. Its builder spent three years finding and sanding the right stones, and it is often called the largest musical instrument in the world.",
+  "lede": "Luray Caverns, in Virginia's Shenandoah Valley, holds an instrument like no other. A console of keys, much like a church organ's, is wired to rubber-tipped mallets set beside stalactites across about three and a half acres of cave. Press a key and a mallet strikes a stone, which rings like a bell. Visitors hear it on every tour.",
+  "bullets": [
+    {
+      "opening": "Leland Sprinkle's idea",
+      "linkId": null,
+      "text": "Leland W. Sprinkle, a mathematician and electronics engineer at the Pentagon, noticed in 1954 that the cave's stalactites rang when tapped. He spent three years searching the caverns for stones with the right pitch and finished the organ in 1956."
+    },
+    {
+      "opening": "Tuning stalactites by sanding",
+      "linkId": null,
+      "text": "Few formations were naturally in tune. Sprinkle shaved and sanded many of them to adjust their pitch, a slow job because removing too much stone could not be undone. The finished organ uses 37 stalactites."
+    },
+    {
+      "opening": "Solenoids and rubber mallets",
+      "linkId": null,
+      "text": "Each key triggers an electrically powered plunger that swings a small rubber-tipped mallet against its stalactite. The sound carries through the caverns, so listeners hear it from every corner of the cave at once."
+    },
+    {
+      "opening": "The world's largest instrument",
+      "linkId": null,
+      "text": "Because its playing parts are scattered over acres of cave, the organ is widely described as the largest musical instrument on Earth. Today it usually plays automatically for tour groups, though it can still be played from the console."
+    }
+  ],
+  "tags": [
+    "records",
+    "instruments",
+    "caves",
+    "acoustics"
+  ],
+  "related": [
+    "hohle-fels-flute",
+    "organ-aslsp",
+    "hammond-organ",
+    "glass-armonica",
+    "singing-dunes"
+  ]
+}

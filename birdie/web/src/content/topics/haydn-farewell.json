@@ -1,0 +1,43 @@
+{
+  "id": "haydn-farewell",
+  "title": "Haydn's Farewell Symphony",
+  "category": "Music",
+  "hook": "A symphony where the players walk out one by one, until only two violins remain.",
+  "peek": "In 1772, Joseph Haydn's musicians were stuck at their prince's summer palace, longing to see their families. So Haydn wrote a symphony whose players stop, blow out their candles and leave one at a time. The prince got the message.",
+  "lede": "Joseph Haydn spent most of his career as music director for the Esterházy princes of Hungary. In 1772, Prince Nikolaus kept the court at his remote summer palace, Eszterháza, far longer than usual. Most musicians had left their families at home. Haydn's answer was Symphony No. 45, which ends with the orchestra quietly leaving the stage.",
+  "bullets": [
+    {
+      "opening": "The final Adagio",
+      "linkId": null,
+      "text": "In the last movement, the music slows and players finish their parts one after another. Each one snuffs the candle on their music stand and walks off, until only two muted violins are left playing."
+    },
+    {
+      "opening": "Prince Nikolaus Esterházy",
+      "linkId": null,
+      "text": "According to accounts from Haydn's early biographers, the prince understood the hint at once. He is said to have remarked that if they were all leaving, he might as well leave too, and the court returned home soon after."
+    },
+    {
+      "opening": "The key of F-sharp minor",
+      "linkId": null,
+      "text": "The symphony is in F-sharp minor, a rare key for the time. Horn players of the day needed extra crooks, pieces of tubing that change the horn's pitch, and Haydn's notes suggest some had to be specially made."
+    },
+    {
+      "opening": "Performing the walk-out",
+      "linkId": null,
+      "text": "Orchestras today still stage the ending as written, with players leaving one by one. Some conductors join in and walk off too, leaving the last two violinists to finish alone."
+    }
+  ],
+  "tags": [
+    "composers",
+    "humour",
+    "orchestras",
+    "history-of-things"
+  ],
+  "related": [
+    "mozart-starling",
+    "cage-433",
+    "satie-vexations",
+    "ravel-bolero",
+    "pachelbel-canon"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "musical-road-lancaster",
+  "title": "The musical road that plays off-key",
+  "category": "Music",
+  "hook": "A California road plays the William Tell Overture under your tyres, badly.",
+  "peek": "Drive a stretch of Avenue G in Lancaster, California, at the right speed, and grooves in the road play the finale of the William Tell Overture through your car. The trouble is that the grooves were spaced wrongly, so the tune comes out noticeably off-key.",
+  "lede": "In 2008, grooves were cut into a quarter-mile of road in Lancaster, California, for a Honda car advert. Drive over them at 55 miles per hour and the tyres hum the galloping finale of Rossini's William Tell Overture. It is a charming idea with one flaw. The notes are wrong enough that the tune sounds clearly off-key.",
+  "bullets": [
+    {
+      "opening": "Grooves as notes",
+      "linkId": null,
+      "text": "The road works like a giant record. Tyres rolling over evenly spaced grooves vibrate at a set rate, and that rate becomes a pitch. Closer grooves give higher notes, wider ones give lower notes."
+    },
+    {
+      "opening": "Why it's off-key",
+      "linkId": null,
+      "text": "The melody is recognisable, but its intervals are squashed, so it sounds out of tune. The most common explanation is that the designers miscalculated the groove spacing for the notes, though the exact error was never officially confirmed."
+    },
+    {
+      "opening": "The Honda Civic Musical Road",
+      "linkId": null,
+      "text": "The road was built for a Honda Civic commercial and first laid on Avenue K. Nearby residents complained about the constant noise, so it was paved over within weeks and rebuilt on Avenue G, away from houses."
+    },
+    {
+      "opening": "Driving at 55 miles per hour",
+      "linkId": null,
+      "text": "Speed matters. Drive slower and the whole tune drops in pitch and stretches out. Signs along the road tell drivers the right speed for the intended version of the melody."
+    }
+  ],
+  "tags": [
+    "acoustics",
+    "accidents",
+    "roads",
+    "design"
+  ],
+  "related": [
+    "shepard-tone",
+    "a440-concert-pitch",
+    "missing-fundamental",
+    "singing-dunes",
+    "pythagorean-comma"
+  ]
+}

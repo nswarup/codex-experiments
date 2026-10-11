@@ -1,0 +1,43 @@
+{
+  "id": "westminster-quarters",
+  "title": "The Big Ben chimes",
+  "category": "Music",
+  "hook": "The world's most famous clock chime was written for a church in Cambridge.",
+  "peek": "The four-note phrases that ring out from Westminster every quarter hour were not written for Parliament at all. They were composed in 1793 for a church in Cambridge, and tradition says they grew from a phrase in Handel's Messiah.",
+  "lede": "Every fifteen minutes, bells in the Elizabeth Tower at Westminster ring a short tune, before the great bell Big Ben strikes the hour. The melody is copied by clocks and doorbells around the world. Yet it was written more than half a century before the tower existed, for Great St Mary's, the University Church in Cambridge, in 1793.",
+  "bullets": [
+    {
+      "opening": "The Cambridge Chimes",
+      "linkId": null,
+      "text": "The chime was made for a new clock at Great St Mary's. It is usually credited to Joseph Jowett, a Cambridge law professor, perhaps helped by the young musician William Crotch. For decades it was simply called the Cambridge Chimes."
+    },
+    {
+      "opening": "A phrase from Messiah",
+      "linkId": null,
+      "text": "The tune is traditionally said to be built from the opening of the aria I Know That My Redeemer Liveth from Handel's Messiah. The resemblance is there if you listen for it, though the link rests on tradition rather than any written record."
+    },
+    {
+      "opening": "Four bells, five patterns",
+      "linkId": null,
+      "text": "Four quarter bells play just five different orderings of their notes. One pattern rings at quarter past, two at half past, three at quarter to and four on the hour, followed by Big Ben's strikes."
+    },
+    {
+      "opening": "Arriving at Westminster in 1859",
+      "linkId": null,
+      "text": "When the Great Clock of Westminster was built, its designers adopted the Cambridge tune. It began ringing there in 1859, and its fame on the radio later spread it to mantel clocks and doorbells everywhere."
+    }
+  ],
+  "tags": [
+    "bells",
+    "time",
+    "history-of-things",
+    "architecture"
+  ],
+  "related": [
+    "big-ben-pennies",
+    "harrison-clocks",
+    "nokia-tune",
+    "windows-95-sound",
+    "solfege-hymn"
+  ]
+}

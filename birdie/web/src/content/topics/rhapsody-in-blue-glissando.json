@@ -1,0 +1,43 @@
+{
+  "id": "rhapsody-in-blue-glissando",
+  "title": "The clarinet wail of Rhapsody in Blue",
+  "category": "Music",
+  "hook": "The most famous clarinet slide in music started as a joke in rehearsal.",
+  "peek": "Rhapsody in Blue opens with a clarinet trill that swoops upward in a long, laughing wail. George Gershwin wrote a plain run of notes. The story goes that clarinettist Ross Gorman smeared it as a joke, and Gershwin told him to keep it.",
+  "lede": "On 12 February 1924, at Aeolian Hall in New York, Paul Whiteman's band premiered George Gershwin's Rhapsody in Blue. It opens with a single clarinet: a low trill, then a swooping rise of more than two octaves. That wail is now one of the best-known sounds in American music. As the usual story has it, it began as a joke.",
+  "bullets": [
+    {
+      "opening": "Gershwin's written run",
+      "linkId": null,
+      "text": "In Gershwin's score, the opening was a trill followed by a quick scale of separate notes running up to the top. It was a flourish, but a tidy one, with each step written out."
+    },
+    {
+      "opening": "Ross Gorman's joke",
+      "linkId": null,
+      "text": "In rehearsal, Whiteman's clarinettist Ross Gorman is said to have played the upper part as a continuous smear, sliding between the notes with a jazzy laugh. Gershwin liked it and asked him to do it that way in the concert."
+    },
+    {
+      "opening": "Bending a clarinet glissando",
+      "linkId": null,
+      "text": "A true slide is hard on a clarinet, which is built to jump between fixed notes. Players do it by slowly rolling their fingers off the holes while reshaping their mouth and throat to bend the pitch."
+    },
+    {
+      "opening": "The wail as tradition",
+      "linkId": null,
+      "text": "Later printed parts reflect the slide, and clarinettists now treat it as essential. Each player shapes it a little differently, so the opening few seconds say a lot about who is playing."
+    }
+  ],
+  "tags": [
+    "composers",
+    "accidents",
+    "jazz",
+    "instruments"
+  ],
+  "related": [
+    "bach-motif",
+    "ravel-bolero",
+    "yesterday-scrambled-eggs",
+    "les-paul-overdub",
+    "haydn-farewell"
+  ]
+}

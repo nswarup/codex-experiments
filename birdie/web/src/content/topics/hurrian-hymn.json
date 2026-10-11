@@ -1,0 +1,44 @@
+{
+  "id": "hurrian-hymn",
+  "title": "The oldest written melody",
+  "category": "Music",
+  "hook": "A song written on clay about 3,400 years ago is the oldest tune we can still play.",
+  "peek": "In the 1950s, archaeologists in Syria dug up clay tablets marked with song lyrics and strange musical instructions. One of them, a hymn in the Hurrian language, is the oldest piece of written music that survives in anything like full form.",
+  "lede": "Ugarit was a busy port city on the coast of what is now Syria. Around 1400 BC, a scribe there pressed a hymn into a clay tablet: the words of a song in the Hurrian language, and under them a set of musical instructions. It is the oldest written melody that survives substantially intact, and musicians still perform it today.",
+  "bullets": [
+    {
+      "opening": "The tablets of Ugarit",
+      "linkId": null,
+      "text": "French archaeologists excavating the site, at Ras Shamra, found fragments of about 36 musical tablets in the 1950s. Most are broken scraps. Only one, catalogued as h.6, is complete enough to rebuild a tune, a hymn addressed to the goddess Nikkal."
+    },
+    {
+      "opening": "Interval names and numbers",
+      "linkId": null,
+      "text": "The notation does not write notes one by one. It names pairs of strings on a lyre, using Babylonian music terms, each followed by a number. Scholars agree on what the words mean but not quite how they combine into a melody."
+    },
+    {
+      "opening": "Competing reconstructions",
+      "linkId": null,
+      "text": "Because the instructions are ambiguous, different scholars have produced quite different versions since the 1970s, including Anne Draffkorn Kilmer's well-known reading. Every performance you hear is one informed guess at the tune."
+    },
+    {
+      "opening": "Older than the Seikilos song",
+      "linkId": null,
+      "text": "The Seikilos epitaph, a short Greek song carved in stone around 2,000 years ago, is often called the oldest complete composition. The Hurrian hymn is well over a thousand years older, just less certain in its details."
+    }
+  ],
+  "tags": [
+    "records",
+    "history-of-things",
+    "notation",
+    "archaeology"
+  ],
+  "related": [
+    "hohle-fels-flute",
+    "solfege-hymn",
+    "phonautograph",
+    "pythagorean-comma",
+    "cuneiform-accounts",
+    "linear-b"
+  ]
+}

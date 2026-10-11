@@ -1,0 +1,43 @@
+{
+  "id": "tuvan-throat-singing",
+  "title": "Tuvan throat singing",
+  "category": "Music",
+  "hook": "Singers from Tuva can sing two notes at once with a single voice.",
+  "peek": "In the Republic of Tuva, in southern Siberia, singers hold a deep, steady note while a high, whistling melody floats above it. Both come from the same throat. The trick lies in shaping the mouth to amplify sounds hidden inside every voice.",
+  "lede": "Tuva is a small republic in southern Siberia, between Russia's forests and the Mongolian steppe. Its singers practise khoomei, a style in which one person produces two or more pitches at the same moment: a low, humming drone and, above it, a clear whistling tune. To listeners hearing it for the first time, it sounds like two people singing.",
+  "bullets": [
+    {
+      "opening": "Harmonics in every voice",
+      "linkId": null,
+      "text": "Any sung note is really a stack of tones: the main pitch plus fainter harmonics at higher frequencies. Normally we hear them blended into one sound, which gives each voice its character."
+    },
+    {
+      "opening": "Shaping the mouth",
+      "linkId": null,
+      "text": "Throat singers move the tongue, lips and jaw to make the mouth resonate at exactly one harmonic, boosting it until it rings out as a separate note. Shifting to neighbouring harmonics turns those boosted tones into a melody over the drone."
+    },
+    {
+      "opening": "Sygyt and kargyraa",
+      "linkId": null,
+      "text": "Tuvans name several styles. Sygyt, meaning whistling, has a bright melody high above the drone. Kargyraa is deep and growling, made partly by vibrating tissue above the vocal cords to add a note far below the singer's ordinary voice."
+    },
+    {
+      "opening": "Huun-Huur-Tu on tour",
+      "linkId": null,
+      "text": "Tuvan ensembles such as Huun-Huur-Tu began touring abroad in the 1990s, bringing the sound to festivals and recordings worldwide. Related styles are sung in neighbouring Mongolia, where the art is recognised by UNESCO."
+    }
+  ],
+  "tags": [
+    "acoustics",
+    "voice",
+    "perception",
+    "traditions"
+  ],
+  "related": [
+    "missing-fundamental",
+    "silbo-gomero",
+    "shepard-tone",
+    "helium-voice",
+    "humpback-song-charts"
+  ]
+}

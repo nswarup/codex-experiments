@@ -1,0 +1,43 @@
+{
+  "id": "hohle-fels-flute",
+  "title": "The 40,000-year-old flute",
+  "category": "Music",
+  "hook": "Ice Age musicians carved a flute from a vulture's wing bone in a German cave.",
+  "peek": "In 2008, archaeologists in a cave in southern Germany pieced together a slender flute made from a bird's wing bone. At around 35,000 to 40,000 years old, it is one of the oldest known musical instruments anywhere.",
+  "lede": "Hohle Fels is a cave in the Swabian Jura hills of southern Germany. In 2008 a team led by the archaeologist Nicholas Conard found a dozen pieces of a hollow bone there. Fitted back together, they made a flute about 22 centimetres long with five finger holes. People were playing music in this valley at least 35,000 years ago, and probably closer to 40,000.",
+  "bullets": [
+    {
+      "opening": "A griffon vulture bone",
+      "linkId": null,
+      "text": "The flute is carved from the radius, a long thin wing bone, of a griffon vulture. These birds have wingspans of more than two metres, so their bones are long, straight and naturally hollow, a ready-made tube."
+    },
+    {
+      "opening": "Five holes and a notch",
+      "linkId": null,
+      "text": "The maker cut five carefully spaced finger holes and two V-shaped notches at one end, probably where the player blew. Fine carving marks show the holes were placed by design, not worn in by accident."
+    },
+    {
+      "opening": "The Swabian Jura flutes",
+      "linkId": null,
+      "text": "Hohle Fels is not alone. Nearby caves such as Geissenklösterle have produced flutes of swan bone and mammoth ivory from the same era. In 2017 these caves became a UNESCO World Heritage Site."
+    },
+    {
+      "opening": "Playing a replica",
+      "linkId": null,
+      "text": "Musicians have played copies of the flute and found it can produce a range of notes that sounds surprisingly familiar. Nobody knows what tunes Ice Age people played, but the instrument plainly was made to play more than one note."
+    }
+  ],
+  "tags": [
+    "records",
+    "archaeology",
+    "instruments",
+    "history-of-things"
+  ],
+  "related": [
+    "hurrian-hymn",
+    "stalacpipe-organ",
+    "lascaux-dog-robot",
+    "gobekli-tepe",
+    "glass-armonica"
+  ]
+}

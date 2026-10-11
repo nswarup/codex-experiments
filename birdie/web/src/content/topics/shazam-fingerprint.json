@@ -1,0 +1,43 @@
+{
+  "id": "shazam-fingerprint",
+  "title": "How Shazam hears a song",
+  "category": "Music",
+  "hook": "Shazam throws away almost all of a song and keeps only a sparse map of peaks.",
+  "peek": "Shazam can name a song playing through a crackly speaker in a crowded bar. Its secret is to ignore nearly everything it hears and keep a sparse map of the loudest points, like a star chart of the music, which noise rarely disturbs.",
+  "lede": "Shazam began in London in 2002 as a phone service: you dialled 2580, held your phone to the music and got a text with the song's name. The method behind it, described by co-founder Avery Wang in a 2003 paper, is surprisingly spare. It discards almost all of the sound and matches only a sparse pattern of its loudest points.",
+  "bullets": [
+    {
+      "opening": "The spectrogram",
+      "linkId": null,
+      "text": "First the audio becomes a spectrogram, a picture of which frequencies are present at each moment, with time running across and pitch running up. Loud sounds show up as bright spots on the image."
+    },
+    {
+      "opening": "The constellation map",
+      "linkId": null,
+      "text": "Shazam keeps only the brightest local peaks and throws everything else away. What remains looks like a scatter of stars, so Wang called it a constellation map. Background chatter rarely produces peaks loud enough to change it."
+    },
+    {
+      "opening": "Hashing pairs of peaks",
+      "linkId": null,
+      "text": "Each peak is paired with a few later peaks. The two frequencies and the time gap between them form a compact fingerprint, or hash, which can be looked up instantly in a database built from millions of songs."
+    },
+    {
+      "opening": "Matching the time offsets",
+      "linkId": null,
+      "text": "A real match is not just many shared hashes. They must line up with the same time offset, meaning the clip fits the song at one consistent point. That alignment is why a few seconds of noisy audio are enough."
+    }
+  ],
+  "tags": [
+    "music-tech",
+    "algorithms",
+    "acoustics",
+    "patterns"
+  ],
+  "related": [
+    "toms-diner-mp3",
+    "midi",
+    "cd-74-minutes",
+    "amen-break",
+    "cocktail-party-effect"
+  ]
+}

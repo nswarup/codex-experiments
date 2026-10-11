@@ -1,0 +1,44 @@
+{
+  "id": "mozart-starling",
+  "title": "Mozart's starling",
+  "category": "Music",
+  "hook": "Mozart bought a pet bird that could already sing a tune from his new concerto.",
+  "peek": "In May 1784, Mozart paid a few coins for a starling in a Vienna shop. In his expense book he jotted down a little melody the bird sang. It was the theme of the piano concerto he had just finished, with one note slightly changed.",
+  "lede": "On 27 May 1784, Wolfgang Amadeus Mozart bought a starling in Vienna and recorded the purchase in his notebook of expenses. Next to the entry he wrote out a short phrase of music: the bird's version of the main theme from the finale of his Piano Concerto No. 17 in G major. The bird had changed a note, and Mozart wrote that down too.",
+  "bullets": [
+    {
+      "opening": "Piano Concerto No. 17",
+      "linkId": null,
+      "text": "Mozart had completed the concerto in April 1784, and its finale opens with a light, bouncy theme. How the bird knew it a few weeks later is a small mystery. One guess is that Mozart had whistled it in the shop and the starling picked it up."
+    },
+    {
+      "opening": "The starling's version",
+      "linkId": null,
+      "text": "In the notebook, the bird's tune follows Mozart's closely but not exactly, with one note altered and a held note where his theme moves on. Mozart wrote it out faithfully, as if quoting a fellow musician."
+    },
+    {
+      "opening": "How starlings mimic",
+      "linkId": null,
+      "text": "Starlings are gifted copycats. They pick up whistles, songs and household noises, and they like to stretch, chop and remix what they hear, which fits neatly with the bird's slightly wonky take on Mozart's theme."
+    },
+    {
+      "opening": "A Musical Joke",
+      "linkId": null,
+      "text": "Mozart kept the bird for three years. In a 1990 study of pet starlings, the biologists Meredith West and Andrew King suggested its rambling style may have inspired Mozart's 1787 piece A Musical Joke. It is an appealing idea, but a guess."
+    }
+  ],
+  "tags": [
+    "animal-minds",
+    "composers",
+    "mimicry",
+    "history-of-things"
+  ],
+  "related": [
+    "twinkle-tune",
+    "lyrebird-mimicry",
+    "snowball-cockatoo",
+    "alex-the-parrot",
+    "mozart-effect",
+    "haydn-farewell"
+  ]
+}

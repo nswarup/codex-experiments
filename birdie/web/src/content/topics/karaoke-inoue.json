@@ -1,0 +1,43 @@
+{
+  "id": "karaoke-inoue",
+  "title": "The man who didn't patent karaoke",
+  "category": "Music",
+  "hook": "The inventor of the karaoke machine never patented it and earned almost nothing.",
+  "peek": "In 1971, a Japanese drummer built a machine that let bar customers sing along to his backing tracks. He never patented it, so he missed out on a fortune. Decades later he received an Ig Nobel Prize for teaching people to tolerate each other.",
+  "lede": "In the late 1960s Daisuke Inoue was a drummer playing in bars in Kobe, Japan, backing customers who wanted to sing. One asked for a recording to take on a trip. Inoue saw the bigger idea, and in 1971 he built a machine that played backing tracks for a coin. He never patented it, so others made the fortune.",
+  "bullets": [
+    {
+      "opening": "The 8 Juke machine",
+      "linkId": null,
+      "text": "Inoue's first machines combined a car stereo, a small amplifier, a microphone and a coin slot, playing tapes of his own backing music in keys that suited amateur singers. He built about a dozen and rented them to local bars."
+    },
+    {
+      "opening": "Why there was no patent",
+      "linkId": null,
+      "text": "Inoue has said that patenting simply did not occur to him, and that he saw the machine as an assembly of parts that already existed, not a true invention. Other companies soon made and sold their own versions."
+    },
+    {
+      "opening": "Empty orchestra",
+      "linkId": null,
+      "text": "The word karaoke joins the Japanese kara, meaning empty, with oke, short for okesutora, meaning orchestra. The band is there, but the singer is missing, and that gap is the whole point."
+    },
+    {
+      "opening": "The Ig Nobel Peace Prize",
+      "linkId": null,
+      "text": "In 2004 Inoue received the Ig Nobel Peace Prize for inventing karaoke, thereby providing an entirely new way for people to learn to tolerate each other. He accepted in person at Harvard and sang for the audience."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "music-tech",
+    "names",
+    "etymology"
+  ],
+  "related": [
+    "auto-tune",
+    "walkman-origin",
+    "happy-birthday-copyright",
+    "instant-ramen-ando",
+    "muzak-stimulus-progression"
+  ]
+}

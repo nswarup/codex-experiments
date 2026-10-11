@@ -3468,5 +3468,65 @@
   "id": "yesterday-scrambled-eggs",
   "title": "'Yesterday' was 'Scrambled Eggs'",
   "category": "Music"
+ },
+ {
+  "id": "hurrian-hymn",
+  "title": "The oldest written melody",
+  "category": "Music"
+ },
+ {
+  "id": "hohle-fels-flute",
+  "title": "The 40,000-year-old flute",
+  "category": "Music"
+ },
+ {
+  "id": "stalacpipe-organ",
+  "title": "The Great Stalacpipe Organ",
+  "category": "Music"
+ },
+ {
+  "id": "tuvan-throat-singing",
+  "title": "Tuvan throat singing",
+  "category": "Music"
+ },
+ {
+  "id": "mozart-starling",
+  "title": "Mozart's starling",
+  "category": "Music"
+ },
+ {
+  "id": "karaoke-inoue",
+  "title": "The man who didn't patent karaoke",
+  "category": "Music"
+ },
+ {
+  "id": "shazam-fingerprint",
+  "title": "How Shazam hears a song",
+  "category": "Music"
+ },
+ {
+  "id": "haydn-farewell",
+  "title": "Haydn's Farewell Symphony",
+  "category": "Music"
+ },
+ {
+  "id": "musical-road-lancaster",
+  "title": "The musical road that plays off-key",
+  "category": "Music"
+ },
+ {
+  "id": "bach-motif",
+  "title": "Bach's musical signature",
+  "category": "Music"
+ },
+ {
+  "id": "rhapsody-in-blue-glissando",
+  "title": "The clarinet wail of Rhapsody in Blue",
+  "category": "Music"
+ },
+ {
+  "id": "westminster-quarters",
+  "title": "The Big Ben chimes",
+  "category": "Music"
  }
 ]

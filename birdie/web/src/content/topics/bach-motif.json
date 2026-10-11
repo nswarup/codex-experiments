@@ -1,0 +1,43 @@
+{
+  "id": "bach-motif",
+  "title": "Bach's musical signature",
+  "category": "Music",
+  "hook": "Johann Sebastian Bach could spell his own surname in musical notes.",
+  "peek": "In German, the note we call B-flat is written B, and B-natural is written H. That quirk let Johann Sebastian Bach spell his surname as four notes, a twisting little motif that composers from Schumann to Pärt have borrowed ever since.",
+  "lede": "English speakers name notes A to G. German musicians use the same letters with one twist: what English calls B-flat is B in German, and B-natural is H. So the surname BACH becomes four real notes: B-flat, A, C, B-natural. Johann Sebastian Bach knew it, worked the motif into his music, and it became music's most famous signature.",
+  "bullets": [
+    {
+      "opening": "Why German has an H",
+      "linkId": null,
+      "text": "Medieval scribes wrote two kinds of B: a rounded b for the flat version and a square b for the natural. Over time the square form was read as the letter h, and German note names kept it."
+    },
+    {
+      "opening": "The Art of Fugue",
+      "linkId": null,
+      "text": "Bach worked his name into the last fugue of The Art of Fugue, a set of studies he left unfinished. The B-A-C-H motif enters as a new theme shortly before the manuscript breaks off."
+    },
+    {
+      "opening": "The shape of the motif",
+      "linkId": null,
+      "text": "Played in order, the four notes huddle together and twist back on themselves, a tight chromatic knot. That compact, slightly uneasy shape makes it easy to hide inside other music and easy for listeners to spot."
+    },
+    {
+      "opening": "Liszt, Schumann and Pärt",
+      "linkId": null,
+      "text": "Later composers paid tribute with it. Liszt wrote a Fantasy and Fugue on B-A-C-H for organ, Schumann composed six fugues on the name, and Arvo Pärt built his 1964 piece Collage on B-A-C-H around it."
+    }
+  ],
+  "tags": [
+    "composers",
+    "names",
+    "notation",
+    "patterns"
+  ],
+  "related": [
+    "switched-on-bach",
+    "solfege-hymn",
+    "pachelbel-canon",
+    "a440-concert-pitch",
+    "rhapsody-in-blue-glissando"
+  ]
+}
