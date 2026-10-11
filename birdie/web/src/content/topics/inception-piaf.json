@@ -1,0 +1,38 @@
+{
+  "id": "inception-piaf",
+  "title": "Inception's slowed-down Piaf",
+  "category": "Film",
+  "hook": "The booming score of Inception is a French love song played very, very slowly.",
+  "peek": "In Inception, the dream thieves use an Édith Piaf song as a signal that they are about to wake. Hans Zimmer built his score from the same track, slowed right down, so the music itself moves the way time does in deeper dreams.",
+  "lede": "In Christopher Nolan's 2010 film Inception, a team enters people's dreams. To warn the sleepers that they will soon be woken, they play Édith Piaf's Non, je ne regrette rien through headphones. Time runs slower in each deeper dream, so a song in the waking world sounds stretched below. Hans Zimmer took that idea literally and built his score from the Piaf track itself.",
+  "bullets": [
+    {
+      "opening": "The slowed-down Piaf track",
+      "linkId": null,
+      "text": "Soon after release, fans posted a version of the song slowed to a crawl, and its opening brass notes sounded much like the score's heavy blasts. Zimmer confirmed that the score's tempos are divisions and multiples of the Piaf recording."
+    },
+    {
+      "opening": "Time running slower in dreams",
+      "linkId": null,
+      "text": "In the film, a few minutes awake equals an hour one dream down and far longer below that. Slowing the song mirrors this stretching of time, so the score is a kind of musical clue to how the story works."
+    },
+    {
+      "opening": "Marion Cotillard and Piaf",
+      "linkId": null,
+      "text": "Marion Cotillard plays Mal in Inception and had just won an Oscar for playing Piaf in La Vie en Rose. Nolan has said he chose the song before casting her and briefly thought about replacing it, but kept it."
+    }
+  ],
+  "tags": [
+    "songs",
+    "time",
+    "film-scores",
+    "perception"
+  ],
+  "related": [
+    "interstellar-black-hole",
+    "thx-deep-note",
+    "play-it-again-sam",
+    "ravel-bolero",
+    "speech-to-song-illusion"
+  ]
+}

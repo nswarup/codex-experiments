@@ -1,0 +1,43 @@
+{
+  "id": "dolly-zoom",
+  "title": "The Vertigo dolly zoom",
+  "category": "Film",
+  "hook": "One camera trick makes the world stretch while the person in it stays still.",
+  "peek": "In Vertigo, a stairwell seems to plunge away beneath the hero while staying the same size in frame. The trick, worked out by a Paramount camera operator, moves the camera one way while the zoom lens goes the other, and filmmakers still use it.",
+  "lede": "In Alfred Hitchcock's Vertigo, released in 1958, a detective with a fear of heights looks down a bell tower stairwell, and the space seems to stretch and fall away. Hitchcock had wanted to show that dizzy feeling for years. The camera operator Irmin Roberts solved it by pulling the camera back while zooming the lens in, so the frame stays roughly the same size.",
+  "bullets": [
+    {
+      "opening": "How the dolly zoom works",
+      "linkId": null,
+      "text": "Zooming in narrows the view and makes things look closer. Moving the camera away makes them smaller. Done together at the right speed, the subject stays the same size, but the background's perspective changes, so space itself seems to stretch or squeeze."
+    },
+    {
+      "opening": "The bell tower model",
+      "linkId": null,
+      "text": "Hitchcock told the director François Truffaut that the stairwell shot used a model of the stairs laid on its side, so the camera could track and zoom along it smoothly. Building a real rig on a tall staircase would have been far harder."
+    },
+    {
+      "opening": "Jaws on the beach",
+      "linkId": null,
+      "text": "Steven Spielberg made the trick famous again in Jaws in 1975, when the police chief on a crowded beach realises something is wrong. That shot is why the move is sometimes called the Jaws effect, as well as the Vertigo effect."
+    },
+    {
+      "opening": "Irmin Roberts",
+      "linkId": null,
+      "text": "Roberts was a Paramount cameraman who worked mostly on effects and second unit shots, and he received no special credit for the invention. Yet the dolly zoom he worked out is now one of the best-known camera moves in cinema."
+    }
+  ],
+  "tags": [
+    "perception",
+    "illusions",
+    "film-tech",
+    "inventors"
+  ],
+  "related": [
+    "steadicam",
+    "kuleshov-effect",
+    "macguffin",
+    "barry-lyndon-lenses",
+    "multiplane-camera"
+  ]
+}

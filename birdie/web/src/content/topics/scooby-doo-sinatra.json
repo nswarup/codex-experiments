@@ -1,0 +1,43 @@
+{
+  "id": "scooby-doo-sinatra",
+  "title": "Scooby-Doo's name from Sinatra",
+  "category": "Film",
+  "hook": "A cartoon dog was named after Frank Sinatra's scat at the end of a love song.",
+  "peek": "Scooby-Doo was nearly a bongo-playing dog called Too Much. A television executive renamed him after hearing Frank Sinatra sing \"scooby dooby doo\" at the end of Strangers in the Night, and the name stuck in 1969.",
+  "lede": "In 1969 the Hanna-Barbera studio was developing a cartoon about teenagers who solve mysteries with their dog. The CBS executive Fred Silverman has said that on a flight he heard Frank Sinatra's Strangers in the Night, which ends with Sinatra crooning \"scooby dooby doo\". He decided the dog should be called Scooby-Doo, and the show became Scooby-Doo, Where Are You.",
+  "bullets": [
+    {
+      "opening": "Mysteries Five and Too Much",
+      "linkId": null,
+      "text": "Early pitches were called Mysteries Five, about a teenage band, with a bongo-playing dog named Too Much. The band idea was dropped, the cast shrank to four and the dog became the star once he had a better name."
+    },
+    {
+      "opening": "Strangers in the Night",
+      "linkId": null,
+      "text": "Sinatra's song came out in 1966, topped the charts and won Grammy awards. His relaxed scat at the fade-out was an ad lib, not part of the written lyric, which makes it an unlikely source for a famous name."
+    },
+    {
+      "opening": "Iwao Takamoto's Great Dane",
+      "linkId": null,
+      "text": "The designer Iwao Takamoto talked to a Great Dane breeder about what makes a prize dog, then did the opposite for Scooby: a sloping back, bowed legs and a small chin. The awkward shape suited a cowardly cartoon dog."
+    },
+    {
+      "opening": "Don Messick's voice",
+      "linkId": null,
+      "text": "Don Messick voiced Scooby for about 25 years, giving him the famous growly way of talking that adds an R to words. The catchphrase \"Scooby dooby doo\" brought the dog's name back round to Sinatra."
+    }
+  ],
+  "tags": [
+    "names",
+    "animation",
+    "dogs",
+    "songs"
+  ],
+  "related": [
+    "pink-panther-diamond",
+    "simpsons-yellow",
+    "totoro-name",
+    "pac-man-name",
+    "comic-sans"
+  ]
+}

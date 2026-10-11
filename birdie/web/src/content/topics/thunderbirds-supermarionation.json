@@ -1,0 +1,43 @@
+{
+  "id": "thunderbirds-supermarionation",
+  "title": "Thunderbirds' Supermarionation",
+  "category": "Film",
+  "hook": "The Thunderbirds puppets moved their lips by themselves, in time with the voices.",
+  "peek": "Gerry Anderson's puppet shows used a system called Supermarionation. A small electric coil in each puppet's head was triggered by the recorded dialogue, so the mouth opened and closed in time with the words without anyone working it.",
+  "lede": "Puppeteers struggle most with mouths: matching lips to speech by hand is slow and rarely convincing. Gerry Anderson and his team solved this in the early 1960s. The actors recorded the dialogue first, and the recording was then fed down the puppets' wires to a solenoid, a small electric coil, in each head. Every syllable pulled the lower lip down, then let it spring back.",
+  "bullets": [
+    {
+      "opening": "The solenoid in the head",
+      "linkId": null,
+      "text": "Each Thunderbirds head held the coil and a spring linked to the lower lip. The voice signal ran through the thin metal wires that also held the puppet up, so the wires did two jobs at once: support and lip sync."
+    },
+    {
+      "opening": "Why the heads were so big",
+      "linkId": null,
+      "text": "The mechanism took up room, so the heads had to be large compared with the bodies. That gives Thunderbirds characters their odd proportions. In the later Captain Scarlet, smaller parts allowed puppets with realistic heads."
+    },
+    {
+      "opening": "The puppets that rarely walked",
+      "linkId": null,
+      "text": "Mouths were easy, but walking on strings still looked clumsy. The scripts often kept characters seated at desks, in cockpits or in cars, and filmed them from the waist up, which made the shows look slicker."
+    },
+    {
+      "opening": "Sylvia Anderson and Lady Penelope",
+      "linkId": null,
+      "text": "Sylvia Anderson, Gerry's wife and creative partner, shaped the characters and voiced Lady Penelope, the elegant London agent. Her voice drove Penelope's mechanical lips exactly as the system was designed."
+    }
+  ],
+  "tags": [
+    "puppets",
+    "inventors",
+    "television",
+    "design"
+  ],
+  "related": [
+    "kermit-coat",
+    "pingu-language",
+    "star-trek-transporter",
+    "doctor-who-theme",
+    "test-card-f"
+  ]
+}

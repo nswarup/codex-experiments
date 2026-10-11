@@ -1,0 +1,44 @@
+{
+  "id": "pingu-language",
+  "title": "Pingu's made-up language",
+  "category": "Film",
+  "hook": "Pingu the penguin speaks no language at all, yet children everywhere understand him.",
+  "peek": "The clay penguin Pingu chatters away in a language that does not exist. His voice actor, Carlo Bonomi, improvised every line in sound alone, so the show could play in any country without dubbing.",
+  "lede": "Pingu, a clay animation about a young penguin and his family, began in Switzerland in 1990, created by Otmar Gutmann. Pingu and everyone around him speak Penguinese, a stream of sounds with no real words. The Italian voice artist Carlo Bonomi performed all the voices, improvising the babble so the feeling was clear even though the meaning was not.",
+  "bullets": [
+    {
+      "opening": "Carlo Bonomi's grammelot",
+      "linkId": null,
+      "text": "Bonomi drew on grammelot, an old theatre technique from Italian comedy in which performers speak in convincing nonsense, using rhythm and tone to carry the meaning. He had already used it to voice La Linea, a cartoon man drawn as a single line."
+    },
+    {
+      "opening": "Noot noot",
+      "linkId": null,
+      "text": "Pingu's best-known sound is the honk he makes by pursing his beak into a trumpet shape. Fans spell it noot noot, and it works the same way as the rest of his language: pure sound and feeling."
+    },
+    {
+      "opening": "No dubbing needed",
+      "linkId": null,
+      "text": "Because no one says a real word, the show never needed translating. Pingu aired in well over a hundred countries, and the same soundtrack played everywhere."
+    },
+    {
+      "opening": "David Sant and Marcello Magni",
+      "linkId": null,
+      "text": "After Bonomi, later series made in Britain were voiced by the performers David Sant and Marcello Magni, who learned to keep the same style of Penguinese going for new episodes."
+    }
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "animation",
+    "penguins"
+  ],
+  "related": [
+    "thunderbirds-supermarionation",
+    "kermit-coat",
+    "emperor-penguin-huddle",
+    "esperanto",
+    "totoro-name",
+    "penguin-pebbles"
+  ]
+}

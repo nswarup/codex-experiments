@@ -1,0 +1,38 @@
+{
+  "id": "pink-panther-diamond",
+  "title": "The Pink Panther is a diamond",
+  "category": "Film",
+  "hook": "In the first Pink Panther film, the Pink Panther is a jewel, not a cat.",
+  "peek": "The Pink Panther of 1963 is named after a huge pink diamond with a flaw shaped like a leaping panther. The cartoon cat was drawn only for the opening titles, and became so popular he got a series of his own.",
+  "lede": "The 1963 comedy The Pink Panther, directed by Blake Edwards, is about a jewel thief and the bumbling detective chasing him. The title refers to the stolen prize: a large pink diamond with a tiny flaw that, seen up close, looks like a leaping panther. The famous pink cat does not appear in the story at all. He was drawn for the opening credits.",
+  "bullets": [
+    {
+      "opening": "The DePatie-Freleng titles",
+      "linkId": null,
+      "text": "The animators Friz Freleng and David DePatie were hired to make the title sequence, and Hawley Pratt designed the slinky cat. He plays with the credits as they appear, set to Henry Mancini's sneaking saxophone theme."
+    },
+    {
+      "opening": "The Pink Phink",
+      "linkId": null,
+      "text": "Audiences liked the titles so much that the cat got his own cartoons. The first, The Pink Phink in 1964, has him painting a house pink while a little man paints it blue. It won the Oscar for best animated short."
+    },
+    {
+      "opening": "Inspector Clouseau steals the show",
+      "linkId": null,
+      "text": "The film was meant to centre on David Niven as the suave thief. Peter Sellers, as the clumsy Inspector Clouseau, became the real draw, and the later films kept Clouseau and the cartoon cat while the diamond faded away."
+    }
+  ],
+  "tags": [
+    "animation",
+    "names",
+    "myths-busted",
+    "jewels"
+  ],
+  "related": [
+    "macguffin",
+    "diamonds-burn",
+    "simpsons-yellow",
+    "mona-lisa-theft",
+    "scooby-doo-sinatra"
+  ]
+}

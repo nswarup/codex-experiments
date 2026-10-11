@@ -1,0 +1,43 @@
+{
+  "id": "play-it-again-sam",
+  "title": "Nobody says \"Play it again, Sam\"",
+  "category": "Film",
+  "hook": "The most famous line from Casablanca is never spoken in the film.",
+  "peek": "Ask people to quote Casablanca and many will say \"Play it again, Sam\". No one says it. Ilsa asks Sam to \"play it\", and Rick later demands the same, but the word \"again\" never appears, and the misquote got its fame from Woody Allen.",
+  "lede": "In Casablanca, released in 1942, the pianist Sam is asked twice to play the song As Time Goes By. Ilsa, played by Ingrid Bergman, says \"Play it once, Sam, for old times' sake\" and then \"Play it, Sam. Play As Time Goes By.\" Later Rick, played by Humphrey Bogart, says \"You played it for her, you can play it for me.\" Nobody says \"again\".",
+  "bullets": [
+    {
+      "opening": "Woody Allen's play",
+      "linkId": null,
+      "text": "The misquote was already common when Woody Allen used it as the title of his 1969 Broadway play, Play It Again, Sam, about a film critic who gets dating advice from an imagined Bogart. The 1972 film version fixed the wrong line in people's heads for good."
+    },
+    {
+      "opening": "Dooley Wilson at the piano",
+      "linkId": null,
+      "text": "Sam was played by Dooley Wilson, a singer and drummer who did not really play the piano. He mimed at the keys while a studio pianist played the music out of sight, and Wilson sang the song himself."
+    },
+    {
+      "opening": "As Time Goes By",
+      "linkId": null,
+      "text": "The song was not written for the film. Herman Hupfeld wrote it in 1931 for a Broadway show, and it had been mostly forgotten. After Casablanca it became a hit again, and the American Film Institute later ranked it the second greatest song in American film."
+    },
+    {
+      "opening": "Why misquotes stick",
+      "linkId": null,
+      "text": "The wrong version is neater: it names the person, makes the request and hints at the past in four words. The real lines are spread over two scenes, so memory quietly merges them into one tidier sentence."
+    }
+  ],
+  "tags": [
+    "misquotes",
+    "myths-busted",
+    "memory",
+    "songs"
+  ],
+  "related": [
+    "jazz-singer-dialogue",
+    "macguffin",
+    "alan-smithee",
+    "inception-piaf",
+    "hollywoodland-sign"
+  ]
+}

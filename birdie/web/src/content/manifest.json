@@ -3888,5 +3888,65 @@
   "id": "timeless-test",
   "title": "The timeless Test of 1939",
   "category": "Sports"
+ },
+ {
+  "id": "rotoscope",
+  "title": "Max Fleischer's rotoscope",
+  "category": "Film"
+ },
+ {
+  "id": "jazz-singer-dialogue",
+  "title": "The Jazz Singer was mostly silent",
+  "category": "Film"
+ },
+ {
+  "id": "play-it-again-sam",
+  "title": "Nobody says \"Play it again, Sam\"",
+  "category": "Film"
+ },
+ {
+  "id": "inception-piaf",
+  "title": "Inception's slowed-down Piaf",
+  "category": "Film"
+ },
+ {
+  "id": "interstellar-black-hole",
+  "title": "Interstellar's scientific black hole",
+  "category": "Film"
+ },
+ {
+  "id": "pink-panther-diamond",
+  "title": "The Pink Panther is a diamond",
+  "category": "Film"
+ },
+ {
+  "id": "dolly-zoom",
+  "title": "The Vertigo dolly zoom",
+  "category": "Film"
+ },
+ {
+  "id": "steadicam",
+  "title": "The Steadicam and the Rocky steps",
+  "category": "Film"
+ },
+ {
+  "id": "trailers-after-film",
+  "title": "Why trailers are called trailers",
+  "category": "Film"
+ },
+ {
+  "id": "scooby-doo-sinatra",
+  "title": "Scooby-Doo's name from Sinatra",
+  "category": "Film"
+ },
+ {
+  "id": "thunderbirds-supermarionation",
+  "title": "Thunderbirds' Supermarionation",
+  "category": "Film"
+ },
+ {
+  "id": "pingu-language",
+  "title": "Pingu's made-up language",
+  "category": "Film"
  }
 ]

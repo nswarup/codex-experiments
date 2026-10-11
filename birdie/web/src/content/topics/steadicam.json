@@ -1,0 +1,43 @@
+{
+  "id": "steadicam",
+  "title": "The Steadicam and the Rocky steps",
+  "category": "Film",
+  "hook": "Rocky's famous run up the museum steps was filmed by the man who invented the camera rig.",
+  "peek": "In the mid-1970s, cameraman Garrett Brown built a rig that let an operator walk or run while the picture floated smoothly. One of its first big moments was Rocky's training run up the steps of the Philadelphia Museum of Art, with Brown himself operating.",
+  "lede": "Before the 1970s, smooth moving shots needed tracks or cranes, and hand-held cameras shook with every step. Garrett Brown, a Philadelphia filmmaker, spent years building a rig that floated the camera away from the operator's body. Cinema Products sold it as the Steadicam. In 1976 Brown carried it up the Philadelphia Museum of Art steps beside Sylvester Stallone for Rocky.",
+  "bullets": [
+    {
+      "opening": "How the Steadicam floats",
+      "linkId": null,
+      "text": "The operator wears a vest with a spring-loaded arm. The arm holds a pole, or sled, with the camera on top and the batteries and monitor below, balanced around a free-moving joint. Jolts from walking soak into the springs instead of the picture."
+    },
+    {
+      "opening": "Bound for Glory",
+      "linkId": null,
+      "text": "Rocky was not the very first film to use it. The 1976 Woody Guthrie film Bound for Glory has a crane shot that lands, after which Brown walks off with the camera through a crowded camp, a move that seemed impossible at the time."
+    },
+    {
+      "opening": "The Rocky steps",
+      "linkId": null,
+      "text": "Brown had already filmed his own demo runs up those same steps, and by his account they helped convince the filmmakers. The finished shot follows Stallone up all 72 steps to the top, and the stairway is now known as the Rocky Steps."
+    },
+    {
+      "opening": "The Shining's corridors",
+      "linkId": null,
+      "text": "Brown later operated the low, gliding shots that follow Danny's tricycle through the hotel corridors in The Shining in 1980. He also won an Academy technical award for the invention."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "film-tech",
+    "sport",
+    "design"
+  ],
+  "related": [
+    "dolly-zoom",
+    "dykstraflex",
+    "barry-lyndon-lenses",
+    "mandalorian-stagecraft",
+    "twenty-four-frames"
+  ]
+}

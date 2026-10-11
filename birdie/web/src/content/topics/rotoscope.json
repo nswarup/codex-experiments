@@ -1,0 +1,44 @@
+{
+  "id": "rotoscope",
+  "title": "Max Fleischer's rotoscope",
+  "category": "Film",
+  "hook": "The first rotoscoped cartoon star was the animator's brother in a clown suit.",
+  "peek": "Around 1915, the animator Max Fleischer built a machine for tracing live-action film one frame at a time. His test subject was his brother Dave, dancing in a clown costume, and the drawings became Koko the Clown.",
+  "lede": "Early cartoon characters moved in stiff, jerky ways. Max Fleischer, a young New York illustrator, wanted drawings that moved like real people. Around 1915 he built the rotoscope, a device that projected live-action film onto a pane of glass, one frame at a time, so an artist could trace each pose. He filed for a patent that year and it was granted in 1917.",
+  "bullets": [
+    {
+      "opening": "Dave Fleischer's clown suit",
+      "linkId": null,
+      "text": "To test it, Max filmed his brother Dave dancing on a rooftop in a baggy clown costume and traced the footage. The clown became Koko, star of the Out of the Inkwell series, who climbed out of an inkwell and teased the artist drawing him."
+    },
+    {
+      "opening": "How the rotoscope worked",
+      "linkId": null,
+      "text": "A camera and projector sat behind a drawing table. Each frame of film was thrown onto frosted glass, the animator traced it on paper, then wound the film on by one frame. The result kept the timing and weight of a real body."
+    },
+    {
+      "opening": "Cab Calloway's dance moves",
+      "linkId": null,
+      "text": "The Fleischer studio kept using the trick. In the 1932 Betty Boop cartoon Minnie the Moocher, the bandleader Cab Calloway was filmed dancing, and his gliding steps were traced onto a singing ghost walrus."
+    },
+    {
+      "opening": "A Scanner Darkly",
+      "linkId": null,
+      "text": "The idea outlived the machine. The a-ha video for Take On Me in 1985 was traced by hand from live footage, and Richard Linklater's 2006 film A Scanner Darkly was traced digitally over every frame of its actors."
+    }
+  ],
+  "tags": [
+    "animation",
+    "inventors",
+    "film-tech",
+    "history-of-things"
+  ],
+  "related": [
+    "multiplane-camera",
+    "muybridge-horse",
+    "steamboat-willie",
+    "fantasia-hp-oscillators",
+    "luxo-jr",
+    "jurassic-park-dinosaurs"
+  ]
+}

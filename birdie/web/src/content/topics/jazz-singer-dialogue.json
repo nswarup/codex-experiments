@@ -1,0 +1,43 @@
+{
+  "id": "jazz-singer-dialogue",
+  "title": "The Jazz Singer was mostly silent",
+  "category": "Film",
+  "hook": "The film remembered as the first talkie has only about two minutes of talking.",
+  "peek": "The Jazz Singer of 1927 is often called the first talking picture. Most of it is actually a silent film with title cards and a recorded score. The spoken lines that made history were short, and largely improvised by its star, Al Jolson.",
+  "lede": "When Warner Bros. released The Jazz Singer in October 1927, it was not planned as a talking picture. It was a silent film with a recorded orchestral score and several songs sung by Al Jolson, all synchronised to the picture. Between the songs, Jolson ad-libbed a little speech. Those few spoken moments, about two minutes in all, changed the film industry.",
+  "bullets": [
+    {
+      "opening": "You ain't heard nothin' yet",
+      "linkId": null,
+      "text": "Jolson's most famous line comes after his first song, when he tells the cheering crowd to wait, because they ain't heard nothin' yet. It was a catchphrase from his stage act, and it suddenly sounded like a promise about cinema itself."
+    },
+    {
+      "opening": "The Blue Skies scene",
+      "linkId": null,
+      "text": "In the longest talking scene, Jolson's character sings to his mother at the piano and chats with her between verses. His father walks in and says a single word, stop, and the film drops back into silence with title cards."
+    },
+    {
+      "opening": "Vitaphone sound on disc",
+      "linkId": null,
+      "text": "The sound did not sit on the film. It came from large records, each matched to one reel, played on a turntable linked to the projector. If a reel was damaged and trimmed, the voices could fall out of step with the lips."
+    },
+    {
+      "opening": "Lights of New York",
+      "linkId": null,
+      "text": "Warner Bros. had already released Don Juan in 1926 with a recorded score but no dialogue. The first feature with talking all the way through came in 1928: Lights of New York, a short crime drama that was a big hit."
+    }
+  ],
+  "tags": [
+    "film-tech",
+    "myths-busted",
+    "sound",
+    "firsts"
+  ],
+  "related": [
+    "steamboat-willie",
+    "foley-art",
+    "twenty-four-frames",
+    "play-it-again-sam",
+    "phonautograph"
+  ]
+}

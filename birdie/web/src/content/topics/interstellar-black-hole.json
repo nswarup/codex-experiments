@@ -1,0 +1,44 @@
+{
+  "id": "interstellar-black-hole",
+  "title": "Interstellar's scientific black hole",
+  "category": "Film",
+  "hook": "A film's black hole was so carefully computed that it produced real science papers.",
+  "peek": "For Interstellar, the physicist Kip Thorne gave visual effects artists the equations for how light bends around a spinning black hole. Their renders were accurate enough to be published in physics journals, and showed details the scientists had not fully expected.",
+  "lede": "When Christopher Nolan made Interstellar, released in 2014, he wanted its black hole, Gargantua, to look the way physics says it should. The theoretical physicist Kip Thorne, an executive producer, worked out equations for how light travels around a fast-spinning black hole. Artists at the effects company Double Negative turned them into new rendering software and fed in the numbers.",
+  "bullets": [
+    {
+      "opening": "The DNGR renderer",
+      "linkId": null,
+      "text": "The team wrote software called the Double Negative Gravitational Renderer. Instead of tracing straight rays of light, it followed beams curving through warped space. Some single frames reportedly took up to 100 hours to compute, and the film used far more computing power than a normal effects job."
+    },
+    {
+      "opening": "The halo over the top",
+      "linkId": null,
+      "text": "The results surprised the artists. Light from the glowing disc behind the black hole is bent up over the top and under the bottom, so the flat disc appears to wrap around the dark sphere like a halo."
+    },
+    {
+      "opening": "Papers on gravitational lensing",
+      "linkId": null,
+      "text": "In 2015 Thorne and the effects team published their method and findings in the journal Classical and Quantum Gravity, and a paper on the film's wormhole in the American Journal of Physics."
+    },
+    {
+      "opening": "What the film left out",
+      "linkId": null,
+      "text": "A real disc would look brighter and bluer on the side spinning towards us, and dimmer on the other. Nolan dropped that lopsided effect to keep the image clear for audiences, so the film version is slightly simplified."
+    }
+  ],
+  "tags": [
+    "black-holes",
+    "physics",
+    "film-tech",
+    "light"
+  ],
+  "related": [
+    "m87-hard-drives",
+    "ligo-chirp",
+    "perseus-black-hole-note",
+    "wifi-black-holes",
+    "inception-piaf",
+    "jurassic-park-dinosaurs"
+  ]
+}
