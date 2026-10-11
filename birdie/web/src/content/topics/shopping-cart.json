@@ -1,0 +1,43 @@
+{
+  "id": "shopping-cart",
+  "title": "Nobody wanted the first shopping cart",
+  "category": "Inventions",
+  "hook": "Shoppers snubbed the first trolleys, so the store paid people to push them around.",
+  "peek": "In 1937 Sylvan Goldman put wheels and two baskets on a folding chair frame for his Oklahoma City supermarkets. Shoppers would not touch it. The story goes that he hired people to push carts around the aisles until everyone else joined in.",
+  "lede": "Sylvan Goldman ran the Humpty Dumpty supermarkets in Oklahoma City. He noticed customers stopped shopping once their hand baskets got heavy. In 1937, with a mechanic named Fred Young, he built a folding frame on wheels that held two baskets. It should have been a hit. Instead, shoppers walked straight past the neat row of carts.",
+  "bullets": [
+    {
+      "opening": "The folding chair idea",
+      "linkId": null,
+      "text": "Goldman said the idea came from a pair of folding wooden chairs in his office. Put wheels on the legs and a basket on the seat, and a shopper could carry far more. The carts folded flat when not in use."
+    },
+    {
+      "opening": "Why shoppers refused",
+      "linkId": null,
+      "text": "Goldman later said men felt pushing a cart made them look weak, and women felt they had pushed enough baby carriages already. Many simply did not see the point."
+    },
+    {
+      "opening": "Hired cart pushers",
+      "linkId": null,
+      "text": "His fix, as he told it, was to hire men and women of different ages to push loaded carts around the store, looking like ordinary shoppers. A greeter at the door offered real customers a cart too. Before long the carts caught on."
+    },
+    {
+      "opening": "Orla Watson's nesting cart",
+      "linkId": null,
+      "text": "Goldman's carts took up space. In 1946 Orla Watson designed a cart with a hinged back panel, so carts could slide into each other in a tidy line, the design almost every supermarket uses today."
+    }
+  ],
+  "tags": [
+    "history-of-things",
+    "inventors",
+    "design"
+  ],
+  "related": [
+    "margaret-knight-paper-bag",
+    "tupperware-parties",
+    "wheeled-suitcase",
+    "barcode-sand",
+    "shipping-container",
+    "ikea-flat-pack"
+  ]
+}

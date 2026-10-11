@@ -1,0 +1,49 @@
+{
+  "id": "montgolfier-balloon",
+  "title": "The first balloon passengers",
+  "category": "Inventions",
+  "hook": "The first passengers in a hot-air balloon were a sheep, a duck and a rooster.",
+  "peek": "In September 1783, the Montgolfier brothers sent a balloon up at Versailles in front of King Louis XVI. In the basket were a sheep, a duck and a rooster, sent to test whether living things could breathe up in the sky. All three came down safely.",
+  "lede": "In 1783 nobody knew whether the air high above the ground was safe to breathe. Joseph and Étienne Montgolfier, paper makers from Annonay in France, had already flown an unmanned hot-air balloon. Before risking a person, they sent up three animals at the Palace of Versailles on 19 September, with King Louis XVI and Marie Antoinette watching.",
+  "bullets": [
+    {
+      "opening": "The Versailles flight",
+      "linkId": null,
+      "text": "The balloon carried a sheep, a duck and a rooster in a basket. It flew for about eight minutes and came down a few kilometres away in a wood. The animals were found alive and well."
+    },
+    {
+      "opening": "Choosing the animals",
+      "linkId": null,
+      "text": "The sheep was thought to be a fair stand-in for a person. The duck, a bird used to flying high, acted as a comparison, and the rooster was a bird that does not fly high. If all three survived, the air up there was safe."
+    },
+    {
+      "opening": "Montauciel the sheep",
+      "linkId": null,
+      "text": "The sheep's name is usually given as Montauciel, meaning climb to the sky. Afterwards, the story goes, it lived out its days in the queen's menagerie."
+    },
+    {
+      "opening": "Smoke as lifting power",
+      "linkId": null,
+      "text": "The Montgolfiers believed their balloons rose because of a special gas in smoke, so they burned straw and wool. The real reason was simpler: hot air is lighter than cool air."
+    },
+    {
+      "opening": "The first human flight",
+      "linkId": null,
+      "text": "Two months later, on 21 November 1783, Jean-François Pilâtre de Rozier and the Marquis d'Arlandes flew over Paris for about 25 minutes, becoming the first people to fly."
+    }
+  ],
+  "tags": [
+    "history-of-things",
+    "inventors",
+    "records",
+    "animal-minds"
+  ],
+  "related": [
+    "hovercraft-tins",
+    "ingenuity-wright-flyer",
+    "clever-hans",
+    "draisine",
+    "kaleidoscope",
+    "ferris-wheel"
+  ]
+}

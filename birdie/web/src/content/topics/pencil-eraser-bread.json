@@ -1,0 +1,44 @@
+{
+  "id": "pencil-eraser-bread",
+  "title": "Before erasers, there was bread",
+  "category": "Inventions",
+  "hook": "For centuries, the way to rub out a pencil mistake was a ball of bread.",
+  "peek": "Before rubber reached Europe's desks, artists and clerks wiped away pencil marks with pellets of soft bread. In 1770 the scientist Joseph Priestley wrote that a South American gum did the job far better, and the material has been called rubber ever since.",
+  "lede": "Pencils became common in Europe long before anything existed to correct them. People who made a mistake took a piece of fresh bread, squashed it into a soft ball and dabbed or rubbed the graphite away. In 1770 Joseph Priestley, better known for his work on gases, noted that a gum from South America wiped pencil marks off paper remarkably well.",
+  "bullets": [
+    {
+      "opening": "Priestley's 1770 note",
+      "linkId": null,
+      "text": "Priestley described the gum in the preface to a book on drawing in perspective, and said a London instrument maker, Edward Nairne, was selling small cubes of it. Because it rubbed out marks, the material came to be called rubber, a name Priestley is usually credited with."
+    },
+    {
+      "opening": "Edward Nairne's lucky mix-up",
+      "linkId": null,
+      "text": "A popular story says Nairne discovered the trick by accident, grabbing a lump of rubber instead of his usual bread. Nobody can confirm it, but he does seem to have been among the first to sell rubber for erasing."
+    },
+    {
+      "opening": "Erasers that went sticky",
+      "linkId": "vulcanized-rubber",
+      "text": "Raw rubber had a flaw: it turned soft and tacky in summer and hard in winter. Erasers only became reliable after Charles Goodyear's vulcanised rubber in 1839, which stayed firm and springy at any temperature."
+    },
+    {
+      "opening": "Bread in the art room",
+      "linkId": null,
+      "text": "Bread never fully disappeared. Some artists still lift charcoal and soft pencil with a pinch of crustless bread, and the modern kneaded eraser does the same job: it is pressed onto the page to pick up graphite rather than scrubbed."
+    }
+  ],
+  "tags": [
+    "history-of-things",
+    "inventors",
+    "names",
+    "etymology"
+  ],
+  "related": [
+    "pencil-graphite",
+    "vulcanized-rubber",
+    "silly-putty",
+    "post-it",
+    "crayola-name",
+    "ballpoint-biro"
+  ]
+}

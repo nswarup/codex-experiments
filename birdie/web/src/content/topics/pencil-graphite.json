@@ -1,0 +1,44 @@
+{
+  "id": "pencil-graphite",
+  "title": "Pencils never had lead in them",
+  "category": "Inventions",
+  "hook": "The lead in a pencil has always been graphite. The name is a 500-year-old mix-up.",
+  "peek": "No ordinary pencil has ever contained lead. The core is graphite, a form of carbon, and the confusion dates to the 1500s, when a pure seam found in Borrowdale in the English Lake District was taken for a kind of lead ore.",
+  "lede": "Sometime in the mid-1500s, people in Borrowdale, in England's Lake District, found a seam of something black, soft and shiny that left a dark mark on whatever it touched. It looked like lead ore, so they called it black lead or plumbago, from the Latin for lead. It was actually graphite, a form of pure carbon, and pencils have used it ever since.",
+  "bullets": [
+    {
+      "opening": "The Borrowdale mine",
+      "linkId": null,
+      "text": "The Borrowdale deposit was unusually pure, solid enough to saw into sticks and wrap in string or wood. It is still the only large deposit of solid graphite of that quality ever found, and for a long time it made England the world's pencil maker."
+    },
+    {
+      "opening": "Naming graphite",
+      "linkId": null,
+      "text": "Chemists showed in 1779 that black lead was really a form of carbon, and in 1789 the geologist Abraham Werner gave it the name graphite, from the Greek word for to write. By then the word lead was stuck to the pencil."
+    },
+    {
+      "opening": "Conté's clay pencil",
+      "linkId": null,
+      "text": "In 1795, with France cut off from English graphite by war, Nicolas-Jacques Conté mixed powdered graphite with clay and baked it. The trick let him use poorer graphite, and changing the amount of clay changed how hard or soft the pencil wrote."
+    },
+    {
+      "opening": "What HB means",
+      "linkId": null,
+      "text": "Conté's recipe is still used. More clay makes a harder, paler pencil, marked H, and more graphite makes a softer, blacker one, marked B. HB sits in the middle. The word pencil itself first meant a fine artist's brush."
+    }
+  ],
+  "tags": [
+    "myths-busted",
+    "names",
+    "etymology",
+    "history-of-things"
+  ],
+  "related": [
+    "pencil-eraser-bread",
+    "ballpoint-biro",
+    "crayola-name",
+    "graphene-sticky-tape",
+    "neptune-math",
+    "space-pen-myth"
+  ]
+}

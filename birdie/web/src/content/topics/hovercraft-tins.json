@@ -1,0 +1,43 @@
+{
+  "id": "hovercraft-tins",
+  "title": "The hovercraft and the coffee tin",
+  "category": "Inventions",
+  "hook": "The hovercraft was proved in a kitchen with two tins, a blower and some scales.",
+  "peek": "In 1955, the engineer Christopher Cockerell put an empty cat-food tin inside a coffee tin, blew air between them, and weighed the push on a pair of kitchen scales. That simple test showed a craft could float on a cushion of air.",
+  "lede": "Christopher Cockerell was a radio engineer who had moved on to running a boat-hire business on the Norfolk Broads. He wanted boats to go faster by lifting them off the water. In 1955 he tested his idea with what was to hand: a cat-food tin, a coffee tin, an air blower and kitchen scales.",
+  "bullets": [
+    {
+      "opening": "The tin-in-a-tin test",
+      "linkId": null,
+      "text": "Cockerell placed the smaller tin inside the larger one, with a gap between them, and blew air down into it. The air rushed out through the narrow ring around the edge. Pointed down at a set of scales, it pushed much harder than air blown from a single open tin."
+    },
+    {
+      "opening": "The momentum curtain",
+      "linkId": null,
+      "text": "The ring of fast air acted like a curtain, trapping a cushion of higher-pressure air underneath. The craft did not need a tight seal to the ground. It could ride on air while hardly touching the surface below."
+    },
+    {
+      "opening": "Cockerell's 1955 patent",
+      "linkId": null,
+      "text": "Cockerell patented the idea in 1955. The British government briefly treated it as secret, as a possible military invention, before deciding it was mainly for civilian use and backing its development."
+    },
+    {
+      "opening": "The SR.N1 Channel crossing",
+      "linkId": null,
+      "text": "On 25 July 1959 the SR.N1 hovercraft crossed the English Channel, 50 years to the day after Louis Blériot first flew across it. Cockerell was knighted in 1969."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "experiments",
+    "history-of-things"
+  ],
+  "related": [
+    "montgolfier-balloon",
+    "frisbee-pie-tins",
+    "draisine",
+    "bubble-wrap",
+    "microwave-chocolate",
+    "shipping-container"
+  ]
+}

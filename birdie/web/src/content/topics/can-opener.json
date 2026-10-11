@@ -1,0 +1,43 @@
+{
+  "id": "can-opener",
+  "title": "The can opener came 50 years late",
+  "category": "Inventions",
+  "hook": "Tin cans arrived in 1810. A proper can opener took almost 50 more years.",
+  "peek": "The tin can was patented in Britain in 1810, but nobody patented a tool to open one until 1858. Early cans were thick and heavy, and the instructions told people to cut them open with a hammer and chisel.",
+  "lede": "In 1810 an Englishman named Peter Durand patented the idea of keeping food in sealed tin cans. Within a few years a London factory was supplying canned meat to the Royal Navy and to explorers. The cans worked, but getting into them was another matter. A tool made just for opening them was not patented until 1858.",
+  "bullets": [
+    {
+      "opening": "Bryan Donkin's cannery",
+      "linkId": null,
+      "text": "The engineer Bryan Donkin and his partners bought Durand's patent and opened a canning works in Bermondsey, London, around 1812. Their heavy cans were made of iron coated in tin, and the labels advised opening them with a chisel and hammer."
+    },
+    {
+      "opening": "Ezra Warner's 1858 opener",
+      "linkId": null,
+      "text": "Cans grew thinner and lighter by the 1850s, which finally made a hand tool practical. Ezra Warner of Waterbury, Connecticut, patented a curved blade that was jabbed into the lid and worked around the rim. It was used by soldiers during the American Civil War."
+    },
+    {
+      "opening": "William Lyman's cutting wheel",
+      "linkId": null,
+      "text": "In 1870 William Lyman patented an opener with a rolling wheel that cut around the lid, the basic idea behind most openers today. The version with a toothed wheel to grip the rim came later, in the 1920s."
+    },
+    {
+      "opening": "The ring-pull lid",
+      "linkId": null,
+      "text": "Even then, plenty of cans needed a tool. Lids that open with a ring pull, with no opener at all, only spread from the 1960s on, more than 150 years after the first can."
+    }
+  ],
+  "tags": [
+    "food-history",
+    "history-of-things",
+    "inventors"
+  ],
+  "related": [
+    "crown-cork",
+    "tetra-pak",
+    "friction-match",
+    "safety-pin",
+    "tupperware-parties",
+    "hovercraft-tins"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "friction-match",
+  "title": "John Walker's unpatented match",
+  "category": "Inventions",
+  "hook": "The first strike-anywhere match came from a chemist's shop, and he gave it away.",
+  "peek": "In 1826 John Walker, a chemist in Stockton-on-Tees, noticed a dried blob of chemicals on a stirring stick flare when it scraped the hearth. He sold the first friction matches the next year but never patented them, and others soon copied the idea.",
+  "lede": "Before 1826, lighting a fire meant a tinderbox, flint and steel, or a slow and fiddly chemical dip. John Walker, a chemist with a shop in Stockton-on-Tees in north-east England, was mixing chemicals when a dried lump on the end of his stirring stick burst into flame as it scraped across the hearth. He had made a match.",
+  "bullets": [
+    {
+      "opening": "Walker's Friction Lights",
+      "linkId": null,
+      "text": "Walker coated wooden splints with a paste of potassium chlorate and antimony sulfide. To light one, you pulled it quickly through a fold of sandpaper. Records from his shop show him selling them by April 1827, with a piece of sandpaper in each box."
+    },
+    {
+      "opening": "Never taking a patent",
+      "linkId": null,
+      "text": "Walker was encouraged to patent the invention but chose not to, and seems to have been content to sell matches over his own counter. He made little money from them and later stopped making them altogether."
+    },
+    {
+      "opening": "Samuel Jones's Lucifers",
+      "linkId": null,
+      "text": "A Londoner named Samuel Jones soon sold a near copy of the idea as Lucifers. The name stuck, and for a century many people in Britain called any match a lucifer."
+    },
+    {
+      "opening": "The Swedish safety match",
+      "linkId": null,
+      "text": "Walker's matches would light on almost any rough surface. In the 1840s and 1850s Swedish inventors, including the Lundström brothers, separated the chemicals between the match head and the side of the box, giving us the safety match."
+    }
+  ],
+  "tags": [
+    "accidents",
+    "inventors",
+    "history-of-things"
+  ],
+  "related": [
+    "can-opener",
+    "safety-pin",
+    "vulcanized-rubber",
+    "post-it",
+    "microwave-chocolate",
+    "perkin-mauve"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "draisine",
+  "title": "The bicycle with no pedals",
+  "category": "Inventions",
+  "hook": "The first bicycle had no pedals. Riders sat on it and kicked along the road.",
+  "peek": "In 1817 Karl Drais rode a wooden two-wheeled machine out of Mannheim in Germany. It had a steerable front wheel but no pedals and no chain: the rider sat astride it and pushed along the ground with their feet, much like a child's balance bike.",
+  "lede": "On 12 June 1817, Karl Drais, a forestry official in Mannheim, set off on a machine he called the Laufmaschine, or running machine. It had two wooden wheels in a line, a seat and handlebars that turned the front wheel. There were no pedals. Riders pushed off the ground with their feet and coasted, and Drais covered about 13 kilometres in a little over an hour.",
+  "bullets": [
+    {
+      "opening": "Steering on two wheels",
+      "linkId": null,
+      "text": "The big new idea was balance. By steering the front wheel, a rider could stay upright on two wheels in a line while gliding, something few people had imagined possible."
+    },
+    {
+      "opening": "Tambora and the horses",
+      "linkId": null,
+      "text": "Some historians suggest the timing was no accident. After the 1815 Tambora eruption, the cold year of 1816 brought poor harvests and expensive horse feed, and a horseless way to travel looked appealing. Others doubt the link."
+    },
+    {
+      "opening": "The dandy horse craze",
+      "linkId": null,
+      "text": "In 1819 the running machine became a fashion in London, where versions were called hobby horses or dandy horses. The craze faded fast, partly because riders took to smooth pavements and some cities banned them."
+    },
+    {
+      "opening": "Pedals in the 1860s",
+      "linkId": null,
+      "text": "Pedals did not arrive for decades. In the 1860s French makers fixed cranks to the front wheel, and the chain-driven safety bicycle of the 1880s finally gave us the familiar shape."
+    },
+    {
+      "opening": "Today's balance bike",
+      "linkId": null,
+      "text": "Drais's design lives on in the pedal-free balance bikes that young children use to learn to ride. They learn to steer and balance first, just as his riders did."
+    }
+  ],
+  "tags": [
+    "history-of-things",
+    "inventors",
+    "design"
+  ],
+  "related": [
+    "year-without-summer",
+    "frankenstein-1816",
+    "kaleidoscope",
+    "hanway-umbrella",
+    "hovercraft-tins",
+    "wheeled-suitcase"
+  ]
+}

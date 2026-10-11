@@ -1,0 +1,43 @@
+{
+  "id": "bendy-straw",
+  "title": "The bendy straw",
+  "category": "Inventions",
+  "hook": "The bendy straw was made with a screw and dental floss for a little girl.",
+  "peek": "In the 1930s, Joseph Friedman watched his young daughter struggle to drink a milkshake through a tall, straight straw. He pushed a screw into a paper straw, wound dental floss into its threads, and made a straw that could bend over the edge of the glass.",
+  "lede": "Joseph Friedman was an inventor in San Francisco. In the 1930s, at a soda fountain, he watched his young daughter Judith trying to drink through a straight paper straw that was too tall for her to reach comfortably. He took the straw home and worked out how to give it a joint that could bend without closing up.",
+  "bullets": [
+    {
+      "opening": "The screw and floss trick",
+      "linkId": null,
+      "text": "Friedman slid a screw inside a paper straw, then wrapped dental floss around the outside, pressing the paper into the screw's threads. When he removed the screw, the straw was left with a band of ridges, like a tiny accordion, that let it bend."
+    },
+    {
+      "opening": "The 1937 drinking tube patent",
+      "linkId": null,
+      "text": "Friedman patented his drinking tube in 1937. The patent describes a straw whose corrugated section can be bent to an angle and still stay open, so liquid keeps flowing."
+    },
+    {
+      "opening": "Flexible Straw Corporation",
+      "linkId": null,
+      "text": "Friedman struggled to find a manufacturer willing to take it on, so he set up his own company to make the straws. Among the first big buyers were hospitals, where the straws let people drink while lying back in bed."
+    },
+    {
+      "opening": "Machines for the ridges",
+      "linkId": null,
+      "text": "Making the ridges by hand was slow, so Friedman worked on machines to crimp straws in bulk. Plastic replaced paper later, but the accordion joint he shaped with floss is still the same idea."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "design",
+    "history-of-things"
+  ],
+  "related": [
+    "frisbee-pie-tins",
+    "safety-pin",
+    "crown-cork",
+    "tetra-pak",
+    "gem-paper-clip",
+    "margaret-knight-paper-bag"
+  ]
+}

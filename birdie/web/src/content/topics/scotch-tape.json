@@ -1,0 +1,44 @@
+{
+  "id": "scotch-tape",
+  "title": "Why it's called Scotch tape",
+  "category": "Inventions",
+  "hook": "Scotch tape is named after a car painter's grumble that the glue was too stingy.",
+  "peek": "In the 1920s, a 3M lab worker named Richard Drew made masking tape for car painters. The first rolls had glue only along the edges, and an annoyed painter told him to take it back to his Scotch bosses, using Scotch as slang for stingy.",
+  "lede": "In the mid-1920s two-tone cars were fashionable, and painters struggled to get a clean line between colours. Richard Drew, a young lab worker at 3M in Minnesota, saw the problem while testing sandpaper at car body shops and set out to make a gentle tape. The name it ended up with came from a complaint.",
+  "bullets": [
+    {
+      "opening": "Richard Drew's masking tape",
+      "linkId": null,
+      "text": "Drew's tape was a strip of paper with a pressure-sensitive glue that lifted off without peeling the paint. Finished in 1925, it is often described as the first masking tape made for the job."
+    },
+    {
+      "opening": "The painter's complaint",
+      "linkId": null,
+      "text": "According to 3M's own history, early test rolls had glue only along the edges to save money. When the tape fell off, a painter told the salesman to take it back to his Scotch bosses and get more glue on it. Scotch was then a slang jab for stingy."
+    },
+    {
+      "opening": "Moisture-proof cellophane tape",
+      "linkId": "cellophane",
+      "text": "In 1930 Drew made a clear version using DuPont's new moisture-proof cellophane. Sold as Scotch Cellulose Tape, it arrived during the Depression, when people used it to mend books, toys and torn pages instead of buying new ones."
+    },
+    {
+      "opening": "Tartan on the box",
+      "linkId": null,
+      "text": "The jibe became a brand. 3M kept the Scotch name, added a tartan pattern to its packaging, and today the name also sits on its Scotch-Brite scouring pads."
+    }
+  ],
+  "tags": [
+    "names",
+    "etymology",
+    "inventors",
+    "accidents"
+  ],
+  "related": [
+    "cellophane",
+    "post-it",
+    "graphene-sticky-tape",
+    "escalator-trademark",
+    "bubble-wrap",
+    "wd-40"
+  ]
+}

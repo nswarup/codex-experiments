@@ -1,0 +1,49 @@
+{
+  "id": "ballpoint-biro",
+  "title": "The biro and the newspaper ink",
+  "category": "Inventions",
+  "hook": "The ballpoint pen began with a journalist annoyed by smudged fountain pen ink.",
+  "peek": "László Bíró was a Hungarian journalist who noticed that the ink used to print newspapers dried fast and stayed put. With his chemist brother he designed a pen with a tiny rolling ball to carry that thick ink, and in Britain his surname still means pen.",
+  "lede": "In the 1930s László Bíró worked as a journalist in Budapest, where fountain pens leaked, smudged and needed constant refilling. The usual story is that he noticed newspaper ink dried almost at once, leaving the page clean. That ink was too thick to flow through a nib, so he needed a different way to put it on paper: a small metal ball in a socket.",
+  "bullets": [
+    {
+      "opening": "György Bíró's ink",
+      "linkId": null,
+      "text": "László's brother György, a chemist, helped work out an ink thick enough to stay in the pen but fluid enough to roll onto paper. The brothers took out a British patent in 1938."
+    },
+    {
+      "opening": "John Loud's 1888 patent",
+      "linkId": null,
+      "text": "The Bírós were not the first. An American, John Loud, patented a ballpoint in 1888 for marking leather, but it was too coarse for writing on paper. The Bírós' version was the first to work well for handwriting."
+    },
+    {
+      "opening": "The Biro in Argentina",
+      "linkId": null,
+      "text": "The brothers left Europe in the early 1940s and settled in Argentina, where they produced their pen. Argentina marks its Inventors' Day on 29 September, László Bíró's birthday."
+    },
+    {
+      "opening": "Pens for RAF crews",
+      "linkId": null,
+      "text": "The British businessman Henry Martin bought rights to the design, and the Royal Air Force took it up because, unlike fountain pens, it did not leak at high altitude. That wartime use helped make Biro an everyday word for any ballpoint."
+    },
+    {
+      "opening": "Marcel Bich's Bic",
+      "linkId": null,
+      "text": "In France, Marcel Bich paid to use the Bírós' patent and launched the cheap Bic Cristal in 1950. It became one of the best-selling pens ever made."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "names",
+    "design",
+    "history-of-things"
+  ],
+  "related": [
+    "pencil-graphite",
+    "space-pen-myth",
+    "aldrin-felt-pen",
+    "escalator-trademark",
+    "pencil-eraser-bread",
+    "qwerty"
+  ]
+}
