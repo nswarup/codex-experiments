@@ -1,0 +1,43 @@
+{
+  "id": "otis-safety-elevator",
+  "title": "Elisha Otis cuts the rope",
+  "category": "Inventions",
+  "hook": "Lifts won people's trust when a man stood on one and had its rope cut.",
+  "peek": "At a New York fair in 1854, Elisha Otis rode a platform high above the crowd and ordered the only rope holding it to be cut. It dropped a few inches and stopped. That brake is why tall buildings could fill with people.",
+  "lede": "Hoists for goods were already common in the 1850s, but nobody wanted to ride one, because a snapped rope meant a long fall. Elisha Otis, a mechanic from Vermont, had built a brake that worked without any help from the rope. At New York's Crystal Palace exhibition in 1854 he proved it in the most theatrical way he could think of.",
+  "bullets": [
+    {
+      "opening": "The Crystal Palace demonstration",
+      "linkId": null,
+      "text": "Otis stood on an open platform raised high in the hall, then had an assistant cut the hoisting rope with an axe. The platform dropped a short way and held. He is said to have called out to the crowd, \"All safe, gentlemen, all safe.\""
+    },
+    {
+      "opening": "The wagon spring brake",
+      "linkId": null,
+      "text": "The trick was a strong spring kept bent by the pull of the rope. If the rope went slack, the spring snapped outward and pushed catches into toothed rails on both sides of the shaft, locking the platform in place."
+    },
+    {
+      "opening": "A Yonkers bedstead factory",
+      "linkId": null,
+      "text": "Otis first built the brake around 1852 for a bed-frame factory in Yonkers, New York, where he needed to lift heavy equipment to an upper floor safely. Orders came slowly until the fair made his name."
+    },
+    {
+      "opening": "The Haughwout Building lift",
+      "linkId": null,
+      "text": "In 1857 the first public passenger lift with his brake opened in a five-storey china shop on Broadway in Manhattan. Once riding up felt safe, buildings were no longer limited by how many stairs people would climb."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "architecture",
+    "history-of-things",
+    "safety"
+  ],
+  "related": [
+    "escalator-trademark",
+    "ferris-wheel",
+    "laminated-glass",
+    "carrier-air-conditioning",
+    "safety-pin"
+  ]
+}

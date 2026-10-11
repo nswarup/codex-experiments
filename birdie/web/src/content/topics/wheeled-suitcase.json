@@ -1,0 +1,43 @@
+{
+  "id": "wheeled-suitcase",
+  "title": "Suitcases got wheels after the Moon landing",
+  "category": "Inventions",
+  "hook": "People walked on the Moon before suitcases had wheels for everyone.",
+  "peek": "In 1970, a year after the first Moon landing, an American luggage executive put four wheels on a suitcase and pulled it along on a strap. Shops first said nobody would want one. Pulling, he was told, was not something men would do.",
+  "lede": "For most of the 20th century travellers carried their bags or paid a porter. In 1970 Bernard Sadow, a vice-president at a Massachusetts luggage company, was hauling two heavy cases through an airport on the way home from a holiday in Aruba. He saw a worker rolling a heavy machine on a wheeled skid, and the idea struck him.",
+  "bullets": [
+    {
+      "opening": "Bernard Sadow's rolling luggage",
+      "linkId": null,
+      "text": "Back at work, Sadow took casters off a wardrobe trunk and fixed them to a suitcase, adding a strap to pull it. He applied for a patent in 1970, and it was granted in 1972."
+    },
+    {
+      "opening": "Department store doubts",
+      "linkId": null,
+      "text": "Sadow later recalled that buyers at big stores turned the case down, telling him men would not pull their luggage. Macy's eventually agreed to sell it, and it began to catch on."
+    },
+    {
+      "opening": "Earlier wheeled cases",
+      "linkId": null,
+      "text": "Sadow was not the first to try. Earlier patents had already shown luggage on wheels, but none caught on. Long walks through big airports in the 1970s helped his version succeed."
+    },
+    {
+      "opening": "Robert Plath's Rollaboard",
+      "linkId": null,
+      "text": "Sadow's case lay flat on four wheels and tended to tip. In 1987 the airline pilot Robert Plath stood a case upright on two wheels with a telescoping handle, the design most cases follow today."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "design",
+    "history-of-things",
+    "travel"
+  ],
+  "related": [
+    "shopping-cart",
+    "shipping-container",
+    "draisine",
+    "escalator-trademark",
+    "aldrin-felt-pen"
+  ]
+}

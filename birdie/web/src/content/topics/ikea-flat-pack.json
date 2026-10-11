@@ -1,0 +1,43 @@
+{
+  "id": "ikea-flat-pack",
+  "title": "How IKEA found the flat pack",
+  "category": "Inventions",
+  "hook": "IKEA's flat pack started when a designer took the legs off a table.",
+  "peek": "In 1956 an IKEA designer could not fit a table into a car after a photo shoot, so he unscrewed its legs. The moment became company legend, and boxes of furniture you build at home became IKEA's whole way of working.",
+  "lede": "In 1956 Gillis Lundgren, a draughtsman at the young Swedish company IKEA, had a table photographed for the catalogue. Afterwards it would not fit into the car. As IKEA tells the story, he took the legs off so it could ride home, and someone realised that a table which came apart could also ship flat and cheaply.",
+  "bullets": [
+    {
+      "opening": "The Lövet table",
+      "linkId": null,
+      "text": "The table was Lövet, meaning leaf, a small side table with a leaf-shaped top. It became IKEA's first flat-pack product, and the company reissued it in 2016 for its 60th birthday under the name Lövbacken."
+    },
+    {
+      "opening": "Not the first flat pack",
+      "linkId": "thonet-no-14",
+      "text": "IKEA did not invent the idea. Furniture had been shipped in pieces before, from Thonet's café chairs in the 1800s onward. IKEA's change was building its whole business around it."
+    },
+    {
+      "opening": "Savings in the box",
+      "linkId": null,
+      "text": "Flat boxes take far less space in lorries and warehouses, and customers do the assembly. Those savings let IKEA keep its prices low, which was founder Ingvar Kamprad's main goal."
+    },
+    {
+      "opening": "Gillis Lundgren's Billy bookcase",
+      "linkId": null,
+      "text": "Lundgren stayed with IKEA for decades and designed hundreds of pieces. In 1979 he created the Billy bookcase, which went on to sell many tens of millions of copies around the world."
+    }
+  ],
+  "tags": [
+    "design",
+    "history-of-things",
+    "furniture",
+    "inventors"
+  ],
+  "related": [
+    "thonet-no-14",
+    "shipping-container",
+    "lego-brick-1958",
+    "tupperware-parties",
+    "post-it"
+  ]
+}

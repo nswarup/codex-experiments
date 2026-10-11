@@ -1,0 +1,44 @@
+{
+  "id": "shipping-container",
+  "title": "The shipping container",
+  "category": "Inventions",
+  "hook": "A trucker's plain metal box made it cheap to ship almost anything.",
+  "peek": "In 1956 a converted tanker sailed from New Jersey to Texas carrying 58 metal boxes. The idea behind them, loading the box and never the goods, made world trade far cheaper and changed how ports and cities look.",
+  "lede": "Before the 1950s, ships were loaded by hand, one sack, crate and barrel at a time, and a vessel could spend days in port. Malcom McLean, who ran a trucking company in North Carolina, thought it would be simpler to lift whole truck trailers onto a ship. On 26 April 1956 he tried it, and the box replaced the bundle.",
+  "bullets": [
+    {
+      "opening": "The Ideal X voyage",
+      "linkId": null,
+      "text": "McLean bought an old wartime tanker, the Ideal X, and fitted it with a deck to carry 58 trailer bodies. It sailed from Port Newark in New Jersey to Houston, Texas, where trucks met the boxes and drove them away."
+    },
+    {
+      "opening": "Sixteen cents a ton",
+      "linkId": null,
+      "text": "McLean later worked out that loose cargo had cost about 5.83 dollars a ton to load, while his boxes cost under 16 cents. That cut, of more than 95 percent, is the heart of the container's story."
+    },
+    {
+      "opening": "Keith Tantlinger's corner fittings",
+      "linkId": null,
+      "text": "Engineer Keith Tantlinger designed strong steel corners and twist locks that let boxes be lifted by cranes and stacked tightly. McLean later released the patents, which helped containers from different companies fit together."
+    },
+    {
+      "opening": "The twenty-foot equivalent unit",
+      "linkId": null,
+      "text": "Standard sizes were agreed in the 1960s, and ships are still measured in TEU, or twenty-foot equivalent units. The largest container ships now carry more than 20,000 of them."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "design",
+    "scale",
+    "history-of-things"
+  ],
+  "related": [
+    "ikea-flat-pack",
+    "barcode-sand",
+    "tetra-pak",
+    "shopping-cart",
+    "wheeled-suitcase",
+    "otis-safety-elevator"
+  ]
+}

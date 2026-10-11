@@ -1,0 +1,43 @@
+{
+  "id": "christmas-cracker",
+  "title": "Tom Smith's Christmas cracker",
+  "category": "Inventions",
+  "hook": "The Christmas cracker began as a sweet wrapped in a twist of paper.",
+  "peek": "In Victorian London, a sweet-maker called Tom Smith tried to sell more bonbons by wrapping them with little love notes. Later he added a small bang, and the paper hats and jokes came after that. The cracker grew one piece at a time.",
+  "lede": "Tom Smith was a London confectioner. On a trip to Paris around 1840 he saw sugared almonds sold wrapped in twists of tissue paper, and he started selling his own bonbons that way. They sold well at Christmas but slowly the rest of the year, so he went looking for a gimmick. The cracker was built up from that wrapped sweet over the next few decades.",
+  "bullets": [
+    {
+      "opening": "Love mottoes in the wrapper",
+      "linkId": null,
+      "text": "Smith first tucked short messages, often little love verses, inside the paper around each sweet. The mottoes are the ancestor of the jokes and riddles found in crackers today."
+    },
+    {
+      "opening": "The crackling log story",
+      "linkId": null,
+      "text": "According to the company's own story, Smith hit on the bang while listening to a log crackle on his fire. It is a charming tale, but there is no record to confirm it."
+    },
+    {
+      "opening": "The cracker snap",
+      "linkId": null,
+      "text": "The bang comes from a cracker snap: two thin strips of card that overlap, with a tiny amount of a friction-sensitive chemical between them. When two people pull, the strips rub apart and give a sharp crack."
+    },
+    {
+      "opening": "Walter Smith's paper hats",
+      "linkId": null,
+      "text": "Around 1900 his son Walter Smith, who took over the business, dropped the sweet and added paper hats and small gifts. Those, with the mottoes and the snap, are what still fill a cracker today."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "food-history",
+    "history-of-things",
+    "holidays"
+  ],
+  "related": [
+    "snow-globe",
+    "fortune-cookies",
+    "friction-match",
+    "crown-cork",
+    "tupperware-parties"
+  ]
+}

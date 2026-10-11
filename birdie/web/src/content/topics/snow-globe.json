@@ -1,0 +1,43 @@
+{
+  "id": "snow-globe",
+  "title": "The snow globe was meant to be a lamp",
+  "category": "Inventions",
+  "hook": "A Viennese snow globe grew out of an attempt to make a brighter lamp.",
+  "peek": "Around 1900 an instrument maker in Vienna, Erwin Perzy, was trying to make electric light brighter with a glass ball of water. The flakes he floated in it looked like falling snow. His family still makes snow globes in the same city.",
+  "lede": "Around 1900 Erwin Perzy, a Viennese maker of surgical instruments, was asked for a brighter light. Early electric bulbs were dim, and he tried putting a water-filled glass globe in front of one, a trick cobblers had long used with candles. To scatter more light he added tiny white flakes, including semolina. They did not help the lamp, but they drifted down like snow.",
+  "bullets": [
+    {
+      "opening": "Not the first snow globe",
+      "linkId": null,
+      "text": "Perzy did not invent the idea outright. Water-filled domes with falling flakes were already shown at the Paris exhibition of 1878. Perzy's version has a separate origin, and he received an early Austrian patent for a snow globe."
+    },
+    {
+      "opening": "The Mariazell Basilica globe",
+      "linkId": null,
+      "text": "Perzy's first globes held a tiny model of the basilica at Mariazell, a pilgrimage town in Austria, sold as a souvenir. Souvenir scenes remain the snow globe's classic use."
+    },
+    {
+      "opening": "The secret snow recipe",
+      "linkId": null,
+      "text": "Semolina was soon replaced. The family's modern flakes are a closely guarded mixture that sinks slowly and does not yellow in the water, and its recipe has never been made public."
+    },
+    {
+      "opening": "Original Vienna Snow Globes",
+      "linkId": null,
+      "text": "The workshop Perzy founded in Vienna is still run by his family, now with his grandson Erwin Perzy III. It still makes its globes by hand."
+    }
+  ],
+  "tags": [
+    "accidents",
+    "inventors",
+    "history-of-things",
+    "holidays"
+  ],
+  "related": [
+    "christmas-cracker",
+    "kaleidoscope",
+    "lava-lamp",
+    "snowflake-bentley",
+    "etch-a-sketch"
+  ]
+}

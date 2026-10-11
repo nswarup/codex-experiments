@@ -1,0 +1,44 @@
+{
+  "id": "wd-40",
+  "title": "WD-40's name",
+  "category": "Inventions",
+  "hook": "WD-40 is named after the 40th attempt at a recipe, the one that worked.",
+  "peek": "In 1953 three people at a small San Diego firm set out to make a coating that would keep water off metal. They kept trying until a formula worked, and they named it after both the job and the attempt: Water Displacement, 40th formula.",
+  "lede": "The Rocket Chemical Company in San Diego had a staff of three in 1953. Its aim was a spray that would push water off metal and stop rust. The chemist credited with the result, Norm Larsen, is said to have needed 40 tries to get it right. The name in the lab book, Water Displacement 40th formula, became WD-40.",
+  "bullets": [
+    {
+      "opening": "The Atlas rocket skin",
+      "linkId": null,
+      "text": "The first big customer was the aerospace firm Convair, which used WD-40 to protect the thin outer metal skin of the Atlas rocket from moisture and rust."
+    },
+    {
+      "opening": "Smuggled out in lunch boxes",
+      "linkId": null,
+      "text": "According to the company's own history, workers took cans home to use around the house. That hint of demand led the firm to sell WD-40 in aerosol cans to the public from 1958."
+    },
+    {
+      "opening": "A recipe never patented",
+      "linkId": null,
+      "text": "WD-40 was never patented, because a patent would have meant publishing the recipe. The company keeps the formula as a trade secret instead, with only a few people said to know it."
+    },
+    {
+      "opening": "The WD-40 Company",
+      "linkId": null,
+      "text": "The product did so well that in 1969 Rocket Chemical renamed itself the WD-40 Company, after its only product. It is still based in San Diego."
+    }
+  ],
+  "tags": [
+    "names",
+    "inventors",
+    "history-of-things",
+    "chemistry"
+  ],
+  "related": [
+    "velcro",
+    "teflon",
+    "scotch-tape",
+    "silly-putty",
+    "post-it",
+    "bubble-wrap"
+  ]
+}

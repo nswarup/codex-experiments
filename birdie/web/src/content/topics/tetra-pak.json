@@ -1,0 +1,44 @@
+{
+  "id": "tetra-pak",
+  "title": "The first Tetra Pak was a tetrahedron",
+  "category": "Inventions",
+  "hook": "Tetra Pak is named after its first carton, a little four-sided pyramid.",
+  "peek": "Long before the familiar brick, Tetra Pak sold milk and cream in paper pyramids. The shape came from a clever way of folding and sealing a paper tube, and it gave the Swedish company its name.",
+  "lede": "In 1940s Sweden, Ruben Rausing wanted a cheap paper package for milk that used as little material as possible. His team found that a tube of coated paper, filled with liquid and pinched shut across its width, could be sealed again a little further down at right angles to the first seal. Each pinched section became a tetrahedron, a pyramid with four triangular faces.",
+  "bullets": [
+    {
+      "opening": "Erik Wallenberg's paper tube",
+      "linkId": null,
+      "text": "The tetrahedron idea is credited to Erik Wallenberg, a young lab assistant in Rausing's company, who worked it out in 1944. Rausing patented the method and spent years turning it into a working machine."
+    },
+    {
+      "opening": "Filling below the surface",
+      "linkId": null,
+      "text": "The machine filled the tube continuously and made each seal through the liquid itself, below its surface. That left almost no air in the finished pack, which helped milk and cream stay fresh for longer."
+    },
+    {
+      "opening": "The first Lund dairy delivery",
+      "linkId": null,
+      "text": "Tetra Pak was founded in Lund in 1951, and in 1952 its first machine went to a local dairy, which used it to pack cream. The pyramids soon spread to milk across Sweden."
+    },
+    {
+      "opening": "Hexagonal crates",
+      "linkId": null,
+      "text": "Pyramids do not stack neatly, so the company designed six-sided crates that held them in rows. In 1963 it launched the Tetra Brik, the rectangular carton that now fills supermarket shelves, but kept the pyramid's name."
+    }
+  ],
+  "tags": [
+    "names",
+    "design",
+    "food-history",
+    "packaging"
+  ],
+  "related": [
+    "crown-cork",
+    "cellophane",
+    "tupperware-parties",
+    "bubble-wrap",
+    "thermos-dewar",
+    "shipping-container"
+  ]
+}

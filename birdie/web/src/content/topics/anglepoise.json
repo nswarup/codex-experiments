@@ -1,0 +1,43 @@
+{
+  "id": "anglepoise",
+  "title": "The Anglepoise lamp's springs",
+  "category": "Inventions",
+  "hook": "A desk lamp that stays where you point it came from a car suspension engineer.",
+  "peek": "George Carwardine spent his working life on vehicle suspension. In the early 1930s he used what he knew about springs to build a jointed arm that holds any position, and the Anglepoise desk lamp was born.",
+  "lede": "George Carwardine was an English engineer who specialised in car suspension. He was not trying to make a lamp. He wanted an arm that could be moved freely yet stay put wherever it was left, like a human limb held by its muscles. His answer, patented in 1932, balanced each joint with springs, and the first thing he fitted to the end was a light.",
+  "bullets": [
+    {
+      "opening": "Balancing the arm with springs",
+      "linkId": null,
+      "text": "The springs are arranged so their pull matches the weight of the arm at every angle. Nothing has to be clamped or tightened, so the lamp can be pushed into a new position with one finger and stays there."
+    },
+    {
+      "opening": "Herbert Terry and Sons",
+      "linkId": null,
+      "text": "Carwardine licensed the design to Herbert Terry and Sons, a spring maker in Redditch, which already supplied his springs. In 1935 Terry's launched the four-spring Anglepoise Model 1227 for homes and offices."
+    },
+    {
+      "opening": "The Luxo L-1 lamp",
+      "linkId": null,
+      "text": "In 1937 the Norwegian Jac Jacobsen licensed Carwardine's design and adapted it as the Luxo L-1. That lamp is the one Pixar animated in its 1986 short Luxo Jr., which is why a hopping lamp opens Pixar films."
+    },
+    {
+      "opening": "Carwardine's suspension know-how",
+      "linkId": null,
+      "text": "The title is a slight stretch: the springs were new ones designed for the lamp, not parts taken from a car. What came from cars was Carwardine's know-how about how springs carry a load."
+    }
+  ],
+  "tags": [
+    "design",
+    "inventors",
+    "light",
+    "history-of-things"
+  ],
+  "related": [
+    "thonet-no-14",
+    "ikea-flat-pack",
+    "lava-lamp",
+    "slinky",
+    "centennial-light"
+  ]
+}

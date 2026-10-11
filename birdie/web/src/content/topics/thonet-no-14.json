@@ -1,0 +1,43 @@
+{
+  "id": "thonet-no-14",
+  "title": "The Thonet No. 14 café chair",
+  "category": "Inventions",
+  "hook": "A café chair from 1859 was made of six pieces and shipped in a kit.",
+  "peek": "The Thonet No. 14 is the curved wooden chair of countless cafés. Michael Thonet's firm made it from a few pieces of steam-bent beech, so it could be packed flat, with dozens of chairs travelling in a single crate.",
+  "lede": "In 1859 the Viennese furniture maker Michael Thonet and his sons released chair No. 14. Instead of carving joints, they steamed rods of beech until they could be bent into curves, then held them in iron moulds to dry. The chair needed just six wooden parts, a handful of screws and a couple of nuts, and it became one of the most successful chairs ever made.",
+  "bullets": [
+    {
+      "opening": "Steam-bent beech",
+      "linkId": null,
+      "text": "Steaming softened the wood so it could be bent into tight curves without snapping. Thonet's firm improved the method with metal straps along the outside of each rod, which stopped the wood from splitting as it bent."
+    },
+    {
+      "opening": "Thirty-six chairs a crate",
+      "linkId": null,
+      "text": "Because it came apart into a few pieces, the chair could be shipped unassembled. Thonet's own figure was 36 chairs in a crate of one cubic metre, put together at the café or shop that bought them."
+    },
+    {
+      "opening": "The bistro chair",
+      "linkId": null,
+      "text": "Cheap, light and tough, No. 14 spread through cafés across Europe and beyond, which is why it is often called the bistro chair. By one widely repeated count, about 50 million had been sold by 1930."
+    },
+    {
+      "opening": "Le Corbusier's praise",
+      "linkId": null,
+      "text": "The architect Le Corbusier admired its plain, honest design and used Thonet chairs in his buildings. The chair is still made today, now sold as model 214."
+    }
+  ],
+  "tags": [
+    "design",
+    "inventors",
+    "history-of-things",
+    "furniture"
+  ],
+  "related": [
+    "ikea-flat-pack",
+    "anglepoise",
+    "shipping-container",
+    "helvetica",
+    "levis-rivet"
+  ]
+}

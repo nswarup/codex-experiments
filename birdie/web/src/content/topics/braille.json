@@ -1,0 +1,43 @@
+{
+  "id": "braille",
+  "title": "Louis Braille's teenage invention",
+  "category": "Inventions",
+  "hook": "The reading system used by blind people worldwide was invented by a teenager.",
+  "peek": "Louis Braille was about 15 when he worked out a way to write with patterns of six raised dots. He built it by simplifying a clumsy code of raised dots invented by a French army captain, and it is still used two centuries later.",
+  "lede": "Louis Braille lost his sight as a small child and went to the Royal Institute for Blind Youth in Paris. The school's books used large embossed letters, which were slow to read by touch and expensive to make. Around 1824, when he was about 15, Braille began to design something better: a code of raised dots that a single fingertip could read at once.",
+  "bullets": [
+    {
+      "opening": "Charles Barbier's night writing",
+      "linkId": null,
+      "text": "The starting point was a system of raised dots by Charles Barbier, a former artillery captain, who presented it to the school. He promoted it for silent reading in the dark, though whether soldiers ever really used it is uncertain."
+    },
+    {
+      "opening": "The six-dot cell",
+      "linkId": null,
+      "text": "Barbier's code used cells of up to 12 dots that stood for sounds, too large to feel in one touch. Braille cut the cell to six dots, two columns of three, giving 63 patterns for letters, numbers and punctuation."
+    },
+    {
+      "opening": "Braille's 1829 book",
+      "linkId": null,
+      "text": "Braille published his method in 1829, at about 20. He later added ways to write music, since he was a keen musician and played the organ in Paris churches."
+    },
+    {
+      "opening": "Official adoption in 1854",
+      "linkId": null,
+      "text": "The school's own staff were slow to accept dots, and for years pupils used them partly in secret. France officially adopted braille in 1854, and versions of the code now exist for most of the world's languages."
+    }
+  ],
+  "tags": [
+    "inventors",
+    "communication",
+    "patterns",
+    "history-of-things"
+  ],
+  "related": [
+    "qwerty",
+    "phone-keypad-layout",
+    "helvetica",
+    "quipu-knots",
+    "silbo-gomero"
+  ]
+}
