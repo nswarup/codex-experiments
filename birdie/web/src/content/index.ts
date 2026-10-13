@@ -42,7 +42,7 @@ export function loadBody(id: string): Promise<Topic | undefined> {
   if (!load) return Promise.resolve(undefined);
   const p = load()
     .then((raw) => {
-      const t: Topic = { ...smartTopic(raw), words: CORPUS_BY_ID[id]?.words };
+      const t: Topic = { ...smartTopic(raw), words: CORPUS_BY_ID[id]?.words, surprise: CORPUS_BY_ID[id]?.surprise };
       bodies.set(id, t);
       listeners.forEach((l) => l());
       return t;

@@ -39,5 +39,6 @@
     "fifty-two-factorial",
     "largest-known-prime",
     "shannon-number"
-  ]
+  ],
+  "surprise": 4
 }

@@ -40,5 +40,6 @@
     "contract-bridge-cruise",
     "elo-rating",
     "moksha-patam"
-  ]
+  ],
+  "surprise": 5
 }

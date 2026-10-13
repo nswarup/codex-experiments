@@ -39,5 +39,6 @@
     "kaprekar-constant",
     "game-of-life",
     "largest-known-prime"
-  ]
+  ],
+  "surprise": 2
 }

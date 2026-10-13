@@ -44,5 +44,6 @@
     "coastline-paradox",
     "game-of-life",
     "galton-board"
-  ]
+  ],
+  "surprise": 4
 }

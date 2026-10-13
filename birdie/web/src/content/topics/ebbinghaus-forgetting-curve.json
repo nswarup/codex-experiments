@@ -39,5 +39,6 @@
     "memory-palace",
     "tip-of-the-tongue",
     "zeigarnik-effect"
-  ]
+  ],
+  "surprise": 2
 }

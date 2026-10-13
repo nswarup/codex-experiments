@@ -38,5 +38,6 @@
     "illiac-suite",
     "eliza-chatbot",
     "fantasia-hp-oscillators"
-  ]
+  ],
+  "surprise": 2
 }

@@ -39,5 +39,6 @@
     "galton-board",
     "monte-carlo-black-26",
     "reuleaux-triangle"
-  ]
+  ],
+  "surprise": 3
 }

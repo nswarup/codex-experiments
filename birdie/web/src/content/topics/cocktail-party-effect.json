@@ -40,5 +40,6 @@
     "invisible-gorilla",
     "stroop-effect",
     "baader-meinhof"
-  ]
+  ],
+  "surprise": 2
 }

@@ -39,5 +39,6 @@
     "testing-effect",
     "ebbinghaus-forgetting-curve",
     "doorway-effect"
-  ]
+  ],
+  "surprise": 2
 }

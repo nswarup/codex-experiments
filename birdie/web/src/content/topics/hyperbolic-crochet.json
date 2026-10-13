@@ -39,5 +39,6 @@
     "mandelbrot-set",
     "coastline-paradox",
     "fibonacci-sunflowers"
-  ]
+  ],
+  "surprise": 4
 }

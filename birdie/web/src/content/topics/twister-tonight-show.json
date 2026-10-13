@@ -39,5 +39,6 @@
     "trivial-pursuit-scrabble",
     "uno-stacking",
     "jenga-name"
-  ]
+  ],
+  "surprise": 5
 }

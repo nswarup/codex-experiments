@@ -22,6 +22,18 @@
       "text": "The story usually told is that Cerf never actually handed over the 50 dollars. Seuss came out well ahead anyway, since the book became one of the best-selling children's books in English."
     }
   ],
-  "tags": ["childrens-books", "writers", "constraints", "words"],
-  "related": ["toki-pona", "buffalo-sentence", "scrabble-letters", "semantic-satiation", "fortune-cookies"]
+  "tags": [
+    "childrens-books",
+    "writers",
+    "constraints",
+    "words"
+  ],
+  "related": [
+    "toki-pona",
+    "buffalo-sentence",
+    "scrabble-letters",
+    "semantic-satiation",
+    "fortune-cookies"
+  ],
+  "surprise": 2
 }

@@ -39,5 +39,6 @@
     "cocktail-party-effect",
     "stroop-effect",
     "spotlight-effect"
-  ]
+  ],
+  "surprise": 1
 }

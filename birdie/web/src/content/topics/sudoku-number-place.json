@@ -39,5 +39,6 @@
     "wordle",
     "fifteen-puzzle",
     "magic-8-ball"
-  ]
+  ],
+  "surprise": 3
 }

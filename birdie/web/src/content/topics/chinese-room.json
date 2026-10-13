@@ -39,5 +39,6 @@
     "clever-hans",
     "mechanical-turk",
     "libet-experiment"
-  ]
+  ],
+  "surprise": 2
 }

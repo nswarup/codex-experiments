@@ -45,5 +45,6 @@
     "turing-imitation-game",
     "clever-hans",
     "recaptcha-books"
-  ]
+  ],
+  "surprise": 1
 }

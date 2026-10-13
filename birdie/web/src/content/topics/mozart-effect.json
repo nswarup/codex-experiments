@@ -39,5 +39,6 @@
     "ego-depletion",
     "mozart-starling",
     "marshmallow-test"
-  ]
+  ],
+  "surprise": 1
 }

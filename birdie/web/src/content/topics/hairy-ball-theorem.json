@@ -34,5 +34,6 @@
     "four-color-theorem",
     "konigsberg-bridges",
     "banach-tarski-paradox"
-  ]
+  ],
+  "surprise": 3
 }

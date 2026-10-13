@@ -44,5 +44,6 @@
     "coffee-ring-effect",
     "galton-board",
     "pringles-shape"
-  ]
+  ],
+  "surprise": 3
 }

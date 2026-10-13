@@ -44,5 +44,6 @@
     "monty-hall",
     "shannon-number",
     "tulip-mania"
-  ]
+  ],
+  "surprise": 2
 }

@@ -40,5 +40,6 @@
     "shannon-number",
     "gardner-mathematical-games",
     "game-of-life"
-  ]
+  ],
+  "surprise": 5
 }

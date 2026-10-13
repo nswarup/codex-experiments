@@ -39,5 +39,6 @@
     "birthday-paradox",
     "monty-hall",
     "gods-number"
-  ]
+  ],
+  "surprise": 3
 }

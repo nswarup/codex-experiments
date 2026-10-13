@@ -40,5 +40,6 @@
     "infinite-monkey-theorem",
     "bayes-theorem",
     "buffons-needle"
-  ]
+  ],
+  "surprise": 4
 }

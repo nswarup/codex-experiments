@@ -28,7 +28,7 @@ function corpusIndex() {
         const t = JSON.parse(fs.readFileSync(file, "utf8"));
         const words =
           (t.lede.match(WORD)?.length ?? 0) + t.bullets.reduce((n: number, b: { text: string }) => n + (b.text.match(WORD)?.length ?? 0), 0);
-        return { id: t.id, title: t.title, category: t.category, hook: t.hook, peek: t.peek, tags: t.tags, related: t.related, words };
+        return { id: t.id, title: t.title, category: t.category, hook: t.hook, peek: t.peek, tags: t.tags, related: t.related, words, surprise: t.surprise };
       });
       return `export default ${JSON.stringify(index)};`;
     },

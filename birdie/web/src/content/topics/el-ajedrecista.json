@@ -39,5 +39,6 @@
     "shannon-number",
     "menace-matchboxes",
     "alphazero-chess"
-  ]
+  ],
+  "surprise": 5
 }

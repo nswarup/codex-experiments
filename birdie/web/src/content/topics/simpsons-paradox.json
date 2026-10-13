@@ -39,5 +39,6 @@
     "bayes-theorem",
     "benfords-law",
     "monty-hall"
-  ]
+  ],
+  "surprise": 2
 }

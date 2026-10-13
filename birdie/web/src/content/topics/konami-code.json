@@ -39,5 +39,6 @@
     "missingno",
     "game-and-watch",
     "space-invaders-speedup"
-  ]
+  ],
+  "surprise": 3
 }

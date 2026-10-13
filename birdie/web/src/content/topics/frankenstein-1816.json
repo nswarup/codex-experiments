@@ -27,6 +27,18 @@
       "text": "In his 1973 history of the genre, Billion Year Spree, the writer Brian Aldiss argued that Frankenstein was the first true science fiction novel, because its wonder comes from a scientist's experiment rather than magic. Many critics now agree."
     }
   ],
-  "tags": ["science-fiction", "weather", "origins", "writers"],
-  "related": ["year-without-summer", "overview-effect", "point-nemo", "olbers-paradox", "harrison-clocks"]
+  "tags": [
+    "science-fiction",
+    "weather",
+    "origins",
+    "writers"
+  ],
+  "related": [
+    "year-without-summer",
+    "overview-effect",
+    "point-nemo",
+    "olbers-paradox",
+    "harrison-clocks"
+  ],
+  "surprise": 2
 }

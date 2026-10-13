@@ -39,5 +39,6 @@
     "alphazero-chess",
     "eliza-chatbot",
     "turing-imitation-game"
-  ]
+  ],
+  "surprise": 3
 }

@@ -46,7 +46,8 @@ Each topic is one file `<id>.json`:
     { "opening": "Penrose stairs", "linkId": null, "text": "..." }
   ],
   "tags": ["acoustics", "illusions", "perception"],
-  "related": ["mcgurk-effect", "amen-break", "theremin", "tetris-effect"]
+  "related": ["mcgurk-effect", "amen-break", "theremin", "tetris-effect"],
+  "surprise": 4
 }
 ```
 
@@ -63,3 +64,9 @@ Field rules:
 - Total of `lede` + all bullet `text`: **150–280 words**, roughly one to two phone screens. Shorter is fine when the subject is covered.
 - `tags`: 3–5 lowercase kebab-case niche tags. Reuse common ones where they fit so topics connect across categories. Suggested shared tags: `illusions`, `perception`, `acoustics`, `accidents`, `inventors`, `names`, `etymology`, `probability`, `infinity`, `patterns`, `color`, `design`, `cats`, `animal-minds`, `communication`, `fashion`, `history-of-things`, `myths-busted`, `time`, `calendars`, `maps`, `borders`, `architecture`, `weather`, `light`, `space-exploration`, `scale`, `games`, `ai`, `food-history`, `taste`, `memory`, `language-change`, `music-tech`, `records`.
 - `related`: 4–6 ids from the manifest, the topics a curious reader would want next. Mix same-category and cross-category. This is where cross-topic connections live.
+- `surprise`: an integer from 1 to 5 for how likely a curious, well-read, techy reader already knows the core fact in the hook.
+  - 1 means famous, e.g. the birthday paradox or the Monty Hall problem.
+  - 3 means about half would know it.
+  - 5 means almost nobody does.
+
+  The feed shows low scores less often, strongly for new readers and gently once someone has read a lot.

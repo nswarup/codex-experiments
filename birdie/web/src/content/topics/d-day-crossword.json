@@ -39,5 +39,6 @@
     "sudoku-number-place",
     "wordle",
     "scrabble-letters"
-  ]
+  ],
+  "surprise": 4
 }

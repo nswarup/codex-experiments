@@ -6,7 +6,8 @@
  *    category += 0.2 * (e - 0.3), tags += 0.15 * (e - 0.3).
  *  - Taps into a topic: +0.15 / +0.10. Asking Birdie about it: +0.20 / +0.15.
  *  - Scores clamp to 0-2 and drift 3% toward neutral each session.
- *  - Next topic: drop the last 20 seen, score = 0.6 * category + 0.4 * mean(tag),
+ *  - Next topic: drop the last 20 seen, score = 0.6 * category + 0.4 * mean(tag), times a
+ *    surprise weight that favours little-known facts (strongly for new readers),
  *    then 80%: weighted pick from the top 5; 20%: wildcard from an unpicked category.
  *    (The feed opens on a match and never shows two wildcards in a row.)
  *  - Closing nudges: 2 close (most shared tags, tie-break by score) + 1 wildcard
@@ -95,6 +96,23 @@ function weightedPick<T>(items: { item: T; w: number }[], rng: Rng): T {
   return items[items.length - 1].item;
 }
 
+/**
+ * Surprise: well-known topics (the birthday paradox) are shown less, most of all to new readers,
+ * whose first impression should be "wait, really?". The pull fades as a reader works through the
+ * library, so known classics still come round. Topics without a rating count as middling (3).
+ */
+export const SURPRISE_DEFAULT = 3;
+export const SURPRISE_NEW_READER = 0.8; // weight swing for someone on their first topic
+export const SURPRISE_SETTLED = 0.25; // swing once they have read SURPRISE_SETTLE_AFTER topics
+export const SURPRISE_SETTLE_AFTER = 60;
+
+export function surpriseWeight(p: Profile, t: Pick<Topic, "surprise">): number {
+  const s = Math.min(5, Math.max(1, t.surprise ?? SURPRISE_DEFAULT));
+  const seen = Math.min(1, p.seen.length / SURPRISE_SETTLE_AFTER);
+  const swing = SURPRISE_NEW_READER + (SURPRISE_SETTLED - SURPRISE_NEW_READER) * seen;
+  return 1 + swing * ((s - 3) / 2); // new reader: 1 → 0.2×, 5 → 1.8×; settled: 0.75× to 1.25×
+}
+
 /** How much a previously read topic counts against an unread one of equal score. */
 export const REREAD_WEIGHT = 0.35;
 
@@ -135,7 +153,7 @@ export function pickNext(
         [...candidates].sort((a, b) => catScore(p, a.category) - catScore(p, b.category)).slice(0, TOP_K * 2);
     if (wildPool.length) {
       // Within the wildcard, still lean toward niches the reader likes.
-      const ranked = wildPool.map((t) => ({ item: t, w: 0.2 + scoreTopic(p, t) })).sort((a, b) => b.w - a.w);
+      const ranked = wildPool.map((t) => ({ item: t, w: (0.2 + scoreTopic(p, t)) * surpriseWeight(p, t) })).sort((a, b) => b.w - a.w);
       return { topic: weightedPick(ranked.slice(0, TOP_K * 2), rng), reason: "wildcard" };
     }
   }
@@ -144,7 +162,7 @@ export function pickNext(
   const everSeen = new Set(p.seen.map((x) => x.id));
   const novelty = (t: Topic) => (everSeen.has(t.id) ? REREAD_WEIGHT : 1);
   const ranked = candidates
-    .map((t) => ({ item: t, w: scoreTopic(p, t) * novelty(t) }))
+    .map((t) => ({ item: t, w: scoreTopic(p, t) * novelty(t) * surpriseWeight(p, t) }))
     // Stable, deterministic tie-break so seeded tests are reproducible.
     .sort((a, b) => b.w - a.w || a.item.id.localeCompare(b.item.id));
   return { topic: weightedPick(ranked.slice(0, TOP_K), rng), reason: "match" };

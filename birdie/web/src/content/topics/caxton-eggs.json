@@ -27,6 +27,18 @@
       "text": "Caxton and the printers after him settled spellings while English vowels were still moving. The spellings stayed and the sounds kept changing, one reason English words are so often not said the way they are written."
     }
   ],
-  "tags": ["printing", "language-change", "history-of-things", "spelling"],
-  "related": ["letter-thorn", "great-vowel-shift", "dord", "ok-origin", "helvetica"]
+  "tags": [
+    "printing",
+    "language-change",
+    "history-of-things",
+    "spelling"
+  ],
+  "related": [
+    "letter-thorn",
+    "great-vowel-shift",
+    "dord",
+    "ok-origin",
+    "helvetica"
+  ],
+  "surprise": 5
 }

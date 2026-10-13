@@ -39,5 +39,6 @@
     "learning-styles",
     "marshmallow-test",
     "wason-selection-task"
-  ]
+  ],
+  "surprise": 2
 }

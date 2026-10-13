@@ -39,5 +39,6 @@
     "nimrod-computer",
     "game-and-watch",
     "adventure-easter-egg"
-  ]
+  ],
+  "surprise": 3
 }

@@ -39,5 +39,6 @@
     "space-invaders-speedup",
     "pac-man-name",
     "pinball-ban"
-  ]
+  ],
+  "surprise": 3
 }

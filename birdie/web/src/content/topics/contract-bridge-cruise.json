@@ -40,5 +40,6 @@
     "uno-stacking",
     "fifty-two-factorial",
     "windows-solitaire"
-  ]
+  ],
+  "surprise": 5
 }

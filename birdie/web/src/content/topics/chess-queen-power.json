@@ -40,5 +40,6 @@
     "el-ajedrecista",
     "elo-rating",
     "ace-of-spades-tax"
-  ]
+  ],
+  "surprise": 4
 }

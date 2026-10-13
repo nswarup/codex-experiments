@@ -29,6 +29,11 @@ export interface Topic {
   stub?: boolean;
   /** Body word count, known before the body loads (library topics). */
   words?: number;
+  /**
+   * How surprising the core fact is to a well-read reader: 1 = famous (the birthday paradox),
+   * 5 = almost nobody knows it. Widely known topics are shown less, most of all to new readers.
+   */
+  surprise?: number;
 }
 
 export type Theme = "dark" | "sepia" | "light";

@@ -45,5 +45,6 @@
     "machine-stops",
     "dartmouth-ai-summer",
     "turing-imitation-game"
-  ]
+  ],
+  "surprise": 5
 }

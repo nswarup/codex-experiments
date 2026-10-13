@@ -39,5 +39,6 @@
     "speech-to-song-illusion",
     "forer-effect",
     "choice-blindness"
-  ]
+  ],
+  "surprise": 4
 }

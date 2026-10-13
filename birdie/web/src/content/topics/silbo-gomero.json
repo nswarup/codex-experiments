@@ -39,5 +39,6 @@
     "toki-pona",
     "great-vowel-shift",
     "mcgurk-effect"
-  ]
+  ],
+  "surprise": 3
 }

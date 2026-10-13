@@ -39,5 +39,6 @@
     "galton-board",
     "birthday-paradox",
     "baader-meinhof"
-  ]
+  ],
+  "surprise": 3
 }

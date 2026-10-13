@@ -40,5 +40,6 @@
     "el-ajedrecista",
     "shannon-number",
     "alphazero-chess"
-  ]
+  ],
+  "surprise": 3
 }

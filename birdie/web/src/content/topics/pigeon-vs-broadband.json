@@ -39,5 +39,6 @@
     "arpanet-lo",
     "ethernet-ether",
     "trojan-room-coffee-pot"
-  ]
+  ],
+  "surprise": 3
 }

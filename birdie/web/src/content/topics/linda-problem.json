@@ -40,5 +40,6 @@
     "monty-hall",
     "endowment-effect-mugs",
     "hot-hand"
-  ]
+  ],
+  "surprise": 2
 }

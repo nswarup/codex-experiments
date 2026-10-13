@@ -39,5 +39,6 @@
     "menace-matchboxes",
     "mechanical-turk",
     "connect-four-solved"
-  ]
+  ],
+  "surprise": 4
 }

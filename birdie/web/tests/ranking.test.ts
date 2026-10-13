@@ -1,7 +1,7 @@
 import { describe, expect, it } from "vitest";
 import {
   applyAsk, applyEngagement, applyTap, createProfile, drift, markSeen, pickNext, pickNudges,
-  scoreTopic, seededRng, NEUTRAL, WILDCARD_RATE, FEED_WILDCARD_RATE,
+  scoreTopic, seededRng, surpriseWeight, NEUTRAL, WILDCARD_RATE, FEED_WILDCARD_RATE,
   type RankedPick,
 } from "../src/lib/ranking";
 import type { Category, Topic } from "../src/lib/types";
@@ -151,5 +151,31 @@ describe("novelty", () => {
     }
     // Uniform would be about 1/5 of the top five; novelty should clearly beat that.
     expect(hits / 400).toBeGreaterThan(0.3);
+  });
+});
+
+describe("surprise", () => {
+  const t = (id: string, surprise: number): Topic =>
+    ({ id, title: id, category: "Math", hook: "", peek: "", lede: "", bullets: [], tags: ["x"], related: [], surprise }) as Topic;
+
+  it("demotes well-known topics hard for new readers and gently for settled ones", () => {
+    const fresh = createProfile(picks);
+    expect(surpriseWeight(fresh, { surprise: 1 })).toBeCloseTo(0.2);
+    expect(surpriseWeight(fresh, { surprise: 5 })).toBeCloseTo(1.8);
+    expect(surpriseWeight(fresh, {})).toBe(1);
+    let settled = fresh;
+    for (let i = 0; i < 80; i++) settled = markSeen(settled, `s${i}`, i);
+    expect(surpriseWeight(settled, { surprise: 1 })).toBeCloseTo(0.75);
+    expect(surpriseWeight(settled, { surprise: 5 })).toBeCloseTo(1.25);
+  });
+
+  it("a new reader mostly gets the little-known topic first", () => {
+    const pool = [t("known", 1), t("obscure", 5)];
+    const rng = seededRng(3);
+    let obscure = 0;
+    for (let i = 0; i < 2000; i++) {
+      if (pickNext(createProfile(picks), pool, rng, new Set(), { allowWildcard: false })!.topic.id === "obscure") obscure++;
+    }
+    expect(obscure / 2000).toBeGreaterThan(0.85);
   });
 });

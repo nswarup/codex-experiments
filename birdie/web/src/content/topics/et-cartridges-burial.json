@@ -39,5 +39,6 @@
     "pac-man-name",
     "adventure-easter-egg",
     "tetris-origin"
-  ]
+  ],
+  "surprise": 1
 }

@@ -167,3 +167,11 @@ The writing agents and two independent fact-check passes flagged a few items you
 ## Not built (v1 / v2)
 
 Accounts and sync, images, analytics (v1); news-driven topics (v2).
+
+## Surprise score (October 2026)
+Each library topic now has a `surprise` score from 1 to 5: how likely a curious, well-read, techy reader already knows its core fact (1 = the birthday paradox, 5 = Kushim). The feed multiplies a topic's ranking weight by `surpriseWeight` (`web/src/lib/ranking.ts`):
+- For a new reader the weight runs from 0.2× (score 1) to 1.8× (score 5), so the first topics are "wait, really?" ones.
+- The swing narrows to between 0.75× and 1.25× by the 60th topic read. That way well-known classics still turn up for regular readers, who may not know them all.
+- Topics with no score count as 3 (×1), including ones generated on demand.
+
+The scores were set by AI reviewers against fixed anchor examples. The spread is roughly 10% 1s, 21% 2s, 30% 3s, 25% 4s and 15% 5s. `scripts/validate_corpus.py` requires a score on every library topic.

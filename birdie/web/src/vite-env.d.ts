@@ -15,6 +15,7 @@ declare module "virtual:corpus-index" {
     tags: string[];
     related: string[];
     words: number;
+    surprise?: number;
   }[];
   export default index;
 }

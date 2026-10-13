@@ -39,5 +39,6 @@
     "perceptron-1958",
     "etaoin-shrdlu",
     "eliza-chatbot"
-  ]
+  ],
+  "surprise": 2
 }

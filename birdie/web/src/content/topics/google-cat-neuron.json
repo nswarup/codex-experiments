@@ -40,5 +40,6 @@
     "attention-is-all-you-need",
     "pareidolia",
     "perceptron-1958"
-  ]
+  ],
+  "surprise": 3
 }

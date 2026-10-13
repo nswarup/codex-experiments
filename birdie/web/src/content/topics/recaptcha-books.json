@@ -39,5 +39,6 @@
     "turing-imitation-game",
     "qr-code-go",
     "etaoin-shrdlu"
-  ]
+  ],
+  "surprise": 2
 }

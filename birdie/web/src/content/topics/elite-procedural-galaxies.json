@@ -39,5 +39,6 @@
     "game-of-life",
     "space-invaders-speedup",
     "fibonacci-sunflowers"
-  ]
+  ],
+  "surprise": 4
 }

@@ -39,5 +39,6 @@
     "algorithm-word",
     "klingon",
     "byte-spelling"
-  ]
+  ],
+  "surprise": 1
 }

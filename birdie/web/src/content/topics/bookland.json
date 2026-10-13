@@ -27,6 +27,18 @@
       "text": "Bookland exists because books had to scan at the same tills as groceries. The bars under a book's ISBN are the same kind of code that first beeped through a supermarket checkout in 1974."
     }
   ],
-  "tags": ["publishing", "barcodes", "history-of-things", "names"],
-  "related": ["barcode-sand", "dord", "bir-tawil", "qwerty", "happy-birthday-copyright"]
+  "tags": [
+    "publishing",
+    "barcodes",
+    "history-of-things",
+    "names"
+  ],
+  "related": [
+    "barcode-sand",
+    "dord",
+    "bir-tawil",
+    "qwerty",
+    "happy-birthday-copyright"
+  ],
+  "surprise": 5
 }

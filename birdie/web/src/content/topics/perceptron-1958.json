@@ -39,5 +39,6 @@
     "shakey-robot",
     "attention-is-all-you-need",
     "word2vec-king-queen"
-  ]
+  ],
+  "surprise": 4
 }

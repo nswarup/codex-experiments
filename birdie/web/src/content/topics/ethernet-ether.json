@@ -40,5 +40,6 @@
     "wifi-black-holes",
     "arpanet-lo",
     "google-googol"
-  ]
+  ],
+  "surprise": 3
 }

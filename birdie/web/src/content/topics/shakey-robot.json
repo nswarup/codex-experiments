@@ -40,5 +40,6 @@
     "konigsberg-bridges",
     "voyager-computers",
     "janken-robot"
-  ]
+  ],
+  "surprise": 4
 }

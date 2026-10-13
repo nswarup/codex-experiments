@@ -45,5 +45,6 @@
     "dart-dimorphos",
     "drake-equation",
     "pulsar-lgm1"
-  ]
+  ],
+  "surprise": 2
 }

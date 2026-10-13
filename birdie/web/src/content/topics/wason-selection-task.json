@@ -38,5 +38,6 @@
     "monty-hall",
     "forer-effect",
     "barber-paradox"
-  ]
+  ],
+  "surprise": 3
 }

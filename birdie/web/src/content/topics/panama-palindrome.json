@@ -40,5 +40,6 @@
     "garden-path-sentence",
     "spoonerism",
     "first-crossword"
-  ]
+  ],
+  "surprise": 5
 }

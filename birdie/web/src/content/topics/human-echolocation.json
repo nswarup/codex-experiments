@@ -40,5 +40,6 @@
     "mcgurk-effect",
     "recorded-voice",
     "dolphin-names"
-  ]
+  ],
+  "surprise": 2
 }

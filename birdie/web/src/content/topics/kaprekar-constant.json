@@ -44,5 +44,6 @@
     "ulam-spiral",
     "gauss-schoolboy-sum",
     "fifteen-puzzle"
-  ]
+  ],
+  "surprise": 4
 }

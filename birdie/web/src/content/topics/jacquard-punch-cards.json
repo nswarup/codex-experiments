@@ -41,5 +41,6 @@
     "core-rope-memory",
     "paisley-pattern",
     "ibm-ramac"
-  ]
+  ],
+  "surprise": 2
 }

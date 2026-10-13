@@ -39,5 +39,6 @@
     "contract-bridge-cruise",
     "uno-stacking",
     "windows-solitaire"
-  ]
+  ],
+  "surprise": 5
 }

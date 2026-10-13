@@ -40,5 +40,6 @@
     "perceptron-1958",
     "eliza-chatbot",
     "infinite-monkey-theorem"
-  ]
+  ],
+  "surprise": 5
 }

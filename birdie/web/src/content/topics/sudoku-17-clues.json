@@ -39,5 +39,6 @@
     "gods-number",
     "checkers-solved-chinook",
     "fifteen-puzzle"
-  ]
+  ],
+  "surprise": 3
 }

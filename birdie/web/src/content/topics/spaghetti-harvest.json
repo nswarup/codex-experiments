@@ -39,5 +39,6 @@
     "fake-wasabi",
     "fortune-cookies",
     "test-card-f"
-  ]
+  ],
+  "surprise": 1
 }

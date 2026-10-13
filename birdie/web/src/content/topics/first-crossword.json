@@ -39,5 +39,6 @@
     "wordle",
     "scrabble-letters",
     "trivial-pursuit-scrabble"
-  ]
+  ],
+  "surprise": 4
 }

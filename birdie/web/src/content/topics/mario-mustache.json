@@ -39,5 +39,6 @@
     "game-and-watch",
     "space-invaders-speedup",
     "game-boy"
-  ]
+  ],
+  "surprise": 2
 }

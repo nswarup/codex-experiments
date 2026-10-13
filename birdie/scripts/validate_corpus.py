@@ -125,6 +125,9 @@ def main(argv):
                 warn(f"bullet {i} text {tw} words")
         if not (130 <= total <= 300):
             warn(f"body {total} words (target 150-280)")
+        sp = t.get("surprise")
+        if not (isinstance(sp, int) and 1 <= sp <= 5):
+            err(f"surprise must be an integer 1-5, got {sp!r}")
         tags = t["tags"]
         if not (3 <= len(tags) <= 5) or any(not re.fullmatch(r"[a-z0-9]+(-[a-z0-9]+)*", x) for x in tags):
             err(f"tags invalid: {tags}")

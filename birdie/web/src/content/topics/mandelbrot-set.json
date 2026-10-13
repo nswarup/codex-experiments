@@ -44,5 +44,6 @@
     "game-of-life",
     "ulam-spiral",
     "collatz-conjecture"
-  ]
+  ],
+  "surprise": 1
 }

@@ -39,5 +39,6 @@
     "hangul",
     "cherokee-syllabary",
     "phone-keypad-layout"
-  ]
+  ],
+  "surprise": 4
 }

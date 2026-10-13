@@ -40,5 +40,6 @@
     "spaces-between-words",
     "letter-thorn",
     "boustrophedon"
-  ]
+  ],
+  "surprise": 5
 }

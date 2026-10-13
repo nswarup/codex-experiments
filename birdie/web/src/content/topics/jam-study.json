@@ -39,5 +39,6 @@
     "power-posing",
     "ego-depletion",
     "marshmallow-test"
-  ]
+  ],
+  "surprise": 3
 }

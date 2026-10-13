@@ -39,5 +39,6 @@
     "ebbinghaus-forgetting-curve",
     "mozart-effect",
     "ego-depletion"
-  ]
+  ],
+  "surprise": 2
 }

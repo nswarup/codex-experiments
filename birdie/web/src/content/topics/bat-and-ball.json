@@ -39,5 +39,6 @@
     "monty-hall",
     "birthday-paradox",
     "hot-hand"
-  ]
+  ],
+  "surprise": 1
 }

@@ -34,5 +34,6 @@
     "benfords-law",
     "buffalo-sentence",
     "pac-man-name"
-  ]
+  ],
+  "surprise": 5
 }

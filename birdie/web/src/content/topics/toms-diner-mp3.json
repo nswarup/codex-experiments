@@ -40,5 +40,6 @@
     "phonemic-restoration",
     "missing-fundamental",
     "auto-tune"
-  ]
+  ],
+  "surprise": 3
 }

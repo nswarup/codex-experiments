@@ -39,5 +39,6 @@
     "mcgurk-effect",
     "human-echolocation",
     "spotlight-effect"
-  ]
+  ],
+  "surprise": 1
 }

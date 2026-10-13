@@ -40,5 +40,6 @@
     "imagenet-labelers",
     "mendel-peas",
     "turing-patterns"
-  ]
+  ],
+  "surprise": 1
 }

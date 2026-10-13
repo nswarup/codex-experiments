@@ -40,5 +40,6 @@
     "marked-island",
     "haskell-free-library",
     "pheasant-island"
-  ]
+  ],
+  "surprise": 4
 }

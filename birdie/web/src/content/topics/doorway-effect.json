@@ -44,5 +44,6 @@
     "ebbinghaus-forgetting-curve",
     "invisible-gorilla",
     "memory-palace"
-  ]
+  ],
+  "surprise": 2
 }

@@ -39,5 +39,6 @@
     "kaprekar-constant",
     "gauss-schoolboy-sum",
     "largest-known-prime"
-  ]
+  ],
+  "surprise": 2
 }

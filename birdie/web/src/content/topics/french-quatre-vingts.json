@@ -39,5 +39,6 @@
     "webster-spelling",
     "great-vowel-shift",
     "debt-silent-b"
-  ]
+  ],
+  "surprise": 2
 }

@@ -39,5 +39,6 @@
     "wow-signal",
     "gps-relativity",
     "ethernet-ether"
-  ]
+  ],
+  "surprise": 5
 }

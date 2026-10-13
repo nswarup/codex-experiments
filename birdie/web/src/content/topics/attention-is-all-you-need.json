@@ -40,5 +40,6 @@
     "move-37",
     "google-cat-neuron",
     "imagenet-labelers"
-  ]
+  ],
+  "surprise": 4
 }

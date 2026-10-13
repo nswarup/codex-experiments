@@ -39,5 +39,6 @@
     "chess-queen-power",
     "backgammon-doubling-cube",
     "lewis-chessmen"
-  ]
+  ],
+  "surprise": 4
 }

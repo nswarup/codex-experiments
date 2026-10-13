@@ -39,5 +39,6 @@
     "pilcrow",
     "voynich-manuscript",
     "spaces-between-words"
-  ]
+  ],
+  "surprise": 2
 }

@@ -39,5 +39,6 @@
     "travelling-salesman-pubs",
     "konigsberg-bridges",
     "cats-eyes-road-studs"
-  ]
+  ],
+  "surprise": 3
 }

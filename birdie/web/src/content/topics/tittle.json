@@ -40,5 +40,6 @@
     "interrobang",
     "spaces-between-words",
     "letter-thorn"
-  ]
+  ],
+  "surprise": 2
 }

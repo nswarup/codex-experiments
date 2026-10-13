@@ -39,5 +39,6 @@
     "game-of-life",
     "chladni-figures",
     "penrose-tiling"
-  ]
+  ],
+  "surprise": 3
 }
