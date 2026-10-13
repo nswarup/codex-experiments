@@ -31,6 +31,13 @@ function sameSecret(a: string, b: string): boolean {
   return timingSafeEqual(ha, hb);
 }
 
+/** Phones capitalise the first letter of a field, so "Birdie" and "birdie" both count. */
+const firstLower = (s: string) => s.charAt(0).toLowerCase() + s.slice(1);
+export function matchesPassword(given: string): boolean {
+  const want = password();
+  return sameSecret(given, want) || sameSecret(firstLower(given), firstLower(want));
+}
+
 /** On Vercel, a missing password means "not set up yet": stay closed rather than open. */
 export const misconfigured = () => !!process.env.VERCEL && !authEnabled();
 
@@ -64,7 +71,7 @@ export async function login(c: Context) {
   if (recent.length >= TRIES) return c.json({ error: "Too many tries. Wait a few minutes and try again." }, 429);
   const body = (await c.req.json().catch(() => null)) as { password?: unknown } | null;
   const given = typeof body?.password === "string" ? body.password : "";
-  if (!authEnabled() || !sameSecret(given, password())) {
+  if (!authEnabled() || !matchesPassword(given)) {
     recent.push(now);
     attempts.set(ip, recent);
     return c.json({ error: "That's not it. Try again." }, 401);

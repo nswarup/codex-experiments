@@ -38,18 +38,15 @@ Each group's report, with a source URL for every fix, is in the session scratchp
 - **biblioburro:** written in the past tense, because no source shows the trips still running in 2026.
 - **dart-dimorphos:** the Hera line won't go stale when the probe arrives.
 
-## For you to decide
-These are judgment calls the reviewers left alone. Nothing in them is plainly false.
-
-| Article | Issue | Suggested change |
-|---|---|---|
-| squirrels-plant-forests | The title "…by forgetting" contradicts the first bullet: squirrels mostly remember. | Retitle "Squirrels plant forests with the nuts they don't come back for". |
-| raspberry-galaxy-centre | The title states "tastes of raspberries" as fact, but the last bullet calls it a stretch. | Retitle "The galaxy's centre and the raspberry molecule". |
-| world-cup-1930-two-balls | The half-time ball swap is disputed, but the title asserts it. | Retitle "The 1930 World Cup final's two-ball story". |
-| speech-information-rate | The title says "Every language…", but the study covered 17 languages. | Retitle "Fast or slow, languages carry about the same information". |
-| nicolas-bourbaki | The last bullet drifts away from its opening. | Trim the bullet to its first two sentences. |
-| ducks-one-eye-open | The "Turning around" bullet traces to a Radiolab retelling, not the 1999 paper. It is already softened. | Keep as is, or drop the bullet. |
-| haskell-free-library | Not false, but US border access rules changed in 2025 and a Canadian-side entrance opened in June 2026. | Add one bullet on the 2025–26 changes. |
+## Decided and applied (13 October 2026)
+- **Retitled:**
+  - squirrels-plant-forests → "Squirrels plant forests with the nuts they don't come back for"
+  - raspberry-galaxy-centre → "The galaxy's centre and the raspberry molecule"
+  - world-cup-1930-two-balls → "The 1930 World Cup final's two-ball story"
+  - speech-information-rate → "Fast or slow, languages carry about the same information"
+- **nicolas-bourbaki:** the empty-set bullet is trimmed to the symbol's origin.
+- **ducks-one-eye-open:** the Radiolab-only "Turning around" bullet is replaced with the 1999 study's looming-stimulus finding (Rattenborg, Lima and Amlaner, Nature).
+- **haskell-free-library:** added a bullet on the 2025 end of free US-side access and the Canadian-side entrance that opened in spring 2026.
 
 ## Still checked from memory only
 - **Whole articles:** bananas-are-berries, paisley-pattern, flat-earth-myth and chinese-room. All four are well-established subjects.

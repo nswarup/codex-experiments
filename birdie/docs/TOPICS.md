@@ -220,7 +220,7 @@ Regenerate with `python3 scripts/topics_md.py`.
 - **The North Star is temporary**: Polaris is only the North Star for now, because Earth's axis slowly wobbles.
 - **A teaspoon of neutron star**: A teaspoon of neutron star would weigh about a billion tonnes on Earth.
 - **Cosmic latte, the colour of the universe**: The average colour of the universe is a creamy beige called cosmic latte.
-- **The centre of the galaxy tastes of raspberries**: A gas cloud near the Milky Way's heart holds a molecule that flavours raspberries.
+- **The galaxy's centre and the raspberry molecule**: A gas cloud near the Milky Way's heart holds a molecule that flavours raspberries.
 - **The black hole that hums a B-flat**: A black hole in the Perseus cluster sounds a B-flat 57 octaves below middle C.
 
 ## Math (65)
@@ -644,7 +644,7 @@ Regenerate with `python3 scripts/topics_md.py`.
 - **Why Americans write 'color'**: American spelling was partly one man's project to give a new nation its own words.
 - **The missing comma that cost $5 million**: A lawsuit about dairy drivers' overtime came down to one missing comma.
 - **The language with no left or right**: Speakers say the cup is north of the plate, and they always know where north is.
-- **Every language carries about 39 bits a second**: Fast talkers and slow talkers end up sharing information at the same speed.
+- **Fast or slow, languages carry about the same information**: Fast talkers and slow talkers end up sharing information at the same speed.
 - **The Voder, the first electronic voice**: At the 1939 World's Fair, women played speech on a keyboard like an organ.
 - **A man, a plan, a canal: Panama**: The world's best-known palindrome first appeared in a British journal in 1948.
 - **Spoonerisms**: The Oxford don behind the word may have said very few spoonerisms himself.
@@ -772,7 +772,7 @@ Regenerate with `python3 scripts/topics_md.py`.
 - **The goalkeeper who invented the penalty**: Football's penalty kick was dreamed up by a goalkeeper from a small Irish village.
 - **Traffic lights and the yellow card**: Football's red and yellow cards were dreamed up at a set of London traffic lights.
 - **The referee's vanishing spray**: The white line a referee sprays at a free kick is meant to vanish within a minute.
-- **The 1930 World Cup final's two balls**: The first World Cup final is said to have used two different balls, one each half.
+- **The 1930 World Cup final's two-ball story**: The first World Cup final is said to have used two different balls, one each half.
 - **Curling stones from one island**: Most Olympic curling stones come from one small, empty island off Scotland.
 - **Why the Tour de France leader wears yellow**: The Tour de France leader wears yellow because of the newspaper that started the race.
 - **Snooker was invented in India**: Snooker is usually traced to bored army officers in central India in 1875.
@@ -958,7 +958,7 @@ Regenerate with `python3 scripts/topics_md.py`.
 - **Seahorse fathers give birth**: In seahorses it is the father who gets pregnant and gives birth.
 - **Koalas have fingerprints like ours**: Koala fingerprints are so like ours that experts struggle to tell them apart.
 - **Imo the sweet-potato-washing macaque**: A young monkey started washing her food, and her whole troop picked up the habit.
-- **Squirrels plant forests by forgetting**: The nuts squirrels never dig up again grow into the next generation of trees.
+- **Squirrels plant forests with the nuts they don't come back for**: The nuts squirrels never dig up again grow into the next generation of trees.
 - **Ducks sleep with one eye open**: Ducks at the end of a row sleep with half their brain awake and one eye watching.
 - **Swifts stay in the air for ten months**: Some common swifts fly for ten months straight without once touching the ground.
 - **Wisdom, the oldest wild bird**: A wild albatross banded in 1956 was still laying eggs more than 65 years later.

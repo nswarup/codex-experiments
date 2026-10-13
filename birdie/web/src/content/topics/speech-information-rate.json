@@ -1,6 +1,6 @@
 {
   "id": "speech-information-rate",
-  "title": "Every language carries about 39 bits a second",
+  "title": "Fast or slow, languages carry about the same information",
   "category": "Language",
   "hook": "Fast talkers and slow talkers end up sharing information at the same speed.",
   "peek": "Some languages sound rapid and others unhurried, but a 2019 study of 17 languages found they all pass along information at about 39 bits a second. Fast languages pack less into each syllable, and slow ones pack in more.",

@@ -36,6 +36,21 @@ describe("password gate", () => {
     expect(await res.text()).toContain('type="password"');
   });
 
+  it("accepts the password with or without a capital first letter, nothing looser", async () => {
+    const { matchesPassword } = await import("../src/auth");
+    const saved = process.env.BIRDIE_PASSWORD;
+    process.env.BIRDIE_PASSWORD = "birdie";
+    try {
+      expect(matchesPassword("birdie")).toBe(true);
+      expect(matchesPassword("Birdie")).toBe(true);
+      expect(matchesPassword("BIRDIE")).toBe(false);
+      expect(matchesPassword("bird")).toBe(false);
+      expect(matchesPassword("")).toBe(false);
+    } finally {
+      process.env.BIRDIE_PASSWORD = saved;
+    }
+  });
+
   it("rejects a wrong password and accepts the right one with an HttpOnly session cookie", async () => {
     const bad = await post("/api/login", { password: "nope" });
     expect(bad.status).toBe(401);
