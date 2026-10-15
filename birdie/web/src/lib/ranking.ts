@@ -133,6 +133,8 @@ export function pickNext(
   opts: { allowWildcard?: boolean; wildcardRate?: number } = {},
 ): RankedPick | null {
   const recent = recentIds(p);
+  // A thumbed-down topic never comes back, even once the library runs dry.
+  pool = pool.filter((t) => p.votes?.[t.id] !== -1);
   let candidates = pool.filter((t) => !recent.has(t.id) && !exclude.has(t.id));
   if (!candidates.length) {
     // Library exhausted: resurface the least recently seen, never the current feed.
@@ -176,7 +178,7 @@ export function pickNudges(
   exclude: Set<string> = new Set(),
 ): { close: Topic[]; wildcard: Topic | null } {
   const recent = recentIds(p, 8);
-  const usable = pool.filter((t) => t.id !== current.id && !exclude.has(t.id));
+  const usable = pool.filter((t) => t.id !== current.id && !exclude.has(t.id) && p.votes?.[t.id] !== -1);
   const fresh = usable.filter((t) => !recent.has(t.id));
   const base = fresh.length >= 3 ? fresh : usable;
   const tagSet = new Set(current.tags);
@@ -226,6 +228,24 @@ export function applyEngagement(
 
 export function applyTap(p: Profile, t: Pick<Topic, "category" | "tags">): Profile {
   return bump(p, t, 0.15, 0.1);
+}
+
+/** A thumbs vote is the strongest signal Birdie gets: worth about two full reads. */
+export const VOTE_CAT = 0.3;
+export const VOTE_TAG = 0.2;
+
+/**
+ * Set (or clear, with 0) the reader's thumbs vote on a topic. Changing a vote only applies the
+ * difference, so up then down is -1 overall and tapping again to undo removes it.
+ */
+export function applyVote(p: Profile, t: Pick<Topic, "id" | "category" | "tags">, vote: 1 | -1 | 0): Profile {
+  const prev = p.votes?.[t.id] ?? 0;
+  const d = vote - prev;
+  if (!d) return p;
+  const votes = { ...(p.votes ?? {}) };
+  if (vote) votes[t.id] = vote;
+  else delete votes[t.id];
+  return { ...bump(p, t, VOTE_CAT * d, VOTE_TAG * d), votes };
 }
 
 export function applyAsk(p: Profile, t: Pick<Topic, "category" | "tags">): Profile {

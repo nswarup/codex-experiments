@@ -67,6 +67,8 @@ export interface Profile {
   tag: Record<string, number>;
   /** Most recent first. */
   seen: { id: string; at: number }[];
+  /** Thumbs at the end of an article: 1 = up, -1 = down. Absent = no vote. */
+  votes?: Record<string, 1 | -1>;
   sessions: number;
 }
 

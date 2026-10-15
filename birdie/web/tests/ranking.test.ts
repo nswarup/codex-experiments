@@ -1,7 +1,7 @@
 import { describe, expect, it } from "vitest";
 import {
   applyAsk, applyEngagement, applyTap, createProfile, drift, markSeen, pickNext, pickNudges,
-  scoreTopic, seededRng, surpriseWeight, NEUTRAL, WILDCARD_RATE, FEED_WILDCARD_RATE,
+  scoreTopic, seededRng, surpriseWeight, applyVote, VOTE_CAT, NEUTRAL, WILDCARD_RATE, FEED_WILDCARD_RATE,
   type RankedPick,
 } from "../src/lib/ranking";
 import type { Category, Topic } from "../src/lib/types";
@@ -177,5 +177,35 @@ describe("surprise", () => {
       if (pickNext(createProfile(picks), pool, rng, new Set(), { allowWildcard: false })!.topic.id === "obscure") obscure++;
     }
     expect(obscure / 2000).toBeGreaterThan(0.85);
+  });
+});
+
+describe("thumbs votes", () => {
+  const t = (id: string, category: string, tags: string[]): Topic =>
+    ({ id, title: id, category, hook: "", peek: "", lede: "", bullets: [], tags, related: [] }) as Topic;
+
+  it("up and down move the category and tags, and undoing restores them", () => {
+    const p0 = createProfile(picks);
+    const a = t("a", "Music", ["x", "y"]);
+    const up = applyVote(p0, a, 1);
+    expect(up.cat.Music).toBeCloseTo(p0.cat.Music + VOTE_CAT);
+    expect(up.votes?.a).toBe(1);
+    const down = applyVote(up, a, -1);
+    expect(down.cat.Music).toBeCloseTo(p0.cat.Music - VOTE_CAT);
+    expect(down.votes?.a).toBe(-1);
+    const undone = applyVote(down, a, 0);
+    expect(undone.cat.Music).toBeCloseTo(p0.cat.Music);
+    expect(undone.votes?.a).toBeUndefined();
+  });
+
+  it("a thumbed-down topic never comes back, even when the library runs dry", () => {
+    const pool = [t("liked", "Math", ["x"]), t("disliked", "Math", ["x"])];
+    let p = applyVote(createProfile(picks), pool[1], -1);
+    p = markSeen(p, "liked", 1);
+    const rng = seededRng(5);
+    for (let i = 0; i < 200; i++) {
+      expect(pickNext(p, pool, rng, new Set(), { allowWildcard: false })?.topic.id).not.toBe("disliked");
+    }
+    expect(pickNudges(p, t("cur", "Math", ["x"]), pool).close.map((x) => x.id)).not.toContain("disliked");
   });
 });

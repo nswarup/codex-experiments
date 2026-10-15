@@ -133,6 +133,25 @@ test("search writes an article for exactly the words typed", async ({ page }) =>
   await expect(page.getByRole("heading", { name: "Tulip mania", level: 1 })).toBeVisible();
 });
 
+test("thumbs at the end of an article record a vote, toggle off, and persist", async ({ page }) => {
+  await onboard(page);
+  await page.getByRole("button", { name: "Skip tour" }).click();
+  const up = page.getByRole("button", { name: "More like this" }).first();
+  const down = page.getByRole("button", { name: "Fewer like this" }).first();
+  await up.click();
+  await expect(up).toHaveAttribute("aria-pressed", "true");
+  await down.click();
+  await expect(down).toHaveAttribute("aria-pressed", "true");
+  await expect(up).toHaveAttribute("aria-pressed", "false");
+  await expect(page.getByText("Got it. Fewer like this.")).toBeVisible();
+  // Saves are debounced; wait for the vote to land in storage.
+  await expect
+    .poll(() => page.evaluate(() => Object.values(JSON.parse(localStorage.getItem("birdie.state.v1") || "{}").profile?.votes ?? {})))
+    .toEqual([-1]);
+  await down.click();
+  await expect(down).toHaveAttribute("aria-pressed", "false");
+});
+
 test("reading settings switch theme and text size, and persist", async ({ page }) => {
   await onboard(page);
   await page.getByRole("button", { name: "Skip tour" }).click();

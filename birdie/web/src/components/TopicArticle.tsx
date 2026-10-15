@@ -2,11 +2,11 @@ import { notify } from "@/components/Notify";
 import { forwardRef } from "react";
 import { IS_ARTIFACT } from "@/lib/api";
 import { CORPUS_BY_ID } from "@/content";
-import { HelpCircle, Share, MessageSquare } from "lucide-react";
+import { HelpCircle, Share, MessageSquare, ThumbsDown, ThumbsUp } from "lucide-react";
 import { SaveIcon } from "./SaveIcon";
 import { savedFeedback } from "@/lib/saveFeedback";
 import type { Bullet, Category, Topic } from "@/lib/types";
-import { toggleSaved, useApp } from "@/lib/store";
+import { getTopic, toggleSaved, toggleVote, useApp } from "@/lib/store";
 import { openOverlay } from "@/lib/ui";
 import { requestTopic } from "@/lib/generate";
 import { cue, buzz } from "@/lib/feedback";
@@ -62,6 +62,15 @@ function openPeek(b: Bullet, fromTopic: ArticleView) {
 export const TopicArticle = forwardRef<HTMLElement, { view: ArticleView; reason?: "match" | "wildcard" | "opened"; tourAnchor?: boolean; actions?: boolean }>(
   function TopicArticle({ view, reason, tourAnchor = false, actions = true }, ref) {
     const saved = useApp((s) => s.saved.some((x) => x.id === view.id));
+    const vote = useApp((s) => s.profile?.votes?.[view.id] ?? 0);
+    const castVote = (v: 1 | -1) => {
+      const t = getTopic(view.id);
+      if (!t) return;
+      const next = toggleVote(t, v);
+      cue("toggle", { direction: next ? "forward" : "back", emphasis: "subtle" });
+      buzz(next ? [6, 30, 6] : 6);
+      if (next === -1) notify("Got it. Fewer like this.", { duration: 2200 });
+    };
     return (
       <article
         ref={ref}
@@ -130,7 +139,39 @@ export const TopicArticle = forwardRef<HTMLElement, { view: ArticleView; reason?
         {view.writing && view.lede && view.caret !== "lede" && !view.bullets.length && <SkeletonLines lines={3} className="mt-6 pl-[18px]" />}
 
         {actions && !view.writing && (
-          <div className="mt-8 -mr-3 -ml-3 flex flex-wrap items-center gap-x-1 text-muted">
+          // The reader's verdict: a strong ranking signal. Tap the same thumb again to take it back.
+          <div className="mt-8 flex flex-wrap items-center gap-x-2 gap-y-1 font-sans text-[14px] text-muted">
+            <span className="mr-1">Worth knowing?</span>
+            <button
+              type="button"
+              aria-label="More like this"
+              aria-pressed={vote === 1}
+              onClick={() => castVote(1)}
+              className={cn(
+                "press flex h-11 items-center gap-1.5 rounded-full border px-3.5 transition-colors duration-150",
+                vote === 1 ? "border-accent bg-accent text-accent-fg" : "border-chip",
+              )}
+            >
+              <ThumbsUp size={16} strokeWidth={1.8} aria-hidden="true" />
+              <span>Yes</span>
+            </button>
+            <button
+              type="button"
+              aria-label="Fewer like this"
+              aria-pressed={vote === -1}
+              onClick={() => castVote(-1)}
+              className={cn(
+                "press flex h-11 items-center gap-1.5 rounded-full border px-3.5 transition-colors duration-150",
+                vote === -1 ? "border-accent bg-accent text-accent-fg" : "border-chip",
+              )}
+            >
+              <ThumbsDown size={16} strokeWidth={1.8} aria-hidden="true" />
+              <span>Not for me</span>
+            </button>
+          </div>
+        )}
+        {actions && !view.writing && (
+          <div className="mt-3 -mr-3 -ml-3 flex flex-wrap items-center gap-x-1 text-muted">
             <ActionButton
               label={saved ? "Saved" : "Save"}
               // The button is the feedback: the bookmark fills and the label reads "Saved". Tap again to undo.

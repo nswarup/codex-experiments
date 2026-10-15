@@ -1,6 +1,6 @@
 import { useSyncExternalStore } from "react";
 import { CATEGORIES, type Category, type Prefs, type Profile, type Saved, type Topic } from "./types";
-import { applyAsk, applyEngagement, applyTap, createProfile, drift, markSeen, repick } from "./ranking";
+import { applyAsk, applyEngagement, applyTap, applyVote, createProfile, drift, markSeen, repick } from "./ranking";
 import { CORPUS_BY_ID, loadedBody } from "@/content";
 
 export interface AppState {
@@ -88,6 +88,9 @@ export function sanitize(parsed: unknown): AppState {
       tag: isObj(pr.tag) ? (pr.tag as Record<string, number>) : {},
       seen: (Array.isArray(pr.seen) ? pr.seen : []).filter((x): x is Profile["seen"][number] => isObj(x) && typeof x.id === "string"),
       sessions: typeof pr.sessions === "number" ? pr.sessions : 0,
+      votes: isObj(pr.votes)
+        ? Object.fromEntries(Object.entries(pr.votes).filter((e): e is [string, 1 | -1] => e[1] === 1 || e[1] === -1))
+        : {},
     };
   }
   const generated: Record<string, Topic> = {};
@@ -258,6 +261,17 @@ export function recordTap(t: Topic) {
 
 export function recordAsk(t: Topic) {
   withProfile((p) => applyAsk(p, t));
+}
+
+export function voteOf(id: string): 1 | -1 | 0 {
+  return state.profile?.votes?.[id] ?? 0;
+}
+
+/** Thumbs up or down; tapping the same thumb again takes the vote back. Returns the new vote. */
+export function toggleVote(t: Topic, vote: 1 | -1): 1 | -1 | 0 {
+  const next = voteOf(t.id) === vote ? 0 : vote;
+  withProfile((p) => applyVote(p, t, next));
+  return next;
 }
 
 export function isSaved(id: string) {
