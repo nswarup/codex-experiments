@@ -1,1 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><rect width="512" height="512" rx="112" fill="#F1EFE6"/><g transform="translate(64 60) scale(6)"><path d="M45 13a9 9 0 0 1 8.6 6.4L61 21.5l-7 3.2C53 40 41 52 25 52H5l9-8.5C10.5 39 10 33 12.6 28 17 19.5 27 16 35.5 19.2 37.4 15.5 41 13 45 13z" fill="#7E9C86"/><path d="M15 44C17 31 28 24.5 43 27c-3.5 12-14 18-28 17z" fill="#C8D5CA"/><circle cx="47" cy="19.5" r="2.2" fill="#F1EFE6"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+<title>Phoenix</title>
+<defs>
+<radialGradient id="px-sun" cx="0.5" cy="0.5" r="0.5">
+  <stop offset="0" stop-color="#F6C453" stop-opacity="0.45"/>
+  <stop offset="1" stop-color="#F6C453" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="px-wA" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#F6C453"/><stop offset="0.3" stop-color="#C46AA8"/>
+  <stop offset="0.6" stop-color="#8A44B8"/><stop offset="1" stop-color="#5B2A86"/>
+</linearGradient>
+<linearGradient id="px-wB" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#FAD77A"/><stop offset="0.3" stop-color="#B05AB8"/>
+  <stop offset="0.6" stop-color="#7436A6"/><stop offset="1" stop-color="#4C2278"/>
+</linearGradient>
+<linearGradient id="px-tl" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#F28AA6"/><stop offset="0.3" stop-color="#F28AA6"/>
+  <stop offset="0.45" stop-color="#4A78E0"/><stop offset="1" stop-color="#2B4FB0"/>
+</linearGradient>
+</defs>
+<rect width="512" height="512" rx="112" fill="#17122E"/>
+<circle cx="256" cy="236" r="190" fill="url(#px-sun)"/>
+<path d="M0 0 C -22 -35.4 -17.6 -85 0 -118 C 17.6 -85 22 -35.4 0 0 Z" transform="translate(256 318) rotate(150)" fill="url(#px-tl)"/>
+<path d="M0 0 C -22 -41.4 -17.6 -99.4 0 -138 C 17.6 -99.4 22 -41.4 0 0 Z" transform="translate(256 318) rotate(165)" fill="url(#px-tl)"/>
+<path d="M0 0 C -22 -45 -17.6 -108 0 -150 C 17.6 -108 22 -45 0 0 Z" transform="translate(256 318) rotate(180)" fill="url(#px-tl)"/>
+<path d="M0 0 C -22 -41.4 -17.6 -99.4 0 -138 C 17.6 -99.4 22 -41.4 0 0 Z" transform="translate(256 318) rotate(195)" fill="url(#px-tl)"/>
+<path d="M0 0 C -22 -35.4 -17.6 -85 0 -118 C 17.6 -85 22 -35.4 0 0 Z" transform="translate(256 318) rotate(210)" fill="url(#px-tl)"/>
+<path d="M0 0 C -27 -61.5 -21.6 -147.6 0 -205 C 21.6 -147.6 27 -61.5 0 0 Z" transform="translate(240 262) rotate(-18)" fill="url(#px-wA)"/>
+<path d="M0 0 C -27 -61.5 -21.6 -147.6 0 -205 C 21.6 -147.6 27 -61.5 0 0 Z" transform="translate(272 262) rotate(18)" fill="url(#px-wA)"/>
+<path d="M0 0 C -27 -54.6 -21.6 -131 0 -182 C 21.6 -131 27 -54.6 0 0 Z" transform="translate(240 262) rotate(-38)" fill="url(#px-wB)"/>
+<path d="M0 0 C -27 -54.6 -21.6 -131 0 -182 C 21.6 -131 27 -54.6 0 0 Z" transform="translate(272 262) rotate(38)" fill="url(#px-wB)"/>
+<path d="M0 0 C -27 -46.8 -21.6 -112.3 0 -156 C 21.6 -112.3 27 -46.8 0 0 Z" transform="translate(240 262) rotate(-58)" fill="url(#px-wA)"/>
+<path d="M0 0 C -27 -46.8 -21.6 -112.3 0 -156 C 21.6 -112.3 27 -46.8 0 0 Z" transform="translate(272 262) rotate(58)" fill="url(#px-wA)"/>
+<path d="M0 0 C -27 -37.8 -21.6 -90.7 0 -126 C 21.6 -90.7 27 -37.8 0 0 Z" transform="translate(240 262) rotate(-78)" fill="url(#px-wB)"/>
+<path d="M0 0 C -27 -37.8 -21.6 -90.7 0 -126 C 21.6 -90.7 27 -37.8 0 0 Z" transform="translate(272 262) rotate(78)" fill="url(#px-wB)"/>
+<path d="M256 212 C 292 228 298 298 256 342 C 214 298 220 228 256 212 Z" fill="#7A3CA8"/>
+<ellipse cx="256" cy="222" rx="17" ry="22" fill="#F6C453"/>
+<path d="M0 0 C -7 -13.8 -5.6 -33.1 0 -46 C 5.6 -33.1 7 -13.8 0 0 Z" transform="translate(264 170) rotate(22)" fill="#F6C453"/>
+<path d="M0 0 C -7 -12 -5.6 -28.8 0 -40 C 5.6 -28.8 7 -12 0 0 Z" transform="translate(264 170) rotate(42)" fill="#F6C453"/>
+<path d="M0 0 C -7 -9.6 -5.6 -23 0 -32 C 5.6 -23 7 -9.6 0 0 Z" transform="translate(264 170) rotate(62)" fill="#F6C453"/>
+<circle cx="256" cy="188" r="25" fill="#F6C453"/>
+<path d="M236 180 L208 194 L238 200 Z" fill="#FFE3A1"/>
+<circle cx="249" cy="184" r="4.5" fill="#17122E"/>
+</svg>

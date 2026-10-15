@@ -98,7 +98,7 @@ export const requireAuth: MiddlewareHandler = async (c, next) => {
   if (misconfigured()) return c.html(setupPage(), 503);
   if (isAuthed(c)) return next();
   const path = new URL(c.req.url).pathname;
-  if (path === "/login" || path === "/api/login" || path === "/api/health" || path === "/icon.svg" || path === "/icon-192.png") return next();
+  if (path === "/login" || path === "/api/login" || path === "/api/health" || path === "/icon.svg" || path === "/icon-192.png" || path === "/apple-touch-icon.png") return next();
   if (path.startsWith("/api/")) return c.json({ error: "Please sign in again." }, 401);
   const nextPath = path === "/" ? "" : `?next=${encodeURIComponent(path)}`;
   return c.redirect(`/login${nextPath}`, 302);
@@ -155,7 +155,7 @@ const page = (body: string, script = "") => `<!doctype html>
 <meta name="theme-color" content="#6f8d77">
 <title>Birdie</title>
 <link rel="icon" type="image/svg+xml" href="/icon.svg">
-<link rel="apple-touch-icon" href="/icon-192.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <style>${BRAND_CSS}
   label { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
   .field { display: flex; align-items: center; height: 54px; border-radius: 999px; background: var(--field); box-shadow: inset 0 0 0 1px var(--line); padding: 0 6px 0 20px; transition: box-shadow .15s ease; }

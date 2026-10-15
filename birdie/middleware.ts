@@ -31,7 +31,7 @@ export default function middleware(req: Request) {
   if (url.pathname === "/login") return authed ? Response.redirect(new URL("/", url), 302) : html(loginPage());
   if (authed) return next();
   if (url.pathname.startsWith("/api/")) return Response.json({ error: "Please sign in again." }, { status: 401 });
-  if (url.pathname === "/icon.svg" || url.pathname === "/icon-192.png") return next();
+  if (url.pathname === "/icon.svg" || url.pathname === "/icon-192.png" || url.pathname === "/apple-touch-icon.png") return next();
   const target = new URL("/login", url);
   if (url.pathname !== "/") target.searchParams.set("next", url.pathname);
   return Response.redirect(target, 302);
