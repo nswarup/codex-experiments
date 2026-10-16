@@ -48,7 +48,9 @@ export default defineConfig({
     react(),
     tailwindcss(),
     !ARTIFACT && VitePWA({
-      registerType: "autoUpdate",
+      // Registered and handed over by src/lib/updates.ts, so a deploy never reloads mid-article.
+      registerType: "prompt",
+      injectRegister: false,
       includeAssets: ["icon.svg", "apple-touch-icon.png"],
       manifest: {
         name: "Birdie",
@@ -67,7 +69,16 @@ export default defineConfig({
       },
       workbox: {
         globPatterns: ["**/*.{js,css,html,svg,png,woff2}"],
-        globIgnores: ["**/*cyrillic*", "**/*greek*", "**/*vietnamese*"],
+        // Article bodies (1,000 small files) aren't precached: a new version would have to fetch
+        // them all before it could take over. They're cached as they're read instead.
+        globIgnores: ["**/assets/topics/**", "**/*cyrillic*", "**/*greek*", "**/*vietnamese*"],
+        runtimeCaching: [
+          {
+            urlPattern: ({ url }) => url.pathname.startsWith("/assets/topics/"),
+            handler: "CacheFirst",
+            options: { cacheName: "birdie-articles", expiration: { maxEntries: 400 } },
+          },
+        ],
         // The sign-in page and API always come from the server, never the offline cache.
         navigateFallbackDenylist: [/^\/api\//, /^\/login/],
       },
@@ -84,7 +95,12 @@ export default defineConfig({
       input: { index: path.resolve(import.meta.dirname, "index.html"), viewer: path.resolve(import.meta.dirname, "viewer.html") },
       // The artifact host caps how many files a page can publish, so its copy keeps every
       // article body in one chunk. The web app loads each body as its own small file.
-      output: ARTIFACT ? { manualChunks: (id: string) => (id.includes("/content/topics/") ? "corpus" : undefined) } : undefined,
+      output: ARTIFACT
+        ? { manualChunks: (id: string) => (id.includes("/content/topics/") ? "corpus" : undefined) }
+        : {
+            chunkFileNames: (c: { facadeModuleId: string | null }) =>
+              c.facadeModuleId?.includes("/content/topics/") ? "assets/topics/[name]-[hash].js" : "assets/[name]-[hash].js",
+          },
     },
   },
   test: { environment: "node", include: ["tests/**/*.test.ts"] },

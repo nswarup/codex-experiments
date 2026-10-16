@@ -11,10 +11,14 @@ export default defineConfig({
   reporter: [["list"]],
   use: {
     baseURL: "http://127.0.0.1:5199",
-    ...devices["iPhone 13"],
-    browserName: "chromium",
     launchOptions: process.env.PW_CHROMIUM ? { executablePath: process.env.PW_CHROMIUM } : {},
   },
+  // Same suite on a phone and on a desktop browser (mouse, no touch, wide window), so the
+  // two can't drift apart.
+  projects: [
+    { name: "mobile", use: { ...devices["iPhone 13"], browserName: "chromium" } },
+    { name: "desktop", use: { ...devices["Desktop Chrome"], viewport: { width: 1280, height: 800 } } },
+  ],
   webServer: [
     {
       command: "PORT=8799 BIRDIE_PROVIDER=mock npx tsx server/src/index.ts",

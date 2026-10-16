@@ -75,9 +75,11 @@ test("a topic opened from Next, maybe keeps going as a feed", async ({ page }) =
   await card.scrollIntoViewIfNeeded();
   await card.click();
   const pageScroller = page.locator("[data-page-scroller]").last();
-  await expect(pageScroller.locator("[data-article]")).toHaveCount(1);
+  // A tall desktop window can already show the next article; a phone shows just this one.
+  await expect(pageScroller.locator("[data-article]").first()).toBeVisible();
+  const before = await pageScroller.locator("[data-article]").count();
   for (let i = 0; i < 4; i++) await pageScroller.evaluate((e) => e.scrollBy(0, 2500));
-  await expect.poll(() => pageScroller.locator("[data-article]").count()).toBeGreaterThan(1);
+  await expect.poll(() => pageScroller.locator("[data-article]").count()).toBeGreaterThan(before);
 });
 
 test("Back says where it goes, and a long press jumps to the feed", async ({ page }) => {

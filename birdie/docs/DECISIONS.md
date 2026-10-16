@@ -175,3 +175,11 @@ Each library topic now has a `surprise` score from 1 to 5: how likely a curious,
 - Topics with no score count as 3 (×1), including ones generated on demand.
 
 The scores were set by AI reviewers against fixed anchor examples. The spread is roughly 10% 1s, 21% 2s, 30% 3s, 25% 4s and 15% 5s. `scripts/validate_corpus.py` requires a score on every library topic.
+
+## How new versions reach the phone
+
+- The service worker is registered by `web/src/lib/updates.ts`, not the plugin's auto-injected script, which never reloaded the page. A home-screen app could run an old build for days.
+- A new version installs in the background. Birdie checks for one each time it comes to the foreground, and every 30 minutes.
+- The new version takes over straight away if Birdie opened less than 5 seconds ago and the reader hasn't scrolled. Otherwise it takes over the next time the app goes to the background. Nothing reloads mid-article.
+- Article bodies (`assets/topics/`) are no longer precached. They are cached as they are read (CacheFirst, up to 400). Before this, a new version had to fetch all 1,000 article bodies before it could take over; now the precache is 28 files.
+- The Playwright suite runs twice, as `mobile` (iPhone 13, touch) and `desktop` (1280×800, mouse), so phone and desktop keep the same features.
