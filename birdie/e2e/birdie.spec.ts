@@ -60,8 +60,8 @@ test("feed article has dotted openings, a peek, and Next, maybe nudges", async (
   await peek.getByRole("button", { name: /Save for later/ }).click();
   await expect(peek.getByRole("button", { name: "Saved" })).toBeVisible();
   await peek.getByRole("button", { name: "Read", exact: true }).click();
-  await expect(page.getByRole("button", { name: "Back" })).toBeVisible();
-  await page.getByRole("button", { name: "Back" }).click();
+  await expect(page.getByRole("button", { name: /^Back to/ })).toBeVisible();
+  await page.getByRole("button", { name: /^Back to/ }).click();
 
   const nudges = page.getByRole("region", { name: "Next, maybe" }).first();
   await nudges.scrollIntoViewIfNeeded();
@@ -183,9 +183,9 @@ test("the back button closes sheets and pops pages without leaving the app", asy
   // Peek → Read pushes a page; back returns to the feed; back again does nothing harmful.
   await article.locator("a.opening").first().click();
   await page.getByRole("dialog").getByRole("button", { name: "Read", exact: true }).click();
-  await expect(page.getByRole("button", { name: "Back" })).toBeVisible();
+  await expect(page.getByRole("button", { name: /^Back to/ })).toBeVisible();
   await page.goBack();
-  await expect(page.getByRole("button", { name: "Back" })).toHaveCount(0);
+  await expect(page.getByRole("button", { name: /^Back to/ })).toHaveCount(0);
   await expect(page.locator("[data-article] h1").first()).toHaveText(title);
 
   // In-app back after a sheet on a pushed page also lands on the feed.
@@ -193,8 +193,8 @@ test("the back button closes sheets and pops pages without leaving the app", asy
   await page.getByRole("dialog").getByRole("button", { name: "Read", exact: true }).click();
   await page.getByRole("button", { name: "Reading settings" }).first().click();
   await page.goBack();
-  await page.getByRole("button", { name: "Back" }).click();
-  await expect(page.getByRole("button", { name: "Back" })).toHaveCount(0);
+  await page.getByRole("button", { name: /^Back to/ }).click();
+  await expect(page.getByRole("button", { name: /^Back to/ })).toHaveCount(0);
   await expect(page).toHaveURL(/127\.0\.0\.1:5199\/?$/);
 });
 
@@ -207,14 +207,14 @@ test("rapid close → pop → search push keeps history and the stack in sync", 
   await page.getByRole("button", { name: "Reading settings" }).first().click();
   // No waits between steps: queued history pops must not swallow the next push.
   await page.goBack();
-  await page.getByRole("button", { name: "Back" }).click();
+  await page.getByRole("button", { name: /^Back to/ }).click();
   await page.getByRole("button", { name: "Search" }).first().click();
   await page.locator("#search-input").fill("Tulip mania");
   await page.keyboard.press("Enter");
   await expect(page.getByRole("heading", { name: "Tulip mania", level: 1 })).toBeVisible();
-  await expect(page.getByRole("button", { name: "Back" })).toBeVisible();
+  await expect(page.getByRole("button", { name: /^Back to/ })).toBeVisible();
   await page.goBack();
-  await expect(page.getByRole("button", { name: "Back" })).toHaveCount(0);
+  await expect(page.getByRole("button", { name: /^Back to/ })).toHaveCount(0);
   await expect(page.locator("#search-input")).toHaveCount(0);
 });
 
@@ -270,4 +270,104 @@ test("no WCAG A/AA violations on the feed in all three themes", async ({ page })
     const r = await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze();
     expect(r.violations.map((v) => `${theme}: ${v.id}`)).toEqual([]);
   }
+});
+
+// --- History races: the phone's back and the in-app Back must never pull the stack and
+// history apart, however they interleave. CPU throttling (Chromium only) makes the
+// timing slips a busy phone hits now and then happen far more often.
+
+async function slowCpu(page: Page) {
+  const cdp = await page.context().newCDPSession(page);
+  await cdp.send("Emulation.setCPUThrottlingRate", { rate: 6 });
+}
+
+/** Once things settle, history and what's on screen agree, and walking back ends on the feed inside the app. */
+async function expectInSync(page: Page) {
+  // What history says vs what's on screen; a page that's still sliding out counts until it's gone.
+  const read = async () => {
+    const st = await page.evaluate(() => history.state as { depth?: number; overlay?: boolean } | null);
+    return {
+      history: { page: !!st && (st.depth ?? 1) > 1, sheet: !!st?.overlay },
+      screen: { page: (await page.getByRole("button", { name: /^Back to/ }).count()) > 0, sheet: (await page.getByRole("dialog").count()) > 0 },
+    };
+  };
+  for (let i = 0; i < 6; i++) {
+    await expect.poll(async () => { const r = await read(); return JSON.stringify(r.history) === JSON.stringify(r.screen); }, { timeout: 8000 }).toBe(true);
+    const { screen } = await read();
+    if (!screen.page && !screen.sheet) break;
+    await page.goBack();
+  }
+  await expect(page.getByRole("button", { name: /^Back to/ })).toHaveCount(0);
+  await expect(page).toHaveURL(/127\.0\.0\.1:5199\/?$/);
+}
+
+async function openFromNudge(page: Page) {
+  const scrollers = page.locator("[data-page-scroller]");
+  const scope = (await scrollers.count()) ? scrollers.last() : page;
+  const card = scope.getByRole("region", { name: "Next, maybe" }).first().getByRole("button").first();
+  await card.scrollIntoViewIfNeeded();
+  await card.click();
+  await expect(page.getByRole("button", { name: /^Back to/ }).last()).toBeVisible();
+}
+
+test("history race: rapid close → pop → search push, on a slow CPU", async ({ page }) => {
+  await onboard(page);
+  await page.getByRole("button", { name: "Skip tour" }).click();
+  await slowCpu(page);
+  const article = page.locator("[data-article]").first();
+  await article.locator("a.opening").first().click();
+  await page.getByRole("dialog").getByRole("button", { name: "Read", exact: true }).click();
+  await page.getByRole("button", { name: "Reading settings" }).first().click();
+  await page.goBack();
+  await page.getByRole("button", { name: /^Back to/ }).click();
+  await page.getByRole("button", { name: "Search" }).first().click();
+  await page.locator("#search-input").fill("Tulip mania");
+  await page.keyboard.press("Enter");
+  await expect(page.getByRole("heading", { name: "Tulip mania", level: 1 })).toBeVisible();
+  await page.goBack();
+  await expect(page.locator("#search-input")).toHaveCount(0);
+  await expectInSync(page);
+});
+
+test("history race: system back and in-app Back in the same instant", async ({ page }) => {
+  await onboard(page);
+  await page.getByRole("button", { name: "Skip tour" }).click();
+  await openFromNudge(page);
+  await openFromNudge(page);
+  await slowCpu(page);
+  await page.evaluate(() => {
+    history.back();
+    const backs = document.querySelectorAll<HTMLButtonElement>('button[aria-label^="Back to"]');
+    backs[backs.length - 1]?.click();
+  });
+  await expectInSync(page);
+});
+
+test("history race: in-app Back while the system back is closing a sheet", async ({ page }) => {
+  await onboard(page);
+  await page.getByRole("button", { name: "Skip tour" }).click();
+  await openFromNudge(page);
+  await page.getByRole("button", { name: "Reading settings" }).first().click();
+  await expect(page.getByRole("dialog")).toBeVisible();
+  await slowCpu(page);
+  await page.evaluate(() => history.back());
+  await page.getByRole("button", { name: /^Back to/ }).last().click({ force: true });
+  await expectInSync(page);
+});
+
+test("history: a long press from deep jumps to the feed, and forward steps straight back", async ({ page }) => {
+  await onboard(page);
+  await page.getByRole("button", { name: "Skip tour" }).click();
+  await openFromNudge(page);
+  await openFromNudge(page);
+  await openFromNudge(page);
+  const back = page.getByRole("button", { name: /^Back to/ }).last();
+  await back.hover();
+  await page.mouse.down();
+  await page.waitForTimeout(650);
+  await page.mouse.up();
+  await expect(page.getByRole("button", { name: /^Back to/ })).toHaveCount(0);
+  // Forward into pages the app no longer holds steps back to where the app really is.
+  await page.goForward();
+  await expectInSync(page);
 });
